@@ -1,0 +1,31 @@
+{
+  "id": "1485",
+  "title": "Acquirer: Ariadne Australia Limited, Kings Parking; Target: Secure Parking",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ariadne-australia-limited-kings-parking-target-secure-parking",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19108",
+  "industries": [],
+  "date_completed": "12 May 2004",
+  "date_completed_iso": "2004-05-12T12:00:00Z",
+  "date_commenced": "3 March 2004",
+  "date_commenced_iso": "2004-03-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ariadne Australia Limited, Kings Parking"
+  ],
+  "targets": [
+    "Secure Parking"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Kings Parking Group (owned by Ariadne Australia Limited) and Secure Parking Group (owned by Auspark Holdings Pty Ltd) propose to enter into a joint venture agreement (proposed JVA) to combine their car parking operations in Australia.",
+    "Market definition": "The following markets are relevant: 1. separate regional markets based on local government areas for the supply of casual car parking to customers; 2. separate regional markets based on local government areas for the supply of permanent car parking to customers; and 3. separate state markets for the acquisition of car park management services and leasing of car park facilities.",
+    "Competition analysis": "On the basis of the information provided by the parties, the proposed JVA does not appear to result in a substantial lessening of competition in the relevant markets for the following reasons: 1. the market concentration figures following the proposed JVA will not exceed the Commission's Merger Guidelines thresholds except for the Spring Hill area in Brisbane; 2. there a number of competitors to the merged entity, such as Wilsons Parking, Enacon and Care Park who may effectively constrain the exercise of market power by the merged entity; and 3. there appears to be significant countervailing power in the hands of building owners and customers.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Complaint",
+    "ANZSIC code": "6611"
+  }
+}

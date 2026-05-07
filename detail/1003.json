@@ -1,0 +1,44 @@
+{
+  "id": "1003",
+  "title": "Healthe Care Australia Pty Ltd - proposed acquisition of Central Lakes Equities Pty Ltd and East Maitland Private Hospital Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/healthe-care-australia-pty-ltd-proposed-acquisition-of-central-lakes-equities-pty-ltd-and-east-maitland-private-hospital-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30048",
+  "industries": [
+    "Medical Services"
+  ],
+  "date_completed": "9 November 2007",
+  "date_completed_iso": "2007-11-09T12:00:00Z",
+  "date_commenced": "26 October 2007",
+  "date_commenced_iso": "2007-10-26T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Healthe Care Australia Pty Ltd"
+  ],
+  "targets": [
+    "Central Lakes Equities Pty Ltd<br/> East Maitland Private Hospital Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "26 Oct 2007",
+      "date_iso": "2007-10-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Nov 2007",
+      "date_iso": "2007-11-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Nov 2007",
+      "date_iso": "2007-11-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Healthe Care Australia proposes to acquire Central Lakes Equities Pty Limited, the owner and operator of Toronto Private Hospital and all issued shares in East Maitland Private Hospital Limited, owner and operator of Maitland Private Hospital.",
+    "Market definition": "i. A market for the supply of private hospital services to health funds and the Repatriation Commission in the Hunter Valley, New South Wales (where Maitland Private Hospital is located); ii. A market for private hospital services to patients in the Hunter Valley, New South Wales (where Maitland Private Hospital is located); iii. A market for the supply of private hospital services to health funds and the Repatriation Commission in the greater Newcastle region (where Toronto Private Hospital is located); and iv. A market for the supply of private hospital services to patients in the greater Newcastle region (where Toronto Private Hospital is located). Market inquiries supported the definition of these markets.",
+    "Competition analysis": "The ACCC did not consider that the merged firm is likely to be in a position to impose competitive harm, either unilaterally by overriding the restraint that the health funds currently provide in preventing the imposition of higher prices, reducing services or decreasing competition for patient referrals, or in coordination with other private hospital providers in the greater Newcastle area or the Hunter Valley region.  As a consquence, the ACCC did not oppose the proposed acquisition."
+  }
+}

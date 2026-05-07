@@ -1,0 +1,59 @@
+{
+  "id": "0281",
+  "title": "Foxtel - proposed acquisition arrangements with Ten Network Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/foxtel-proposed-acquisition-arrangements-with-ten-network-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57408",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "22 October 2015",
+  "date_completed_iso": "2015-10-22T12:00:00Z",
+  "date_commenced": "25 June 2015",
+  "date_commenced_iso": "2015-06-25T12:00:00Z",
+  "total_review_days": 84,
+  "acquirers": [
+    "Foxtel Management Pty Ltd"
+  ],
+  "targets": [
+    "Ten Network Holdings Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jun 2015",
+      "date_iso": "2015-06-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Jul 2015",
+      "date_iso": "2015-07-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "9 Sep 2015",
+      "date_iso": "2015-09-09T12:00:00Z",
+      "event": "Former proposed decision date of 10 September 2015 delayed by ACCC to allow additional time to consider the proposed acquisitions."
+    },
+    {
+      "date": "14 Sep 2015",
+      "date_iso": "2015-09-14T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "28 Sep 2015",
+      "date_iso": "2015-09-28T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "22 Oct 2015",
+      "date_iso": "2015-10-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Foxtel proposed to acquire up to 15% of Ten while Ten proposed to acquire a 24.99% stake in Multi Channel Network (MCN, a supplier of advertising opportunities on subscription television channels). Ten also had an option to acquire 10% of Presto TV, a joint venture between Foxtel and Seven West Media.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1079",
+  "title": "Woolworths Limited - proposed acquisition of Skyview Bottleshop",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-skyview-bottleshop",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28734",
+  "industries": [
+    "Liquor licence"
+  ],
+  "date_completed": "5 July 2007",
+  "date_completed_iso": "2007-07-05T12:00:00Z",
+  "date_commenced": "20 June 2007",
+  "date_commenced_iso": "2007-06-20T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Skyview Bottleshop"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2007",
+      "date_iso": "2007-06-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jun 2007",
+      "date_iso": "2007-06-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Jul 2007",
+      "date_iso": "2007-07-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire an off-licence liquor retailer (including the liquor licence) trading as \"Skyview Bottleshop\" at 1 Beinda St, Bomaderry, NSW.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension of this market is a 3-5km radius surrounding the target business; and 2. the NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "On 5 July 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - In relation to the first market, the ACCC concluded that post-acquisition, Woolworths Limited will be constrained by competition from Coles and a  number of independent bottle shops; and - In relation to the second market, the ACCC considered that the acquisition of one retail store is unlikely to significantly increase Woolworths' market share (or buying power) or to substantially diminish the buying power of any competitor."
+  }
+}

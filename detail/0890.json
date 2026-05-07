@@ -1,0 +1,44 @@
+{
+  "id": "0890",
+  "title": "Woolworths Limited - proposed acquisition of Liquor Licence in Ballina",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-in-ballina",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32964",
+  "industries": [
+    "Liquor Licence"
+  ],
+  "date_completed": "25 July 2008",
+  "date_completed_iso": "2008-07-25T12:00:00Z",
+  "date_commenced": "17 July 2008",
+  "date_commenced_iso": "2008-07-17T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor Licence in Ballina"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jul 2008",
+      "date_iso": "2008-07-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Jul 2008",
+      "date_iso": "2008-07-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Jul 2008",
+      "date_iso": "2008-07-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposes to acquire a takeaway packaged liquor licence in Ballina, New South Wales.",
+    "Market definition": "The proposed acquisition was assessed within the context of the following markets: 1. The local market for the retail sale of packaged liquor for off-premises consumption (in Ballina and surrounding areas) (the retail market); and 2. The New South Wales market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (the wholesale market).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: 1. In relation to the retail market, the existence of other competitors in the relevant local market which would pose a competitive constraint on Woolworths post acquisition; and 2. In relation to the wholesale market, the acquisition of one retail licence is unlikely to significantly increase the market share or buying power of Woolworths (and therefore also unlikely that it will significantly decrease the market share or buying power of competing liquor wholesalers in the market)."
+  }
+}

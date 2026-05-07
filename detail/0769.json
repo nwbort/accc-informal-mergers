@@ -1,0 +1,44 @@
+{
+  "id": "0769",
+  "title": "Asahi Breweries Ltd - proposed acquisition of Cadbury Schweppes Pty Ltd's Australian beverage business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/asahi-breweries-ltd-proposed-acquisition-of-cadbury-schweppes-pty-ltds-australian-beverage-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33473",
+  "industries": [
+    "Beverages"
+  ],
+  "date_completed": "31 March 2009",
+  "date_completed_iso": "2009-03-31T12:00:00Z",
+  "date_commenced": "17 March 2009",
+  "date_commenced_iso": "2009-03-17T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Asahi Breweries Ltd"
+  ],
+  "targets": [
+    "Cadbury Schweppes Pty Ltd's Australian beverage business"
+  ],
+  "timeline": [
+    {
+      "date": "17 Mar 2009",
+      "date_iso": "2009-03-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Mar 2009",
+      "date_iso": "2009-03-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Mar 2009",
+      "date_iso": "2009-03-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Asahi Breweries Ltd proposed to acquire the Australian beverage business of Cadbury Schweppes Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of alcoholic and non-alcoholic beverages but did not reach a concluded view on market definition, as the outcome of the analysis would not be affected.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to result in a substantial lessening of competition in any relevant market. In reaching this conclusion, the ACCC considered that Asahi would continue to be competitively constrained by existing competitors. The ACCC noted that in Australia Asahi had only a limited presence and there was no significant product overlap between the parties."
+  }
+}

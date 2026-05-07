@@ -1,0 +1,31 @@
+{
+  "id": "1614",
+  "title": "Acquirer: Baiada Poultry Pty Ltd; Target: Eatmore Poultry Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-baiada-poultry-pty-ltd-target-eatmore-poultry-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16322",
+  "industries": [],
+  "date_completed": "8 October 2002",
+  "date_completed_iso": "2002-10-08T12:00:00Z",
+  "date_commenced": "11 July 2002",
+  "date_commenced_iso": "2002-07-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Baiada Poultry Pty Ltd"
+  ],
+  "targets": [
+    "Eatmore Poultry Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Baiada, a chicken processor, acquired the shares in Eatmore, a competitor, on Friday 28 June 2002.",
+    "Market definition": "The parties submitted that the relevant market for the purposes of the acquisition is the processed chicken market in Eastern Australia.  Previously, the Commission has considered the relevant market to be the South East Australia market.  The Commission found that an SLC is not likely on either market definition.",
+    "Competition analysis": "The Commission decided not to intervene in the acquisition. In reaching this decision the Panel noted that there are currently two main processors (Inghams and Bartter/Steggles) operating in the industry.  This acquisition has strengthened Baiada's position as the third largest market participant.  In addition, There are over 20 small to medium processors with smaller market shares. In this context, this acquisition is unlikely to have the effect of substantially lessening competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "0141"
+  }
+}

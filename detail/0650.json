@@ -1,0 +1,102 @@
+{
+  "id": "0650",
+  "title": "Agilent Technologies Inc - proposed acquisition of Varian Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agilent-technologies-inc-proposed-acquisition-of-varian-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39404",
+  "industries": [
+    "Scientific instrumentation"
+  ],
+  "date_completed": "31 March 2010",
+  "date_completed_iso": "2010-03-31T12:00:00Z",
+  "date_commenced": "29 October 2009",
+  "date_commenced_iso": "2009-10-29T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "Agilent Technologies Inc"
+  ],
+  "targets": [
+    "Varian Inc"
+  ],
+  "timeline": [
+    {
+      "date": "16 Oct 2009",
+      "date_iso": "2009-10-16T12:00:00Z",
+      "event": "ACCC received submission from the merger parties."
+    },
+    {
+      "date": "26 Oct 2009",
+      "date_iso": "2009-10-26T12:00:00Z",
+      "event": "ACCC requested information from the merger parties."
+    },
+    {
+      "date": "29 Oct 2009",
+      "date_iso": "2009-10-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "4 Nov 2009",
+      "date_iso": "2009-11-04T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "16 Nov 2009",
+      "date_iso": "2009-11-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Nov 2009",
+      "date_iso": "2009-11-25T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "2 Dec 2009",
+      "date_iso": "2009-12-02T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "4 Dec 2009",
+      "date_iso": "2009-12-04T12:00:00Z",
+      "event": "ACCC received further information from the merger parties, in response to the ACCC's request of 25 November 2009. ACCC timeline remains suspended, pending receipt of the parties' response to the ACCC's request of 2 December 2009."
+    },
+    {
+      "date": "16 Dec 2009",
+      "date_iso": "2009-12-16T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for provision of further information by the merger parties."
+    },
+    {
+      "date": "3 Feb 2010",
+      "date_iso": "2010-02-03T12:00:00Z",
+      "event": "ACCC received further information from the merger parties, in response to the ACCC's request of 2 December 2009. ACCC timeline recommenced."
+    },
+    {
+      "date": "4 Mar 2010",
+      "date_iso": "2010-03-04T12:00:00Z",
+      "event": "ACCC received a further submission from the merger parties."
+    },
+    {
+      "date": "10 Mar 2010",
+      "date_iso": "2010-03-10T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow the ACCC to consider the further submission provided by the merger parties on 4 March 2010."
+    },
+    {
+      "date": "31 Mar 2010",
+      "date_iso": "2010-03-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a court enforceable undertaking offered by the merger parties."
+    },
+    {
+      "date": "31 Mar 2010",
+      "date_iso": "2010-03-31T12:00:00Z",
+      "event": "Section 87B undertaking accepted by ACCC."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC requested further information from the merger parties during this review, resulting in the timeline being suspended for 49 business days."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "A Public Competition Assessment will be published in due course."
+  }
+}

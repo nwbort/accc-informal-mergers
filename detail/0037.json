@@ -1,0 +1,47 @@
+{
+  "id": "0037",
+  "title": "Viterra Operations Pty Ltd - Cargill Australia Limited and AWB Grainflow Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viterra-operations-pty-ltd-cargill-australia-limited-and-awb-grainflow-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Agribusiness"
+  ],
+  "date_completed": "17 December 2024",
+  "date_completed_iso": "2024-12-17T12:00:00Z",
+  "date_commenced": "10 October 2024",
+  "date_commenced_iso": "2024-10-10T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "Viterra Operations Pty Ltd"
+  ],
+  "targets": [
+    "Cargill Australia Limited and AWB Grainflow Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Oct 2024",
+      "date_iso": "2024-10-10T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2024",
+      "date_iso": "2024-10-24T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "13 Dec 2024",
+      "date_iso": "2024-12-13T12:00:00Z",
+      "event": "ACCC is awaiting information from the merger parties. Former provisional date for announcement of findings (19 December 2024) is delayed."
+    },
+    {
+      "date": "17 Dec 2024",
+      "date_iso": "2024-12-17T12:00:00Z",
+      "event": "ACCC discontinued its public review after Viterra Operations advised that the Proposed Acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viterra Operations Pty Ltd ( Viterra Operations ) proposes to acquire various grain silos and a mobile ship loader (collectively, the Assets ) from Cargill Australia Limited ( Cargill ) (the Proposed Acquisition ). Viterra Operations Viterra Operations operates an integrated bulk grain export supply chain, comprising: a network of upcountry and at-port grain storage and handling facilities (48 in South Australia and 2 in western Victoria), six bulk grain export port terminals in Port Adelaide Outer Harbor, Port Adelaide Inner Harbour, Port Lincoln, Wallaroo, Port Giles and Thevenard in South Australia, and a logistics network providing customers with rail and road transport services to move grain through its network. Viterra Australia Pty Ltd ( Viterra Australia ) (which has the same ultimate holding company as Viterra Operations) acquires, markets and exports grain in competition with domestic marketers and other exporters, including Cargill. Cargill and Grainflow Cargill’s Australian operations include grain and oilseed marketing, storage and handling, oilseed processing, and vegetable oil refining. It also owns and operates a mobile ship loader at Port Adelaide Inner Harbour. AWB Grainflow Pty Ltd ( Grainflow ), a subsidiary of Cargill operates a network of 16 grain storage centres in Queensland, New South Wales, Victoria, and South Australia (with eight of these located in South Australia and western Victoria). Cargill provides both storage and handling services (via Grainflow) and port loading terminal services. Cargill also acquires and exports bulk grain in competition with other domestic marketers and exporters, including Viterra Australia. Cargill long term agreement (LTA) Viterra Operations and Cargill have recently signed a long term agreement (the Cargill LTA), which will commence on 1 October 2024 and will govern the terms on which Cargill will acquire short term and long term capacity from Viterra Operations in the future. Under the Cargill LTA, Viterra Operations has committed to provide Cargill with certain amounts of port terminal and upcountry storage capacity."
+  }
+}

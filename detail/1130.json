@@ -1,0 +1,45 @@
+{
+  "id": "1130",
+  "title": "PBL Media - proposed joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pbl-media-proposed-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27423",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "8 March 2007",
+  "date_completed_iso": "2007-03-08T12:00:00Z",
+  "date_commenced": "22 February 2007",
+  "date_commenced_iso": "2007-02-22T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Elders Limited",
+    "Bell Potter Securities Pty Ltd",
+    "PBL Media"
+  ],
+  "targets": [
+    "Not Applicable"
+  ],
+  "timeline": [
+    {
+      "date": "22 Feb 2007",
+      "date_iso": "2007-02-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Mar 2007",
+      "date_iso": "2007-03-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "8 Mar 2007",
+      "date_iso": "2007-03-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the joint venture"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "A conclusive view on market definition was not needed to be reached as the outcome of the competition analysis would not have been materially affected were a broader market definition adopted. In this regard the proposed joint venture was likely to be pro-competitive in so far as it would result in the creation of an additional supplier of online real estate advertising services. The proposed joint venture was considered in the context of the national supply for online real estate advertising services.",
+    "Competition analysis": "The ACCC decided not to oppose the joint venture on the basis that entry of an additional major provider of online real estate was likely to be pro-competitive."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "0242",
+  "title": "China National Chemical Corporation - proposed acquisition of Syngenta AG",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/china-national-chemical-corporation-proposed-acquisition-of-syngenta-ag",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59636",
+  "industries": [
+    "Agrochemicals and seed production"
+  ],
+  "date_completed": "8 December 2016",
+  "date_completed_iso": "2016-12-08T12:00:00Z",
+  "date_commenced": "18 July 2016",
+  "date_commenced_iso": "2016-07-18T12:00:00Z",
+  "total_review_days": 76,
+  "acquirers": [
+    "China National Chemical Corporation"
+  ],
+  "targets": [
+    "Syngenta AG"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jul 2016",
+      "date_iso": "2016-07-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "5 Aug 2016",
+      "date_iso": "2016-08-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Aug 2016",
+      "date_iso": "2016-08-29T12:00:00Z",
+      "event": "Former proposed decision date of 15 September 2016 delayed to allow provision of requested information."
+    },
+    {
+      "date": "19 Sep 2016",
+      "date_iso": "2016-09-19T12:00:00Z",
+      "event": "ACCC recommenced timeline."
+    },
+    {
+      "date": "17 Oct 2016",
+      "date_iso": "2016-10-17T12:00:00Z",
+      "event": "Former proposed decision date of 20 October 2016 delayed to allow the ACCC to consider additional information provided by the parties."
+    },
+    {
+      "date": "24 Oct 2016",
+      "date_iso": "2016-10-24T12:00:00Z",
+      "event": "Former proposed decision date of 27 October 2016 delayed at the request of the merger parties so that they can provide more information to the ACCC."
+    },
+    {
+      "date": "31 Oct 2016",
+      "date_iso": "2016-10-31T12:00:00Z",
+      "event": "ACCC assessing further information received from the merger parties."
+    },
+    {
+      "date": "8 Dec 2016",
+      "date_iso": "2016-12-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "During the course of the review the ACCC also made a number of document and information requests to ChemChina and Syngenta that are not separately identified in the entries above. Collectively, the parties took 26 business days to respond to all requests."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on national markets for the supply of various crop protection products (including insecticides, herbicides and fungicides) supplied by the merger parties. The scope of the individual product markets was determined according to how the products were used by farmers, and was considered on a case by case basis. The ACCC considered that, in general, products with the same active ingredients were likely to be close substitutes. However, in many cases, there were alternative products based on other active ingredients that could be used for the same purposes. This analysis was informed by many factors, including: - the pest or disease targeted, or the range of different pests or diseases against which a product can provide protection - the crop - the stage in the growing season at which protection is required - the growing conditions in which the crop protection is applied - the application method, and - consideration of environmental impact (including impact on beneficial insects), health and safety, and residues remaining on the crop after treatment. The ACCC also analysed the extent to which generic products compete with patented products. Syngenta is an originator company which develops new patent chemicals, whereas ChemChina (through its subsidiary, Adama) is focused more on generic, off-patent chemicals. The ACCC considered that the significant price premium on patented chemicals indicated that cheaper generic products based on off-patent chemicals were often not likely to be an effective substitute.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not substantially lessen competition in any relevant market. The parties overlap in the supply of a wide range of crop protection products with the same active ingredients. However, all of these overlaps related to chemicals which are off patent. The ACCC's review paid particular attention to overlaps where Adama and Syngenta had significant shares of Australian sales. In particular, at the time of the review, Syngenta and Adama were the only suppliers of products based on active ingredients Cyprodinil and Emamectin. The ACCC did not consider that the proposed acquisition would raise significant concerns in relation to these products, due to the continued availability of substitutes (with the same and/or different active ingredients) and/or the credible threat of new entry. Cyprodinil: The parties are the only two suppliers of Cyprodinil-based products in Australia. Cyprodinil is a fungicide used to control botrytis fungi on grapes and other crops (such as black spot on apples and pears). In some circumstances (for e.g. wine grape growers located in areas which are cool and wet or in a wet season), Cyprodinil-based products may have few substitutes. However, Cyprodinil is off patent and the ACCC determined that there was a credible threat of new entry which would constrain the actions of the merged firm. Emamectin: Adama and Syngenta are the only two suppliers of Emamectin-based products in Australia. Emamectin is an insecticide which, in various mixes, is used to control various moths on crops including cabbage, apple and grapes. However, the ACCC determined that there were a number of alternative products produced by other suppliers with different active ingredients which were close substitutes."
+  }
+}

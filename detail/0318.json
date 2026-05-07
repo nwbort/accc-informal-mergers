@@ -1,0 +1,63 @@
+{
+  "id": "0318",
+  "title": "Mars Incorporated - proposed acquisition of The Procter & Gamble Company's pet food business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mars-incorporated-proposed-acquisition-of-the-procter-gamble-companys-pet-food-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54909",
+  "industries": [
+    "Pet Food"
+  ],
+  "date_completed": "22 October 2014",
+  "date_completed_iso": "2014-10-22T12:00:00Z",
+  "date_commenced": "19 August 2014",
+  "date_commenced_iso": "2014-08-19T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Mars Incorporated"
+  ],
+  "targets": [
+    "The Procter & Gamble Company's pet food business"
+  ],
+  "timeline": [
+    {
+      "date": "19 Aug 2014",
+      "date_iso": "2014-08-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "21 Aug 2014",
+      "date_iso": "2014-08-21T12:00:00Z",
+      "event": "ACCC requested further information from Proctor & Gamble."
+    },
+    {
+      "date": "4 Sep 2014",
+      "date_iso": "2014-09-04T12:00:00Z",
+      "event": "ACCC received further information from Proctor & Gamble."
+    },
+    {
+      "date": "9 Sep 2014",
+      "date_iso": "2014-09-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "24 Sep 2014",
+      "date_iso": "2014-09-24T12:00:00Z",
+      "event": "Former proposed decision date of 23 October 2014 delayed to allow provision of requested information from the merger parties."
+    },
+    {
+      "date": "3 Oct 2014",
+      "date_iso": "2014-10-03T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "22 Oct 2014",
+      "date_iso": "2014-10-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of national markets for: - the supply of premium and therapeutic dry cat food, and - the supply of premium and therapeutic dry dog food. The ACCC's review focussed on the competition effects of the proposed acquisition on the supply of premium and therapeutic dry cat food and premium and therapeutic dry dog food in the specialty retail (e.g. pet stores and veterinary clinics) channel. Proctor & Gamble's Eukanuba and Iams range of premium and therapeutic cat/dog foods and Mars' range of premium and therapeutic cat/dog foods, including the Royal Canin, Nutro and Advance brands, are predominantly sold via this channel. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definitions.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in either relevant market. Post-acquisition Mars would have a large share of premium and therapeutic dry cat and dry dog food sales via the specialty channel (e.g. pet stores and veterinary clinics). However, the ACCC concluded that there would continue to be alternative suppliers, such as Nestle and Colgate Palmolive, available to customers. Information provided by market participants also indicated that specialty pet stores stock a wide range of brands and have demonstrated a willingness to stock new product lines, including products supplied by smaller suppliers such as BlackHawk and WellPet."
+  }
+}

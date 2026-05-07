@@ -1,0 +1,82 @@
+{
+  "id": "0558",
+  "title": "Aspen Pharmacare Holdings Ltd - proposed acquisition of Sigma Pharmaceuticals (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aspen-pharmacare-holdings-ltd-proposed-acquisition-of-sigma-pharmaceuticals-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42299",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "16 December 2010",
+  "date_completed_iso": "2010-12-16T12:00:00Z",
+  "date_commenced": "6 September 2010",
+  "date_commenced_iso": "2010-09-06T12:00:00Z",
+  "total_review_days": 64,
+  "acquirers": [
+    "Aspen Asia Pacific Pty Ltd"
+  ],
+  "targets": [
+    "Sigma Pharmaceuticals (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Sep 2010",
+      "date_iso": "2010-09-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Sep 2010",
+      "date_iso": "2010-09-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Oct 2010",
+      "date_iso": "2010-10-08T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "20 Oct 2010",
+      "date_iso": "2010-10-20T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "27 Oct 2010",
+      "date_iso": "2010-10-27T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "11 Nov 2010",
+      "date_iso": "2010-11-11T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "12 Nov 2010",
+      "date_iso": "2010-11-12T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. Former proposed date for announcement of ACCC's findings of 25 November 2010 amended to allow for consideration of the information provided."
+    },
+    {
+      "date": "30 Nov 2010",
+      "date_iso": "2010-11-30T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by Aspen. ACCC commenced market inquiries on the draft undertaking."
+    },
+    {
+      "date": "7 Dec 2010",
+      "date_iso": "2010-12-07T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "16 Dec 2010",
+      "date_iso": "2010-12-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to court enforceable undertaking offered by Aspen Pharmacare Holdings Limited and Aspen Asia Pacific Pty Ltd, and in light of Aspen deciding to excise Sigma's iron polymaltose product, Ferrosig, from the acquisition."
+    },
+    {
+      "date": "16 Dec 2010",
+      "date_iso": "2010-12-16T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aspen Pharmacare Holdings Limited proposed to acquire Sigma Pharmaceuticals (Australia) Pty Ltd and two other entities from Sigma Company Limited. Sigma Pharmaceuticals (Australia) includes Sigma's pharmaceutical products manufacturing, marketing and supply business including in respect of all prescription, generic and private label products."
+  }
+}

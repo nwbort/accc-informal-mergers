@@ -1,0 +1,59 @@
+{
+  "id": "0643",
+  "title": "National Australia Bank Ltd (NAB) - proposed acquisition of AXA Asia Pacific Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-ltd-nab-proposed-acquisition-of-axa-asia-pacific-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39761",
+  "industries": [
+    "Wealth management, superannuation, insurance"
+  ],
+  "date_completed": "19 April 2010",
+  "date_completed_iso": "2010-04-19T12:00:00Z",
+  "date_commenced": "19 January 2010",
+  "date_commenced_iso": "2010-01-19T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "National Australia Bank Ltd (NAB)"
+  ],
+  "targets": [
+    "AXA Asia Pacific Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jan 2010",
+      "date_iso": "2010-01-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Feb 2010",
+      "date_iso": "2010-02-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Feb 2010",
+      "date_iso": "2010-02-10T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "26 Feb 2010",
+      "date_iso": "2010-02-26T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 17 March 2010, amended to allow the ACCC to consider further information requested from the merger parties."
+    },
+    {
+      "date": "19 Apr 2010",
+      "date_iso": "2010-04-19T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "National Australia Bank Limited (NAB) proposed to acquire AXA Asia Pacific Holdings Limited's Australian and New Zealand businesses (AXA). NAB and AXA overlap in the area of retail investment platforms, life insurance, superannuation, wealth management and financial planning and advisory services.",
+    "Market definition": "Please see the Public Competition Assessment below outlining the reasons for the ACCC's decision.",
+    "Competition analysis": "Please see the Public Competition Assessment below outlining the reasons for the ACCC's decision."
+  }
+}

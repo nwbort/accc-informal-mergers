@@ -1,0 +1,44 @@
+{
+  "id": "0842",
+  "title": "Fletcher Building Limited - proposed acquisition of Fielders Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fletcher-building-limited-proposed-acquisition-of-fielders-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34458",
+  "industries": [
+    "Building materials"
+  ],
+  "date_completed": "30 October 2008",
+  "date_completed_iso": "2008-10-30T12:00:00Z",
+  "date_commenced": "7 October 2008",
+  "date_commenced_iso": "2008-10-07T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Fletcher Building Limited"
+  ],
+  "targets": [
+    "Fielders Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 Oct 2008",
+      "date_iso": "2008-10-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Oct 2008",
+      "date_iso": "2008-10-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Oct 2008",
+      "date_iso": "2008-10-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fletcher Building Limited proposes to acquire 100% of the shares in Fielders Australia Pty Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national markets for: - the supply of steel roll formed products; and - the acquisition of steel coil for roll formed product manufacture.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the availability of existing alternative steel roll formed product suppliers; - the existence of relatively low barriers to entry and expansion to steel roll formed product supply; and - the ability of customers to credibly threaten to shift roll formed product supply to in-house operations, or to sponsor new entry or expansion. The ACCC also concluded that the merged firm would be unlikely to be able to impose uncompetitive terms and conditions on steel coil suppliers."
+  }
+}

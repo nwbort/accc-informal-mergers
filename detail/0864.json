@@ -1,0 +1,49 @@
+{
+  "id": "0864",
+  "title": "Ramsay Health Care Limited - proposed acquisition of the Coolenberg Clinic day surgery (currently closed) at Port Macquarie, NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ramsay-health-care-limited-proposed-acquisition-of-the-coolenberg-clinic-day-surgery-currently-closed-at-port-macquarie-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33798",
+  "industries": [
+    "Health care"
+  ],
+  "date_completed": "16 September 2008",
+  "date_completed_iso": "2008-09-16T12:00:00Z",
+  "date_commenced": "22 August 2008",
+  "date_commenced_iso": "2008-08-22T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Ramsay Health Care Limited"
+  ],
+  "targets": [
+    "Coolenberg Clinic day surgery (currently closed) at Port Macquarie NSW"
+  ],
+  "timeline": [
+    {
+      "date": "22 Aug 2008",
+      "date_iso": "2008-08-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Aug 2008",
+      "date_iso": "2008-08-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Sep 2008",
+      "date_iso": "2008-09-04T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 9 September 2008 amended to 16 September 2008 - to allow for further market inquiries."
+    },
+    {
+      "date": "16 Sep 2008",
+      "date_iso": "2008-09-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "See Public Competition Assessment.",
+    "Market definition": "See Public Competition Assessment.",
+    "Competition analysis": "See Public Competition Assessment."
+  }
+}

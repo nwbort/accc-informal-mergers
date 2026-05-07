@@ -1,0 +1,39 @@
+{
+  "id": "1269",
+  "title": "Woolworths Limited - acquisition of Nardi's Foodworks",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-acquisition-of-nardis-foodworks",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24796",
+  "industries": [
+    "Grocery"
+  ],
+  "date_completed": "22 June 2006",
+  "date_completed_iso": "2006-06-22T12:00:00Z",
+  "date_commenced": "8 June 2006",
+  "date_commenced_iso": "2006-06-08T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Nardi's Foodworks"
+  ],
+  "timeline": [
+    {
+      "date": "8 Jun 2006",
+      "date_iso": "2006-06-08T12:00:00Z",
+      "event": "ACCC commences assessment under Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Jun 2006",
+      "date_iso": "2006-06-22T12:00:00Z",
+      "event": "Proposed acquisition not opposed by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited acquired Nardi's Foodworks in Bannockburn, Victoria",
+    "Market definition": "The ACCC considered the relevant markets to be: - the local retail supermarket market; - procurement markets; and - the national wholesale market.",
+    "Competition analysis": "The transaction results in a very small increase of market share to Woolworths in the procurement and wholesale markets.  Woolworths does not currently operate a supermarket in Bannockburn or its surrounding areas and as such the transaction does not result in an aggregation of market share in the local retail supermarket market.  For these reasons the acquisition is unlikely to result in a substantial lessening of competition in any market."
+  }
+}

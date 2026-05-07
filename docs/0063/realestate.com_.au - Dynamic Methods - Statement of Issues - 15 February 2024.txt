@@ -1,0 +1,730 @@
+ 
+Statement of Issues 
+15 February 2024 
+Realestate.com.au – proposed acquisition of 
+Dynamic Methods  
+Purpose 
+1. 
+Realestate.com.au Pty Ltd (REA), proposes to acquire Dynamic Methods Pty Ltd.  
+2. 
+This Statement of Issues: 
+• gives the Australian Competition and Consumer Commission’s (ACCC) preliminary 
+views on competition issues arising from the proposed acquisition  
+• identifies areas of further inquiry, and 
+• invites interested parties to submit comments and information to assist our 
+assessment of the issues. 
+3. 
+Statements of Issues do not refer to confidential information provided by the parties or 
+other market participants and therefore may not fully articulate the ACCC’s preliminary 
+position. 
+Overview of ACCC’s preliminary views 
+4. 
+In considering the proposed acquisition, the ACCC applies the legal test set out in 
+section 50 of the Competition and Consumer Act 2010 (the CCA). In general terms, 
+section 50 prohibits acquisitions that would have the effect, or be likely to have the 
+effect, of substantially lessening competition in any market. 
+5. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. In this 
+Statement of Issues there are three issues identified that may raise concerns: 
+• Foreclosure of competitors in the supply of one or more services in the digital real 
+estate workflow. The proposed acquisition combines the largest supplier of digital 
+real estate advertising services with the largest supplier of digital real estate forms. 
+The ACCC’s preliminary view is that post-acquisition, REA may have the ability and 
+incentive to foreclose rivals to its agent solutions products and forms product, 
+reducing competition, by engaging in either vertical foreclosure or bundling or tying 
+
+
+ 
+ 
+1 
+strategies. This would result in higher prices, lower quality, and/or lower innovation 
+to agents that use those services. 
+• Increasing data-related foreclosure risks and entrenchment in the supply of digital 
+real estate advertising. The ACCC’s preliminary view is that the proposed 
+acquisition potentially results in REA gaining access to unique and exclusive data, 
+which could be used to foreclose actual and potential competitors to its ecosystem 
+of digital real estate advertising products and services. This could either occur 
+directly, by REA refusing or degrading the supply, or raising the cost of data to 
+competitors that use or plan to use the data for their services. It could also occur 
+indirectly, by REA improving products across its ecosystem to the point that REA’s 
+competitors lose scale and/or network benefits and become a weaker constraint on 
+REA. The ACCC is concerned that this could increase barriers to entry and/or 
+expansion across these services, and further entrench REA’s already strong position 
+in digital real estate advertising.  
+• Increased likelihood of co-ordinated effects resulting from access to 
+commercially sensitive information. The ACCC’s preliminary view is that, if REA did 
+obtain access to commercially sensitive information, this could distort and/or 
+lessen competition in the supply of digital real estate advertising services through 
+coordinated effects, by facilitating consensus between suppliers and the detection 
+of cheating. 
+6. 
+The ACCC recognises that there may be efficiency or pro-competitive drivers behind 
+the proposed acquisition. However, REA is the largest supplier of digital real estate 
+advertising (through realestate.com.au and realcommercial.com.au), and Dynamic 
+Methods is the largest supplier of digital real estate forms, with the vast majority of 
+real estate agents (except in Victoria) using its forms products. In these 
+circumstances, the ACCC’s concern about the merger removing or reducing 
+constraints will be increased compared to where a market participant lacks market 
+power.  
+7. 
+As such, the ACCC is considering the extent to which the merger may affect REA’s 
+existing position in real estate advertising services, and how this acquisition may serve 
+to reinforce and/or protect its strong position. 
+Making a submission 
+8. 
+The ACCC invites submissions from interested parties, particularly on the following key 
+issues: 
+• REA’s ability and incentive post-acquisition to foreclose competitors in the supply of 
+one or more services in the digital real estate workflow through vertical foreclosure 
+or bundling or tying.  
+• Whether the proposed transaction could increase data-related foreclosure risks, or 
+raise barriers to entry/and or expansion, in the supply of one or more digital real 
+estate services.   
+• Whether the merger would provide REA access to commercially sensitive 
+information, which could distort the dynamics of competition between digital real 
+estate advertising platforms. 
+9. 
+Interested parties should provide submissions by 5pm on 1 March 2024. Responses 
+may be emailed to mergers@accc.gov.au with the title: Submission re: 
+
+
+ 
+ 
+2 
+realestate.com.au/Dynamic Methods - attention Lynette Lymbers/Louisa Wilson. If you 
+would like to discuss the matter with ACCC staff or have any questions about this 
+Statement of Issues, please contact Lynette Lymbers on 02 9230 9132 or Louisa 
+Wilson on 03 9290 1474.  
+10. 
+The ACCC anticipates making a final decision on 9 May 2024, however, this timeline 
+can change. To keep up with possible timing changes and to find relevant documents, 
+interested parties should visit the Mergers Register on the ACCC's website at 
+www.accc.gov.au/publicregisters/mergers-registers/public-informal-merger-reviews. 
+Confidentiality of submissions 
+11. 
+The ACCC will not publish submissions regarding the proposed acquisition. We will not 
+disclose submissions to third parties (except our advisors/consultants) unless 
+compelled by law (for example, under freedom of information legislation or during 
+court proceedings) or in accordance with s155AAA of the CCA. Where the ACCC is 
+required to disclose confidential information, the ACCC will notify you in advance 
+where possible so that you may have an opportunity to be heard. Therefore, please 
+identify any confidential information that is provided to the ACCC. Our Informal Merger 
+Review Process Guidelines contain more information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+12. 
+A Statement of Issues is not a final decision about a proposed acquisition. A 
+Statement of Issues outlines the ACCC’s preliminary views and identifies further lines 
+of inquiry. 
+13. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide the 
+merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+The parties 
+The acquirer: Realestate.com.au Pty Ltd 
+14. 
+Realestate.com.au Pty Ltd (REA)1 owns and operates residential and commercial 
+property websites and apps, including realestate.com.au, realcommercial.com.au and 
+flatmates.com.au. REA also offer targeted display advertising on these platforms, for 
+example for banks, insurance companies and furniture retailers. 
+15. 
+REA supplies digital real estate advertising services to real estate agents for the sale 
+and leasing of established residential properties, new developments, retirement 
+properties, and the sale and leasing of commercial properties.  
+16. 
+REA also offers a range of businesses adjacent to its listing platform, which are used 
+by both agents and consumers:  
+• Mortgage Choice Pty Ltd, an online mortgage broking franchise 
+• PropTrack Pty Ltd, a property data and valuation services provider and 
+property.com.au, an online property research website   
+ 
+1 a wholly owned subsidiary of REA Group Ltd.  
+
+
+ 
+ 
+3 
+• Campaign Agent Pty Ltd, provider of vendor paid advertising and home preparation 
+finance solutions 
+• Realtair Pty Ltd, a digital platform which enables real estate agents to manage real 
+property transactions online. Dynamic Methods is integrated, meaning agents can 
+access forms via Realtair. 
+• Managed Platforms Pty Ltd, a property management software solution for the 
+collection and payment of property management related fees 
+• Arealytics, a provider of commercial real estate information and technology, and  
+• Simpology Pty Ltd, a mortgage applications and e-lodgement service provider. 
+17. 
+REA provides agents with a self-service platform, Ignite, which facilitates agents’ 
+access to and management of REA products via the realestate.com.au website and 
+app (such as their realestate.com.au advertising campaigns, customer enquiries, 
+rental applications, agency and personal performance and market insights). This 
+includes access to online forms, via Realtair.  
+18. 
+REA has minority investments in Realtair, Simpology, and Managed Platforms. 
+The target: Dynamic Methods Pty Ltd 
+19. 
+Dynamic Methods provides a platform that enables real estate agents to create and 
+manage forms related to real estate transactions, such as residential tenancy 
+agreements, agent authorities, contracts for sale and commercial leases. Dynamic 
+Methods is the only forms provider operating nationally. 
+20. 
+In all states and territories except Victoria, Dynamic Methods provides forms 
+developed by the real estate institutes. In Victoria, a competitor, Hutly distributes the 
+Real Institute of Victoria’s forms, and instead, Dynamic Methods has its own forms 
+product.    
+21. 
+Agents currently can access forms from Dynamic Methods via two channels: 
+• directly from Dynamic Methods 
+• via agent solutions providers, which integrate with Dynamic Methods. Integration is 
+achieved via an open API provided by Dynamic Methods. REA’s agent solutions 
+provider, Realtair, is integrated with Dynamic Methods. 
+Industry Background  
+Digital real estate advertising platforms 
+22. 
+Digital real estate advertising platforms (or listing platforms) refer to digital platforms 
+used by agents to advertise, and consumers to find, residential and commercial 
+properties for sale and lease. Following REA, Domain is the second largest provider of 
+digital real estate advertising services in Australia, except in Canberra where the ACCC 
+understands Domain is the largest provider. Domain also operates nationally, and 
+provides a range of products and services to real estate agents, customers and other 
+stakeholders operating in the Australian commercial and residential property markets, 
+including property data and valuations and agent solutions. 
+23. 
+Other smaller providers of real estate advertising services include Homely, On the 
+House, View Media Group and Zango. 
+
+
+ 
+ 
+4 
+Digital real estate forms providers 
+24. 
+Digital real estate forms providers refer to platforms that enable the real estate 
+industry to transact digitally. As noted above, Dynamic Methods is the largest digital 
+real estate forms provider nationally. Digital real estate forms providers either 
+distribute forms they have created themselves, or forms developed by real estate 
+institutes or other real estate industry bodies. 
+25. 
+Hutly is the largest real estate forms provider in Victoria and distributes the Real Estate 
+Institute of Victoria’s forms. Hutly also owns and operates ADL Software which is a 
+forms provider (distributing its own digital real estate forms) operating mainly in NSW 
+and QLD. 
+26. 
+reaforms provides digital real estate forms nationally however has a much larger 
+presence in South Australia than in any other state or territory (and is Dynamic 
+Methods’ main competitor in SA). reaforms supplies its own forms via its platform, 
+which are endorsed by the Society of Auctioneers and Appraisers SA Inc.  
+27. 
+Other smaller providers of digital real estate forms include National Property Group 
+and Flkitover. 
+Agent solutions providers 
+28. 
+Agent solutions providers refer to the platforms that agents use to manage real estate 
+transactions, such as contract and workflow management. As noted above, REA’s 
+agent solutions platform is Realtair. Domain offers a number of agent solution 
+services, including RealTime Agent, Realbase and Homepass. 
+29. 
+There are numerous independent suppliers of agent solutions, including CRMs and 
+campaign management providers - including Avnu, Ailo, Client Vault, Console Cloud, 
+Eagle Software, iProperty, Manly Management, Agentbox, REI Master and Resly.  
+30. 
+There are also several property data providers (who provide products such as 
+valuations and comparative market assessments) including CoreLogic, Domain’s 
+Pricefinder, National Property Group and IDS. 
+The proposed transaction 
+31. 
+REA proposes to acquire all the shares in Dynamic Methods.  
+32. 
+There is no current horizontal overlap between REA and Dynamic Methods.  
+Related acquisitions 
+33. 
+In recent years, digital property advertising platforms have been completing 
+acquisitions to expand their presence in property beyond property advertising to 
+services used by agents and consumers to lease and sell property. REA has completed 
+the following acquisitions of products complementary to its core listing platforms: 
+• In 2021, Mortgage Choice, a supplier of mortgage broking, financial planning and 
+other credit services. 
+• Hometrack (which REA has rebranded as PropTrack), a supplier of property data 
+services. 
+• In 2016, flatmates.com.au. 
+34. 
+Domain has similarly acquired complementary products in recent years including: : 
+
+
+ 
+ 
+5 
+• Realbase (2022), an agent solutions product. 
+• Insight data solutions (2021), a provider of statutory valuations to government 
+clients. 
+• Real Time Agent (2019), which provides agents digital forms and the ability to track 
+and record auction bids and results digitally. 
+Issue that may raise concerns – foreclosure of competitors in the 
+supply of one or more services in the digital real estate workflow 
+35. 
+The proposed acquisition combines the largest supplier of digital real estate 
+advertising services with the largest supplier of digital real estate forms. The ACCC’s 
+preliminary view is that post-acquisition REA may have the ability and incentive to 
+foreclose rivals in the digital real estate workflow, including rivals to its:  
+• 
+agent solutions provider (Realtair), by engaging in vertical foreclosure strategies, 
+lessening competition in the supply of agent solutions.  
+• 
+forms provider (Dynamic Methods), by engaging in either vertical foreclosure or 
+bundling or tying strategies, lessening competition in the supply of digital real estate 
+forms. 
+36. 
+The ACCC is concerned that a lessening of competition in the supply of these services 
+could result in higher prices or lower quality or innovation, or could discourage new 
+entry. 
+Foreclosure of rival agent solutions providers 
+37. 
+As noted above, one way that agents can access Dynamic Methods’ forms is via agent 
+solutions products, such as Resly, MRI Software, REI Master, Eagle Software, 
+InspectRealEstate, Tenant Options, and Domain’s Real Time Agent. This is enabled by, 
+among other things, Dynamic Methods supporting integration with these products.  
+38. 
+REA offers, through its Ignite platform, the agent solutions provider Realtair, which REA 
+has a minority investment in. Realestate.com.au customers are able to access Realtair 
+via their realestate.com.au account, or on realestate.com.au in ‘Ignite’. 
+39. 
+As such, the ACCC is considering whether the proposed acquisition may give REA the 
+ability and incentive to foreclose competitors to Realtair, by restricting those 
+competitors’ access to Dynamic Methods’ forms. 
+40. 
+The ACCC’s preliminary view is, post-acquisition REA may have the ability and 
+incentive to foreclose rivals to Realtair, reducing competition in the supply of those 
+services. This would result in higher prices for agents for use of those services, and a 
+lower quality of offering overall. 
+41. 
+Based on the ACCC’s initial review, Dynamic Methods is the leading provider of digital 
+real estate forms in all states and territories except Victoria. Various factors appear to 
+contribute to this market leading position, including: 
+• its distribution of real estate institute-endorsed forms, which agents trust and 
+prefer. In contrast, in Victoria, where Hutly distributes forms created by the Real 
+Estate Institute of Victoria, and Dynamic Methods distributes its own forms 
+products, Hutly has the largest market share, and Dynamic Methods has gained 
+limited market share since entering in 2019.  
+
+
+ 
+ 
+6 
+• the number of agent solutions providers that integrate with Dynamic Methods, and 
+relatedly, agents that use its products. 
+• the software used, which is more advanced than other forms providers. 
+42. 
+Consequently, the ACCC’s preliminary view is that currently, aside from in Victoria and 
+South Australia (where reaforms has a significant presence and integrates with agent 
+solutions providers), there are no effective substitutes to Dynamic Methods that agent 
+solutions providers could switch to in response to REA engaging in foreclosure 
+strategies.  
+43. 
+The ACCC notes that, since Dynamic Methods entered sixteen years ago, few 
+competitors have entered or expanded to its size. 
+44. 
+Market inquiries indicate that key barriers to entry/expansion in supplying digital real 
+estate forms are: 
+• Real estate institute-endorsed forms. In all states and territories except Victoria, 
+Dynamic Methods supplies forms created by real estate institutes endorsed forms. 
+Victoria is the only state where Dynamic Methods has a lower market share, 
+indicating the importance of real estate institute endorsement to competing in the 
+supply of forms. However, market feedback has suggested that if real estate forms 
+are compliant with relevant legislation and are competitively priced, agents’ 
+preference for real estate institute-endorsed forms may be overcome. 
+• Integrations with software agents use (i.e., agent solutions providers). 
+Stakeholders have told us that forms providers need to integrate with a minimum 
+number of agent solutions providers to be competitive with Dynamic Methods, in 
+order to access the agents that use these platforms, and that these integrations are 
+difficult to achieve at scale.  
+45. 
+The ACCC is also considering whether the following factors could limit REA’s ability to 
+engage in any foreclosure strategies: 
+• Dynamic Methods operates an Open API, meaning that agent solutions providers 
+may have more control over the steps involved in integration. This could limit REA’s 
+ability, for example, to delay integrations. 
+• The extent of control REA would have over the Dynamic Methods API post-
+acquisition, and determining what functionality may be offered to agent solutions 
+providers.  
+• REA’s ability to influence decisions made in Realtair, giving its minority investment. 
+• Commercial terms between REA and the real estate institutes for form distribution. 
+• Agents accessing the forms directly, rather than via agent solutions providers. 
+46. 
+The ACCC is also considering the extent to which REA would have an incentive to 
+engage in vertical foreclosure strategies given that: 
+• 
+REA relies on revenue from agents advertising on its platforms; attempts by REA to 
+restrict agents’ ability to use forms on their preferred software could result in agents 
+not listing on realestate.com.au and risk this revenue stream. 
+• 
+REA’s product, Realtair, does not offer the same products and level of functionality as 
+other agent solutions providers. 
+
+
+ 
+ 
+7 
+• 
+Realtair appears to have a small presence in the supply of agent solutions. 
+47. 
+The ACCC considers that in a future with the proposed acquisition where real estate 
+institutes distributed their forms via other competitors, REA would likely have less of 
+an ability to engage in vertical foreclosure strategies. 
+Questions for market participants 
+The ACCC invites comments from market participants on its concerns in relation to REA’s 
+ability to foreclose competing agent solutions providers, including on the following: 
+• 
+how important integration is between the various steps in the real estate transaction 
+workflow, including: 
+o whether agent solutions providers require integration with real estate institute 
+endorsed forms and/or Dynamic Methods to compete effectively. 
+o whether REA relies on integration with other services to supply its products. 
+• 
+alternative digital forms platforms and whether they are a viable alternative to Dynamic 
+Methods, including in terms of number of integrations offered and functionality. 
+• 
+the extent to which agents access forms directly from the forms providers or via agent 
+solutions providers. 
+• 
+whether legally compliant forms offered at a price competitive to real estate institute 
+forms would be a substitute. 
+• 
+functionality of Realtair and services it offers and whether it is a close substitute for 
+other agent solutions providers. 
+• 
+REA’s likely control over the Dynamic Methods API post-acquisition. 
+• 
+the level of control Dynamic Methods has over integrations, and whether post-
+acquisition REA could use this control to engage in vertical foreclosure strategies. 
+Foreclosure of rival forms providers 
+48. 
+The ACCC’s preliminary view is that REA may have the ability and incentive to engage 
+in – or threaten to engage in – vertical foreclosure and anticompetitive bundling or 
+tying strategies affecting the supply of digital real estate forms.  
+49. 
+Such strategies could involve: 
+• not permitting agents to purchase or use advertising services and forms separately, 
+such as only offering the forms as part of a subscription bundle, and potentially at 
+no additional cost (‘free forms’). 
+• refusing to supply advertising services to agents who acquire forms from 
+competing forms suppliers.  
+• charging higher prices for advertising services to agents who use competitor’s form 
+products.  
+• degrading other forms’ ability to work with REA’s own products. 
+50. 
+In particular, market participants have raised concerns that post acquisition, REA could 
+price its forms below cost or offer forms for free to agents as a bundle with its other 
+more established products and services to drive out competing forms providers, 
+discouraging new entry and retaining customers within REA’s overall ecosystem.  
+
+
+ 
+ 
+8 
+51. 
+As a result, rival forms providers could lose significant scale efficiencies, which could 
+raise their unit costs. This may, in turn, force rival form providers to raise their prices to 
+remain viable or exit the market. The result could be that agents and consumers are 
+left with less choice in acquiring digital real estate forms, and that they receive less 
+benefit from price competition and face higher prices or lower quality or innovation in 
+the supply of forms in the longer term.  
+52. 
+Based on the ACCC’s initial review, REA is the largest supplier of digital real estate 
+advertising services in all states and territories except the ACT. Network effects in 
+REA’s digital listing platforms appear to be the key source of this dominance. Market 
+feedback indicates that the greater number of consumers using REA’s listing 
+platforms compared to competing listing platforms means advertising on 
+realestate.com.au is a ‘must have’ for most vendors. As such, the ACCC considers REA 
+may have the ability to engage in exclusionary bundling or tying strategies.  
+53. 
+REA estimates that in FY23, realestate.com.au had 120.6 million visits on average 
+each month on all its platforms, which is 3.3 times more visits than its nearest 
+competitor (Domain).2 Similarly, it estimates that in FY23, 1.32 million people visit 
+realcommercial.com.au, which is 1.67 times more than its nearest competitor.3 
+54. 
+The ACCC’s preliminary view is that agents are unlikely to cease using 
+realestate.com.au’s platforms in response to REA engaging in any bundling or tying 
+strategies, due to the importance of those platforms as a gateway to consumers. 
+Market feedback has been consistent that many agents already consider they have no 
+choice but to list on realestate.com.au to reach the largest audience possible, because 
+competing listing platforms do not have the same reach, except for Domain in the 
+ACT. 
+55. 
+Some market feedback has indicated that agents may have countervailing power, 
+meaning if REA continued to raise prices for its advertising products or engaged in 
+foreclosure strategies, agents could make more off-market transactions (i.e., where 
+agents sell without listing on any platform).  
+56. 
+The ACCC’s preliminary view is that agents’ ability to make more off-market 
+transactions is a limited competitive constraint as: 
+• Off-market listings are likely to reach a far more limited audience. 
+• Homeowners likely prefer to advertise their properties to the greatest audience 
+possible. 
+57. 
+The ACCC is considering whether there are factors that limit REA’s ability and incentive 
+to engage in any foreclosure and anticompetitive bundling or tying strategies, such as:  
+• REA’s reliance on advertising revenue from agents, and an unwillingness to risk this 
+revenue stream by requiring agents to use its forms.  
+• the extent to which rival form suppliers (who would be foreclosed) currently provide 
+a competitive constraint to Dynamic Methods (and what, if any benefit REA is likely 
+to gain through foreclosing them). 
+• the extent of control real estate institutes have over pricing of forms and whether 
+this would limit any potential benefit REA would gain from foreclosing rival forms 
+providers. 
+ 
+2 REA Group 2023 Annual Report, 12 September 2022, p 19.   
+3 REA Group 2023 Annual Report, 12 September 2022, p 20.   
+
+
+ 
+ 
+9 
+• whether REA may be unwilling to risk Dynamic Methods’ partnerships with real 
+estate institutes and the revenue stream from agents’ use of REI forms via Dynamic 
+Methods’ platform. 
+Questions for market participants 
+The ACCC invites comments from market participants regarding its concerns in relation to 
+REA’s ability and incentive to foreclose competing digital real estate forms providers, 
+including on the following: 
+• 
+Whether REA will have the ability to bundle or tie, between real estate forms and its 
+advertising services post-acquisition, and the likely impact these actions would have 
+on competition, price, quality or innovation in the supply of forms  
+• 
+What benefits REA would stand to gain through bundling or tying real estate forms to 
+its advertising services. 
+• 
+Any barriers to new real estate advertising platforms seeking to enter or expand, and 
+any recent examples of successful entry. 
+• 
+What (if any) actions agents are able to take if REA bundles or ties its forms to its real 
+estate advertising services, for example not using realestate.com.au, and instead 
+either listing off-market or on alternate platforms such as Domain, Homely, View or On 
+The House. 
+• 
+How (if at all) the proposed acquisition changes REA’s ability and incentive to develop 
+its own (non-REI) digital real estate forms offering without the proposed acquisition. 
+• 
+Any previous examples of occasions when REA has bundled or tied its products, and 
+whether it does or does not allow products to be purchased separately. 
+• 
+Whether rival real estate advertising platforms (such as, but not limited to, Domain, 
+Homely, View and On the House) are effective substitutes for REA’s listing platforms. 
+• 
+Whether agents prefer to acquire real estate services covering all the stages of a 
+transaction from end to end from a single supplier or bundled, and the strength of 
+agent preferences for particular products or services.  
+Issue that may raise concerns – data-related foreclosure and 
+entrenchment 
+58. 
+REA has a portfolio of businesses that offer complementary services relating to the 
+sale and leasing of property, including its listing, mortgage broking, and agent 
+solutions services. REA offers these products in a complementary manner and has a 
+stated growth strategy to create ‘next generation marketplaces through adjacencies.’4 
+59. 
+The proposed acquisition potentially results in REA gaining access to a unique and 
+exclusive set of data that could be used to foreclose its actual or potential competitors 
+in any of the markets encompassing its portfolio or ‘ecosystem’ of products either: 
+a. directly, by refusing or degrading the supply, or raising the cost of data to 
+competitors that use or plan to use the data for their services, or 
+b. indirectly, by improving products across its ecosystem to the point that REA’s 
+competitors lose scale and/or network benefits and become a weaker constraint 
+on REA.  
+ 
+4 REA Group 2022 Annual Report, 16 September 2022, p 19.   
+
+
+ 
+ 
+10 
+60. 
+The ACCC understands that digital real estate forms contain the following types of 
+data: 
+• Metadata, which is data generated when agents and consumers use the Dynamic 
+Methods platform, such as form type signed, number of forms created, number of 
+different forms created, and time taken to sign. 
+• Forms data, which is information agents and consumers input, including 
+vendor/lessor and purchaser/lessee details (including agent and legal practitioner 
+details) and transaction information, e.g property purchaser price or rental price, 
+agent’s price guide, settlement date, and land information. 
+61. 
+Market inquiries indicate that the data is valuable, and could be used for the following 
+purposes: 
+• Improved accuracy of REA’s data-related products, e.g., improved propensity to list 
+modelling, comparative market assessments, and automated valuation models due 
+to early access to rental and sales values. 
+• Inform pricing for real estate advertising - using rivals’ utilisation rates across 
+listings and listing pricings to undercut competitors. 
+• lead generation– e.g., using agency authorities for leads for REA’s own products, 
+and to sell leads to mortgage brokers, other lenders and financial institutions, 
+conveyancers, removalists, inspection services, and cleaners. 
+62. 
+The ACCC is currently considering whether the proposed acquisition could foreclose 
+competitors in either: 
+• markets for the supply of services that currently use or plan to use the data as an 
+input, or  
+• markets where REA could use the data to broaden or enhance its services  
+by refusing or degrading the supply, or raising the cost of data to actual or potential 
+rivals, for example, in the supply of real estate advertising services.  
+63. 
+However, the ACCC notes that negotiations with real estate institutes may limit REA’s 
+ability to use the data.  In addition, this concern would only apply to those market 
+participants who currently have access to the data, or could have accessed the data in 
+future, and the ACCC understands that since the data has been available, it has not 
+been used widely. 
+64. 
+Given the value of the data and its apparent ability to be used across REA’s ecosystem 
+of products (including for future products) the ACCC is also concerned that the 
+proposed acquisition could harm competition in the supply of a range of related and 
+adjacent real estate services by raising barriers to entry or expansion.  
+65. 
+The ACCC is particularly concerned about any data advantages further entrenching 
+REA’s already strong position in the supply of real estate advertising services. This 
+could occur if the data REA obtains through the proposed acquisition increases the 
+attractiveness of its products to the point where its competitors lose significant scale 
+efficiencies and/or network benefits. This could force rivals to offer their services at 
+higher prices or lower quality than in the counterfactual. The result could be a 
+lessening of competitive constraints on REA’s offerings, leading to higher prices or 
+lower quality services to customers of real estate advertising and related services. 
+
+
+ 
+ 
+11 
+66. 
+With respect to both vertical foreclosure and raised barriers, the ACCC understands 
+that similar data as held within real estate institute forms is available from other 
+platforms. For example, information about property sale prices could be obtained from 
+auction results or state revenue offices. However, market feedback indicates that as 
+form metadata and data can be provided in ‘real time’ it provides an enhanced ability 
+to provide these functions. Further, the number of agents and agent solutions 
+providers using/integrated with Dynamic Methods’ platform means that the data is 
+unique in its scale and scope. 
+67. 
+The ACCC notes that as the forms are created by the real estate institutes, it is 
+possible that post acquisition, the real estate institutes would control access to the 
+data. This may mean, for example, that REA is unable to gain access to it, or would be 
+unable to gain access to it on an exclusive basis. However, as the owner of the 
+Dynamic Methods platform, REA may be able to influence the real estate institutes. 
+68. 
+Further, the ACCC is also considering other means by which REA could obtain 
+ownership of the data itself, for example, via integration into one of its own products. 
+69. 
+The ACCC considers that, if REA were to restrict current and future competitors’ 
+current access to the data, for example by exclusive access, this could limit or 
+foreclose the ability of other firms to compete in the supply of real estate advertising 
+and related services. To the extent that the data was of a nature or timeliness that it 
+could significantly enhance REA’s own real estate advertising and property data 
+services, in particular, it could raise barriers to entry or expansion in such markets by 
+depriving rivals of significant scale efficiencies or network benefits. 
+Questions for market participants 
+The ACCC invites comments from market participants on its concerns in relation to the 
+potential for REA to restrict current and future competitors’ access to data post-
+acquisition, limiting or foreclosing the ability of other firms to compete in the supply of 
+real estate advertising and related services, including: 
+• 
+whether you currently use, or have planned to use, the data generated from use of 
+Dynamic Methods’ forms, and for what purposes. If you have not previously used the 
+data, why not? 
+• 
+Which types of businesses could benefit from access to the data.  
+• 
+alternative sources for rivals to obtain the data, their quality and whether there are any 
+additional costs or disadvantages to those alternatives.  
+• 
+whether, post-acquisition, if REA seeks agreement from real estate institutes to access 
+the data, REA is likely to be able to access the data on a non-exclusive or exclusive 
+basis. 
+• 
+The extent to which arrangements, legal or otherwise, between REA and real estate 
+institutes could prevent any foreclosure strategies, for example, real estate institutes 
+owning the data. 
+
+
+ 
+ 
+12 
+Issue that may raise concerns – increased likelihood of co-
+ordinated effects resulting from access to commercially sensitive 
+information 
+70. 
+The ACCC is considering whether the proposed acquisition will provide REA with 
+access to rival digital real estate advertising providers’ commercially sensitive 
+information. The ACCC’s preliminary view is that, if REA did obtain access to 
+commercially sensitive information, this could distort competition in the supply of real 
+estate advertising services, where such information appears to be valuable.  
+71. 
+Market feedback suggests that digital real estate forms contain the following 
+commercially sensitive information: 
+• personal data (of real estate agents’ customers) 
+• details of the planned property transaction and the proposed marketing schedule 
+(including platform utilisation and pricing information) 
+• other important information relating to these workflows  
+• agent details (including their listing preferences and commissions) 
+• insights on potential future transactions. 
+72. 
+ If the proposed acquisition gives REA commercially sensitive insights into rival real 
+estate advertising services (which rivals cannot replicate vis a vis REA) the ACCC is 
+concerned that REA could use these insights to: 
+• target marketing or make unsolicited offers to rivals’ clients before rival listing 
+platforms have the opportunity to compete. For example, REA could use intelligence 
+about an upcoming sale to target marketing of its vendor services to the 
+prospective vendor  
+• price responsively to its rivals’ listing prices 
+73. 
+The ACCC is concerned that such strategies could distort the dynamics of competition 
+between digital real estate advertising service providers by disincentivising 
+competition, leading to coordination. For example, rival platforms may respond by not 
+competing on price, quality or innovation knowing that REA will be aware of their 
+offerings and be able to undercut their prices or product offerings.  
+74. 
+Such strategies could soften competition and entrench REA’s strong position in the 
+supply of real estate advertising services, enabling it to charge higher prices or reduce 
+service levels in the longer term. Conversely, greater visibility over competitors’ pricing 
+could also enable stronger price competition between digital real estate advertising 
+services.  
+75. 
+The ACCC understands that in many cases, there are several alternate sources of 
+information regarding real estate advertising services’ price points and pricing 
+strategies, vendor/landlord/purchaser details and property transaction details. As 
+such, forms distributed via Dynamic Methods are not the sole source of information 
+about property transactions and digital real estate service providers.  
+76. 
+In its further assessment, the ACCC will consider whether, as a result of the proposed 
+acquisition: 
+• REA will gain access to information about rivals that is commercially sensitive, 
+
+
+ 
+ 
+13 
+• how this could distort competition, and  
+• whether rivals can access similar information via alternative sources.  
+77. 
+Whether harm is likely depends in part on available substitutable digital form services. 
+If rival real estate advertising services are able to use alternative forms to REA’s forms, 
+REA would not gain access to their information. As noted at paragraph 42, the ACCC’s 
+preliminary view is that currently, aside from in Victoria and South Australia, there are 
+no effective substitutes to Dynamic Methods. 
+Questions for market participants 
+The ACCC invites comments from market participants on: 
+• Whether (and if so, which) REI forms contain information that is commercially sensitive 
+to rival listing platforms, including details of the type of commercially sensitive 
+information. 
+• How the commercially sensitive information could be used by REA. 
+• Whether there are any restrictions (such as contractual constraints and privacy 
+laws/policies or otherwise) which would prevent REA from accessing and/or using the 
+information in digital real estate forms, and whether those restrictions are sufficient.  
+ACCC's future steps 
+As noted above, the ACCC invites submissions from market participants on each of the 
+issues identified in this Statement of Issues and on any other issue that may be relevant to 
+the ACCC's assessment of this matter. Submissions should be emailed to 
+mergers@accc.gov.au by no later than 1 March 2024. 
+The ACCC will finalise its view on this matter after it considers submissions invited by this 
+Statement of Issues. 
+The ACCC intends to publicly announce its final view by 9 May 2024. However, the 
+anticipated timeline may change in line with the Informal Merger Review Process Guidelines. 
+A Public Competition Assessment explaining the ACCC's final view may be published 
+following the ACCC's public announcement. 

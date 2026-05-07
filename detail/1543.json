@@ -1,0 +1,31 @@
+{
+  "id": "1543",
+  "title": "Acquirer: Coles Myer Ltd; Target: Shell Company of Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coles-myer-ltd-target-shell-company-of-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17476",
+  "industries": [],
+  "date_completed": "2 July 2003",
+  "date_completed_iso": "2003-07-02T12:00:00Z",
+  "date_commenced": "6 March 2003",
+  "date_commenced_iso": "2003-03-06T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coles Myer Ltd"
+  ],
+  "targets": [
+    "Shell Company of Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 2 July 2003 the Commission announced that it would not oppose the proposed alliance between Coles Myer and Shell. Coles Myer and Shell announced their proposed alliance in May 2003 whereby Coles Myer would takeover the management of Shell's core retail service station network encompassing 584 sites across Australia.",
+    "Market definition": "Various markets for the wholesaling and retailing of petroleum products.",
+    "Competition analysis": "Shell is part of the Royal Dutch / Shell Group of companies which is an Anglo-Dutch conglomerate and is one of the world's largest oil companies.  In Australia Shell is involved in upstream oil and gas production and operates a downstream oil products business.  Shell is one of four vertically integrated refiner/marketer companies operating in Australia. Coles Myer is Australia's largest retailer and is involved in traditional and discount department stores, grocery supermarkets, liquor retailing, office supplies, direct marketing and electronic retail businesses.  It operates two grocery supermarket businesses in Coles Supermarkets and Bi-Lo. The Commission carefully considered the competitive impact of the proposed alliance and conducted extensive market inquiries consulting with a range of interested parties. Although the Commission noted a high level of concern expressed regarding the proposed alliance, the proposal did not cross any of the Commission's concentration thresholds for the exercise of market power.  Shell will not increase its overall market share in fuel wholesaling simply through its participation in the proposed alliance whereas Coles Myer represented an entirely new entrant into fuel retailing. In effect, the proposed alliance will result in Coles Myer taking over an existing position in fuel retailing currently occupied by Shell.  On this basis, the Commission concluded that the proposed alliance is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "5321"
+  }
+}

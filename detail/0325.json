@@ -1,0 +1,57 @@
+{
+  "id": "0325",
+  "title": "Amalgamated Holdings Limited, Village Roadshow Limited - completed acquisition of the Loganholme Hyperplex Cinemas Hyperplex",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amalgamated-holdings-limited-village-roadshow-limited-completed-acquisition-of-the-loganholme-hyperplex-cinemas-hyperplex",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52221",
+  "industries": [
+    "Cinema"
+  ],
+  "date_completed": "11 September 2014",
+  "date_completed_iso": "2014-09-11T12:00:00Z",
+  "date_commenced": "24 September 2013",
+  "date_commenced_iso": "2013-09-24T12:00:00Z",
+  "total_review_days": 209,
+  "acquirers": [
+    "Amalgamated Holdings Limited and Village Roadshow Limited"
+  ],
+  "targets": [
+    "Pacific Cinemas (Loganholme) Hyperplex"
+  ],
+  "timeline": [
+    {
+      "date": "24 Sep 2013",
+      "date_iso": "2013-09-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Oct 2013",
+      "date_iso": "2013-10-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Oct 2013",
+      "date_iso": "2013-10-31T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 14 November 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "11 Dec 2013",
+      "date_iso": "2013-12-11T12:00:00Z",
+      "event": "The merger parties completed the acquisition."
+    },
+    {
+      "date": "12 Dec 2013",
+      "date_iso": "2013-12-12T12:00:00Z",
+      "event": "ACCC received further information from AHL."
+    },
+    {
+      "date": "11 Sep 2014",
+      "date_iso": "2014-09-11T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC will however continue to monitor the effect of the acquisition on competition in the relevant market."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Amalgamated Holdings Limited and Village Roadshow Limited, by way of a 50:50 joint venture company, acquired Pacific Cinemas (Loganholme) Pty Ltd (trading as the Loganholme Hyperplex Cinemas)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1663",
+  "title": "Acquirer: Mayne Group Ltd; Target: Port Macquarie Medical Imaging",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mayne-group-ltd-target-port-macquarie-medical-imaging",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15606",
+  "industries": [],
+  "date_completed": "2 April 2002",
+  "date_completed_iso": "2002-04-02T12:00:00Z",
+  "date_commenced": "4 March 2002",
+  "date_commenced_iso": "2002-03-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Mayne Group Ltd"
+  ],
+  "targets": [
+    "Port Macquarie Medical Imaging"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Mayne Group proposed acquiring Port Macquarie Medical Imaging (PMMI), the major provider of medical imaging services in the mid-north coast of NSW.",
+    "Market definition": "The market for medical imaging services, ranging from general X-ray upwards to the most sophisticated imaging techniques.  The geographic limits of the market were found to vary depending on the nature of the service being provided.  General X-ray services were found to be quite localised while sophisticated services, such as cat scans, draw from a much wider geographic area due to their relative scarcity.  There are also licensing restrictions for some equipment.",
+    "Competition analysis": "The Commission decided not to oppose Mayne's acquisition of PMMI because: - while PMMI is by far the largest provider of diagnostic imaging services in the region, and in some locations is the only provider, Mayne does not have any presence in diagnostic imaging in the mid-north coast region of NSW - the acquisition represents a change of ownership but not a change to the number of competitors - the vertical links between Mayne's private hospital activities and diagnostic imaging represented a relatively small part of the overall market Given all the circumstances of the nid-north coast region, the Panel decided that the acquisition was unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "8622"
+  }
+}

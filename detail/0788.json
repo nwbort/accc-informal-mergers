@@ -1,0 +1,44 @@
+{
+  "id": "0788",
+  "title": "Pact Group Pty Ltd - proposed acquisition of certain assets of Huhtamaki Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-certain-assets-of-huhtamaki-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36410",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "10 March 2009",
+  "date_completed_iso": "2009-03-10T12:00:00Z",
+  "date_commenced": "30 January 2009",
+  "date_commenced_iso": "2009-01-30T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Huhtamaki Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jan 2009",
+      "date_iso": "2009-01-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Feb 2009",
+      "date_iso": "2009-02-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Mar 2009",
+      "date_iso": "2009-03-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group (parent company of VIP Packaging) proposed to acquire Huhtamaki Australia 's Albury manufacturing plant which is used for the manufacture of certain types of containers made of expanded polystyrene foam, including meat trays, plates and hamburger clams.",
+    "Market definition": "The ACCC considered the relevant market was, at its narrowest, the market for the manufacture and supply of expanded polystyrene (EPS) trays in Australia. EPS trays are primarily used in the packaging of meat and poultry.",
+    "Competition analysis": "TThe ACCC concluded that the proposed acquisition was not likely to result in a substantial lessening of competition in the relevant market. While the merged entity will be the dominant supplier of EPS trays post-acquisition, the ACCC concluded that the threat of imports is likely to constrain the pricing behaviour of the merged firm. Market inquiries indicated that there are no significant barriers to importing EPS trays. Several customers indicated that they would be in a position to expand their EPS tray imports should the merged entity seek to increase its prices."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1467",
+  "title": "Acquirer: Ridley Agriproducts Pty Ltd (Ridley Corporation Limited); Target: Tableland Stockfeed Specialists Pty Ltd (Athmaize Co)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ridley-agriproducts-pty-ltd-ridley-corporation-limited-target-tableland-stockfeed-specialists-pty-ltd-athmaize-co",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19938",
+  "industries": [],
+  "date_completed": "9 August 2004",
+  "date_completed_iso": "2004-08-09T12:00:00Z",
+  "date_commenced": "8 July 2004",
+  "date_commenced_iso": "2004-07-08T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ridley Agriproducts Pty Ltd (Ridley Corporation Limited)"
+  ],
+  "targets": [
+    "Tableland Stockfeed Specialists Pty Ltd (Athmaize Co)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The parties informed the ACCC of a proposed unincorporated joint venture between Ridley Agriproducts Pty Ltd and Tableland Stockfeed Specialists Pty Ltd.  The parties manufacture and distribute stockfeed in the Atherton Tableland region of Queensland.",
+    "Market definition": "For competition assessment purposes, the relevant market in this instance was considered to be the Atherton Tableland regional market for the supply of stockfeed.",
+    "Competition analysis": "Although the ACCC's concentration thresholds are crossed, barriers to entry are relatively low and the jv parties will be constrained by Fred Barletta, a competitor who is expected to provide vigorous and effective competition in the market.  On this basis the ACCC determined that a substantial lessening of competition was unlikely.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties"
+  }
+}

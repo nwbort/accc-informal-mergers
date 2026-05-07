@@ -1,0 +1,62 @@
+{
+  "id": "0627",
+  "title": "Murray Goulburn Co-operative Co. Limited - proposed acquisition of Warrnambool Cheese and Butter Factory Company Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/murray-goulburn-co-operative-co-limited-proposed-acquisition-of-warrnambool-cheese-and-butter-factory-company-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40744",
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "2 June 2010",
+  "date_completed_iso": "2010-06-02T12:00:00Z",
+  "date_commenced": "22 February 2010",
+  "date_commenced_iso": "2010-02-22T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Murray Goulburn Co-operative Co. Limited"
+  ],
+  "targets": [
+    "Warrnambool Cheese and Butter Factory Company Holdings Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "22 Feb 2010",
+      "date_iso": "2010-02-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Mar 2010",
+      "date_iso": "2010-03-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Apr 2010",
+      "date_iso": "2010-04-22T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date for announcement of ACCC's findings, of 22 April 2010, amended to allow for the Statement of Issues."
+    },
+    {
+      "date": "30 Apr 2010",
+      "date_iso": "2010-04-30T12:00:00Z",
+      "event": "Murray Goulburn requested additional time, beyond 7 May 2010, to respond to the Statement of Issues."
+    },
+    {
+      "date": "7 May 2010",
+      "date_iso": "2010-05-07T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "12 May 2010",
+      "date_iso": "2010-05-12T12:00:00Z",
+      "event": "ACCC requested further information from Murray Goulburn, ACCC timeline suspended. Former proposed date for announcement of ACCC's findings, of 3 June 2010, amended to allow for Murray Goulburn to respond to the Statement of Issues and information request."
+    },
+    {
+      "date": "2 Jun 2010",
+      "date_iso": "2010-06-02T12:00:00Z",
+      "event": "Murray Goulburn announced that it did not intend to proceed with the proposed acquisition and withdrew its application for ACCC merger clearance. Consequently, the ACCC ceased its review of the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Murray Goulburn sought ACCC merger clearance regarding its proposed acquisition of Warrnambool Cheese and Butter Factory. The parties overlapped in the acquisition of raw milk from farmers and in the manufacture and supply of a range of fresh and non-fresh milk and dairy products."
+  }
+}

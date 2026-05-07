@@ -1,0 +1,30 @@
+{
+  "id": "1677",
+  "title": "Acquirer: Veritas DGC Inc; Target: Petroleum Geo-Services ASA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-veritas-dgc-inc-target-petroleum-geo-services-asa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15569",
+  "industries": [],
+  "date_completed": "6 March 2002",
+  "date_completed_iso": "2002-03-06T12:00:00Z",
+  "date_commenced": "22 February 2002",
+  "date_commenced_iso": "2002-02-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Veritas DGC Inc"
+  ],
+  "targets": [
+    "Petroleum Geo-Services ASA"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Petroleum Geo-Services ASA and Veritas DGC Inc propose to merge their global operations. The parties each own Australian corporations and conduct some of their operations within Australia. In Australia, the parties provide oilfield services and in particular onshore seismic data processing and offshore seismic data acquisition services to the oil and gas companies.",
+    "Market definition": "Global offshore seismic data acquisition market; and Global onshore seismic data processing market",
+    "Competition analysis": "Petroleum Geo-Services ASA and Veritas DGC Incoporated propose to merge their global operations. The parties each own Australian corporations and conduct some of their operations within Australia. PGS and Veritas provide oilfield services and in particular, onshore seismic data processing and offshore seismic data acquisition services to the oil and gas companies for exploration and production purposes. The relevant markets are the global onshore seismic data processing market and global offshore seismic data acquisition market. In data processing there is adequate competition and low barriers to entry. In data acquisition there is sufficient competition in the international market. The UK Department of Trade and Industry and the US anti-trust authorities have not opposed the merger.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties"
+  }
+}

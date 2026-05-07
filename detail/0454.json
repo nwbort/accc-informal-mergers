@@ -1,0 +1,99 @@
+{
+  "id": "0454",
+  "title": "FOXTEL - proposed acquisition of Austar United Communications Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/foxtel-proposed-acquisition-of-austar-united-communications-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45178",
+  "industries": [
+    "Subscription television"
+  ],
+  "date_completed": "10 April 2012",
+  "date_completed_iso": "2012-04-10T12:00:00Z",
+  "date_commenced": "26 May 2011",
+  "date_commenced_iso": "2011-05-26T12:00:00Z",
+  "total_review_days": 106,
+  "acquirers": [
+    "FOXTEL"
+  ],
+  "targets": [
+    "Austar United Communications Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 May 2011",
+      "date_iso": "2011-05-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jun 2011",
+      "date_iso": "2011-06-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jul 2011",
+      "date_iso": "2011-07-22T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "11 Aug 2011",
+      "date_iso": "2011-08-11T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "19 Aug 2011",
+      "date_iso": "2011-08-19T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. Former proposed decision date of 8 September 2011 delayed. ACCC timeline suspended pending receipt. ACCC will announce a new proposed decision date upon receipt of further information from the parties."
+    },
+    {
+      "date": "14 Oct 2011",
+      "date_iso": "2011-10-14T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Nov 2011",
+      "date_iso": "2011-11-28T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of FOXTEL to allow it to make further submissions. Former proposed decision date of 30 November 2011 delayed. ACCC will announce a new proposed decision date in due course."
+    },
+    {
+      "date": "7 Mar 2012",
+      "date_iso": "2012-03-07T12:00:00Z",
+      "event": "ACCC commenced market inquiries on the draft s.87B undertaking proffered by the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Mar 2012",
+      "date_iso": "2012-03-20T12:00:00Z",
+      "event": "Closing date for submissions relating to draft s.87B undertaking."
+    },
+    {
+      "date": "27 Mar 2012",
+      "date_iso": "2012-03-27T12:00:00Z",
+      "event": "ACCC timeline suspended to allow FOXTEL and the ACCC to continue negotiations on the draft s.87B undertaking. Former proposed decision date of 29 March 2012 delayed. A new decision date will be published as soon as possible."
+    },
+    {
+      "date": "5 Apr 2012",
+      "date_iso": "2012-04-05T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "9 Apr 2012",
+      "date_iso": "2012-04-09T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    },
+    {
+      "date": "10 Apr 2012",
+      "date_iso": "2012-04-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": "29 Apr 2013",
+      "date_iso": "2013-04-29T12:00:00Z",
+      "event": "ACCC executed a variation to 87B undertaking."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to attached Public Competition Assessment.",
+    "Undertakings": "Variation to 87B undertaking -  24 July 2013. The ACCC consented to a variation to the section 87B Undertaking given by FOXTEL Management Pty Ltd (for and on behalf of the FOXTEL Partnership) on 9 April 2012. On 28 June 2013, News Corporation split into two separate entities, Twenty-First Century Fox Inc and the new News Corporation, with the FOXTEL assets being held by the new News Corporation. Following the split, Twenty-First Century Fox Inc is not an Ultimate Shareholder of FOXTEL. As a result, the Undertaking would prevent FOXTEL from entering into exclusive agreements for content supplied by Twenty-First Century Fox Inc. The purpose of the variation is to permit FOXTEL to enter into exclusive arrangements for content supplied by Twenty-First Century Fox Inc that, prior to the split of News Corporation, was being supplied to FOXTEL by News Corporation and its affiliates on an exclusive basis, namely FOX News, FX, FX HD and Baby TV."
+  }
+}

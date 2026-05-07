@@ -1,0 +1,54 @@
+{
+  "id": "0473",
+  "title": "Seagate Technology PLC - proposed acquisition of the hard disk drive business of Samsung Electronics Co Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seagate-technology-plc-proposed-acquisition-of-the-hard-disk-drive-business-of-samsung-electronics-co-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46180",
+  "industries": [
+    "Computer hardware"
+  ],
+  "date_completed": "13 December 2011",
+  "date_completed_iso": "2011-12-13T12:00:00Z",
+  "date_commenced": "15 July 2011",
+  "date_commenced_iso": "2011-07-15T12:00:00Z",
+  "total_review_days": 85,
+  "acquirers": [
+    "Seagate Technology PLC"
+  ],
+  "targets": [
+    "Samsung Electronics Co Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jul 2011",
+      "date_iso": "2011-07-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Aug 2011",
+      "date_iso": "2011-08-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Aug 2011",
+      "date_iso": "2011-08-16T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 25 August 2011 delayed to allow for provision of the information."
+    },
+    {
+      "date": "16 Sep 2011",
+      "date_iso": "2011-09-16T12:00:00Z",
+      "event": "The ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Dec 2011",
+      "date_iso": "2011-12-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Seagate Technology PLC (Seagate) proposed to acquire the hard disk drive (HDD) business of Samsung Electronics Co Ltd (Samsung). Seagate and Samsung's HDD businesses manufacture and sell HDDs and branded external hard disk drives, also known as external storage devices (ESDs). Seagate's operations are vertically integrated upstream in the manufacturing of key components whereas Samsung is not. In Australia, both Seagate and Samsung are present through their subsidiaries which have limited sales functions. Sales in Australia are made primarily through distributors. The ACCC conducted its review of this matter concurrently with its assessment of Western Digital Corporation's (WD) proposed acquisition of Hitachi Global Storage Technologies (recently renamed Viviti Technologies)(HGST). The ACCC liaised closely with overseas regulators throughout its review.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following HDD global markets: - HDDs for desktop computers - 3.5\" HDDs - HDDs for mobile devices - 2.5\" HDDs - HDDs for consumer electronic devices - both 3.5\" and 2.5\" HDDs - HDDs for 'mission critical' enterprise storage systems - both 3.5\" and 2.5\" HDDs - HDDs for 'business critical' enterprise servers - both 3.5\" and 2.5\" HDDs The ACCC considered that ESDs form a separate product market with a geographic scope limited to the Asia Pacific region.",
+    "Competition analysis": "The proposed acquisition will increase concentration in what are already highly concentrated markets. This is because post-mergers of both WD/HGST and Seagate/Samsung, the number of manufacturers in these HDD markets reduces from four global suppliers to only two global suppliers. While the ACCC considered that a merger of Seagate and Samsung would result in further concentration in the relevant global markets, the ACCC's investigation concluded that Samsung is not a close competitor to Seagate, that Samsung is not a leader of innovation or price discounting in the HDD industry, and the removal of Samsung from the relevant HDD markets is unlikely to result in a substantial lessening of competition. The ACCC has decided not to oppose the proposed acquisition."
+  }
+}

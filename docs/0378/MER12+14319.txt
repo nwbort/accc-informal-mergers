@@ -1,0 +1,735 @@
+ 
+Page 1 of 15 
+ 
+ 
+ 
+ 
+Statement of Issues 
+20 December 2012 
+ Telstra Corporation Limited - proposed acquisition of 
+Adam Internet Pty Ltd 
+Introduction 
+1. Outlined below is the Statement of Issues released by the Australian Competition 
+and Consumer Commission (ACCC) on the proposed acquisition of Adam 
+Internet Pty Ltd (Adam) by Telstra Corporation Limited (Telstra) (proposed 
+acquisition). 
+2. A Statement of Issues published by the ACCC is not a final decision about a 
+proposed acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well 
+as identifying the lines of further inquiry that the ACCC wishes to undertake. 
+3. In line with the ACCC’s Merger Review Process Guidelines (available at 
+www.accc.gov.au/processguidelines ) the ACCC has established a secondary 
+timeline for further consideration of the issues. The ACCC anticipates completing 
+further market inquiries by 24 January 2013 and anticipates making a final 
+decision on 7 February 2013. However, the anticipated timeline can change in 
+line with the Merger Review Process Guidelines. To keep abreast of possible 
+changes in relation to timing and to find relevant documents, market participants 
+should visit the Mergers Register on the ACCC's website at 
+www.accc.gov.au/mergersregister. 
+4. A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+Background 
+5. On 24 October 2012 Telstra provided its submission to the ACCC seeking 
+informal clearance of the proposed acquisition. The ACCC commenced a review 
+on 25 October 2012 and issued a market inquiries letter on 26 October 2012. 
+The parties 
+Telstra Corporation Limited 
+6. Telstra is the major wholesale and retail supplier of telecommunications services 
+in Australia and retains a dominant market position in many telecommunications 
+
+
+ 
+Page 2 of 15 
+markets. Telstra also owns the near ubiquitous copper network which its 
+competitors need to access and interconnect with in order to compete against it.  
+7. Specifically, in relation to the proposed acquisition, Telstra provides the following 
+retail services: 
+a. retail fixed broadband services to residential customers, including through its 
+BigPond brand; 
+b. subscription television services (FOXTEL); 
+c. mobile broadband services;  
+d. fixed and mobile voice services; and 
+e. business and corporate data services. 
+8. Telstra provides retail fixed line telecommunications services through a 
+combination of its near ubiquitous copper network, its hybrid fibre coaxial cable 
+(HFC) network (located in Adelaide, Melbourne, Sydney, Brisbane, Gold Coast 
+and Perth) and the National Broadband Network (NBN). Telstra also owns 50 per 
+cent of the subscription television provider, FOXTEL. 
+9. Telstra provides a number of wholesale services to other carriers and carriage 
+service providers (access seekers) over its copper network, including services 
+that are regulated by the ACCC under Part XIC of the Competition and Consumer 
+Act 2010 (Cth) (the Act).  
+Adam Internet Pty Ltd 
+10. Adam is a privately owned telecommunications services provider. It provides 
+services to residential, government and business customers primarily in South 
+Australia and also in the Northern Territory. Adam provides the following retail 
+services: 
+a. fixed broadband services to residential customers; 
+b. mobile voice and broadband services (using the Optus network); 
+c. voice over internet protocol (VoIP) services; 
+d. subscription television services such as Fetch TV; and 
+e. business and corporate data services. 
+11. Adam owns digital subscriber line access multiplexers (DSLAMs) in South 
+Australia that it uses in combination with a number of wholesale services 
+acquired from Telstra and other wholesale service providers to provide retail fixed 
+broadband and VoIP services. Adam also provides retail broadband services 
+over its WiMAX network and has commenced providing services over the NBN. 
+Other industry participants 
+iiNet 
+12. iiNet is a national provider of telecommunications services including fixed and 
+mobile broadband and voice, subscription television and web hosting services.  
+iiNet provides these services through the iiNet, Westnet, Netspace, TransACT 
+and Internode brands.   
+13. Purchased by iiNet in 2011, the Internode brand provided iiNet with a significantly 
+increased infrastructure and customer presence in South Australia.   
+
+
+ 
+Page 3 of 15 
+Optus 
+14. Owned by the Singtel Group, Optus is a national provider of telecommunications 
+services including fixed and mobile broadband and voice, subscription television, 
+hosting and wholesale transmission services.    
+TPG 
+15. TPG is a national provider of telecommunications services including fixed and 
+mobile broadband and voice, subscription television and web hosting services.  
+Through subsidiaries Pipe Networks and Trusted Cloud, TPG also provides 
+wholesale transmission and corporate hosting services.    
+Dodo 
+16. Dodo is a national provider of telecommunications services including fixed and 
+mobile broadband and voice services. Dodo also provides electricity and 
+insurance services.   
+The transaction 
+17. Telstra proposes to acquire all of the issued shares in Adam Holdings Internet 
+Pty Ltd, which owns all of the issued shares in Adam. The proposed acquisition 
+was publicly announced on 24 October 2012 and is subject to ACCC approval. 
+18. Telstra submits that its commercial rationale for the proposed acquisition is to 
+operate an alternative low cost operating model which will be made available to 
+customers nationally and which offers opportunities for growth, particularly 
+among budget conscious consumers. 
+Market inquiries 
+19. On 26 October 2012 the ACCC commenced market inquiries regarding the 
+proposed acquisition. A range of interested parties provided responses, including 
+competitors, customers and suppliers. 
+With/without test  
+20. Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to 
+the likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+21. For the purpose of this Statement of Issues, the ACCC considers that it is most 
+appropriate to proceed on the basis that in the absence of the proposed 
+acquisition, the status quo – that is, Adam continuing to conduct its independent 
+telecommunications business as described in paragraphs 10 and 11 above - 
+would continue. The ACCC has not received any information which would 
+suggest that, absent the proposed acquisition, it is likely that Adam would either 
+leave the market or be acquired by a different entity. 
+
+
+ 
+Page 4 of 15 
+22. The ACCC also notes that the future competitive environment is likely to be 
+influenced by the operation of the measures set out in the Structural Separation 
+Undertaking and the Migration Plan that will apply to Telstra’s supply of fixed line 
+access services to its wholesale customers for a designated period. An 
+explanation of these measures and their impact on competition in the future 
+competitive environment ‘with’ the proposed acquisition, and in the future 
+competitive environment ‘without’ the proposed acquisition is discussed in 
+paragraphs 28-35 below. 
+Industry background 
+Regulatory framework 
+23. The provision of telecommunications services in Australia is regulated by, among 
+other measures, Parts XIB and XIC of the Act. 
+24. Part XIB contains industry specific prohibitions against anti-competitive conduct 
+in the telecommunications industry, which are based on the general prohibitions 
+in Part IV of the Act. 
+25. Part XIC establishes an industry specific regime for regulated access to carriage 
+services and was introduced to make provision for an access regime to promote 
+the long-term interests of end-users of telecommunications services. This 
+framework governs the terms and conditions on which Telstra, as the owner of 
+the network infrastructure, must provide access seekers with services that have 
+been declared under Part XIC of the Act (declared services). 
+26. Under this framework, the ACCC regulates Telstra’s provision of declared 
+services to its wholesale customers (i.e. as access seekers), including by setting 
+price and non-price terms relating to the supply of the services. 
+The National Broadband Network 
+27. On 7 April 2009 the Government announced that it intended to establish the 
+National Broadband Network Corporation Ltd (NBN Co) to build and operate a 
+wholesale only, open access national broadband network. The Government’s 
+objective is for NBN Co to connect 93 per cent of Australian premises with fibre to 
+the premises technology with remaining premises being serviced by a 
+combination of fixed wireless and satellite technologies. 
+Structural reform 
+28. The Government has implemented broader reform to the structure of the 
+telecommunications industry to assist in the transition to the NBN. As a part of 
+this reform, the Telecommunications Legislation Amendment (Competition and 
+Consumer Safeguards) Act (CACS Act) was passed in November 2010, which 
+introduced a framework to address Telstra’s level of vertical integration. 
+29. The Government has previously stated that Telstra’s high level of integration has 
+hindered the development of effective competition in the sector.1 The reforms 
+brought about by the CACS Act were intended to address competition concerns 
+caused by Telstra’s vertical integration which were not adequately remedied by 
+the existing accounting2 and operational separation regimes. 
+30. Under the framework introduced by the CACS Act, Telstra could elect to either 
+submit a voluntary structural separation undertaking or be subject to mandatory 
+functional and horizontal separation. 
+                                                 
+ 
+1  
+Explanatory Memorandum to the Telecommunications (Competition and Consumer Safeguards) 
+Bill 2010, p.1 
+2  
+The accounting separation measures require revenue and cost information for wholesale and retail 
+services to be reported to the ACCC.  
+
+
+ 
+Page 5 of 15 
+31. Telstra elected to submit a structural separation undertaking and draft migration 
+plan, which were subject to the approval of the ACCC. A structural separation 
+undertaking (SSU) and final Migration Plan were accepted by the ACCC and 
+came into force on 6 and 7 March 2012, respectively. 
+32. The SSU essentially provides (with some exceptions) that at all times after the 
+designated date Telstra will no longer provide retail voice and broadband 
+services using a network that it controls, primarily its copper and HFC networks. 
+The designated day is currently 1 July 2018, but may be extended by the 
+Minister3. The Migration Plan provides assurances regarding the way in which 
+Telstra will disconnect services from its copper and HFC networks. 
+33. Telstra has also entered into commercial agreements with NBN Co (the 
+Definitive Agreements) that govern, among other things, the terms on which 
+Telstra will disconnect its fixed line customers from its networks and provide 
+services and access to key infrastructure to NBN Co. Under these arrangements, 
+Telstra will progressively disconnect services from its fixed line networks as the 
+NBN is rolled out. 
+34. Given this progressive implementation of the structural reform, the SSU also 
+specifies a range of measures that will apply to Telstra’s supply of fixed line 
+access services to its wholesale customers during the period up until the 
+designated date (Interim Equivalence and Transparency Measures). These 
+measures are intended to promote equivalence and transparency in Telstra’s 
+supply of these services to wholesale customers and its retail businesses. 
+35. The structural arrangements of Telstra and the measures that will apply to the 
+disconnection of services during the transition period to the NBN will be an 
+important determinant of the nature and scope of competition which will exist in 
+Australia’s telecommunications markets for at least the next 8 to10 years while 
+the NBN is rolled out. 
+Fixed broadband services 
+36. In Australia, fixed broadband services are provided to residential and business 
+customers using a range of technologies, including ADSL services (provided over 
+Telstra’s copper network), cable services (provided predominately over Telstra 
+and Optus’ HFC networks) and fibre services (provided over the NBN and other 
+fibre networks). ADSL broadband services are currently the dominant technology 
+for the provision of fixed internet connections in Australia. 
+37. As an alternative to fixed broadband services, broadband can also be provided 
+using fixed wireless services (including WiMAX), mobile wireless and satellite 
+services.  
+38. Providers of retail ADSL broadband services can supply these services using two 
+broad methods: 
+ 
+Purchasing a wholesale ADSL service from an infrastructure owner (e.g. 
+Telstra) and on-selling this service to its retail customers. Retail broadband 
+providers refer to this approach as ‘off-net’ supply. Telstra, as the owner of 
+the copper access network, is the largest provider of wholesale ADSL 
+services. In February 2012, the wholesale ADSL service was declared by the 
+ACCC under Part XIC. 
+ 
+Installing DSLAM infrastructure in Telstra’s exchange buildings and 
+purchasing either an unconditioned local loop service or line sharing service 
+from Telstra. Retail broadband providers refer to this approach as ‘on-net’ 
+supply.  
+                                                 
+ 
+3  
+Section 577A (10) Telecommunications Act 1997 (Cth). 
+
+
+ 
+Page 6 of 15 
+Fixed voice services  
+39. Fixed voice services have traditionally comprised the supply of access (a line) 
+and usage (call services) to provide local, national long distance and international 
+calls generally over the copper network. 
+40. Increasingly VoIP technologies are allowing the provision of fixed voice services 
+over packet switched data networks (e.g. internet). As a result of the regulatory 
+reforms discussed above, fixed voice services will eventually be predominately 
+supplied using the NBN, rather than the copper network. 
+Transmission services 
+41. Transmission capacity broadly refers to links (or ‘backhaul’) which are used to 
+connect service providers’ core networks with points of service delivery (such as 
+exchanges). The domestic transmission capacity service (DTCS) is a declared 
+service. Transmission capacity is an important input into the ability of service 
+providers to provide downstream retail and wholesale telecommunications 
+services. 
+42. Service providers either acquire wholesale transmission services from a third 
+party network owner or utilise their own transmission network. 
+Data centre services  
+43. Data centre services encompass the provision of data storage and data 
+management services from a secure physical facility that is specifically designed 
+to contain computing and telecommunications equipment. The services that may 
+be offered using a data centre include: 
+ 
+co-location: the customer leases space from the provider and installs and 
+maintains their own IT equipment in the facility either for the self supply of 
+services or the supply of managed ICT services to third parties; and/or 
+ 
+managed ICT: the provider offers a package of services to the customer, 
+often including the hosting of data and transportation of the data to the centre, 
+utilising the equipment owned by the provider which is located in the data 
+centre.  
+Market definition  
+44. On the basis of market inquiries to date, the ACCC’s preliminary view is that the 
+following product markets are likely to be relevant in assessing the proposed 
+acquisition: 
+ 
+the supply of retail fixed broadband services;  
+ 
+the supply of retail fixed voice services; 
+ 
+the supply of data centre services;  
+ 
+the supply of wholesale transmission services; and 
+ 
+(potentially) the supply of bundled telecommunications services. 
+
+
+ 
+Page 7 of 15 
+Retail fixed broadband services  
+Product dimension 
+45. Consistent with previous ACCC decisions, whether broadband services are 
+provided via HFC, copper or fibre technologies is unlikely to be a material factor 
+in the ACCC’s assessment of the proposed acquisition.4 From a functional or 
+end-use perspective, the services supplied over copper, HFC and optic fibre 
+technologies all support similar downstream applications.5   
+46. Therefore the ACCC considers that, for the purpose of this analysis, the relevant 
+retail product market includes services provided over different fixed broadband 
+technology, including copper as well as HFC and optic fibre based services 
+(including the NBN). In the context of the proposed acquisition, the ACCC 
+considers it unnecessary to reach a conclusive view regarding whether other 
+technologies, such as fixed wireless and WiMAX form part of the same market. 
+Geographic dimension 
+47. The ACCC has considered the appropriate geographic dimension of the market 
+for the supply of fixed retail broadband services and, in particular, whether for the 
+purposes of this review it is appropriate to consider the competitive effects in the 
+context of a national or South Australian market.   
+48. While it is common for providers of retail fixed broadband services with national 
+brands to maintain nationally advertised pricing policies for those brands, 
+information received during market inquiries suggests there is some degree of 
+localised competition in South Australia. Local competition is present both 
+through the advertised pricing and terms offered by brands based in, or focused 
+on, South Australia, such as Adam and the iiNet brand Internode, and through 
+the pricing responses of national suppliers to local competition. 
+49. Market inquiries indicate that suppliers will target promotions and marketing 
+campaigns in specific geographic areas in response to events such as 
+developments in local competitive dynamics and infrastructure investment. 
+Examples of local competition include Internode’s marketing of discounted fixed 
+broadband offers targeted at South Australian residents, in response to the 
+announcement of the proposed acquisition.  
+50. The extent of local competition also reflects the geographic limitations of the 
+infrastructure put in place by certain suppliers. While Telstra clearly has 
+infrastructure across Australia, the DSLAM infrastructure installed and used by 
+Adam is limited to South Australian local exchanges.  
+51. In relation to national suppliers of fixed broadband services the ACCC 
+understands these suppliers can respond to the localised nature of the 
+competitive threat presented by local brands by offering discounts, price matches 
+or other advantageous terms to individual customers who notify them that they 
+would otherwise ‘churn’ (switch) to a competitor.   
+52. Market definition is a tool to identify and define the boundaries of competitive 
+conduct between the merger parties. Accordingly, the ACCC proposes to 
+consider the proposed acquisition in the context of a South Australian market for 
+retail fixed broadband services. 
+                                                 
+ 
+4  
+ACCC, Telstra’s local carriage service and wholesale line rental exemption applications, Final 
+Decision and Class Exemption, August 2008, page 48.  
+5  
+See ACCAN, NBN: Guide for Consumers – the Basics: The internet and broadband, April 2011, 
+p4.  
+
+
+ 
+Page 8 of 15 
+53. In relation to the issue of concern discussed below at paragraphs 65-74, the 
+ACCC considers that the likely substantial lessening of competition in the supply 
+of retail fixed broadband services would arise irrespective of whether the 
+proposed acquisition is assessed on the basis of a national market or state based 
+markets.  
+54. Retail fixed voice services 
+Product dimension 
+55. Retail fixed voice services broadly refer to the provision of a call or telephony 
+service that enables the end customer to make local, long distance and 
+international voice calls. Some market participants indicated that VoIP 
+technology is increasingly seen as a substitute for standard telephone 
+services provided over the copper network.  
+56. The ACCC considers it unnecessary to reach a conclusive view regarding 
+whether fixed voice services supplied using VoIP are substitutable for those 
+provided over the copper network as even if VoIP services are included within the 
+same market, the increase in Telstra’s market share as a result of the proposed 
+acquisition would be minimal.  
+Geographic dimension 
+57. The market for the supply of retail fixed voice services demonstrates similar 
+characteristics to the market for the supply of retail fixed broadband services and 
+the ACCC considers that a similar approach should be taken to the geographic 
+dimension of this market. The ACCC also notes that in relation to the issue of 
+concern discussed below at paragraphs 65-74, the likely substantial lessening of 
+competition in the supply of retail fixed voice services would also arise 
+irrespective of whether the proposed acquisition is assessed on the basis of a 
+national market or state based markets.   
+Other markets 
+58. The ACCC has also considered the impact of the proposed acquisition on the 
+following markets.  
+Data centre services 
+59. Market inquiries indicate that there may be a market for the provision of data 
+centre services. The ACCC understands that data centre services broadly 
+encompass the storage of data and/or hosting of IT equipment (e.g. servers) in a 
+secure facility. Access to data centre services is considered by market 
+participants who do not own their own facilities to be a key input in the supply of 
+telecommunications and IT services and products, including managed ICT or 
+hosting services.   
+60. The ACCC received mixed information from market participants on the 
+appropriate geographic dimension for the supply of data centre services. Some 
+industry participants consider that interstate data centres would be substitutable 
+for a local data centre while others were of the view that local data centres were 
+important in order to compete for certain managed ICT or hosting services 
+contracts. 
+61. However, market inquiries indicate that post acquisition there would remain a 
+number of alternative data centres available in South Australia, including so-
+called ‘carrier neutral’ data centres with excess capacity and, accordingly, the 
+ACCC considers it unnecessary to reach a conclusive view on the geographic 
+market definition regarding the supply of data centre services.  
+
+
+ 
+Page 9 of 15 
+Wholesale transmission services 
+62. Market inquiries revealed mixed views on the geographic scope of the market for 
+the supply of wholesale transmission services. However, the ACCC did not 
+consider it necessary to reach a view on the appropriate geographic dimension of 
+the relevant market. Market inquiries indicate the size of Adam’s purchases of 
+wholesale services are relatively small and even on a narrow market restricted to 
+South Australia, the proposed acquisition is unlikely to result in a substantial 
+lessening of competition in the supply of wholesale transmission services. 
+Bundled supply of telecommunications services including subscription television 
+services 
+63. Concerns were raised by industry participants that post acquisition, Telstra would 
+be able to utilise Adam to reduce competition in the supply of bundled 
+telecommunications and subscription television services.  
+64. The ACCC does not consider it necessary to reach a view on whether there is a 
+separate market for the supply of bundled telecommunications services 
+encompassing subscription television content as the proposed acquisition would 
+not significantly impact Telstra’s ability and incentive to offer such bundled 
+services.  
+The ACCC invites comments from market participants on its proposed definition of 
+the relevant markets. In particular, market participants may wish to comment on the 
+geographic dimension of the market for retail fixed broadband services, including:   
+(i) the extent to which national retail fixed broadband service providers offer tailored 
+pricing and plans or special offers in South Australia; and  
+(ii) any examples of South Australian based or focused retail fixed broadband 
+service providers, such as Adam, offering products, plans or promotions that are 
+not replicated elsewhere in Australia.  
+Statement of issues 
+65. For the purposes of this Statement of Issues, the issues in this matter are divided 
+into three categories, 'issues of concern', 'issues that may raise concerns' and 
+'issues unlikely to pose concerns'. 
+Issues of concern 
+The proposed acquisition would provide Telstra with the ability and incentive 
+to foreclose competition  
+66. The ACCC has extensively noted the longstanding competition issues that have 
+arisen from Telstra’s ownership of the copper network and its participation in 
+downstream retail markets.6 Telstra’s control over the copper network, combined 
+with its market position, creates an incentive and the ability for it to favour its own 
+retail business in the provision of access to this important infrastructure and 
+thereby lessen competition in the related downstream retail markets, to the 
+detriment of consumers.7  
+67. The structural reform to be implemented by the SSU and Migration Plan is 
+expected to address these concerns. However, the Interim Equivalence and 
+                                                 
+ 
+6  
+ACCC, Submission to the Department of Broadband, Communications and the Digital Economy 
+“National Broadband Network: Regulatory Reform for 21st Century Broadband”, June 2009, pp.18 
+– 39. 
+7  
+Explanatory Memorandum to the Telecommunications Legislation Amendment (Competition 
+and Consumer Issues) Bill 2005, p 13 
+
+
+ 
+Page 10 of 15 
+Transparency Measures in the SSU and elements of the Migration Plan would 
+not apply in an appropriate or effective way to Telstra’s operation of Adam post 
+acquisition. 
+68. The ACCC’s preliminary view is that post acquisition, Telstra would have the 
+ability and incentive to utilise its market power to favour Adam over its wholesale 
+customers in the provision of access to its network infrastructure. The ACCC is 
+concerned that this is likely to reduce the ability of alternative retail fixed voice 
+and broadband service providers to constrain Telstra’s market power at the retail 
+level, significantly foreclosing competition in the markets for the supply of retail 
+fixed voice services and retail fixed broadband services.  
+69. The ACCC’s concerns with the impact of the proposed acquisition, in the 
+absence of an adequate remedy reflect concerns raised in market inquiries. 
+Market participants submitted that the proposed acquisition would allow Telstra to 
+supply services to Adam on terms and conditions that are not equivalent to the 
+terms and conditions upon which Telstra supplies its wholesale customers and 
+this could provide Adam (and, as a consequence, Telstra) with advantages which 
+would likely result in a substantial lessening of competition in the supply of retail 
+fixed voice services and retail fixed broadband services.  
+70. The Interim Equivalence and Transparency Measures in the SSU would not 
+effectively constrain Telstra’s ability to engage in a foreclosure strategy post 
+acquisition. In particular, the ACCC is concerned that, post acquisition, Telstra 
+may have the ability and incentive to engage in discriminatory behaviour, 
+including but not limited to the following: 
+a. Telstra would be able to charge Adam lower prices for key upstream inputs 
+than it charges its wholesale customers.  
+b. Adam (or its employees) may be able to access important information or be 
+informed by Telstra about Telstra’s network issues or operations (including 
+product development) that may not be available to wholesale customers.  
+c. Telstra would be able to supply Adam with services that are not technically or 
+operationally equivalent to those supplied to wholesale customers. For 
+example, Telstra could supply Adam with services of higher quality, with 
+additional functionality or features and not supply an equivalent service to its 
+wholesale customers.  
+d. Adam (or its employees) may be able to access confidential information about 
+Telstra’s wholesale customers. 
+e. Telstra would be able to favour Adam when processing orders from Adam 
+and/or utilise different systems to that which it uses for wholesale customers.  
+f. Telstra would be able to offer its employees incentives to favour Adam over 
+its wholesale customers.  
+71. The ACCC is concerned that, should Telstra engage in such conduct this is likely 
+to have the effect of substantially lessening competition in the markets for retail 
+fixed voice services and retail fixed broadband services.  
+72. The ACCC’s preliminary view is that post acquisition, Telstra’s ability to engage in 
+this conduct is unlikely to be effectively addressed through existing regulatory 
+measures that apply to Telstra’s supply of fixed line access services.  
+73. The ACCC is also concerned that post acquisition, the reporting requirements in 
+the SSU (and the Migration Plan) which enable the ACCC to measure Telstra’s 
+compliance with its ‘equivalence’ obligations would no longer provide an 
+appropriate and effective level of transparency regarding Telstra’s compliance 
+with its Interim Equivalence and Transparency Measures. 
+
+
+ 
+Page 11 of 15 
+74. The ACCC notes that, as a result of the limited application of the Interim 
+Equivalence and Transparency Measures in the SSU, post acquisition Telstra 
+would have the incentive and the ability to divert customers, and/or assets, from 
+its existing retail business to Adam in order to maximise the impact of any such 
+foreclosure strategy. Telstra may also be able to transfer particular wholesale or 
+network functions to Adam and thereby circumvent the relevant obligations in the 
+Interim Equivalence and Transparency Measures that apply to the performance 
+of those functions. 
+75. The ACCC notes that the preliminary competition concerns it has identified in 
+paragraph 65 to 73 arise regardless of whether the proposed acquisition is 
+considered on the basis of a national market or state based markets. 
+The ACCC invites comments from market participants on whether the proposed 
+acquisition is likely to lead to a substantial lessening of competition in the markets for 
+the supply of retail fixed voice and broadband services due to Telstra’s enhanced 
+vertical integration. In particular, the ACCC is seeking further information in relation 
+to: 
+(i)  the potential conduct which Telstra could engage in post acquisition, which may 
+enable Telstra to advantage Adam over its other wholesale customers and/or 
+potentially circumvent the application of the existing Interim Equivalence and 
+Transparency Measures; and 
+(ii)  the likely effect that such conduct may have on competition in the markets for the 
+supply of retail fixed voice and broadband services. 
+Issues that may raise concerns 
+Horizontal aggregation in the provision of retail fixed broadband services in 
+South Australia 
+76. The ACCC’s preliminary view is that the removal of Adam as an independent 
+competitive constraint on Telstra may enable Telstra to increase prices and/or 
+reduce the quality or offering of its retail fixed broadband services in South 
+Australia.   
+77. Telstra is the largest provider of retail fixed broadband services in South Australia 
+in terms of subscriber numbers, while Adam is the third largest. The proposed 
+acquisition would result in Telstra increasing its market share in South Australia 
+from approximately 40-45 per cent to 55-60 per cent.  
+78. While the ACCC notes that Telstra has made public statements that post 
+acquisition the Adam brand will be positioned as a low cost alternative to Telstra, 
+market inquiries indicate that Adam is currently positioned at a broadly similar 
+level to Telstra, targeting customers that prioritise reliable broadband 
+performance and high levels of locally based service in their purchasing 
+decisions. These customers are typically not highly price sensitive.  
+79. The ACCC understands that while Telstra bundles all of its retail fixed broadband 
+services with a retail fixed voice service and Adam sells ‘naked’ fixed broadband 
+services, market inquiries indicate that the effective prices of the Telstra and 
+Adam ADSL2+ offers are comparable. Adam and Telstra also appear to promote 
+similar levels of customer support with personalised support and Australian 
+based call centres as important aspects of their fixed broadband offers. 
+80. The ACCC is continuing to explore the degree to which Telstra and Adam are 
+close competitors to each other, in terms of both price and service levels.   
+
+
+ 
+Page 12 of 15 
+81. Market inquiries indicate that lower priced suppliers such as Dodo and TPG 
+would not be likely to provide a strong constraint on Telstra’s offerings in South 
+Australia post acquisition. Dodo and TPG appear to offer consistently lower 
+prices than both Telstra and Adam, with some market participants considering 
+that these providers target a different segment of the market to Telstra and Adam 
+with less focus on high levels of personalised customer support.  
+82. The ACCC understands that other suppliers including iiNet (via its South 
+Australian focused brand Internode) and Optus are positioned in a similar manner 
+to Adam and Telstra in South Australia. The ACCC is considering the extent to 
+which these other suppliers would continue to constrain Telstra post acquisition – 
+although the ACCC notes that such suppliers would provide a limited constraint 
+on Telstra post acquisition unless the vertical concerns identified in paragraphs 
+65 to 74 above are resolved.   
+83. The ACCC recognises that Telstra currently maintains an advertised national 
+pricing policy. However, the ACCC is concerned that the proposed acquisition 
+may remove the local competitive constraint provided by Adam in South Australia 
+and Telstra’s likely response to this constraint. Post acquisition, customers may 
+be less likely to switch, or to threaten to switch, away from Telstra and Telstra 
+would therefore have less incentive to offer individualised pricing and terms in 
+response to such threats.  
+84. The ACCC is concerned that the proposed acquisition results in the loss of a 
+local competitive response to Telstra and limits the choices available to 
+customers.   
+85. Market inquiries indicate that while Adam is a close competitor to Telstra in terms 
+of its market positioning, Adam also offers differentiated product and service 
+offerings specifically targeted to the South Australian market, providing a 
+competitive response to national competitors and additional choice to customers 
+in South Australia. 
+86. These differentiated offers are often provided through specials or discounts linked 
+to local events or organisations. The ACCC understands that Adam offers a 
+diverse range of discounts and promotions to current and/or potential retail fixed 
+broadband customers in South Australia. Market inquiries have also indicated 
+that Adam’s provision of ‘naked’ ADSL services (which are not offered by Telstra) 
+through its extensive network of DSLAM infrastructure in South Australia are a 
+valued alternative to Telstra’s bundled offering. 
+87. The ACCC considers the likelihood of new entry or significant expansion in the 
+supply of retail fixed broadband services in South Australia to be low in the short 
+to medium term. This market is maturing and the ACCC understands that while 
+access seekers will continue to invest in DSLAMs where it is efficient to do so, 
+DSLAM investment has been decreasing in previous years and the roll out of the 
+NBN is likely to contribute to a continued reduction in investment in DSLAM 
+infrastructure. 
+The ACCC invites comments from market participants on the likely competition 
+effects of the proposed acquisition on the South Australian market for retail fixed 
+broadband services. In particular, interested parties may wish to comment on: 
+(i) the extent to which Adam is currently a close competitor to Telstra, and any 
+competitive harm that is likely to arise from the removal of Adam as a competitor 
+to Telstra in South Australia;  
+(ii) the extent to which Adam currently offers unique product, price or service 
+offerings that are not replicated by other retail fixed broadband service providers 
+in South Australia;    
+
+
+ 
+Page 13 of 15 
+(iii) the level of competitive constraint provided by iiNet/Internode and Optus in retail 
+fixed broadband services in South Australia and the extent to which these 
+operators target similar customers to Telstra and Adam; 
+(iv) the level of competitive constraint provided by TPG and Dodo in retail fixed 
+broadband services in South Australia and the extent to which customers of 
+Telstra and Adam would consider these providers to be strong alternatives; and 
+(v) the likelihood of entry by retail fixed broadband service providers not present in 
+South Australia and/or the likelihood of expansion from providers already present 
+in South Australia, in particular through additional DSLAM investment.  
+Issues unlikely to pose concerns 
+88. The ACCC considers that the proposed acquisition is unlikely to pose competition 
+concerns in respect of the following issues. However, the ACCC will accept 
+submissions from industry participants on these issues and will further consider 
+potential competition issues if it considers that such an assessment is warranted.  
+Removal of a supplier of data centre services in South Australia 
+89. Adam currently operates data centres in South Australia and concerns were 
+raised that post acquisition Telstra may limit access by third parties to Adam’s 
+data centre, potentially limiting competition in downstream markets for the supply 
+of managed ICT and hosting services. The ACCC understands that access to 
+data centres is considered an important requirement to be able to compete in this 
+downstream market. 
+90. The ACCC considers that the proposed acquisition is unlikely to substantially 
+lessen competition in the supply of data centre services or related downstream 
+markets, regardless of the market definition adopted, due to the availability of 
+alternative data centres including in South Australia, such as Metronode, 
+Hostworks, Internode and the recent entrant Tier5. Market inquiries indicate that 
+most of these alternative suppliers are likely to have spare capacity.  
+Removal of a contestable customer for the supply of wholesale transmission 
+services in South Australia 
+91. The ACCC has considered whether the proposed acquisition would remove a 
+significant amount of contestable demand for the acquisition of wholesale 
+transmission services in South Australia. Adam currently acquires wholesale 
+transmission services from a range of suppliers and concerns have been raised 
+that if Adam were to acquire these services from Telstra post acquisition, this 
+would foreclose rival providers’ access to customers, potentially reducing the 
+ability and incentive of suppliers of these services to invest and expand their 
+wholesale transmission networks in the state. 
+92. The ACCC’s preliminary view is that the size of Adam’s purchases of wholesale 
+transmission services is relatively small in relation to the total transmission 
+services required nationally and also in South Australia and that were Adam to 
+ultimately obtain these services from Telstra then this would be unlikely to 
+deprive rival wholesale transmission service providers of a sufficient customer 
+base even in the narrow market of South Australia.  
+93. Accordingly, the ACCC considers that the proposed acquisition is unlikely to 
+result in a substantial lessening of competition in the provision of wholesale 
+transmission services in South Australia.  
+
+
+ 
+Page 14 of 15 
+Bundling of subscription television with retail fixed broadband services in 
+South Australia and nationally 
+94. Some market participants have expressed concern that the proposed acquisition 
+may have an adverse effect on competition in the market for retail fixed 
+broadband services and any emerging market(s) for the provision of bundled 
+services encompassing subscription television content. It has been submitted that 
+this could occur if the FOXTEL content that Telstra acquires is supplied in 
+conjunction with the Adam brand post acquisition.   
+95. In particular, it has been claimed that if Telstra bundled FOXTEL with Adam’s 
+fixed retail broadband services, it would provide Adam’s services with a 
+significant competitive advantage over rival’s offerings, potentially jeopardising 
+the commercial viability of competing providers and their ability to constrain 
+Telstra post acquisition, particularly in the provision of retail fixed broadband 
+services.   
+96. The ACCC’s preliminary view is that any competitive advantage that Telstra 
+obtains as a result of its pre-existing relationship with FOXTEL exists with and 
+without the proposed acquisition. For this reason, the ACCC considers it unlikely 
+the acquisition of Adam would enable Telstra to exercise any additional market 
+power in the market for retail fixed broadband services and in any emerging 
+market(s) for the provision of broadband services encompassing subscription 
+television content that it would not have otherwise been able to exercise in the 
+absence of the proposed acquisition. The ACCC also does not consider the 
+proposed acquisition is likely to substantially increase Telstra’s incentives to 
+exercise any such market power and engage in a foreclosure strategy.  
+Horizontal aggregation in retail fixed voice services 
+97. The overlap in the merger parties’ activities in retail fixed voice services is 
+minimal. While Telstra is the leading supplier of retail fixed voice services in 
+South Australia and also nationally, Adam does not currently provide traditional 
+fixed line telephone services. Adam does however provide a relatively small 
+number of VoIP services in South Australia. 
+98. The ACCC considers that even if VoIP and traditional fixed line telephone 
+services are included in the same market the proposed acquisition is unlikely to 
+have an impact on competition for the provision of retail fixed voice services 
+given the increase in Telstra’s market share would be minimal. 
+The ACCC invites comments from market participants on the likely competitive 
+effects of the proposed acquisition on the markets identified above.  
+ACCC's future steps 
+99. The ACCC will finalise its view on this matter after it considers market responses 
+invited by this Statement of Issues.   
+100. 
+The ACCC now seeks submissions from market participants on each of the 
+issues identified in this Statement of Issues and on any other issue that may be 
+relevant to the ACCC's assessment of this matter. 
+101. Submissions are to be received by the ACCC no later than 24 January 2013. 
+The ACCC will consider the submissions received from the market and the 
+merger parties in light of the issues identified above and will, in conjunction with 
+information and submissions already provided by the parties, come to a final view 
+in light of the issues raised above. 
+
+
+ 
+Page 15 of 15 
+102. The ACCC intends to publicly announce its final view by 7 February 2013. 
+However the anticipated timeline may change in line with the Merger Review 
+Process Guidelines. A Public Competition Assessment for the purpose of 
+explaining the ACCC's final view may be published following the ACCC's public 
+announcement. 
+ 
+ 
+ 
+ 

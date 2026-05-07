@@ -1,0 +1,47 @@
+{
+  "id": "0152",
+  "title": "EG Group - potential acquisition of Caltex Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/eg-group-potential-acquisition-of-caltex-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Fuel - retail operations"
+  ],
+  "date_completed": "30 April 2020",
+  "date_completed_iso": "2020-04-30T12:00:00Z",
+  "date_commenced": "2 March 2020",
+  "date_commenced_iso": "2020-03-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "EG Group"
+  ],
+  "targets": [
+    "Caltex Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Mar 2020",
+      "date_iso": "2020-03-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "20 Mar 2020",
+      "date_iso": "2020-03-20T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "23 Mar 2020",
+      "date_iso": "2020-03-23T12:00:00Z",
+      "event": "Timeline suspended pending receipt of further information. Former provisional date for announcement of findings (11 June 2020) is delayed. The ACCC will announce a new provisional decision date in due course."
+    },
+    {
+      "date": "30 Apr 2020",
+      "date_iso": "2020-04-30T12:00:00Z",
+      "event": "The ACCC decided it would discontinue its investigation into the proposed acquisition. The review may be recommenced subsequently."
+    }
+  ],
+  "body_sections": {
+    "Summary": "EG Group submitted a proposal to acquire Caltex Australia Limited."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1206",
+  "title": "Silver Top Taxi Service Limited - proposed acquisition of Murrell Enterprises Pty Ltd trading as Bay City Cabs (BCC)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/silver-top-taxi-service-limited-proposed-acquisition-of-murrell-enterprises-pty-ltd-trading-as-bay-city-cabs-bcc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24943",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "13 October 2006",
+  "date_completed_iso": "2006-10-13T12:00:00Z",
+  "date_commenced": "15 September 2006",
+  "date_commenced_iso": "2006-09-15T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Silver Top Taxi Service Limited"
+  ],
+  "targets": [
+    "Murrell Enterprises Pty Ltd trading as Bay City Cabs (BCC)"
+  ],
+  "timeline": [
+    {
+      "date": "15 Sep 2006",
+      "date_iso": "2006-09-15T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "2 Oct 2006",
+      "date_iso": "2006-10-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "13 Oct 2006",
+      "date_iso": "2006-10-13T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed  acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Silver Top Taxi Service Limited - Proposed acquisition of certain assets from Murrell Enterprises Pty Ltd and joint venture arrangement with Geelong Radio Cabs Cooperative Limited (STTS's proposed transaction).",
+    "Market definition": "The ACCC considered the following markets in its assessment of the proposed transaction: - An east coast market for the provision of dispatch services; - Markets for the provision of taxi depot services to taxi licence holders/ operators licensed in the Geelong or Bellarine or Torquay taxi zones (Markets for the provision of taxi depot services); and - Markets for the provision of taxi hire services by taxi licence holders/ operators to the public in Geelong, Bellarine and Torquay (Markets for the provision of taxi hire services).",
+    "Competition analysis": "In reaching its conclusion not to oppose STTS's proposed transaction, the ACCC took into account, amongst other factors: - Efficiencies resulting from access to state-of-the-art dispatch services, improved economies of scale in the provision of taxi depot services and the provision of taxi hire services in Geelong; - Availability of substitutes for the provision of dispatch services; - Moderately low barriers to entry for entry into the Geelong market for the provision of taxi depot services; - No market concentration increases in the Bellarine and Torquay markets for taxi depot services and the Bellarine and Torquay taxi hire services; and - The regulation of the provision of taxi hire services in Geelong including pricing is the responsibility of the Victorian Taxi Directorate."
+  }
+}

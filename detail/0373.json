@@ -1,0 +1,89 @@
+{
+  "id": "0373",
+  "title": "Baxter International Inc - proposed acquisition of Gambro AB",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/baxter-international-inc-proposed-acquisition-of-gambro-ab",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50774",
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "4 September 2013",
+  "date_completed_iso": "2013-09-04T12:00:00Z",
+  "date_commenced": "4 March 2013",
+  "date_commenced_iso": "2013-03-04T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Baxter International Inc."
+  ],
+  "targets": [
+    "Gambro AB"
+  ],
+  "timeline": [
+    {
+      "date": "4 Mar 2013",
+      "date_iso": "2013-03-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Mar 2013",
+      "date_iso": "2013-03-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Mar 2013",
+      "date_iso": "2013-03-22T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 26 April 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "8 Apr 2013",
+      "date_iso": "2013-04-08T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Apr 2013",
+      "date_iso": "2013-04-18T12:00:00Z",
+      "event": "ACCC timeline suspended and former proposed decision date of 26 April 2013 delayed to allow the merger parties to provide additional information."
+    },
+    {
+      "date": "26 Apr 2013",
+      "date_iso": "2013-04-26T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "3 May 2013",
+      "date_iso": "2013-05-03T12:00:00Z",
+      "event": "ACCC timeline suspended until after the parties have had further discussions with overseas regulators."
+    },
+    {
+      "date": "5 Jul 2013",
+      "date_iso": "2013-07-05T12:00:00Z",
+      "event": "ACCC commenced market inquiries in relation to draft s87B divestiture undertaking offered by Baxter. ACCC timeline recommenced."
+    },
+    {
+      "date": "11 Jul 2013",
+      "date_iso": "2013-07-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jul 2013",
+      "date_iso": "2013-07-24T12:00:00Z",
+      "event": "Before deciding whether to accept Baxter's proposed undertaking, the ACCC must be certain of the identity of the purchaser of the global divestiture business that will be approved by the European Commission (EC) in accordance with the EC's decision on the proposed acquisition and related Commitments which took effect on 22 July 2013. The ACCC will delay its decision on whether to accept the proposed undertaking pending the EC's expected decision of an approved purchaser. ACCC timeline suspended."
+    },
+    {
+      "date": "3 Sep 2013",
+      "date_iso": "2013-09-03T12:00:00Z",
+      "event": "EC approved purchaser of the global divestiture business. ACCC timeline recommenced."
+    },
+    {
+      "date": "4 Sep 2013",
+      "date_iso": "2013-09-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Baxter International proposed to acquire Gambro AB's Australian business as part of a global acquisition of Gambro AB.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

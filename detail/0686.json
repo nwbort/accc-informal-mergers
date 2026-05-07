@@ -1,0 +1,93 @@
+{
+  "id": "0686",
+  "title": "Gunns Limited - proposed acquisition of ITC Timber Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gunns-limited-proposed-acquisition-of-itc-timber-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38913",
+  "industries": [
+    "Timber"
+  ],
+  "date_completed": "27 November 2009",
+  "date_completed_iso": "2009-11-27T12:00:00Z",
+  "date_commenced": "14 September 2009",
+  "date_commenced_iso": "2009-09-14T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Gunns Limited"
+  ],
+  "targets": [
+    "ITC Timber Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Sep 2009",
+      "date_iso": "2009-09-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Sep 2009",
+      "date_iso": "2009-09-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Sep 2009",
+      "date_iso": "2009-09-29T12:00:00Z",
+      "event": "ACCC requested further information from Gunns. ACCC timeline suspended."
+    },
+    {
+      "date": "14 Oct 2009",
+      "date_iso": "2009-10-14T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, deferred to allow additional time for Gunns to respond to the ACCC's information request of 29 September 2009. ACCC received further information from Gunns. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Oct 2009",
+      "date_iso": "2009-10-28T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date for announcement of ACCC's findings, deferred to allow for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "3 Nov 2009",
+      "date_iso": "2009-11-03T12:00:00Z",
+      "event": "ACCC requested further information from Gunns and ITC Timber. ACCC timeline suspended."
+    },
+    {
+      "date": "9 Nov 2009",
+      "date_iso": "2009-11-09T12:00:00Z",
+      "event": "ITC Timber responded to the ACCC's information request of 3 November 2009."
+    },
+    {
+      "date": "11 Nov 2009",
+      "date_iso": "2009-11-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Nov 2009",
+      "date_iso": "2009-11-12T12:00:00Z",
+      "event": "Gunns provided a partial response to the ACCC's information request of 3 November 2009."
+    },
+    {
+      "date": "16 Nov 2009",
+      "date_iso": "2009-11-16T12:00:00Z",
+      "event": "Gunns provided the balance of information requested by the ACCC on 3 November 2009. ACCC timeline recommenced."
+    },
+    {
+      "date": "25 Nov 2009",
+      "date_iso": "2009-11-25T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    },
+    {
+      "date": "26 Nov 2009",
+      "date_iso": "2009-11-26T12:00:00Z",
+      "event": "Gunns submitted a revised proposal that did not include the SmartFibre wood chip joint venture asset."
+    },
+    {
+      "date": "27 Nov 2009",
+      "date_iso": "2009-11-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the revised proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see the attached Public Competition Assessment.",
+    "Competition analysis": "Please see the attached Public Competition Assessment."
+  }
+}

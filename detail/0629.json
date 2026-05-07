@@ -1,0 +1,54 @@
+{
+  "id": "0629",
+  "title": "Coates Hire Operations Pty Limited - proposed acquisition of assets from Monash Hire Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coates-hire-operations-pty-limited-proposed-acquisition-of-assets-from-monash-hire-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41906",
+  "industries": [
+    "Equipment hire"
+  ],
+  "date_completed": "2 June 2010",
+  "date_completed_iso": "2010-06-02T12:00:00Z",
+  "date_commenced": "17 May 2010",
+  "date_commenced_iso": "2010-05-17T12:00:00Z",
+  "total_review_days": 4,
+  "acquirers": [
+    "Coates Hire Operations Pty Limited"
+  ],
+  "targets": [
+    "assets of Monash Hire Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 May 2010",
+      "date_iso": "2010-05-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 May 2010",
+      "date_iso": "2010-05-18T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "24 May 2010",
+      "date_iso": "2010-05-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 May 2010",
+      "date_iso": "2010-05-31T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Jun 2010",
+      "date_iso": "2010-06-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coates Hire Operations Pty Limited proposed to acquire assets from Monash Hire Group Pty Ltd.",
+    "Market definition": "While the ACCC did not reach a definitive view of the relevant market it considered the proposed acquisition in the context of the following markets, noting that the adoption of broader geographic markets would not have altered the competition analysis: - the local Melbourne market for the supply of access hire equipment; - the local Melbourne market for the supply of general hire equipment; and - the local Mackay market for the supply of access hire equipment.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market as: - in each of the relevant markets, the merged firm would face significant competition from alternative suppliers of access hire equipment and general hire equipment; and - barriers to entry and expansion were not considered to be high and therefore the threat of entry/expansion would be expected to constrain any attempt by the merged firm to raise hire rates above competitive levels."
+  }
+}

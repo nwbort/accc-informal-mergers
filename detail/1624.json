@@ -1,0 +1,28 @@
+{
+  "id": "1624",
+  "title": "Acquirer: Dor Film Australia Pty Ltd; Target: Shorko Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-dor-film-australia-pty-ltd-target-shorko-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16404",
+  "industries": [],
+  "date_completed": "6 August 2002",
+  "date_completed_iso": "2002-08-06T12:00:00Z",
+  "date_commenced": "17 July 2002",
+  "date_commenced_iso": "2002-07-17T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Dor Film Australia Pty Ltd"
+  ],
+  "targets": [
+    "Shorko Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Dor Film Australia Pty Ltd sought to acquire Shorko Australia Pty Ltd.",
+    "Market definition": "This merger concerned the production of polypropylene film sheets  - specifically Biaxially Oriented Polypropylene (BOPP) Film.",
+    "Competition analysis": "Dor Film Australia is ultimately owned by the international company Dor Chemicals Ltd.  Dor Chemicals is involved in BOPP Film manufacture overseas, but neither Dor Chemicals nor Dor Film Australia had any Australian operations pre-merger. Pre-merger, Shorko was owned by Basell, an international joint venture company co-owned by Shell and BASF.  Shorko was reported to be the major one of two domestic BOPP film manufacturers in Australia. Market inquiries indicated no concerns with the proposed merger. Market participants confirmed that the proposed transaction constituted a bare transfer of ownership of Shorko's BOPP Film production facility, and that no horizontal aggregation would occur in Australia as a result of the proposed merger.  Moreover imports of BOPP film were reported to have been high over a number of years, and these imports were said to be independent of the acquiring entity. Given these factors the Commission decided not to intervene against Dor's proposed acquisition of Shorko Australia.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Yes"
+  }
+}

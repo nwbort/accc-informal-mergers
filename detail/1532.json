@@ -1,0 +1,31 @@
+{
+  "id": "1532",
+  "title": "Acquirer: Konica Corporation; Target: Minolta Corporation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-konica-corporation-target-minolta-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18055",
+  "industries": [],
+  "date_completed": "30 July 2003",
+  "date_completed_iso": "2003-07-30T12:00:00Z",
+  "date_commenced": "8 July 2003",
+  "date_commenced_iso": "2003-07-08T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Konica Corporation"
+  ],
+  "targets": [
+    "Minolta Corporation"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission was notified of the proposed merger in early July. Both Konica and Minolta are Japanese companies and the proposed merger was originally announced in Japan back in January.  Konica is acquiring Minolta through a stock swap whereby Minolta shareholders will trade in their stock for newly issued stock in Konica.",
+    "Market definition": "Markets for copiers/printers, cameras and photometers.",
+    "Competition analysis": "On 29 July 2003 the Commission decided that it would not intervene in the proposed merger between Konica and Minolta. The main areas of competitive overlap between Konica and Minolta is for the manufacture and distribution of copiers/printers, cameras and photometers. Both Konica and Minolta are major worldwide suppliers of copiers/printers and cameras.  The other main area of overlap in the area of photometers arises from Konica's shareholding in Sekonic. Around the world, markets for cameras and copiers/printers are dominated by Japanese corporations which include Fuji Xerox, Kyocera Mita, Canon, Toshiba, Olympus and Ricoh.  In Australia, the merged entity will not cross the Commission's concentration thresholds for the exercise of market power with respect to copiers/printers and cameras. The only competition concern in regard to this merger arises in relation to photometers.  Taking into account Konica's shareholding in Sekonic, the merged entity would account for more than 50 per cent of market for photometers in Australia.  However, after taking into account the offer provided by Konica to sell down its shareholding in Sekonic provided to the European Commission, the Commission concluded that the proposed merger was unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2831"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0358",
+  "title": "Westpac Banking Corporation - proposed acquisition of Lloyds International Pty Ltd (CFAL and BOSI)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/westpac-banking-corporation-proposed-acquisition-of-lloyds-international-pty-ltd-cfal-and-bosi",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52303",
+  "industries": [
+    "Finance"
+  ],
+  "date_completed": "4 December 2013",
+  "date_completed_iso": "2013-12-04T12:00:00Z",
+  "date_commenced": "11 October 2013",
+  "date_commenced_iso": "2013-10-11T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Westpac Banking Corporation"
+  ],
+  "targets": [
+    "Lloyds International Pty Ltd (CFAL and BOSI)"
+  ],
+  "timeline": [
+    {
+      "date": "11 Oct 2013",
+      "date_iso": "2013-10-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "30 Oct 2013",
+      "date_iso": "2013-10-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Nov 2013",
+      "date_iso": "2013-11-11T12:00:00Z",
+      "event": "ACCC requested further information from merger parties."
+    },
+    {
+      "date": "19 Nov 2013",
+      "date_iso": "2013-11-19T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC amended former provisional date for announcement of findings (28 November 2013)."
+    },
+    {
+      "date": "4 Dec 2013",
+      "date_iso": "2013-12-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Westpac Banking Corporation (Westpac) proposed to acquire the assets of Lloyds International Pty Ltd which included Capital Finance Australia Limited (CFAL) and BOS International (Australia) Limited (BOSI).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: i.\tthe provision of bailment ('floor plan') finance and point-of-sale (POS) finance facilities to motor vehicle dealerships; ii.\tthe provision of POS retail finance to motor vehicle customers; and iii.\tthe provision of equipment finance, having regard to particular industries and asset classes where necessary. The merger parties also overlap in the supply of corporate and institutional banking services. The ACCC did not consider it necessary to reach a definitive view on the relevant market definition for corporate and institutional banking services because competition concerns are unlikely to arise regardless of the definitions adopted. i. Provision of bailment finance and point-of-sale finance facilities to motor vehicle dealerships The ACCC considered that other forms of commercial finance were not close substitutes to bailment finance. The ACCC considered that there were both national and regional dimensions to competition for the provision of bailment finance and POS finance facilities to motor vehicle dealerships. While most financiers have a national presence and national systems in place, competition for attracting new motor vehicle dealerships occurs through building relationships with generally state-based sales representatives. Having regard to these dimensions of competition, the ACCC considered the proposed acquisition in the context of both a national market and state/regional markets for the provision of bailment finance and POS finance facilities to motor vehicle dealerships. The ACCC did not consider it necessary to form a concluded view as to the geographic dimension of the market for the provision of bailment finance and POS finance facilities to motor vehicle dealerships. ii Provision of point-of-sale retail finance to motor vehicle customers The ACCC did not consider it necessary to form a concluded view as to the geographic dimension of the market for the provision of POS finance to customers of motor vehicle dealerships. iii. Provision of equipment finance The ACCC considered the proposed acquisition in the context of a national market for the provision of equipment finance. The ACCC considered the overlap of the merger parties with regards to specific segments (by asset class) of equipment finance where relevant.",
+    "Competition analysis": "The ACCC concluded that Westpac's proposed acquisition was unlikely to substantially lessen competition in any relevant market. In relation to the provision of bailment finance and POS finance facilities to motor vehicle dealerships, the ACCC had regard to the following factors: - bailment finance and POS finance facilities are provided by both manufacturer aligned financiers, including BMW/Alphera, Mercedes-Benz Financial, Nissan Financial Services, Toyota Financial Services, Volkswagen Finance as well as non-aligned financiers including Westpac's St. George, Lloyds' CFAL, ANZ's Esanda and Macquarie; - manufacturer aligned financiers, compete vigorously against the non-aligned financiers to provide bailment finance and POS finance facilities to associated motor vehicle dealerships (i.e. dealerships which sell vehicle marques associated with the manufacturer aligned financiers); - manufacturer aligned financiers tend to compete only for the provision of bailment finance and POS finance facilities to dealership franchises or dealership groups which have an association with the manufacturer aligned financiers vehicle marques (affiliated dealerships); - non-aligned financiers, including the merger parties, Esanda (owned by ANZ), and more recently, Macquarie Bank, closely compete for motor vehicle dealerships that do not have any affiliation with a manufacturer-aligned financier. The merged firm would continue to face close competition for the provision of bailment finance and POS finance facilities to unaffiliated dealerships from Esanda and Macquarie; - a number of potential entrants appeared to be well placed to enter to compete for unaffiliated dealership franchises, including those dealerships which do not currently have an affiliation with a manufacturer-aligned financier. However, the likelihood of such new entry remains uncertain; and - existing aligned and non-aligned financiers do not face substantial barriers to expansion for the provision of bailment and POS finance facilities and the threat of expansion, particularly by Macquarie Bank, would be likely to effectively constrain the bailment rates and POS commissions offered by the merged firm post-acquisition. In relation to the provision of POS retail finance to motor vehicle customers, the ACCC had regard to the significant constraint which would continue to be offered from both manufacturer-aligned and non-aligned financiers. In relation to the provision of equipment finance, the ACCC had regard to the significant constraint which would continue to be offered by a range of competing providers of equipment finance. In relation to the provision of corporate and institutional banking services, due to Lloyds' small market share in Australia and the presence of a number of significant competitors, the ACCC considered that the proposed acquisition would result in minor consolidation of market share and was therefore unlikely to result in a substantial lessening of competition."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1469",
+  "title": "Acquirer: Pacific Publications Pty Limited; Target: Murdoch Magazines Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pacific-publications-pty-limited-target-murdoch-magazines-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19045",
+  "industries": [],
+  "date_completed": "3 August 2004",
+  "date_completed_iso": "2004-08-03T12:00:00Z",
+  "date_commenced": "23 January 2004",
+  "date_commenced_iso": "2004-01-23T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pacific Publications Pty Limited"
+  ],
+  "targets": [
+    "Murdoch Magazines Pty Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Pacific Publications, publisher of New Idea, That's Life and numerous other titles, intends to purchase Murdoch Magazines, publisher of Better Homes and Gardens, Marie Claire and Men's Health magazines",
+    "Market definition": "For the purpose of compeititon assessment the relevant markets were considered to be the Australian markets for: 1. the sale of magazines to the public; and 2. the sale of advertising in magazines to advertisers.",
+    "Competition analysis": "The ACCC noted that the influence of the parties' competitors, the potential for entry and the countervailing power of the parties' customers appear sufficient to constrain the merged entity and prevent any substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2422"
+  }
+}

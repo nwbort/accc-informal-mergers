@@ -1,0 +1,44 @@
+{
+  "id": "0833",
+  "title": "Woolworths Limited - proposed acquisition of Liquor Licence in Dromana, Victoria",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-in-dromana-victoria",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35174",
+  "industries": [
+    "Liquor Licence"
+  ],
+  "date_completed": "19 November 2008",
+  "date_completed_iso": "2008-11-19T12:00:00Z",
+  "date_commenced": "7 November 2008",
+  "date_commenced_iso": "2008-11-07T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor licence in Dromana, Victoria"
+  ],
+  "timeline": [
+    {
+      "date": "7 Nov 2008",
+      "date_iso": "2008-11-07T12:00:00Z",
+      "event": "ACCC commenced review under the Mergers Review Process Guidelines."
+    },
+    {
+      "date": "14 Nov 2008",
+      "date_iso": "2008-11-14T12:00:00Z",
+      "event": "Closing date for submissions from relevant parties."
+    },
+    {
+      "date": "19 Nov 2008",
+      "date_iso": "2008-11-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire a takeaway packaged liquor licence and associated assets (trading as \"Cellarbrations\") in Dromana, Victoria.",
+    "Market definition": "The proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail supply of packaged liquor for off-premises consumption. The geographic dimension is a 3-5km radius surrounding the target retail liquor business (Market 1); and 2. the Victorian market for the acquisition of wholesale packaged liquor for subsequent sale in retail markets for off-premises consumption (Market 2).",
+    "Competition analysis": "On 19 November 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. In relation to Market 1, Woolworths did not own or operate any retail liquor outlets in the market. Accordingly, the proposed acquisition represented a bare transfer of market share; and 2. In relation to Market 2, the ACCC considered that the proposed acquisition would not significantly increase the market share or buying power of Woolworths in the relevant market (nor significantly diminish the market share or buying power of any independent wholesaler)."
+  }
+}

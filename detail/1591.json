@@ -1,0 +1,31 @@
+{
+  "id": "1591",
+  "title": "Acquirer: QBE Insurance (Australia) Ltd; Target: Zurich Australian Insurance Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-qbe-insurance-australia-ltd-target-zurich-australian-insurance-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17066",
+  "industries": [],
+  "date_completed": "10 December 2002",
+  "date_completed_iso": "2002-12-10T12:00:00Z",
+  "date_commenced": "4 December 2002",
+  "date_commenced_iso": "2002-12-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "QBE Insurance (Australia) Ltd"
+  ],
+  "targets": [
+    "Zurich Australian Insurance Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Zurich wishes to exit the direct personal insurance lines business. QBE intends to reinsure all of Zurich's direct personal lines insurance as at 31 December 2002.  Upon expiry QBE will offer to renew the policies that are the subject of this transaction.",
+    "Market definition": "In previous matters the Commission has considered the national market for general insurance as well as narrower geographic and product markets. The Commission notes that even if narrower market definitions were adopted for domestic motor, home building, home contents, jewellery and valuables, home owners' liability, pleasurecraft, and domestic workers compensation insurance, the Commission's concentration thresholds would not be crossed by the proposed acquisition in any of these narrower markets.",
+    "Competition analysis": "The Commission's concentration thresholds are not crossed. On this basis no substantial lessening of competition was considered likely. The Commission therefore does not intend to oppose the transaction.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "7422"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0841",
+  "title": "CSL Limited - proposed acquisition of Talecris Biotherapeutics Holdings Corp.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/csl-limited-proposed-acquisition-of-talecris-biotherapeutics-holdings-corp",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33863",
+  "industries": [
+    "Pharmaceutical"
+  ],
+  "date_completed": "7 November 2008",
+  "date_completed_iso": "2008-11-07T12:00:00Z",
+  "date_commenced": "20 October 2008",
+  "date_commenced_iso": "2008-10-20T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "CSL Limited"
+  ],
+  "targets": [
+    "Talecris Biotherapeutics Holdings Corp."
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2008",
+      "date_iso": "2008-10-20T12:00:00Z",
+      "event": "ACCC commenced review under the Mergers Review Process Guidelines."
+    },
+    {
+      "date": "3 Nov 2008",
+      "date_iso": "2008-11-03T12:00:00Z",
+      "event": "Closing date for submissions from relevant parties."
+    },
+    {
+      "date": "7 Nov 2008",
+      "date_iso": "2008-11-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CSL Limited (CSL) proposes to acquire Talecris Biotherapeutics Holdings Corp. (Talecris)",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the Australian national market for the supply of plasma products.",
+    "Competition analysis": "On 7 November 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition due to the limited overlap between the merger parties in Australia. Post acquisition the merged entity would continue to face effective competition for the supply of imported plasma products from other significant global suppliers."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "0346",
+  "title": "AGL Energy Limited - proposed acquisition of Macquarie Generation assets in NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-proposed-acquisition-of-macquarie-generation-assets-in-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53220",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "4 March 2014",
+  "date_completed_iso": "2014-03-04T12:00:00Z",
+  "date_commenced": "2 December 2013",
+  "date_commenced_iso": "2013-12-02T12:00:00Z",
+  "total_review_days": 61,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "Macquarie Generation assets"
+  ],
+  "timeline": [
+    {
+      "date": "2 Dec 2013",
+      "date_iso": "2013-12-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Dec 2013",
+      "date_iso": "2013-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "23 Jan 2014",
+      "date_iso": "2014-01-23T12:00:00Z",
+      "event": "ACCC received further information from AGL. ACCC amended former provisional date for announcement of findings (30 January 2014)."
+    },
+    {
+      "date": "5 Feb 2014",
+      "date_iso": "2014-02-05T12:00:00Z",
+      "event": "Former proposed decision date of 5 February 2014 extended to 6 February 2014."
+    },
+    {
+      "date": "6 Feb 2014",
+      "date_iso": "2014-02-06T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "17 Feb 2014",
+      "date_iso": "2014-02-17T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "18 Feb 2014",
+      "date_iso": "2014-02-18T12:00:00Z",
+      "event": "Draft s87B Undertaking proffered by AGL."
+    },
+    {
+      "date": "19 Feb 2014",
+      "date_iso": "2014-02-19T12:00:00Z",
+      "event": "ACCC commenced market inquiries on draft s87B undertaking."
+    },
+    {
+      "date": "25 Feb 2014",
+      "date_iso": "2014-02-25T12:00:00Z",
+      "event": "Closing date for submissions re AGL's draft s87B undertaking."
+    },
+    {
+      "date": "4 Mar 2014",
+      "date_iso": "2014-03-04T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL entered into an agreement with the NSW government to acquire the assets of Macquarie Generation.",
+    "Market definition": "Please see below.",
+    "Competition analysis": "This matter was the subject of a merger authorisation application to the Australian Competition Tribunal in 2014 [ACT 1 of 2014]. Please refer to the Australian Competition Tribunal's published decision for further detail's about the ACCC's analysis of this matter."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0902",
+  "title": "GrainCorp Limited - proposed acquisition of Ridley Corporation Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/graincorp-limited-proposed-acquisition-of-ridley-corporation-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32140",
+  "industries": [
+    "Grain"
+  ],
+  "date_completed": "1 July 2008",
+  "date_completed_iso": "2008-07-01T12:00:00Z",
+  "date_commenced": "20 May 2008",
+  "date_commenced_iso": "2008-05-20T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "GrainCorp Limited"
+  ],
+  "targets": [
+    "Ridley Corporation Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 May 2008",
+      "date_iso": "2008-05-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2008",
+      "date_iso": "2008-06-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jun 2008",
+      "date_iso": "2008-06-13T12:00:00Z",
+      "event": "ACCC requested further information from Graincorp. ACCC timeline suspended."
+    },
+    {
+      "date": "20 Jun 2008",
+      "date_iso": "2008-06-20T12:00:00Z",
+      "event": "ACCC received further information from Graincorp. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Jul 2008",
+      "date_iso": "2008-07-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "GrainCorp Ltd proposes to acquire Ridley Corporation Ltd.",
+    "Market definition": "For the purposes of this competition assessment, the key relevant markets were the state based markets for the production and supply of stockfeed in each of Queensland, New South Wales and Victoria. The markets for grain services (storing, handling and trading) and protein meal were also relevant to an examination of whether GrainCorp would be likely to have the ability and incentive to leverage its position in these markets into the stockfeed or flour milling markets.",
+    "Competition analysis": "The proposed acquisition would increase the level of vertical integration of GrainCorp by adding Ridley's stockfeed business, which uses grain products as an input. The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. In particular, the ACCC considered that GrainCorp would be unlikely to have the ability and incentive to leverage its position in grain related markets into stockfeed or flour milling markets, largely due to the presence of alternative suppliers. In addition, the ACCC considered that GrainCorp was unlikely to have the ability to discriminate against competitors given the difficulties GrainCorp would face in identifying with certainty the end-user of any parcel of grain."
+  }
+}

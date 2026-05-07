@@ -1,0 +1,54 @@
+{
+  "id": "0310",
+  "title": "Mylan Inc - proposed acquisition of certain assets from Abbott Laboratories",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mylan-inc-proposed-acquisition-of-certain-assets-from-abbott-laboratories",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55539",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "4 December 2014",
+  "date_completed_iso": "2014-12-04T12:00:00Z",
+  "date_commenced": "8 October 2014",
+  "date_commenced_iso": "2014-10-08T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Mylan Inc"
+  ],
+  "targets": [
+    "Abbott EPD-DM"
+  ],
+  "timeline": [
+    {
+      "date": "8 Oct 2014",
+      "date_iso": "2014-10-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2014",
+      "date_iso": "2014-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Nov 2014",
+      "date_iso": "2014-11-14T12:00:00Z",
+      "event": "ACCC requested further information from Mylan."
+    },
+    {
+      "date": "25 Nov 2014",
+      "date_iso": "2014-11-25T12:00:00Z",
+      "event": "ACCC received further information from Mylan."
+    },
+    {
+      "date": "4 Dec 2014",
+      "date_iso": "2014-12-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Mylan proposed to acquire Abbott Laboratories' Established Pharmaceuticals Division in developed markets outside the US, which comprises specialty and generic pharmaceuticals.",
+    "Market definition": "The ACCC assessed the competitive effects of the proposed acquisition in the context of national markets for the supply of each drug, identified by the active ingredient of that drug. However, because drugs with different active ingredients may have similar therapeutic effects, the ACCC also considered broader markets which reflected those therapeutic effects. In relation to mebeverine, the ACCC did not consider it appropriate to define the market by the active ingredient (i.e mebeverine). Instead it considered the competitive effects in the market for the supply of antispasmodic and anticholinergics (encompassing mebeverine and hyoscine butylbromide).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Factors informing this view included: - the merged firm would continue to be competitively constrained by significant alternative suppliers in the relevant national markets for the supply of antispasmodic and anticholinergics (encompassing mebeverine and hyoscine butylbromide), lactulose, lercanidipine, verapamil, trandolapril, clarithromycin and fluvoxamine; - as Abbott EPD-DM supplied the only fenofibrate drug in the market there was no competitive overlap between the parties; and - in broader markets, the proposed acquisition resulted in less concentration compared to markets identified by the active ingredient. In relation to fibrates, although Mylan (a supplier of gemfibrozil) and Abbott EPD-DM (the only supplier of fenofibrate) competed in a broader market, there were also a number of competing suppliers of gemfibrozil."
+  }
+}

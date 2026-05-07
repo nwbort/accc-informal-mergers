@@ -1,0 +1,48 @@
+{
+  "id": "0683",
+  "title": "E.Law Australia Pty Ltd - completed acquisition of Ringtail Asia Pacific Pty Ltd and CCH Workflow Solutions Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/elaw-australia-pty-ltd-completed-acquisition-of-ringtail-asia-pacific-pty-ltd-and-cch-workflow-solutions-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39526",
+  "industries": [
+    "Litigation support and e-discovery services"
+  ],
+  "date_completed": "9 December 2009",
+  "date_completed_iso": "2009-12-09T12:00:00Z",
+  "date_commenced": "23 November 2009",
+  "date_commenced_iso": "2009-11-23T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "E.Law Australia Pty Ltd"
+  ],
+  "targets": [
+    "CCH Workflow Solutions<br/> Ringtail Asia Pacific Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Nov 2009",
+      "date_iso": "2009-11-20T12:00:00Z",
+      "event": "E.Law Australia Pty Ltd acquired CCH Workflow Solutions Pty Ltd and Ringtail Asia Pacific Pty Ltd."
+    },
+    {
+      "date": "23 Nov 2009",
+      "date_iso": "2009-11-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Nov 2009",
+      "date_iso": "2009-11-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Dec 2009",
+      "date_iso": "2009-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of national markets for the following: - electronic data discovery, - imaging and coding, - case management software, and - consultant and project management for legal IT. However the ACCC did not consider it necessary to consider whether the above product types represented markets in their own right, or were part of a broader market for legal document management.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in any of the relevant markets. Factors informing this conclusion included: -  the presence of alternative suppliers of each of the products identified above, and -  barriers to entry appeared low for new entrants seeking to supply the products identified above."
+  }
+}

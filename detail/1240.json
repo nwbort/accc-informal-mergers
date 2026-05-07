@@ -1,0 +1,63 @@
+{
+  "id": "1240",
+  "title": "Tabcorp Holdings Ltd - proposed acquisition of UNITAB Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tabcorp-holdings-ltd-proposed-acquisition-of-unitab-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24528",
+  "industries": [
+    "Gambling"
+  ],
+  "date_completed": "16 August 2006",
+  "date_completed_iso": "2006-08-16T12:00:00Z",
+  "date_commenced": "7 June 2006",
+  "date_commenced_iso": "2006-06-07T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "Tabcorp Holdings Ltd"
+  ],
+  "targets": [
+    "UNITAB Limited"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jun 2006",
+      "date_iso": "2006-06-07T12:00:00Z",
+      "event": "ACCC commenced assessment under Merger Review Process Guidelines"
+    },
+    {
+      "date": "20 Jun 2006",
+      "date_iso": "2006-06-20T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "4 Jul 2006",
+      "date_iso": "2006-07-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "19 Jul 2006",
+      "date_iso": "2006-07-19T12:00:00Z",
+      "event": "Proposed annoucement of ACCC findings delayed due to a number of requests for an extension to the deadline to make submissions"
+    },
+    {
+      "date": "2 Aug 2006",
+      "date_iso": "2006-08-02T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns - Draft 87B undertaking proffered by Tabcorp. ACCC commences market inquiries."
+    },
+    {
+      "date": "11 Aug 2006",
+      "date_iso": "2006-08-11T12:00:00Z",
+      "event": "Closing date for submissions relating to Statment of Issues and draft 87B undertakings"
+    },
+    {
+      "date": "16 Aug 2006",
+      "date_iso": "2006-08-16T12:00:00Z",
+      "event": "ACCC announced that it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For details regarding the market definition please see the Public Competition Assessment below.",
+    "Competition analysis": "For details regarding the competition analysis please see the Public Competition Assessment below."
+  }
+}

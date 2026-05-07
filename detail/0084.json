@@ -1,0 +1,49 @@
+{
+  "id": "0084",
+  "title": "Endeavour Group Limited - each of the Beach Hotel, Crown Inn, Tower Hotel and Whitehorse Inn located in South Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/endeavour-group-limited-each-of-the-beach-hotel-crown-inn-tower-hotel-and-whitehorse-inn-located-in-south-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Hotel"
+  ],
+  "date_completed": "23 December 2022",
+  "date_completed_iso": "2022-12-23T12:00:00Z",
+  "date_commenced": "27 October 2022",
+  "date_commenced_iso": "2022-10-27T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Endeavour Group Limited"
+  ],
+  "targets": [
+    "Each of the Beach Hotel, Crown Inn, Tower Hotel and Whitehorse Inn located in South Australia"
+  ],
+  "timeline": [
+    {
+      "date": "27 Oct 2022",
+      "date_iso": "2022-10-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Nov 2022",
+      "date_iso": "2022-11-17T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "23 Dec 2022",
+      "date_iso": "2022-12-23T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (2 February 2023) brought forward."
+    },
+    {
+      "date": "23 Dec 2022",
+      "date_iso": "2022-12-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisitions of the Tower Hotel and the Beach Hotel, subject to a section 87B undertaking accepted by the ACCC. Endeavour withdrew its proposal to acquire the Crown Inn and Whitehorse Inn."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Endeavour Group Limited ( Endeavour ) had proposed to acquire, through four separate transactions, each of: the Beach Hotel and co-located Cellarbrations bottle shop, located at corner of Commercial Road and Griffiths Drive, Seaford, South Australia the Crown Inn and co-located Cellarbrations bottle shop, located at 208-210 Old South Road, Old Reynella, South Australia the Tower Hotel and co-located Cellarbrations bottle shop, located at 621 Magill Road, Magill, South Australia, and the Whitehorse Inn and co-located Cellarbrations bottle shop, located at 887-889 Wakefield Road, Bolivar, South Australia. During the review, Endeavour sought an expedited review and proposed a restructure to the proposed acquisitions and a divestiture undertaking to remove the competitive overlap between the parties in relation to the Beach Hotel acquisition. As part of the restructured proposal, Endeavour withdrew its proposal to acquire the Crown Inn and the Whitehorse Inn. Endeavour is a major Australian alcoholic drinks retailer and hotel operator, with existing sites located near the targets. The target hotels are all ultimately owned by the Independent Pub Group Pty Ltd ( IPG ), which is in turn ultimately owned by GM Hotels.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisitions on: local markets surrounding each of the Beach Hotel and Tower Hotel, and a broader Adelaide metropolitan market, for the retail supply of packaged liquor for off-sites consumption local markets surrounding each of the Beach Hotel and Tower Hotel, for the supply of products and services available at hotels and hospitality venues - including liquor for on-site consumption, entertainment and gaming. It was not necessary for the ACCC to form a concluded view in relation to the precise scope of these markets.",
+    "Competition analysis": "In relation to the Tower Hotel, the ACCC concluded that the proposed acquisition would be unlikely to substantially lessen competition in relation to any market. Despite Endeavour’s large share in the local supply of packaged liquor for retail consumption, the proposed acquisition would result in a minor increase in market concentration. Consumers in the local area would continue to have access to a sufficient range of alternative price/value offerings to maintain competition post-acquisition, including Coles’ Liquorland and Vintage Cellars, SipnSave, Cellarbrations and Booze Brothers. In relation to the Beach Hotel, the ACCC was concerned that Endeavour’s existing BWS Seaford store, and the Beach Hotel Cellarbrations, were each others’ closest competitors in the supply of packaged liquor for off-site consumption, and that post-acquisition Endeavour would not be sufficiently constrained by other competitors in the local area. Endeavour offered a s87B undertaking to divest its BWS Seaford store to an ACCC approved purchaser to remove any local competitive overlap. The ACCC decided to not oppose the Beach Hotel acquisition after accepting the divestiture undertaking."
+  }
+}

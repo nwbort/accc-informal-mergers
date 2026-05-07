@@ -1,0 +1,31 @@
+{
+  "id": "1603",
+  "title": "Acquirer: Toll Holdings Ltd; Target: Mayne Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-toll-holdings-ltd-target-mayne-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16784",
+  "industries": [],
+  "date_completed": "31 October 2002",
+  "date_completed_iso": "2002-10-31T12:00:00Z",
+  "date_commenced": "27 September 2002",
+  "date_commenced_iso": "2002-09-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Toll Holdings Ltd"
+  ],
+  "targets": [
+    "Mayne Group Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Mayne Group is spinning off its logistics business, which comprises: - the Loomis business in Canada; - the Australian Logistic business in Australia; and - the Australian express freight time critical business. Toll Holdings proposes to acquire the express freight time critical assets of Mayne logistics.",
+    "Market definition": "For the purposes of competition analysis the Commission  considered a national market for express freight services and logistic support, including road parcel express, road palletised and air priority.",
+    "Competition analysis": "The only area in which the Commission's concentration thresholds would be crossed was for air priority freight.  However industry concentration for air priority services was not likely to change significantly as Toll Holdings has little presence in air priority freight. There is unlikely to be significant barriers to entry as providing express freight services requires little infrastructure, as is evident by the number of express freight service providers and by new entry into the market. The express freight industry appears to be price sensitive and competitive, with a number of express freight operators supplying services including integrated transport providers and a number of other small operators. The Commission concluded that the proposed acquisition is unlikely to amount to a substantial lessening of competition under section 50 of the Trade Practices Act 1974 and did not oppose the proposed acquisition.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "6110"
+  }
+}

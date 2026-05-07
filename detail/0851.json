@@ -1,0 +1,49 @@
+{
+  "id": "0851",
+  "title": "Transpacific Industries Group Limited - completed acquisition of Aspex Paper Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-limited-completed-acquisition-of-aspex-paper-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33140",
+  "industries": [
+    "Recycling services for publishing and printing"
+  ],
+  "date_completed": "16 October 2008",
+  "date_completed_iso": "2008-10-16T12:00:00Z",
+  "date_commenced": "7 October 2008",
+  "date_commenced_iso": "2008-10-07T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Transpacific Industries Group Limited"
+  ],
+  "targets": [
+    "Aspex Paper Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Oct 2008",
+      "date_iso": "2008-10-06T12:00:00Z",
+      "event": "Transpacific Industries Group notified the ACCC that it had completed the acquisition of Aspex Paper Australia Pty Ltd."
+    },
+    {
+      "date": "7 Oct 2008",
+      "date_iso": "2008-10-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Oct 2008",
+      "date_iso": "2008-10-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Oct 2008",
+      "date_iso": "2008-10-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group Limited has acquired Aspex Paper Australia Pty Limited.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following markets: - regional markets for solid waste collection and recycling for waste paper and cardboard from commercial operations; - national market for the wholesale of newsprint; and - regional markets for the supply of newsprint handling services. However, the ACCC noted that market definition was not determinative in this matter.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in the relevant markets, since it did not remove a source of significant competitive constraint. Further, the ACCC considered the completed acquisition in the context of an approximately simultaneous acquisition by Transpacific of Higgins Trading Company Limited (Higgins, reference 33139).  A key factor was the number of alternative competitive providers in the relevant market, which will remain available to customers."
+  }
+}

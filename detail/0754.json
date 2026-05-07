@@ -1,0 +1,69 @@
+{
+  "id": "0754",
+  "title": "Vodafone Group plc and Hutchison 3G Australia Pty Limited - proposed merger of Australian mobile operations",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/vodafone-group-plc-and-hutchison-3g-australia-pty-limited-proposed-merger-of-australian-mobile-operations",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36511",
+  "industries": [
+    "Mobile Operations"
+  ],
+  "date_completed": "29 May 2009",
+  "date_completed_iso": "2009-05-29T12:00:00Z",
+  "date_commenced": "11 February 2009",
+  "date_commenced_iso": "2009-02-11T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Vodafone Group plc and Hutchison 3G Australia Pty Limited"
+  ],
+  "targets": [
+    "VHA Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Mar 2009",
+      "date_iso": "2009-03-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Apr 2009",
+      "date_iso": "2009-04-01T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "14 Apr 2009",
+      "date_iso": "2009-04-14T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "17 Apr 2009",
+      "date_iso": "2009-04-17T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "4 May 2009",
+      "date_iso": "2009-05-04T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 May 2009",
+      "date_iso": "2009-05-06T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings."
+    },
+    {
+      "date": "29 May 2009",
+      "date_iso": "2009-05-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vodafone and Hutchison proposed to merge their Australian mobile network operations.",
+    "Market definition": "Please refer to the Public Competition Assessment for this matter.",
+    "Competition analysis": "Please refer to the Public Competition Assessment for this matter."
+  }
+}

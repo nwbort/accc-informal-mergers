@@ -1,0 +1,38 @@
+{
+  "id": "1264",
+  "title": "Media Monitors Australia Pty Ltd - acquisition of Rehame Australia Monitoring Services Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/media-monitors-australia-pty-ltd-acquisition-of-rehame-australia-monitoring-services-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24070",
+  "industries": [
+    "Media Intelligence"
+  ],
+  "date_completed": "4 July 2006",
+  "date_completed_iso": "2006-07-04T12:00:00Z",
+  "date_commenced": "5 May 2006",
+  "date_commenced_iso": "2006-05-05T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Media Monitors Australia Pty Ltd"
+  ],
+  "targets": [
+    "Rehame Australia Monitoring Services Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 May 2006",
+      "date_iso": "2006-05-05T12:00:00Z",
+      "event": "Commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "4 Jul 2006",
+      "date_iso": "2006-07-04T12:00:00Z",
+      "event": "Announcement of the ACCC's findings"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC concluded that the following markets are relevant: .  a national market for print media intelligence; and .  a national market for broadcasting media intelligence.",
+    "Competition analysis": "While the ACCC wrote to a wide range of customers and competitors in the media intelligence sector, only a small number of submissions were received.  These generally focused on broadcasting media intelligence, rather than on print media intelligence. National market for print media intelligence The ACCC concluded that the proposed acquisition would be unlikely to substantially lessen competition in this market because: (i) other significant competitors remain in the market; and (ii) barriers to entry are not high and are likely to fall as the availability of internet-based text news content improves. National market for broadcasting media intelligence While the merged entity would be the only significant supplier of broadcasting intelligence in Australia, the ACCC concluded that, on balance, the proposed acquisition would be unlikely to substantially lessen competition in this market because barriers to entry are not high and, in the medium term, seem likely to fall as the quality and coverage of internet-based audio-visual news content improves."
+  }
+}

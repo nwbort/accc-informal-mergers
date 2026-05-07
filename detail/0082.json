@@ -1,0 +1,75 @@
+{
+  "id": "0082",
+  "title": "Endeavour Group Limited - Beachfront Hotel",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/endeavour-group-limited-beachfront-hotel",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Hotel services",
+    "Retail liquor services"
+  ],
+  "date_completed": "23 February 2023",
+  "date_completed_iso": "2023-02-23T12:00:00Z",
+  "date_commenced": "22 July 2022",
+  "date_commenced_iso": "2022-07-22T12:00:00Z",
+  "total_review_days": 148,
+  "acquirers": [
+    "Endeavour Group Limited"
+  ],
+  "targets": [
+    "Beachfront Hotel"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jul 2022",
+      "date_iso": "2022-07-28T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Aug 2022",
+      "date_iso": "2022-08-19T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Oct 2022",
+      "date_iso": "2022-10-17T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (20 October) delayed to allow Endeavour more time to provide additional information."
+    },
+    {
+      "date": "2 Nov 2022",
+      "date_iso": "2022-11-02T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (3 November) delayed further to allow Endeavour more time to provide additional information. A new indicative decision date will be provided in due course."
+    },
+    {
+      "date": "6 Dec 2022",
+      "date_iso": "2022-12-06T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "12 Dec 2022",
+      "date_iso": "2022-12-12T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "16 Jan 2023",
+      "date_iso": "2023-01-16T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "17 Feb 2023",
+      "date_iso": "2023-02-17T12:00:00Z",
+      "event": "Former proposed date for announcement of findings (9 March) brought forward."
+    },
+    {
+      "date": "23 Feb 2023",
+      "date_iso": "2023-02-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Endeavour Group Limited ( Endeavour ) proposes to acquire Beachfront Hotel at 342 Casuarina Drive, Rapid Creek, NT ( Beachfront Hotel ). Endeavour is a major Australian alcoholic drinks retailer and hotel operator. It operates several bottle shops (including BWS Nightcliff and BWS Casuarina) and hotels (including Airport Tavern) near Beachfront Hotel. Beachfront Hotel consists of the hotel and an adjoining drive-through bottle shop which trades under the Cellarbrations brand.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on: retail markets for the sale of packaged liquor for off-site consumption, in the local area surrounding the target and the broader Darwin metropolitan area retail markets for the supply of products and services available at hotels and hospitality venues (including entertainment, gaming, and liquor for on-site consumption) in the local area surrounding the target, and a wholesale market for the supply of liquor. It was not necessary for the ACCC to form a concluded view in relation to the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. In relation to the local supply of packaged liquor, the ACCC had identified preliminary concerns in the Statement of Issues, but concluded that the proposed acquisition would not be likely to result in a substantial lessening of competition. Factors informing this conclusion included: Three alternative operators of large bottle shops would remain in the 5km area post-acquisition which would constrain Endeavour and provide a differentiated offer to consumers. Eleven independently owned small bottle shops would remain within a 5km area. These generally offered a limited competitive constraint on the merged firms due to their smaller ranges, lower amenity and licensing restrictions. However, the ACCC concluded that together they were still likely to provide at least some constraint on the merged entity for some customers. The ACCC received limited concerned feedback from competitors, customers and other interested parties throughout the review. In relation to the supply of on-premises services at the Beachfront Hotel, the ACCC concluded that Endeavour would continue to face competition from a number of alternative providers of liquor, gaming, and food post-acquisition. The ACCC also concluded that removing the Beachfront Hotel liquor store from the Cellarbrations banner network, and removing it as a wholesale customer of Metcash-owned Australian Liquor Marketers (ALM), would not materially impact the efficiency and competitiveness of other stores that operated under the Cellarbrations banner, or received wholesale supply from ALM."
+  }
+}

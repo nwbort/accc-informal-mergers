@@ -1,0 +1,31 @@
+{
+  "id": "1664",
+  "title": "Acquirer: Grain Pool of Western Australia GPWA; Target: Co-operative Bulk Handling Ltd (Western Australia)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-grain-pool-of-western-australia-gpwa-target-co-operative-bulk-handling-ltd-western-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15093",
+  "industries": [],
+  "date_completed": "1 April 2002",
+  "date_completed_iso": "2002-04-01T12:00:00Z",
+  "date_commenced": "23 November 2001",
+  "date_commenced_iso": "2001-11-23T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Grain Pool of Western Australia GPWA"
+  ],
+  "targets": [
+    "Co-operative Bulk Handling Ltd (Western Australia)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The parties proposed to merge the grain marketing operations of GPWA with the upstream grain storage and handling operations of CBH.",
+    "Market definition": "Trading and Storage & Handling of grain in Western Australia",
+    "Competition analysis": "Grain Pool of WA is a growers' co-operative organisation with legislative monopoly over the bulk export marketing of barley, lupins and canola, on behalf of 7500 growers in Western Australia.  CBH is owned controlled and financed by Western Austrlian grain growers. Approximatley 95 per cent of the West Australian crop is exported through CBH's four port terminals. Some concerns were raised about the possiblity that Grain Pool of WA would have access to commercially sensitive information which could give them an advantage in competing with grain traders in Western Australia.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Press",
+    "ANZSIC code": "4512"
+  }
+}

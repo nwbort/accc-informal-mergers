@@ -1,0 +1,44 @@
+{
+  "id": "0878",
+  "title": "Fonterra Co-operative Group Ltd - proposed licensing arrangement and acquisition of the chilled dairy assets of Nestle Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fonterra-co-operative-group-ltd-proposed-licensing-arrangement-and-acquisition-of-the-chilled-dairy-assets-of-nestle-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31925",
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "19 August 2008",
+  "date_completed_iso": "2008-08-19T12:00:00Z",
+  "date_commenced": "24 June 2008",
+  "date_commenced_iso": "2008-06-24T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Fonterra Co-operative Group Ltd"
+  ],
+  "targets": [
+    "Nestle Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jun 2008",
+      "date_iso": "2008-06-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jul 2008",
+      "date_iso": "2008-07-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fonterra Co-operative Group Ltd proposes to enter into a licensing arrangement and acquire the chilled dairy assets of Nestle Australia Limited. This transaction includes the licensing of the Ski brand of yoghurt to Fonterra when the license held by its current producer ends in 2011.",
+    "Market definition": "The ACCC considered the acquisition in the context of the national market for the manufacture and supply of fresh dairy products, including yoghurt and dairy desserts and regional markets for the acquisition of raw milk.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. In particular, the ACCC considered that the merged entity would be constrained by the threat of expansion by existing competitors; the dynamic nature of the fresh dairy industry, including the high degree of product innovation and promotional activity; low customer brand loyalty; and competition from exiting market participants. The major supermarkets may also impose some constraint on  the merged entity."
+  }
+}

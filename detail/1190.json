@@ -1,0 +1,44 @@
+{
+  "id": "1190",
+  "title": "Diageo Australia Limited - proposed acquisition of Independent Distillers (Aust) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/diageo-australia-limited-proposed-acquisition-of-independent-distillers-aust-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26008",
+  "industries": [
+    "Alcoholic beverages"
+  ],
+  "date_completed": "24 November 2006",
+  "date_completed_iso": "2006-11-24T12:00:00Z",
+  "date_commenced": "24 October 2006",
+  "date_commenced_iso": "2006-10-24T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Diageo Australia Limited"
+  ],
+  "targets": [
+    "Independent Distillers (Aust) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Oct 2006",
+      "date_iso": "2006-10-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "14 Nov 2006",
+      "date_iso": "2006-11-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Nov 2006",
+      "date_iso": "2006-11-24T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Diageo Australia Limited - proposed acquisition of Independent Distillers (Aust) Pty Ltd",
+    "Market definition": "The ACCC adopted narrow markets to assess the proposed acquisition being the separate national markets for the production and wholesale supply of (i) each relevant category of spirits (eg. rum, scotch, vodka etc); (ii) beer; and (iii) ready to drink alcoholic beverages (RTDs). In adopting these narrow markets, the ACCC considered that if competition concerns do not arise in these markets then they would be unlikely to arise in broader markets.",
+    "Competition analysis": "1. Spirits The ACCC found that post-acquisition, there would be a minimal, if any, increase in Diageo's market share in any spirits market.  Consequently, no competition issues would arise in any spirits market. 2. Beer The ACCC concluded that given the very small market share the merged entity would have in comparison with much larger competitors, particularly Fosters and Lion Nathan, the proposed acquisition would be unlikely to raise competition concerns in the national market for beer. 3. RTDs The merged entity would have a high market share in the national RTD market. However, the ACCC also found evidence of recent entry into the national RTD market and concluded that there was potential for further new entry. In addition, the ACCC concluded that large supermarket chains are likely to possess some countervailing power in their dealings with RTD manufacturers and that the RTD was a dynamic and growing market.  The ACCC consequently concluded that the proposed acquisition would be unlikely to substantially lesen competition in the national RTD market."
+  }
+}

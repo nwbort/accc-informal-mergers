@@ -1,0 +1,31 @@
+{
+  "id": "1602",
+  "title": "Acquirer: Toll Holdings Ltd; Target: Brambles Shipping",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-toll-holdings-ltd-target-brambles-shipping",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16845",
+  "industries": [],
+  "date_completed": "31 October 2002",
+  "date_completed_iso": "2002-10-31T12:00:00Z",
+  "date_commenced": "27 September 2002",
+  "date_commenced_iso": "2002-09-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Toll Holdings Ltd"
+  ],
+  "targets": [
+    "Brambles Shipping"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Toll Holdings Limited (Toll) proposes to acquire the Brambles Bass Strait shipping operations (Brambles Shipping).",
+    "Market definition": "The relevant market was considered to be the shipment of containers and trailer freight between Tasmania and the mainland.",
+    "Competition analysis": "Pre-acquisition, there are four container and trailer freight operators on Bass Strait: - Brambles - Patricks - ANL, and - TT Line. Both ANL and the Tasmanian Government, through the Spirit of Tasmania 1 and 2, have added services on Bass Strait in the past 6 months. Toll does not currently operate in Bass Strait shipping and its proposed acquisition of Brambles Shipping would mean its entry into this market. There is likely to be increased competition on Bass Strait and substantial over-capacity, with TT Line, Patricks and Brambles providing daily services to and from Tasmania, and ANL providing three sailings per week. The Commission concluded that the proposed acquisition is unlikley to amount to substantial lessening of competition under section 50 of the Trade Practices Act 1974 and did not oppose the proposed acquisition, as the proposed acquisition would mean Toll's entry into the Bass Strait freight shipping and there is currently significant over-capacity and a number of competitors competing in container and trailer freight shipping in Bass Strait.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "6622"
+  }
+}

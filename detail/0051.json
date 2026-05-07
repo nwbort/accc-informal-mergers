@@ -1,0 +1,54 @@
+{
+  "id": "0051",
+  "title": "Icon Group - proposed acquisition of a lease at St Andrew's Ipswich Private Hospital",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/icon-group-proposed-acquisition-of-a-lease-at-st-andrews-ipswich-private-hospital",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "15 August 2024",
+  "date_completed_iso": "2024-08-15T12:00:00Z",
+  "date_commenced": "22 March 2024",
+  "date_commenced_iso": "2024-03-22T12:00:00Z",
+  "total_review_days": 100,
+  "acquirers": [
+    "Icon Group"
+  ],
+  "targets": [
+    "a lease at St Andrew's Ipswich Private Hospital"
+  ],
+  "timeline": [
+    {
+      "date": "22 Mar 2024",
+      "date_iso": "2024-03-22T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Apr 2024",
+      "date_iso": "2024-04-10T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "6 Jun 2024",
+      "date_iso": "2024-06-06T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "20 Jun 2024",
+      "date_iso": "2024-06-20T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "15 Aug 2024",
+      "date_iso": "2024-08-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Icon Group ( Icon Group ) proposes to acquire a lease to establish a new radiation oncology clinic at Ramsay Health Care’s ( Ramsay ) St Andrew’s Ipswich Private Hospital in Queensland. Icon is a large provider of cancer care services. In Australia, Icon provides radiation oncology services, pharmaceutical compounding services, pharmacy management services and clinical cancer trials. Icon operates radiation oncology clinics in all states of Australia and the ACT. Ramsay is the largest operator of private hospitals in Australia. St Andrew’s Ipswich Private Hospital is owned and operated by Ramsay.",
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition in the markets for the supply of radiation oncology services in the Ipswich region, and south east region of Queensland. It was not necessary for the ACCC to form a concluded view in relation to the precise scope of the markets.",
+    "Competition analysis": "There are currently no providers of radiation oncology services in the Ipswich region. Information available to the ACCC indicates that there is strong demand for radiation oncology services in Ipswich, with patients currently travelling to Brisbane for treatment. As such, the proposed acquisition would be likely to improve patient access to radiation oncology services. The ACCC considered the effect of the proposed acquisition in conjunction with the proposed acquisition of a lease for the purpose of establishing a radiation oncology clinic at Chermside, including the extent to which Icon’s presence across the south east region of Queensland may raise barriers to entry and expansion for alternative radiation oncology providers. Information available to the ACCC indicates that future demand for radiation oncology services is likely to grow in the south east Queensland region, providing opportunities for alternative providers to remain, enter or expand in the future. The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any market."
+  }
+}

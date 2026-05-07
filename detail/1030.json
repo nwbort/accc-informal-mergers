@@ -1,0 +1,35 @@
+{
+  "id": "1030",
+  "title": "Ampelite Australia Pty Limited - proposed acquisition of assets of Alsynite Roofing Products Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ampelite-australia-pty-limited-proposed-acquisition-of-assets-of-alsynite-roofing-products-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29426",
+  "industries": [
+    "Fibreglass Roofing & Vents market"
+  ],
+  "date_completed": "5 October 2007",
+  "date_completed_iso": "2007-10-05T12:00:00Z",
+  "date_commenced": "27 September 2007",
+  "date_commenced_iso": "2007-09-27T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "Ampelite Australia Pty Ltd"
+  ],
+  "targets": [
+    "Alsynite Roofing Products Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 Sep 2007",
+      "date_iso": "2007-09-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Oct 2007",
+      "date_iso": "2007-10-05T12:00:00Z",
+      "event": "Parties announced withdrawal of proposed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

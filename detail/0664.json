@@ -1,0 +1,44 @@
+{
+  "id": "0664",
+  "title": "Metcash Limited - proposed acquisition of a 50.1% interest in Mitre 10",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metcash-limited-proposed-acquisition-of-a-501-interest-in-mitre-10",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39849",
+  "industries": [
+    "Hardware"
+  ],
+  "date_completed": "2 February 2010",
+  "date_completed_iso": "2010-02-02T12:00:00Z",
+  "date_commenced": "14 January 2010",
+  "date_commenced_iso": "2010-01-14T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Metcash Limited"
+  ],
+  "targets": [
+    "Mitre 10"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jan 2010",
+      "date_iso": "2010-01-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Jan 2010",
+      "date_iso": "2010-01-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Feb 2010",
+      "date_iso": "2010-02-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Metcash proposed to acquire a 50.1% interest in the Mitre 10 Group. If the proposed acquisition were to proceed, Metcash would have the option to purchase the remaining 49.9% interest in Mitre 10 in 2012 or 2013.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - regional markets for the wholesale supply of hardware and home improvement products; and - local markets for the retail sale of hardware and home improvement products.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. The ACCC considered that there was no significant horizontal overlap in the wholesaling operations of Metcash (as a wholesaler in the grocery and liquor industry) and Mitre 10 (as a wholesaler in the hardware industry). The ACCC also considered whether the proposed acquisition may raise any conglomerate issues given Metcash's existing position as a grocery and liquor retailer. In particular, the ACCC considered whether Metcash would have the ability and incentive to bundle or tie the supply of hardware products to hardware retailers that also have a presence as grocery retailers, and whether such a strategy would result in a substantial lessening of competition. The ACCC considered that there were relatively few retailers with a presence in both hardware and grocery retail and it would be difficult for the merged entity to identify these retailers. As such, the ACCC considered that it would be unlikely that the merged entity would engage in bundling or tying strategies and, even if the merged entity could successfully engage in such strategies, this would be unlikely to result in a substantial lessening of competition in any wholesale market due to the small number of retailers affected."
+  }
+}

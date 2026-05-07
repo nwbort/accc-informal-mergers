@@ -1,0 +1,30 @@
+{
+  "id": "1563",
+  "title": "Acquirer: Proctor & Gamble; Target: Wella",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-proctor-gamble-target-wella",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17607",
+  "industries": [],
+  "date_completed": "29 April 2003",
+  "date_completed_iso": "2003-04-29T12:00:00Z",
+  "date_commenced": "3 April 2003",
+  "date_commenced_iso": "2003-04-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Proctor & Gamble"
+  ],
+  "targets": [
+    "Wella"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Wella AG by Proctor & Gamble Company",
+    "Market definition": "The national market for the manufacture and supply of hair care products.",
+    "Competition analysis": "Proctor & Gamble and Wella both manufacture and supply hair care products, however Proctor and Gamble does not presently operate in the professional hairdressing salon sector of the relevant market, where Wella does have a significant presence.  Both companies compete in the retail grocery sector of the relevant market. . The Commission concluded that the proposed acquisition was unlikely to lead to a substantial lessening of competition in the relevant markets for the following reasons: (i)  In the retail grocery sector, the proposed acquisition would lead to a market share concentration that does not exceed the Commission's thresholds; (ii)  The current level of concentration in the professional hairdressing sector of the relevant market would be unaffected; (iii)  The principal competitors in the relevant market have strong global presence. Imports appear to make up a substantial percentage of products sold and import levels could increase to meet consumer demand; (iv) Consumers in the relevant market are able to choose between a very wide range of hair care products, offered by a number of strong global competitors. Accordingly, the Panel concluded that the proposed acquisition is unlikely to substantially lessen competition in the relevant market, and decided not to oppose.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties"
+  }
+}

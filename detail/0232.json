@@ -1,0 +1,65 @@
+{
+  "id": "0232",
+  "title": "APN Outdoor Group Limited - proposed merger with oOh!media Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/apn-outdoor-group-limited-proposed-merger-with-oohmedia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61388",
+  "industries": [
+    "Advertising"
+  ],
+  "date_completed": "19 May 2017",
+  "date_completed_iso": "2017-05-19T12:00:00Z",
+  "date_commenced": "16 December 2016",
+  "date_commenced_iso": "2016-12-16T12:00:00Z",
+  "total_review_days": 64,
+  "acquirers": [
+    "APN Outdoor Group Limited"
+  ],
+  "targets": [
+    "oOh!media Limited"
+  ],
+  "timeline": [
+    {
+      "date": "16 Dec 2016",
+      "date_iso": "2016-12-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "30 Jan 2017",
+      "date_iso": "2017-01-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "1 Feb 2017",
+      "date_iso": "2017-02-01T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "13 Feb 2017",
+      "date_iso": "2017-02-13T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "17 Feb 2017",
+      "date_iso": "2017-02-17T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (9 March 2017) delayed (to 16 March 2017), given the time required for merger parties to respond to 1 February information request, and to allow the ACCC to consider the information provided."
+    },
+    {
+      "date": "10 Mar 2017",
+      "date_iso": "2017-03-10T12:00:00Z",
+      "event": "The merger parties requested that the ACCC delay the timeline to allow them to provide further information to the ACCC. The former provisional decision date of 16 March 2017 has therefore been delayed while the ACCC awaits the further information."
+    },
+    {
+      "date": "4 May 2017",
+      "date_iso": "2017-05-04T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "19 May 2017",
+      "date_iso": "2017-05-19T12:00:00Z",
+      "event": "Following an announcement by the merger parties that the proposed merger has been terminated, the ACCC has discontinued this review."
+    }
+  ],
+  "body_sections": {}
+}

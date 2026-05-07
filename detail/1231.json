@@ -1,0 +1,43 @@
+{
+  "id": "1231",
+  "title": "Orix Australia Corporation Ltd - proposed acquisition of Fleet Partners Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/orix-australia-corporation-ltd-proposed-acquisition-of-fleet-partners-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24968",
+  "industries": [
+    "Automotive fleet leasing and management"
+  ],
+  "date_completed": "24 August 2006",
+  "date_completed_iso": "2006-08-24T12:00:00Z",
+  "date_commenced": "26 July 2006",
+  "date_commenced_iso": "2006-07-26T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Orix Australia Corporation Ltd"
+  ],
+  "targets": [
+    "Fleet Partners Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 Jul 2006",
+      "date_iso": "2006-07-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "9 Aug 2006",
+      "date_iso": "2006-08-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "24 Aug 2006",
+      "date_iso": "2006-08-24T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The Australian market for car fleet leasing and management",
+    "Competition analysis": "Orix Australia and Fleet Partners both provide commercial vehicle fleet management and financing. A large number of competitors offer similar services, barriers to entry are likely to be low and customers are likely to have a high degree of countervailing power. Consequently, the acquisition is unlikely to substantially lessen competition."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0924",
+  "title": "Spotless Group Limited - proposed acquisition of Programmed Maintenance Services Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/spotless-group-limited-proposed-acquisition-of-programmed-maintenance-services-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31582",
+  "industries": [
+    "Facility management, property maintenance"
+  ],
+  "date_completed": "12 May 2008",
+  "date_completed_iso": "2008-05-12T12:00:00Z",
+  "date_commenced": "30 April 2008",
+  "date_commenced_iso": "2008-04-30T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "Spotless Group Limited"
+  ],
+  "targets": [
+    "Programmed Maintenance Services Limited"
+  ],
+  "timeline": [
+    {
+      "date": "30 Apr 2008",
+      "date_iso": "2008-04-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 May 2008",
+      "date_iso": "2008-05-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 May 2008",
+      "date_iso": "2008-05-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the supply of building and facilities management services. Given the potential vertical and conglomerate relationships between the merger parties, the ACCC also considered the likely competition impact in separate national markets for each of maintenance services, cleaning services, painting services, catering services and laundry services.",
+    "Competition analysis": "The ACCC considered the proposed acquisition unlikely to substantially lessen competition for the following reasons: - the only market where the merger parties overlap appeared to be highly fragmented with several alternatives to the merged firm; - there did not appear to be significant barriers that would prevent new entry from constraining the merged firm; and - customers in many sectors appeared able to bring services in-house in the event that the merged firm attempted to increase prices or reduce quality. In relation to the vertical and conglomerate aspects of the merger, the ACCC considered the merged firm unlikely to have sufficient market power in any of the relevant markets to engage in foreclosure or other conduct that would substantially lessen competition in other markets."
+  }
+}

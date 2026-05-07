@@ -1,0 +1,68 @@
+{
+  "id": "1022",
+  "title": "Woolworths Limited - proposed acquisition of Officeworks and Kmart",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-officeworks-and-kmart",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27779",
+  "industries": [
+    "Office products, discount department store retail"
+  ],
+  "date_completed": "17 October 2007",
+  "date_completed_iso": "2007-10-17T12:00:00Z",
+  "date_commenced": "15 June 2007",
+  "date_commenced_iso": "2007-06-15T12:00:00Z",
+  "total_review_days": 66,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Officeworks BusinessDirect Pty Ltd<br/> Officeworks Superstores Pty Ltd<br/> Kmart Australia Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jun 2007",
+      "date_iso": "2007-06-15T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "12 Jul 2007",
+      "date_iso": "2007-07-12T12:00:00Z",
+      "event": "Timeline delayed by negotiations on confidentiality restrictions."
+    },
+    {
+      "date": "13 Jul 2007",
+      "date_iso": "2007-07-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jul 2007",
+      "date_iso": "2007-07-31T12:00:00Z",
+      "event": "Decision date amended from 'early September' to 'September' to allow for provision of further information by Woolworths and consideration of submissions from market participants."
+    },
+    {
+      "date": "5 Sep 2007",
+      "date_iso": "2007-09-05T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Proposed date for announcement of ACCC's findings amended accordingly."
+    },
+    {
+      "date": "19 Sep 2007",
+      "date_iso": "2007-09-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Sep 2007",
+      "date_iso": "2007-09-28T12:00:00Z",
+      "event": "Decision date amended from 3 October to 17 October 2007 due to Woolworths' delay in providing a submission in response to the Statement of Issues."
+    },
+    {
+      "date": "17 Oct 2007",
+      "date_iso": "2007-10-17T12:00:00Z",
+      "event": "ACCC announced it would oppose Woolworths' proposed acquisition of Kmart plus Officeworks."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "see detailed public competition assessement below.",
+    "Competition analysis": "see detailed public competition assessment below."
+  }
+}

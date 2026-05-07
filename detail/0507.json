@@ -1,0 +1,46 @@
+{
+  "id": "0507",
+  "title": "Consolidated Press Holdings Limited and Illyria Nominees Television Pty Limited - acquisition of shares in Ten Network Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/consolidated-press-holdings-limited-and-illyria-nominees-television-pty-limited-acquisition-of-shares-in-ten-network-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43835",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "14 July 2011",
+  "date_completed_iso": "2011-07-14T12:00:00Z",
+  "date_commenced": "18 November 2010",
+  "date_commenced_iso": "2010-11-18T12:00:00Z",
+  "total_review_days": 99,
+  "acquirers": [
+    "Illyria Nominees Television Pty Limited",
+    "Consolidated Press Holdings Limited"
+  ],
+  "targets": [
+    "Ten Network Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2010",
+      "date_iso": "2010-10-20T12:00:00Z",
+      "event": "CPH (via Cavalane) acquired a 17.88% shareholding in Ten."
+    },
+    {
+      "date": "18 Nov 2010",
+      "date_iso": "2010-11-18T12:00:00Z",
+      "event": "ACCC commenced a review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Nov 2010",
+      "date_iso": "2010-11-23T12:00:00Z",
+      "event": "Illyria purchased 50% of CPH's shareholding in Ten."
+    },
+    {
+      "date": "15 Jul 2011",
+      "date_iso": "2011-07-15T12:00:00Z",
+      "event": "The ACCC announced that there was not sufficient information available at this time to establish a breach of section 50 of the Competition and Consumer Act 2010. The ACCC will continue to monitor future developments at Ten having regard to the competition provisions of the Act."
+    }
+  ],
+  "body_sections": {}
+}

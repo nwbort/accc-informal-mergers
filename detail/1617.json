@@ -1,0 +1,31 @@
+{
+  "id": "1617",
+  "title": "Acquirer: BMG Australia Ltd; Target: Zomba Records Australia Pty Ltd, Zomba Music Publishers Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-bmg-australia-ltd-target-zomba-records-australia-pty-ltd-zomba-music-publishers-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16431",
+  "industries": [],
+  "date_completed": "3 September 2002",
+  "date_completed_iso": "2002-09-03T12:00:00Z",
+  "date_commenced": "1 August 2002",
+  "date_commenced_iso": "2002-08-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "BMG Australia Ltd"
+  ],
+  "targets": [
+    "Zomba Records Australia Pty Ltd, Zomba Music Publishers Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Zomba Records Australia Pty Ltd, Zomba Production Music (Australia) Pty Ltd and Zomba Music Publications (Australia) Pty Ltd by BMG Australia Ltd",
+    "Market definition": "The Commission considered the relevant markets to be the national market for the production, promotion and wholesale supply of recorded music ('wholesale of recorded music') and the national market for music publishing.",
+    "Competition analysis": "The Commission considered that the following factors indicated that the proposed acquisition was unlikely to substantially lessen competition in the wholesale of recorded music market: - there would be a small increase in the merged firm's market share which would not result in the merged firm exceeding the Commission's concentration thresholds; - the view held by some market participants that Zomba does not possess a sufficient catalogue of titles to pose a significant threat; and - the merged firm will continue to be the fifth largest supplier. The Commission considered that the following factors indicated that the proposed acquisition was unlikely to substantially lessen competition in the music publishing market: - BMG is presently Zomba's sub-publisher; - there would be a small increase in the merged firm's market share which would not result in the merged firm exceeding the Commission's concentration thresholds; - the merged firm will continue to be the fifth largest supplier; and - the larger market shares held by the independent music publishers.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7869"
+  }
+}

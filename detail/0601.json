@@ -1,0 +1,43 @@
+{
+  "id": "0601",
+  "title": "The Valspar Corporation - proposed acquisition of Wattyl Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-valspar-corporation-proposed-acquisition-of-wattyl-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42301",
+  "industries": [
+    "Paint"
+  ],
+  "date_completed": "19 August 2010",
+  "date_completed_iso": "2010-08-19T12:00:00Z",
+  "date_commenced": "26 July 2010",
+  "date_commenced_iso": "2010-07-26T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "The Valspar Corporation"
+  ],
+  "targets": [
+    "Wattyl Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 Jul 2010",
+      "date_iso": "2010-07-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2010",
+      "date_iso": "2010-08-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Aug 2010",
+      "date_iso": "2010-08-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition within the context of a national market for the manufacture and supply of industrial coatings, however it was not necessary for the ACCC to reach a conclusive view on market definition as the outcome of the competition assessment would not have been affected.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: - there is limited horizontal overlap between the merger parties in the supply of industrial coatings in Australia and the proposed acquisition would not result in any significant aggregation within the relevant market; - there are a number of alternative suppliers of industrial coatings in Australia which would be likely to impose an effective competitive constraint on the merged firm in particular Akzo Nobel, PPG, Mirotone, Dulux and Du Pont; and - independent imports of industrial coatings would provide a credible competitive constraint on the merged firm and barriers to import expansion appeared to be low."
+  }
+}

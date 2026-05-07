@@ -1,0 +1,61 @@
+{
+  "id": "0621",
+  "title": "Proposed withdrawal of s87B undertaking of Babcock and Brown Infrastructure and Babcock and Brown Power",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-withdrawal-of-s87b-undertaking-of-babcock-and-brown-infrastructure-and-babcock-and-brown-power",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42359",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "9 June 2010",
+  "date_completed_iso": "2010-06-09T12:00:00Z",
+  "date_commenced": "8 January 2010",
+  "date_commenced_iso": "2010-01-08T12:00:00Z",
+  "total_review_days": 62,
+  "acquirers": [
+    "Babcock and Brown Limited",
+    "Singapore Power International Pte Ltd"
+  ],
+  "targets": [
+    "Alinta Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Jan 2010",
+      "date_iso": "2010-01-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jan 2010",
+      "date_iso": "2010-01-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2010",
+      "date_iso": "2010-01-27T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended. Former proposed date for announcement of ACCC's findings, of 27 January 2010, amended to allow parties to respond to information request."
+    },
+    {
+      "date": "22 Feb 2010",
+      "date_iso": "2010-02-22T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Mar 2010",
+      "date_iso": "2010-03-31T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former proposed date for announcement of ACCC's findings, of 31 March 2010, amended to allow for parties to respond to the ACCC's information request. ACCC timeline suspended."
+    },
+    {
+      "date": "7 May 2010",
+      "date_iso": "2010-05-07T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "9 Jun 2010",
+      "date_iso": "2010-06-09T12:00:00Z",
+      "event": "Alinta Energy withdrew its application to withdraw the undertaking."
+    }
+  ],
+  "body_sections": {}
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0847",
+  "title": "Woolworths Ltd supermarket proposed transaction involving new site in Delroy Park in West Dubbo",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-supermarket-proposed-transaction-involving-new-site-in-delroy-park-in-west-dubbo",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33528",
+  "industries": [
+    "Groceries"
+  ],
+  "date_completed": "22 October 2008",
+  "date_completed_iso": "2008-10-22T12:00:00Z",
+  "date_commenced": "11 September 2008",
+  "date_commenced_iso": "2008-09-11T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "N/A"
+  ],
+  "timeline": [
+    {
+      "date": "11 Sep 2008",
+      "date_iso": "2008-09-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Sep 2008",
+      "date_iso": "2008-09-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Oct 2008",
+      "date_iso": "2008-10-02T12:00:00Z",
+      "event": "Closing date for submissions extended to 10 October 2008."
+    },
+    {
+      "date": "2 Oct 2008",
+      "date_iso": "2008-10-02T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended from 8 October to 22 October 2008 to allow for further market inquiries."
+    },
+    {
+      "date": "22 Oct 2008",
+      "date_iso": "2008-10-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposes to develop a new supermarket site in West Dubbo (NSW) (proposed acquisition).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the local retail supermarket market. The ACCC generally considers supermarket acquisitions on the basis of a local market of approximately 3-5km, although the boundaries in any particular matter may be larger or smaller than this and depend on local factors including roads and customer travel patterns. In this case the ACCC considered the competition effects of the transaction on the basis of several different possible geographic areas; 2 kilometres, 3 kilometres, and 6 kilometres by road from the proposed site. The ACCC did not consider it necessary to reach a conclusion on the geographic market definition for this matter, as a substantial lessening of competition does not appear likely to arise in any of the above possible relevant markets.",
+    "Competition analysis": "On 22 October 2008, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any of the relevant markets. Factors informing this conclusion include the following: The Counterfactual In assessing a merger pursuant to section 50 of the Act, the ACCC must consider the effects of the transaction by comparing the likely future state of competition if the transaction proceeds (the 'with' or 'factual' position) to the likely future state of competition if the transaction does not proceed (the 'without' or 'counterfactual' position). Post-acquisition, Woolworths would have 2 out of 3 supermarkets if the market were defined using a 3km radius, or 3 out of 5 supermarkets in a 6km market; this formed the 'with' position. In determining the 'without' position, the ACCC investigated whether there was a real chance of an alternative supermarket operator occupying the proposed site in the absence of the proposed acquisition, acting as a competitive constraint on Woolworths and other supermarkets in the relevant local market. The ACCC's investigation revealed that it was theoretically possible that an alternative supermarket operator would acquire the proposed supermarket site, but having examined submissions from market participants, the ACCC concluded that there was no evidence to suggest that this was a likely outcome. Therefore, after considering all the information available to it, the ACCC considered the proposed acquisition according to the more likely counterfactual that without the acquisition the proposed site would be developed for an alternative purpose, not a supermarket. Existing competitive constraints and barriers to entry If the market were defined by a 2 kilometre radius from the proposed site, the ACCC considered that the proposed transaction would result in new entry by Woolworths into an area which currently has no full-line supermarkets. In relation to the second and third possible markets examined (3 and 6 kilometres), while the proposed site's development would result in an increased presence for Woolworths, Woolworths would face the same competitors as would be the case without the proposed acquisition."
+  }
+}

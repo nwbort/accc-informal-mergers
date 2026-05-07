@@ -1,0 +1,31 @@
+{
+  "id": "1547",
+  "title": "Acquirer: Coca Cola Amatil Ltd; Target: Parit Pty Ltd t/a \"Peats Ridge\"",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coca-cola-amatil-ltd-target-parit-pty-ltd-ta-peats-ridge",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17870",
+  "industries": [],
+  "date_completed": "26 June 2003",
+  "date_completed_iso": "2003-06-26T12:00:00Z",
+  "date_commenced": "30 May 2003",
+  "date_commenced_iso": "2003-05-30T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coca Cola Amatil Ltd"
+  ],
+  "targets": [
+    "Parit Pty Ltd t/a \"Peats Ridge\""
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Parit Pty Ltd t/a \"Peats Ridge\"",
+    "Market definition": "The relevant market was considered to be the national market for the bottling and distribution of wholesale packaged water (\"WPW\").",
+    "Competition analysis": "The proposed acquisition would cross the Commission's concentration thresholds. The Commission considered that a national scale entrant would face substantial barriers in the form of distribution, the alleged aggressive market tactics of CCA and, to a lesser extent, brand loyalty and economies of scale. However, the Commission considered that there would remain a number of alternative suppliers and that supermarkets would appear to possess some degree of countervailing power in this respect. The Panel noted, however, that due to the large number and variety of outlets that comprise the non-grocery channel, it was unlikely that any one outlet or chain of outlets would be able to exert any level of significant influence over the merged firm. The Commission noted that most of Peats Ridge's WPW sales are to grocery stores. As a result the proposed acquisition was considered unlikely to provide CCA with any significant increase in market share in the more concentrated non-grocery or \"route\" trade channels.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2181"
+  }
+}

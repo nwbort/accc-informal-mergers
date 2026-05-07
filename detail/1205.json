@@ -1,0 +1,44 @@
+{
+  "id": "1205",
+  "title": "Confoil Pty Ltd - proposed acquisition of Kingfoil Containers Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/confoil-pty-ltd-proposed-acquisition-of-kingfoil-containers-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25604",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "24 October 2006",
+  "date_completed_iso": "2006-10-24T12:00:00Z",
+  "date_commenced": "6 October 2006",
+  "date_commenced_iso": "2006-10-06T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Confoil Pty Ltd"
+  ],
+  "targets": [
+    "Kingfoil Containers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Oct 2006",
+      "date_iso": "2006-10-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "17 Oct 2006",
+      "date_iso": "2006-10-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2006",
+      "date_iso": "2006-10-24T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Confoil Pty Ltd proposes to acquire Kingfoil Containers Pty Ltd.  Both companies manufacture rigid foil containers for use in food packaging",
+    "Market definition": "The ACCC considers that the relevant market is the national market for the manufacture and supply of rigid foil containers",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the national market for the manufacture and supply of rigid foil containers.  The ACCC formed this view given that the merged entity is likely to be constrained by potential import competition.  To a lesser extent, the availability of packaging substitutes is also expected to constrain the merged entity."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0342",
+  "title": "St John of God Health Care Inc - proposed acquisition of Mercy Hospital Perth",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/st-john-of-god-health-care-inc-proposed-acquisition-of-mercy-hospital-perth",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53160",
+  "industries": [
+    "Hospital"
+  ],
+  "date_completed": "11 March 2014",
+  "date_completed_iso": "2014-03-11T12:00:00Z",
+  "date_commenced": "18 December 2013",
+  "date_commenced_iso": "2013-12-18T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "St John of God Health Care Inc"
+  ],
+  "targets": [
+    "Mercy Hospital Perth"
+  ],
+  "timeline": [
+    {
+      "date": "18 Dec 2013",
+      "date_iso": "2013-12-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Jan 2014",
+      "date_iso": "2014-01-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "6 Feb 2014",
+      "date_iso": "2014-02-06T12:00:00Z",
+      "event": "ACCC requested further information from merger parties."
+    },
+    {
+      "date": "20 Feb 2014",
+      "date_iso": "2014-02-20T12:00:00Z",
+      "event": "ACCC is awaiting information from merger parties. Former provisional date for announcement of the ACCC's findings (20th February) is delayed."
+    },
+    {
+      "date": "26 Feb 2014",
+      "date_iso": "2014-02-26T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "13 Mar 2014",
+      "date_iso": "2014-03-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "St John of God Health Care Inc proposed to acquire the Mercy Hospital at Mount Lawley in Perth.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of markets for the supply of: - general overnight hospital services to private health funds and the Repatriation Commission.  The ACCC did not consider it necessary to form a concluded view on the geographic scope of this market, but noted that there are national, state-based and local elements to competition in this market; - general overnight hospital services to patients in the Perth metropolitan area, in particular the supply of obstetrics services, which is a key area of overlap between St John of God's hospitals and the Mercy Hospital.  The ACCC's review focussed on the area of Perth north of the Swan River, where both the Mercy Hospital and St John of God's Subiaco hospital are located, and - community pathology services (including both out-patients and private in-patients at private and public hospitals) in Western Australia.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. The proposed acquisition would remove an independent competitor to St John of God and Ramsay Health Care, the two major hospital groups in the Perth metropolitan area.  In particular, it would enhance St John of God's already strong position in private obstetrics services in metropolitan Perth.  The removal of an alternative hospital may increase St John of God's bargaining power when negotiating Hospital Purchaser Provider Agreements with private health funds (or equivalent agreements with the Repatriation Commission) However, market inquiries indicated that the Mercy is not a vigorous competitor.  For example, its lack of an intensive care unit limits the types of procedures that can be performed there.  Accordingly, any increase in St John of God's bargaining power against private health funds or the Repatriation Commission resulting from the proposed acquisition was likely to be small.  In relation to obstetrics, the ACCC considered that it would be possible for other major private hospitals in Perth that do not currently offer obstetrics services to begin offering obstetrics services.  This threat of expansion is likely to impose some constraint on St John of God in its pricing of obstetrics services. Consistent with previous reviews in the hospital sector, the ACCC took the view that, given the importance of doctors in referring patients to hospitals, competition by hospitals to attract and retain specialists can be seen as a proxy for competition for patients.  Market inquiries did not indicate that the Mercy had been competing vigorously to attract or retain specialists.  Therefore the ACCC considered it unlikely that the proposed acquisition would result in reduced levels of service or investment in Perth's private hospitals. In relation to pathology services, St John of God is already the in-house provider of pathology services at the Mercy.  While the proposed acquisition may remove an opportunity for competing pathology companies, such as Sonic Health Care and Primary Health Care, to provide in-house services at the Mercy in the future, this was unlikely to amount to a substantial lessening of competition in the Western Australian market."
+  }
+}

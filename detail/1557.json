@@ -1,0 +1,31 @@
+{
+  "id": "1557",
+  "title": "Acquirer: CPS Credit Union (SA) Ltd; Target: IOOF SA Credit Union",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cps-credit-union-sa-ltd-target-ioof-sa-credit-union",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17686",
+  "industries": [],
+  "date_completed": "27 May 2003",
+  "date_completed_iso": "2003-05-27T12:00:00Z",
+  "date_commenced": "29 April 2003",
+  "date_commenced_iso": "2003-04-29T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "CPS Credit Union (SA) Ltd"
+  ],
+  "targets": [
+    "IOOF SA Credit Union"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 29 April 2003, the Commission was informed by the Australian Prudential Regulation Authority of the voluntary transfer of all assets and liabilities of the IOOF SA Credit Union to the CPS Credit Union.",
+    "Market definition": "Markets for various financial services products in South Australia.",
+    "Competition analysis": "Both of these Friendly Societies are based in South Australia. On 27 May 2003, the Commission decided not to oppose this merger on the basis that it did not cross any of the Commission's market concentration thresholds for the exercise of market power, and therefore was unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

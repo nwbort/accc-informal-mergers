@@ -1,0 +1,30 @@
+{
+  "id": "1509",
+  "title": "Acquirer: Accord Cutomer Care Solutions (ACCS); Target: MobilefoneRepaircom (MfR)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-accord-cutomer-care-solutions-accs-target-mobilefonerepaircom-mfr",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19118",
+  "industries": [],
+  "date_completed": "16 December 2003",
+  "date_completed_iso": "2003-12-16T12:00:00Z",
+  "date_commenced": "14 November 2003",
+  "date_commenced_iso": "2003-11-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Accord Cutomer Care Solutions (ACCS)"
+  ],
+  "targets": [
+    "MobilefoneRepaircom (MfR)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Both MobilefoneRepair.com (MfR) and Accord Customer Care Solutions (ACCS) operate in what is generally described as the after-market service (AMS) industry for mobile phones. AMS covers a variety of services such as repair and servicing along with warranty management, customer support, call management and parts distribution management. ACCS proposes to acquire MfR.com",
+    "Market definition": "This merger was assessed in the market for after-market service for mobile phones.",
+    "Competition analysis": "The Commission concluded that while the merged entity appears to maintain a significant market share of the AMS market for mobile phones, particularly for warranty repairs, barriers to entry appear to be low and mobile phone manufacturers have a significant degree of countervailing power which is likely to act as a constraint on prices for after market service.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4615"
+  }
+}

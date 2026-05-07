@@ -1,0 +1,52 @@
+{
+  "id": "0129",
+  "title": "OneFortyOne Plantations Holdings Pty Ltd - Global Forest Partners LP’s softwood plantation assets (Green Triangle Forest Products)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onefortyone-plantations-holdings-pty-ltd-global-forest-partners-lp%E2%80%99s-softwood-plantation-assets-green-triangle-forest-products",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Forest plantation"
+  ],
+  "date_completed": "27 April 2021",
+  "date_completed_iso": "2021-04-27T12:00:00Z",
+  "date_commenced": "3 February 2021",
+  "date_commenced_iso": "2021-02-03T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "OneFortyOne Plantations Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Global Forest Partners LP’s softwood plantation assets (Green Triangle Forest Products)"
+  ],
+  "timeline": [
+    {
+      "date": "3 Feb 2021",
+      "date_iso": "2021-02-03T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Feb 2021",
+      "date_iso": "2021-02-17T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Mar 2021",
+      "date_iso": "2021-03-12T12:00:00Z",
+      "event": "ACCC requested further information from OneFortyOne."
+    },
+    {
+      "date": "29 Mar 2021",
+      "date_iso": "2021-03-29T12:00:00Z",
+      "event": "ACCC is awaiting information from OneFortyOne. Former provisional date for announcement of findings (16 April) is delayed."
+    },
+    {
+      "date": "27 Apr 2021",
+      "date_iso": "2021-04-27T12:00:00Z",
+      "event": "ACCC discontinued its public review after OneFortyOne Plantations Holdings Pty Ltd informed the ACCC of its intention to withdraw its proposed acquisition of Global Forest Partners LP's softwood plantation assets (Green Triangle Forest Products)."
+    }
+  ],
+  "body_sections": {
+    "Summary": "OneFortyOne Plantations Holdings Pty Ltd proposed to acquire 100% of the units in World Timberfund Australia Trust, which owns the business known as Green Triangle Forest Products, from investors managed by Global Forest Partners LP."
+  }
+}

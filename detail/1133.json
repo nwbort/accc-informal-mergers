@@ -1,0 +1,53 @@
+{
+  "id": "1133",
+  "title": "Mater Misericordiae Hospital Townsville Ltd - proposed acquisition of The Wesley Hospital Townsville",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mater-misericordiae-hospital-townsville-ltd-proposed-acquisition-of-the-wesley-hospital-townsville",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26134",
+  "industries": [
+    "Hospitals"
+  ],
+  "date_completed": "7 March 2007",
+  "date_completed_iso": "2007-03-07T12:00:00Z",
+  "date_commenced": "9 January 2007",
+  "date_commenced_iso": "2007-01-09T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Mater Misericordiae Hospital Townsville Ltd"
+  ],
+  "targets": [
+    "The Wesley Hospital Townsville"
+  ],
+  "timeline": [
+    {
+      "date": "9 Jan 2007",
+      "date_iso": "2007-01-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "24 Jan 2007",
+      "date_iso": "2007-01-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "7 Feb 2007",
+      "date_iso": "2007-02-07T12:00:00Z",
+      "event": "Timeline extended due to the need to conduct further market inquiries. Further market inquiries commenced"
+    },
+    {
+      "date": "16 Feb 2007",
+      "date_iso": "2007-02-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties in response to further market inquiries"
+    },
+    {
+      "date": "7 Mar 2007",
+      "date_iso": "2007-03-07T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see detailed Public Competition Assessment below.",
+    "Competition analysis": "Please see detailed Public Competition Assessment below."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0528",
+  "title": "Woolworths Limited - proposed acquisition of The Cellarmasters Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-the-cellarmasters-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45148",
+  "industries": [
+    "Liquor retailing"
+  ],
+  "date_completed": "21 April 2011",
+  "date_completed_iso": "2011-04-21T12:00:00Z",
+  "date_commenced": "1 March 2011",
+  "date_commenced_iso": "2011-03-01T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "The Cellarmasters Group"
+  ],
+  "timeline": [
+    {
+      "date": "1 Mar 2011",
+      "date_iso": "2011-03-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Mar 2011",
+      "date_iso": "2011-03-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Mar 2011",
+      "date_iso": "2011-03-25T12:00:00Z",
+      "event": "ACCC requested further information from Woolworths. ACCC timeline suspended."
+    },
+    {
+      "date": "4 Apr 2011",
+      "date_iso": "2011-04-04T12:00:00Z",
+      "event": "ACCC received further information from Woolworths. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Apr 2011",
+      "date_iso": "2011-04-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Please see Public Competition Assessment below.",
+    "Market definition": "Please see Public Competition Assessment below.",
+    "Competition analysis": "Please see Public Competition Assessment below."
+  }
+}

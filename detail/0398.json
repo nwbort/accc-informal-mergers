@@ -1,0 +1,44 @@
+{
+  "id": "0398",
+  "title": "Bertelsmann SE and Co KGaA and Pearson Plc - proposed combination of global book publishing businesses (Random House & Penguin)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bertelsmann-se-and-co-kgaa-and-pearson-plc-proposed-combination-of-global-book-publishing-businesses-random-house-penguin",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50475",
+  "industries": [
+    "Book publishing business"
+  ],
+  "date_completed": "8 March 2013",
+  "date_completed_iso": "2013-03-08T12:00:00Z",
+  "date_commenced": "11 January 2013",
+  "date_commenced_iso": "2013-01-11T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Bertelsmann SE and Co KGaA"
+  ],
+  "targets": [
+    "Pearson Plc"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jan 2013",
+      "date_iso": "2013-01-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Feb 2013",
+      "date_iso": "2013-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Mar 2013",
+      "date_iso": "2013-03-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bertelsmann SE and Co KGaA and Pearson Plc proposed to combine their global book publishing businesses (Random House & Penguin).",
+    "Market definition": "The ACCC considered the proposed transaction in the context of the following Australian based markets: i. the acquisition of authors rights ii. the supply of books by publishers iii. the supply of book sales and distribution services, and iv. the retail supply of books. For the purpose of considering this transaction, the ACCC did not consider it necessary to form a definitive view on whether there were separate product markets based on book format (printed or electronic) or the sales channel (online or bricks and mortar retailers).",
+    "Competition analysis": "The ACCC considered that the proposed transaction would be unlikely to substantially lessen competition in any relevant market. i. The acquisition of authors rights The ACCC considered that the proposed transaction would be unlikely to substantially lessen competition in this market having regard to the following factors: -remaining publishers would be likely to competitively constrain the merged firm post merger, and -authors face low barriers in switching to alternative publishers. ii. The supply of books by publishers The ACCC considered that the proposed transaction would be unlikely to substantially lessen competition in this market because remaining publishers would be likely to competitively constrain the merged firm post merger. iii. The supply of book sales and distribution services Publishers can undertake distribution and/or marketing of their books in-house or outsource these functions to a third party. Many publishers who undertake these functions in-house, including Penguin and Random House, also offer book distribution and marketing services to publishers who do not maintain their own sale force and/or distribution facilities such as warehouses. The ACCC considered that the proposed transaction would be unlikely to substantially lessen competition in the market for the supply of these services because remaining publishers would be likely to competitively constrain the merged firm post merger. iv. The retail supply of books The ACCC considered that the proposed transaction would be unlikely to substantially lessen competition in this market. While the merged entity will be vertically integrated into online retailing it would not have the incentive to foreclose retailers from access to its catalogue."
+  }
+}

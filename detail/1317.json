@@ -1,0 +1,26 @@
+{
+  "id": "1317",
+  "title": "Oracle Corporation - proposed acquisition of Siebel Systems.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/oracle-corporation-proposed-acquisition-of-siebel-systems",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22496",
+  "industries": [
+    "Software"
+  ],
+  "date_completed": "10 January 2006",
+  "date_completed_iso": "2006-01-10T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Oracle Corporation's proposed acquisition of Siebel Systems.",
+    "Market definition": "The national market for the supply of complex customer relationship management (CRM) software applications to large (also known as Tier 1 or enterprise level) organisations.",
+    "Competition analysis": "On 10 January 2005, the ACCC decided not to oppose the proposed acquisition of Siebel Systems by the Oracle Corporation. It appears that in the national market for the supply of complex CRM software applications to large (also called Tier 1 or enterprise level) organisations, the merged entity would face significant competition from SAP and other suppliers of CRM software. The ACCC also considered that suppliers to smaller (Tier 2) organisations, and global CRM providers not currently present in Australia, represent a credible threat of new entry. Such entry may be sponsored by one of the merged firm's large customers. Further, the ACCC also considered that CRM is a dynamic market characterised by continuous innovation as has been seen in the growth of hosted providers such as Salesforce.com and RightNow Technologies. After consideration of the merger factors the ACCC formed the view that the proposed acquisition is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal, Vertical",
+    "Initiation": "Press"
+  }
+}

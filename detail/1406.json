@@ -1,0 +1,25 @@
+{
+  "id": "1406",
+  "title": "Santos Ltd - acquisition of assets of Basin Oil Pty Ltd in the Cooper Basin (SA) and Gippsland Basin (VIC)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/santos-ltd-acquisition-of-assets-of-basin-oil-pty-ltd-in-the-cooper-basin-sa-and-gippsland-basin-vic",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21532",
+  "industries": [
+    "wholesale gas"
+  ],
+  "date_completed": "12 April 2005",
+  "date_completed_iso": "2005-04-12T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Santos Ltd announced on 17 February 2005 that it had acquired the assets of Basin Oil Pty Ltd in the Cooper Basin (SA) and Gippsland Basin (VIC).",
+    "Market definition": "Supply of gas at the wholesale level in the Cooper Basin and the Gippsland Basin.",
+    "Competition analysis": "It appears unlikely that the acquisition will result in a substantial lessening of competition as Santos already has a 50% or greater interest in the Gippsland Basin assets in which Basin Oil has an interest (apart from an exploration permit in which Santos has an existing 33% interest), and already has a voting majority holding in the Cooper Basin.",
+    "Merger type": "Horizontal"
+  }
+}

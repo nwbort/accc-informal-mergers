@@ -1,0 +1,31 @@
+{
+  "id": "1476",
+  "title": "Acquirer: Statewest Credit Society Ltd; Target: Breweries Union Credit Society Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-statewest-credit-society-ltd-target-breweries-union-credit-society-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19869",
+  "industries": [],
+  "date_completed": "29 June 2004",
+  "date_completed_iso": "2004-06-29T12:00:00Z",
+  "date_commenced": "22 June 2004",
+  "date_commenced_iso": "2004-06-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Statewest Credit Society Ltd"
+  ],
+  "targets": [
+    "Breweries Union Credit Society Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "By letter dated 21 June 2004, APRA informed the ACCC of the proposed transfer of the entire business of Breweries Union Credit Society Ltd to Statewest Credit Society Ltd.",
+    "Market definition": "For practical purposes, the relevant product market in this instance was treated as a broadly defined market for financial services.",
+    "Competition analysis": "Concentration thresholds are not crossed.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

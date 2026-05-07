@@ -1,0 +1,44 @@
+{
+  "id": "0639",
+  "title": "OneSteel Recycling Pty Limited - proposed acquisition of Metals Trading",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-recycling-pty-limited-proposed-acquisition-of-metals-trading",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41169",
+  "industries": [
+    "Scrap Metal Recycling"
+  ],
+  "date_completed": "21 April 2010",
+  "date_completed_iso": "2010-04-21T12:00:00Z",
+  "date_commenced": "22 March 2010",
+  "date_commenced_iso": "2010-03-22T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "OneSteel Recycling Pty Limited"
+  ],
+  "targets": [
+    "Metals Trading"
+  ],
+  "timeline": [
+    {
+      "date": "22 Mar 2010",
+      "date_iso": "2010-03-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Apr 2010",
+      "date_iso": "2010-04-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Apr 2010",
+      "date_iso": "2010-04-21T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "OneSteel proposed to acquire Metals Trading",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. However, for the purpose of conducting this review, the ACCC considered the proposed acquisition in the context of: (i) the markets for the acquisition of ferrous scrap metal from scrap originators, scrap collectors and scrap dealers in each of Victoria and NSW; (ii) the markets for the supply of ferrous scrap metal to end users such as metal manufacturers, smelters and foundries in each of Victoria and NSW; (iii) the market for the acquisition of non-ferrous scrap metal from scrap originators, scrap collectors and scrap dealers in Australia; and (iv) the market for the supply of non-ferrous scrap metal to end users such as metal manufacturers, smelters and foundries Australia.",
+    "Competition analysis": "In relation to ferrous scrap, the ACCC noted that Metals Trading represents a small proportion of scrap acquired, processed and exported in the states in which it operates. The ACCC also noted that there would remain a number of scrap processors post acquisition that would compete to acquire scrap. The ACCC considered that the ability of scrap processors to export scrap was likely to act as a constraint on the merged entity. In relation to non-ferrous scrap, the ACCC noted that this type of scrap is generally higher value than ferrous scrap and is therefore more conducive to cross-state and international transport. The ACCC considered that this meant there would be a large number of scrap dealers across the country competing to acquire non-ferrous scrap. The ACCC also noted that OneSteel does not use non-ferrous scrap for its manufacturing operations so all the volumes it processes are on-sold either domestically or internationally. The ACCC formed the view that export-parity pricing is likely to continue to constrain the merged entity post-acquisition."
+  }
+}

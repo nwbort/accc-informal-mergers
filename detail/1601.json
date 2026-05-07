@@ -1,0 +1,31 @@
+{
+  "id": "1601",
+  "title": "Acquirer: OPSM Group Ltd; Target: Precision Eyewear",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-opsm-group-ltd-target-precision-eyewear",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16564",
+  "industries": [],
+  "date_completed": "4 November 2002",
+  "date_completed_iso": "2002-11-04T12:00:00Z",
+  "date_commenced": "19 September 2002",
+  "date_commenced_iso": "2002-09-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "OPSM Group Ltd"
+  ],
+  "targets": [
+    "Precision Eyewear"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of Precision Eyewear Pty Limited, a private company owned by the Elcock Group of companies, by OPSM Group Limited.",
+    "Market definition": "The Commission considered that the relevant market was the national market for optical dispensing with regional areas of close competition.",
+    "Competition analysis": "In November 2002, the Commission considered the acquisition and although OPSM has a much greater market share than its nearest competitors, the Commission considered that the acquisition was not likely to result in a substantial lessening of competition in the national market for optical dispensing due to: 1. the relatively low barriers to entry or expansion that would be faced by an entrant seeking to constrain any price increases by the merged entity, as demonstrated by recent effective entry and expansion; and 2. the competition provided by independent optometrists and retail optical chains at the local level, which will remain post acquisition. Accordingly the Commission decided not to intervene.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "8632"
+  }
+}

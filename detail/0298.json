@@ -1,0 +1,54 @@
+{
+  "id": "0298",
+  "title": "Greencross Ltd - proposed acquisition of My Pet Warehouse store in South Yarra, Victoria",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/greencross-ltd-proposed-acquisition-of-my-pet-warehouse-store-in-south-yarra-victoria",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56521",
+  "industries": [
+    "Pet supplies and services"
+  ],
+  "date_completed": "13 March 2015",
+  "date_completed_iso": "2015-03-13T12:00:00Z",
+  "date_commenced": "11 February 2015",
+  "date_commenced_iso": "2015-02-11T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "Greencross Ltd"
+  ],
+  "targets": [
+    "My Pet Warehouse"
+  ],
+  "timeline": [
+    {
+      "date": "11 Feb 2015",
+      "date_iso": "2015-02-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Feb 2015",
+      "date_iso": "2015-02-17T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "20 Feb 2015",
+      "date_iso": "2015-02-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Mar 2015",
+      "date_iso": "2015-03-05T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "13 Mar 2015",
+      "date_iso": "2015-03-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Greencross Ltd proposed to acquire the pet specialty store in South Yarra, Victoria, owned by Whats Happening Pty Ltd, which trades as My Pet Warehouse.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the market for the supply of pet related products and services by specialty pet retailers in the area surrounding the target site, broadly covered by the postcode areas of South Yarra, Prahran, Toorak and Richmond.",
+    "Competition analysis": "In addition to the target store (My Pet Warehouse South Yarra), the local market included: * a Greencross store (branded Petbarn) in Richmond * another My Pet Warehouse store in Toorak * Petstock in Prahran * Pets Wonderland in Prahran. The ACCC did not consider the proposed acquisition would substantially lessen competition in the local market. In particular: * My Pet Warehouse would remain in the market through its store at Toorak * Greencross would continue to be constrained by Petstock and Pets Wonderland in Prahran The ACCC will continue to monitor the competitive effects of ongoing consolidation in the pet retail industry."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0707",
+  "title": "General Motors Company - proposed acquisition of the non-steering business of Delphi Corporation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/general-motors-company-proposed-acquisition-of-the-non-steering-business-of-delphi-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38668",
+  "industries": [
+    "Automotive components"
+  ],
+  "date_completed": "23 September 2009",
+  "date_completed_iso": "2009-09-23T12:00:00Z",
+  "date_commenced": "1 September 2009",
+  "date_commenced_iso": "2009-09-01T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "General Motors Company"
+  ],
+  "targets": [
+    "Delphi Corporation"
+  ],
+  "timeline": [
+    {
+      "date": "1 Sep 2009",
+      "date_iso": "2009-09-01T12:00:00Z",
+      "event": "ACCC commenced a review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Sep 2009",
+      "date_iso": "2009-09-11T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information from the merger parties."
+    },
+    {
+      "date": "16 Sep 2009",
+      "date_iso": "2009-09-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Sep 2009",
+      "date_iso": "2009-09-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 28 April 2009 the ACCC announced that it would not oppose the proposed acquisition by General Motors of Delphi's steering business. General Motors proposed to acquire further interests in Delphi businesses that manufacture automotive components for supply to original equipment manufacturers.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national markets for the supply of non-steering automotive components; namely fuel delivery modules, fuel evaporative canisters and control modules.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets on the basis that alternative suppliers, particularly global suppliers capable of importing automotive components into Australia, would continue to competitively constrain General Motors."
+  }
+}

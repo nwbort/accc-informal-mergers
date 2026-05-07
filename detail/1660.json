@@ -1,0 +1,31 @@
+{
+  "id": "1660",
+  "title": "Acquirer: Members Australia Credit Union Ltd; Target: Dependable Credit Union Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-members-australia-credit-union-ltd-target-dependable-credit-union-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15806",
+  "industries": [],
+  "date_completed": "10 April 2002",
+  "date_completed_iso": "2002-04-10T12:00:00Z",
+  "date_commenced": "26 March 2002",
+  "date_commenced_iso": "2002-03-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Members Australia Credit Union Ltd"
+  ],
+  "targets": [
+    "Dependable Credit Union Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 26 March 2002, the Australian Prudential Regulation Authority informed the Commission of the transfer of the entire business of the Dependable Credit Union Ltd to Members Australia Credit Union.",
+    "Market definition": "Financial services in New South Wales.",
+    "Competition analysis": "On 9 April 2002, the Commission decided that it would not oppose the proposed merger between the Dependable Credit Union and the Members Australia Credit Union. On 26 March 2002 the Australian Prudential Regulation Authority informed the Commission of the transfer of the entire business of the Dependable Credit Union to the Members Australia Credit Union. The Dependable Credit Union has its operations based in Sydney.  The Members Australia Credit Union has operations in Victoria, New South Wales, Queensland and the ACT. Credit unions offer a broad range of financial services.  Credit unions offer a similar range of products to banks and building societies. The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

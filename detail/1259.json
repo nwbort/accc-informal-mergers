@@ -1,0 +1,43 @@
+{
+  "id": "1259",
+  "title": "SvitzerWijsmuller A/S - proposed acquisition of Adsteam Marine Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/svitzerwijsmuller-as-proposed-acquisition-of-adsteam-marine-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24708",
+  "industries": [
+    "tugboat operation"
+  ],
+  "date_completed": "19 July 2006",
+  "date_completed_iso": "2006-07-19T12:00:00Z",
+  "date_commenced": "3 July 2006",
+  "date_commenced_iso": "2006-07-03T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "SvitzerWijsmuller A/S"
+  ],
+  "targets": [
+    "Adsteam Marine Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "14 Jul 2006",
+      "date_iso": "2006-07-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "19 Jul 2006",
+      "date_iso": "2006-07-19T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The following markets were relevant to the proposed merger: .   single-port markets for harbour towage across Australia (or port areas, where two ports are located in close proximity to each other); .   the Australian market for terminal towage, .   the Australian market for ocean towage, and .   the Australian market for salvage services.",
+    "Competition analysis": "Harbour towage markets The proposed merger would be unlikely to lead to a substantial lessening of competition in any harbour towing market in Australia because: .  SwitzerWijsmuller only supplies harbour towage services in one port in Australia (as part of a joint venture which has the exclusive licence to provide harbour towage services in the port of Bunbury).  Consequently, there is no current overlap between the merger parties; and .  several competing harbour towage suppliers remain, who would be likely to competitively constrain the merged business in, for example, tender processes in ports which award an exclusive licence to supply harbour towage services. Other markets The merger is unlikely to lead to a substantial lessening of competition to provide terminal or ocean towing or salvage services in Australia because: .  SwitzerWijsmuller has only a small presence in these Australian markets; and .  several existing competitors and potential new entrants exist."
+  }
+}

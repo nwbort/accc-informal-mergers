@@ -1,0 +1,31 @@
+{
+  "id": "1582",
+  "title": "Acquirer: Boral Resources (QLD) Pty Ltd; Target: Allen's Asphalt Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-boral-resources-qld-pty-ltd-target-allens-asphalt-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17110",
+  "industries": [],
+  "date_completed": "29 January 2003",
+  "date_completed_iso": "2003-01-29T12:00:00Z",
+  "date_commenced": "9 December 2002",
+  "date_commenced_iso": "2002-12-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Boral Resources (QLD) Pty Ltd"
+  ],
+  "targets": [
+    "Allen's Asphalt Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 28 January 2003 the Commission decided that it would not intervene in the proposed acquisition of Allen's Asphalt by Boral Resources Queensland.",
+    "Market definition": "Market for asphalt road paving materials.",
+    "Competition analysis": "The main area of competitive overlap between Allen's Asphalt and Boral Resources Queensland is in the supply of asphalt used for the surfacing and maintenance of roads in the Brisbane metropolitan area and its surrounding regions and in several regions to the north of Brisbane.  Allen's Asphalt operates three asphalt plants at Brisbane, Caboolture and Tewantin.  Boral Resources Queensland operates three asphalt plants in the south east corner of Queensland at West Burleigh, Brisbane, and Narangba. The Commission undertook extensive market inquiries into this proposed acquisition. The proposed acquisition did cross the Commission's concentration thresholds for the exercise of combined market power in the Brisbane metropolitan area and its surrounding regions and in regions to the north of Brisbane.  However, during the course of market inquiries no concern was expressed regarding the competitive impact of the proposed acquisition on Brisbane and its surrounding areas with the participation of the Brisbane City Council and its extensive asphalting manufacturing operations seen as the major driver of competition.  In regions to the north of Brisbane, the asphalting plant operated by the Maroochy Shire Council was considered to act as a major competitive constraint on the ability of the merged firm to raise its prices.  On this basis, it was concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2520"
+  }
+}

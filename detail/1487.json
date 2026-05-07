@@ -1,0 +1,31 @@
+{
+  "id": "1487",
+  "title": "Acquirer: Perpetual Trustees Australia Ltd; Target: Pitcher Partners",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-perpetual-trustees-australia-ltd-target-pitcher-partners",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19323",
+  "industries": [],
+  "date_completed": "11 May 2004",
+  "date_completed_iso": "2004-05-11T12:00:00Z",
+  "date_commenced": "30 March 2004",
+  "date_commenced_iso": "2004-03-30T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Perpetual Trustees Australia Ltd"
+  ],
+  "targets": [
+    "Pitcher Partners"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 1 April 2004, ASX Perpetual Registrars advised the Commission of its proposal to purchase the assets and contracts of the registry business of Pitcher Partners.",
+    "Market definition": "The Commission considered that the relevant market was the national share registry market.",
+    "Competition analysis": "The Commission decided that the proposed acquisition would be unlikely to have significant competition concerns for the following reasons: That the acquisition will see an incremental increase in the market share of ASX Perpetual Partners; that the acquiring firm will continue to face strong competition by the market leader and in-house providers; that there are a number of large share registries and transfer agency businesses around the world that have the technology to operate in Australia and pose a potential constraint on the domestic players; that there is a level of countervailing power held by the major clients within the market; and it is unlikely that the acquirer will be able to increase prices or profit margins. On this basis, the Commission decided that it would not intervene in the proposed acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "7340"
+  }
+}

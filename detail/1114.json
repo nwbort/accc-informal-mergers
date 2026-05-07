@@ -1,0 +1,44 @@
+{
+  "id": "1114",
+  "title": "Woolworths Limited - proposed acquisition of Warners Bay Wines Plus",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-warners-bay-wines-plus",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26754",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "23 April 2007",
+  "date_completed_iso": "2007-04-23T12:00:00Z",
+  "date_commenced": "5 April 2007",
+  "date_commenced_iso": "2007-04-05T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Warners Bay Wines Plus"
+  ],
+  "timeline": [
+    {
+      "date": "5 Apr 2007",
+      "date_iso": "2007-04-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "19 Apr 2007",
+      "date_iso": "2007-04-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "23 Apr 2007",
+      "date_iso": "2007-04-23T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the merger"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited - proposed acquisition of an off-licence liquor store, trading as Warners Bay Wines Plus, located in Newcastle, New South Wales.",
+    "Market definition": "This merger was assessed within the context of the following markets: 1. the market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension of this market is a 3-5km radius surrounding the target, Warners Bay Wines Plus. 2. the NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "On 23 April 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - In relation to the first market, the ACCC concluded that post-acquisition, Woolworths Limited, which owns no stores within 3km of the target and one store within 5km, will be constrained by competition from Coles and a number of independent hotels and associated detached bottle shops; and -In relation to market 2, the ACCC considered that the the acquisition of one retail store is unlikely to significantly increase Woolworths' market share (or buying power) or to substantially diminish the buying power of any competitor."
+  }
+}

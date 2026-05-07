@@ -1,0 +1,54 @@
+{
+  "id": "0534",
+  "title": "Cargill Incorporated - proposed acquisition of the commodity management businesses of AWB Limited (owned by Agrium)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cargill-incorporated-proposed-acquisition-of-the-commodity-management-businesses-of-awb-limited-owned-by-agrium",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44555",
+  "industries": [
+    "Grain"
+  ],
+  "date_completed": "17 March 2011",
+  "date_completed_iso": "2011-03-17T12:00:00Z",
+  "date_commenced": "23 December 2010",
+  "date_commenced_iso": "2010-12-23T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Cargill Incorporated"
+  ],
+  "targets": [
+    "the commodity management businesses of AWB Limited (owned by Agrium)"
+  ],
+  "timeline": [
+    {
+      "date": "23 Dec 2010",
+      "date_iso": "2010-12-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jan 2011",
+      "date_iso": "2011-01-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Feb 2011",
+      "date_iso": "2011-02-14T12:00:00Z",
+      "event": "ACCC timeline suspended to allow merger parties to provide further information. Former proposed decision date of 24 February delayed."
+    },
+    {
+      "date": "28 Feb 2011",
+      "date_iso": "2011-02-28T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "17 Mar 2011",
+      "date_iso": "2011-03-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cargill Incorporated proposed to acquire the commodity management businesses of AWB Limited (owned by Agrium Inc).",
+    "Market definition": "While the ACCC did not consider it necessary to form a concluded view in relation to market definition for the purpose of analysing the proposed acquisition, the ACCC considered the likely impact on competition in respect of: - grain marketing and trading - grain storage and handling - flour milling - oilseed processing",
+    "Competition analysis": "The ACCC noted that Cargill was a relatively small competitor at the various stages of the grain supply chain in Australia. In relation to grain trading and marketing, the merged entity would continue to face competition from a number of other grain traders and marketers. The ACCC observed that in recent years, following deregulation of the market, smaller grain traders and marketers had grown and AWB had lost market share. The ACCC considered that the proposed acquisition would be unlikely to enable Cargill to either depress the price paid to growers of grain or raise the price of grain sold to customers due to the competition it would continue to face from other grain traders and marketers. In relation to grain storage and handling, Cargill had a very small existing presence in the market with an interest in just three storage and handling sites in NSW. AWB had a more significant presence in the market with an interest in ten storage and handling sites in NSW. The merged entity would continue to face competition from GrainCorp which has over 150 storage sites in NSW as well as a small number of other storage providers. The ACCC also noted that there was generally overcapacity of storage in NSW which would be likely to drive competition between storage owners. Cargill and GrainCorp are joint venture owners of Allied Mills, a major flour producer in Australia. The ACCC considered whether the proposed acquisition would be likely to result in Cargill and/or GrainCorp raising input costs for rival flour millers. Overall, the ACCC considered that the presence of remaining suppliers of wheat - including the remaining grain traders and direct supplies from growers - would make it unlikely that Cargill and/or GrainCorp could raise the input costs of their competitors. In relation to storage and handling, the ACCC considered it unlikely to be practical or profitable for Cargill and/or GrainCorp to foreclose access to storage by rival flour millers. In relation to oilseed processing, the ACCC considered that the merged entity would continue to face competition from rival acquirers of oilseed and rival oilseed processors."
+  }
+}

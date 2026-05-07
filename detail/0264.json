@@ -1,0 +1,53 @@
+{
+  "id": "0264",
+  "title": "Metal Manufactures Limited (MML) - proposed acquisition of Cetnaj Pty Ltd business and assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metal-manufactures-limited-mml-proposed-acquisition-of-cetnaj-pty-ltd-business-and-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58674",
+  "industries": [
+    "Electrical products"
+  ],
+  "date_completed": "2 June 2016",
+  "date_completed_iso": "2016-06-02T12:00:00Z",
+  "date_commenced": "11 April 2016",
+  "date_commenced_iso": "2016-04-11T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Metal Manufactures Limited (MML)"
+  ],
+  "targets": [
+    "Cetnaj Pty Ltd business and assets"
+  ],
+  "timeline": [
+    {
+      "date": "11 Apr 2016",
+      "date_iso": "2016-04-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "27 Apr 2016",
+      "date_iso": "2016-04-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "10 May 2016",
+      "date_iso": "2016-05-10T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "25 May 2016",
+      "date_iso": "2016-05-25T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "2 Jun 2016",
+      "date_iso": "2016-06-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the supply of electrical and lighting products to trade customers in Armidale, Moree, Taree and Grafton in New South Wales. The ACCC focussed its review on Armidale, Moree and Grafton because MML and Cetnaj operate the only electrical wholesale shops in each town. The ACCC also examined Taree, where there is only one other competitor. Market feedback indicated that stores in the regions surrounding Armidale, Moree, Taree and Grafton have a broad reach with salespeople travelling between 50 kilometres and 200 kilometres to promote and supply their products. In regional areas, electrical wholesalers often send a van stocked with common key items to surrounding towns, either on a weekly or daily basis. It is also common practice for electrical wholesalers to contact regional electrical contractors to inform them that they will be making deliveries in their area if the contractor wishes to purchase anything. For example: - electrical wholesalers in Ballina, Lismore, Taree, Coffs Harbour and Port Macquarie frequently send sales representatives and deliver product to Grafton - electrical wholesalers in Tamworth, Toowoomba, Gunnedah and Inverell frequently send sales representatives and deliver products to Moree - electrical wholesalers in Tamworth and Gunnedah frequently send sales representatives and deliver products to Armidale - electrical wholesalers in Port Macquarie frequently send sales representatives and deliver product to Taree. Therefore, the ACCC considered suppliers from the above nearby towns to be within the geographic scope of the market.",
+    "Competition analysis": "Although the proposed acquisition would result in MML acquiring its closest competitor in Armidale, Moree and Grafton, and one of its closest competitors in Taree, the ACCC considered that post-acquisition MML would continue to be constrained, to varying degrees, by: - rival electrical wholesalers in neighbouring towns, especially because those electrical wholesalers regularly send sales representatives to the identified towns and actively market their products to electrical contractors in Armidale, Moree, Taree and Grafton - online electrical wholesalers, who often charge little or no freight cost to deliver products - the threat of expansion from other electrical wholesalers into the identified towns. Therefore, the ACCC considered that the proposed acquisition is not likely to result in a substantial lessening of competition in any relevant market."
+  }
+}

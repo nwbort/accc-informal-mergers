@@ -1,0 +1,44 @@
+{
+  "id": "0998",
+  "title": "AGL - proposed acquisition of Queensland Government's wind energy assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-proposed-acquisition-of-queensland-governments-wind-energy-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30145",
+  "industries": [
+    "Wind electricity generation"
+  ],
+  "date_completed": "16 November 2007",
+  "date_completed_iso": "2007-11-16T12:00:00Z",
+  "date_commenced": "31 October 2007",
+  "date_commenced_iso": "2007-10-31T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "AGL"
+  ],
+  "targets": [
+    "Queensland Government's wind energy assets"
+  ],
+  "timeline": [
+    {
+      "date": "31 Oct 2007",
+      "date_iso": "2007-10-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Nov 2007",
+      "date_iso": "2007-11-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Nov 2007",
+      "date_iso": "2007-11-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Queensland Government had commenced a competitive bid process for the sale of its wind farm assets, which consist of 5 operating wind farms (which have an aggregate 117.1MW of net equity capacity and are located in Queensland, Victoria, South Australia and Western Australia), development projects and a wind database. AGL was one of the bidders for these assets.",
+    "Market definition": "The ACCC considered that a conclusive view in relation to market definition would be unlikely to affect the outcome of the competition analysis, but considered the markets most likely to be relevant would be: (i)\tthe wholesale supply of electricity in state-based markets (including flows from interconnects) in Victoria, Queensland and South Australia; and (ii)\tA national market for the supply of Renewable Energy Certificates (RECs). The ACCC considered that it may be necessary to consider a new renewable energy electricity market due to the environmental regulations, particularly the Mandatory Renewable Energy Target (MRET) Scheme imposed by the Federal Government.  This market would need to be treated as a national market given the cross-regional trade in RECs, under the MRET scheme.",
+    "Competition analysis": "The ACCC decided that the proposed acquisition was unlikely to substantially lessen competition in any market for the following reasons: -  The ACCC considered that the target assets generated a quantity of electricity that is a very small proportion of each of the state-based markets for electricity generation. -   In the national market for RECs, the ACCC considered that the successful bidder would gain control of very small increments that are not likely to substantially lessen competition.  Furthermore, it was considered that the renewable energy industry is undergoing dynamic growth, fuelled largely by government-based incentives, and that competition from potential and planned new entry and expansion of wind farms and other renewable energy sources is likely to materialise."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1243",
+  "title": "Recochem Inc - proposed acquisition of Diggers (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/recochem-inc-proposed-acquisition-of-diggers-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24587",
+  "industries": [
+    "Chemical manufacturing and wholesaling"
+  ],
+  "date_completed": "15 August 2006",
+  "date_completed_iso": "2006-08-15T12:00:00Z",
+  "date_commenced": "3 July 2006",
+  "date_commenced_iso": "2006-07-03T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Recochem Inc"
+  ],
+  "targets": [
+    "Diggers (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "17 Jul 2006",
+      "date_iso": "2006-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Aug 2006",
+      "date_iso": "2006-08-15T12:00:00Z",
+      "event": "The ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Recochem, a company which manufactures, packages and distributes a range of chemical products to the retail and commercial industrial markets propose to acquire Diggers, a company supplying of a range of products including solvents, cleaners, oils and polishes, sealers, adhesives and cement additives in Australia.",
+    "Market definition": "The relevant consumer product markets were considered to be: a) Methylated spirits (used as a household cleaner); b) Kerosene (household cleaning, home heating and lighting); c) Paint thinners, mineral turpentine, pure turpentine and white spirits (paint thinners and removers); d) Shellite (fuel for stoves, lighters, torches and lanterns); e) Citronella oil (mosquito deterrent); f) Linseed oil (decking, timber and furniture protection); g) Acetone (general purpose cleaning solvent); h) Hydrochloric acid (brick/concrete etching and a range of cleaning and other applications); i) Oxalic acid (cleaning timber and brick surfaces); j) Demineralised water (used to premix engine coolant, and used in batteries and steam irons); k) Solvent degreaser (workshop grease and grime remover); l) Caustic soda (grease cleaner for drains, pipes and concrete) and wheelie bin phenyle cleanser (used to clean bins, drains and animal enclosures). The ACCC considered the effect of the proposed acquisition on the following markets: 1) The national retail market for each of the relevant products; and 2) The national wholesale/distribution market for each of the relevant products.",
+    "Competition analysis": "The ACCC considered that Recochem's proposed acquisition of Diggers was unlikely to result in a substantial lessening of competition in any market.  The ACCC formed this view given low market concentration with respect to each of the relevant products, the fact that potential import competition appeared likely at the retail and wholesale/distribution level, barriers to entry at the retail level appear to be relatively low and at the wholesale/distribution level do not appear to be prohibitive to a new entrant.  Further, countervailing power is likely to be possessed by large retailers and prices would not be likely to increase given existing retailers' mark-ups and considerable consumer choice.  Accordingly, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

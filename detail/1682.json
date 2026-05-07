@@ -1,0 +1,31 @@
+{
+  "id": "1682",
+  "title": "Acquirer: Vinpac International Pty Ltd; Target: Tarac Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-vinpac-international-pty-ltd-target-tarac-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14288",
+  "industries": [],
+  "date_completed": "26 February 2002",
+  "date_completed_iso": "2002-02-26T12:00:00Z",
+  "date_commenced": "20 July 2001",
+  "date_commenced_iso": "2001-07-20T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Vinpac International Pty Ltd"
+  ],
+  "targets": [
+    "Tarac Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Vinpac to acquire the contract wine packaging business of Tarac (known as \"Tarac Bottlers\")",
+    "Market definition": "Wine packaging; which includes wine bottling. (Neither Vinpac nor Tarac Bottlers produce wine.  Rather, both businesses package wine under contract for wine producers.)",
+    "Competition analysis": "Most wine bottling in Australia is conducted in-house by wine producers.  Other Australian wine bottling is conducted by contract wine packaging firms, although it has been reported that smaller wine producers sometimes pay larger wine producers to bottle their wine. Market inquiries suggested that barriers to entry and expansion in wine packaging are not high.  Various market participants suggested that some new wine packaging businesses are about to be set up in South Australia.  Some Barossa Valley wineries indicated that they would consider setting up a joint venture wine packaging business if necessary. In light of these factors the Commission decided not to oppose Vinpac's acqusition of Tarac Bottlers.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4717"
+  }
+}

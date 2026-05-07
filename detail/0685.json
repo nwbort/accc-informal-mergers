@@ -1,0 +1,83 @@
+{
+  "id": "0685",
+  "title": "Caltex Australia Limited - proposed acquisition of the retail assets of Mobil Oil Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caltex-australia-limited-proposed-acquisition-of-the-retail-assets-of-mobil-oil-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37501",
+  "industries": [
+    "Fuel retailing"
+  ],
+  "date_completed": "2 December 2009",
+  "date_completed_iso": "2009-12-02T12:00:00Z",
+  "date_commenced": "9 June 2009",
+  "date_commenced_iso": "2009-06-09T12:00:00Z",
+  "total_review_days": 85,
+  "acquirers": [
+    "Caltex Australia Limited"
+  ],
+  "targets": [
+    "Mobil Oil Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 May 2009",
+      "date_iso": "2009-05-27T12:00:00Z",
+      "event": "Caltex announced that it had entered into an agreement to acquire 302 Mobil service station sites located in metropolitan areas in South Australia and along the east coast of Australia."
+    },
+    {
+      "date": "9 Jun 2009",
+      "date_iso": "2009-06-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jul 2009",
+      "date_iso": "2009-07-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties, consumers and market participants."
+    },
+    {
+      "date": "10 Jul 2009",
+      "date_iso": "2009-07-10T12:00:00Z",
+      "event": "ACCC requested further information from Caltex. ACCC timeline suspended."
+    },
+    {
+      "date": "14 Aug 2009",
+      "date_iso": "2009-08-14T12:00:00Z",
+      "event": "Caltex responded to the ACCC's information requested of 10 July 2009. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Sep 2009",
+      "date_iso": "2009-09-02T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date for announcement of ACCC's findings deferred to allow for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "16 Sep 2009",
+      "date_iso": "2009-09-16T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "30 Sep 2009",
+      "date_iso": "2009-09-30T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 7 October 2009 deferred in response to a request by Caltex to allow it additional time to provide further information to the ACCC. ACCC timeline suspended pending receipt of this information."
+    },
+    {
+      "date": "20 Oct 2009",
+      "date_iso": "2009-10-20T12:00:00Z",
+      "event": "Further information provided by Caltex. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Nov 2009",
+      "date_iso": "2009-11-10T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 11 November 2009, amended in response to a request by Caltex to allow it additional time to provide further information to the ACCC and to allow the ACCC to consider the information."
+    },
+    {
+      "date": "2 Dec 2009",
+      "date_iso": "2009-12-02T12:00:00Z",
+      "event": "ACCC announced that it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to attached Public Competition Assessment."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0077",
+  "title": "Transurban Group proposed acquisition of Horizon Roads Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transurban-group-proposed-acquisition-of-horizon-roads-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Toll Roads"
+  ],
+  "date_completed": "21 September 2023",
+  "date_completed_iso": "2023-09-21T12:00:00Z",
+  "date_commenced": "27 March 2023",
+  "date_commenced_iso": "2023-03-27T12:00:00Z",
+  "total_review_days": 124,
+  "acquirers": [
+    "Transurban Group"
+  ],
+  "targets": [
+    "Horizon Roads Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "28 Mar 2023",
+      "date_iso": "2023-03-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "13 Apr 2023",
+      "date_iso": "2023-04-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "31 May 2023",
+      "date_iso": "2023-05-31T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (8 June 2023) delayed to allow ACCC additional time to continue its investigation and consider information provided by market participants."
+    },
+    {
+      "date": "29 Jun 2023",
+      "date_iso": "2023-06-29T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "14 Jul 2023",
+      "date_iso": "2023-07-14T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "30 Aug 2023",
+      "date_iso": "2023-08-30T12:00:00Z",
+      "event": "Former proposed date for announcement of findings (7 September 2023) delayed to allow the ACCC to obtain further information from market participants."
+    },
+    {
+      "date": "21 Sep 2023",
+      "date_iso": "2023-09-21T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transurban (ASX: TCL) is seeking to acquire a majority interest in Horizon Roads through a competitive sale process. Horizon Roads, through ConnectEast, holds a concession from the State of Victoria to operate the EastLink toll road until November 2043. EastLink is a 39-kilometre freeway in South-East Melbourne that runs from Mitcham to Frankston. It connects to the Monash, Eastern, Frankston and Peninsula Link freeways. Transurban is Australia’s largest toll road operator. Transurban’s operations include the development, ownership, management and operation of toll roads in Australia and North America. In Melbourne, Transurban operates the CityLink toll road, and is building and will operate the West Gate Tunnel toll road.",
+    "Market definition": "A Public Competition Assessment will be published in due course.",
+    "Competition analysis": "A Public Competition Assessment will be published in due course."
+  }
+}

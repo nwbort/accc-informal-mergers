@@ -1,0 +1,31 @@
+{
+  "id": "1652",
+  "title": "Acquirer: SGS Societe Generale de Surveillance Holding (SA); Target: Lakefield Oretest Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sgs-societe-generale-de-surveillance-holding-sa-target-lakefield-oretest-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15837",
+  "industries": [],
+  "date_completed": "30 April 2002",
+  "date_completed_iso": "2002-04-30T12:00:00Z",
+  "date_commenced": "2 April 2002",
+  "date_commenced_iso": "2002-04-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "SGS Societe Generale de Surveillance Holding (SA)"
+  ],
+  "targets": [
+    "Lakefield Oretest Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "It is proposed that SGS Societe General de Surveillance Holding SA ('SGS') will acquire control of Lakefield Oretest Pty Ltd ('Lakefield') via the acquisition of a controlling interest in Lakefield Oretest's Canadian parent company, Lakefield Research Limited.",
+    "Market definition": "The industries in which the parties operate are the provision of scientific and technical services for mineral and precious metal (including assay/gold) laboratory testing, environmental testing and project management.",
+    "Competition analysis": "No specific market definition was reached since even on the narrowest possible market definition no substantial lessening of competition appears likely. The area of overlap between the parties is minor. Even on the narrowest possible market definition, the Commission's concentration thresholds are not crossed.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7829"
+  }
+}

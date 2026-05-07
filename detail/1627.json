@@ -1,0 +1,29 @@
+{
+  "id": "1627",
+  "title": "Acquirer: Mayne Group Ltd; Target: Queensland Medical Laboratory",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mayne-group-ltd-target-queensland-medical-laboratory",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16062",
+  "industries": [],
+  "date_completed": "23 July 2002",
+  "date_completed_iso": "2002-07-23T12:00:00Z",
+  "date_commenced": "23 May 2002",
+  "date_commenced_iso": "2002-05-23T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Mayne Group Ltd"
+  ],
+  "targets": [
+    "Queensland Medical Laboratory"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Mayne Group Limited intends to acquire the assets of Queensland Medical Laboratory Group.",
+    "Market definition": "Approximately state based markets for the supply of pathology services, excluding pathology services provided to public in-patients in (a) Queensland (b) New South Wales (c) Northern Territory",
+    "Competition analysis": "The Commission found that the acquisition was unlikely to substantially lessen competition in any market. 1.  In relation to New South Wales the acquisition would only result in a minor competitive overlap as QML has a limited presence in New South Wales and Mayne would continue to face competition from other pathology providers. 2.  In relation to Queensland, the acquisition will effectively result in a transfer of market share.  Accordingly, the acquisition is unlikely to alter the existing competitive dynamic of that market. 3.  In relation to the Northern Territory the acquisition is unlikely to result in a substantial lessening of competition as the market is contestable by pathology providers outside of the Northern Territory (as evidenced by the high proportion of tests that are currently conducted outside the NT) and Mayne will continue to face actual and potential competition from these pathology providers.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "ANZSIC code": "8631"
+  }
+}

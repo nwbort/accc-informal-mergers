@@ -1,0 +1,78 @@
+{
+  "id": "0343",
+  "title": "BlueScope Steel Limited - proposed acquisition of OneSteel Sheet & Coil business from Arrium Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bluescope-steel-limited-proposed-acquisition-of-onesteel-sheet-coil-business-from-arrium-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52147",
+  "industries": [
+    "Distribution of Steel products"
+  ],
+  "date_completed": "6 March 2014",
+  "date_completed_iso": "2014-03-06T12:00:00Z",
+  "date_commenced": "15 October 2013",
+  "date_commenced_iso": "2013-10-15T12:00:00Z",
+  "total_review_days": 84,
+  "acquirers": [
+    "BlueScope Steel Limited"
+  ],
+  "targets": [
+    "OneSteel Sheet & Coil business from Arrium Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Oct 2013",
+      "date_iso": "2013-10-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Nov 2013",
+      "date_iso": "2013-11-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "14 Nov 2013",
+      "date_iso": "2013-11-14T12:00:00Z",
+      "event": "ACCC requested further information from merger parties."
+    },
+    {
+      "date": "3 Dec 2013",
+      "date_iso": "2013-12-03T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC amended former provisional date for announcement of findings (5 December)."
+    },
+    {
+      "date": "19 Dec 2013",
+      "date_iso": "2013-12-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "24 Jan 2014",
+      "date_iso": "2014-01-24T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "7 Feb 2014",
+      "date_iso": "2014-02-07T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by BlueScope."
+    },
+    {
+      "date": "11 Feb 2014",
+      "date_iso": "2014-02-11T12:00:00Z",
+      "event": "ACCC commenced market inquiries on draft s87B undertaking."
+    },
+    {
+      "date": "21 Feb 2014",
+      "date_iso": "2014-02-21T12:00:00Z",
+      "event": "Closing date for submissions regarding BlueScope's draft s87B undertaking."
+    },
+    {
+      "date": "6 Mar 2014",
+      "date_iso": "2014-03-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

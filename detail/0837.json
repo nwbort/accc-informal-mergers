@@ -1,0 +1,43 @@
+{
+  "id": "0837",
+  "title": "BG Group Plc - proposed acquisition of Queensland Gas Company Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bg-group-plc-proposed-acquisition-of-queensland-gas-company-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34648",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "14 November 2008",
+  "date_completed_iso": "2008-11-14T12:00:00Z",
+  "date_commenced": "28 October 2008",
+  "date_commenced_iso": "2008-10-28T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "BG Group Plc"
+  ],
+  "targets": [
+    "Queensland Gas Company Limited"
+  ],
+  "timeline": [
+    {
+      "date": "28 Oct 2008",
+      "date_iso": "2008-10-28T12:00:00Z",
+      "event": "ACCC commenced review under the Mergers Review Process Guidelines."
+    },
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Nov 2008",
+      "date_iso": "2008-11-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - the market for the production and marketing of wholesale gas in the southern Queensland region connected by pipeline infrastructure (including Brisbane, Gladstone and Mt Isa); and - the market for the production and marketing of wholesale gas in the southern states (NSW, VIC and SA).",
+    "Competition analysis": "On 14 November 2008, the ACCC formed the view that the agreement was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included the existence of several competitors which would continue to provide alternative supply options for customers."
+  }
+}

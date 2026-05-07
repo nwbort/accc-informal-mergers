@@ -1,0 +1,44 @@
+{
+  "id": "0174",
+  "title": "Elders Ltd proposed acquisition of AIRR Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/elders-ltd-proposed-acquisition-of-airr-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Agriculture"
+  ],
+  "date_completed": "12 September 2019",
+  "date_completed_iso": "2019-09-12T12:00:00Z",
+  "date_commenced": "23 July 2019",
+  "date_commenced_iso": "2019-07-23T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Elders Ltd"
+  ],
+  "targets": [
+    "AIRR Holdings Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jul 2019",
+      "date_iso": "2019-07-23T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2019",
+      "date_iso": "2019-08-06T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Sep 2019",
+      "date_iso": "2019-09-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Elders Ltd proposes to acquire AIRR Holdings Ltd",
+    "Market definition": "The ACCC considered the potential effect of the proposed acquisition on competition in Australia for: retail supply of rural merchandise, and wholesale supply of rural merchandise. For the purpose of considering the proposed acquisition, the ACCC did not consider it necessary to form a definitive view as to the specific geographic dimensions of the retail or wholesale markets for the supply of rural merchandise. However, as part of the ACCC’s competition analysis, it looked at: effects on national and regional competition effects on competition in specific local towns where there was an overlap between an Elders rural merchandise store and an AIRR member store, including looking at competitors in neighbouring towns where market inquiries suggested that customers were willing to travel the relevant distance.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. There is little direct horizontal overlap between the parties as Elders is primarily a retailer of rural merchandise, and AIRR is predominantly a wholesaler.  The focus of the ACCC’s investigation was instead on vertical integration, and the potential for vertical foreclosure concerns. The ACCC considered that it was unlikely Elders would have the incentive to discriminate against AIRR-supplied independently-owned stores in order to benefit its retail stores, as there are sufficient alternative wholesale options.  The ACCC considered that independent retailers of rural merchandise are generally able to source products from other wholesalers, or directly from suppliers/manufacturers, on terms which enable them to compete effectively. The ACCC also considered whether there was likely to be a softening of competition between the Elders store and the AIRR-supplied independent store in local areas where they overlap and there are few remaining competitors. It found this was unlikely because AIRR members often purchase products via multiple channels including other wholesalers or directly from manufacturer/suppliers. The ACCC considered Elders’ bargaining power with manufacturers/importers post-acquisition will be stronger, however manufacturers/importers have other channels through which they can supply their products to the market and any increase in buyer power is not likely to be substantial."
+  }
+}

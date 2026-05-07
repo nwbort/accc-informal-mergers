@@ -1,0 +1,44 @@
+{
+  "id": "0125",
+  "title": "Dye & Durham Corporation  - GlobalX Information Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dye-durham-corporation-globalx-information-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Information services, conveyancing software and manual property settlement services"
+  ],
+  "date_completed": "17 June 2021",
+  "date_completed_iso": "2021-06-17T12:00:00Z",
+  "date_commenced": "25 March 2021",
+  "date_commenced_iso": "2021-03-25T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "Dye & Durham Corporation"
+  ],
+  "targets": [
+    "GlobalX Information Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Mar 2021",
+      "date_iso": "2021-03-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2021",
+      "date_iso": "2021-04-15T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Jun 2021",
+      "date_iso": "2021-06-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Dye & Durham Corporation ( D&D ) (which acquired SAI Global’s Property Division in January 2021) proposes to acquire GlobalX Information Pty Ltd ( GlobalX ). Both D&D and GlobalX provide information search and broking services Australia-wide, and jurisdiction specific conveyancing software solutions and lodgement services, including manual search, mortgage and lodgement services.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on the markets for: information search and broking services (i.e. company, property and personal information), conveyancing and legal practice management ( LPM ) software, and manual property settlement services. For the purposes of this assessment it was not necessary for the ACCC to reach a concluded view on the precise definition of these markets as it would not significantly alter the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any relevant market. Information search and broking services The ACCC considered that although the proposed acquisition would combine two of the five major information brokers, a combined D&D/GlobalX would continue to be constrained by the remaining major information brokers. Although the proposed acquisition would combine two of the major brokers that conveyancers and lawyers use, there were few concerns raised in market feedback. The information obtained by the ACCC indicated that other information brokers or industry participants could expand and improve their offering to better suit and attract more conveyancing and legal customers. The ACCC also found that regulatory bodies are monopoly content owners of information, and can, at least to some extent, exercise their countervailing power to constrain a combined D&D/GlobalX. For example, regulatory bodies have the ability to influence how their information is distributed (e.g. by encouraging and facilitating an increase in the number of licensed information brokers). The information before the ACCC indicated that switching information brokers was not difficult, and some customers may be able to bypass information brokers by directly acquiring information from regulatory bodies, despite there being some barriers in doing so. Conveyancing and LPM software Horizontal effects The ACCC found that there are a number of alternative competitors in the supply of conveyancing/LPM software, and the parties are not close competitors. Vertical effects The ACCC determined that a combined D&D/GlobalX is unlikely to have the ability or incentive to restrict rival providers of conveyancing/LPM software from integrating with its information services. Information service providers are reliant on volume and there appear to be very limited commercial incentives to foreclose supply. Further, the ACCC found that there are alternative suppliers of information services that could, and already have, entered into the supply of information services to conveyancing/LPM software customers. Manual property settlement services The ACCC determined that the proposed acquisition is unlikely to raise competition concerns in the supply of manual property settlement services, as the industry is transitioning towards e-conveyancing, and a number of alternative suppliers will remain in the market post-acquisition."
+  }
+}

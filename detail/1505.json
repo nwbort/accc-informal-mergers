@@ -1,0 +1,31 @@
+{
+  "id": "1505",
+  "title": "Acquirer: Kisters AG; Target: Hydstra Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-kisters-ag-target-hydstra-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19117",
+  "industries": [],
+  "date_completed": "22 December 2003",
+  "date_completed_iso": "2003-12-22T12:00:00Z",
+  "date_commenced": "3 December 2003",
+  "date_commenced_iso": "2003-12-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Kisters AG"
+  ],
+  "targets": [
+    "Hydstra Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Both Kisters and Hydstra supply software for managing large amounts of time series data (that is, data measured over time), mainly for hydrology purposes. This software is supplied either as an integrated system or as individual modules which may be tailored to suit a particular customer. Kisters AG proposes to acquirer Hydstra.",
+    "Market definition": "This acquisition was assessed in the hydrology time series software management market.",
+    "Competition analysis": "The Commission found that barriers to entry in this market appear to be low and customers have demonstrated a significant degree of countervailing power in the past. The Commission recognised that the relevant market appears to be small and that end-users are likely to benefit from a better overall product post-acquisition.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "7832"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0918",
+  "title": "Transpacific Industries Group Ltd - proposed acquisition of Dolomatrix International Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-proposed-acquisition-of-dolomatrix-international-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30930",
+  "industries": [
+    "Waste services"
+  ],
+  "date_completed": "20 May 2008",
+  "date_completed_iso": "2008-05-20T12:00:00Z",
+  "date_commenced": "31 March 2008",
+  "date_commenced_iso": "2008-03-31T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Dolomatrix International Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "31 Mar 2008",
+      "date_iso": "2008-03-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2008",
+      "date_iso": "2008-04-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 May 2008",
+      "date_iso": "2008-05-05T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings amended from 13 May 2008 to 21 May 2008."
+    },
+    {
+      "date": "20 May 2008",
+      "date_iso": "2008-05-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group Ltd proposed to acquire Dolomatrix International Ltd.",
+    "Market definition": "For the purposes of assessing this proposed acquisition, the ACCC considered the following markets: - an eastern seaboard market for the collection and transport of packaged waste (packaged waste is essentially various types of liquid waste stored in various containers or drums); - an eastern seaboard market for the treatment of packaged waste; - a national market for the collection and transport of ozone depleting substances and persistent organic pollutants; - a national market for the treatment of ozone depleting substances and persistent organic pollutants (including organochlorine pesticides and high-level polychlorinated biphenyls); and - a national market for the treatment of low to mid-level polychlorinated biphenyls.",
+    "Competition analysis": "On 20 May 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. In particular, the ACCC considered that no substantial lessening of competition was likely in the treatment market for ozone depleting substances and persistent organic pollutants as Transpacific is not currently active in this market. The acquisition would therefore give effect to a bare transfer of market share from Dolomatrix to Transpacific. As regards the collection and transport of persistent organic pollutants, Transpacific has only a relatively small market share (with no presence in relation to ozone depleting substances). Following market inquiries the ACCC formed the view that no substantial lessening of competition was likely in this market. The ACCC also considered that Transpacific was likely to be competitively constrained in the market for the treatment of low to mid-level polychlorinated biphenyls by existing rivals. As regards the markets relating to packaged waste, the ACCC reached the view that Transpacific was likely to be competitively constrained by existing industry participants. The ACCC also took into account the role of third parties in treating some forms of packaged waste on behalf of collectors and consolidators, including Chemsal (a Dolomatrix subsidiary)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0940",
+  "title": "Port of Portland Pty Ltd - proposed acquisition of certain assets of North Western Shipping & Towage",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/port-of-portland-pty-ltd-proposed-acquisition-of-certain-assets-of-north-western-shipping-towage",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31210",
+  "industries": [
+    "Harbour towage (tug boats)"
+  ],
+  "date_completed": "26 March 2008",
+  "date_completed_iso": "2008-03-26T12:00:00Z",
+  "date_commenced": "29 February 2008",
+  "date_commenced_iso": "2008-02-29T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Port of Portland Pty Ltd"
+  ],
+  "targets": [
+    "North Western Shipping & Towage"
+  ],
+  "timeline": [
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Mar 2008",
+      "date_iso": "2008-03-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Mar 2008",
+      "date_iso": "2008-03-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Port of Portland Pty Limited, the port owner and operator, proposed to acquire the towage business of North Western Shipping and Towage (NWST) that operates at the Portland Port.",
+    "Market definition": "Without reaching a final view the ACCC considered that the relevant market was likely to be the market for the provision of harbour towage at the Port of Portland.",
+    "Competition analysis": "The ACCC considered that there was a high degree of integration between the Port of Portland Limited and NWST as a result of the pre-acquisition contractual arrangements between the parties. The ACCC also noted comments from market participants that there was insufficient demand at Portland to justifiy a second towage operator. On a with and without analysis, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition."
+  }
+}

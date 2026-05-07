@@ -1,0 +1,44 @@
+{
+  "id": "1088",
+  "title": "Pacific Magazines Pty Ltd - proposed acquisition of certain magazine titles of Time Inc Magazine Company Pty Ltd, IPC Media Australia Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-magazines-pty-ltd-proposed-acquisition-of-certain-magazine-titles-of-time-inc-magazine-company-pty-ltd-ipc-media-australia-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28199",
+  "industries": [
+    "Magazines and publications"
+  ],
+  "date_completed": "26 June 2007",
+  "date_completed_iso": "2007-06-26T12:00:00Z",
+  "date_commenced": "15 May 2007",
+  "date_commenced_iso": "2007-05-15T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Pacific Magazines Pty Ltd"
+  ],
+  "targets": [
+    "certain magazine titles of Time Inc Magazine Company Pty Ltd<br/> IPC Media Australia Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 May 2007",
+      "date_iso": "2007-05-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 May 2007",
+      "date_iso": "2007-05-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "26 Jun 2007",
+      "date_iso": "2007-06-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pacific Magazines proposes to acquire and/or license the Who, In Style, Practical Parenting and Bride to Be magazine titles from Time Inc. and IPC Media Australia",
+    "Market definition": "The proposed acquisition was considered in the context of separate markets for the acquisition of content, supply of advertising space and supply of magazines to consumers for each of parenting, major women's (encompassing the 'celebrity', 'traditional women's' and 'real life' magazine categories) and women's fashion magazines.",
+    "Competition analysis": "On 26 June 2007 the ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion include: - Emap would continue to provide strong competition in the parenting magazine markets; - ACP would continue to provide strong competition in the women's fashion magazine markets and other publishers (especially Emap) would provide effective competition; - ACP would continue to provide strong competition in the major women's magazine markets including the celebrity magazine category; and - the actual and potential launch of new titles by new and existing competitors in the relevant magazine markets is likely to constrain any attempted exercise of market power."
+  }
+}

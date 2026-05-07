@@ -1,0 +1,39 @@
+{
+  "id": "0817",
+  "title": "Transdev TSL Pty Ltd - proposed acquisition of Melbourne Metropolitan Tram Franchise",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transdev-tsl-pty-ltd-proposed-acquisition-of-melbourne-metropolitan-tram-franchise",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36169",
+  "industries": [
+    "Public Transport"
+  ],
+  "date_completed": "8 January 2009",
+  "date_completed_iso": "2009-01-08T12:00:00Z",
+  "date_commenced": "6 January 2009",
+  "date_commenced_iso": "2009-01-06T12:00:00Z",
+  "total_review_days": 3,
+  "acquirers": [
+    "Transdev TSL Pty Ltd"
+  ],
+  "targets": [
+    "Melbourne Metropolitan Tram Franchise"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jan 2009",
+      "date_iso": "2009-01-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Jan 2009",
+      "date_iso": "2009-01-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transdev TSL Pty Ltd has requested clearance from the ACCC in relation to its proposed acquisition of the Melbourne Metropolitan Tram Franchise.",
+    "Market definition": "The ACCC considered the proposed acquisition in relation to the market for public transport services in metropolitan Melbourne.",
+    "Competition analysis": "The ACCC considered that the acquisition of the Melbourne metropolitan tram franchise by a single operator was unlikely to substantially lessen competition, but noted that competition concerns may arise if one entity held interests in multiple franchises (e.g., train and tram). The ACCC also considered that the chosen franchisee would not have an ability to foreclose competition for the supply of rolling stock because the Victorian Government would retain responsibility for such procurement decisions under the franchise arrangements."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0546",
+  "title": "Sandoz Pty Ltd - proposed acquisition of certain assets of InterPharma Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sandoz-pty-ltd-proposed-acquisition-of-certain-assets-of-interpharma-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44642",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "15 February 2011",
+  "date_completed_iso": "2011-02-15T12:00:00Z",
+  "date_commenced": "7 January 2011",
+  "date_commenced_iso": "2011-01-07T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Sandoz Pty Ltd"
+  ],
+  "targets": [
+    "InterPharma Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jan 2011",
+      "date_iso": "2011-01-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Feb 2011",
+      "date_iso": "2011-02-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Feb 2011",
+      "date_iso": "2011-02-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sandoz proposed to acquire InterPharma's business of marketing and supplying Ebewe oncology and immunology products.",
+    "Market definition": "For the purpose of this competition assessment, the ACCC considered the competitive effects of the proposed acquisition in the context of both the market for the supply of injectable oncology and immunology pharmaceuticals in Australia, and more narrowly, the markets for the supply of Gemcitabine and Irinotecan in Australia. However, the ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In forming this view, the ACCC had regard to the following factors: - the presence of multiple alternative suppliers and imminent new entry; - the high degree of substitutability between alternative brands; - numerous examples of recent entry into the market since the originator Gemcitabine drug came off patent and the decline in price since that time; - no significant barriers to customers switching providers; and - the limited competition between Sandoz and InterPharma given that Sandoz distributes the originator brand of Gemcitabine and is a relatively small supplier of other oncology medications."
+  }
+}

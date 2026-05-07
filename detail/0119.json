@@ -1,0 +1,49 @@
+{
+  "id": "0119",
+  "title": "Lion Pty Ltd - Fermentum Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lion-pty-ltd-fermentum-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Food & Beverage"
+  ],
+  "date_completed": "4 November 2021",
+  "date_completed_iso": "2021-11-04T12:00:00Z",
+  "date_commenced": "21 September 2021",
+  "date_commenced_iso": "2021-09-21T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Lion Pty Ltd"
+  ],
+  "targets": [
+    "Fermentum Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Sep 2021",
+      "date_iso": "2021-09-21T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Oct 2021",
+      "date_iso": "2021-10-05T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "26 Oct 2021",
+      "date_iso": "2021-10-26T12:00:00Z",
+      "event": "Former proposed decision date (9th December) brought forward."
+    },
+    {
+      "date": "4 Nov 2021",
+      "date_iso": "2021-11-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lion-Beer, Spirits & Wine Pty Ltd ( Lion ) proposes to acquire independent Australian brewer Fermentum Pty Ltd ( Fermentum ). Lion and Fermentum primarily overlap in the supply of beer and cider products. Fermentum's brands include Stone & Wood, Fixation, Two Birds, Little Dragon and Sunly Seltzer. Lion's brands include XXXX, Tooheys, Iron Jack, Furphy, Little Creatures, Hahn, James Squire and many others.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in markets for the national supply of: beer, cider, seltzer, and kombucha. The ACCC also considered the impact of the proposed acquisition on different categories of beer, in particular “craft” beer, and also for the supply of beer on-premise and off-premise. The ACCC did not reach a concluded view on whether different markets for the supply of beer exist as it did not have a material impact on the competition analysis.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any relevant market. The ACCC initially had concerns as Fermentum is a large and popular independent supplier of craft beer, with plans to expand its brewing capacity. Fermentum, through its Stone & Wood beer brand, and Lion, through its James Squire and Little Creatures beer brands (amongst others), both supply craft beer. However, market feedback indicated they are not close competitors. Asahi/CUB’s craft beer brands and other independent breweries were considered closer competitors to Fermentum than Lion. Post-acquisition there will be several alternative suppliers who will be a viable alternative to Stone & Wood for liquor retailers and pubs/clubs that demand independent craft beer. The number of breweries in Australia has doubled to over 600 in the last 5 to 10 years, several of which have increased capacity, or have plans to do so soon. The expansion of contract brewing also enables breweries to rapidly expand their production without increasing their own brewery capacity. In addition, the proposed acquisition may make Stone & Wood draught taps contestable for independent breweries, which may further lower barriers to expansion. Industry participants expect that consumer demand for independent craft beer will continue to grow, and licensed premises, particularly those in metropolitan areas, will continue to reserve taps for independent brewers. The ACCC also considered that the proposed acquisition did not raise competition concerns for the supply of cider, seltzer or kombucha as the level of aggregation between Lion and Fermentum is not significant."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0524",
+  "title": "Bunnings Group Limited - completed acquisition of Site in Hervey Bay and Mentone",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bunnings-group-limited-completed-acquisition-of-site-in-hervey-bay-and-mentone",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44500",
+  "industries": [
+    "Hardware retailing, home improvement"
+  ],
+  "date_completed": "4 May 2011",
+  "date_completed_iso": "2011-05-04T12:00:00Z",
+  "date_commenced": "10 March 2011",
+  "date_commenced_iso": "2011-03-10T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Bunnings Group Limited"
+  ],
+  "targets": [
+    "Site in Hervey Bay and Mentone"
+  ],
+  "timeline": [
+    {
+      "date": "10 Mar 2011",
+      "date_iso": "2011-03-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Mar 2011",
+      "date_iso": "2011-03-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 May 2011",
+      "date_iso": "2011-05-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC reviewed the completed acquisitions of land by Bunnings in Hervey Bay, Queensland and Mentone, Victoria.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. Nonetheless, the ACCC considered the competitive effects of the completed acquisitions in local markets for the retail sale of hardware and home improvement products. The ACCC also found that there are regional markets for the wholesale supply of hardware and home improvement products to retailers but considered that the completed acquisitions had little impact on the relevant wholesale markets.",
+    "Competition analysis": "The ACCC considered that the acquisitions were unlikely to substantially lessen competition for reasons particular to each completed acquisition. With respect to the site at Hervey Bay, while barriers to entry into hardware retailing are substantial, this acquisition does not affect the likelihood of entry into that market due to the likely availability of alternative suitable sites. Accordingly the ACCC considered that the completed acquisition is not likely to result in a substantial lessening of competition by preventing an alternative hardware retailer from acquiring the site. With respect to the site at Mentone, in assessing the completed acquisition against the likely counterfactual of a new entrant acquiring the site, the ACCC considered that the completed acquisition would be unlikely to substantially lessen competition due to the existence of other competitors in the local market as well as the availability of alternative sites."
+  }
+}

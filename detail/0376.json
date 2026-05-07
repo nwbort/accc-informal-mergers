@@ -1,0 +1,44 @@
+{
+  "id": "0376",
+  "title": "GPC Asia Pacific Pty Ltd (formerly Exego Pty Ltd) - proposed acquisition of R&E Autos Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gpc-asia-pacific-pty-ltd-formerly-exego-pty-ltd-proposed-acquisition-of-re-autos-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51547",
+  "industries": [
+    "Automotive parts and accessories"
+  ],
+  "date_completed": "7 August 2013",
+  "date_completed_iso": "2013-08-07T12:00:00Z",
+  "date_commenced": "2 July 2013",
+  "date_commenced_iso": "2013-07-02T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "GPC Asia Pacific Pty Ltd (formerly Exego Pty Ltd)"
+  ],
+  "targets": [
+    "R&E Autos Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jul 2013",
+      "date_iso": "2013-07-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2013",
+      "date_iso": "2013-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2013",
+      "date_iso": "2013-08-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Exego Pty Ltd proposed to acquire 100% of the share capital in R&E Autos Pty Ltd",
+    "Market definition": "The ACCC primarily considered the effects of the proposed acquisition in the context of markets for the supply of automotive parts and accessories to trade customers in the: - Greater Melbourne region; - south-east Melbourne region; and - south-east Victoria / Princes Highway region.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market, since: - although GPC's subsidiary, Repco, and R&E offered a similar range of automotive parts and accessories, they did not appear to be close competitors (primarily because of R&E's focus on the trade channel); - remaining competitors (including national chains such as Burson Automotive, regional and single store outlets, specialist / niche suppliers and, to a lesser extent, original equipment suppliers) would exert an effective competitive constraint on the merged firm; - trade customers could easily switch suppliers and also appeared to possess a degree of countervailing power, through their ability to bypass the merged firm by sourcing products online and/or from buying groups such as the Capricorn Society; and - in the context of this review, barriers to entry and expansion on a local or regional scale were not significant."
+  }
+}

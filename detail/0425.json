@@ -1,0 +1,44 @@
+{
+  "id": "0425",
+  "title": "Gate Gourmet (Holdings) Pty Ltd - proposed acquisition of Q Catering Cairns Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gate-gourmet-holdings-pty-ltd-proposed-acquisition-of-q-catering-cairns-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49287",
+  "industries": [
+    "Catering"
+  ],
+  "date_completed": "13 September 2012",
+  "date_completed_iso": "2012-09-13T12:00:00Z",
+  "date_commenced": "30 July 2012",
+  "date_commenced_iso": "2012-07-30T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Gate Gourmet (Holdings) Pty Ltd"
+  ],
+  "targets": [
+    "Q Catering Cairns Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jul 2012",
+      "date_iso": "2012-07-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Aug 2012",
+      "date_iso": "2012-08-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Sep 2012",
+      "date_iso": "2012-09-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Gate Gourmet proposed to acquire Q Catering Cairns, an in-flight catering service provider which operates two kitchen facilities located in Cairns and Sydney(known as the Riverside Facility). Q Catering Cairns is ultimately owned by Qantas Airways Limited.",
+    "Market definition": "The ACCC considered the effects of the acquisition in the context of separate city-based markets for the supply of in-flight catering services in Cairns and Sydney.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in either market for the supply of in-flight catering services in Cairns in Sydney. The ACCC did not consider that barriers to entry were substantial for the supply of in-flight catering services. In addition, the ACCC considered that airlines would be able to exercise bargaining power arising from their dealings with the relevant catering firms in multiple ports in Australia and world wide, or countervailing power in the form of sponsorship of new entry, if they were dissatisfied with the services offered or pricing in the market. In the Cairns market, the operations of the merger parties did not overlap significantly and therefore the acquisition represented a bare transfer of the Cairns facility to Gate Gourmet."
+  }
+}

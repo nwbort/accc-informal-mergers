@@ -1,0 +1,54 @@
+{
+  "id": "0540",
+  "title": "Brookfield Infrastructure Group - proposed acquisition of Abbot Point Coal Terminal",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brookfield-infrastructure-group-proposed-acquisition-of-abbot-point-coal-terminal",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44723",
+  "industries": [
+    "Coal terminals"
+  ],
+  "date_completed": "8 March 2011",
+  "date_completed_iso": "2011-03-08T12:00:00Z",
+  "date_commenced": "17 January 2011",
+  "date_commenced_iso": "2011-01-17T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Brookfield Infrastructure Group"
+  ],
+  "targets": [
+    "Abbot Point Coal Terminal"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jan 2011",
+      "date_iso": "2011-01-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Feb 2011",
+      "date_iso": "2011-02-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Feb 2011",
+      "date_iso": "2011-02-14T12:00:00Z",
+      "event": "ACCC requested further information from a party to the transaction. ACCC timeline suspended."
+    },
+    {
+      "date": "24 Feb 2011",
+      "date_iso": "2011-02-24T12:00:00Z",
+      "event": "ACCC received further information from a party to the transaction. ACCC timeline recommenced. Former proposed date of announcement of 3 March 2010, amended to allow the ACCC to consider the further information requested."
+    },
+    {
+      "date": "8 Mar 2011",
+      "date_iso": "2011-03-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Brookfield Infrastructure Group proposes to acquire the Abbot Point Coal Terminal near Bowen in North Queensland from the State of Queensland. The Brookfield Infrastructure Group currently have the ownership and controlling interest in the Dalrymple Bay Coal Terminal at the Port of Hay Point, near Mackay, in Central Queensland.",
+    "Market definition": "The ACCC considered whether the proposed acquisition would substantially lessen competition in the following markets: - the market for the provision of coal loading facilities servicing the Northern Bowen Basin and Galilee Basin; - the market for the acquisition, development and expansion of coal deposits in the Northern Bowen Basin and Galilee Basin; and - the market for the supply of coal of an exportable quality.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets for the following key reasons: - current capacity at both the Abbot Point Coal Terminal proposed to be acquired and at the Dalrymple Bay Coal Terminal is fully contracted under long term agreements; - access arrangements for the Dalrymple Bay Coal Terminal are subject to regulation by the Queensland Competition Authority; - Brookfield's ability to increase prices or reduce service levels in the provision of coal loading facilities is constrained over the long term by the likely future presence of competing coal terminals; - Brookfield does not have an incentive to foreclose terminal access for coal producers in the upstream market and its ability to do so is constrained over the long term by the likely availability of alternative coal terminals; and - as coal prices are set by the world market, the proposed acquisition will have no discernible effect in the downstream market for the export of coal."
+  }
+}

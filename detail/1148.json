@@ -1,0 +1,93 @@
+{
+  "id": "1148",
+  "title": "Santos Limited - proposed acquisition of Queensland Gas Company Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/santos-limited-proposed-acquisition-of-queensland-gas-company-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25463",
+  "industries": [
+    "Gas production and supply"
+  ],
+  "date_completed": "20 February 2007",
+  "date_completed_iso": "2007-02-20T12:00:00Z",
+  "date_commenced": "5 October 2006",
+  "date_commenced_iso": "2006-10-05T12:00:00Z",
+  "total_review_days": 68,
+  "acquirers": [
+    "Santos Limited"
+  ],
+  "targets": [
+    "Queensland Gas Company Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Oct 2006",
+      "date_iso": "2006-10-05T12:00:00Z",
+      "event": "ACCC commenced public review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Oct 2006",
+      "date_iso": "2006-10-16T12:00:00Z",
+      "event": "Market inquiries commenced."
+    },
+    {
+      "date": "26 Oct 2006",
+      "date_iso": "2006-10-26T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "9 Nov 2006",
+      "date_iso": "2006-11-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Nov 2006",
+      "date_iso": "2006-11-23T12:00:00Z",
+      "event": "ACCC requested further information from Santos. ACCC timeline suspended."
+    },
+    {
+      "date": "29 Nov 2006",
+      "date_iso": "2006-11-29T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings delayed to allow consultation on Statement of Issues."
+    },
+    {
+      "date": "7 Dec 2006",
+      "date_iso": "2006-12-07T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings delayed pending further information from Santos."
+    },
+    {
+      "date": "4 Jan 2007",
+      "date_iso": "2007-01-04T12:00:00Z",
+      "event": "ACCC received further information from Santos. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 Jan 2007",
+      "date_iso": "2007-01-30T12:00:00Z",
+      "event": "Santos announces a new takeover proposal for QGC and that it will let the previous takeover proposal lapse."
+    },
+    {
+      "date": "31 Jan 2007",
+      "date_iso": "2007-01-31T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings. In light of Santos' new proposal the ACCC announced that it would not be making a formal decision on the previous takeover proposal."
+    },
+    {
+      "date": "31 Jan 2007",
+      "date_iso": "2007-01-31T12:00:00Z",
+      "event": "ACCC establishes a timeline for market inquiries in relation to Santos' new proposal."
+    },
+    {
+      "date": "13 Feb 2007",
+      "date_iso": "2007-02-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties in relation to the new proposal. Submissions must be received by 9:00 a.m."
+    },
+    {
+      "date": "20 Feb 2007",
+      "date_iso": "2007-02-20T12:00:00Z",
+      "event": "ACCC announced its decision to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "See detailed public competition assessment below.",
+    "Competition analysis": "See detailed public competition assessment below."
+  }
+}

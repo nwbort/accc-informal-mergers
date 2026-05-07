@@ -1,0 +1,816 @@
+Page 1 of 14 
+ 
+Statement of Issues 
+5 December 2013 
+ Sonic Healthcare Limited - proposed acquisition of assets 
+of Delta Imaging Group 
+Introduction 
+1. Outlined below is the Statement of Issues released by the Australian Competition 
+and Consumer Commission (ACCC) on the proposed acquisition of assets of Delta 
+Imaging Pty Limited (in liquidation), Delta Imaging Maitland Pty Limited (in 
+liquidation) and Cscan Asset Pty Limited (in liquidation) (collectively, the Delta 
+Imaging Group) by Sonic Healthcare Limited (Sonic) (proposed acquisition). 
+2. A Statement of Issues published by the ACCC is not a final decision about a 
+proposed acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well as 
+identifying the lines of further inquiry that the ACCC wishes to undertake. 
+3. In line with the ACCC’s Merger Review Process Guidelines (at 
+www.accc.gov.au/processguidelines) the ACCC has established a secondary 
+timeline for further consideration of the issues. The ACCC anticipates completing 
+further market inquiries by 20 December 2013 and anticipates making a final 
+decision by 17 January 2014. However, the anticipated timeline can change in line 
+with the Merger Review Process Guidelines. To keep abreast of possible changes 
+in relation to timing and to find relevant documents, market participants should visit 
+the Mergers Register on the ACCC's website at www.accc.gov.au/mergersregister. 
+4. A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+Background to the proposed acquisition 
+5. On 11 October 2013, in response to a request by the ACCC, Sonic provided its 
+submission seeking informal clearance from the ACCC to acquire the assets of the 
+Delta Imaging Group. 
+6. Sonic proposes to acquire assets of the Delta Imaging Group, primarily consisting 
+of radiology equipment for the supply of x-ray, ultrasound, computed tomography 
+(CT) and magnetic resonance imaging (MRI) services. 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 2 of 14 
+7. Sonic may use the assets to provide a full-service radiology business at the former 
+premises of the Delta Imaging Group in Maitland and Charlestown, provided it can 
+obtain a lease at those premises. Alternatively, Sonic may deploy some or all of 
+those assets elsewhere. 
+8. The ACCC has considered both possibilities in assessing the potential competitive 
+effects of the proposed acquisition. The concerns raised in this Statement of 
+Issues apply regardless of whether Sonic were to continue to operate the former 
+Delta Imaging Group practices or whether Sonic were to close those practices and 
+redeploy the equipment. 
+The parties 
+Sonic Healthcare Limited 
+9. Sonic is an Australian Securities Exchange listed company. It provides diagnostic 
+imaging services in Australia and New Zealand, as well as pathology services in 
+Australia, New Zealand, Europe and the United States and medical centre 
+management services in Australia. 
+10. In Newcastle and the Hunter region of New South Wales, Sonic provides 
+diagnostic imaging services through its subsidiary, Hunter Imaging Group Pty Ltd 
+(Hunter Imaging). Hunter Imaging operates a number of clinics in the region, 
+providing a range of general x-ray, ultrasound, CT (collectively, general 
+diagnostic imaging), MRI and nuclear medicine services. 
+11. Relevant to the assessment of proposed acquisition, Hunter Imaging operates the 
+following radiology practices in Newcastle and Maitland (located approximately 
+32km from the centre of Newcastle). 
+Table 1: Locations of Sonic radiology practices in Newcastle and Maitland 
+Location 
+Services provided 
+Newcastle 
+Charlestown 
+ General diagnostic imaging 
+ MRI 
+Cardiff 
+ General diagnostic imaging 
+ MRI 
+Gateshead 
+ General diagnostic imaging 
+Broadmeadow 
+ General diagnostic imaging 
+Belmont 
+ General diagnostic imaging 
+Wallsend 
+ General diagnostic imaging 
+Toronto 
+ General diagnostic imaging 
+Maitland 
+Maitland 
+ General diagnostic imaging 
+East Maitland 
+ General diagnostic imaging  
+ MRI 
+Delta Imaging Group 
+12. The Delta Imaging Group was established in 2009 in Charlestown and expanded 
+to Maitland in 2012. Both practices provided general diagnostic imaging services 
+(including, x-ray, ultrasound and CT) and MRI services. 
+13. The Delta Imaging Group ceased trading on 9 July 2013 and is in liquidation. 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 3 of 14 
+Other industry participants 
+14. As explained further below, the areas in which Sonic and the Delta Imaging Group 
+overlap is in the supply of general diagnostic imaging services and MRI services. 
+Other suppliers of these services in Newcastle and Maitland are set out below. 
+Table 2: Suppliers of diagnostic imaging other than Sonic and the Delta Imaging 
+Group  
+Supplier 
+Locations 
+General 
+diagnostic 
+imaging 
+MRI 
+Public 
+Hospital/Private 
+Radiology 
+Practice 
+NEWCASTLE 
+Primary  
+Charlestown 
+ 
+ 
+Private Radiology 
+Practice 
+Merewether 
+ 
+ 
+Private Radiology 
+Practice 
+Hunter 
+Radiology 
+Newcastle 
+ 
+ 
+Private Radiology 
+Practice 
+Glendale 
+ 
+ 
+Private Radiology 
+Practice 
+Newcastle 
+Radiology 
+Adamstown 
+ 
+ 
+Private Radiology 
+Practice 
+In Focus 
+Radiology 
+Warners 
+Bay 
+ 
+ 
+Private Radiology 
+Practice 
+Newcastle X-
+ray 
+Edgeworth 
+ 
+ 
+Private Radiology 
+Practice 
+Hunter New 
+England 
+Imaging: 
+Calvary Mater 
+Hospital 
+Waratah 
+ 
+ 
+Public Hospital 
+Hunter New 
+England 
+Imaging: John 
+Hunter Hospital 
+New 
+Lambton 
+ 
+ 
+Public Hospital 
+MAITLAND 
+Greenhills X-ray 
+Maitland 
+ 
+ 
+Private Radiology 
+Practice 
+Hunter Health 
+Imaging 
+Service: 
+Maitland Public 
+Hospital 
+Maitland 
+ 
+ 
+Public Hospital 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 4 of 14 
+Market inquiries 
+15. On 15 October 2013, the ACCC commenced market inquiries regarding the 
+proposed acquisition. A range of interested parties provided submissions, including 
+radiology practices in the Newcastle and Maitland areas, referring medical 
+practitioners, industry bodies and alternative bidders for the Delta Imaging Group 
+assets. 
+Future with and without the acquisition  
+16. Section 50 of the Act prohibits mergers or acquisitions that would have the effect or 
+be likely to have the effect of substantially lessening competition in a market. In 
+assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to the 
+likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+17. In this case, if the proposed acquisition does not proceed, the ACCC considers 
+that it is likely another radiology company would acquire the Delta Imaging Group’s 
+assets and operate full-service radiology practices at the former Delta Imaging 
+Group sites, providing general diagnostic imaging services and MRI services. 
+Industry background 
+18. Diagnostic imaging is a healthcare service that seeks to diagnose conditions 
+through the generation and interpretation of structural and functional images of the 
+human body. The practice of diagnostic imaging also includes preventative 
+medicine (through screening services) and treatment (through interventional 
+image-guided procedures and nuclear medicine). The various technologies (often 
+referred to as modalities) used in diagnostic imaging allow detailed visualisation of 
+structures within the human body without the need for surgery or major 
+intervention. 
+19. Sonographers and radiographers (medical imaging technologists) are medical 
+professionals who operate the relevant diagnostic imaging machinery. Radiologists 
+are medical professionals who interpret diagnostic images and provide clinical 
+reports. 
+20. Diagnostic imaging involves a variety of modalities, including: 
+ 
+general x-ray;  
+ 
+dental x-ray / orthopantomogram (OPG); 
+ 
+ultrasound; 
+ 
+doppler ultrasound; 
+ 
+fluoroscopy or (fluoroscopic screening); 
+ 
+bone mineral densitometry (DEXA); 
+ 
+mammography; 
+ 
+fine needle aspiration biopsy (FNA); 
+ 
+CT; 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 5 of 14 
+ 
+MRI; and 
+ 
+nuclear medicine / position emission tomography (PET). 
+Medical practitioners – referral practices 
+21. Medical practitioners make referrals to diagnostic imaging service providers. The 
+choice as to which radiology practice to refer a patient to is determined by a range 
+of factors including quality, convenience, price, location, services available and 
+clinical relationship with the reporting radiologist.  
+22. Market inquiries have indicated that medical practitioners generally prefer to refer 
+to a single radiology practice for all imaging services as opposed to sending 
+different patients with different imaging needs to different practices. Additionally, 
+many medical practitioners prefer to refer to radiology practices which supply 
+general diagnostic imaging and MRI which are considered to be full-service. This is 
+because full-service practices are considered to be a more convenient one stop 
+shop and are also often perceived to provide better quality of service. 
+23. Although patients are given a referral slip for a particular radiology practice or 
+company, patients are free to go to radiology practices other than the practice their 
+medical practitioner refers them to. However, market inquiries have indicated that 
+patients typically attend the radiology practices they are referred to.  
+Medicare 
+24. Medicare rebates account for the largest proportion of revenue for diagnostic 
+imaging service providers and have a significant impact on the price of radiology 
+services. Other sources of revenue include co-payments from private patients, 
+private health funds and other uninsured patient out-of-pocket expenses for items 
+not included under the Medicare Benefits Scheme (MBS). 
+Medicare eligibility of MRI scans  
+25. The Australian Government regulates Medicare funding of MRI services by 
+entering into deeds of undertaking with certain accredited MRI service providers. A 
+deed of undertaking permits specific MRI units to supply Medicare rebatable MRI 
+scans. These deeds of undertakings define MRI units as either: 
+ fully funded – these units can supply the full range of Medicare eligible MRI 
+scans under the MBS when referred by a specialist, surgeon or GP; or 
+ partially funded – these units can supply a selected number of Medicare 
+eligible scans under the MBS when referred by a GP and certain Medicare 
+eligible cancer staging and breast screening scans referred by a specialist or 
+surgeon. 
+26. MRI units without a deed of undertaking are ‘unfunded’. While these units can 
+supply all types of MRI scans, these scans will not attract a Medicare rebate and 
+patients will be charged out of pocket fees. 
+27. Prior to 1 November 2012, only patients referred by specialists or surgeons for MRI 
+scans listed under the MBS were eligible for the Medicare rebate. Additionally, to 
+receive the Medicare rebate for these scans, patients would have needed to be 
+referred to fully funded MRI units of which there were only 125 throughout 
+Australia.  
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 6 of 14 
+28. On 1 November 2012, the Australian Government increased the number of MRI 
+items under the MBS which could attract the Medicare rebate if supplied by a 
+funded MRI unit. These items related to MRI scans for patients under 16 years old, 
+referred by a GP. The Australian Government also increased the number of fully 
+funded MRI units and introduced partial funding of MRI units.  
+29. On 1 November 2013, the Federal Government further increased the number of 
+MRI items which can be referred by a GP to a fully or partially funded MRI unit and 
+attract the Medicare rebate.  
+30. Currently in Australia there are 169 partially funded and 168 fully funded MRI units. 
+The ACCC understands that the Australian Government is unlikely to enter deeds 
+of undertaking for further MRI units to become fully or partially funded in the 
+foreseeable future. 
+31. Market participants stated that throughout Australia, GPs have often referred 
+patients for CT scans when MRI scans would be a more appropriate clinical 
+investigation. This is because these CT scans are Medicare rebateable whereas 
+MRI scans are not always Medicare rebateable. Additionally, because an MRI scan 
+is a relatively expensive test, prior to the regulatory changes made in November 
+2012, GPs would often refer patients to specialists, who could subsequently refer 
+patients for an MRI scan that would attract the Medicare rebate. Consequently, 
+patients often waited for long periods of time (due to waiting periods for specialists’ 
+appointments) to access MRI services. The ACCC understands that part of the 
+rationale behind the expansion of Medicare eligible GP referrable MRI scans is to 
+improve access to MRI services and to reduce the number of less appropriate CT 
+scans. 
+32. Table 3 below summarises the availability of Medicare rebates for MRI services, 
+based on the referrer and the funding status of the MRI unit.  
+Table 3: Summary of Medicare eligibility on funded and unfunded MRI units. 
+Referrer 
+Fully funded MRI unit 
+Partially funded MRI unit 
+Unfunded 
+MRI unit 
+Specialist 
+or surgeon 
+All Medicare eligible MRI 
+scans.  
+Certain cancer staging 
+and breast screening 
+items. 
+Nil 
+GPs 
+ Select MRI scans for 
+patients under 16 years 
+of age with certain 
+symptoms for scans of 
+the head, spine, ankle, 
+knee, hip, elbow and 
+wrist. 
+ Select MRI items for 
+patients over 16 years 
+of age with certain 
+symptoms for scans of 
+the head, spine or 
+knee. 
+  Select MRI scans for 
+patients under 16 years 
+of age with certain 
+symptoms for scans of 
+the head, spine, ankle, 
+knee, hip, elbow and 
+wrist. 
+ Select MRI items for 
+patients over 16 years 
+of age with certain 
+symptoms for scans of 
+the head, spine or 
+knee. 
+Nil 
+Areas of overlap and market definition 
+33. The following areas of overlap exist between the parties to the proposed 
+acquisition: 
+ 
+general x-ray; 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 7 of 14 
+ 
+ultrasound; 
+ 
+CT; and 
+ 
+MRI. 
+Product dimension 
+34. In previous matters the ACCC has considered that all diagnostic imaging 
+modalities, except for MRI and nuclear medicine, fall within the same product 
+dimension. The ACCC has not received any submissions to indicate a different 
+approach should be taken. 
+35. In most cases, the various diagnostic imaging modalities are complements with 
+limited substitutability, as they offer different functionalities to diagnose a variety of 
+injuries or ailments. However, the ACCC considers it appropriate to consider the 
+supply of general diagnostic imaging services, including x-ray, ultrasound and CT, 
+as one product dimension because radiology practices tend to supply these 
+modalities together.  
+36. Further, with the exception of MRI services, the training and qualifications of 
+medical imaging technicians and radiologists allow these practitioners to provide 
+several modalities of diagnostic imaging services.  
+37. In contrast, radiologists and medical imaging technicians require additional training 
+and qualifications to provide MRI services. The ACCC therefore considers the 
+supply of MRI services to be a separate product dimension to general diagnostic 
+imaging services. 
+Radiology services provided by hospitals 
+38. Radiology practices compete for referrals of out-patients. These are patients who 
+are not admitted to a hospital to obtain radiology or any other medical services.  
+39. The ACCC considers that services provided to hospital in-patients by public or 
+private hospitals should not be included within the relevant markets, primarily 
+because out-patients are not likely to become in-patients in order to access 
+radiology services. Additionally, once admitted to a hospital, in-patients and their 
+doctors generally do not have the ability to choose between radiology providers, 
+meaning they are not contestable to external radiology providers.  
+Geographic dimension 
+40. Market inquiries have indicated that radiology patients in Newcastle and Maitland 
+generally seek to obtain services in their local area, which may include the five or 
+six suburbs surrounding their home or the location of their doctor.  
+41. However, some market participants indicated that the geographic dimension of 
+these markets may be broader. Further, some market participants have stated that 
+the supply of urgent or more complex imaging services, such as MRI, may be less 
+common and such practices therefore draw patients from a wider geographic area.  
+42. Some market participants also stated that some patients would be willing to travel 
+between Cessnock and Maitland for general diagnostic imaging services.  
+43. Additionally, many radiology practices are located close to hospitals or medical 
+precincts. Therefore, patients who attend hospitals or medical precincts for other 
+medical services may also attend nearby radiology practices for ancillary imaging 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 8 of 14 
+services. Consequently, these radiology practices may draw patients from a wider 
+geographic region than most patients would normally travel for imaging services. 
+Further, some patients converge to the clinic that better matches their price 
+sensitivity (rather than the clinic that is necessarily closest). For example, patients 
+might travel further to take advantage of bulk billing. 
+44. Notwithstanding the factors outlined above, market inquiries to date have indicated 
+that insufficient patients would switch between Newcastle and Maitland in the 
+event of a price increase or reduction of service in one of these locations.  
+45. The ACCC’s preliminary view is therefore that there are likely to be separate local 
+markets for the supply of general diagnostic imaging and MRI services. However, 
+the ACCC is considering whether a broader geographic market may apply for 
+either or both of these product markets. 
+46. The ACCC notes that even if the geographic market is broader for the supply of 
+MRI services, encompassing certain satellite towns close to Newcastle, including 
+Maitland, this is unlikely to affect the competition analysis for the proposed 
+acquisition. This is discussed further in the ‘issues of concern’ section below.  
+Conclusion 
+47. The ACCC’s preliminary view is that the following markets are likely to be relevant 
+in assessing the proposed acquisition: 
+ 
+The supply of general diagnostic imaging services in Newcastle. 
+ 
+The supply of general diagnostic imaging services in Maitland. 
+ 
+The supply of MRI services in Newcastle. 
+ 
+The supply of MRI services in Maitland. 
+48. As noted above, the market definition does not include the supply of the above 
+services to hospital in-patients. 
+The ACCC invites comments from market participants on its proposed definition of the 
+relevant markets. In particular, market participants may wish to comment on: 
+ 
+The extent to which the geographic dimension of the market for the supply of MRI 
+services and/or the market for the supply of general diagnostic imaging services 
+may be broader or narrower than Newcastle and Maitland separately or, the 
+combined Newcastle-Maitland area. For example, to what extent do patients travel 
+between Newcastle, Maitland and other locations such as Cessnock, to obtain 
+radiology services? 
+Statement of issues 
+49. For the purposes of this Statement of Issues, the issues in this matter are divided 
+into three categories, 'issues of concern', 'issues that may raise concerns' and 
+'issues unlikely to pose concerns'. 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 9 of 14 
+Issues of concern 
+Unilateral effects: The proposed acquisition is likely to give the merged 
+entity market power in the supply of MRI services in Newcastle  
+50. The ACCC is concerned that the proposed acquisition would result in a substantial 
+lessening of competition in the supply of MRI services in Newcastle. The ACCC 
+considers that this would be the case regardless of whether the geographic 
+dimension of the market is confined to Newcastle or is broadened to include both 
+the Newcastle and Maitland areas.  
+51. In the absence of the proposed acquisition, it is likely that an alternative purchaser 
+would operate a full-service radiology practice at the former Delta Imaging Group 
+sites, providing MRI services using two partially funded MRI units (both in 
+Newcastle) and one unfunded MRI unit (Maitland).  
+52. If a narrow geographic market definition were adopted, the partially funded MRI 
+units would be operated in competition with MRI services provided by other service 
+providers in Newcastle and in particularly close competition with Sonic’s partially 
+funded MRI unit at Charlestown and fully funded MRI unit at Cardiff. If a broad 
+geographic market definition were adopted, the two partially funded units formerly 
+owned by the Delta Imaging Group would also compete with Sonic’s fully funded 
+MRI unit at East Maitland. 
+Competitive constraints 
+53. The following MRI units are located in the Newcastle and Maitland areas: 
+Table 4: Providers of MRI services (funded and unfunded) in Newcastle and 
+Maitland 
+Provider 
+Location 
+Medicare eligibility 
+NEWCASTLE 
+Sonic  
+Cardiff 
+Full  
+Sonic  
+Charlestown 
+Partial 
+Delta Imaging Group Charlestown 
+Partial 
+Delta Imaging Group Charlestown 
+Partial 
+HNEI  
+John Hunter Hospital 
+Full  
+HNEI 
+John Hunter Hospital 
+Partial 
+HNEI 
+Calvary Mater Hospital Partial 
+Hunter Radiology 
+Glendale 
+None 
+Primary Healthcare 
+Merewether 
+None 
+MAITLAND 
+Sonic  
+East Maitland 
+Full  
+Delta Imaging Group Maitland 
+None 
+ 
+54. The proposed acquisition would result in Sonic being the only private radiology 
+practice with partially or fully funded MRI units in the Newcastle and Maitland 
+areas.  
+55. Market participants have consistently stated that public hospitals do not compete 
+with private radiology practices to a significant extent for out-patients. This is 
+because public hospitals prioritise providing services to in-patients over out-
+patients. These patients commonly have acute illnesses which may be more 
+progressed and complex, therefore requiring more time and resources for the 
+provision of services. Public hospitals also focus time and resources on hospital 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 10 of 14 
+clinics. These factors can result in poor accessibility for out-patients in terms of 
+wait times for appointments and diminished service through inconvenience and 
+delays in providing reports for images. 
+56. As such, if the proposed acquisition proceeds, the funded MRI units at the John 
+Hunter and Calvary Mater hospitals in Newcastle are unlikely to impose a sufficient 
+constraint on Sonic to prevent a substantial lessening of competition.  
+57. Market participants have also consistently expressed the view that radiology 
+practices with unfunded MRI units are not a strong competitive constraint on 
+radiology practices with funded MRI units in relation to price. While practices 
+operating unfunded MRI units provide some competition, practices operating 
+partially or fully funded MRI units compete more closely on price as they have the 
+ability to charge no or lower fees to patients for Medicare eligible scans.1  
+58. Market participants consider that Sonic is the dominant provider of MRI services in 
+the Newcastle and Maitland areas. Market participants stated that this position is, 
+to a large extent, because Sonic operates the only fully funded MRI units outside of 
+the public hospital system.  
+59. Market inquiries indicate that the key sources of demand for MRI units are: 
+ 
+patients referred for scans by specialists and surgeons, the bulk of which are 
+Medicare rebatable; 
+ 
+patients referred for scans by a GP, of which a selected number of items are 
+Medicare rebatable; and 
+ 
+patients referred for scans by any medical practitioner for injuries under 
+workers’ compensation schemes (these scans do not attract a Medicare 
+rebate).  
+60. The ACCC notes that while there is a select range of MRI items under the MBS 
+which attract a Medicare rebate when referred by a GP, market inquiries indicate 
+that these scans make up the most common indications for which patients would 
+be referred for an MRI scan. As such, the Medicare expansion is likely to result in a 
+significant proportion of GP referrals for MRI scans attracting the Medicare rebate.  
+61. Market inquiries indicate that the Medicare expansion is likely to result in GP 
+referrals becoming a much more significant source of referrals for MRI services in 
+the future. This is because GPs are more likely to refer patients for Medicare 
+eligible scans rather than referring patients to specialists for initial consultations 
+before receiving an MRI scan. Additionally, because these scans are now 
+Medicare eligible they are likely to be used instead of CT scans for certain 
+symptoms.  
+62. Market inquiries indicate that as medical practitioners, particularly GPs, are 
+reluctant to refer patients for Medicare eligible scans to practices where they 
+cannot receive the Medicare rebate, medical practitioners tend to refer patients to 
+radiology practices with funded units for Medicare eligible scans. 
+63. The ACCC notes that, from the perspective of referring GPs, there is no difference 
+between a fully funded MRI unit and a partially funded MRI unit, as both types of 
+MRI units will attract the same Medicare rebate for Medicare eligible scans referred 
+by a GP. This contrasts with the perspective of referring specialists and surgeons 
+                                                 
+ 
+1 Further, to the extent that radiology providers were previously able to utilise unfunded MRI 
+units to provide a competitive constraint for GP referrals, the recent expansion of the range of 
+Medicare eligible scans for GP referrals is likely to significantly weaken this constraint. 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 11 of 14 
+who generally need to refer patients for eligible scans to fully funded MRI units in 
+order to receive the Medicare rebate. This means that, in relation to GP referrals, 
+radiology practices with a partially funded MRI unit are able to compete, in terms of 
+pricing, on an equal footing with radiology practices with a fully funded MRI unit. 
+Therefore, the partial licences allocated to the MRI units formerly owned by Delta 
+Imaging have the potential to be a source of significant competitive constraint 
+against Sonic’s funded MRI units. 
+64. Additionally, as noted in the industry background section, because medical 
+practitioners generally prefer to refer to a single radiology practice for all imaging 
+services, it is anticipated that GPs who refer patients for Medicare eligible scans to 
+practices with a funded MRI unit are also likely to refer patients to the same 
+practices for non-Medicare eligible MRI scans. It is therefore anticipated that there 
+will not only be a significant increase in GP referrals for Medicare rebatable MRI 
+scans, but also the number of GP referrals to these practices for non-Medicare 
+eligible scans. 
+65. In this context, if Sonic acquires the partially funded MRI units, it is likely to 
+significantly increase its market share for the supply of MRI services through an 
+increase in Medicare rebateable MRI scan referrals as well as ancillary referrals 
+from GPs.  
+66. By contrast, the acquisition of the former Delta Imaging Group practices by an 
+alternative purchaser would allow that purchaser to operate a full-service practice, 
+which would competitively constrain Sonic in the supply of both MRI and general 
+diagnostic imaging services in Newcastle (or potentially in Newcastle-Maitland if a 
+combined geographic market were found to be relevant). 
+Barriers to entry and expansion 
+67. Market inquiries indicate that barriers to establishing a radiology practice (with or 
+without MRI services) in the Newcastle and Maitland areas are significant for the 
+following reasons: 
+ 
+ 
+There is a shortage of skilled labour. 
+ 
+There are high sunk costs in acquiring radiology equipment and 
+undertaking construction to house equipment according to regulatory 
+standards.  
+ 
+There is a shortage of suitable sites with sufficient electricity capacity to 
+operate radiology equipment. In many cases, significant capital investment 
+is necessary to ensure reliable power supply to a radiology practice, as 
+well as high ongoing costs of operating transformers and generators or 
+sourcing excess electricity from remote substations. 
+68. For the supply of MRI services, market participants identified the following 
+additional barriers to entry and expansion:  
+ 
+ 
+The Federal Government is unlikely to allocate additional licences for fully 
+or partially funded MRI units.  
+ 
+Funding status of MRI units is tied to their location. As such, it is unlikely 
+that an existing or potential competitor could relocate a funded MRI unit 
+from another area to the Newcastle or Maitland areas. 
+ 
+Investment in MRI equipment requires particularly significant capital 
+investment and sunk costs.  
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 12 of 14 
+ 
+Having a Medicare-eligible MRI unit has the potential to attract much 
+higher volumes of referrals and associated revenue than an unfunded unit 
+would. If an MRI unit does not have full or partial Medicare eligibility, the 
+financial risks of new entry or expansion into the MRI market may be high.  
+ 
+It is difficult to attract skilled radiology staff to Newcastle and Maitland. 
+The ACCC invites comments from market participants on the likely competitive effects 
+of the proposed acquisition in the supply of MRI services. In particular, market 
+participants may wish to comment on: 
+ 
+The extent to which funded MRI units at the public hospitals in Newcastle impose, 
+or would impose, a competitive constraint on Sonic’s funded MRI units at Cardiff, 
+Charlestown and Maitland.  
+ 
+The extent to which unfunded MRI units compete with funded MRI units. 
+ 
+The extent to which new or existing unfunded MRI units are economically viable. 
+ 
+Whether the GP referable MRI items on the MBS represent a significant proportion 
+of the existing or potential demand for MRI services. 
+ 
+The extent to which the barriers to entry and expansion to the supply of MRI 
+services are surmountable, in particular; 
+o 
+the profitability of unfunded MRI units relative to funded MRI units; 
+o 
+the availability of suitable sites; 
+o 
+the availability of sufficient power to sites; and 
+o 
+the shortage of skilled staff. 
+Issues that may raise concerns 
+Unilateral effects: The proposed acquisition may give the merged entity 
+market power in the supply of general diagnostic imaging services in 
+Maitland 
+69. The ACCC considers that competition concerns may arise in the supply of general 
+diagnostic imaging services in Maitland, as the proposed acquisition would result in 
+Sonic being one of three suppliers of general diagnostic imaging services (i.e. 
+Greenhills X-ray and the Maitland Public Hospital). Sonic would operate three out 
+of four private radiology practices if it continued to operate the Delta Imaging 
+Group practice, or two out of three private radiology practices if Sonic chose not to 
+operate the Delta Imaging Group practice (see tables 1 and 2). This contrasts with 
+a future without the acquisition where an alternative acquirer would operate the 
+relevant assets in competition with Sonic and the other providers. 
+70. As noted in the ‘industry background’ section, market inquiries indicate that a full-
+service practice is likely to attract more referrals than a standalone general 
+diagnostic imaging practice and also, therefore, to be a sustainable business. 
+Therefore, in the absence of the proposed acquisition, an alternative acquirer 
+providing MRI services in conjunction with general diagnostic imaging services (i.e. 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 13 of 14 
+a full-service practice) would be likely to be a significant competitor in the supply of 
+general diagnostic imaging services in Maitland. 
+71. The ACCC is therefore concerned that the proposed acquisition may result in a 
+significant increase in concentration in the supply of general diagnostic imaging 
+services in Maitland. The ACCC is concerned that the Maitland Public Hospital and 
+the only other private radiology practice supplying general diagnostic imaging 
+services in Maitland, Greenhills X-ray, may not be a sufficient constraint to prevent 
+Sonic from increasing prices or reducing quality of service.  
+72. However, as noted in the ‘market definition’ section, the ACCC is considering 
+whether a broader geographic market definition is appropriate. If a broader market 
+definition is appropriate, two additional private radiology practices, Valley Imaging 
+and Local X-ray in Cessnock and, the public hospitals in Cessnock and Kurri Kurri 
+would be included as competitors. The ACCC therefore intends to examine the 
+extent to which these firms would impose a competitive constraint on Sonic post-
+acquisition.  
+73. As market inquiries suggest that the barriers to setting up a radiology practice (with 
+or without MRI) are significant, it appears the threat of potential entry may not 
+impose a competitive constraint in the supply of general diagnostic imaging 
+services in Maitland. However, the ACCC is considering the extent to which 
+barriers to entry to the supply of general diagnostic imaging services are 
+surmountable. 
+Unilateral effects: The proposed acquisition may give the merged entity 
+market power in the supply of MRI services in Maitland 
+74. If a narrow geographic market definition were adopted for the supply of MRI 
+services in Maitland, the ACCC considers that competition concerns may arise in 
+the supply of MRI services in Maitland as post-acquisition, Sonic would be the only 
+supplier of MRI services. Sonic would provide MRI services through a funded MRI 
+unit and an unfunded MRI unit, if it continues to operate the unfunded MRI unit 
+which was formerly owned by the Delta Imaging Group. This contrasts with a future 
+without the acquisition where an alternative acquirer would operate an unfunded 
+MRI unit in competition with Sonic. 
+75. While unfunded MRI units do not provide strong price competition, they are 
+capable of providing service competition. Therefore, the ACCC is concerned that 
+the proposed acquisition may result in a deterioration of service levels for the 
+supply of MRI services, for example, through less convenient opening hours for 
+patients or increased waiting times for scans. The ACCC intends to further 
+examine the extent that unfunded MRI units impose a competitive constraint, in 
+terms of service quality, on funded MRI units. 
+76. As noted above, market inquiries suggest that the barriers to setting up a radiology 
+practice (with or without MRI) are significant and, are even more significant for the 
+supply of MRI services. As such, the threat of potential entry does not appear likely 
+to impose a competitive constraint in the supply of MRI services in Maitland. 
+The ACCC invites comments from market participants on the likely competitive effects 
+of the proposed acquisition in the supply of general diagnostic imaging services and 
+MRI services in Maitland. In particular, market participants may wish to comment on: 
+ 
+the financial viability of establishing a radiology practice in Newcastle and/or 
+Maitland without a funded MRI unit; 
+
+
+Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group 
+ 
+Page 14 of 14 
+ 
+the competitive constraint imposed by the threat of new entry to the supply of 
+general diagnostic imaging services; 
+ 
+the competitive constraint imposed by the existing suppliers of general diagnostic 
+imaging services in Maitland – Greenhills X-ray and the Maitland Public Hospital; 
+and 
+ 
+the competitive constraint on Sonic’s Maitland practices imposed by suppliers of 
+general diagnostic imaging services located in Cessnock.  
+Issues unlikely to pose concerns 
+The supply of general diagnostic imaging services in Newcastle 
+77. Market inquiries indicate that competition concerns are unlikely to arise in the 
+supply of general diagnostic imaging services in Newcastle.  
+78. If the proposed acquisition proceeds, Sonic would be one of six private radiology 
+companies supplying general diagnostic imaging services, operating eight out of 
+15 private radiology practices. The ACCC notes that other than Sonic, two of the 
+six suppliers of general diagnostic imaging services in Newcastle operate full-
+service radiology practices. Market inquiries indicate that the existing providers of 
+general diagnostic imaging services in the Newcastle are likely to impose sufficient 
+competitive constraint on Sonic in this market. 
+ACCC's future steps 
+79. The ACCC will finalise its view on this matter after it considers market responses 
+invited by this Statement of Issues. 
+80. The ACCC now seeks submissions from market participants on each of the issues 
+identified in this Statement of Issues and on any other issue that may be relevant 
+to the ACCC's assessment of this matter. 
+81. Submissions are to be received by the ACCC no later than 20 December 2013. 
+The ACCC will consider the submissions received from the market and the merger 
+parties in light of the issues identified above and will, in conjunction with 
+information and submissions already provided by the parties, come to a final view 
+in light of the issues raised above. 
+82. The ACCC intends to publicly announce its final view by 17 January 2014. 
+However the anticipated timeline may change in line with the Merger Review 
+Process Guidelines. A Public Competition Assessment for the purpose of 
+explaining the ACCC's final view may be published following the ACCC's public 
+announcement. 

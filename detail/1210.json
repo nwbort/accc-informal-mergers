@@ -1,0 +1,44 @@
+{
+  "id": "1210",
+  "title": "Woolworths Ltd - proposed acquisition of Cherricoe Pty Ltd's liquor licence in Tamworth NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-proposed-acquisition-of-cherricoe-pty-ltds-liquor-licence-in-tamworth-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25543",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "6 October 2006",
+  "date_completed_iso": "2006-10-06T12:00:00Z",
+  "date_commenced": "21 September 2006",
+  "date_commenced_iso": "2006-09-21T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "Cherricoe Pty Ltd's liquor licence in Tamworth NSW"
+  ],
+  "timeline": [
+    {
+      "date": "21 Sep 2006",
+      "date_iso": "2006-09-21T12:00:00Z",
+      "event": "ACCC commences assessment under Merger Review Process Guidelines"
+    },
+    {
+      "date": "5 Oct 2006",
+      "date_iso": "2006-10-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "6 Oct 2006",
+      "date_iso": "2006-10-06T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited (Woolworths) proposes to acquire a liquor licence from Cherricoe Pty Ltd in Tamworth, New South Wales.",
+    "Market definition": "Market 1: The retail market for packaged liquor for off-premises consumption within a 3-5 kilometre radius surrounding the target firm. Market 2: The New South Wales market for wholesale supply of packaged liquor for subsequent retail sale for off-premises consumption.",
+    "Competition analysis": "In relation to the retail market for packaged liquor for off-premises consumption, the ACCC formed the view that Woolworths will continue to have significant competition from independent competitors and other retail chains.  This competition is likely to provide a sufficient constraint on the merged entity to prevent any attempt to increase prices as a result of the acquisition. In terms of the New South Wales market for wholesale supply of packaged liquor for subsequent retail sale for off-premises consumption, the ACCC formed the view that Woolworths' share of wholesale sales will only increase by a small volume. After consideration of the information provided by market participants and other information before it, the ACCC formed the view that the proposed acquisition in the two markets outlined above is unlikely to result in a substantial lessening of competition, and decided that it would not oppose the acquisition."
+  }
+}

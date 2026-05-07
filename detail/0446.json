@@ -1,0 +1,64 @@
+{
+  "id": "0446",
+  "title": "Glencore International plc - proposed acquisition of Viterra Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/glencore-international-plc-proposed-acquisition-of-viterra-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48469",
+  "industries": [
+    "Grain"
+  ],
+  "date_completed": "7 June 2012",
+  "date_completed_iso": "2012-06-07T12:00:00Z",
+  "date_commenced": "29 March 2012",
+  "date_commenced_iso": "2012-03-29T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Glencore International plc"
+  ],
+  "targets": [
+    "Viterra Inc"
+  ],
+  "timeline": [
+    {
+      "date": "29 Mar 2012",
+      "date_iso": "2012-03-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Apr 2012",
+      "date_iso": "2012-04-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Apr 2012",
+      "date_iso": "2012-04-27T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended and former proposed decision date of 24 May 2012 amended to allow for the parties to respond to ACCC information requests."
+    },
+    {
+      "date": "7 May 2012",
+      "date_iso": "2012-05-07T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "14 May 2012",
+      "date_iso": "2012-05-14T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "22 May 2012",
+      "date_iso": "2012-05-22T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Jun 2012",
+      "date_iso": "2012-06-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Glencore International plc has agreed to acquire all of the issued and outstanding shares of Viterra Inc. (The ACCC notes that Glencore has entered into an asset sale agreement for the sale of Viterra's Australian agri-products depot business to Agrium Inc.)",
+    "Market definition": "While the ACCC did not consider it necessary to form a concluded view in relation to market definition for the purpose of analysing the proposed acquisition, the ACCC considered the likely competitive impact of the proposed acquisition on: - grain trading - the transport of grain; - up-country grain storage and handling; - bulk grain port terminal services; and - malt processing. The ACCC's review focussed on the competitive impact of the proposed acquisition in South Australia given Viterra's significant activities in that state and in particular, its ownership and operation of the vast majority of up-country grain storage and handling sites in South Australia and the six grain port terminals in South Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in substantial lessening of competition in any market. The only horizontal overlap between Glencore and Viterra of any significance is the trading of grain in South Australia, which involves the acquisition, marketing and sale of grain to export and domestic grain customers. Market inquiries indicated that the merged firm would continue to face competition from a number of viable alternative grain traders to which grain growers could turn should the merged firm seek to reduce the prices paid to growers (and which grain customers could switch to if the merged firm should seek to increase the price offered to customers). Given Viterra's significant presence at all levels of the grain supply chain in South Australia, the ACCC considered whether the proposed acquisition would increase the merged firm's incentive to foreclose rival grain traders' access to these services and thereby have the effect or likely effect of substantially lessening competition in grain trading. The ACCC considered that there is unlikely to be any material change in the merged firm's ability to foreclose rivals' access to other supply chain services that form inputs to grain trading operations given Viterra's existing vertically integrated structure. The proposed acquisition is also unlikely to have a substantial impact on the incentives of the merged firm to engage in such a strategy. The ACCC considered that post acquisition there is expected to be an ongoing incentive for the merged firm to maximise throughput at its up-country grain storage and handling facilities and grain bulk export terminals due to the high fixed costs associated with these facilities and because the aggregate capacity associated with these facilities would significantly exceed the merged firm's likely requirements. There is also expected to be a continuing incentive for the merged firm to offer grain transport services to other marketers given the significant fixed component of its (contracted) rail transport service costs. In relation to access to the grain bulk export terminals, the ACCC also notes that the merged firm would be required to comply with the ACCC approved Port Terminal Services Access Undertaking, in accordance with the Wheat Export Marketing Act 2008 (Cth), until September 2014 after which time either a voluntary code of conduct will be introduced, or the arrangements requiring an ACCC approved access undertaking will continue to operate in their current form."
+  }
+}

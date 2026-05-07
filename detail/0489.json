@@ -1,0 +1,54 @@
+{
+  "id": "0489",
+  "title": "Boral Limited - proposed acquisition of Sunshine Coast Quarries",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/boral-limited-proposed-acquisition-of-sunshine-coast-quarries",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46585",
+  "industries": [
+    "Quarry products"
+  ],
+  "date_completed": "18 October 2011",
+  "date_completed_iso": "2011-10-18T12:00:00Z",
+  "date_commenced": "2 August 2011",
+  "date_commenced_iso": "2011-08-02T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Boral Limited"
+  ],
+  "targets": [
+    "Sunshine Coast Quarries"
+  ],
+  "timeline": [
+    {
+      "date": "2 Aug 2011",
+      "date_iso": "2011-08-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Aug 2011",
+      "date_iso": "2011-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Sep 2011",
+      "date_iso": "2011-09-06T12:00:00Z",
+      "event": "ACCC requested further information from Boral. ACCC timeline suspended. Former proposed decision date of 13 September 2011 delayed to allow for provision of the information."
+    },
+    {
+      "date": "27 Sep 2011",
+      "date_iso": "2011-09-27T12:00:00Z",
+      "event": "The ACCC received further information from Boral. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Oct 2011",
+      "date_iso": "2011-10-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Boral Limited proposed to acquire Sunshine Coast Quarries Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - regional markets for the supply of quarry products (other than aggregate for use in asphalt production or for road cover) in the Sunshine Coast region and the South Burnett region; - regional markets for the supply of quarry products for use in asphalt production or for road cover in the Sunshine Coast region and the South Burnett region; The ACCC also considered the impact of the proposed acquisition in downstream markets for the supply of concrete and asphalt in the relevant regions. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definitions for these markets.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the imminent entry into the relevant quarry markets in the Sunshine Coast region by Neilson Group through its Kin Kin quarry; and - Boral's Coolum quarry is likely to exhaust its resources in the next two years, meaning the proposed acquisition will not result in significant horizontal aggregation in the medium term. The ACCC considered that barriers to entry in the relevant quarry markets are likely to be high. While the imminent entry of the Neilsen's Kin Kin quarry has occurred on the basis of pre-existing approvals, further greenfield entry in the Sunshine Coast region appears unlikely in the foreseeable future."
+  }
+}

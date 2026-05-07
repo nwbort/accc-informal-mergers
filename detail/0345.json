@@ -1,0 +1,53 @@
+{
+  "id": "0345",
+  "title": "Hydromet Corporation Pty Ltd - completed acquisition of Simstar Alloys Pty Ltd's Laverton North secondary lead smelter assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hydromet-corporation-pty-ltd-completed-acquisition-of-simstar-alloys-pty-ltds-laverton-north-secondary-lead-smelter-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53439",
+  "industries": [
+    "Lead smelting and refining"
+  ],
+  "date_completed": "4 March 2014",
+  "date_completed_iso": "2014-03-04T12:00:00Z",
+  "date_commenced": "14 January 2014",
+  "date_commenced_iso": "2014-01-14T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Hydromet Corporation Pty Ltd"
+  ],
+  "targets": [
+    "Simstar Alloys Pty Ltd's Laverton North lead smelter assets"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jan 2014",
+      "date_iso": "2014-01-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "3 Feb 2014",
+      "date_iso": "2014-02-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "17 Feb 2014",
+      "date_iso": "2014-02-17T12:00:00Z",
+      "event": "ACCC requested further information from the vendor."
+    },
+    {
+      "date": "24 Feb 2014",
+      "date_iso": "2014-02-24T12:00:00Z",
+      "event": "ACCC received further information from the vendor."
+    },
+    {
+      "date": "4 Mar 2014",
+      "date_iso": "2014-03-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC assessed the competitive effects of the completed acquisition on the market for the acquisition of used lead acid batteries (ULABs). The ACCC did not consider it necessary to reach a definitive view on the geographic scope of this market because competition concerns are unlikely to arise regardless of the geographic dimension adopted.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to result in a substantial lessening of competition in the market for the acquisition of ULABs. Prior to the completed acquisition, operations had ceased at Simstar's Laverton North site. Information obtained by the ACCC indicated that the decision to close the plant reflected the financial performance of the Laverton North operation. In the period prior to the closure of the plant, the Laverton North operation had not been a significant purchaser of ULABs and market feedback indicated that suppliers of ULABs did not consider Simstar's Laverton North operation a viable alternative to Hydromet and Renewed Metal Technologies (RMT). Accordingly, the completed acquisition did not involve a reduction in competition in the market for the acquisition of ULABs. Further, market feedback suggested that the completed acquisition is likely to create in Hydromet, a significant, vertically-integrated competitor to RMT with both battery breaking and lead smelting operations."
+  }
+}

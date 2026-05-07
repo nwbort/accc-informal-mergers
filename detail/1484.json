@@ -1,0 +1,32 @@
+{
+  "id": "1484",
+  "title": "Acquirer: Boral Limited; Target: Adelaide Brighton Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-boral-limited-target-adelaide-brighton-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18836",
+  "industries": [],
+  "date_completed": "12 May 2004",
+  "date_completed_iso": "2004-05-12T12:00:00Z",
+  "date_commenced": "19 December 2003",
+  "date_commenced_iso": "2003-12-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Boral Limited"
+  ],
+  "targets": [
+    "Adelaide Brighton Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Boral Limited sought to acquire Adelaide Brighton Limited, which owned cement, flyash, aggregates, concrete and concrete masonry product operations.",
+    "Market definition": "The ACCC defined several markets in its assessment of the transaction. These markets included: * An Eastern and Southern Region, Western Australian and Northern Territory market for the supply of cement (including bulk and bagged cement); * An Eastern and Southern Region, Western Australian and Northern Territory market for the supply of flyash; and * Regional markets for the supply of aggregates, concrete and concrete masonry products.",
+    "Competition analysis": "The ACCC decided to oppose Boral Limited's proposed acquisition of Adelaide Brighton Limited on the following grounds: * Adelaide Brighton will be removed from the industry as an independent and predominantly non vertically integrated industry participant and in turn, the number of cement suppliers will be reduced from three to two. Adelaide Brighton in conjunction with its distribution arm Independent Cement and Lime has also proved to be a competitive force in the industry. * There are high barriers to entry in the cement industry to enter at a scale capable of competing effectively with the domestic cement manufacturers. * Imports do not currently, and are not likely to, act as a constraint on the domestic cement producers. Cement users are unable to acquire competitive imports of cement on a long term and sustainable basis. * There are horizontal aggregation competition concerns in flyash, aggregates, concrete and concrete masonry products as well as vertical integration competition concerns.",
+    "Resolution": "Withdrawn",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2631"
+  }
+}

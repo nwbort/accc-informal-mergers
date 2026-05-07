@@ -1,0 +1,72 @@
+{
+  "id": "0124",
+  "title": "Aon - proposed combination with Willis Towers Watson",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aon-proposed-combination-with-willis-towers-watson",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Insurance Brokerage"
+  ],
+  "date_completed": "27 July 2021",
+  "date_completed_iso": "2021-07-27T12:00:00Z",
+  "date_commenced": "2 October 2020",
+  "date_commenced_iso": "2020-10-02T12:00:00Z",
+  "total_review_days": 76,
+  "acquirers": [
+    "Aon plc"
+  ],
+  "targets": [
+    "Willis Towers Watson plc"
+  ],
+  "timeline": [
+    {
+      "date": "2 Oct 2020",
+      "date_iso": "2020-10-02T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Oct 2020",
+      "date_iso": "2020-10-14T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional decision date for announcement of ACCC's findings (17 December 2020) is delayed."
+    },
+    {
+      "date": "16 Oct 2020",
+      "date_iso": "2020-10-16T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "23 Nov 2020",
+      "date_iso": "2020-11-23T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "20 Jan 2021",
+      "date_iso": "2021-01-20T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC amended former provisional date for announcement of findings (11 February 2020) to provide time to consider the new information."
+    },
+    {
+      "date": "18 Feb 2021",
+      "date_iso": "2021-02-18T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "12 Mar 2021",
+      "date_iso": "2021-03-12T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "23 Apr 2021",
+      "date_iso": "2021-04-23T12:00:00Z",
+      "event": "ACCC awaiting further information from the parties. Former provisional date for announcement of findings (27 May 2021) delayed.  ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "27 Jul 2021",
+      "date_iso": "2021-07-27T12:00:00Z",
+      "event": "ACCC discontinued its public review after Aon withdrew its application for informal merger clearance."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aon proposes to combine with Willis Towers Watson. Aon and WTW are professional services firms that provide insurance, reinsurance and employee benefits (retirement benefits, health and welfare and human capital) broking and associated advisory or consulting services. Aon and WTW operate in Australia and globally."
+  }
+}

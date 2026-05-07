@@ -1,0 +1,54 @@
+{
+  "id": "0183",
+  "title": "IPH Limited - proposed acquisition of Xenith IP Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/iph-limited-proposed-acquisition-of-xenith-ip-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "intellectual property services and products"
+  ],
+  "date_completed": "28 March 2019",
+  "date_completed_iso": "2019-03-28T12:00:00Z",
+  "date_commenced": "22 February 2019",
+  "date_commenced_iso": "2019-02-22T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "IPH Limited"
+  ],
+  "targets": [
+    "Xenith IP Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Feb 2019",
+      "date_iso": "2019-02-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Mar 2019",
+      "date_iso": "2019-03-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Mar 2019",
+      "date_iso": "2019-03-26T12:00:00Z",
+      "event": "Former provisional decision date of 2 May 2019 brought forward to 28 March 2019."
+    },
+    {
+      "date": "28 Mar 2019",
+      "date_iso": "2019-03-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "IPH Limited’s (ASX: IPH) proposed acquisition of Xenith IP Group Limited (ASX: XIP) and completed acquisition of a 19.9 per cent stake in Xenith.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition for the supply of intellectual property (IP) services in Australia for: patents, trademarks, designs, and plant breeder’s rights. The ACCC did not reach a concluded view on whether these services are separate markets or a single combined market. The ACCC considered the potential effects of the proposed acquisition on a national basis. IP services are services associated with the registration, protection, commercialisation, enforcement and management of IP rights.",
+    "Competition analysis": "The ACCC concluded that IPH’s proposed acquisition of Xenith would not be likely to substantially lessen competition in any relevant market. Supply of patent services The ACCC found that many corporate customers rely on the expertise and infrastructure of large IP firms, such as those in IPH and Xenith, to handle their work in complex technology areas and manage their volume of patent filings. The ACCC noted that IPH’s proposed acquisition would combine the largest and the second largest providers of patent services in Australia, and that IPH and Xenith have about 40 per cent of total patent filings in Australia. However, the ACCC concluded that a merged IPH and Xenith is likely to continue to face competition from a number of alternative large and medium suppliers, including QANTM and other firms. Supply of trademark services The ACCC found that trademark services requires lesser levels of technical expertise compared with patent services, and therefore there is likely to be a greater range of alternative options, including alternative IP firms and some commercial law firms. The ACCC also considered that barriers to entry and expansion for the supply of trademark services are relatively low, particularly as trademark applications do not need to be filed by a registered trademark attorney. Supply of designs services Similar to trademark services, the ACCC considered that a number of alternative IP firms, and potentially some commercial law firms, can provide designs services, and are likely to continue to provide a competitive constraint on the merged entity. Supply of plant breeder’s rights services The ACCC’s investigation indicated that the majority of filings are made by applicants directly and that there are alternative suppliers of plant breeder’s rights services. Therefore the ACCC did not consider that there are competition concerns in this area."
+  }
+}

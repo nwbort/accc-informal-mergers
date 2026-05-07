@@ -1,0 +1,25 @@
+{
+  "id": "1375",
+  "title": "SGS Australia Pty Ltd - proposed acquisition of Casco Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sgs-australia-pty-ltd-proposed-acquisition-of-casco-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21854",
+  "industries": [
+    "Coal testing"
+  ],
+  "date_completed": "2 August 2005",
+  "date_completed_iso": "2005-08-02T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "SGS Australia Pty Ltd proposed to acquire all of the shares in Casco Australia Pty Ltd and sought informal clearance from the ACCC in relation to the acquisition. SGS and Casco both provide testing, sampling and analytical servcies, and their operations overlap primarily in the area of coal testing.",
+    "Market definition": "The market for coal sampling and testing for exports provided at ports; and the market for coal sampling and testing for non-exports provided at inland laboratories.",
+    "Competition analysis": "In relation to both the market for export related coal testing and the market for non-export related coal testing, the ACCC formed the view that coal companies exert a significant degree of countervailing power over coal testers, barriers to entry are relatively low, and there would remain two other large, established competitors post-acquisition. The ACCC also noted that in the market for non-export related testing, given a sufficient price incentive, many large coal companies have the ability to conduct in-house testing and existing providers of mineral testing services could be in a position to enter the market for coal testing. At the ports where SGS's market share would increase significantly post-acquisition, there would continue to be two major competitors providing testing services. In respect of the other ports, the acquisition would effectively be a transfer of ownership from Casco to SGS. After consideration of the merger factors and extensive market inquiries, the ACCC formed the view that the proposed acquisition is unlikely to result in a substantial lessening of competition and decided that it would not oppose the acquisition.",
+    "Initiation": "Parties"
+  }
+}

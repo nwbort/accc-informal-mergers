@@ -1,0 +1,49 @@
+{
+  "id": "0512",
+  "title": "Hydro Tasmania and China Light and Power - proposed splitting of Roaring 40s wind farm assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hydro-tasmania-and-china-light-and-power-proposed-splitting-of-roaring-40s-wind-farm-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45729",
+  "industries": [
+    "Wind farm (energy)"
+  ],
+  "date_completed": "29 June 2011",
+  "date_completed_iso": "2011-06-29T12:00:00Z",
+  "date_commenced": "11 May 2011",
+  "date_commenced_iso": "2011-05-11T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Hydro Tasmania"
+  ],
+  "targets": [
+    "Roaring 40s"
+  ],
+  "timeline": [
+    {
+      "date": "11 May 2011",
+      "date_iso": "2011-05-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Jun 2011",
+      "date_iso": "2011-06-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jun 2011",
+      "date_iso": "2011-06-23T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 23 June 2011 amended to allow for further information to be provided by Hydro Tasmania."
+    },
+    {
+      "date": "29 Jun 2011",
+      "date_iso": "2011-06-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Hydro Tasmania and China Light and Power proposed to split the wind farm assets of their joint venture, Roaring 40s. Hydro Tasmania proposed to acquire the Tasmanian wind farm assets from the JV.",
+    "Market definition": "While the ACCC did not consider it necessary to form a concluded view in relation to market definition, it considered the likely impact of the proposed acquisition in: - a Tasmanian market for the wholesale supply of electricity - a national market for the supply of Renewable Energy Certificates (RECs)",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to result in a substantial lessening of competition in any relevant market. Key factors informing the ACCC's conclusion were: - the proposed acquisition was unlikely to substantially change the competitive dynamics of the Tasmanian market for the wholesale supply of electricity - there will remain a number of competitors to Hydro Tasmania for the supply of Renewable Energy Certificates in the national market post acquisition."
+  }
+}

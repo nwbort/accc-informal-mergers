@@ -1,0 +1,44 @@
+{
+  "id": "0100",
+  "title": "Opus Group Pty Ltd - Ovato Book Printing (Ovato Limited)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/opus-group-pty-ltd-ovato-book-printing-ovato-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Printing"
+  ],
+  "date_completed": "14 June 2022",
+  "date_completed_iso": "2022-06-14T12:00:00Z",
+  "date_commenced": "25 May 2022",
+  "date_commenced_iso": "2022-05-25T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Opus Group Pty Ltd"
+  ],
+  "targets": [
+    "Ovato Book Printing from Ovato Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 May 2022",
+      "date_iso": "2022-05-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2022",
+      "date_iso": "2022-06-03T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "14 Jun 2022",
+      "date_iso": "2022-06-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Opus Group Pty Ltd ( Opus ) proposes to acquire Ovato Book Printing, which is the book printing business of Ovato Limited ( Ovato ). Ovato's two principal businesses in Australia are Ovato Book Printing and Print Australia, Ovato's commercial printing business. As part of the proposed acquisition, Ovato will also issue a convertible note to Opus, which is convertible at Opus' election into fully paid ordinary shares in Ovato (equivalent to approximately 15% of Ovato's issued share capital). Ovato, post disposal of Ovato Book Printing, would solely consist of Ovato's commercial printing business, Print Australia. Opus, through its book printing division, McPherson's, and Ovato Book Printing overlap in the printing of books that are sold in Australia, including books printed using digital and offset printers. Opus' commercial printing business, CanPrint, overlaps with Ovato's Print Australia business in the provision of certain commercial printing services. Commercial printing includes the printing of brochures, newspapers, labels and financial documents. The ACCC commenced its public review of the proposed acquisition on 25 May 2022. On 14 June 2022, the ACCC decided to not oppose Opus’ proposed acquisition of Ovato.",
+    "Market definition": "Refer to the Public Competition Assessment below.",
+    "Competition analysis": "Refer to the Public Competition Assessment below."
+  }
+}

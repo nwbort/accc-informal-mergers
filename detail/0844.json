@@ -1,0 +1,43 @@
+{
+  "id": "0844",
+  "title": "Seven Network Limited - completed acquisition of West Australian Newspaper Holdings Ltd (WANH) shares",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-network-limited-completed-acquisition-of-west-australian-newspaper-holdings-ltd-wanh-shares",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33323",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "29 October 2008",
+  "date_completed_iso": "2008-10-29T12:00:00Z",
+  "date_commenced": "16 September 2008",
+  "date_commenced_iso": "2008-09-16T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Seven Network Limited"
+  ],
+  "targets": [
+    "West Australian Newspaper Holdings Ltd (WANH)"
+  ],
+  "timeline": [
+    {
+      "date": "16 Sep 2008",
+      "date_iso": "2008-09-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Oct 2008",
+      "date_iso": "2008-10-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Oct 2008",
+      "date_iso": "2008-10-29T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC formed the view that the acquisitions would be unlikely to result in a substantial lessening of competition irrespective of the market definition employed. However, consistent with the principles set out in the ACCC's paper, Media Mergers, published in 2006 (available at http://www.accc.gov.au/content/index.phtml/itemId/758231), the ACCC considered the acquisitions in relation to three product classes: - the supply of advertising opportunities to advertisers; - the supply of content to consumers; and - the acquisition of content from content providers. Within each of these product classes, the ACCC considered the likely impact on competition of the acquisitions both where television and newspapers are in separate product markets and where they are in a common product market. While the issue of the geographic scope of the market was not determinative, the ACCC considered the likely impact of an acquisition on competition in the Perth metropolitan region.",
+    "Competition analysis": "Following the latest acquisition of shares in West Australian Newspapers Holdings Ltd (WAN) by Seven Network Limited (Seven), the ACCC decided to conduct an informal merger review of the transaction. In particular, given the past pattern of small, incremental acquisitions of shares in WAN by Seven, as well as the recent appointment of Kerry Stokes and Peter Gammell to the WAN board, the ACCC decided that it would be appropriate to conduct an assessment of whether either the recent share acquisitions or a hypothetical acquisition of all the shares in WAN by SNL would be likely to breach section 50 of the Trade Practices Act 1974. For the reasons set out below, the ACCC considers that neither the recent share acquisitions nor a hypothetical acquisition by Seven of all the shares in WAN would be likely to result in a substantial lessening of competition in any market. Advertising The ACCC considered that neither the recent share acquisitions nor a hypothetical acquisition by Seven of WAN was likely to raise competition concerns in advertising markets for the following reasons: - If television and newspaper advertising are considered to be in the same market, market inquiries indicated that an attempt by Channel Seven or The West Australian to raise the price of advertising is likely to result in the loss of customers to The Sunday Times, Channel Nine and Channel Ten. This is likely to render a small but significant price rise unprofitable. - If television and newspaper advertising are considered to be in separate markets, an attempt by Channel Seven and The West Australian to bundle advertising anti-competitively is unlikely to be successful since a relatively small proportion of advertisers on Channel Seven also advertise in The West Australian. Further, a significant proportion of Channel Seven's advertisers (particularly those common to Channel Seven and The West Australian) are national advertisers for whom advertising in Perth makes up a small proportion of their overall advertising spend. Such customers are likely to be able to resist being forced to purchase a bundle of advertising since the risk and cost to Seven of losing these customers is substantial given that they also purchase advertising from Seven in other cities. The ACCC also considered that the incentives for Seven to employ an anti-competitive bundling strategy were low since it is unlikely that any bundling strategy could force the exit of either of Channel Nine or Channel Ten from the Perth market. Consumers The ACCC considered that neither the recent share acquisitions nor a hypothetical acquisition by Seven of WAN was likely to raise competition concerns in markets for the supply of content to consumers for the following reasons: - If there is a single market for the supply of Perth news and information through television and newspapers (or a broader market including other modes of delivery), the presence of Channel Nine, Channel Ten, the ABC and The Sunday Times (and radio, internet and other outlets in a broader market) are likely to provide sufficient options for consumers to switch to in the event that Channel Seven and/or The West Australian lowered the quality of the content they supplied. - If there are separate markets for the supply of Perth news and information through television and through newspapers, an acquisition by Seven of WAN will not result in any aggregation in these markets. - Any attempt to cross-promote Channel Seven and The West Australian was unlikely to raise competition concerns due to the ability of other media outlets to promote their own content via other means (in particular, on their own media and through the remaining other media outlets). Content The ACCC considered that neither the recent share acquisitions nor a hypothetical acquisition by Seven of WAN was likely to raise competition concerns in markets for the acquisition of content from content suppliers for the following reasons: - The presence of two other commercial television networks, the ABC, The Sunday Times, a number of radio stations and a number of websites is likely to act as a constraint on any attempt by SNL-WAN to exert power over content suppliers. - It is not likely that Seven would be able to (or would seek to) leverage the position of The West Australian in negotiations for the acquisition of broadcast rights - for example, threatening to withdraw newspaper coverage in order to acquire the rights to broadcast certain sporting events at inefficiently low prices. The ACCC considered that such a strategy would be a high risk one, and that even if successful, there is a low likelihood that Seven's competitive position relative to competing acquirers of content (and suppliers of subsequent advertising opportunities) would be significantly improved."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1674",
+  "title": "Acquirer: Thales International Pacific Holdings Pty Limited; Target: ADI Group Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-thales-international-pacific-holdings-pty-limited-target-adi-group-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15598",
+  "industries": [],
+  "date_completed": "12 March 2002",
+  "date_completed_iso": "2002-03-12T12:00:00Z",
+  "date_commenced": "28 February 2002",
+  "date_commenced_iso": "2002-02-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Thales International Pacific Holdings Pty Limited"
+  ],
+  "targets": [
+    "ADI Group Holdings Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Thales to acquire  the remaining shares in ADI Group Holdings, the major operating company of which is ADI Limited.",
+    "Market definition": "Various defence prime contracting markets.",
+    "Competition analysis": "ADI Holdings is the holding company for a number of ADI subsidiaries.  The main operating company in the group is Australian Defence Industries Limited.  In 1999 the Commission considered and did not oppose the acquisition of ADI by a joint venture comprising Thales (a French owned company then known as Thomson CSF) and Transfield. Thales now wants to increase its stake in ADI Holdings to 100% by acquiring the 50% of shares in ADI Holdings that are currently owned by the Transfield Group of companies. Available information suggests that the Department of Defence (DoD) has significant countervailing power against prime defence contractors including  ADI.  Imports also appear to be a competitive constraint.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "FIRB"
+  }
+}

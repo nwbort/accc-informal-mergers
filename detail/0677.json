@@ -1,0 +1,63 @@
+{
+  "id": "0677",
+  "title": "GUD Holdings Limited - proposed acquisition of Breville Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gud-holdings-limited-proposed-acquisition-of-breville-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38474",
+  "industries": [
+    "Small electrical appliances"
+  ],
+  "date_completed": "16 December 2009",
+  "date_completed_iso": "2009-12-16T12:00:00Z",
+  "date_commenced": "9 October 2009",
+  "date_commenced_iso": "2009-10-09T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "GUD Holdings Limited"
+  ],
+  "targets": [
+    "Breville Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 Oct 2009",
+      "date_iso": "2009-10-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Oct 2009",
+      "date_iso": "2009-10-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Nov 2009",
+      "date_iso": "2009-11-06T12:00:00Z",
+      "event": "ACCC requested further information from GUD."
+    },
+    {
+      "date": "13 Nov 2009",
+      "date_iso": "2009-11-13T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information from GUD."
+    },
+    {
+      "date": "26 Nov 2009",
+      "date_iso": "2009-11-26T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, deferred to allow GUD additional time to provide requested information."
+    },
+    {
+      "date": "1 Dec 2009",
+      "date_iso": "2009-12-01T12:00:00Z",
+      "event": "ACCC received further information from GUD. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 Dec 2009",
+      "date_iso": "2009-12-16T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see attached Public Competition Assessment",
+    "Competition analysis": "Please see attached Public Competition Assessment"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0744",
+  "title": "Woolworths Limited - proposed acquisition of Local Liquor store and licence located in Bargo NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-local-liquor-store-and-licence-located-in-bargo-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37746",
+  "industries": [
+    "Takeaway packaged liquor licence"
+  ],
+  "date_completed": "24 June 2009",
+  "date_completed_iso": "2009-06-24T12:00:00Z",
+  "date_commenced": "3 June 2009",
+  "date_commenced_iso": "2009-06-03T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Local Liquor store and licence located in Bargo NSW"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jun 2009",
+      "date_iso": "2009-06-03T12:00:00Z",
+      "event": "ACCC commenced informal review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Jun 2009",
+      "date_iso": "2009-06-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jun 2009",
+      "date_iso": "2009-06-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed acquisition by Woolworths of a takeaway packaged liquor store and licence located in Bargo, NSW.",
+    "Market definition": "The proposed acquisition was considered in the context of the following two markets: Market 1 The local market for the retail sale of packaged liquor for off-premises consumption, within a geographic region of 16 km surrounding the target. The geographic market is broader than markets defined by the ACCC in some previous retail liquor matters in urban areas. This is due to factors specific to the area surrounding the store to be acquired, including the semi-rural nature of the area and the consequent broader travel patterns of consumers in this area. Market inquiries indicated that this leads to substitution occurring across a broader area. The ACCC notes that had a narrower 3-5km market been adopted, the outcome of this assessment would be unchanged, as Woolworths does not own any liquor stores within a market so defined. Market 2 The NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. In reaching this view the ACCC had particular regard to the following factors: Market 1 After conducting market inquiries and taking local factors into account, the ACCC considered that the merged entity would likely be constrained by other retail liquor outlets within the relevant market, including two Liquorland stores in Picton and a number of independently owned stores. Market 2 After conducting market inquiries, the ACCC considered that the proposed acquisition would not significantly increase the market share or buying power held by Woolworths, nor would it significantly weaken any competing wholesale purchaser by significantly diminishing its buying power."
+  }
+}

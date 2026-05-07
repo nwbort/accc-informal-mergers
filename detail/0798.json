@@ -1,0 +1,44 @@
+{
+  "id": "0798",
+  "title": "SAI Global Limited - proposed acquisition of Espreon Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sai-global-limited-proposed-acquisition-of-espreon-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36274",
+  "industries": [
+    "Property information services"
+  ],
+  "date_completed": "20 February 2009",
+  "date_completed_iso": "2009-02-20T12:00:00Z",
+  "date_commenced": "14 January 2009",
+  "date_commenced_iso": "2009-01-14T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "SAI Global Limited"
+  ],
+  "targets": [
+    "Espreon Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jan 2009",
+      "date_iso": "2009-01-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Jan 2009",
+      "date_iso": "2009-01-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Feb 2009",
+      "date_iso": "2009-02-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "SAI Global Limited proposes to acquire all the issued shares in Espreon Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the following markets: - the national market for the provision of online information brokerage services to other brokers or end user customers - regional markets for property and manual search services which require physical attendance by the service provider.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the national market for online information brokerage services. In reaching this view the ACCC noted that a number of large and small competitors would continue to compete against SAI post merger, there is an ongoing threat of entry and, in particular, large customers have a sufficient degree of countervailing power to resist any attempt by the merged entity to significantly increase prices or decrease service levels. The ACCC also found that the proposed acquisition was unlikely to result in a substantial lessening of competition in any market for property or manual searches because the proposed acquisition would not result in a significant change in market concentration given Espreon's limited presence in this market, and the merged firm would continue to be constrained by existing competitors post merger."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1023",
+  "title": "Geraldton Fishermen's Co-operative Ltd - proposed acquisition of Westar Lobster Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/geraldton-fishermens-co-operative-ltd-proposed-acquisition-of-westar-lobster-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29311",
+  "industries": [
+    "Fishery"
+  ],
+  "date_completed": "17 October 2007",
+  "date_completed_iso": "2007-10-17T12:00:00Z",
+  "date_commenced": "10 September 2007",
+  "date_commenced_iso": "2007-09-10T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Geraldton Fishermen's Co-Operative Ltd"
+  ],
+  "targets": [
+    "Westar Lobster Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Sep 2007",
+      "date_iso": "2007-09-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. ACCC market inquiries commenced."
+    },
+    {
+      "date": "24 Sep 2007",
+      "date_iso": "2007-09-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Oct 2007",
+      "date_iso": "2007-10-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Geraldton Fishermen's Co-operative Ltd proposed to acquire various Lobster processing assets of Westar Lobster Pty Ltd",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the Western Australian market for the acquisition of western rock lobsters from fishermen, and the market for the domestic supply of rock lobsters, and at its narrowest, western rock lobsters.",
+    "Competition analysis": "On 17 October 2007, the ACCC decided to not intervene in the proposed acquisition. The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets due to the ability of fishermen to switch to alternative lobster processors in WA and the relatively low barriers to entry and expansion into lobster processing."
+  }
+}

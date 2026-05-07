@@ -1,0 +1,44 @@
+{
+  "id": "0811",
+  "title": "AGL Energy Limited - acquisition of certain coal seam gas assets from AJ Lucas Group Ltd and Molopo Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-acquisition-of-certain-coal-seam-gas-assets-from-aj-lucas-group-ltd-and-molopo-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35914",
+  "industries": [
+    "Coal Seam gas"
+  ],
+  "date_completed": "22 January 2009",
+  "date_completed_iso": "2009-01-22T12:00:00Z",
+  "date_commenced": "22 December 2008",
+  "date_commenced_iso": "2008-12-22T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "Lucas Energy Pty Limited & Molopo Gloucester"
+  ],
+  "timeline": [
+    {
+      "date": "22 Dec 2008",
+      "date_iso": "2008-12-22T12:00:00Z",
+      "event": "AGL advised the ACCC that it had acquired Gloucester Basin coal seam gas assets from AJ Lucas Group Ltd and Molopo Australia Ltd. The ACCC commenced review of the completed acquisition."
+    },
+    {
+      "date": "16 Jan 2009",
+      "date_iso": "2009-01-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jan 2009",
+      "date_iso": "2009-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 22 December, AGL Energy Ltd advised the ACCC that it has acquired Gloucester Basin coal seam gas assets from AJ Lucas Group Ltd and Molopo Australia Ltd. The ACCC conducted a post-merger review of this acquisition.",
+    "Market definition": "The ACCC considered the acquisition in terms of the markets for the exploration, production, wholesale supply and retail supply of gas In New South Wales and on the eastern seaboard of Australia.  However, the ACCC did not consider market definition to be determinative in conducting the competition analysis for this matter.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Relevant factors considered by the ACCC included the level of horizontal aggregation and the number of competitors remaining in the relevant markets post-acquisition."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0613",
+  "title": "Woolworths Limited - proposed acquisition of liquor licence in Belmont WA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-in-belmont-wa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42534",
+  "industries": [
+    "Liquor licence"
+  ],
+  "date_completed": "15 July 2010",
+  "date_completed_iso": "2010-07-15T12:00:00Z",
+  "date_commenced": "23 June 2010",
+  "date_commenced_iso": "2010-06-23T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor licence in Belmont WA"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jun 2010",
+      "date_iso": "2010-06-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Jul 2010",
+      "date_iso": "2010-07-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Jul 2010",
+      "date_iso": "2010-07-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposes to acquire a takeaway packaged liquor licence located in Belmont, WA.  The licence is currently owned by Bellmore Enterprises as trustee for the Bocca Family Trust and trades under the banner group \"Cellarbrations\".",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - a local market for the retail sale of packaged liquor for off-premises consumption within a 3-5km radius of the target liquor outlet; and - a Western Australian market for the wholesale supply of packaged liquor for subsequent sale in retail markets for off-premises consumption.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. The ACCC concluded that the merged entity will be constrained by a significant number of competing retail liquor outlets in Belmont and surrounding areas. In relation to the wholesale market, the ACCC considered that the increase in the volume of Woolworths Limited's liquor purchases was unlikely to be significant, and accordingly, unlikely to lead to a substantial lessening of competition."
+  }
+}

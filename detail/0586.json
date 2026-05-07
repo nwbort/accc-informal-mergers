@@ -1,0 +1,44 @@
+{
+  "id": "0586",
+  "title": "William Demant Holdings A/S - proposed acquisition of Otix Global Inc (formerly Sonic Innovations Inc)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/william-demant-holdings-as-proposed-acquisition-of-otix-global-inc-formerly-sonic-innovations-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43505",
+  "industries": [
+    "Hearing aids"
+  ],
+  "date_completed": "19 October 2010",
+  "date_completed_iso": "2010-10-19T12:00:00Z",
+  "date_commenced": "22 September 2010",
+  "date_commenced_iso": "2010-09-22T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "William Demant Holdings A/S"
+  ],
+  "targets": [
+    "Otix Global Inc (Sonic Innovations Inc)"
+  ],
+  "timeline": [
+    {
+      "date": "22 Sep 2010",
+      "date_iso": "2010-09-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Oct 2010",
+      "date_iso": "2010-10-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Oct 2010",
+      "date_iso": "2010-10-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "William Demant Holdings A/S proposes to acquire Otix Global Inc (formerly Sonic Innovations Inc). The proposed acquisition includes the sale of all shares and businesses conducted by Otix Global. Both parties supply hearing aid products in wholesale and retail markets.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: - a national market for the wholesale supply of hearing aid products; and - local markets for the retail supply of hearing aid products.",
+    "Competition analysis": "The proposed acquisition would result in the horizontal aggregation of hearing aid suppliers in both wholesale and retail markets. The ACCC considered whether the proposed acquisition would impact upon the ability of the merged entity to increase prices or reduce service quality, technology and/or innovation in the relevant markets. The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - in the national wholesale market, the merged entity would continue to be constrained through the presence of a number of substantial providers notwithstanding high barriers to entry as a result of significant research & development into hearing aid technology undertaken by existing global manufacturer/suppliers; and - in local retail markets, the merged entity would continue to be competitively constrained through the presence of other providers of hearing aid products and the potential entry/expansion as a result of low barriers to entry."
+  }
+}

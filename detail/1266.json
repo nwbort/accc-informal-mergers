@@ -1,0 +1,26 @@
+{
+  "id": "1266",
+  "title": "Woolworths Ltd - proposed acquisition of Lavina Cellars' liquor licence in Lavington NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-proposed-acquisition-of-lavina-cellars-liquor-licence-in-lavington-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23798",
+  "industries": [
+    "Liquor retailing"
+  ],
+  "date_completed": "26 June 2006",
+  "date_completed_iso": "2006-06-26T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Woolworths Limited - proposed acquisition of Lavina Cellars in Lavington New South Wales (comprising a takeaway packaged liquor business and a liquor licence).",
+    "Market definition": "The two relevant markets were considered to be the retail market for takeaway packaged liquor in Lavington and surrounding areas and the wholesale market for the supply of liquor.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition is unlikely to result in a substantial lessening of competition in any relevant market. The merged entity would be likely to continue to be constrained by numerous competitors in the retail market for takeaway packaged liquor in Lavington and surrounding areas. In relation to the wholesale market, the increase in the volume of Woolworths Limited's liquor purchases is unlikely to be significant enough to lead to a substantial lessening of competition in this market.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

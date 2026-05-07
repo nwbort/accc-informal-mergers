@@ -1,0 +1,44 @@
+{
+  "id": "0792",
+  "title": "Metro Trains Melbourne - proposed acquisition of Melbourne Train Franchise",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metro-trains-melbourne-proposed-acquisition-of-melbourne-train-franchise",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36492",
+  "industries": [
+    "Public Transport"
+  ],
+  "date_completed": "3 March 2009",
+  "date_completed_iso": "2009-03-03T12:00:00Z",
+  "date_commenced": "5 February 2009",
+  "date_commenced_iso": "2009-02-05T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Metro Trains Melbourne"
+  ],
+  "targets": [
+    "Melbourne Train Franchise"
+  ],
+  "timeline": [
+    {
+      "date": "5 Feb 2009",
+      "date_iso": "2009-02-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Feb 2009",
+      "date_iso": "2009-02-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Mar 2009",
+      "date_iso": "2009-03-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Metro Trains Melbourne (MTM) proposes to acquire the Melbourne metropolitan train franchise currently being offered by the Victorian Government. MTM is a consortium of MTR Corporation, UGL Rail and John Holland. UGL Rail has interests in the manufacture and supply of rolling stock.",
+    "Market definition": "Without reaching a concluded view, the ACCC considered that the market for public transport services in regions of metropolitan Melbourne, and a national market for the supply of rolling stock, were relevant to this matter.",
+    "Competition analysis": "The ACCC considered that the acquisition of the Melbourne metropolitan train franchise by a single operator was unlikely to substantially lessen competition, but noted that competition concerns may arise if one entity held interests in multiple franchises (e.g., train and tram). The ACCC also considered that the chosen franchisee would not have an ability to foreclose competition for the supply of rolling stock because the Victorian Government would retain responsibility for such procurement decisions under the franchise arrangements."
+  }
+}

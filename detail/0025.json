@@ -1,0 +1,54 @@
+{
+  "id": "0025",
+  "title": "IAG Limited - RACQ Insurance Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/iag-limited-racq-insurance-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "22 May 2025",
+  "date_completed_iso": "2025-05-22T12:00:00Z",
+  "date_commenced": "31 January 2025",
+  "date_commenced_iso": "2025-01-31T12:00:00Z",
+  "total_review_days": 79,
+  "acquirers": [
+    "Insurance Australia Group Limited"
+  ],
+  "targets": [
+    "RACQ Insurance Limited"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jan 2025",
+      "date_iso": "2025-01-31T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2025",
+      "date_iso": "2025-02-14T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "7 Apr 2025",
+      "date_iso": "2025-04-07T12:00:00Z",
+      "event": "ACCC is seeking further information from the merger parties. Former provisional date for announcement of ACCC's findings (24 April 2025) is delayed."
+    },
+    {
+      "date": "24 Apr 2025",
+      "date_iso": "2025-04-24T12:00:00Z",
+      "event": "ACCC received further information from IAG and RACQ. Timeline recommenced."
+    },
+    {
+      "date": "22 May 2025",
+      "date_iso": "2025-05-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Insurance Australia Group Limited ( IAG ) proposes to acquire 90% of the shares in RACQ Insurance Limited ( RACQI ) from The Royal Automobile Club of Queensland Limited ( RACQ ), with an option to acquire the additional 10% after two years. The proposed acquisition does not include RACQ’s membership-based business, which includes its roadside assistance business. IAG is a general insurance company operating in Australia and New Zealand. IAG provides a range of personal and commercial insurance products under various brands, including NRMA Insurance, Swann Insurance, ROLLiN’, Cylo, and Lumley Special Vehicles. IAG also underwrites insurance products and distributes them through agreements with third party brands, including Bendigo and Adelaide Bank, People’s Choice Bank, ANZ, and Coles (transitioning to Auto & General by October 2025). RACQ is a Queensland based member-owned organisation that provides roadside assistance, insurance, banking, and member/community services. RACQ issues general insurance products to customers through its wholly-owned subsidiary RACQI. RACQI also underwrites insurance products and distributes them through agreements with third party brands, including Honey Insurance (which provides insurance products to Aldi Insurance, Bank Australia, and Bank of Queensland) and Royal Automobile Club WA (pet insurance only). The parties overlap in the manufacture and supply of general insurance, including home and contents insurance and motor insurance.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on: the supply of home and contents insurance in Queensland and Australia the supply of motor insurance in Queensland and Australia the acquisition of repair services (smash repair services, windscreen repair and replacement services, and home repair services) in Queensland and Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of each market.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any market. In relation to the supply of home and contents and motor insurance, the ACCC found that post acquisition there would remain a number of both established and mid-tier insurance suppliers who would provide effective competition to the merged firm. The ACCC also found that RACQI is not a particularly vigorous competitor in terms of price or product offerings. The ACCC also considered how challenges such as the growth in extreme weather events and rising reinsurance and regulatory costs affected RACQI. The ACCC found that these factors, combined with RACQ’s limited access to capital as a mutual organisation, are likely to limit RACQ’s ability to compete in the future. In relation to the acquisition of repair services, the ACCC found that the proposed acquisition is unlikely to substantially lessen competition in these markets as IAG is unlikely to have the ability to diminish prices or supply terms after the acquisition due to its position in the market relative to other insurers and acquirers of these services."
+  }
+}

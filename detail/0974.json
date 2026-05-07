@@ -1,0 +1,49 @@
+{
+  "id": "0974",
+  "title": "Pitney Bowes MapInfo Australia Ltd - acquisition of Encom Holdings Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pitney-bowes-mapinfo-australia-ltd-acquisition-of-encom-holdings-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30055",
+  "industries": [
+    "Geographical Information Systems"
+  ],
+  "date_completed": "23 January 2008",
+  "date_completed_iso": "2008-01-23T12:00:00Z",
+  "date_commenced": "17 December 2007",
+  "date_commenced_iso": "2007-12-17T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Pitney Bowes MapInfo Australia Ltd"
+  ],
+  "targets": [
+    "Encom Holdings Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Dec 2007",
+      "date_iso": "2007-12-14T12:00:00Z",
+      "event": "Pitney Bowes MapInfo Australia Ltd completed the acquisition of Encom Holdings Pty Ltd."
+    },
+    {
+      "date": "17 Dec 2007",
+      "date_iso": "2007-12-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jan 2008",
+      "date_iso": "2008-01-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jan 2008",
+      "date_iso": "2008-01-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pitney Bowes Inc has acquired Encom Holdings Pty Ltd. Each of these businesses is involved in the development and sale of Geopgraphical Information Systems (GIS).",
+    "Market definition": "The ACCC considered two relevant markets: - a national market for the sale of large scale GIS software to the natural resources sector and - a national market for the sale of medium scale GIS software to the natural resources sector.",
+    "Competition analysis": "On 23 January 2008,  the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching this view, the ACCC considered that the merged entity would continue to be constrained by the presence of large alternative suppliers of GIS software to the natural resources sector."
+  }
+}

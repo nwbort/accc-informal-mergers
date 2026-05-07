@@ -1,0 +1,49 @@
+{
+  "id": "0256",
+  "title": "JB Hi-Fi - proposed acquisition of The Good Guys Discount Warehouses (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jb-hi-fi-proposed-acquisition-of-the-good-guys-discount-warehouses-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60019",
+  "industries": [
+    "Domestic appliance & electrical goods retailing"
+  ],
+  "date_completed": "11 August 2016",
+  "date_completed_iso": "2016-08-11T12:00:00Z",
+  "date_commenced": "9 June 2016",
+  "date_commenced_iso": "2016-06-09T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "JB Hi- Fi Limited"
+  ],
+  "targets": [
+    "The Good Guys Discount Warehouses (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "9 Jun 2016",
+      "date_iso": "2016-06-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "30 Jun 2016",
+      "date_iso": "2016-06-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jul 2016",
+      "date_iso": "2016-07-27T12:00:00Z",
+      "event": "Parties requested more time to provide further information. The former proposed date for announcement of findings (4 August) is delayed."
+    },
+    {
+      "date": "11 Aug 2016",
+      "date_iso": "2016-08-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JB Hi-Fi is proposing to acquire the Good Guys Discount Warehouses (Australia) Pty Ltd and The Muir Finance Company Pty Ltd, trading as the Good Guys (the Good Guys). JB Hi-Fi and the Good Guys are both national retailers of consumer electronics and home appliances. JB Hi-Fi and the Good Guys each operate a network of bricks and mortar stores, as well as online stores.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition in the context of separate national markets for the retail supply of: - televisions - audio equipment and accessories - computers - large home appliances. The ACCC's inquiries indicated that the largest product overlap between JB Hi-Fi and the Good Guys is in the supply of televisions, audio equipment and accessories, and computers, which is why the ACCC looked more closely at these particular product categories. There is currently minimal market overlap between the merger parties for the supply of large home appliances. However, this was identified as a possible area of concern due to the potential future competition between JB Hi-Fi Home and the Good Guys for the supply of large home appliances.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market. The ACCC considered that the proposed acquisition would be unlikely to cause a substantial lessening of competition in the retail supply of televisions, audio goods and equipment, computers and large home appliances due to the competitive constraint by Harvey Norman, existing smaller state-based and specialist retailers such as Betta, Retravision, Bing Lee and Radio Rentals, and to a limited extent, online retailers. For lower value and smaller items, the ACCC considered that consumers have a range of alternatives, including online suppliers and discount department stores. In relation to the potential loss of future competition between JB Hi-Fi Home and the Good Guys for the supply of large home appliances, the ACCC concluded that any loss of competition would be unlikely to be significant since the merged entity would continue to be competitively constrained by the remaining suppliers. The ACCC also investigated concerns relating to the potential increase in buyer power as a result of the acquisition, and concluded that the proposed acquisition is unlikely to increase the buyer power of the merged entity such that there is a substantial lessening of competition. Suppliers of consumer electronics and home appliances to retailers are generally large, multinational corporations with a considerable degree of negotiating power. These suppliers would continue to have a number of alternatives to the merged entity for retailing their goods across Australia. The ACCC also considered whether a potential \"department store effect\" is a feature of the retail offer of the merger parties (potentially indicating that only retailers that offer a large range of product categories are in the market). Based on available information the ACCC concluded that consumers are unlikely to make frequent, large purchases across different product categories during a visit to a retailer. When consumers purchase multiple goods in a single transaction, these goods are generally from a single product category."
+  }
+}

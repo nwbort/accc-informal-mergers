@@ -1,0 +1,32 @@
+{
+  "id": "1517",
+  "title": "Acquirer: MiTek Australia Limited; Target: Pryda Reid Group of Austrim Nylex Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mitek-australia-limited-target-pryda-reid-group-of-austrim-nylex-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18216",
+  "industries": [],
+  "date_completed": "12 November 2003",
+  "date_completed_iso": "2003-11-12T12:00:00Z",
+  "date_commenced": "11 August 2003",
+  "date_commenced_iso": "2003-08-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "MiTek Australia Limited"
+  ],
+  "targets": [
+    "Pryda Reid Group of Austrim Nylex Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Austrim Nylex Limited is proposing to sell its Pryda and Reid group of businesses (\"Pryda Reid\").  MiTek Australia Limited (\"MiTek\") advised the Commission on 11 August 2003 of its interest in acquiring Pryda Reid.",
+    "Market definition": "The Commission considered the relevant market for the purposes of considering this transaction was the national market for the development and supply of computer aided design software, connector plates and ancillary design and engineering support services used in the manufacture of pre-fabricated timber frames and trusses.  This was based on the range of products and services and the relevant area of close competition between the proposed merger parties, the bundled nature of products and services supplied, customer preferences and switching costs and the perceptions of a range of market participants.  Broader market definitions were suggested by MiTek, encompassing either conventional stick building, steel fabrication and the use of steel fabrication software or other software-supported products. The Commission's market inquiries, however, did not indicate that these other products acted as sufficiently close competitive constraints in relation to the manufacture of prefabricated timber frames and trusses so as to be considered within the same market.",
+    "Competition analysis": "On 12 November 2003 the Commission determined that the proposed acquisition of Pryda Reid by MiTek would have the effect, or be likely to have the effect, of substantially lessening competition in the market for the following reasons: - The merged entity will virtually dominate the market with 85-90% market share; - Barriers to entry are considered to be high and it is unlikely that a viable new entrant could emerge; - There is an absence of viable substitutes; - There are no readily available imports; - There is an absence of countervailing power by the fabricators; and - The acquisition would remove a vigorous and effective competitor from the market. Accordingly, the Commission decided it would oppose the proposed merger.",
+    "Resolution": "Withdrawn",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2323"
+  }
+}

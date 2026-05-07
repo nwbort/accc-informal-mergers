@@ -1,0 +1,73 @@
+{
+  "id": "0590",
+  "title": "Scandinavian Tobacco Group A/S - proposed acquisition of Swedish Match AB",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/scandinavian-tobacco-group-as-proposed-acquisition-of-swedish-match-ab",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42410",
+  "industries": [
+    "Tobacco"
+  ],
+  "date_completed": "30 September 2010",
+  "date_completed_iso": "2010-09-30T12:00:00Z",
+  "date_commenced": "24 June 2010",
+  "date_commenced_iso": "2010-06-24T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Scandinavian Tobacco Group A/S"
+  ],
+  "targets": [
+    "Swedish Match AB"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jun 2010",
+      "date_iso": "2010-06-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "15 Jul 2010",
+      "date_iso": "2010-07-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jul 2010",
+      "date_iso": "2010-07-23T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "3 Aug 2010",
+      "date_iso": "2010-08-03T12:00:00Z",
+      "event": "Former proposed date of 26 August 2010 for announcement of ACCC's findings amended to allow for provision of further information by the merger parties. ACCC timeline remains suspended."
+    },
+    {
+      "date": "31 Aug 2010",
+      "date_iso": "2010-08-31T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by the parties. ACCC commenced market inquiries. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Sep 2010",
+      "date_iso": "2010-09-10T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "30 Sep 2010",
+      "date_iso": "2010-09-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "30 Sep 2010",
+      "date_iso": "2010-09-30T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    },
+    {
+      "date": "9 May 2012",
+      "date_iso": "2012-05-09T12:00:00Z",
+      "event": "ACCC consented to withdrawal of 87B undertaking on the basis that the sale of the divestiture business had been completed and any obligations to procure the transfer, grant, or provision of licences, permits, approvals, third party consents and transitional services necessary for the operation of the divestiture business had been fulfilled."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Scandinavian Tobacco Group A/S and Swedish Match AB proposed to merge their global cigar, pipe tobacco and accessories businesses.",
+    "Undertakings": "On 29 September 2010, the Australian Competition and Consumer Commission (ACCC) accepted an undertaking (the Undertaking) from Skandinavisk Holding A/S and Swedish Match A/B in relation to Scandinavian Tobacco Group A/S's proposed acquisition of Swedish Match A/B (the Proposed Acquisition).\nThe ACCC considered that in the absence of the Undertaking, the Proposed Acquisition would have had the effect or have been likely to have the effect of substantially lessening competition in relation to the market for the wholesale supply of cigars in Australia.\n\nThe aim of the Undertaking was to address these competition concerns by:\n(a) the creation of a viable, effective, stand-alone independent and long term competitor for the retail supply of those products that form part of the divestiture business;\n(b) ensuring that the approved purchaser of the divestiture business by the ACCC (Approved Purchaser) had the necessary assets, rights and obligations to compete effectively with the Parties. On 18 March 2011, the ACCC consented to a variation to the s87B Undertaking given by Scandinavian Tobacco Group A/S and Swedish Match AB (together the Undertaking Signatories) on 29 September 2010.\n\nThe purpose of the variation was to reduce the audit reporting frequency from monthly to three monthly.\n\nOn 9 May 2012 the ACCC consented to the withdrawal of the s87B Undertaking on the basis that the sale of the divestiture business had been completed and any obligations to procure the transfer, grant, or provision of licences, permits, approvals, third party consents and transitional services necessary for the operation of the divestiture business had been fulfilled."
+  }
+}

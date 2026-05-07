@@ -1,0 +1,26 @@
+{
+  "id": "1311",
+  "title": "SingTel Optus Pty Limited - proposed acquisition of the remaining shares of Virgin Mobile",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/singtel-optus-pty-limited-proposed-acquisition-of-the-remaining-shares-of-virgin-mobile",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22639",
+  "industries": [
+    "Mobile telecommunications"
+  ],
+  "date_completed": "7 February 2006",
+  "date_completed_iso": "2006-02-07T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "SingTel Optus Pty Limited - proposed acquisition of the shares it did not already own in Virgin Mobile",
+    "Market definition": "The national market for retail mobile services including services provided on 2G, 2.5G and 3G networks and SMS services, but not including fixed-line services.",
+    "Competition analysis": "The ACCC decided that the proposed acquisition would be unlikely to result in a substantial lessening of competition in the relevant market as it would only result in a small accretion of market share to SingTel Optus.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

@@ -1,0 +1,1208 @@
+ 
+Public Competition Assessment 
+17 March 2011 
+AGL Energy Limited and Origin Energy Limited – proposed 
+acquisitions of assets being sold as part of the New South Wales Energy 
+Privatisation 
+Introduction 
+1. 
+On 9 December 2010, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose a number of proposed acquisitions 
+by AGL Energy Limited (AGL) and Origin Energy Limited (Origin) of assets 
+being sold as part of the New South Wales Energy Privatisation. The ACCC was 
+of the view that the proposed acquisitions would be unlikely to have the effect of 
+substantially lessening competition in any relevant markets and would therefore 
+be unlikely to contravene section 50 of the Trade Practices Act 1974, now known 
+as the Competition and Consumer Act 2010 (the Act). 
+2. 
+The ACCC formed its view on the basis of the information provided by the 
+proposed merger parties, information arising from its market inquiries and the 
+existing knowledge of the ACCC and Australian Energy Regulator (AER). This 
+Public Competition Assessment outlines the basis on which the ACCC has 
+reached its decision on the proposed acquisitions, subject to confidentiality 
+considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisitions were not opposed by the ACCC but raised important issues that the 
+ACCC considers should be made public.   
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets and 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+2 
+                                                
+the associated merger and competition issues. It also alerts the public to 
+circumstances where developments in particular markets have led, or are likely to 
+lead, to changes in the ACCC’s assessment of competition conditions in those 
+markets.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own merits.  
+7. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition at the time the decision was made. As 
+such Public Competition Assessments may not definitively identify and explain 
+all issues that the ACCC considers arise from a proposed acquisition. Further, the 
+ACCC’s decisions generally involve consideration of both non-confidential and 
+confidential information provided by the merger parties and market participants. 
+In order to maintain the confidentiality of particular information, Public 
+Competition Assessments do not contain any confidential information or its 
+sources. 
+New South Wales Energy Privatisation 
+8. 
+On 10 September 2009 the New South Wales government announced an Energy 
+Reform Transaction Strategy (Energy Reform Strategy). Key features of this 
+strategy included: 1  
+ The sale of the retail operations of EnergyAustralia, Integral Energy and 
+Country Energy. 
+ The sale of generation trading contracts (gentrader contracts) for the output 
+of the State’s generators.  
+ The sale of future power station development sites. 
+ State-owned electricity transmission and distribution networks to remain in 
+public ownership and the New South Wales independent pricing regulator to 
+continue to set regulated retail prices until at least 2013. 
+ The preparation by the New South Wales Government of a potential share 
+market listing of an entity that combines the retailing operations of Integral 
+Energy, the generation trading contract for Eraring Energy and the 
+development site at Bamarang on the New South Wales South Coast (the 
+potential IPO assets) – this aspect of the strategy was dependent on the 
+outcomes of the privatisation processes for the gentrader contracts and retail 
+businesses. 
+9. 
+The Energy Reform Strategy underwent some modifications between the first 
+announcement of the strategy and the time of the ACCC’s merger reviews.2 
+ 
+1 This is not a complete list of all aspects of the government’s energy reform strategy.  
+See – Joe Tripodi MP, Media Release, 10 September 2009. 
+2 Refer to http://www.nsw.gov.au/energy. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+3 
+                                                
+However, the government progressed its plans to privatise the following assets 
+(the sale assets): 
+Gentrader contracts: 
+ Delta Western: 2400 megawatts (MW) (Mount Piper and Wallerawang)3 
+ Delta Coastal: 2644MW (Vales Point, Munmorah and Colongra)4 
+ Eraring: 2972MW (Eraring and Shoalhaven Scheme)5 
+ Macquarie: 4844MW (Bayswater, Liddell and Hunter Valley Gas)6 
+ 
+10. 
+These contracts grant the purchaser the right to trade the capacity of the relevant 
+generator in the National Electricity Market (NEM). The Government proposed 
+to retain ownership of the generators themselves. 
+11. 
+The gentrader contracts provide the owner (a gentrader) with control over all 
+decisions regarding the dispatch of the relevant generator into the NEM. Broadly 
+this means that the gentrader will be responsible for decisions regarding the 
+quantities and the prices at which the generator is to be bid into the NEM and will 
+receive the revenue from dispatch into the NEM. The gentrader will also be 
+responsible for decisions regarding financial derivatives (hedge contracts) backed 
+by the relevant generator. 
+Retail businesses:7
+12. 
+The New South Wales Government offered the following retail businesses for 
+sale (the NSW Government retail businesses): 
+ Country Energy:  
+more than 850,000 electricity and gas retail customers, 
+predominantly in New South Wales and mostly electricity customers. 
+ Integral Energy:  
+more than 850,000 gas and electricity retail customers in 
+New South Wales and Queensland. 
+ EnergyAustralia:  
+more than 1.3 million gas and electricity retail customers 
+in New South Wales. 
+13. 
+The Government offered bidders the opportunity to purchase the gas and 
+electricity customer bases of the above retailers as separate businesses or to 
+purchase the retailers in their entirety. 
+Development sites: 
+14. 
+The Government proposed to sell seven sites which have been identified for the 
+development of generating capacity. Table 1 outlines the sites and the status of 
+the requisite planning approvals, current at the time that the ACCC made its 
+decision. 
+ 
+3 This figure is approximate. 
+4 This figure is approximate. 
+5 AER, State of the Energy Market 2010. 
+6 Ibid. 
+7 The customer numbers are approximate. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+4 
+Table 1 Generation development sites 
+Site 
+Size (MW)  
+Fuel 
+Status 
+Delta Electricity 
+Bamarang 
+300-450 
+Gas 
+Full Development Approval 
+Marulan 
+300-450 
+Gas 
+Full Development Approval 
+Munmorah 
+700 
+Gas/Coal 
+Planning process underway 
+Mt Piper Extension 
+2000 
+Gas/Coal 
+Planning process underway 
+Macquarie Generation 
+Bayswater B 
+2000 
+Gas/Coal 
+Planning process underway 
+Tomago 
+500-790 
+Gas 
+Planning process underway 
+EnergyAustralia 
+Marulan 
+350 
+Gas 
+Director-General’s requirements issued 
+The parties 
+Origin Energy Limited 
+15. 
+Origin is an ASX-listed Australian integrated energy company with operations 
+including: 
+Electricity retailing 
+ Origin supplies electricity to approximately 1.8 million customers in Victoria, 
+South Australia, Queensland and NSW.  
+Electricity generation  
+ Queensland  
+o Bulwer Island 32MW 
+o Darling Downs (630MW) 
+o Mt Stuart (414MW)  
+o Roma (74MW) 
+ New South Wales  
+o Uranquinty (640MW)  
+o Cullerin Range (30MW – wind) 
+ Victoria  
+o Mortlake (550MW – scheduled for completion in 2011) 
+ South Australia  
+o Ladbroke Grove (80MW) 
+o Osborne (180MW) 
+o Quarantine (216MW). 
+ Origin has a portfolio of wind development options of more than 3,400 MW 
+in various locations. 
+Gas retailing  
+ Origin supplies natural gas to approximately 845,000 customers located in 
+Victoria, South Australia, and Queensland. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+5 
+Gas production 
+ Origin owns and operates gas production assets including onshore and 
+offshore exploration permits and onshore processing facilities. Its production 
+interests are in the Cooper, Surat, Otway, Perth and Carnarvon basins.  
+AGL Energy Limited 
+16. 
+AGL is an ASX-listed Australian integrated energy company with operations 
+including: 
+Electricity retailing 
+ AGL supplies electricity to approximately 2.1 million customers in Victoria, 
+South Australia, Queensland and NSW.  
+Electricity generation 
+ Victoria  
+o Loy Yang A power station (2,200MW) of which AGL owns a 32.5 per 
+cent equity share;  
+o Somerton power station (150MW)  
+o A group of hydro electric power stations totalling 748.5 MW generating 
+capacity  
+o A number of wind farm projects totalling 487 MW capacity of which 
+67 MW is under construction. 
+ South Australia  
+o Torrens Island power station (1,280MW)  
+o Angaston power station (49 MW) 
+o A number of wind farm projects totalling 441 MW capacity of which 
+184.5 MW is under construction. 
+ New South Wales – generation development sites: 
+o Leaf’s Gully (potentially 300 MW) 
+o Dalton (potentially 1500 MW) 
+ Queensland 
+o Oakey power station 282 MW 
+o Yabulu power station 121 MW 
+Gas retailing  
+ AGL supplies natural gas to approximately 1.6 million customers located in 
+Victoria, South Australia, New South Wales and Queensland.  
+Gas production 
+ AGL has a number of investments and operations in gas exploration and 
+development and production tenements, as well as for exploration and 
+development of geothermal renewal energy sources. 
+ 
+17. 
+AGL also owns 50% of ActewAGL, a utilities business operating in the 
+Australian Capital Territory (ACT) and surrounds.  
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+6 
+The asset combinations 
+18. 
+In this matter, the nature of the sales process was such that bidders were able to 
+lodge a number of bids comprising different asset combinations.  Both Origin and 
+AGL approached the ACCC prior to the selection of successful bids by the NSW 
+Government to obtain the ACCC’s views on a number of proposed bids. These 
+included various combinations of the electricity and/or gas retail businesses that 
+were offered for sale by the NSW Government.  
+19. 
+The ACCC considered the following proposed acquisitions by Origin and AGL.  
+Origin: 
+Retail businesses – 
+ EnergyAustralia, or  
+ Country Energy, or  
+ Integral Energy, or  
+ both Country Energy and Integral Energy 
+together with one of the following gentrader contracts – 
+ Eraring; or 
+ Delta Coastal; or 
+ Delta Western; 
+together with one generation development site. 
+ 
+AGL: 
+Retail businesses – 
+ Country Energy, or  
+ Integral Energy; 
+together with one of the following gentrader contracts – 
+ Eraring; or 
+ Delta Coastal; or 
+ Delta Western; 
+together with one or more generation development sites. 
+ 
+20. 
+On 14 December 2010, the New South Wales government announced the 
+outcomes of the privatisation process, as follows: 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+7 
+                                                
+ Origin Energy was the successful bidder for the combination of Country 
+Energy, Integral Energy and the Eraring gentrader contract; and  
+ TRUenergy was the successful bidder for the combination of EnergyAustralia, 
+the Delta West gentrader contract and the Mt Piper Extension and two 
+Marulan development sites.8 
+Industry background 
+Electricity 
+ 
+21. 
+The New South Wales generators and retailers participate in the NEM. The NEM 
+is a wholesale spot market through which generators and retailers trade electricity 
+in eastern and southern Australia.9  
+22. 
+There are five regions of the NEM – NSW, Queensland, Victoria, Tasmania and 
+South Australia.  These regions are physically linked by an interconnected 
+transmission network.  
+23. 
+There are approximately 200 large electricity generators operating in the NEM. 
+The electricity produced by generators is commonly characterised in terms of its 
+power (usually measured in units of megawatts) and energy (usually measured in 
+megawatt hours or gigawatt hours).10   
+24. 
+The electricity generation capacity in New South Wales is approximately 
+17,329 MW. Of this capacity approximately 90 per cent is attributed to the state-
+owned generators and Snowy Hydro, of which the New South Wales Government 
+owns 58 per cent.  
+25. 
+The main customers in the NEM are energy retailers who package wholesale 
+electricity with network connection services for sale to residential, commercial 
+and industrial energy users.11 The retail supply of electricity in New South Wales 
+is fully contestable, meaning that all customers are permitted to enter a supply 
+contract with a retailer of their choice.  
+ 
+8 On the basis of the information obtained in relation to this matter, the ACCC considered that the 
+proposed acquisition of these assets by TRUenergy did not raise sufficient competition issues to 
+pursue a public merger review. 
+9 As discussed in this Public Competition Assessment, the ACCC considers that for the purposes of 
+competition analysis, there is a separate wholesale electricity market in New South Wales. The 
+ACCC uses the terminology of ‘the NEM’ as a descriptor term only. 
+10 For example, a 100-watt light globe uses 100 watts of electricity. One megawatt is equal to one million 
+watts. One megawatt hour is the energy required to power ten thousand 100-watt light globes for one 
+hour. One gigawatt hour is equal to 1000 megawatt hours. 
+11 Australian Energy Regulator, State of the Energy Market 2010. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+8 
+                                                
+26. 
+Retail prices (‘tariffs’) are regulated by state-based regulators.12 In New South 
+Wales, the Independent Pricing and Regulatory Tribunal (IPART) determines 
+regulated tariffs which apply to small retail customers who are supplied by 
+standard retail suppliers (Country Energy, Integral Energy and EnergyAustralia) 
+on standard contracts.13 Customers may choose to be supplied according to a 
+standard contract, which comprises regulated tariffs, or they can opt for a market 
+based contract which comprises an unregulated tariff offered by a retailer, usually 
+at a level below the standard tariff. The total number of customers on standard 
+contracts is approximately 25 per cent of New South Wales electricity demand.  
+27. 
+Electricity produced by generators is transported on a transmission system. In 
+New South Wales, the electricity transmission assets are owned by TransGrid and 
+Ausgrid, which are both New South Wales Government entities. The AER 
+regulates the transmission revenue of these businesses according to the National 
+Electricity Rules (NER).  
+28. 
+Distribution networks carry electricity from points on the transmission networks 
+and deliver it at lower voltages to consumers through electricity connections at 
+residential and commercial locations. In New South Wales the three electricity 
+distributors are Ausgrid, Endeavour Energy and Essential Energy, which are all 
+owned by the New South Wales Government. Similar to the process for regulated 
+transmission revenue, the AER makes revenue determinations for the three New 
+South Wales distributors.  The electricity distribution businesses of Energy 
+Australia, Integral Energy and Country Energy are not part of the New South 
+Wales energy privatisation process. 
+Risk management in the NEM  
+ 
+29. 
+Wholesale spot electricity prices are volatile over time, but retailers generally 
+offer electricity prices that are fixed over a period of time to their customers. 
+Therefore, retailers face the risk that the costs of purchasing wholesale electricity 
+from the volatile spot market will exceed the revenues they earn from their 
+customers. 
+30. 
+Retailers manage this risk by entering into financial derivative contracts that 
+provide a form of insurance against the possibility that they will pay more for the 
+electricity than the revenue they receive from customers. These contracts are 
+commonly known as hedge contracts. In most cases the counterparties to hedge 
+contracts are a retailer and a generator. 
+31. 
+In its simplest form, a hedge contract nominates a ‘strike price’ and the 
+counterparties will pay one another according to the difference between actual 
+spot prices and the strike price. For example, if a generator sells a simple swap 
+contract to a retailer at a certain price per MW (which in this case is the strike 
+price), it is effectively ‘committed’ to offer the contracted quantity into the NEM 
+ 
+12 Retail prices are not regulated in Victoria. Gas prices are not regulated in the ACT. 
+13 Each area in NSW has a nominated Standard Retail Supplier. These are required to make supply 
+available on the tariffs and charges set by a determination of IPART. Standard Retail Suppliers and new 
+entrant retailers may also offer customers competitive or negotiated contracts. These contracts are not 
+regulated by IPART and the prices charged under them are negotiated between the retailer and the 
+customer. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+9 
+at the contracted price. If actual spot prices are higher than the strike price, the 
+generator must pay the retailer the difference between the spot price and strike 
+price. If spot prices are lower than the strike price, the retailer will pay the 
+difference to the generator. 
+32. 
+Increasingly, generators and retailers are managing their risk by vertically 
+integrating. The more that a party is vertically integrated, the less likely it will 
+participate in trading hedge contracts to manage its risk. Therefore, the extent of 
+vertical integration may have implications for the availability of hedge contracts 
+for parties who still want to manage risk via financial contracts. 
+Queensland retail market 
+33. 
+In 2006-07 the Queensland Government privatised its electricity retailers, with 
+the exception of Ergon Energy, which supplies the majority of customers in rural 
+and regional areas. Other retailers can make offers to supply Ergon’s customers, 
+however Ergon cannot compete for other customers.  
+Gas 
+34. 
+Gas producers sell natural gas both for domestic markets and for export as 
+liquefied natural gas. 
+35. 
+High pressure transmission pipelines transport natural gas from production fields 
+over long distances to domestic demand centres. A network of distribution 
+pipelines then delivers gas at lower pressure from points along the transmission 
+pipelines to industrial customers and to consumers in cities, towns and regional 
+areas. 
+36. 
+Energy retailers buy wholesale gas and package it with transportation services to 
+sell to customers. 
+37. 
+In New South Wales, there is a wholesale Short Term Trading Market (STTM) 
+for gas, which operates in conjunction with longer term gas supply and 
+transportation contracts between gas producers, transmission pipeline owners and 
+buyers of wholesale gas.  
+38. 
+The STTM is a market-based gas balancing system which has been established at 
+the Sydney and Adelaide gas hubs. It is designed to ensure that gas that is 
+produced and injected into a pipeline system remains balanced with gas 
+withdrawn for delivery to customers. The STTM sets a daily clearing price at 
+each hub, based on bids by gas shippers to deliver gas. The market operator is the 
+Australian Energy Market Operator (AEMO). AEMO settles, at the clearing 
+price, the difference between each participant’s daily deliveries and withdrawals 
+of gas.  
+39. 
+Gas retail prices are regulated in New South Wales by IPART. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+10 
+ACCC review timeline 
+40. 
+The timeline of key events in this matter is as follows: 
+Table 2 ACCC review timeline 
+Date 
+Event 
+3 September 2010 
+ACCC commenced review under the Merger Review Process Guidelines. 
+13 September 2010 
+Closing date for submissions from interested parties. 
+18 October 2010 
+ACCC requested further information from the NSW Government regarding the 
+privatisation assets. ACCC timeline suspended. 
+5 November 2010 
+ACCC received further information from the NSW Government. ACCC timeline 
+recommenced. 
+24 November 2010 
+The NSW Government advised that it is conducting further analysis of bids for the 
+privatisation of electricity assets. The ACCC therefore deferred its decision and 
+restarted the timeline when further information was received from the 
+Government. 
+3 December 2010 
+ACCC received further information from the NSW Government. ACCC timeline 
+recommenced. 
+9 December 2010 
+ACCC announced it would not oppose the proposed acquisition. 
+Market inquiries 
+41. 
+The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, potential competitors, customers, industry bodies, 
+financial intermediaries and other interested parties. Submissions were sought in 
+relation to the substantive competition issues. 
+Market definition 
+42. 
+The ACCC considered the proposed acquisitions in the context of markets for: 
+ the wholesale supply of electricity in New South Wales; 
+ the retail supply of electricity in New South Wales;  
+ the retail supply of electricity in Queensland; and 
+ the retail supply of gas in New South Wales. 
+ 
+Wholesale supply of electricity 
+Product dimension 
+43. 
+In defining the relevant markets for the purposes of examining the proposed 
+acquisitions, the ACCC considered whether the supply of wholesale electricity 
+and the supply of hedging contracts and electricity derivatives should be 
+considered as separate markets, or both part of a combined market. 
+44. 
+Generators (including gentraders that assume the electricity trading functions 
+carried out by generators) primarily earn revenues by selling physical electricity 
+into the NEM and also via hedge contracts they enter into with electricity retailers 
+and other counterparties. However, electricity retailers can only acquire physical 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+11 
+                                                
+electricity from the NEM. The hedge contracts that they enter into with 
+generators (and other counter-parties) are not contracts for the supply of physical 
+electricity – as noted above they are types of risk management instruments. 
+45. 
+In Australian Gas Light Company v Australian Competition & Consumer 
+Commission (No.3) [2003] FCA 1525 (Loy Yang), French J found that, for the 
+purposes of that matter14: 
+“…derivative contracts ought to be regarded as an integral part of the pricing 
+and payment arrangements between generators and retailers in relation to the 
+underlying product, which is electrical energy, and which they deal with ‘as if’ 
+it had been sold from supplier to retailer.” 
+46. 
+However, in this matter the ACCC considered that while hedge contracts and 
+physical electricity are both related to the supply of electricity, they are not 
+demand side or supply side substitutes. Retailers automatically pay for all 
+electricity consumed by their customers through the NEM at the spot price.   
+Hedge contracts are used to manage risk associated with the volatility of the spot 
+price.  Retailers are not able to substitute the hedge contracts that they hold for 
+physical electricity, nor is a hedge contract a means of paying for the acquisition 
+of physical electricity. 
+47. 
+Accordingly, the ACCC took the view that the supply of hedge contracts should 
+not be considered to be in the same market as the wholesale electricity market in 
+NSW. For the purposes of assessing the competitive effects of the proposed 
+acquisitions, the ACCC took account of hedging contracts as an essential input to 
+participation in the relevant markets. In this regard, the ACCC’s analysis 
+proceeded on the basis that hedge contracts are primarily traded by generators 
+and retailers within a region of the NEM.  
+Geographic dimension 
+48. 
+In the NEM, a spot price in each region is calculated based on the bid of the most 
+expensive generator required (‘dispatched’) to meet regional demand. The spot 
+price may vary from region to region because of two aspects of the transmission 
+network. First, losses are incurred from where electricity is produced to where it 
+is to be consumed. These losses can lead to different prices in adjoining NEM 
+regions. Second, constraints can be encountered when electricity is transported 
+across the network. These constraints, particularly when they influence the 
+operation of interconnectors into a region, can lead to electricity prices for that 
+region being set independently from the other regions. 
+49. 
+The ACCC noted that, particularly during periods of high demand for electricity 
+in New South Wales, there is often a substantial reduction in the interconnectivity 
+with Victoria and Queensland, which limits the ability of generators outside of 
+New South Wales to compete with New South Wales generators.  
+50. 
+The ACCC considered the proposed transaction on the basis that the geographic 
+scope of the relevant market was the New South Wales region plus the Victorian 
+and Queensland interconnectors. This recognises that although generators outside 
+ 
+14 At paragraph 382. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+12 
+of New South Wales do compete, their ability to do so is limited by the capacity 
+of the interconnectors. 
+51. 
+Having found that the transaction was unlikely to result in a substantial lessening 
+of competition on the basis of a New South Wales geographic market, it was 
+unnecessary to consider the possibility that the geographic scope of the market 
+might be broader. 
+Markets for retail supply of electricity and gas 
+Product dimension 
+52. 
+The New South Wales government retail businesses, along with AGL and Origin, 
+purchase wholesale electricity and/or gas and package it for sale to customers, 
+including large industrial customers, small-medium business customers and 
+households. Retailers are responsible for billing customers according to their 
+energy consumption. Retailers compete to win customers by offering discounts 
+below the regulated tariff and/or through non-price offers such as vouchers or 
+gifts and through customer service. 
+53. 
+The ACCC found that there is limited demand-side substitution between 
+electricity and gas at the retail level, particularly for residential customers. For the 
+most part, gas and electricity are adopted by customers for different end-uses.  
+54. 
+On the supply side, the ACCC found that there was a degree of commonality 
+between gas and electricity retailing.  Most energy retailers supply both gas and 
+electricity, and provide customer services and billing services for both types of 
+fuel.  However, it is necessary for retailers to have separate arrangements in 
+electricity and gas wholesale markets before they can supply each respective 
+product at the retail level.  Accordingly, it was found that a retailer of either 
+electricity or gas cannot switch its operations quickly and without significant 
+investment to retailing the other form of energy. 
+55. 
+On balance, the ACCC considered it was appropriate to assess the proposed 
+acquisitions in the context of separate markets for the retail supply of electricity 
+and the retail supply of gas. However, in analysing the competitive implications 
+of the proposed acquisitions, the ACCC took into account that both gas and 
+electricity retailers may have particular capacity and incentives to enter areas of 
+energy retailing in which they do not have an existing presence.   
+Geographic dimension 
+56. 
+There is effectively no scope for demand-side substitution on a geographic level 
+for the retail supply of electricity, or the retail supply of gas. It is self-evident that 
+a customer’s supply of energy is physically limited to the location of their 
+connection to the distribution network. As such, a customer cannot substitute 
+supply of electricity or gas to this connection for a connection at another location.  
+57. 
+On the supply-side, the ACCC observed that most electricity and gas retailers 
+operate across several regions. Market inquiries indicated that new entrant 
+retailers often outsource customer service and marketing resources to specialist 
+companies who are located within the region in question. This appears to have 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+13 
+assisted retailers to establish retail electricity and/or gas services in various 
+regions of the NEM. As such, deploying some of the physical inputs for retailing 
+does not necessarily require a retailer to be based in a particular State. 
+58. 
+However, it is necessary for a retailer to also secure a number of inputs specific to 
+a region that cannot be so easily or quickly obtained. 
+59. 
+In relation to electricity retailing, a retailer would need to acquire a retail licence 
+and negotiate the procurement of wholesale electricity and hedge contracts with 
+generators located within that region for risk management. There are similar 
+requirements in gas retailing, where in addition to the procurement of a retail 
+licence and wholesale gas, a retailer must negotiate access to transmission 
+pipelines which transport gas from wholesale gas basins to locations in New 
+South Wales. Therefore, a retailer of gas or electricity in one region cannot 
+switch its operations quickly and without significant investment to supply another 
+region.     
+60. 
+In light of the above factors, the ACCC considered that state-based retail markets 
+were appropriate for assessing the proposed acquisitions, but noted that there are 
+several aspects of retailing which can take place on a broader geographic level 
+which might assist a retailer in one region expanding into other regions. 
+With/without test 
+61. 
+In assessing a merger or acquisition pursuant to section 50 of the Act, the ACCC 
+must consider the effects of the transaction by comparing the likely competitive 
+environment if the transaction proceeds (the “with” position) to the likely 
+competitive environment if the transaction does not proceed (the “without” or 
+“counterfactual” position).  
+Retail electricity and gas markets 
+ 
+62. 
+In the context of an ongoing bidding process, the ACCC’s approach to 
+identifying the relevant counterfactual in respect of each of the sale assets was to 
+identify bids with some likelihood of success, and to assess the competitive 
+effects of each of the proposed acquisitions against other such bids. In this regard, 
+the ACCC’s inquiries indicated that such alternative bids to each of the proposed 
+acquisitions would involve the acquisition of each of the three retail businesses 
+by separate entities that were existing market participants in the New South 
+Wales electricity and gas retail markets. 
+63. 
+The ACCC found that while the adoption of different alternative bids as the 
+relevant counterfactual might impact to some extent on the level of market 
+concentration in the relevant markets, ultimately this would not have a material 
+impact on the outcome of the competitive analysis.  Accordingly, the ACCC did 
+not need to form a final view on any particular alternative bid as the likely 
+counterfactual in this matter.  
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+14 
+                                                
+Wholesale electricity market 
+64. 
+With regard to the proposed acquisition of gentraders and/or development sites 
+by Origin and AGL (in various combinations), the ACCC identified that the 
+likely counterfactual would be the sale of the gentraders and/or development sites 
+to other parties. These parties might include existing participants in the wholesale 
+electricity market in New South Wales or new entrants in this market. The ACCC 
+found that the adoption of different alternative bids as the relevant counterfactual 
+might impact to some extent on the level of market concentration in the relevant 
+markets. However, the ACCC found that ultimately this would not impact on the 
+outcome of the competitive analysis.  Accordingly, the ACCC did not need to 
+form a final view on any particular alternative bid for the gentrader contracts 
+and/or development sites in question as the likely counterfactual in this matter.  
+Vertical integration 
+65. 
+Origin and AGL proposed to acquire various combinations of gentrader contracts 
+and electricity retail businesses. These proposed acquisitions would result in 
+varying degrees of vertical integration in the relevant markets. The ACCC found 
+that the likely counterfactual for these proposed acquisitions would involve 
+alternative bids that would also result in varying degrees of vertical integration. 
+Similar to the ACCC’s approach in relation to the retail and wholesale markets, 
+the ACCC found that the adoption of different alternative bids as the relevant 
+counterfactual might impact to some extent on the level of vertical integration in 
+the relevant markets, but ultimately this would not impact on the outcome of the 
+competitive analysis.  Accordingly, the ACCC did not need to form a final view 
+on any particular alternative bid as the likely counterfactual in assessing the 
+competitive implications of vertical integration arising from the proposed 
+acquisitions. 
+Competition analysis 
+Retail markets for the supply of electricity and gas in New South Wales 
+ 
+66. 
+The ACCC considered whether the proposed acquisitions by Origin and AGL 
+would be likely to result in a reduction of price-based competition beneath the 
+regulated retail tariffs or a reduction in service quality in relation to each of the 
+retail energy markets in New South Wales. Key factors that were taken into 
+account were market concentration arising from the proposed acquisitions, the 
+nature of existing competition in the relevant markets, and barriers to entry and 
+expansion. 
+Market concentration 
+67. 
+In New South Wales there are 26 electricity retail licence holders, of which 12 
+currently supply small retail customers. There are currently 17 gas retail licence 
+holders in New South Wales, though only 7 are active.15  
+ 
+15 Source: Review of regulated retail tariffs and charges for electricity 2010-2013, IPART, March 2010. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+15 
+68. 
+Since the introduction of full retail competition, EnergyAustralia, Integral Energy 
+and Country Energy have gradually lost market share to new entrants in the New 
+South Wales retail market. Nonetheless, these retailers continue to supply 
+electricity to approximately 80 per cent of customers in New South Wales.  In the 
+gas retail market, AGL is the incumbent as well as largest retailer in New South 
+Wales, with over 75 per cent of customers. Broad estimates of market shares are 
+shown in Table 3.16 
+Table 3 New South Wales retail market shares – electricity and gas 
+Retailer 
+Electricity  
+(%) 
+Gas  
+(%) 
+EnergyAustralia 
+30-40 
+10-20 
+Country Energy 
+20-30 
+0-5 
+Integral Energy 
+20-25 
+<1 
+AGL 
+10-15 
+~75 
+Origin 
+5-10 
+1-5 
+TRUenergy 
+0-5 
+1-5 
+Others 
+0-5 
+<5 
+Source: ACCC estimates based on various sources. 
+69. 
+The acquisition by AGL or Origin of Country Energy or Integral Energy would 
+increase concentration in the retail markets for electricity and gas in New South 
+Wales, albeit to a lesser extent in the gas market.  
+70. 
+As noted above, the likely counterfactual adopted for the purpose of assessing the 
+proposed acquisitions was that each of the New South Wales Government retail 
+businesses would be sold to another participant in the New South Wales retail 
+market if not AGL or Origin. Therefore, the level of market concentration 
+resulting from each of the proposed acquisitions would be a matter of degree.  
+71. 
+It was noted in particular that a proposed acquisition by Origin of both Integral 
+Energy and Country Energy would provide Origin with a post-merger market 
+share in the range of 45% - 65% in the New South Wales retail electricity market, 
+and would likely result in a significant increase in market concentration in that 
+market.  A proposed acquisition by AGL of either Integral Energy or Country 
+Energy would provide AGL with a post-merger market share between a range of 
+30% - 45% in that market. 
+72. 
+The ACCC considered that the proposed acquisitions of the gas retail businesses 
+would not result in a significant increase in the level of market concentration in 
+the New South Wales retail gas market.  In particular, it was noted that although 
+AGL is the largest retail supplier of gas in New South Wales, Country Energy 
+and Integral Energy had a minimal presence in that market. AGL did not propose 
+to bid for Energy Australia, the other significant competitor in that market.  On 
+this basis, the ACCC considered that the proposed acquisitions would not be 
+likely to substantially lessen competition in the market for the retail supply of gas 
+in New South Wales. Therefore, this market has not been addressed further in this 
+competition analysis. 
+                                                 
+16 The ACCC had more precise market share data that was provided to it on a confidential basis. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+16 
+                                                
+Existing competitors and barriers to entry  
+73. 
+In conducting its assessment, the ACCC considered the likely level of 
+competitive tension from potential new entrants as well as existing competition in 
+the market. 
+74. 
+With regard to new entry, the ACCC found that the key requirements for entering 
+a retail electricity market are the purchase of wholesale electricity and hedge 
+contract cover, a retail licence, marketing, and customer service and billing 
+capabilities. New and existing retailers must also satisfy AEMO’s prudential 
+requirements. This typically involves a retailer lodging a payment that acts as a 
+guarantee of its ability to meet future financial obligations including wholesale 
+market purchases and use of network costs.17  
+75. 
+In analysing barriers to entry in relation to the New South Wales and Queensland 
+retail electricity markets, the ACCC had regard to examples of new entry in 
+regions within the NEM since full retail competition started, including a number 
+of cases where new entrants had grown to around 10-11 per cent market share in 
+approximately three years.  
+76. 
+However, market inquiries indicated that there may be barriers to retailers 
+expanding to market shares that were significantly greater than these levels. Some 
+market participants noted that to expand beyond this size, it may be necessary to 
+vertically integrate with generation in order to secure a stable supply of wholesale 
+energy and hedge cover. Market participants also stated that, except for 
+‘marginal’ customers who are receptive to the idea of switching retailers, there is 
+still a reasonable amount of customer inertia within retail markets which can 
+suppress retailers’ abilities to build higher market shares. 
+77. 
+Despite these issues, however, the ACCC found that smaller retailers have often 
+exerted competitive constraint upon large electricity retailers by offering 
+discounts below the regulated retail tariffs. The offers of discounts by new 
+entrants have either resulted in the new entrants winning market share from their 
+larger competitors or causing them to match the new entrants’ offers to defend 
+their market shares, resulting in lower prices for customers. The ACCC 
+considered that there were no impediments to this competitive process continuing 
+in New South Wales in the future provided there are sufficient margins available 
+between the costs of retailing and regulated tariffs. 
+78. 
+Accordingly, the ACCC found that new entry was likely to impose some ongoing 
+competitive constraint on either AGL and/or Origin in relation to any of the 
+proposed acquisitions. 
+79. 
+In addition, the ACCC found that a number of competitors of a significant size 
+and likely to provide ongoing competition would remain in the relevant markets, 
+irrespective of which proposed acquisition proceeded.  The ACCC obtained data 
+ 
+17 Market inquiries revealed that in some cases, prudential obligations were triggered if the retailer did 
+not have a particular credit rating and that this could favour incumbent retailers who had established a 
+track record of income from their retail customers. The ACCC noted that some of these requirements 
+were the subject of regulatory reviews designed to ensure that they did not deter new entry.  
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+17 
+which indicated that customer switching occurred between a range of retailers 
+including the government-owned businesses, Origin, AGL and a number of other 
+retailers who had entered the market since full retail contestability commenced.    
+Summary 
+80. 
+The ACCC concluded that the respective proposed acquisitions by AGL or 
+Origin of Integral Energy or Country Energy were not likely to substantially 
+lessen competition in the market for the retail supply of electricity in New South 
+Wales due to likely continued competition from existing competitors, and a 
+degree of potential competition from new entry. The ACCC did not consider that 
+the competitive analysis would be significantly altered if Origin and AGL were to 
+acquire either or both the gas and/or electricity parts of the NSW Government’s 
+retailers.  
+81. 
+With regard to Origin’s proposed acquisition of both Country Energy and Integral 
+Energy, the ACCC noted that this proposed acquisition would result in the 
+aggregation of two of the three largest electricity retailers in New South Wales 
+when compared with any of the likely counterfactuals where the three largest 
+electricity retailers would remain separately owned. 
+82. 
+However, the ACCC also took into account the fact that if that proposed 
+acquisition proceeded, EnergyAustralia would be acquired by a third party (other 
+than AGL which did not bid for Energy Australia). The ACCC found that AGL is 
+a strong competitor in New South Wales, largely due to its retail gas incumbency 
+and expanding electricity customer base. The ACCC considered it was likely that 
+AGL would continue to leverage its large gas customer base and well-known 
+brand to expand its presence in electricity retailing in New South Wales. It was 
+found that this would be likely to impose a strong competitive constraint on 
+Origin and the acquirer of EnergyAustralia.  
+83. 
+The ACCC took the view that new entry, together with continued competition 
+from existing players, would be likely to preserve competitive tension in the retail 
+markets. Origin would face competition in electricity retailing from the separate 
+acquirer of EnergyAustralia, smaller players, as well as AGL.  
+84. 
+The ACCC therefore concluded that the acquisition of Integral Energy and 
+Country Energy by Origin was unlikely to substantially lessen competition in the 
+market for the retail supply of electricity in New South Wales. 
+Retail market for the supply of electricity in Queensland – proposed acquisitions 
+of Integral Energy 
+85. 
+In Queensland, Origin and AGL are two of the three incumbent retailers in the 
+region following privatisation approximately four years ago. Origin currently 
+supplies electricity to more than half of the customers in south-eastern 
+Queensland. The third incumbent, Ergon Energy, only supplies to regional non-
+contestable customers.  
+86. 
+Integral Energy entered the Queensland electricity market when full retail 
+competition was introduced in that state. Over a period of approximately 3-4 
+years, Integral Energy has obtained a market share of approximately 10 per cent. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+18 
+At the time of the ACCC’s review, it was the third largest electricity retailer in 
+the contestable segment of the Queensland electricity market. 
+87. 
+The ACCC noted that the acquisition of Integral Energy by Origin would 
+significantly increase the level of concentration in the retail market for the supply 
+of electricity in Queensland. The combined entity would have over 60 per cent 
+market share. The proposed acquisition of Integral Energy by AGL would result 
+in AGL having approximately 40 per cent market share. 
+88. 
+Although Integral Energy’s market share grew quickly, the ACCC’s market 
+inquiries indicated that other retailers were similarly competitive in the 
+Queensland market.  
+89. 
+For instance, while Integral Energy had actively promoted itself as an alternative 
+supplier by offering electricity price discounts, these were not traits that were 
+unique to Integral Energy. The ACCC also had regard to information which 
+indicated that, over a period of time, incumbent retailers in Queensland had been 
+promoting discounts and making counter offers to customers in response to the 
+offers of several competitors. These include smaller competitors such as Lumo, 
+Click Energy and Australian Power and Gas as well as larger retailers such as 
+TRUenergy. The ACCC considered that this indicated that in addition to Integral 
+Energy, smaller retailers were capable of competitively constraining the 
+incumbents and this resulted in lower prices for customers. 
+90. 
+Market inquiries revealed that barriers to entry and expansion in the Queensland 
+retail electricity market were similar to other parts of the NEM, as outlined 
+above.  
+91. 
+Therefore, the ACCC considered that given a sufficient price incentive, new 
+retailers would be likely to enter the Queensland retail market in a timely manner 
+and be capable of competitively constraining the merged entity.   In particular, 
+the ACCC considered that new entry and expansion up to the level achieved by 
+Integral Energy could be replicated in the future.  
+92. 
+The ACCC therefore concluded that while the proposed acquisition of Integral 
+Energy by Origin or AGL would result in either party obtaining a significant 
+market share, such acquisitions would not be likely to substantially lessen 
+competition in the market for the retail supply of electricity in Queensland.  
+Wholesale supply of electricity in New South Wales  
+93. 
+The acquisition of a gentrader contract provides the acquirer with the ability to 
+trade the electricity produced by the relevant generator and the ability to sell 
+associated hedge contracts. Therefore, the ACCC’s analysis of the proposed 
+acquisitions is based on the assumption that the gentrader is effectively standing 
+in the place of the relevant generator.  
+94. 
+The ACCC considered whether the proposed acquisition by either Origin or AGL 
+of one of the gentrader contracts, and a generation development site or sites as 
+relevant, would be likely to result in a substantial lessening of competition in the 
+market for the wholesale supply of electricity in New South Wales due to: 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+19 
+                                                
+ The aggregation of control of generation capacity with gentrader 
+contracts; and 
+ The aggregation of control of generation development sites with 
+gentrader contracts and/or existing generation assets. 
+Generation capacity 
+95. 
+Origin has existing generation capacity in New South Wales with the Uranquinty 
+gas-fired generator. AGL does not currently own any generation assets in New 
+South Wales but does have potential generating capacity if its Dalton and Leaf’s 
+Gully generation development sites are developed.18  
+96. 
+The ACCC therefore considered whether the aggregation of any of these assets 
+with the Eraring, Delta West or Delta Coastal gentrader contracts would result in 
+a substantial lessening of competition in the wholesale electricity market in New 
+South Wales.  In particular, the ACCC considered whether the combination of 
+either Origin or AGL’s existing or potential generation capacity with any one of 
+the gentrader contracts was likely to enable the acquirer to increase the wholesale 
+(spot) market price in New South Wales to a significant and sustainable extent.  
+97. 
+In this regard, it is relevant to set out in some detail the mechanism by which 
+wholesale spot market prices are set in each region, and how individual 
+generators can influence price. 
+98. 
+Generators offer their output for sale in the wholesale (spot) market by ‘bidding’ 
+portions of their capacity into price categories known as price bands. Generators 
+are dispatched on an economic basis subject to the capacity of the transmission 
+network. 
+99. 
+The maximum bid that a generator can submit is $12,500/MWh. Subject to 
+certain regulatory rules, a generator is able to re-bid its capacity by shifting 
+capacity from one price band to another. Different circumstances in the relevant 
+regional wholesale market will create different incentives for how a generator 
+might re-bid its capacity.  
+100. The main way that generators can increase spot prices is to economically 
+withhold output to create an artificial shortage of supply. This is done by 
+withdrawing some of their generating capacity from lower price bands and 
+submitting it into higher price bands. A strategy to withdraw capacity will usually 
+occur at times of high demand, particularly when a generator must be dispatched 
+to meet total market demand in a particular region. At such times, a generator 
+would be in a position to materially influence prices in the relevant spot market. 
+101. A generator will only be successful in this strategy if it is not subject to 
+competitive pressure from other generators. If there is competitive pressure in the 
+market, the generator faces the risk that the output it has withdrawn and bid at a 
+high price will be replaced by the output of other generators at lower prices and 
+as a result the spot price does not materially increase.  
+ 
+18 The ACCC considered this possibility although the timeframes for the development of these sites by 
+AGL was uncertain. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+20 
+102. The ACCC noted that if any of the proposed acquisitions were to proceed post-
+acquisition, there would continue to be several competing generators in the 
+market as shown in Table 4.  
+Table 4 New South Wales electricity generation market shares 
+Generator 
+MW 
+% 
+Macquarie 
+4690 
+27.1 
+Eraring 
+3178 
+18.3 
+Delta Coastal 
+2644 
+15.3 
+Delta West 
+2400 
+13.8 
+Snowy Hydro  
+1950 
+11.3 
+Origin (Uranquinty) 
+640 
+3.7 
+QLD to NSW interconnector 
+550 
+3.2 
+Vic to NSW interconnector 
+500 
+2.9 
+TRUenergy  
+422 
+2.4 
+Alinta (Redbank) 
+145 
+0.8 
+Marubeni (Smithfield) 
+160 
+0.9 
+Other 
+50 
+0.3 
+TOTAL*
+17,329 
+100.0 
+Origin + Eraring 
+3818 
+22.0 
+Origin + Delta Coastal 
+3284 
+19.0 
+Origin + Delta West 
+3040 
+17.5 
+Source: AEMO and AER. Summer capacity ratings. These figures are approximate. 
+* Does not include AGL’s development sites 
+^At the time of the ACCC’s assessment, AGL had not commenced developing the Leaf’s Gully or 
+Dalton sites. 
+103. The ACCC’s investigation also revealed that the acquisition by Origin of one of 
+the gentrader contracts would be unlikely to substantially increase the periods of 
+time in which Origin’s generation output would be required to meet total demand 
+in New South Wales. Macquarie Generation will continue to be the largest 
+generator in the region and therefore more likely to be in a position to be required 
+to meet demand and materially influence the spot price than the other generators 
+or gentraders.  
+104. AGL currently owns two generation development sites in New South Wales – 
+Dalton (potentially 1500 MW) and Leaf’s Gully (potentially 300 MW). The 
+ACCC considered that even if this development was taken into account, if AGL 
+were to acquire any one of the gentrader contracts, it would not be likely to be in 
+a position to materially influence prices in the New South Wales wholesale 
+electricity market. 
+105. The ACCC also noted that approximately 1400 MW of new generation capacity 
+is proposed for development in New South Wales by parties other than AGL and 
+Origin. 
+106. In light of these factors, the ACCC found that the acquisition of Eraring, Delta 
+West or Delta Coastal by Origin or AGL would be unlikely to have a material 
+effect on wholesale electricity prices in New South Wales.  
+107. The ACCC therefore concluded that the aggregation of generation capacity 
+arising from the proposed acquisitions by AGL or Origin of one of the gentrader 
+contracts would not be likely to substantially lessen competition in the market for 
+the wholesale supply of electricity in New South Wales. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+21 
+Generation development sites 
+108. The ACCC considered the proposed acquisition by Origin of one generation 
+development site and the proposed acquisition of more than one development site 
+by AGL. As outlined above, Origin has existing generating capacity in New 
+South Wales with the Uranquinty generator, while AGL owns a number of other 
+development sites. 
+109. As the development sites could eventually be developed to supply electricity and 
+associated hedge contracts, the ACCC considered whether the aggregation of 
+these sites with gentrader contracts and/or existing generation assets (in the case 
+of Origin) would result in a substantial lessening of competition in the New South 
+Wales wholesale electricity market.  
+110. The ACCC noted that there were a number of potential combinations of 
+generation capacity, gentrader and development site interests that Origin or AGL 
+could acquire as a result of the proposed acquisitions.  The ACCC conducted its 
+assessment by examining the likely competitive impact of the proposed 
+acquisitions that would result in the highest level of aggregation of generation 
+interests by either Origin or AGL, on the basis that if it was found that these 
+proposed acquisitions would not be likely to result in a substantial lessening of 
+competition, none of the proposed acquisitions were likely to do so. 
+111. In particular the ACCC examined proposed acquisitions whereby: 
+ AGL would acquire the largest gentrader contract (Eraring) and combine this 
+with two development sites in addition to its existing development sites, 
+although the ACCC was aware it was possible that not all of these 
+development sites would be progressed; or 
+ Origin would acquire the Eraring gentrader contract and combine this with 
+Uranquinty and one of the largest development sites – Mt Piper Extension. 
+112. The ACCC considered that in relation to either of these proposed acquisitions 
+there would be several competing generators in the relevant market post-
+acquisition, including those shown in Table 4. The ACCC also noted that some of 
+the seven development sites offered by the New South Wales government would 
+be acquired by other parties and potentially developed into generating capacity in 
+competition with Origin and AGL.  
+113. In addition, the ACCC’s market inquiries revealed there are a number of new 
+generation projects that are being developed in New South Wales by private 
+sector generators. It is possible that further generation capacity would be 
+developed in the foreseeable future. 
+114. Therefore, the ACCC considered that post-acquisition, several generators and/or 
+gentraders would continue to compete and would be likely to constrain Origin or 
+AGL from exercising market power by economically withholding output from the 
+New South Wales wholesale electricity market once their respective sites were 
+fully developed.  Accordingly, the ACCC considered that none of the proposed 
+acquisitions would be likely to result in a substantial lessening of competition in 
+the market for the wholesale supply of electricity in New South Wales. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+22 
+                                                
+Nevertheless, the ACCC’s analysis of the proposed acquisitions did include the 
+consideration of the potential impact of market power in the New South Wales 
+wholesale electricity market upon the New South Wales retail electricity market. 
+This is discussed below. 
+Vertical integration of generation and retail activities 
+115. The proposed acquisitions by AGL and Origin of a gentrader contract, together 
+with these parties’ proposed acquisitions of a New South Wales retail business, 
+would result in increased vertical integration between the New South Wales retail 
+and wholesale electricity markets. 
+116. The ACCC considered the balance of portfolios that might result from these 
+proposed acquisitions on the basis of the capacities of the gentraders/generators 
+and estimates of the retail load of the retailers. Depending on the proposed 
+acquisition in question, there would be a range of outcomes. For instance, some 
+asset combinations would result in a merged entity that was a ‘net’ generator, 
+while others would result in a merged entity that was a ‘net’ retailer.19 
+117. The ACCC considered whether, as a result of any of the above proposed 
+acquisitions, increased vertical integration would be likely to increase AGL’s or 
+Origin’s incentive or ability to exercise market power in the New South Wales 
+wholesale electricity market, or retail electricity market.  For instance, the ACCC 
+examined whether any of the proposed acquisitions could substantially lessen 
+competition in the wholesale electricity or retail electricity markets in New South 
+Wales by providing an acquirer with an increased incentive or ability to withdraw 
+from, or reduce its level of participation in trading hedge contracts.  As 
+availability of hedging contracts is considered to be an important input to 
+participating in these markets and in most cases involves generators and retailers 
+as counterparties within a region, the ACCC investigated whether the possible 
+reduction in participation in hedging markets might stifle the ability of existing 
+competitors and potential new entrants to compete, and thus enable the acquirer 
+to increase prices in the New South Wales wholesale electricity and/or New 
+South Wales retail electricity market. 
+118. The ACCC considered that the change in vertical integration within the New 
+South Wales market as a result of the proposed acquisitions was not sufficient to 
+result in the above effects. The ACCC concluded that the vertical integration of 
+generators and retailers arising from the proposed acquisitions would not be 
+likely to result in a substantial lessening of competition in any of the relevant 
+markets. 
+Conclusion 
+119. The ACCC found that, in the event of a horizontal aggregation in the markets for 
+the retail supply of electricity and gas, new entry, together with continued 
+competition from existing players, would be likely to preserve competitive 
+tension in the relevant retail markets.  
+ 
+19 A ‘net generator’ would have more generating capacity than retail demand to supply; a ‘net retailers’ 
+would have more retail demand to supply than generating capacity in its portfolio of assets. 
+
+
+AGL Energy Limited and Origin Energy Limited – potential acquisitions of NSW energy assets 
+23 
+120. The aggregation of Origin’s Uranquinty generator with one of the gentrader 
+contracts would not be likely to provide it with the ability to exercise significant 
+market power in the wholesale electricity market in New South Wales due to the 
+presence of several competing generators in the market.  
+121. The ACCC also concluded that the aggregation of one or more development sites 
+with existing generation capacity and/or a gentrader contract is unlikely to 
+increase the ability of Origin or AGL to exercise market power in the market for 
+the supply of wholesale electricity in New South Wales. 
+122. Finally, the ACCC concluded that the vertical integration of generators and 
+retailers arising from the potential acquisitions would not be likely to result in a 
+substantial lessening of competition in the relevant markets. 
+123. Accordingly, the ACCC formed that view that the potential acquisitions were 
+unlikely to substantially lessen competition in the relevant markets and would 
+therefore not contravene section 50 of the Act. 

@@ -1,0 +1,54 @@
+{
+  "id": "0397",
+  "title": "Louis Dreyfus Commodities Asia Pte. Ltd. - proposed acquisitions of certain stock and assets of Namoi Cotton Co-operative Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/louis-dreyfus-commodities-asia-pte-ltd-proposed-acquisitions-of-certain-stock-and-assets-of-namoi-cotton-co-operative-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50431",
+  "industries": [
+    "Cotton marketing"
+  ],
+  "date_completed": "13 March 2013",
+  "date_completed_iso": "2013-03-13T12:00:00Z",
+  "date_commenced": "22 January 2013",
+  "date_commenced_iso": "2013-01-22T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Louis Dreyfus Commodities Asia Pte Ltd"
+  ],
+  "targets": [
+    "Namoi Cotton Co-operative Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2013",
+      "date_iso": "2013-01-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Feb 2013",
+      "date_iso": "2013-02-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Feb 2013",
+      "date_iso": "2013-02-12T12:00:00Z",
+      "event": "ACCC requested further information from Louis Dreyfus Commodities. ACCC timeline suspended."
+    },
+    {
+      "date": "15 Feb 2013",
+      "date_iso": "2013-02-15T12:00:00Z",
+      "event": "ACCC received further information from Louis Dreyfus Commodities. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Mar 2013",
+      "date_iso": "2013-03-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Louis Dreyfus Commodities Asia Pte Ltd proposed to acquire: - 13% of the capital stock in Namoi Cotton Co-operative Ltd; and - 49% interest in Namoi's cotton marketing, packing, and warehouse and logistics services business.",
+    "Market definition": "The ACCC focused its assessment on the following markets: - the national market for the acquisition of cotton lint; and - the global market for the sale of cotton lint. The ACCC also considered the effects of the proposed acquisitions on: - the national market for the acquisition of cotton seed; - the national market for the sale of cotton seed; and - regional markets for the provision of ginning services.",
+    "Competition analysis": "The ACCC determined that the proposed acquisitions would be unlikely to raise competition concerns in the markets for the acquisition and sale of both cotton lint and seed.  This is primarily due to: - the continued presence of a number of effective, sophisticated and well funded multinational competitors; and, - the relative ease of entry and expansion for other agricultural commodities traders not currently trading in cotton. Additionally, the ACCC determined that the proposed acquisitions would be unlikely to enable Namoi or LDC Cotton Australia to leverage Namoi's ginning assets to foreclose rival merchants' access to cotton. Namoi's actions in the provision of ginning services, post acquisitions, would continue to be constrained by other gin operators, both integrated and independent. Accordingly, on 13 March 2013 the ACCC decided not to oppose the proposed acquisitions."
+  }
+}

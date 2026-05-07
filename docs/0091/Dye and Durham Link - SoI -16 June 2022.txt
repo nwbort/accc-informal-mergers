@@ -1,0 +1,834 @@
+Page 1 of 16 
+ 
+Statement of Issues  
+16 June 2022 
+ Dye & Durham Corporation – proposed acquisition of Link 
+Administration Holdings  
+Purpose 
+1. 
+Dye & Durham Corporation (D&D) proposes to acquire Link Administration 
+Holdings Limited (Link) (the Proposed Acquisition). Through the Proposed 
+Acquisition D&D would acquire Link’s 42.77% shareholding in PEXA Group 
+Limited (PEXA). 
+2. 
+This Statement of Issues: 
+• 
+gives the preliminary views of the Australian Competition and Consumer 
+Commission (ACCC) on competition issues arising from the Proposed 
+Acquisition  
+• 
+identifies areas of further inquiry 
+• 
+invites interested parties to submit comments and information to assist our 
+assessment of the issues. 
+3. 
+Statements of Issues do not refer to confidential information provided by the 
+parties or other market participants and therefore may not necessarily represent 
+a full articulation of the ACCC’s preliminary position. 
+Overview of ACCC’s preliminary views 
+4. 
+The legal test which the ACCC applies in considering the Proposed Acquisition 
+is set out in section 50 of the Competition and Consumer Act 2010. In general 
+terms, section 50 prohibits acquisitions that would have the effect, or be likely to 
+have the effect, of substantially lessening competition in any market. 
+5. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. In this 
+Statement of Issues there is one issue of concern.  
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 2 of 16 
+Issue of concern: foreclosure of competition in one or more markets in the 
+conveyancing workflow 
+6. 
+The ACCC’s preliminary view is that the Proposed Acquisition is likely to 
+substantially lessen competition in one or more markets in the conveyancing 
+workflow.  
+7. 
+Post-acquisition D&D and PEXA would have the ability and incentive to engage 
+in mutual preferential dealing resulting in foreclosure of competitors in the 
+conveyancing workflow. Foreclosure would lead to higher prices and/or lower 
+quality in the supply of one or more services.   
+Making a submission 
+8. 
+Interested parties should provide submissions by no later than 5pm on 
+7 July 2022. Responses may be emailed to mergers@accc.gov.au with the title: 
+Submission re: Dye & Durham proposed acquisition of Link Administration 
+Holdings - attention Annabel Garrard/Nicholas Wellfare. If you would like to 
+discuss the matter with ACCC officers over the telephone or in person, or have 
+any questions about this Statement of Issues, please contact Annabel Garrard 
+on (02) 9102 4028 or Nicholas Wellfare on (02) 9230 3813.  
+9. 
+The ACCC anticipates making a final decision on 8 September 2022, however, 
+this timeline can change. To keep abreast of possible changes in relation to 
+timing and to find relevant documents, interested parties should visit the Mergers 
+Register on the ACCC's website at www.accc.gov.au/publicregisters/mergers-
+registers/public-informal-merger-reviews. 
+Confidentiality of submissions 
+10. 
+The ACCC will not publish submissions regarding the Proposed Acquisition. We 
+will not disclose submissions to third parties (except our advisors/consultants) 
+unless compelled by law (for example, under freedom of information legislation 
+or during court proceedings) or in accordance with s155AAA of the Competition 
+and Consumer Act 2010.  Where the ACCC is required to disclose confidential 
+information, the ACCC will notify you in advance where possible so that you may 
+have an opportunity to be heard.  Therefore, if the information provided to the 
+ACCC is of a confidential nature, please indicate as such. Our Informal Merger 
+Review Process Guidelines contain more information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+11. 
+A Statement of Issues published by the ACCC is not a final decision about a 
+Proposed Acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well 
+as identifying the lines of further inquiry that the ACCC wishes to undertake. 
+12. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 3 of 16 
+Glossary of terms 
+ARNECC 
+Australian Registrars’ National Electronic Conveyancing Council 
+API 
+Application Programming Interface 
+ATI 
+Australian Technology Innovators Pty Limited 
+ELN 
+Electronic Lodgment Network 
+ELNO 
+Electronic Lodgment Network Operator 
+D&D 
+Dye & Durham Corporation  
+PMS 
+Practice Management Software 
+VoI 
+Verification of Identity  
+The parties 
+D&D 
+13. 
+D&D is an international provider of cloud-based software and technology 
+solutions to legal and business professionals, including lawyers and 
+conveyancers. D&D acquired SAI Global’s Property Division in January 2021 
+and GlobalX in July 2021. D&D’s core products and services relevant to the 
+Proposed Acquisition include: 
+• 
+Information search and broking services: including property, commercial 
+and personal information. 
+• 
+Practice Management Software (including conveyancing and legal practice 
+management software): including Matter Centre, Conveyancing Manager, 
+Conveyancing Directory, Open Practice, SettsPlus and Atom as well as 
+ancillary solutions that support conveyancing transactions such as 
+verification of identity (VoI) and digital signing software solutions. 
+• 
+Manual property settlement services: services including physical property 
+settlement attendance, stamp duty calculations and manual stamping, 
+lodgment and registration. 
+Link 
+14. 
+Link is a technology-enabled provider of outsourced administration services for 
+superannuation fund administration and corporate markets, as well as related 
+services including data management, analytics, digital communication and 
+stakeholder education and advice. 
+15. 
+Link also holds a ~42.77% shareholding in PEXA, which D&D would acquire 
+through the Proposed Acquisition. 
+PEXA 
+16. 
+PEXA principally operates as an Electronic Lodgment Network Operator (ELNO), 
+through its Electronic Lodgment Network (ELN) product, PEXA Exchange. An 
+ELN enables users (also known as subscribers) to complete property lodgments 
+and settlements electronically through a digital process known as e-
+conveyancing. The PEXA Exchange is integrated with six land titles offices and 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 4 of 16 
+five state revenue offices for the lodgment of documents, as well as the Reserve 
+Bank of Australia, the Australian Taxation Office and major financial institutions 
+to facilitate financial settlement.  
+17. 
+The PEXA Exchange was born out of a 2010 Council of Australian Governments 
+initiative to transition property lodgment away from paper-based to more efficient 
+digital processes. PEXA was listed on the Australian Securities Exchange in 
+2021 and its largest shareholders are Link Property Group Pty Ltd (42.77%) and 
+Commonwealth Bank of Australia (23.9%). No other shareholder has a 
+shareholding greater than 10%. 
+18. 
+In addition to PEXA Exchange, PEXA also offers a range of complementary tools 
+separate from its ELN service to assist its subscribers with the conveyancing 
+process. Some of these products and services include: 
+• 
+PEXA Plus: through which PEXA operates as a reseller of information 
+searches provided by third party brokers. 
+• 
+PEXA Projects: which supports members in completing conveyancing 
+matters in the role of Proprietor on Title or Mortgagee on Title. It provides a 
+range of features that seek to streamline the processes involved with 
+coordinating and executing property settlements.  
+• 
+PEXA Insights: which provides insights into the Australian property market, 
+using information from the PEXA exchange coupled with complementary 
+datasets. 
+• 
+PEXA Ventures: which offers a range of funding, bespoke services and 
+programs to businesses in the property services sector. 
+Other industry participants 
+Practice management software (including conveyancing and legal practice 
+management software) 
+19. 
+In addition to D&D, other suppliers of PMS include Australian Technology 
+Innovators (ATI), LexisNexis, Thomson Reuters, Aderant, ActionStep, CATS, 
+CaseFlow and LawMaster. 
+20. 
+ATI is the largest supplier of conveyancing and legal practice management 
+software (PMS) in Australia. Its associated software products include LEAP 
+Legal Software, PracticeEvolve and TriConvey.  
+Information search and broking services 
+21. 
+In addition to D&D’s GlobalX Search Platform, other “full service” suppliers of 
+information broking services include InfoTrack, Equifax, CITEC and Ilion. 
+Suppliers with narrower offerings include DirectInfo, PsiGlobal and Hazlett.  
+22. 
+Lawyers and conveyancers also obtain information search results directly from 
+regulatory authorities (e.g. state/territory land titles offices) and authorised 
+resellers of information broking services (e.g. Landchecker and PEXA Plus).  
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 5 of 16 
+ELN services 
+23. 
+In addition to PEXA, Sympli Australia Pty Limited (Sympli) is approved to operate 
+as an ELNO in multiple jurisdictions in Australia and is in the process of 
+developing its systems and expanding its customer base. ATI, which has 
+interests in InfoTrack, LEAP and other relevant entities, holds a 50% stake in 
+Sympli.  
+24. 
+A potential third ELNO, LEXTECH, owned by Purcell Partners obtained stage 
+one (of two) approvals from the Australian Registrars’ National Electronic 
+Conveyancing Council (ARNECC) to provide ELN services in May 2018. It is 
+unclear whether LEXTECH will be approved to operate as an ELNO in the near 
+future.  
+Industry background 
+The conveyancing workflow  
+25. 
+While the specifics of the conveyancing process differ based on the type of 
+transaction, as well as relevant state or territory laws, the ACCC understands 
+that some of the key steps in a typical process include: 
+• 
+Verification of Identity: the identity of the seller and buyer as the relevant 
+transaction parties is confirmed. VoI software and an information search 
+service may be used in the verification process. These tools may also 
+integrate with the PMS of the lawyer or conveyancer engaged by the buyer 
+and seller.  
+• 
+Contract: a contract for sale is prepared. PMS may be used to generate a 
+contract from a template library. This contract may also be automatically 
+populated with integrated information search results (titles, plans, planning 
+certificates etc). 
+• 
+Listing: property is listed for sale. 
+• 
+Due Diligence: buyer’s lawyer/conveyancer undertakes further searches 
+using information search services. 
+• 
+Exchange: contracts are signed and exchanged between the buyer and 
+seller. Electronic signature software may be used to sign the contracts, 
+which may be integrated with the PMS of the lawyer/conveyancer.  
+• 
+Deposit: buyer pays the deposit. 
+• 
+Pre-settlement: buyer and financier undertake final due diligence/checks. 
+An information search service may be used. 
+• 
+Settlement: buyer (or financier) transfers funds to seller and seller transfers 
+title to buyer. This may occur electronically via an ELNO, or the parties may 
+meet to manually exchange contracts, titles and funds. If an ELNO is used, 
+the vendor’s conveyancer/solicitor will create a digital workspace using the 
+ELNO and invitations to join the workspace will be sent to the financial 
+institutions and purchaser’s conveyancer/solicitor to complete the 
+transaction electronically. The ELNO workspace may also be integrated 
+with the parties’ PMS or information search software.  
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 6 of 16 
+• 
+Lodgment: relevant conveyancing documents are lodged with the relevant 
+regulatory authorities (manually or via an ELNO). 
+26. 
+The steps in the conveyancing process are commonly referred to as “the 
+conveyancing workflow”. Please refer to Figure 1 below for a diagrammatic 
+representation.  
+E-conveyancing and interoperability  
+Advent of e-conveyancing  
+27. 
+The Council of Australian Governments committed to creating a single, national 
+electronic system for the settling of real property transactions in all Australian 
+States and Territories in 2008. Since 2013 there has been a shift from traditional 
+manual settlement processes towards e-conveyancing. Technology and 
+connections required for e-conveyancing have been rolled out progressively in 
+various states and territories. E-conveyancing allows lawyers, conveyancers and 
+financial institutions to transact property settlements and lodgments online 
+through an ELN.  
+28. 
+To date, Victoria, Western Australia, New South Wales and South Australia have 
+mandated e-conveyancing. Queensland and the Australian Capital Territory 
+have enabled e-conveyancing, but have not mandated its use. The Northern 
+Territory and Tasmania1 have not implemented e-conveyancing.  
+29. 
+In states where e-conveyancing has been mandated, PEXA completes almost all 
+transactions. Although a second ELNO, Sympli has emerged, the lack of 
+interoperability between ELNOs has limited its expansion.   
+Interoperability  
+30. 
+Currently, all parties to an e-conveyancing transaction must use the same ELN. 
+The existing infrastructure and regulatory regime do not enable parties on 
+separate ELNs to exchange data to complete a transaction. This puts Sympli at 
+a significant disadvantage and makes it difficult for it to attract subscribers. 
+Absent interoperability between ELNOs, PEXA’s position as the near monopoly 
+ELNO is unlikely to change.  
+31. 
+If implemented, interoperability should enable the exchange of settlement 
+information between ELNs to allow participants to complete an electronic 
+conveyancing transaction using different ELNOs. Interoperability should 
+therefore allow subscribers to transact efficiently with all other parties to a 
+settlement or conveyancing transaction, while subscribing only to the ELNO(s) 
+they choose. 
+32. 
+On 12 May 2022, the Electronic Conveyancing (Adoption of National Law) 
+Amendment Bill 2022 was passed by the NSW Parliament. This Bill amended 
+the Electronic Conveyancing National Law to provide a framework for requiring 
+ELNOs to ensure their ELNs are interoperable. As the Bill is part of a broader 
+scheme, its reach will be national, therefore requiring interoperability to be 
+ 
+ 
+1 Tasmania’s 2022-23 Budget includes funding related to the implementation of eConveyancing: 
+https://www.premier.tas.gov.au/budget_2022/budget_releases/strengthening_the_future_of_tasmanias_p
+arks 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 7 of 16 
+enlivened in each state and territory. A further series of amendments to the 
+Model Operating Requirements in each state and territory will also be required to 
+set out the steps to implementation and a timetable for the introduction of 
+interoperability.  
+33. 
+The likely timeline for achieving interoperability is uncertain. The recently 
+released Ministers Statement on National Electronic Conveyancing notes the 
+timeline for the rollout has been extended and in the first instance, the reforms 
+will be progressed in New South Wales and Queensland.2 The statement also 
+notes an independent assessment of the current (mid-2023) target will likely be 
+considered by the Minister in September 2022. Market participants have raised 
+strong concerns about further likely delays to the implementation of complete 
+interoperability. Market participants have also raised concerns regarding PEXA’s 
+capacity to further frustrate certain aspects of the reform process.    
+Digitisation and increased integration in the conveyancing workflow 
+34. 
+Concurrent with the digitisation of the settlement and lodgment process, the 
+conveyancing workflow has also become increasingly digitised in recent years. 
+Application Programming Interfaces (APIs) allow software providers to integrate 
+with third-party software solutions to provide a more seamless transfer of 
+information between the various steps in the conveyancing workflow.  
+35. 
+Market feedback indicated that conveyancing is an efficiency driven process. 
+Integration of the various steps increases the value proposition of software 
+providers as it minimises the need for duplicative manual processes. This allows 
+lawyers and conveyancers to achieve efficiencies and a higher degree of rigour 
+in managing high volume, low margin property transactions.  
+36. 
+D&D and ATI in particular have emerged as prominent vertically integrated 
+suppliers of conveyancing workflow solutions. They offer integrations with their 
+own product suite, as well as API integration with third parties. PMS, information 
+search and broking, VoI and eSignature software are of most importance in the 
+conveyancing workflow. Other software includes data analytics.  
+37. 
+The ACCC is considering whether this trend toward integration will continue. It 
+appears likely to become increasingly important to the value proposition for 
+software providers in the conveyancing workflow. 
+ 
+ 
+2 
+https://www.arnecc.gov.au/wp-content/uploads/2022/06/ARNECC-Paper_Ministerial-Forum-2-June-
+2022_Ministers-Statement.pdf  
+
+
+Page 8 of 16 
+Figure 1: Steps in the conveyancing workflow*  
+ 
+*ACCC analysis, market participant submissions 
+ 
+ 
+
+
+Page 9 of 16 
+The proposed transaction 
+38. 
+D&D, via Dye and Durham Link Holdings Ltd (a wholly owned Ontario 
+incorporated subsidiary of D&D) proposes to acquire 100% of the issued share 
+capital in Link by way of a scheme of arrangement for a total value of 
+approximately A$3.7 bn. Through the transaction, D&D will also acquire Link’s 
+42.77% stake in PEXA. 
+Previous ACCC decisions 
+39. 
+On 17 June 2021, the ACCC announced it would not oppose D&D’s proposed 
+acquisition of GlobalX after concluding that the acquisition would be unlikely to 
+result in a substantial lessening of competition. The transaction combined 
+GlobalX and SAI Global’s property division, which D&D had acquired early that 
+same year.   
+40. 
+Although the ACCC did not consider it was necessary to reach a concluded view 
+on the precise definition of the relevant markets, the ACCC considered the effect 
+of the acquisition of GlobalX on the markets for information search and broking 
+services, conveyancing and legal practice management software, and manual 
+property settlements.   
+Overlap and potential markets  
+41. 
+The ACCC has not formed a concluded view on market definition. However the 
+ACCC’s preliminary view is that the relevant markets are: 
+• 
+the national supply of ELN services 
+• 
+the national supply of information search and broking services  
+• 
+the national supply of PMS. 
+42. 
+The ACCC is considering the extent of complementarities between these 
+activities, including whether, over time, demand and supply side efficiencies may 
+require providers to supply all of these services as a fully integrated end-to-end 
+offering. 
+ELN services 
+43. 
+The ACCC’s preliminary view is that there is a national market for the supply of 
+ELN services. Although demand for ELN services may differ between states 
+(including because of state-based land laws), on the supply side, PEXA and 
+Sympli operate on a national basis.  
+Information search and broking services  
+44. 
+There are a range of service models offered by information brokers. “Full 
+service” brokers offer information search and broking services across property, 
+corporate and/or credit, and with significant depth in each of those sectors. Other 
+brokers may only offer property or credit information search and broking 
+services. Different buyers of information search and broking services also 
+require different service levels. For example, large law firms require the full suite 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 10 of 16 
+of search services, while conveyancing practitioners may only require property 
+search services. 
+45. 
+In geographic terms, some information brokers only operate in particular states 
+or territories, the land titles registries service individual states and territories and 
+many lawyers and conveyancers likely purchase property searches only in 
+individual states or territories. The ACCC is considering whether it is appropriate 
+to consider state-based markets but does not believe this will be critical to its 
+review of the Proposed Acquisition. 
+PMS supplied to lawyers and conveyancers 
+46. 
+The ACCC’s preliminary view is that there is a national market for the supply of 
+PMS to lawyers and conveyancers. This includes both conveyancing software 
+and broader application legal practice management software.  
+47. 
+Conveyancing software is marketed to conveyancers and offers solutions 
+tailored to conveyancers’ needs. Legal practice management software typically 
+provides the same conveyancing functionality, with the addition of broader 
+practice management solutions to support multi-disciplinary legal practice. 
+48. 
+Market participants describe the PMS industry as catering to three customer 
+categories with respect to real property transactions: 
+• 
+Large: encompassing large law firms typically focussing on commercial real 
+estate transactions, including settlements for new apartment towers 
+(typically operating nationwide). 
+• 
+Medium: covering a range of law firms and conveyancers with some 
+involvement in both commercial real estate and individual residential 
+transactions (includes nationwide and state-based participants). 
+• 
+Small/micro: encompassing small conveyancing and legal practices 
+focusing on individual residential transactions (typically state-based or even 
+local areas).  
+49. 
+Although some PMS suppliers operate in certain states and not in others, the 
+ACCC’s preliminary view is that there is a national market for the supply of PMS 
+as the majority of providers operate in all Australian jurisdictions. However, the 
+ACCC is considering the significance of local variations between states.  
+The ACCC invites comments from market participants on its preliminary views about 
+the definition of the relevant market(s). In particular, market participants may wish to 
+comment on: 
+• 
+Whether there is a separate market for the supply of conveyancing software that is 
+distinct from the supply for general legal practice management software. 
+• 
+The extent and depth of integration between the various steps in the conveyancing 
+workflow. 
+• 
+How important integration is between the various steps in the conveyancing 
+workflow, including whether any integrations are (or are likely to become) “must 
+have”.  
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 11 of 16 
+• 
+What factors lawyers and conveyancers consider when choosing PMS and how 
+this can differ between practitioners and customer categories (i.e. between 
+conveyancers and lawyers, and between large, medium and small/micro 
+customers). 
+• 
+Whether there are specific state-based regulatory requirements that would 
+preclude conveyancers, or real property lawyers from operating in some states, but 
+not others.  
+• 
+The likelihood of new entry or expansion in each of the markets identified above. 
+• 
+The timing of interoperability, including how this may impact competition between 
+ELNOs.  
+Issue of concern: foreclosure of competition in one or 
+more market(s) within the conveyancing workflow  
+50. 
+The Proposed Acquisition would result in significant vertical integration in the 
+conveyancing workflow such that a near monopoly provider of ELN services 
+(PEXA) will be aligned with a significant provider of upstream software services 
+(D&D).  
+51. 
+The ACCC’s preliminary views are that:  
+• 
+PEXA has a near monopoly position in the supply of ELN services 
+• 
+D&D is a significant supplier of upstream software services (PMS and 
+information search and broking) 
+• 
+the Proposed Acquisition aligns the near monopoly provider of ELN 
+services with a significant competitor in upstream software markets  
+• 
+post-acquisition, D&D and PEXA would have the ability and incentive to 
+engage in mutual preferential dealing resulting in the foreclosure of 
+competitors in the conveyancing workflow  
+• 
+the effect of this conduct is likely to substantially lessen competition in one 
+or more relevant markets in the conveyancing workflow 
+• 
+although the combined D&D-Link will have a minority 42.77% shareholding 
+in PEXA, and ELNOs are subject to a regulatory framework, these factors 
+are unlikely to constrain the risk of foreclosure conduct as outlined above.   
+PEXA’s near monopoly position in ELN services  
+52. 
+PEXA’s near monopoly position in the supply of ELN services in Australia 
+provides it with the ability to influence upstream competition. Absent the 
+introduction of timely and effective interoperability, PEXA is very likely to remain 
+a near monopoly provider of ELN services.  
+53. 
+PEXA is the only fully operational ELNO. Its competitors provide limited 
+competitive constraint. Sympli has entered to a limited extent and poses a threat 
+of expansion. LEXTECH has not entered and provides an uncertain threat of 
+entry.  
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 12 of 16 
+54. 
+The supply of ELN services is characterised by strong network effects whereby 
+the incumbent supplier is highly valuable to subscribers because it can execute 
+multiparty transactions that involve other subscribers.  
+55. 
+As a consequence, PEXA has benefited from a significant first mover advantage 
+and continuing network effects. Mandated e-conveyancing required all 
+participants in the conveyancing workflow (e.g. lawyers, conveyancers, banks, 
+land titles registries and state revenue offices) to adopt and align their practices 
+with e-conveyancing at a time when PEXA was the only available ELNO. New 
+entrant ELNOs are unlikely to benefit to this extent from any future mandates.  
+56. 
+Interoperability is likely to reduce barriers for competing ELNOs if implemented 
+(as it allows subscribers of different ELNs to transact). While this is the case, 
+PEXA is likely to retain a significant share of subscribers at the time of 
+implementation (at least in the short to medium term), due to its significant first 
+mover advantage and the transaction costs faced by upstream suppliers when 
+integrating with additional ELNOs.  
+D&D’s significant market position in the supply of upstream software services 
+57. 
+D&D is a significant supplier of certain upstream software services.  
+58. 
+While there are currently a number of different suppliers of PMS nationally, D&D 
+has a particularly significant position in particular segments in the supply of PMS. 
+For example, market feedback indicates that D&D’s PMS products have 
+particularly high take up amongst conveyancers in Victoria and Western 
+Australia.  
+59. 
+In the supply of information search and broking services, market feedback has 
+indicated that InfoTrack and D&D are the largest national suppliers, in particular 
+with respect to property title searches.  
+60. 
+For both PMS and information search and broking, barriers to entry appear to be 
+at least moderate, due to likely significant economies of scale combined with the 
+need to incur up-front fixed and sunk costs.  
+Possible foreclosure conduct 
+61. 
+The Proposed Acquisition would create incentives for each of PEXA and D&D to 
+engage in mutual preferential dealing that would result in foreclosure of 
+competition in the conveyancing workflow.  
+62. 
+The Proposed Acquisition would facilitate D&D and PEXA creating a combined 
+offering that is integrated across ELN, information broking and PMS services. 
+There is a substantial risk that post-acquisition PEXA will favour D&D’s 
+information broking and PMS services at the expense of third-party providers. 
+This will strengthen the already significant market position of D&D in providing 
+these services. In turn, and given its financial interest in PEXA, D&D would have 
+strong incentives to integrate with PEXA’s ELN services while de-prioritising 
+integration with emerging providers of these services. The effects are also likely 
+to be self-reinforcing, raising barriers to entry at various levels of the 
+conveyancing workflow.  
+63. 
+The risk of this occurring is significantly heightened by the emerging threat to 
+PEXA’s near monopoly position in ELN services posed by interoperability. As 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 13 of 16 
+noted above, interoperability would undermine the network effects that underpin 
+PEXA’s current position as the near monopoly supplier of ELN services. By 
+‘locking’ a large proportion of law and conveyancing firms into an integrated 
+package of PMS and ELN services prior to interoperability occurring, PEXA 
+would be in a much stronger position to preserve its near monopoly position in 
+ELN services into the future.  The ACCC might be less concerned by the 
+Proposed Acquisition if complete interoperability of ELNs was imminent, but as 
+noted above, the timeframe for achieving interoperability is uncertain.   
+64. 
+Market participants have raised strong concerns about various forms of conduct, 
+which the ACCC considers may occur concurrently or sequentially. Examples of 
+such conduct include: 
+• 
+PEXA could degrade or diminish the quality (or slow the pace) of 
+integration with PEXA for D&D’s rival suppliers of upstream services  
+• 
+PEXA could offer discounts on its ELN services to D&D’s customers 
+• 
+D&D could refuse, degrade, or diminish integration of its upstream services 
+with PEXA’s rival suppliers of ELN services 
+• 
+D&D could offer discounts on its upstream products on condition that its 
+customers transact a minimum volume on PEXA’s ELN, and/or 
+• 
+PEXA and/or D&D could provide one another with preferential access to 
+data. 
+65. 
+If the conduct above occurs, conveyancers and lawyers would have the option to 
+input information directly into the PEXA platform. However, this is a less efficient 
+process, particularly for firms conducting large volumes of conveyancing matters 
+each day.  
+Foreclosure is likely to create reciprocal benefits due to the interlinked nature of D&D 
+and PEXA’s products 
+66. 
+As noted at paragraph 72 below, the combined D&D-Link would have 42.77% of 
+shares in PEXA post-acquisition. The ACCC is taking this into account when 
+assessing the parties’ incentives to engage in the conduct outlined above.  
+67. 
+Post-acquisition, D&D-Link’s shareholding in PEXA would ensure D&D receives 
+financial benefit for conduct which promotes or protects PEXA’s profitability. 
+Given PEXA’s scale, D&D’s 42.77% share in PEXA’s profits would likely provide 
+it with an incentive to preference PEXA’s market position.  
+68. 
+As PEXA would have no ownership interest in D&D, it would not obtain a 
+corresponding immediate financial benefit from the foreclosure of D&D’s 
+upstream rivals in the supply of information broking and/or PMS.  
+69. 
+However, PEXA would be likely to have an incentive to engage in foreclosure of 
+D&D’s upstream rivals. Doing so is likely to materially elevate D&D’s market 
+position in the supply of upstream services. If and when interoperability is 
+implemented, any preferencing conduct by D&D to PEXA’s ELN would increase 
+the likelihood of foreclosure of PEXA’s rivals. Such conduct could include 
+degrading the quality or slowing the pace of PEXA integration with third party 
+suppliers of upstream services. This could reduce the scale and output of third 
+party suppliers, forcing them to raise prices or exit. 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 14 of 16 
+Foreclosure conduct is likely to result in a substantial lessening of competition 
+in one or more potential markets  
+70. 
+The ACCC’s preliminary view is that foreclosure resulting from the mutual 
+preferential dealing described above is likely to result in a substantial lessening 
+of competition in one or more relevant markets. The ACCC is particularly 
+concerned of the risk that, over time foreclosure would: 
+• 
+force competing PMS and information search services suppliers to raise 
+their prices or exit, allowing D&D to raise its own prices for these services  
+• 
+entrench PEXA’s market position in the supply of ELN services, and/or  
+• 
+materially raise rivals’ costs of entry and expansion within the conveyancing 
+workflow such that in order to compete effectively, suppliers would be 
+required to provide an end-to-end offering.  
+71. 
+The ACCC is continuing to consider the likely effect of foreclosure conduct.  
+D&D-Link’s minority interest in PEXA is substantial  
+72. 
+Post-acquisition, D&D would control Link’s 42.77% shareholding in PEXA. The 
+ACCC’s preliminary view is that while this is a minority shareholding, it is a 
+substantial stake and the combined D&D-Link would have significant influence in 
+respect of PEXA’s strategy and behaviour. This is for reasons including: 
+• 
+Link is the largest individual holder of shares and associated voting rights in 
+PEXA, and is one of only two substantial shareholders (the other being 
+CBA with 23.90%) with the remainder of shares widely dispersed3  
+• 
+of the eight directors currently on PEXA’s board, Link can nominate two 
+directors (one of which is currently Link’s Managing Director and CEO) and 
+be represented on the two board committees4  
+• 
+Link accounts for PEXA in its financial statements as an equity-accounted 
+investee on the basis Link Group has significant influence over PEXA.5 
+73. 
+The ACCC is continuing to consider the degree of control or influence D&D 
+would be likely to have over PEXA as a result of the Proposed Acquisition. 
+74. 
+In any case, the preliminary competition concerns outlined above are not reliant 
+only on D&D-Link being able to control PEXA post-acquisition but are present in 
+any event as the Proposed Acquisition creates alignment between D&D and 
+PEXA. Should D&D-Link in fact achieve significant influence over PEXA’s 
+strategy and behaviour, this would enhance the concerns outlined above.  
+75. 
+Other shareholders in PEXA would be unlikely to directly benefit from PEXA 
+engaging in conduct which favours D&D unless such conduct ultimately benefits 
+PEXA and indirectly them. All directors on PEXA’s board, including those 
+nominated by D&D-Link in future, also have fiduciary obligations including duties 
+to act in the best interests of PEXA. Nevertheless, the ACCC’s preliminary view 
+ 
+ 
+3 PEXA Annual Report 2021, pg 121.  
+4 Current board of directors, https://investors.pexa.com.au/investor-centre/?page=board-of-directors; see 
+further PEXA’s Constitution, clause 4.2 and PEXA’s Replacement Prospectus, pg 234.  
+5 Link Annual Report 2021, pg 134. 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 15 of 16 
+is that the conduct outlined above is likely to be in the interests of all PEXA 
+shareholders.  
+Likelihood that regulatory framework will prevent foreclosure conduct 
+76. 
+The likelihood that the existing and likely future regulatory framework governing 
+the supply of ELN services could constrain PEXA and a combined D&D-Link’s 
+ability to engage in foreclosure conduct is an important issue. The ACCC’s 
+preliminary view is that there is considerable uncertainty on this.  
+77. 
+At a high level, ELNOs are required to comply with Model Operating 
+Requirements which (amongst other things) require ELNOs to: 
+• 
+provide equivalent access to parties seeking to integrate with its ELN, 
+subject only to differences attributable to the type, level or class of 
+integration with the ELN 
+• 
+ensure that its ELN and any non-ELN businesses are structurally separated 
+to limit the ELNO, and the related businesses, from obtaining an advantage 
+over competitors as a result of the ELNO’s position 
+• 
+set its service fees according to a publicly available and equitable pricing 
+policy.  
+78. 
+Market participants have raised strong concerns that this regulatory framework 
+may be insufficient to prevent foreclosure conduct.  
+79. 
+Particular concerns have been raised that state and territory registrars and 
+ARNECC (the body established to facilitate the implementation and ongoing 
+management of the regulatory framework), currently lack some of the 
+investigative and enforcement tools that would assist those bodies to effectively 
+constrain PEXA’s conduct.  
+80. 
+The ACCC notes that ARNECC has released a position paper regarding 
+changes to the available enforcement powers. It states that the Electronic 
+Conveyancing National Law currently lacks the range of enforcement powers 
+found in many other regulatory regimes, and that ARNECC has resolved to 
+amend the law.6 The ACCC also notes the recent statements made by Ministers 
+and ARNECC regarding further legislative amendments, but the timing and final 
+form of any such amendments is currently uncertain.
+7  
+81. 
+In the context of PEXA’s near monopoly position and the significant structural 
+change in the market that may occur as a result of the Proposed Acquisition, the 
+ACCC considers there is considerable uncertainty regarding the extent to which 
+the existing and likely future regulatory framework can be relied upon to 
+constrain PEXA and D&D’s conduct post-acquisition. The ACCC will continue to 
+closely consider this issue.  
+ 
+ 
+6  
+https://www.arnecc.gov.au/wp-content/uploads/2021/08/changes-enforcement-powers-ecnl-
+april-2021.pdf  
+7 For example, see submissions to the NSW Parliamentary Committee Inquiry into the Electronic 
+Conveyancing 
+(Adoption 
+of 
+National 
+Law) 
+Amendment 
+Bill 
+2022: 
+https://www.parliament.nsw.gov.au/committees/inquiries/Pages/inquiry-details.aspx?pk=2859 
+
+
+Dye & Durham – proposed acquisition of Link Administration Holdings 
+ 
+Page 16 of 16 
+The ACCC invites comments from market participants on its concerns in relation to the 
+concerns identified above. In particular market participants may wish to comment on 
+the following: 
+• 
+Whether the threat of interoperability is likely to materially lessen PEXA’s 
+incentives to engage in foreclosure of upstream suppliers of information search 
+and broking and/or PMS suppliers. 
+• 
+The current, and likely future, significance of integration between ELNs and PMS 
+and/or information search and broking services. 
+• 
+How likely the existing regulatory framework is to limit a combined D&D-Link’s 
+ability to engage in foreclosure conduct and any comments on the existing 
+enforcement regime (including any proposed amendments) 
+• 
+How likely ELN subscribers are to switch to alternative ELNOs if interoperability is 
+implemented (including any barriers to switching) and/or whether subscribers may 
+subscribe to more than one ELNO (i.e. “multi-home”).  
+• 
+How easy or difficult it is for lawyers and conveyancers to switch PMS and/or 
+information broking suppliers. 
+• 
+Whether D&D has market power in the supply of PMS or information search and 
+broking services. 
+ACCC's future steps 
+82. 
+As noted above, the ACCC now seeks submissions from market participants on 
+each of the issues identified in this Statement of Issues and on any other issue 
+that may be relevant to the ACCC's assessment of this matter. Submissions are 
+to be received by the ACCC no later than 7 July 2022 and should be emailed to 
+mergers@accc.gov.au. 
+83. 
+The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+84. 
+The ACCC intends to publicly announce its final view by 8 September 2022. 
+However, the anticipated timeline may change in line with the Informal Merger 
+Review Process Guidelines. A Public Competition Assessment for the purpose 
+of explaining the ACCC's final view may be published following the ACCC's 
+public announcement to explain its final view. 

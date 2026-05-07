@@ -1,0 +1,44 @@
+{
+  "id": "0930",
+  "title": "Transpacific Industries Group Ltd - acquisition of One Stop Garbage Shop Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-one-stop-garbage-shop-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31662",
+  "industries": [
+    "Waste Services"
+  ],
+  "date_completed": "29 April 2008",
+  "date_completed_iso": "2008-04-29T12:00:00Z",
+  "date_commenced": "8 April 2008",
+  "date_commenced_iso": "2008-04-08T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "One Stop Garbage Shop Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Apr 2008",
+      "date_iso": "2008-04-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Apr 2008",
+      "date_iso": "2008-04-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Apr 2008",
+      "date_iso": "2008-04-29T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific purchased the business and assets of One Stop Garbage Shop Pty Ltd.",
+    "Market definition": "Relevant markets for the purpose of this competition assessment were the supply of commercial bins in Victoria and for the supply of plastic bins in Australia.",
+    "Competition analysis": "On 29 April 2008 the ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets.  Factors informing this view included: - the availability of supply from WasteTech, KS Environmental, Sulo and other competing suppliers of commercial bins; and - the availability of supply of plastic bins including wheelibins from domestic and overseas sources such as Sulo, Nylex and Mastec. Accordingly, the ACCC decided not to oppose the acquisition."
+  }
+}

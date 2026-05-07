@@ -1,0 +1,44 @@
+{
+  "id": "0903",
+  "title": "Integrated Packaging Australia Pty Ltd - proposed acquisition of The Amcor WA stretch flexibles business of Amcor Packaging (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/integrated-packaging-australia-pty-ltd-proposed-acquisition-of-the-amcor-wa-stretch-flexibles-business-of-amcor-packaging-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30100",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "30 June 2008",
+  "date_completed_iso": "2008-06-30T12:00:00Z",
+  "date_commenced": "3 June 2008",
+  "date_commenced_iso": "2008-06-03T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Integrated Packaging Australia Pty Ltd"
+  ],
+  "targets": [
+    "The Amcor WA stretch flexibles business of Amcor Packaging (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jun 2008",
+      "date_iso": "2008-06-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "17 Jun 2008",
+      "date_iso": "2008-06-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Jun 2008",
+      "date_iso": "2008-06-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Integrated Packaging Australia proposes to acquire the business and assets of Amcor Packaging's (Australia) WA stretch film business from Amcor Limited.",
+    "Market definition": "The ACCC considered the relevant markets to be: - the national market for the manufacture and supply of industrial stretch film; and - the national market for the manufacture and supply of agricultural stretch film.",
+    "Competition analysis": "The ACCC considered the proposed acquisition unlikely to substantially lessen competition due to: - imports of both industrial and agricultural stretch film, which are likely to impose an effective constraint on the merged entity; and - the countervailing power held by customers in both the markets for industrial stretch film and the market for agricultural stretch film is likely to impose some constraint on the merged entity."
+  }
+}

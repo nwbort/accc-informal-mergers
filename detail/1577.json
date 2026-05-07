@@ -1,0 +1,31 @@
+{
+  "id": "1577",
+  "title": "Acquirer: Locker Group Pty Ltd; Target: Richardson Pacific Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-locker-group-pty-ltd-target-richardson-pacific-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16930",
+  "industries": [],
+  "date_completed": "27 February 2003",
+  "date_completed_iso": "2003-02-27T12:00:00Z",
+  "date_commenced": "5 November 2002",
+  "date_commenced_iso": "2002-11-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Locker Group Pty Ltd"
+  ],
+  "targets": [
+    "Richardson Pacific Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Locker Group Pty Ltd and Lemvest limited have entered into a Heads of Agreement under which Locker has agreed to acquire all the issued shares in Richardson Pacific Limited.  The main area of overlap between the merger parties is in regard to perforated metal products.",
+    "Market definition": "The national market for the manufacture and supply of perforated metal products to industrial, commercial and residential customers.",
+    "Competition analysis": "The Commission concluded that it would not intervene in this matter for the following reasons: - imports appear to comprise greater than 10% of the market and will likely be an effective constraint on the merged entity; - the low barriers to entry in the market and the ability of turret presses to be a competitive constraint on the merged entity; and - the likelihood that the merged entity will not have the ability to raise prices and retain its share of the market for most of the applications of perforated metal.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2741"
+  }
+}

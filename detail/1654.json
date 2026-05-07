@@ -1,0 +1,31 @@
+{
+  "id": "1654",
+  "title": "Acquirer: Toll Holdings Ltd, Toll Transport Pty Ltd; Target: BHP Stevedoring Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-toll-holdings-ltd-toll-transport-pty-ltd-target-bhp-stevedoring-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15667",
+  "industries": [],
+  "date_completed": "30 April 2002",
+  "date_completed_iso": "2002-04-30T12:00:00Z",
+  "date_commenced": "15 February 2002",
+  "date_commenced_iso": "2002-02-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Toll Holdings Ltd, Toll Transport Pty Ltd"
+  ],
+  "targets": [
+    "BHP Stevedoring Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Toll Holdings Ltd proposes to acquire the stevedoring operations of BHP Billiton Ltd by way of the acquisition of shares in BHP Stevedoring Pty Ltd.  BHP Stevedoring operates at Port Kembla (NSW), Western Port (Vic), Whyalla (SA) and Bell Bay (Tas).",
+    "Market definition": "The relevant markets are for break-bulk stevedoring services at Port Kembla, Western Port and Whyalla, and bulk stevedoring services at Whyalla and Bell Bay.",
+    "Competition analysis": "Toll Holdings does not operate stevedoring services at any of the ports in question, and therefore the acquisition will not effect concentration levels in relation to the stevedoring of the relevant types of cargo at the ports in question.  BHP Stevedoring handles a very small percentage of stevedoring volume nation-wide, and its major customer (95%) is BHP Steel.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "6621"
+  }
+}

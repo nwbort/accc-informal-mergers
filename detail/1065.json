@@ -1,0 +1,44 @@
+{
+  "id": "1065",
+  "title": "Microsoft Corporation - proposed acquisition of aQuantive Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/microsoft-corporation-proposed-acquisition-of-aquantive-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28885",
+  "industries": [
+    "digital marketing services and technologies"
+  ],
+  "date_completed": "6 August 2007",
+  "date_completed_iso": "2007-08-06T12:00:00Z",
+  "date_commenced": "4 July 2007",
+  "date_commenced_iso": "2007-07-04T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Microsoft Corporation"
+  ],
+  "targets": [
+    "aQuantive Inc"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jul 2007",
+      "date_iso": "2007-07-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jul 2007",
+      "date_iso": "2007-07-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Aug 2007",
+      "date_iso": "2007-08-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "NASDAQ listed software developer, Microsoft Corporation (Miscrosoft), sought to acquire aQuantive Inc. (aQuantive), a digital media company.",
+    "Market definition": "In Australia, Microsoft's subsidiary, Microsoft Pty Ltd, has a joint venture with PBL Media that trades as Ninemsn. Ninemsn provides space for search and non-search advertising on its website www.ninemsn.com. It does not provide space for classified or directory advertising. In Australia, aQuantive's subsidiary, Amnesia, develops targeted marketing strategies to maximise the ability of advertisers to reach target audiences on the internet. Therefore, the ACCC considered that the most likely relevant markets were likely to be, broadly, the markets for: *\tthe provision of advertising space; and *\tthe provision of advertising services to advertisers. It was not necessary to come to any definitive conclusions on market definition, however, because even on the narrowest definition of the relevant markets the ACCC considered that competition concerns were unlikely to arise.",
+    "Competition analysis": "The acquisition resulted in the vertical integration of Ninemsn's role as a seller of online advertising space, with aQuantive's role as a provider of online marketing services to advertisers. The ACCC found that there are a significant number of well-resourced firms operating at both the upstream advertising space market and the downstream online advertising services market that would be likely to constrain the behaviour of the merged entity post-acquisition.  Therefore, the ACCC considered that the merged entity would be unlikely to be able to exercise market power in either market post-transaction. Accordingly, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets."
+  }
+}

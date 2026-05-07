@@ -1,0 +1,49 @@
+{
+  "id": "0943",
+  "title": "George Weston Foods Limited - proposed acquisition of KR Castlemaine Foods Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/george-weston-foods-limited-proposed-acquisition-of-kr-castlemaine-foods-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30577",
+  "industries": [
+    "Smallgoods meat manufacturing and fresh pig meat"
+  ],
+  "date_completed": "20 March 2008",
+  "date_completed_iso": "2008-03-20T12:00:00Z",
+  "date_commenced": "5 February 2008",
+  "date_commenced_iso": "2008-02-05T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "George Weston Foods Limited"
+  ],
+  "targets": [
+    "KR Castlemaine Foods Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Feb 2008",
+      "date_iso": "2008-02-05T12:00:00Z",
+      "event": "Merger parties announce the proposed acquisition."
+    },
+    {
+      "date": "5 Feb 2008",
+      "date_iso": "2008-02-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Mar 2008",
+      "date_iso": "2008-03-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "George Weston Foods Limited proposed to acquire KR Castlemaine Foods Pty Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of each of the following markets: - the Victorian market for the acquisition of pigs; - the national wholesale market for fresh pig meat; and - the national wholesale smallgoods market which consists of pre-packed products and bulk products.",
+    "Competition analysis": "On 20 March 2008, the ACCC formed the view that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any of the relevant markets. Factors informing this conclusion included: - the availability of substitutes from other competitors such as Hans and Primo and smaller sized competitors such as D'Orsogna, Ridders Fresh and Bertocchi; - barriers to entry and / or expansion are likely to be surmountable as demonstrated by smaller players which have entered the market on a smaller level and expanded their geographical coverage, product range and types of customers; and - the major grocery stores are able to exercise countervailing power."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1136",
+  "title": "Alinta Ltd - consideration of need for APT to divest Origin Energy's assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alinta-ltd-consideration-of-need-for-apt-to-divest-origin-energys-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27101",
+  "industries": [
+    "Gas and electricity"
+  ],
+  "date_completed": "7 March 2007",
+  "date_completed_iso": "2007-03-07T12:00:00Z",
+  "date_commenced": "24 January 2007",
+  "date_commenced_iso": "2007-01-24T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Alinta Ltd"
+  ],
+  "targets": [
+    "Origin Energy Limited's gas infrastructure assets"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jan 2007",
+      "date_iso": "2007-01-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "5 Feb 2007",
+      "date_iso": "2007-02-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Mar 2007",
+      "date_iso": "2007-03-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In January 2007, Origin Energy (Origin) commenced a tender process for the sale of its gas infrastructure assets.  These assets were: -  an approximate 17% interest in Envestra Limited; -  the Albury gas distribution network; -  one of three Victorian gas distribution networks; -  a 33.3% interest in the SEA Gas pipeline; and -  Origin Energy Asset Management Limited (OEAM). On 7 March 2007, the ACCC decided whether or not the Origin Energy gas infrastructure assets should be considered 'Additional APT Assets'  (as defined in the undertaking given by Alinta on 27 November 2006 - available on the ACCC website) in the event APT acquires the Origin Energy gas infrastructure assets.  In other words, the ACCC decided whether or not the Origin Energy gas infrastructure assets would be considered part of the list of assets that APT must have divested if Alinta wished to retain its interest in APT after a confidential date.  At the time, the list included the Parmelia Pipeline, Moomba to Sydney Pipeline and GasNet.  The decision on 7 March 2007, reflected an assessment by the ACCC of whether there were competition concerns arising from the aggregation of Origin Energy's gas infrastructure assets and Alinta.",
+    "Market definition": "The ACCC considered the relevant markets to be: -  the supply of services on gas transmission pipelines and gas distribution networks; -  the supply of services on gas distribution networks; and -  the provision of infrastructure/asset management services on a national basis. The geographic markets of the gas transmission pipeline and gas distribution networks markets were confined to the areas that the assets could service.",
+    "Competition analysis": "The ACCC noted that it previously considered APT's proposed acquisition of Origin Energy's gas infrastructure assets.  Due to the structuring of the 27 November 2006 Alinta s87B undertaking given to the ACCC, which was designed so that Alinta could not interfere in business purchases by APT, the fact that Alinta had, and could potentially retain, a minority interest in APT did not have any effect on the ACCC's assessment of APT's proposed acquisition or the Origin Energy gas infrastructure assets.  On 21 February 2007, the ACCC stated it did not propose to intervene in that transaction independent of Alinta's interest in APT. The ACCC noted that most of the assets were regulated monopoly assets and considered that competition between the assets was minimal and appeared to only occur at the margins of the gas networks and gas transmission pipelines. The ACCC considered that Alinta, through its interest in APT, obtaining a 33.3% interest in the SEA Gas Pipeline would be unlikely to substantially lessen competition, as the presence of the other SEA Gas partners and the Moomba to Adelaide Pipeline System would act as competitive constraints for the transportation of gas into Adelaide. In addition, as APT would need to have divested the Moomba to Sydney Pipeline and GasNet to allow for Alinta to retain its interest in APT, the structure of the 27 November 2006 87B undertaking would ensure that there would be one route for the transportation of gas in and out of Victoria in which Alinta did not have any interest. In relation to the market for the provision of infrastructure/asset management services, the ACCC noted the following: -  infrastructure owners often had the ability to provide these services in-house; -  international firms with relevant experience could fulfil the same function in Australia with sub-contractors; -  companies from other industries appeared to be able to provide those services through acquiring the relevant skilled staff; -  the majority of contracts were long term and tied to regulated monopolies; and -  a relatively small proportion of OEAM's operations involved the provision of asset management services to third parties. The ACCC considered that a substantial lessening of competition in the market for the provision of asset management services was unlikely as a result of Alinta retaining or increasing its interest in APT and also APT acquiring the Origin Energy gas infrastructure assets. In summary, taking into account the above factors and other information, in accordance with Alinta's s87B undertaking of 27 November 2006, the ACCC did not consider that Alinta taking a direct or indirect Material Interest in the Origin Energy gas infrastructure assets would have the effect, or would be likely to have the effect, of substantially lessening competition in a substantial market in Australia."
+  }
+}

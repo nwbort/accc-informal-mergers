@@ -1,0 +1,85 @@
+{
+  "id": "1157",
+  "title": "OneSteel Limited - proposed acquisition of Smorgon Steel Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-limited-proposed-acquisition-of-smorgon-steel-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24640",
+  "industries": [
+    "Steel and steel products"
+  ],
+  "date_completed": "5 February 2007",
+  "date_completed_iso": "2007-02-05T12:00:00Z",
+  "date_commenced": "26 June 2006",
+  "date_commenced_iso": "2006-06-26T12:00:00Z",
+  "total_review_days": 68,
+  "acquirers": [
+    "OneSteel Limited"
+  ],
+  "targets": [
+    "Smorgon Steel Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 Jun 2006",
+      "date_iso": "2006-06-26T12:00:00Z",
+      "event": "ACCC commences assessment under Merger Review Process Guidelines"
+    },
+    {
+      "date": "27 Jun 2006",
+      "date_iso": "2006-06-27T12:00:00Z",
+      "event": "ACCC commences market inquiries"
+    },
+    {
+      "date": "7 Jul 2006",
+      "date_iso": "2006-07-07T12:00:00Z",
+      "event": "ACCC requested further information from OneSteel"
+    },
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "Closing date for submissions for the first round of market inquiries"
+    },
+    {
+      "date": "17 Jul 2006",
+      "date_iso": "2006-07-17T12:00:00Z",
+      "event": "ACCC received further information from OneSteel in response to request of 7 July 2006"
+    },
+    {
+      "date": "28 Jul 2006",
+      "date_iso": "2006-07-28T12:00:00Z",
+      "event": "ACCC requested further information from OneSteel"
+    },
+    {
+      "date": "7 Aug 2006",
+      "date_iso": "2006-08-07T12:00:00Z",
+      "event": "ACCC received further information from OneSteel in response to request of 28 July 2006"
+    },
+    {
+      "date": "14 Aug 2006",
+      "date_iso": "2006-08-14T12:00:00Z",
+      "event": "ACCC released a Statement of Issues in relation to the proposed acquisition"
+    },
+    {
+      "date": "23 Aug 2006",
+      "date_iso": "2006-08-23T12:00:00Z",
+      "event": "Closing date for submissions in response to the Statement of Issues"
+    },
+    {
+      "date": "1 Sep 2006",
+      "date_iso": "2006-09-01T12:00:00Z",
+      "event": "Proposed announcement of ACCC findings delayed at request of OneSteel to enable more time for OneSteel to respond to the ACCC's Statement of Issues (please see related media release)"
+    },
+    {
+      "date": "19 Sep 2006",
+      "date_iso": "2006-09-19T12:00:00Z",
+      "event": "Pause in ACCC process extended until further notice"
+    },
+    {
+      "date": "5 Feb 2007",
+      "date_iso": "2007-02-05T12:00:00Z",
+      "event": "Request for informal clearance of proposed acquisition withdrawn"
+    }
+  ],
+  "body_sections": {}
+}

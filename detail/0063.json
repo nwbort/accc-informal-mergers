@@ -1,0 +1,50 @@
+{
+  "id": "0063",
+  "title": "realestate.com.au Pty Ltd - Dynamic Methods Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/realestatecomau-pty-ltd-dynamic-methods-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Software - real estate",
+    "real estate agent software",
+    "Real estate advertising"
+  ],
+  "date_completed": "28 March 2024",
+  "date_completed_iso": "2024-03-28T12:00:00Z",
+  "date_commenced": "24 November 2023",
+  "date_commenced_iso": "2023-11-24T12:00:00Z",
+  "total_review_days": 85,
+  "acquirers": [
+    "realestate.com.au Pty Ltd"
+  ],
+  "targets": [
+    "Dynamic Methods Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Nov 2023",
+      "date_iso": "2023-11-24T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Feb 2024",
+      "date_iso": "2024-02-15T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "1 Mar 2024",
+      "date_iso": "2024-03-01T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "28 Mar 2024",
+      "date_iso": "2024-03-28T12:00:00Z",
+      "event": "ACCC discontinued its public review after REA Group advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {
+    "Summary": "realestate.com.au Pty Ltd, a wholly-owned subsidiary of REA Group Ltd ( REA Group ) proposes to acquire Dynamic Methods Pty Ltd ( Dynamic Methods ). REA Group provides digital advertising services for residential and commercial real estate, including the websites and apps known as realestate.com.au, realcommercial.com.au and flatmates.com.au. REA Group also supplies mortgage broking services (Mortgage Choice), property data, research and valuation services (PropTrack and property.com.au) and vendor paid advertising and home preparation finance services (Campaign Agent). It also has a minority investment in Realtair Pty Ltd, a digital real estate service for the management of property transactions. Dynamic Methods provides a service to facilitate the digital use of common real estate forms. In all states and territories except Victoria, Dynamic Methods supplies services to real estate institutes to enable the real estate institutes to supply their own electronic forms to real estate agents. In Victoria, Dynamic Methods supplies its own forms directly to real estate agents. Dynamic Methods’ platform can be integrated into digital real estate services and data platforms but does not currently integrate with any digital property listing platform. Examples of forms include residential tenancy agreements, leasing agency agreements, agent authorities, sale agreements, and commercial and retail leases.",
+    "Competition analysis": "The ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition. On 28 March 2024, the ACCC discontinued its public review after REA Group advised that the proposed acquisition would not be proceeding."
+  }
+}

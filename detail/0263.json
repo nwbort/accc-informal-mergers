@@ -1,0 +1,44 @@
+{
+  "id": "0263",
+  "title": "Sonic Healthcare Limited - completed acquisition of Adelaide Pathology Partners (APP)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sonic-healthcare-limited-completed-acquisition-of-adelaide-pathology-partners-app",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58587",
+  "industries": [
+    "Pathology services"
+  ],
+  "date_completed": "8 June 2016",
+  "date_completed_iso": "2016-06-08T12:00:00Z",
+  "date_commenced": "9 November 2015",
+  "date_commenced_iso": "2015-11-09T12:00:00Z",
+  "total_review_days": 144,
+  "acquirers": [
+    "Sonic Healthcare Limited"
+  ],
+  "targets": [
+    "Adelaide Pathology Partners"
+  ],
+  "timeline": [
+    {
+      "date": "9 Nov 2015",
+      "date_iso": "2015-11-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "13 Nov 2015",
+      "date_iso": "2015-11-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Jun 2016",
+      "date_iso": "2016-06-08T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC will however continue to monitor the effect of the acquisition on competition for the supply of pathology services in South Australia."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sonic acquired Adelaide Pathology Partners (APP), a supplier of pathology services in South Australia. APP competed with Sonic's Clinpath business.",
+    "Market definition": "The ACCC considered the completed acquisition in the market for the supply of community pathology services in South Australia, encompassing both clinical and anatomical pathology services. The ACCC did not reach a concluded view regarding market definition as it was not critical to the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the acquisition was not likely to substantially lessen competition as there would remain alternative suppliers of pathology services in South Australia who would constrain the merged entity, including Australian Clinical Labs (formerly Healthscope), SA Pathology and Abbott Pathology."
+  }
+}

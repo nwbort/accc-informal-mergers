@@ -1,0 +1,25 @@
+{
+  "id": "1282",
+  "title": "Locker Group Pty Ltd - acquisition of Melwire Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/locker-group-pty-ltd-acquisition-of-melwire-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24322",
+  "industries": [
+    "Manufacturing"
+  ],
+  "date_completed": "16 May 2006",
+  "date_completed_iso": "2006-05-16T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "The ACCC considered the following markets: - the market for the manufacture and supply of metal wire screening; and - the market for the manufacture and supply of wire conveyor belting.",
+    "Competition analysis": "The ACCC considered that a substantial lessening of competition was not likely given the level of imports and countervailing power.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

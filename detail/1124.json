@@ -1,0 +1,49 @@
+{
+  "id": "1124",
+  "title": "Ausfuel Holdings Pty Ltd - proposed acquisition of Octagon Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ausfuel-holdings-pty-ltd-proposed-acquisition-of-octagon-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27414",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "4 April 2007",
+  "date_completed_iso": "2007-04-04T12:00:00Z",
+  "date_commenced": "5 March 2007",
+  "date_commenced_iso": "2007-03-05T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Ausfuel Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Octagon Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Mar 2007",
+      "date_iso": "2007-03-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "13 Mar 2007",
+      "date_iso": "2007-03-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Mar 2007",
+      "date_iso": "2007-03-28T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further market inquiries."
+    },
+    {
+      "date": "4 Apr 2007",
+      "date_iso": "2007-04-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ausfuel proposes to acquire certain assets of Octagon including the leaseholds in three service stations located in Darwin and fuel distribution assets located in the Northern Territory. Ausfuel operates service stations in the greater Darwin region and a fuel distribution business in the Northern Territory, Queensland and Western Australia.",
+    "Market definition": "The ACCC considered the following markets in its review of Ausfuel's proposed acquisition: - Localised fuel retail markets; and a - Northern Territory fuel distribution market.",
+    "Competition analysis": "The ACCC considered that Ausfuel faces sufficient competitive constraints post-acquisition and that the acquisition is unlikely to cause a substantial lessening of competition in any of the relevant markets. This conclusion was informed by the following factors: - Barriers to entry into fuel retail markets can be overcome; - Post-acquisition, there would remain alternative competitive suppliers in the relevant fuel retail markets; - Barriers to entry and expansion into the Northern Territory fuel distribution market do not appear high; - Post-acquisition, there would remain alternative competitive distributors that large and small to medium commercial customers can purchase fuel from in the Northern Territory; and - Octagon's relatively limited involvement in fuel retail and distribution in the Northern Territory."
+  }
+}

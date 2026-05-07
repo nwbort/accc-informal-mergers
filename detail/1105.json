@@ -1,0 +1,44 @@
+{
+  "id": "1105",
+  "title": "Western Medical Imaging - proposed acquisition of St John of God Hospital Ballarat's general diagnostic imaging business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/western-medical-imaging-proposed-acquisition-of-st-john-of-god-hospital-ballarats-general-diagnostic-imaging-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25823",
+  "industries": [
+    "General Diagnostic Imaging and Angiography"
+  ],
+  "date_completed": "10 May 2007",
+  "date_completed_iso": "2007-05-10T12:00:00Z",
+  "date_commenced": "16 April 2007",
+  "date_commenced_iso": "2007-04-16T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Western Medical Imaging"
+  ],
+  "targets": [
+    "St John of God Hospital Ballarat's General Diagnostic Imaging Business"
+  ],
+  "timeline": [
+    {
+      "date": "16 Apr 2007",
+      "date_iso": "2007-04-16T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "18 Apr 2007",
+      "date_iso": "2007-04-18T12:00:00Z",
+      "event": "ACCC commences market inquiries"
+    },
+    {
+      "date": "10 May 2007",
+      "date_iso": "2007-05-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Western Medical Imaging (WMI) proposes to acquire St John of God Hospital Ballarat's (SJGHC's) general diagnostic imaging business.  As part of the transaction, SJGHC will be acquiring WMI's business of diagnostic and interventional angiography services.",
+    "Market definition": "This merger was assessed within the context of the market for the supply of general diagnostic imaging services (excluding nuclear medicine and MRI, and excluding all in-patients at public hospitals) in the Ballarat region.",
+    "Competition analysis": "On 10 May 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion included: - A number of sizeable competitiors will remain in the market, who are likely to act as a strong competitive constraint on the merged firm; and - Barriers to entry are moderate and not insurmountable, and there is evidence of new entry."
+  }
+}

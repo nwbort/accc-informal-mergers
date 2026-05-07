@@ -1,0 +1,67 @@
+{
+  "id": "0086",
+  "title": "Forestry Corporation of NSW - Hume Forests Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/forestry-corporation-of-nsw-hume-forests-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Forestry Assets"
+  ],
+  "date_completed": "14 December 2022",
+  "date_completed_iso": "2022-12-14T12:00:00Z",
+  "date_commenced": "3 August 2022",
+  "date_commenced_iso": "2022-08-03T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "Forestry Corporation of NSW"
+  ],
+  "targets": [
+    "Hume Forests Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Aug 2022",
+      "date_iso": "2022-08-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Aug 2022",
+      "date_iso": "2022-08-17T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Sep 2022",
+      "date_iso": "2022-09-12T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information. Former provisional date for announcement of ACCC's findings (29 September) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "30 Sep 2022",
+      "date_iso": "2022-09-30T12:00:00Z",
+      "event": "ACCC received further information. Timeline recommenced."
+    },
+    {
+      "date": "20 Oct 2022",
+      "date_iso": "2022-10-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "3 Nov 2022",
+      "date_iso": "2022-11-03T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "16 Nov 2022",
+      "date_iso": "2022-11-16T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information. Former provisional date for announcement of ACCC's findings (27 January 2023) is delayed. The ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "14 Dec 2022",
+      "date_iso": "2022-12-14T12:00:00Z",
+      "event": "ACCC discontinued its public review after Forestry Corporation of NSW withdrew its application for informal merger clearance."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Forestry Corporation of NSW (FCNSW) proposes to acquire the assets of Hume Forests Ltd (Hume) from an investment fund advised by Global Forest Partners LP. The FCNSW is a state-owned corporation appointed to manage environmental conservation, community access, tourism, fire, land management and renewable timber production on behalf of the NSW Government. Hume owns sustainable softwood plantation estates in the Tumut/Tumbarumba and Bathurst/Oberon regions of NSW."
+  }
+}

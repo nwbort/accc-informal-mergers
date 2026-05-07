@@ -1,0 +1,39 @@
+{
+  "id": "1129",
+  "title": "Woolworths Limited - proposed acquisition of Roger and Dale's IGA in Thurgoona",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-roger-and-dales-iga-in-thurgoona",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27314",
+  "industries": [
+    "Liquor and supermarket retailing"
+  ],
+  "date_completed": "12 March 2007",
+  "date_completed_iso": "2007-03-12T12:00:00Z",
+  "date_commenced": "2 March 2007",
+  "date_commenced_iso": "2007-03-02T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Roger and Dales IGA in Thurgoona"
+  ],
+  "timeline": [
+    {
+      "date": "2 Mar 2007",
+      "date_iso": "2007-03-02T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Mar 2007",
+      "date_iso": "2007-03-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposes to acquire the liquor licence, goodwill, liquor stock, and the supermarket space of Roger & Dales IGA, Thurgoona, NSW.",
+    "Market definition": "For the purposes of this competition assessment the relevant markets were considered to be: 1. the local market for the retail sale of packaged liquor for off premises consumption. The geographic dimension of this market was considered to be approximated by a 3-6 kilometre radius surrounding the target business. (Market 1); 2. the local market for the supply of goods by supermarkets. The geographic dimension of this market was considered to be approximated by a 3-6 kilometre radius surrounding the target business. (Market 2); 3. the NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 3); and 4. The NSW market(s) for the procurement of products sold in supermarkets (Market 4).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets for the following reasons: 1. In relation to Market 1, if a 3-5 km radius around the target business is adopted, the acquisition represents a bare transfer of market share, since Woolworths has no liquor outlets within 5km of the target. If a wider geographic market definition were adopted (6km), which would include another Woolworths outlet, the ACCC concluded that competition from Coles and a number of independent hotels will provide a competitive constraint on Woolworths post-acquisition; 2. In relation to Market 2, while Woolworths will own two stores in the local market post-acquisition, it will continue to face competition from a number of competitors, including a Coles and an ALDI store as well as independents, which are likely to constrain Woolworths post-acquisition; 3. In relation to Markets 3 and 4, the ACCC considered that the acquisition of one retail store is unlikely to significantly increase Woolworths' market share (or buying power) in either market."
+  }
+}

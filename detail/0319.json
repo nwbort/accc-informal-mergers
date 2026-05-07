@@ -1,0 +1,64 @@
+{
+  "id": "0319",
+  "title": "Expedia Inc - proposed acquisition of Wotif.com Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/expedia-inc-proposed-acquisition-of-wotifcom-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55143",
+  "industries": [
+    "Travel products"
+  ],
+  "date_completed": "2 October 2014",
+  "date_completed_iso": "2014-10-02T12:00:00Z",
+  "date_commenced": "16 July 2014",
+  "date_commenced_iso": "2014-07-16T12:00:00Z",
+  "total_review_days": 56,
+  "acquirers": [
+    "Expedia Inc"
+  ],
+  "targets": [
+    "Wotif.com Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jul 2014",
+      "date_iso": "2014-07-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2014",
+      "date_iso": "2014-08-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "15 Aug 2014",
+      "date_iso": "2014-08-15T12:00:00Z",
+      "event": "ACCC requested further information from Expedia."
+    },
+    {
+      "date": "18 Aug 2014",
+      "date_iso": "2014-08-18T12:00:00Z",
+      "event": "ACCC requested further information from Wotif."
+    },
+    {
+      "date": "4 Sep 2014",
+      "date_iso": "2014-09-04T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "19 Sep 2014",
+      "date_iso": "2014-09-19T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "2 Oct 2014",
+      "date_iso": "2014-10-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Expedia, Inc. proposed to acquire Wotif.com Holdings Limited.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

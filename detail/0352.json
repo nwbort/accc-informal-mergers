@@ -1,0 +1,54 @@
+{
+  "id": "0352",
+  "title": "Woolworths Limited - proposed acquisition of Supa IGA supermarket and packaged liquor operations in St Kilda VIC",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-supa-iga-supermarket-and-packaged-liquor-operations-in-st-kilda-vic",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51417",
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "29 January 2014",
+  "date_completed_iso": "2014-01-29T12:00:00Z",
+  "date_commenced": "16 October 2013",
+  "date_commenced_iso": "2013-10-16T12:00:00Z",
+  "total_review_days": 72,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Supa IGA supermarket and packaged liquor operations in St Kilda VIC"
+  ],
+  "timeline": [
+    {
+      "date": "16 Oct 2013",
+      "date_iso": "2013-10-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "6 Nov 2013",
+      "date_iso": "2013-11-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "5 Dec 2013",
+      "date_iso": "2013-12-05T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "17 Jan 2014",
+      "date_iso": "2014-01-17T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "29 Jan 2014",
+      "date_iso": "2014-01-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Ltd proposed to acquire the supermarket and liquor business trading as Renaissance Supa IGA in St Kilda, Victoria, including the liquor licence, goodwill, furniture and fittings and  plant and equipment.  Woolworths intended to re-brand the supermarket operations under the Woolworths banner and the takeaway packaged liquor operation as a BWS.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: a.\ta local retail supermarket market surrounding the target, which includes the suburb of St Kilda and neighbouring suburbs of St Kilda West, Middle Park and Windsor; b.\ta local retail market for the supply of takeaway packaged liquor surrounding the target; c.\ta state-wide retail supermarket market; and d.\tstate-wide wholesale procurement and supply markets.",
+    "Competition analysis": "The ACCC did not consider that the proposed acquisition would substantially lessen competition in any of the relevant markets considered. The ACCC considered that in the absence of the proposed acquisition, that St Kilda Supa IGA would be likely to exit the market at the expiry of its current lease arrangements in 2017.  The ACCC's inquiries suggested that no alternative purchasers were likely to acquire the St Kilda Supa IGA before the expiry of the lease, or to establish an independent supermarket at the target site with a new lease after 2017. The ACCC considered that between now and its closure in 2017, the target supermarket was unlikely to impose a significant constraint in the local supermarket market for the following reasons. -\tAlthough the target supermarket stocked a full range of products needed for a full weekly shop and a range of differentiated products, it was predominantly used by customers as a convenience store.  To the extent that shoppers valued the location of the target supermarket, the ACCC considered that the proposed acquisition would not result in harm because there would continue to be a supermarket at this location. -\tThe target supermarket was expected to be rebranded from a 'Supa IGA' to a 'IGA plus liquor' in February 2014, and would therefore no longer offer the Supa IGA promotions to shoppers in the local area.  The ACCC notes that the IGA promotions would remain available to shoppers at the Middle Park IGA. -\tThe ACCC considered that the offer of the target supermarket was likely to deteriorate over time, given the owner was unlikely to invest significantly in the supermarket when it was expected to close in 2017. The ACCC considered that the liquor outlets in the relevant local market faced competition from a range of Coles, Woolworths and independent bottleshops and supermarkets. Therefore the effect of the proposed acquisition on the local takeaway packaged liquor market was unlikely to be substantial. The ACCC considered that the transfer of a single supermarket would be unlikely to have a substantial impact on competition in the state-wide retail supermarket market or the state-wide procurement and supply markets for products sold in supermarkets. The ACCC will not be releasing a Public Competition Assessment as the factors considered in the ACCC's competition analysis are primarily relevant to the specific proposed acquisition and the circumstances of the relevant local market."
+  }
+}

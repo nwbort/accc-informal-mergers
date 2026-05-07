@@ -1,0 +1,26 @@
+{
+  "id": "1345",
+  "title": "Arrow Pharmaceuticals Ltd - proposed acquisition of Sigma Company Ltd.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/arrow-pharmaceuticals-ltd-proposed-acquisition-of-sigma-company-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22403",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "26 October 2005",
+  "date_completed_iso": "2005-10-26T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Merger between Sigma Company and Arrow Pharmaceuticals.",
+    "Market definition": "The ACCC considered the impact of the proposed merger in the following markets: (i) the various national markets for manufacturing and marketing of therapeutically equivalent pharmaceuticals. The ACCC found that the regulatory processes facing businesses wishing to commence manufacturing and marketing a generic pharmaceutical would take at least twelve months to complete.  It therefore concluded that businesses commencing manufacturing a generic pharmaceutical was more akin to new entry than supply side substitution.  Consequently, it was unlikely that there existed a market for generic pharmaceuticals generally. (ii) Regional Markets for wholesaling of pharmaeuticals to pharmacists.  This was in part due to the limited geographical area that can be seviced by each warehouse.",
+    "Competition analysis": "On 26 October 2005, the ACCC announced that it would not to oppose the merger between Arrow Pharmaceuticals and Sigma Company. A significant concern was whether the merged company would have an incentive to discriminate against competing generic pharmaceutical manufacturers in its wholesale distribution and pharmacy banner group operations.  The ACCC decided that this was unlikely, as there was no evidence that Sigma had previously been able to use its wholesaling and banner group operations to discriminate in favour of Sigma pharmaceuticals over those manufactured by its competitors. Sigma and Arrow also compete to supply pharmaceuticals to a limited range of pharmaceutical markets, in all of which there are several other competitors.  In addition, the ACCC was satisfied that the proposed merger would not raise competition concerns at the wholesale distribution level, given Arrow's limited wholesaling operations.",
+    "Merger type": "Vertical",
+    "Initiation": "FIRB, Press"
+  }
+}

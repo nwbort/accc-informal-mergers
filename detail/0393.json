@@ -1,0 +1,44 @@
+{
+  "id": "0393",
+  "title": "Agrium Inc - proposed acquisition of Viterra's agri-products retail business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agrium-inc-proposed-acquisition-of-viterras-agri-products-retail-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50517",
+  "industries": [
+    "Agri-products"
+  ],
+  "date_completed": "10 April 2013",
+  "date_completed_iso": "2013-04-10T12:00:00Z",
+  "date_commenced": "12 February 2013",
+  "date_commenced_iso": "2013-02-12T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Agrium Inc"
+  ],
+  "targets": [
+    "Viterra's agri-products retail business"
+  ],
+  "timeline": [
+    {
+      "date": "12 Feb 2013",
+      "date_iso": "2013-02-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Mar 2013",
+      "date_iso": "2013-03-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Apr 2013",
+      "date_iso": "2013-04-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Agrium Inc proposed to acquire Viterra Inc's farm supply agri-products retail business, fertiliser importation and wholesaling business, and wool broking and exporting businesses.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the following markets: i.\tlocal markets for the retail supply of agri-products; ii.\tregional markets for the supply of wool broking services; and iii.\tregional markets for the supply of wool exporting services. For the purpose of considering this acquisition, the ACCC did not consider it necessary to form a definitive view as to the specific geographic dimension of each local market for the retail supply of agri-products. The ACCC conducted the competition analysis with reference to the existing competitive constraints in the local towns where there was overlap between the merger parties. The ACCC did not consider it necessary to reach a concluded view regarding the geographic dimensions of markets for the supply of wool broking and wool exporting services. Therefore, the ACCC proceeded on the basis of regional markets, with markets encompassing Southern (Victoria, South Australia, Tasmania), Northern (New South Wales, Queensland) and Western (Western Australia) regions. The ACCC did not assess the effects of the proposed acquisition in relation to fertiliser importation and wholesaling as there was no overlap between the merger parties.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In each local market for the retail supply of agri-products, the ACCC considered that a sufficient number of local competitors would remain to competitively constrain the merged entity. The ACCC considered that in the relevant markets for the supply of wool broking and wool exporting services, a number of competitors would continue to provide a strong competitive constraint on the merged entity post-acquisition. In relation to regional markets for wool broking services, the ACCC concluded that the proposed acquisition would result in only a small increase in market concentration due to Landmark's small shareholding in each region."
+  }
+}

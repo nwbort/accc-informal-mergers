@@ -1,0 +1,204 @@
+ 
+Land of the Wurundjeri people of the Kulin Nation
+Level 17, 2 Lonsdale Street
+Melbourne Vic 3000
+GPO Box 3131
+Canberra ACT 2601
+Tel 03 9290 1800
+www.accc.gov.au
+ 
+Our ref: IM-72752 
+ 
+ 
+21 January 2025 
+ 
+Dear Interested Party 
+Re: Request for submissions: IBM's proposed acquisition of HashiCorp Inc. 
+The Australian Competition and Consumer Commission (ACCC) is seeking your views on the 
+proposed acquisition of HashiCorp, Inc. (HashiCorp) by International Business Machines 
+Corporation (IBM) (the Proposed Acquisition).  
+IBM and HashiCorp offer various software solutions and related services on a global basis 
+including in Australia, and are both active in the supply of IT infrastructure automation 
+software through their products Ansible (IBM) and Terraform (HashiCorp), and in the supply 
+of security software through their products IBM Cloud Secrets Manager, Verify Privilege 
+(IBM) and Vault (HashiCorp). 
+ 
+The ACCC’s investigation is focused on the impact on competition in Australia. In particular, 
+we are seeking your views on: 
+ 
+• 
+how closely IBM and HashiCorp compete;  
+• 
+whether price levels will increase and/or service quality will decrease as a result of 
+the Proposed Acquisition;  
+• 
+the availability of alternative IT infrastructure automation software (including 
+provisioning and configuration management), and security software, and the 
+likelihood of new entry; and  
+• 
+whether a combined IBM and HashiCorp would have the ability to foreclose 
+competitors of IBM or HashiCorp.  
+ 
+Further issues you may wish to address are set out in Attachment B.  
+ 
+This matter is public, and you can forward this letter to anybody who may be interested.  
+ 
+The legal test which the ACCC applies in considering the proposed acquisition is in section 
+50 of the Competition and Consumer Act 2010. Section 50 prohibits acquisitions that are 
+likely to have the effect of substantially lessening competition in a market.  
+Please provide your response by 4 February 2025 via email to mergers@accc.gov.au with 
+the title: Submission re: IBM - HashiCorp. If you require more time to respond, please let us 
+know. 
+
+
+ 
+2
+If you would like to arrange a time to discuss the matter with ACCC officers, or have any questions 
+about this letter, please contact mergers@accc.gov.au.  
+Updates regarding the ACCC’s investigation will be available on the ACCC’s Public Mergers 
+Register at (ACCC mergers register). 
+Confidentiality of submissions 
+The ACCC will not publish submissions regarding the proposed acquisition. We will not 
+disclose submissions to third parties (except our advisors/consultants) unless compelled by 
+law (for example, under freedom of information legislation or during court proceedings) or in 
+accordance with s155AAA of the CCA. Where the ACCC is required to disclose confidential 
+information, the ACCC will notify you in advance where possible so that you may have an 
+opportunity to be heard. Therefore, if the information provided to the ACCC is of a 
+confidential nature, please indicate as such. Our Informal Merger Review Process Guidelines 
+contain more information on confidentiality 
+ 
+Yours sincerely  
+ 
+Simon Pomery 
+Acting General Manager 
+Merger Investigations 
+ 
+ 
+
+
+ 
+3
+Attachment A – Overview of the merger parties and the Proposed Acquisition 
+ 
+The Proposed Acquisition 
+ 
+IBM proposes to acquire all of the issued share capital of HashiCorp.  
+ 
+IBM 
+ 
+IBM is a publicly listed, US-based global information technology (IT) company. IBM is active 
+in the development, production, and marketing of a wide variety of IT solutions. This includes 
+enterprise IT software and systems (such as servers, storage systems, cloud, and cognitive 
+offerings) and IT implementation services (such as business consulting and IT infrastructure 
+services).  
+ 
+In Australia, IBM offers IT infrastructure automation software through IBM Australia Limited 
+and/or through its wholly-owned subsidiary Red Hat. Red Hat is an enterprise software 
+company with an open source development model which has a number of infrastructure 
+automation solutions. 
+ 
+HashiCorp 
+ 
+HashiCorp is a publicly listed, US-based global software supplier that provides a variety of 
+software products for provisioning, securing and connecting cloud-native infrastructure 
+resources to support development and operations on public clouds, private data centres and 
+hybrid environments (through both an open source and paid model).  
+ 
+HashiCorp offers its software products globally, including in Australia.  
+ 
+Areas of overlap 
+ 
+IBM and HashiCorp are both active in the supply of: 
+ 
+• 
+IT infrastructure automation software through their products Ansible (IBM) and 
+Terraform (HashiCorp); and 
+• 
+security software through their products IBM Cloud Secrets Manager and Verify 
+Privilege (IBM) and Vault (HashiCorp). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+4
+Attachment B – List of questions 
+ 
+1. Provide a brief description of your business or organisation and reasons for your interest 
+in the proposed acquisition, including any commercial relationship(s) with IBM and/or 
+HashiCorp. This will help us better understand your views.  
+Questions for customers of IBM and/or HashiCorp  
+2. Describe any IBM or HashiCorp services or products that your organisation uses, what 
+you use it for, and whether it is in relation to a hybrid or multi cloud strategy (if other 
+please specify). 
+3. Describe how your organisation selects a supplier (or suppliers) for:  
+• IT infrastructure automation software (including provisioning and configuration 
+management), and/or  
+• security software including secrets management software.  
+Please identify the key factors considered and whether you would use multiple products 
+for each. For example using different products for cloud infrastructure provisioning vs 
+configuration and the extent to which these products are interchangeable. If you use 
+Terraform, do you also use Ansible (or an equivalent software) and vice versa. 
+4. Explain the process of switching providers and the ease with which this can be done for 
+IT infrastructure automation software (including provisioning and configuration 
+management) and security software. In your response, please consider the costs, time 
+required and any other challenges involved with switching providers. 
+Questions for all market participants 
+5. Describe whether and to what extent IBM and HashiCorp compete in the supply of IT 
+infrastructure automation software (including provisioning and configuration 
+management) and/or security (including secrets management) software. Relevant 
+factors may include technical functionality, scope of offerings, price, security, level of 
+customisation available or customer needs.  
+6. Identify alternative providers of IT infrastructure automation (including provisioning and 
+configuration management) and/or security (including secrets management) software, 
+and describe: 
+a. how and to what extent these suppliers compete with IBM and HashiCorp; 
+b. whether open source software is a viable alternative for your organisation;  
+c. the cost, availability and importance of support services from the provider;  
+d. how and to what extent software solutions offered by cloud service providers 
+(CSPs) such as Amazon Web Services, Microsoft Azure and Google Cloud 
+Platform compete with IBM and HashiCorp.  
+ 
+Take into account factors such as technical functionality, scope of offerings, price, 
+security, level of customisation available or customer needs. 
+7. For customers that are currently operating or are wanting to move to a multi cloud 
+solution for their business, describe what IT infrastructure automation software 
+
+
+ 
+5
+(including provisioning and configuration management) are available. Explain whether it 
+would be possible to use software solutions offered by the CSPs to do this.  
+8. Explain whether Ansible, Terraform or Vault are considered ‘must have’ products within 
+their respective areas, and if so in what circumstances and for what cohort of customers 
+would this be the case. 
+9. Describe the barriers to entry to creating or sponsoring new software to compete with 
+IBM and/or HashiCorp in IT infrastructure automation software (including provisioning 
+and configuration management), and/or security software (such as secrets management 
+software). 
+10. Comment on how you expect any industry developments in the next 3 to 5 years to 
+impact competition in IT infrastructure automation software (including provisioning and 
+configuration management), and/or security software (including secrets management 
+software). Consider factors such as the likelihood of new entry, changing customer 
+needs and preferences, any relevant emerging technologies and development of 
+software solutions from the CSPs.  
+11. Describe how customers and competitors are likely to respond if following the Proposed 
+Acquisition IBM sought to increase prices or lower service quality.  
+12. In what ways and to what extent, if any, would the proposed acquisition be likely to affect 
+the incentives for IBM to cross-sell or bundle Ansible and Terraform, or Verify Privilege 
+and Vault. 
+Other information 
+13. Please provide any additional information or comments that you consider relevant to the 
+ACCC’s consideration of the Proposed Acquisition. 

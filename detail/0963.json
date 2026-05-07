@@ -1,0 +1,49 @@
+{
+  "id": "0963",
+  "title": "Trimas Corporation - acquisition of Parkside Towbars Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/trimas-corporation-acquisition-of-parkside-towbars-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30405",
+  "industries": [
+    "Car accessories"
+  ],
+  "date_completed": "18 February 2008",
+  "date_completed_iso": "2008-02-18T12:00:00Z",
+  "date_commenced": "1 February 2008",
+  "date_commenced_iso": "2008-02-01T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Trimas Corporation"
+  ],
+  "targets": [
+    "Parkside Towbars Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jan 2008",
+      "date_iso": "2008-01-31T12:00:00Z",
+      "event": "Trimas Corporation announced it had acquired Parkside Towbars."
+    },
+    {
+      "date": "1 Feb 2008",
+      "date_iso": "2008-02-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Feb 2008",
+      "date_iso": "2008-02-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Feb 2008",
+      "date_iso": "2008-02-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Trimas Corporation has acquired Parkside Towbars Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in relation to the national market for the manufacture and supply of towbars to OEM and aftermarket customers.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. In reaching this view, the ACCC considered that the merged firm's pricing decisions are likely to be constrained by the presence of existing competitors, low barriers to entry and the presence of some imports."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0616",
+  "title": "Gunns Plantations Limited - completed acquisition of certain assets of Great Southern Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gunns-plantations-limited-completed-acquisition-of-certain-assets-of-great-southern-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40961",
+  "industries": [
+    "Hardwood Managed Investment Schemes"
+  ],
+  "date_completed": "30 June 2010",
+  "date_completed_iso": "2010-06-30T12:00:00Z",
+  "date_commenced": "26 February 2010",
+  "date_commenced_iso": "2010-02-26T12:00:00Z",
+  "total_review_days": 83,
+  "acquirers": [
+    "Gunns Plantations Limited"
+  ],
+  "targets": [
+    "certain assets of Great Southern Limited"
+  ],
+  "timeline": [
+    {
+      "date": "31 Dec 2009",
+      "date_iso": "2009-12-31T12:00:00Z",
+      "event": "Gunns Plantations Limited became the responsible entity of eight former Great Southern Limited hardwood plantation managed investment schemes (the 1998, 1999, 2000, 2001, 2002, 2003, 2004 and 2005 schemes)."
+    },
+    {
+      "date": "5 Jan 2010",
+      "date_iso": "2010-01-05T12:00:00Z",
+      "event": "Gunns Plantations Limited became the responsible entity of a ninth former Great Southern Limited hardwood plantation managed investment scheme (the 2006 scheme)."
+    },
+    {
+      "date": "26 Feb 2010",
+      "date_iso": "2010-02-26T12:00:00Z",
+      "event": "ACCC commenced a public review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Jun 2010",
+      "date_iso": "2010-06-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Gunns Plantations Limited, a subsidiary of Gunns Limited, has taken up the role of responsible entity for nine hardwood managed investment schemes (schemes for 1998 to 2006) formerly managed by Great Southern Limited (Great Southern). It also acquired certain assets of Great Southern used in connection with the management of the relevant schemes. The relevant schemes include hardwood plantations in the following regions: - north-western Tasmania; - north-eastern Tasmania; - Green Triangle, SA/VIC; - Albany, WA; - Bunbury, WA; - Kangaroo Island, SA; - Gippsland, VIC; - east coast, NSW; and - east coast, Qld.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the markets for the supply of hardwood pulpwood in the: - north-western Tasmanian region; - north-eastern Tasmanian region; and - Green Triangle region (south-western Victoria and south-eastern South Australia).",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition on the basis that Gunns Limited: - would be constrained by alternate suppliers of hardwood pulpwood in each relevant market; and - would not have the ability to foreclose any competitors in downstream woodchipping markets due to the availability of alternative hardwood pulpwood supply in each relevant market."
+  }
+}

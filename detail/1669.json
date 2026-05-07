@@ -1,0 +1,31 @@
+{
+  "id": "1669",
+  "title": "Acquirer: Hewlett-Packard Australia Ltd; Target: Compaq Computer Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-hewlett-packard-australia-ltd-target-compaq-computer-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14759",
+  "industries": [],
+  "date_completed": "20 March 2002",
+  "date_completed_iso": "2002-03-20T12:00:00Z",
+  "date_commenced": "25 September 2001",
+  "date_commenced_iso": "2001-09-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Hewlett-Packard Australia Ltd"
+  ],
+  "targets": [
+    "Compaq Computer Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Hewlett-Packard Company proposes to merge with Compaq Computer Corporation.",
+    "Market definition": "The Commission did not consider it necessary to define specific markets in this matter.",
+    "Competition analysis": "On 12 March 2002 the Commission decided that it would not intervene in the proposed merger between Hewlet-Packard and Compaq.  Hewlett-Packard is a global provider of computer and imaging products and services and operates in more than 120 countries.  Compaq is also a global provider of computing products and services operating in more than 200 countries worldwide. The Commission conducted extensive market inquiries, consulting with competing suppliers, retailers and consumers. The Commission concluded that the proposed merger would not substantially lessen competition, noting that the merged entity would continue to face competition from a number of established suppliers such as IBM, Sun and Dell. The Commission also noted that the information technology industry is very dynamic and is characterised by technological innovation and convergance.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "2841"
+  }
+}

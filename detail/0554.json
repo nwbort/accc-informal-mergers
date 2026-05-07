@@ -1,0 +1,44 @@
+{
+  "id": "0554",
+  "title": "Sydney Turf Club - proposed merger with Australian Jockey Club",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sydney-turf-club-proposed-merger-with-australian-jockey-club",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37934",
+  "industries": [
+    "Horse racing"
+  ],
+  "date_completed": "27 January 2011",
+  "date_completed_iso": "2011-01-27T12:00:00Z",
+  "date_commenced": "6 December 2010",
+  "date_commenced_iso": "2010-12-06T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Sydney Turf Club"
+  ],
+  "targets": [
+    "The Australian Jockey Club"
+  ],
+  "timeline": [
+    {
+      "date": "6 Dec 2010",
+      "date_iso": "2010-12-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Dec 2010",
+      "date_iso": "2010-12-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2011",
+      "date_iso": "2011-01-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Sydney Turf Club and Australian Jockey Club proposed to merge their operations and form a new club.",
+    "Market definition": "The ACCC considered the proposed merger within the context of: - the market for the conduct of race meetings in Sydney and surrounding regions (although the precise boundary of the market may be broader or narrower depending on the standard of the race meeting); - the market for the provision of thoroughbred racing services in Sydney and surrounding regions, which includes training and stabling facilities; and - the market for function venue hire in Sydney.",
+    "Competition analysis": "The ACCC considered that the proposed merger was unlikely to result in a substantial lessening of competition in the relevant markets. Key factors informing this conclusion included: - the limited extent of current competition between the two clubs due to regulation by Racing NSW (for example, the two clubs are not permitted to hold race meetings on the same day) and the limited prospect of competition in the future; - the extent to which regulation by Racing NSW will continue to constrain the merged entity in the conduct of race meetings; - the availability of alternative training and stabling facilities in Sydney and surrounding regions; and - the presence of several competing providers in the function venue hire market."
+  }
+}

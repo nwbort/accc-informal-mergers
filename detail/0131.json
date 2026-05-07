@@ -1,0 +1,54 @@
+{
+  "id": "0131",
+  "title": "National Australia Bank Limited - 86 400 Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-limited-86-400-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "30 March 2021",
+  "date_completed_iso": "2021-03-30T12:00:00Z",
+  "date_commenced": "29 January 2021",
+  "date_commenced_iso": "2021-01-29T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "National Australia Bank Limited"
+  ],
+  "targets": [
+    "86 400 Holdings Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jan 2021",
+      "date_iso": "2021-01-29T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Feb 2021",
+      "date_iso": "2021-02-26T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "24 Mar 2021",
+      "date_iso": "2021-03-24T12:00:00Z",
+      "event": "Former provisional decision date of 15 April 2021 brought forward to 1 April 2021."
+    },
+    {
+      "date": "29 Mar 2021",
+      "date_iso": "2021-03-29T12:00:00Z",
+      "event": "Former provisional decision date of 1 April 2021 brought forward to 30 March 2021."
+    },
+    {
+      "date": "30 Mar 2021",
+      "date_iso": "2021-03-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "National Australia Bank (NAB) proposes to acquire 86 400. NAB and 86 400 are both authorised deposit-taking institutions and provide banking services to consumers in Australia. 86 400 is a small, digital-only bank established in 2019.  Post-acquisition, NAB intends to combine 86 400 with its existing digital banking brand, UBank.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on the supply of various personal banking services, including the supply of: Transaction and savings accounts Home loan products The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any of the relevant markets because: 86 400’s market share across savings, transactions and home loan products is very small, such that the market share aggregation itself is unlikely to significantly strengthen NAB’s market position or pose any significant competition concerns. Whilst the ACCC found that 86 400’s product and service offering is in some ways different to some of the large banks, it is not unique in the market. There are a number of other competitors, including other neobanks, non-bank lenders, and second-tier banks, who are replicating or providing a similar offering, including by: providing streamlined back end technology which allows, for example, faster consideration and approval of home loan applications than the large banks, providing improvements to customer-facing technology, which improves the ability for consumers to analyse and track their spending habits, providing innovative product ideas to the market, including, for example, products which seek to reduce overall costs to consumers. These other competitors, notably some of the second-tier banks, have increased their share of new home loans due to these innovations. Post-acquisition, they will likely continue to compete with and attempt to challenge the big four banks."
+  }
+}

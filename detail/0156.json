@@ -1,0 +1,59 @@
+{
+  "id": "0156",
+  "title": "Bauer Media Pty Limited - Pacific Magazines Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bauer-media-pty-limited-pacific-magazines-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Print Media"
+  ],
+  "date_completed": "26 March 2020",
+  "date_completed_iso": "2020-03-26T12:00:00Z",
+  "date_commenced": "23 October 2019",
+  "date_commenced_iso": "2019-10-23T12:00:00Z",
+  "total_review_days": 109,
+  "acquirers": [
+    "Bauer Media Pty Limited"
+  ],
+  "targets": [
+    "Pacific Magazines Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Oct 2019",
+      "date_iso": "2019-10-24T12:00:00Z",
+      "event": "ACCC commenced review under the informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Nov 2019",
+      "date_iso": "2019-11-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Dec 2019",
+      "date_iso": "2019-12-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "14 Feb 2020",
+      "date_iso": "2020-02-14T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "24 Mar 2020",
+      "date_iso": "2020-03-24T12:00:00Z",
+      "event": "Former proposed decision date (2 April 2020) brought forward."
+    },
+    {
+      "date": "26 Mar 2020",
+      "date_iso": "2020-03-26T12:00:00Z",
+      "event": "ACCC announced it will not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bauer Media Pty Limited proposes to acquire the business assets of Pacific Magazines Pty Ltd. Bauer Media and Pacific Magazines are both publishers of content in magazines (print and digital editions) and digital (websites).",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on the markets for: General celebrity and entertainment content in which Woman’s Day and New Idea compete Real life and puzzle content in which Take 5 and That’s Life compete, and The acquisition of photography, in particular exclusive celebrity photography. For the purposes of this assessment it was not necessary for the ACCC to reach a concluded view on the precise definition of these markets as it would not significantly alter the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any market. The ACCC considered that there has been close competition between Bauer Media and Pacific Magazines in relation to the following titles: Woman’s Day (Bauer) and New Idea (Pacific Magazines), and Take 5 (Bauer) and That’s Life! (Pacific Magazines). However, magazine publishers have suffered significant and progressive circulation and revenue declines in the last ten years, which has resulted in less investment in content and fewer retail promotions. In particular, the ACCC noted that significant circulation and revenue declines in the last few years has resulted in the closure of magazine titles, with further magazine title closures in the future regardless of the proposed acquisition. While some readers value the physical magazine, many readers of the key titles published by Bauer Media and Pacific Magazines increasingly have turned to online sources of that content, and are likely to continue to do so in the future. However, the ability for a combined Bauer Media/Pacific Magazines to continue to attract occasional customers who do not have such a strong preference for print magazines will remain critical for maintaining overall profitability of the titles. Accordingly, despite Bauer Media and Pacific Magazines competing closely in relation to some titles, the ACCC does not consider that the combined Bauer Media/Pacific Magazines is likely to be able to increase prices or decrease quality of its product significantly. Therefore the proposed acquisition is unlikely to substantially lessen competition in relation to either the supply of general celebrity and entertainment content, or real life and puzzle content. In relation to a market for the acquisition of photography content, the ACCC considers that there is unlikely to be a substantial lessening of competition. In relation to the acquisition of photography in general, Bauer Media and Pacific Magazines compete with many other publishers. In relation to exclusive photography of Australian celebrities, the parties’ use of such photographs is already relatively quite limited, and is likely to decrease further with or without the acquisition. Accordingly, the removal of Pacific Magazines from the market is unlikely to result in a substantial lessening of competition in relation to the acquisition photography content."
+  }
+}

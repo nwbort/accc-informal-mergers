@@ -1,0 +1,70 @@
+{
+  "id": "0843",
+  "title": "Aurora Energy - acquisition of the Tamar Valley Power Station Project",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aurora-energy-acquisition-of-the-tamar-valley-power-station-project",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33708",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "29 October 2008",
+  "date_completed_iso": "2008-10-29T12:00:00Z",
+  "date_commenced": "19 August 2008",
+  "date_commenced_iso": "2008-08-19T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Aurora Energy Pty Ltd",
+    "Tasmanian State Government"
+  ],
+  "targets": [
+    "Tamar Valley Power Station"
+  ],
+  "timeline": [
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "ACCC commenced initial review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Aug 2008",
+      "date_iso": "2008-08-29T12:00:00Z",
+      "event": "Initial closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Sep 2008",
+      "date_iso": "2008-09-15T12:00:00Z",
+      "event": "Hold separate section 87B undertaking accepted by ACCC."
+    },
+    {
+      "date": "15 Sep 2008",
+      "date_iso": "2008-09-15T12:00:00Z",
+      "event": "ACCC commenced further review."
+    },
+    {
+      "date": "22 Sep 2008",
+      "date_iso": "2008-09-22T12:00:00Z",
+      "event": "ACCC timeline suspended awaiting a submission from the merger parties."
+    },
+    {
+      "date": "29 Sep 2008",
+      "date_iso": "2008-09-29T12:00:00Z",
+      "event": "ACCC timeline restarted following a response from the merger parties."
+    },
+    {
+      "date": "13 Oct 2008",
+      "date_iso": "2008-10-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Oct 2008",
+      "date_iso": "2008-10-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aurora Energy acquired the Tamar Valley Power Station Project from Babcock and Brown Power.",
+    "Market definition": "The ACCC considered the acquisition in the context of: 1.\tthe wholesale supply of electricity in Tasmania (including flows into Tasmania from Basslink); and 2.\tthe retail supply of electricity in Tasmania. For the purposes of this analysis, the ACCC did not consider it necessary to form a definitive view with respect to product market definition regarding hedge contracts - hedge contracts (or financial contracts) are those contracts entered into by parties to manage risk regarding spot price outcomes in the wholesale electricity market. The ACCC also recognises that a broader geographic market definition may be appropriate, but is of the view that this would not alter the competition analysis.",
+    "Competition analysis": "The ACCC initially considered that there were potential competition concerns that could arise from the common ownership of Aurora Energy and Hydro Tasmania - that is, all the electricity generators in Tasmania would be owned by the Tasmanian Government. In order to ensure it had an opportunity to explore whether these concerns were practically likely to ensue, the ACCC accepted an undertaking from the Tasmanian Government to hold separate the entities while the ACCC conducted comprehensive market inquiries. On 29 October 2008, the ACCC decided that the acquisition was unlikely to result in a substantial lessening of competition in any of the relevant markets. The decision was made after a comprehensive review, including inquiries with market participants. Factors informing this conclusion were: - the nature and extent of the hedge contract in place between the owner of the Tamar Valley Power Station and Aurora Energy; and - the likely counterfactual. In this matter, a key determinant of the counterfactual (the likely state of competition in the absence of the acquisition) was whether there was a real chance of a privately owned party purchasing the half-built power station in the absence of the Aurora acquisition. The ACCC did not find any compelling evidence to suggest that this would be a likely outcome. Therefore the ACCC considered the acquisition according to the likely counterfactual that without the acquisition the construction and commissioning of the power station would be delayed or, at worst, terminated."
+  }
+}

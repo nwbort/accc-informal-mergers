@@ -1,0 +1,44 @@
+{
+  "id": "0265",
+  "title": "Tullett Prebon Plc - proposed acquisition of ICAP Plc's global hybrid voice broking business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tullett-prebon-plc-proposed-acquisition-of-icap-plcs-global-hybrid-voice-broking-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58948",
+  "industries": [
+    "Financial brokerage and data sales"
+  ],
+  "date_completed": "19 May 2016",
+  "date_completed_iso": "2016-05-19T12:00:00Z",
+  "date_commenced": "5 April 2016",
+  "date_commenced_iso": "2016-04-05T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Tullett Prebon Plc"
+  ],
+  "targets": [
+    "ICAP Plc's global hybrid voice broking business"
+  ],
+  "timeline": [
+    {
+      "date": "5 Apr 2016",
+      "date_iso": "2016-04-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "20 Apr 2016",
+      "date_iso": "2016-04-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "19 May 2016",
+      "date_iso": "2016-05-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Tullett Prebon (TP) proposes to acquire ICAP Plc's global hybrid voice broking and information business (IGBB). As part of the proposed acquisition, ICAP Plc (ICAP) will also obtain a minority shareholding in TP.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of separate national markets for: -\twholesale voice hybrid broking services for Interest Rate Derivatives (IRD) -\twholesale voice hybrid broking services for Forward Foreign Exchange (FFX) -\tbroking data services -\tpost-trade risk mitigation services These services are acquired by institutional investors that trade in wholesale financial markets, such as major banks. Broking data services are also supplied to firms that aggregate and supply financial data, such as Bloomberg and Thomson Reuters. The services of TP and IGBB overlap in relation to the first three markets. The ACCC considered whether, from a supply side perspective, wholesale voice hybrid broking services for IRD and FFX are substitutes, however the ACCC did not consider it necessary to reach a concluded view on this issue. The ACCC considered the fourth market due to the minority shareholding ICAP would hold in TP following the proposed acquisition as well as other relevant cross shareholdings. The ACCC did not identify any other material competitive overlap between TP and ICAP.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market. Market participants expressed a low level of concern about the potential impact of the proposed acquisition and indicated customers of the merged firm would likely be able to switch to alternative providers of the relevant services, if its prices increased or service levels decreased post-acquisition. Factors informing the ACCC's view in relation to the markets for the supply of wholesale voice hybrid broking services included: -\tthe merged entity would continue to be competitively constrained by the remaining suppliers, including BGC Partners (for IRD) and Tradition (the wholesale intermediary arm of Compagnie Financiere Tradition, for FFX). -\tThe threat or actual entry or expansion by existing voice hybrid brokers into other asset classes, would also be likely to constrain the merged firm. -\tCustomers appear to have a significant degree of bargaining power in negotiating commission rates and are able to move their trading volumes between voice hybrid brokerage firms quickly and at minimal cost. -\tThe proposed acquisition is unlikely to increase the ability and incentive for remaining wholesale voice hybrid broking firms to engage in price coordination. In relation to broking data services, the ACCC concluded that the proposed acquisition was unlikely to provide TP with any material market power and that it would be sufficiently constrained from attempting to increase prices or restrict access to the broking data that is generated from its broking activities. In relation post-trade risk mitigation services, there are a number of alternative providers available to Australian customers which would continue to competitively constrain TP and ICAP."
+  }
+}

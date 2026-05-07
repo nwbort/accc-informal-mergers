@@ -1,0 +1,73 @@
+{
+  "id": "0956",
+  "title": "Sumitomo Forestry Company Limited - proposed acquisition of certain assets of Carter Holt Harvey Limited's Woodproducts Australia business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sumitomo-forestry-company-limited-proposed-acquisition-of-certain-assets-of-carter-holt-harvey-limiteds-woodproducts-australia-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30381",
+  "industries": [
+    "Timber building supplies"
+  ],
+  "date_completed": "27 February 2008",
+  "date_completed_iso": "2008-02-27T12:00:00Z",
+  "date_commenced": "30 November 2007",
+  "date_commenced_iso": "2007-11-30T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Sumitomo Forestry Company Limited"
+  ],
+  "targets": [
+    "Carter Holt Harvey Limited"
+  ],
+  "timeline": [
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Dec 2007",
+      "date_iso": "2007-12-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Dec 2007",
+      "date_iso": "2007-12-18T12:00:00Z",
+      "event": "ACCC requested further information from Sumitomo. ACCC timeline suspended."
+    },
+    {
+      "date": "11 Jan 2008",
+      "date_iso": "2008-01-11T12:00:00Z",
+      "event": "ACCC received further information from Sumitomo. Sumitomo indicated intention to provide additional information to the ACCC."
+    },
+    {
+      "date": "16 Jan 2008",
+      "date_iso": "2008-01-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "23 Jan 2008",
+      "date_iso": "2008-01-23T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for provision of additional information from Sumitomo, and receipt of responses to Statement of Issues."
+    },
+    {
+      "date": "30 Jan 2008",
+      "date_iso": "2008-01-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues. ACCC received additional information from Sumitomo. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Jan 2008",
+      "date_iso": "2008-01-31T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of additional information from the merger parties. Former proposed date for announcement of ACCC's findings of 13 February 2008, amended to 27 February 2008 to allow for receipt of additional information."
+    },
+    {
+      "date": "27 Feb 2008",
+      "date_iso": "2008-02-27T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sumitomo propose to acquire certain assets of Carter Holt Harvey Limited's Woodproducts Australia business.",
+    "Competition analysis": "For the ACCC's competition analysis, please refer to the Public Competition Assessment."
+  }
+}

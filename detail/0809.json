@@ -1,0 +1,48 @@
+{
+  "id": "0809",
+  "title": "Coles Group Limited - completed acquisition of a supermarket lease at 782 Bourke St Waterloo, NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-group-limited-completed-acquisition-of-a-supermarket-lease-at-782-bourke-st-waterloo-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33388",
+  "industries": [
+    "Supermarket retail"
+  ],
+  "date_completed": "27 January 2009",
+  "date_completed_iso": "2009-01-27T12:00:00Z",
+  "date_commenced": "9 October 2008",
+  "date_commenced_iso": "2008-10-09T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "Coles Group Limited"
+  ],
+  "targets": [
+    "782 Bourke St Waterloo - Development site"
+  ],
+  "timeline": [
+    {
+      "date": "16 May 2008",
+      "date_iso": "2008-05-16T12:00:00Z",
+      "event": "The ACCC received a complaint via the Grocery Inquiry regarding the development of a Coles supermarket in Waterloo."
+    },
+    {
+      "date": "9 Oct 2008",
+      "date_iso": "2008-10-09T12:00:00Z",
+      "event": "Following receipt of a submission from Coles, ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2009",
+      "date_iso": "2009-01-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the acquisition in the context of the following relevant markets: - the local market for supermarket retailing in Waterloo and the surrounding area. For the purposes of this assessment the market included those supermarkets within approximately 3Km from the development site - the state market for the procurement of products sold in supermarkets by supermarket wholesalers - the state market for the wholesaling of products sold in supermarkets. (The ACCC noted that the geographic market for wholesaling may be broader, but in this case the competition analysis would be unchanged).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In relation to the local supermarket retail market, the ACCC considered that, while barriers to entry are likely to be high, Coles was likely to be constrained by a number of existing supermarkets and a number of supermarkets under development in the relevant market. In relation to the wholesale and procurement markets, the ACCC considered that the acquisition was unlikely to significantly alter the buying power of Coles or its competitors, and was unlikely to result in a substantial lessening of competition."
+  }
+}

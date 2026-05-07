@@ -1,0 +1,64 @@
+{
+  "id": "0564",
+  "title": "Origin Energy Limited - proposed acquisition of electricity privatisation assets of the New South Wales Government",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/origin-energy-limited-proposed-acquisition-of-electricity-privatisation-assets-of-the-new-south-wales-government",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43385",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "9 December 2010",
+  "date_completed_iso": "2010-12-09T12:00:00Z",
+  "date_commenced": "3 September 2010",
+  "date_commenced_iso": "2010-09-03T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Origin Energy Limited"
+  ],
+  "targets": [
+    "electricity privatisation assets of the New South Wales Government"
+  ],
+  "timeline": [
+    {
+      "date": "3 Sep 2010",
+      "date_iso": "2010-09-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Sep 2010",
+      "date_iso": "2010-09-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Oct 2010",
+      "date_iso": "2010-10-18T12:00:00Z",
+      "event": "ACCC requested further information from the NSW Government regarding the privatisation assets. ACCC timeline suspended."
+    },
+    {
+      "date": "5 Nov 2010",
+      "date_iso": "2010-11-05T12:00:00Z",
+      "event": "ACCC received further information from the NSW Government. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Nov 2010",
+      "date_iso": "2010-11-24T12:00:00Z",
+      "event": "The New South Wales Government has advised that it is conducting further analysis of bids for the privatisation of electricity assets. The ACCC has therefore deferred its decision and will announce a new proposed date when further information regarding the final bids is received from the Government."
+    },
+    {
+      "date": "3 Dec 2010",
+      "date_iso": "2010-12-03T12:00:00Z",
+      "event": "ACCC received further information from the NSW Government. ACCC timeline recommenced."
+    },
+    {
+      "date": "9 Dec 2010",
+      "date_iso": "2010-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the potential acquisition of a number of asset combinations sought by Origin."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The New South Wales Government proposed to privatise its electricity generation and retail assets, including generation development sites. Origin Energy Limited ('Origin') is a participant in this process. The ACCC has decided not to oppose the proposed acquisition of certain privatisation assets, namely: - EnergyAustralia or Country Energy or Integral Energy or both Country Energy and Integral Energy; together with - Eraring or Delta Coastal or Delta Western Gentrader bundles; together with - one of the development sites.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

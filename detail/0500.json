@@ -1,0 +1,44 @@
+{
+  "id": "0500",
+  "title": "Alex Gow Pty Limited - proposed acquisition of divestiture business from InvoCare Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alex-gow-pty-limited-proposed-acquisition-of-divestiture-business-from-invocare-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46683",
+  "industries": [
+    "Crematorium services"
+  ],
+  "date_completed": "19 August 2011",
+  "date_completed_iso": "2011-08-19T12:00:00Z",
+  "date_commenced": "2 August 2011",
+  "date_commenced_iso": "2011-08-02T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Alex Gow Pty Limited"
+  ],
+  "targets": [
+    "InvoCare Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Aug 2011",
+      "date_iso": "2011-08-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Aug 2011",
+      "date_iso": "2011-08-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Aug 2011",
+      "date_iso": "2011-08-19T12:00:00Z",
+      "event": "The ACCC approved Alex Gow Pty Limited as the purchaser of the Brisbane divestiture business pursuant to InvoCare Limited's undertaking."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 8 June 2011, the ACCC announced its decision to not oppose the proposed acquisition of Bledisloe Group Holdings Pty Ltd (Bledisloe) by InvoCare Limited (InvoCare), subject to a section 87B undertaking given by InvoCare. The undertaking addressed competition concerns identified by the ACCC in relation to the supply of: (a) funeral directing services in north metropolitan Sydney; (b) funeral directing services in south metropolitan Brisbane; and (c) cremation services in north metropolitan Brisbane. In relation to the supply of cremation services in north metropolitan Brisbane, the undertaking requires InvoCare to divest its cremation service business the Great Northern Garden of Remembrance (the Brisbane divestiture business) to a purchaser approved by the ACCC. Alex Gow Pty Limited is the approved purchaser of the Brisbane divestiture business from InvoCare.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the north metropolitan Brisbane market for the supply of cremation services.",
+    "Competition analysis": "The ACCC formed the view that Alex Gow satisfied the proposed purchaser criteria of the undertaking, including that the divestiture of the business to Alex Gow would address the ACCC's competition concerns in the relevant market, and that the divestiture business would be likely to remain viable and competitive in the long term under Alex Gow's ownership."
+  }
+}

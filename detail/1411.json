@@ -1,0 +1,27 @@
+{
+  "id": "1411",
+  "title": "Foster's Brewing Group Ltd - proposed acquisition of Southcorp Ltd.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fosters-brewing-group-ltd-proposed-acquisition-of-southcorp-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20986",
+  "industries": [
+    "Wine"
+  ],
+  "date_completed": "8 March 2005",
+  "date_completed_iso": "2005-03-08T12:00:00Z",
+  "date_commenced": "14 January 2005",
+  "date_commenced_iso": "2005-01-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Foster's Group Limited proposes to acquire all remaining shares in Southcorp Limited.",
+    "Market definition": "For the purpose of competition analysis in this matter, the ACCC considered that the relevant markets were as follows: i. the production of wine in Australia; and ii. the wholesale supply of bottled wine in Australia.",
+    "Competition analysis": "Refer to the Public Competition Assessment attached below.",
+    "Merger type": "Horizontal",
+    "Initiation": "Press",
+    "Public competition assessment": "Public competition assessment ( PDF 37.1 KB )"
+  }
+}

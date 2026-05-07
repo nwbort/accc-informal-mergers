@@ -1,0 +1,57 @@
+{
+  "id": "0162",
+  "title": "iNova Pharmaceuticals (Australia) Pty Ltd - Juno PC Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/inova-pharmaceuticals-australia-pty-ltd-juno-pc-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "6 January 2020",
+  "date_completed_iso": "2020-01-06T12:00:00Z",
+  "date_commenced": "30 August 2019",
+  "date_commenced_iso": "2019-08-30T12:00:00Z",
+  "total_review_days": 88,
+  "acquirers": [
+    "iNova Pharmaceuticals (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Juno PC Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Aug 2019",
+      "date_iso": "2019-08-30T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Sep 2019",
+      "date_iso": "2019-09-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "10 Oct 2019",
+      "date_iso": "2019-10-10T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (31 October) delayed to allow iNova more time to provide additional information."
+    },
+    {
+      "date": "10 Dec 2019",
+      "date_iso": "2019-12-10T12:00:00Z",
+      "event": "ACCC received further information from iNova."
+    },
+    {
+      "date": "19 Dec 2019",
+      "date_iso": "2019-12-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "6 Jan 2020",
+      "date_iso": "2020-01-06T12:00:00Z",
+      "event": "ACCC discontinued its public review after iNova informed of its intention to withdraw its proposed acquisition of Juno PC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "iNova Pharmaceuticals (Australia) Pty Ltd proposed to acquire Juno PC Holdings Pty Ltd."
+  }
+}

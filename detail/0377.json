@@ -1,0 +1,67 @@
+{
+  "id": "0377",
+  "title": "Westfield Group and Westfield Retail Trust - proposed acquisition of Karrinyup Shopping Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/westfield-group-and-westfield-retail-trust-proposed-acquisition-of-karrinyup-shopping-centre",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46305",
+  "industries": [
+    "Shopping Centre"
+  ],
+  "date_completed": "22 July 2013",
+  "date_completed_iso": "2013-07-22T12:00:00Z",
+  "date_commenced": "15 August 2011",
+  "date_commenced_iso": "2011-08-15T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Westfield Group and Westfield Retail Trust"
+  ],
+  "targets": [
+    "Karrinyup Shopping Centre (owned by the KSC Trust)"
+  ],
+  "timeline": [
+    {
+      "date": "15 Aug 2011",
+      "date_iso": "2011-08-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Sep 2011",
+      "date_iso": "2011-09-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Sep 2011",
+      "date_iso": "2011-09-15T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "20 Sep 2011",
+      "date_iso": "2011-09-20T12:00:00Z",
+      "event": "ACCC timeline suspended at request of Westfield. Former proposed decision date for announcement of ACCC's findings of 29 September 2011 delayed."
+    },
+    {
+      "date": "1 Dec 2011",
+      "date_iso": "2011-12-01T12:00:00Z",
+      "event": "ACCC received further information from Westfield. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Dec 2011",
+      "date_iso": "2011-12-13T12:00:00Z",
+      "event": "ACCC requested information from Westfield. ACCC timeline suspended pending receipt."
+    },
+    {
+      "date": "20 Dec 2011",
+      "date_iso": "2011-12-20T12:00:00Z",
+      "event": "ACCC timeline remains suspended at the request of Westfield to allow it to make further submissions."
+    },
+    {
+      "date": "22 Jul 2013",
+      "date_iso": "2013-07-22T12:00:00Z",
+      "event": "ACCC commenced a new review under the Merger Review Process Guidelines."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 15 August 2011 the Australian Competition and Consumer Commission (ACCC) commenced a public informal review of the proposed acquisition of the Karrinyup Shopping Centre by Westfield Retail Trust and the Westfield Group (as joint owners of the WestArt Trust) ('Westfield'). At the request of Westfield, the ACCC's timeline for the review was suspended on 20 December 2011 to allow Westfield to make further submissions. In April 2012 Westfield commenced a sale process with respect to Westfield Innaloo and the ACCC's timeline remained suspended during that process. In July 2013 Westfield informed the ACCC of its intention to retain Westfield Innaloo. Westfield intends to proceed with the proposed acquisition of the Karrinyup Shopping Centre and has requested a new informal review. Further information about the new review is available here."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1560",
+  "title": "Acquirer: Geelong Advertiser; Target: Geelong Independent Ltd The",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-geelong-advertiser-target-geelong-independent-ltd-the",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16736",
+  "industries": [],
+  "date_completed": "5 May 2003",
+  "date_completed_iso": "2003-05-05T12:00:00Z",
+  "date_commenced": "25 September 2002",
+  "date_commenced_iso": "2002-09-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Geelong Advertiser"
+  ],
+  "targets": [
+    "Geelong Independent Ltd The"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Geelong Advertiser Group proposes to acquire the masthead of the Geelong Independent Newspaper.",
+    "Market definition": "for the purpose of competition analysis the relevant markets were considered to be the Geelong region markets for the: \"\tProvision of newspaper advertising services; and \"\tSupply of regional newspapers.",
+    "Competition analysis": "The Commission's thresholds for the exercise of unilateral and combined market power are crossed in both markets.However, the Commission considered that the merged entity will be constrained in from raising prices and profit margins by: -\tlow barriers to entry; -\tthe dynamic characteristics of the markets, such as advances in new technology, which provide the potential for new entry; -\tthe demonstrated ability of advertisers to exercise strong countervailing power in the event of a price increase or a deterioration in the standard of service offered by GA. In these circumstances the Commission found that no SLC was likely.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2421"
+  }
+}

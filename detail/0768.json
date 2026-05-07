@@ -1,0 +1,38 @@
+{
+  "id": "0768",
+  "title": "Hunan Valin Iron and Steel Group Company Ltd - proposed acquisition of Fortescue Metals Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hunan-valin-iron-and-steel-group-company-ltd-proposed-acquisition-of-fortescue-metals-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37104",
+  "industries": [
+    "Iron ore"
+  ],
+  "date_completed": "3 April 2009",
+  "date_completed_iso": "2009-04-03T12:00:00Z",
+  "date_commenced": "1 April 2009",
+  "date_commenced_iso": "2009-04-01T12:00:00Z",
+  "total_review_days": 3,
+  "acquirers": [
+    "Hunan Valin Iron and Steel Group Company Ltd"
+  ],
+  "targets": [
+    "Fortescue Metals Group Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Apr 2009",
+      "date_iso": "2009-04-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Apr 2009",
+      "date_iso": "2009-04-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: the global seaborne supply of iron ore lump; the global seaborne supply of iron ore fines; the national (Australian) supply of iron ore lump; and the national (Australian) supply of iron ore fines.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition by an iron ore customer was unlikely to result in a substantial lessening of competition on the basis that Fortescue would not have the ability to unilaterally depress iron ore prices by increasing supply, and would not have the incentive to depress iron ore prices due to the interests of its shareholders."
+  }
+}

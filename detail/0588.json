@@ -1,0 +1,44 @@
+{
+  "id": "0588",
+  "title": "Bass Radio Pty Ltd - proposed acquisition of commercial radio broadcasting licence from Tasradio Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bass-radio-pty-ltd-proposed-acquisition-of-commercial-radio-broadcasting-licence-from-tasradio-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43357",
+  "industries": [
+    "Media, Advertising, Radio Broadcasting"
+  ],
+  "date_completed": "12 October 2010",
+  "date_completed_iso": "2010-10-12T12:00:00Z",
+  "date_commenced": "13 September 2010",
+  "date_commenced_iso": "2010-09-13T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Bass Radio Pty Ltd"
+  ],
+  "targets": [
+    "Tasradio Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Sep 2010",
+      "date_iso": "2010-09-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Oct 2010",
+      "date_iso": "2010-10-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Oct 2010",
+      "date_iso": "2010-10-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bass Radio Pty Ltd proposes to acquire the commercial radio broadcasting licence SL 4220 serving Launceston from Tasradio Pty Ltd.  This licence is essentially a new broadcast licence for the Launceston area, as a result of ACMA's recent narrowcast spectrum auction (auctioned by ACMA on 26 August 2010).  In this auction, Tasradio acquired a licence for an AM band in Launceston and intends to move it's TOTE radio programming onto the AM band and is consequently selling the FM band broadcasting licence SL 4220.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: - The combined market for advertising on radio and television in Launceston. - The market for the supply of local news and information content to consumers in Launceston. - The national market for the acquisition of radio content from content providers.",
+    "Competition analysis": "In reaching its conclusion not to oppose Bass Radio's proposed acquisition of Tasradio's commercial broadcasting licence in Launceston, the ACCC considered, amongst other factors: - that it was unlikely that Bass Radio would be able to increase prices, or reduce service quality for radio advertising following the proposed acquisition as the market would continue to have the same competitors and competitive dynamics as it currently does. Bass radio would continue to be constrained by each of the television stations. - whether a new entrant was likely to acquire the target licence in the counterfactual. The ACCC found that the most likely counterfactual was the acquisition of the target radio licence by Southern Cross Media, which would result in Southern Cross Media owning the Southern Cross television station, a 50% interest in Tasmanian Digital Television and a commercial radio licence in Launceston, in competition with WIN television, Bass Radio, and to a lesser extent, Tasradio. In assessing the proposed acquisition against the likely counterfactual where Southern Cross Media would acquire the commercial radio broadcasting licence, the ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition. Accordingly, on 12 October 2010, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

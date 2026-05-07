@@ -1,0 +1,43 @@
+{
+  "id": "0637",
+  "title": "Schneider Electric Industries SAS - proposed acquisition of SCADA Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/schneider-electric-industries-sas-proposed-acquisition-of-scada-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41160",
+  "industries": [
+    "Telemetry applications"
+  ],
+  "date_completed": "23 April 2010",
+  "date_completed_iso": "2010-04-23T12:00:00Z",
+  "date_commenced": "15 April 2010",
+  "date_commenced_iso": "2010-04-15T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Schneider Electric Industries SAS"
+  ],
+  "targets": [
+    "SCADA Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Apr 2010",
+      "date_iso": "2010-04-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Apr 2010",
+      "date_iso": "2010-04-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Apr 2010",
+      "date_iso": "2010-04-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not reach a concluded view on the relevant markets, but considered the proposed acquisition in the context of national markets for the supply of: - Remote Terminal Units; - Programmable Logic Controllers; and - Supervisory Control and Data Acquisition (SCADA) software products.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market/s. The ACCC noted that overlap between the parties was limited in relation to the supply of Remote Terminal Units and Programmable Logic Controllers, such that competition concerns were unlikely to arise in these markets as a result of the proposed acquisition. In relation to SCADA software products, the ACCC noted that current alternatives to the merged firm's products and the potential for further competition from international suppliers of those products was likely to provide a competitive constraint on the merged firm post acquisition. The ACCC also considered that the existence of several other competitors, including vertically integrated competitors, was likely to prevent the merged firm from exercising market power in the supply of the relevant products, either separately or as a bundle."
+  }
+}

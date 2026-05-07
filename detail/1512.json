@@ -1,0 +1,31 @@
+{
+  "id": "1512",
+  "title": "Acquirer: Hunter United Employees Credit Union Limited; Target: Newcastle Civic Credit Union Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-hunter-united-employees-credit-union-limited-target-newcastle-civic-credit-union-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18661",
+  "industries": [],
+  "date_completed": "2 December 2003",
+  "date_completed_iso": "2003-12-02T12:00:00Z",
+  "date_commenced": "21 November 2003",
+  "date_commenced_iso": "2003-11-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Hunter United Employees Credit Union Limited"
+  ],
+  "targets": [
+    "Newcastle Civic Credit Union Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 11 November 2003, the Australian Prudential Regulation Authority informed the Commission of the transfer of the entire business from Newcastle Civic Credit Union Limited to Hunter United Employees Credit Union Limited.",
+    "Market definition": "The market for the provision of financial services in New South Wales",
+    "Competition analysis": "On 2 December 2003, the Commission decided that it would not oppose the proposed merger between the Energy Credit Union and the Police & Nurses Credit Society. Credit unions offer a broad range of financial services.  In the main, credit unions offer savings products including term deposit accounts and transaction accounts, loan products which include personal loans, car loans, mortgage loans and credit cards, as well as financial planning advice and business accounts.  Credit unions offer a similar range of products to banks and building societies. The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

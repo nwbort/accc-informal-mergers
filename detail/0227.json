@@ -1,0 +1,43 @@
+{
+  "id": "0227",
+  "title": "Birketu Pty Ltd and Illyria Nominees Television Pty Limited - proposed joint bid for interests in Ten Network Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/birketu-pty-ltd-and-illyria-nominees-television-pty-limited-proposed-joint-bid-for-interests-in-ten-network-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62372",
+  "industries": [
+    "Television Channels"
+  ],
+  "date_completed": "24 August 2017",
+  "date_completed_iso": "2017-08-24T12:00:00Z",
+  "date_commenced": "4 July 2017",
+  "date_commenced_iso": "2017-07-04T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Birketu Pty Ltd and Illyria Nominees Television Pty Limited"
+  ],
+  "targets": [
+    "Ten Network Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jul 2017",
+      "date_iso": "2017-07-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Jul 2017",
+      "date_iso": "2017-07-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Aug 2017",
+      "date_iso": "2017-08-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on: - a national market for the acquisition of broadcast rights for general audio-visual content; and - a national market for the acquisition of broadcast rights for sporting content; - markets for advertising opportunities; and - the supply of news and current affairs For the purposes of this assessment it was not necessary to reach a concluded position on the precise definition of these markets. In particular, the ACCC did not form a final view as to whether free to air TV, print newspapers and online news sites are in the same or separate product markets from a news and current affairs perspective. Instead the ACCC focussed on the degree of constraint they provide on each other and the extent to which alternative sources of news and current affairs are available. Similarly, the ACCC did not reach a concluded view on the scope of advertising markets.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any of these markets. The ACCC took into account that Birketu and Illyria were each wholly owned entities of Bruce Gordon and Lachlan Murdoch, respectively. The ACCC considered that the proposed acquisition would lead to greater alignment of Ten's interests with Mr Gordon's interests in Win Corporation and Mr Murdoch's interests in Nova, News Corporation, Foxtel and Twenty First Century Fox. In relation to the acquisition of broadcast rights for sporting content the ACCC considered that there was currently limited competition between Ten and Foxtel/Fox Sports with each having a different focus and that remaining competitors would continue to offer constraint.  The ACCC considered that notwithstanding the anti-siphoning regulations, any increase in the ability or incentive of Ten and Foxtel/FoxSports to engage in a bundling strategy was unlikely to foreclose other television networks because premium sports have significant bargaining power; the increasing scope of multi-channels has decreased the importance of free to air networks partnering with pay TV; and the emergence of streaming services may provide further partnership opportunities in the future. Similarly, the ACCC considered in relation to the bundling of non-sport content that Ten would not be in a position to foreclose other networks because different platforms have different preferences for content acquisition meaning there is limited advantage to acquiring content across platforms; and other networks have the opportunity to partner with streaming services to offer a competitive bundled offering.  The ACCC also considered that greater alignment between Endemol Shine and Ten was unlikely to substantially lessen competition because there remain alternative options for the acquisition of  non-sport content; there do not appear to be significant barriers to other content providers expanding their content production; and free to air networks can and do produce their own content. The ACCC considered that the proposed acquisition was unlikely to materially impact competition between Foxtel and Ten for the supply of advertising services. Foxtel and Ten are currently commercially aligned through their MCN joint venture (owned 24.99% by Ten with the remainder held by Foxtel and Fox Sports).   MCN acts an agent for both Foxtel and Ten to sell advertising. The ACCC considered foreclosure through a bundling strategy unlikely given advertisers will continue to have access to other firms and channels. In relation to the supply of news and current affairs the ACCC's assessment took into account the effect on the supply of news across single platforms and more broadly across different platforms. While an alignment of Ten with existing Murdoch interests could see a reduction in the number of independent television news voices, Seven, Nine, ABC and SBS would continue to act as constraints. More broadly, in considering the supply of news across multiple platforms the ACCC concluded that there are a range of news and current affairs choices open to consumers, including online news sites, which will continue to offer some constraint. The ACCC considered that Ten did not provide a unique offering, and did not impose a strong constraint on the quality of alternative news and current affairs sources."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "0514",
+  "title": "Seven Group Holdings - acquisition of Prime Media Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-group-holdings-acquisition-of-prime-media-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46194",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "21 June 2011",
+  "date_completed_iso": "2011-06-21T12:00:00Z",
+  "date_commenced": "11 April 2011",
+  "date_commenced_iso": "2011-04-11T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "Seven Group Holdings"
+  ],
+  "targets": [
+    "Prime Media Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Apr 2011",
+      "date_iso": "2011-04-11T12:00:00Z",
+      "event": "ACCC commenced targeted market inquiries into the completed acquisition."
+    },
+    {
+      "date": "23 Jun 2011",
+      "date_iso": "2011-06-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In 2009, Seven Group Holdings (SGH) acquired 11.4% of the issued shares of Prime Media Group (Prime). The ACCC became aware of this completed acquisition during its inquiries into the proposed merger of West Australian Newspaper Holdings and Seven Media Group in April 2011. As SGH already owned 23% of the shares in WAN at that time, the ACCC subsequently conducted targeted market inquiries to assess the competition effects of the 2009 completed acquisition.",
+    "Market definition": "The ACCC considered that in certain radio licence areas in Western Australia, the following were likely to be the most relevant markets for considering the potential competitive effects of the completed acquisition: - The supply of local content to consumers (such as local news); - The acquisition of local content from content providers; - The supply of advertising opportunities to advertisers. There was no increase in concentration within the media platforms supplied by the parties (newspaper, radio, television) as a result of the completed acquisition. Therefore, the ACCC considered the potential effects of the completed acquisition on the basis that these might fall into a single market for competition analysis. The ACCC considered the geographic dimension of the completed acquisition with reference to the areas where WAN holds radio licences, as these define the narrowest field of competitive overlap of the distribution areas of the parties' radio, television and newspaper assets.",
+    "Competition analysis": "The ACCC conducted  targeted market inquiries regarding competition in the product markets outlined above. In parallel with this, the ACCC considered whether the completed acquisition was likely to have resulted in SGH having the ability to control or influence Prime. The ACCC concluded that it is unlikely that the completed acquisition provided SGH with the ability to control or influence Prime. Therefore, the ACCC decided it would not oppose the completed acquisition."
+  }
+}

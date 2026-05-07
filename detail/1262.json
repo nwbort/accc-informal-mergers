@@ -1,0 +1,39 @@
+{
+  "id": "1262",
+  "title": "UBS AG - proposed acquisition of ABN AMRO Bank NV's futures brokering business.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ubs-ag-proposed-acquisition-of-abn-amro-bank-nvs-futures-brokering-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24630",
+  "industries": [
+    "Futures and options industry"
+  ],
+  "date_completed": "11 July 2006",
+  "date_completed_iso": "2006-07-11T12:00:00Z",
+  "date_commenced": "23 June 2006",
+  "date_commenced_iso": "2006-06-23T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "UBS AG"
+  ],
+  "targets": [
+    "ABN AMRO Bank NV"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jun 2006",
+      "date_iso": "2006-06-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "ACCC announced findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "UBS AG - proposed acquisition of ABN AMRO Bank NV's futures brokering business.",
+    "Market definition": "The ACCC assessed the proposed acquisition under the narrowest possible market, being the market for derivatives trading or clearing on the Sydney Futures Exchange.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the market for derivatives trading or clearing on the Sydney Futures Exchange (SFE) because trading and clearing participants on the SFE were likely to provide real constraints to the merged entity. The ACCC also found that there were relatively low barriers to entry and expansion because, in particular, overseas-based brokers were likely to have the resources to enter the market."
+  }
+}

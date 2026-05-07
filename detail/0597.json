@@ -1,0 +1,44 @@
+{
+  "id": "0597",
+  "title": "ComfortDelGro Corporation Limited - proposed acquisition of Swan Taxis Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/comfortdelgro-corporation-limited-proposed-acquisition-of-swan-taxis-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41964",
+  "industries": [
+    "Taxi Services"
+  ],
+  "date_completed": "8 September 2010",
+  "date_completed_iso": "2010-09-08T12:00:00Z",
+  "date_commenced": "19 July 2010",
+  "date_commenced_iso": "2010-07-19T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "ComfortDelGro Corporation Limited"
+  ],
+  "targets": [
+    "Swan Taxis Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jul 2010",
+      "date_iso": "2010-07-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2010",
+      "date_iso": "2010-08-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Sep 2010",
+      "date_iso": "2010-09-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ComfortDelGro Corporation Ltd proposes to acquire Swan Taxis Ltd, a taxi network in Western Australia.  ComfortDelGro does not have any existing business interests in Perth or Western Australia, but does have a joint venture with Cabcharge, operating buses in NSW and Victoria. The proposed acquisition will increase ComfortDelGro's holding in Cabcharge to 9.64%.",
+    "Market definition": "While the ACCC did not need to form concluded views regarding the relevant market definitions, it considered the competitive effects of the proposed acquisition on markets for the supply of taxi-specific non-cash payment methods, for the processing of taxi-specific non-cash payment methods and for the supply of taxi equipment to the taxi industry.",
+    "Competition analysis": "The ACCC investigated the links between ComfortDelGro and Cabcharge and considered whether these would provide incentives for ComfortDelGro to operate Swan Taxis in a manner which would benefit Cabcharge to the detriment of competition in the relevant markets. The ACCC concluded that a substantial lessening of competition in the relevant markets was unlikely to arise as ComfortDelGro's interest in Cabcharge would not be likely to prevent Cabcharge's rivals from competing to supply Swan Taxis post-acquisition."
+  }
+}

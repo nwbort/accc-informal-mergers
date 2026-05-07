@@ -1,0 +1,44 @@
+{
+  "id": "0872",
+  "title": "QBE Insurance Group Ltd - proposed acquisition of PMI Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qbe-insurance-group-ltd-proposed-acquisition-of-pmi-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33723",
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "1 September 2008",
+  "date_completed_iso": "2008-09-01T12:00:00Z",
+  "date_commenced": "18 August 2008",
+  "date_commenced_iso": "2008-08-18T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "QBE Insurance Group Ltd"
+  ],
+  "targets": [
+    "PMI Australia"
+  ],
+  "timeline": [
+    {
+      "date": "18 Aug 2008",
+      "date_iso": "2008-08-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Aug 2008",
+      "date_iso": "2008-08-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Sep 2008",
+      "date_iso": "2008-09-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "QBE Insurance Group Ltd proposes to acquire PMI Australia.",
+    "Market definition": "The ACCC did not consider it necessary to reach a definitive view on market definition but is of the view that there are likely to be a range of markets for different insurance products.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - there was minimal overlap between the operations of the merger parties; and - the acquisition would not provide QBE Insurance Group Ltd with the ability to foreclose competitors in the relevant markets for insurance products."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0486",
+  "title": "Ecolab Inc - proposed merger with Nalco Holding Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ecolab-inc-proposed-merger-with-nalco-holding-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46848",
+  "industries": [
+    "Water treatment"
+  ],
+  "date_completed": "24 October 2011",
+  "date_completed_iso": "2011-10-24T12:00:00Z",
+  "date_commenced": "14 September 2011",
+  "date_commenced_iso": "2011-09-14T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Ecolab Inc"
+  ],
+  "targets": [
+    "Nalco Holding Company"
+  ],
+  "timeline": [
+    {
+      "date": "14 Sep 2011",
+      "date_iso": "2011-09-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Sep 2011",
+      "date_iso": "2011-09-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2011",
+      "date_iso": "2011-10-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ecolab Inc proposed to merge with Nalco Holding Company.",
+    "Market definition": "While the ACCC did not consider it necessary to form a definitive view regarding market definition, it considered the proposed merger in the context of a national market for water treatment chemicals and ancillary equipment and services.",
+    "Competition analysis": "On 24 October 2011 the ACCC determined that the proposed merger was unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included: - the existence of other competitive suppliers of water treatment chemicals and ancillary equipment and services; - some competitors of the merged firm have the ability to match a bundle of products that may potentially be offered by the merged firm; and - customer switching costs are relatively low. Accordingly, the ACCC decided not to intervene in the proposed merger."
+  }
+}

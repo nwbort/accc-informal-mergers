@@ -1,0 +1,44 @@
+{
+  "id": "1257",
+  "title": "Bunnings Group Limited - acquisition of Magnet Mart Pty Ltd's store in Griffith, NSW.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bunnings-group-limited-acquisition-of-magnet-mart-pty-ltds-store-in-griffith-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23640",
+  "industries": [
+    "Home improvement and leisure, building products."
+  ],
+  "date_completed": "25 July 2006",
+  "date_completed_iso": "2006-07-25T12:00:00Z",
+  "date_commenced": "3 July 2006",
+  "date_commenced_iso": "2006-07-03T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Bunnings Group Limited"
+  ],
+  "targets": [
+    "Magnet Mart Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Jul 2006",
+      "date_iso": "2006-07-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Jul 2006",
+      "date_iso": "2006-07-25T12:00:00Z",
+      "event": "ACCC announced findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bunnings Group Limited - acquisition of Magnet Mart Pty Ltd's store in Griffith, New South Wales.",
+    "Market definition": "The ACCC assessed this acquisition under the market for home improvement, home leisure and building products in the Griffith regional area.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to substantially lessen competition in the market for home improvement, home leisure and building products in the Griffith regional area. The ACCC found that there were competitive alternative suppliers, including category specialty and discount and variety stores. It also appeared that in relation to entry as a smaller traditional hardware retail outlet, barriers to entry were low."
+  }
+}

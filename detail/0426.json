@@ -1,0 +1,53 @@
+{
+  "id": "0426",
+  "title": "Qube Logistics - proposed acquisition of Independent Transport Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qube-logistics-proposed-acquisition-of-independent-transport-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47739",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "15 August 2012",
+  "date_completed_iso": "2012-08-15T12:00:00Z",
+  "date_commenced": "12 June 2012",
+  "date_commenced_iso": "2012-06-12T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Qube Logistics"
+  ],
+  "targets": [
+    "Independent Transport Group"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jun 2012",
+      "date_iso": "2012-06-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jun 2012",
+      "date_iso": "2012-06-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Jul 2012",
+      "date_iso": "2012-07-10T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 2 August 2012 delayed."
+    },
+    {
+      "date": "26 Jul 2012",
+      "date_iso": "2012-07-26T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Aug 2012",
+      "date_iso": "2012-08-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC focused its assessment of the proposed acquisition on the main areas of overlap between the merger parties: - the provision of rail line haul services from regional New South Wales to/from Port Botany; and - the provision of Sydney metropolitan container freight transport to/from Port Botany. The ACCC also considered whether the proposed acquisition would give rise to competition concerns in related markets for the provision of empty container storage services with rail transport facilities (encompassing storage, lifting, cleaning and maintenance of containers), freight forwarding services and intermodal terminal services. The ACCC did not consider it necessary to form a definitive view regarding market definition in these related markets as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC's assessment found that while Qube and ITG were the two most significant providers of rail line haul services from regional NSW to/from Port Botany, customers would have viable alternatives to the merged firm. In particular, the ACCC noted that Pacific National and Freightliner were providing regional rail line haul services to/from Port Botany. While some industry participants considered that there were barriers to these operators expanding, the ACCC was satisfied that these barriers would likely be overcome given a profit incentive to do so and that Pacific National and Freightliner would likely provide a competitive constraint on the merged firm. Further, the ACCC considered that some customers may hold countervailing power through their ability to sponsor entry by an above-rail operator not currently active in regional rail line haul services to/from Port Botany or by commencing their own dedicated regional rail haul service (in conjunction with an accredited rail operator). In the provision of Sydney metropolitan container freight transport services to/from Port Botany, the ACCC formed the view that the merged firm would be constrained by the cost competitiveness of road transport for customers in metropolitan Sydney and the significant number of independent road transport operators. The ACCC was also satisfied that the proposed acquisition would not increase Qube's ability and incentive to foreclose competition in the provision of empty container storage services with rail transport facilities. As set out above, post-acquisition Qube would continue to face competitive constraint in the provision of regional rail line haul services and metropolitan container freight to/from Port Botany. In addition, capacity constraints at Qube's Port Botany empty container park are likely to prevent the diversion of large volumes of containers away from Qube's main rival (Maritime Container Services) to Qube's facility. Market inquiries also indicated that even were the containers associated with ITG services diverted to Qube's empty container business, a significant pool of customers and their associated container volumes would still be available to rival empty container parks. The ACCC was also satisfied that no competition concerns arose in the provision of intermodal terminal services or freight forwarding services. The ACCC's assessment of the proposed acquisition was also informed by market feedback that ITG is not currently a vigorous and effective competitor in the relevant markets and that absent the proposed acquisition ITG would be unlikely to provide a strong competitive constraint on Qube."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1216",
+  "title": "Alinta Ltd - proposed acquisition of AGL",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alinta-ltd-proposed-acquisition-of-agl",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23739",
+  "industries": [
+    "Gas and Electricity"
+  ],
+  "date_completed": "21 September 2006",
+  "date_completed_iso": "2006-09-21T12:00:00Z",
+  "date_commenced": "29 March 2006",
+  "date_commenced_iso": "2006-03-29T12:00:00Z",
+  "total_review_days": 123,
+  "acquirers": [
+    "Alinta Ltd"
+  ],
+  "targets": [
+    "The Australian Gaslight Company"
+  ],
+  "timeline": [
+    {
+      "date": "29 Mar 2006",
+      "date_iso": "2006-03-29T12:00:00Z",
+      "event": "Alinta provides draft s87B undertakings for public consultation"
+    },
+    {
+      "date": "30 Mar 2006",
+      "date_iso": "2006-03-30T12:00:00Z",
+      "event": "Alinta provides substantial submission on competition issues"
+    },
+    {
+      "date": "26 Apr 2006",
+      "date_iso": "2006-04-26T12:00:00Z",
+      "event": "Alinta and AGL announce heads of agreement to merge"
+    },
+    {
+      "date": "28 Apr 2006",
+      "date_iso": "2006-04-28T12:00:00Z",
+      "event": "Market inquiries to be completed."
+    },
+    {
+      "date": "31 May 2006",
+      "date_iso": "2006-05-31T12:00:00Z",
+      "event": "Alinta formally offers revised undertakings."
+    },
+    {
+      "date": "2 Jun 2006",
+      "date_iso": "2006-06-02T12:00:00Z",
+      "event": "Market inquiries extended to this date to encompass joint merger proposal."
+    },
+    {
+      "date": "16 Jun 2006",
+      "date_iso": "2006-06-16T12:00:00Z",
+      "event": "ACCC releases Statement of Issues"
+    },
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "Market inquiries in relation to Statement of Issues completed"
+    },
+    {
+      "date": "3 Aug 2006",
+      "date_iso": "2006-08-03T12:00:00Z",
+      "event": "Matter suspended from consideration, pending further information from Alinta"
+    },
+    {
+      "date": "21 Sep 2006",
+      "date_iso": "2006-09-21T12:00:00Z",
+      "event": "Alinta withdraws proposal and ACCC discontinues its review"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Matter withdrawn",
+    "Market definition": "Please refer to Public Competition Assessment.",
+    "Competition analysis": "Please refer to Public Competition Assessment."
+  }
+}

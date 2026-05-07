@@ -1,0 +1,44 @@
+{
+  "id": "0596",
+  "title": "National Australia Bank Limited - proposed acquisition of AXA Asia Pacific Holdings Limited - proposed undertakings",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-limited-proposed-acquisition-of-axa-asia-pacific-holdings-limited-proposed-undertakings",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43421",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "9 September 2010",
+  "date_completed_iso": "2010-09-09T12:00:00Z",
+  "date_commenced": "9 August 2010",
+  "date_commenced_iso": "2010-08-09T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "National Australia Bank Limited"
+  ],
+  "targets": [
+    "AXA Asia Pacific Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 Aug 2010",
+      "date_iso": "2010-08-09T12:00:00Z",
+      "event": "Draft 87B undertakings proffered by NAB and AXA. ACCC commenced market inquiries."
+    },
+    {
+      "date": "23 Aug 2010",
+      "date_iso": "2010-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Sep 2010",
+      "date_iso": "2010-09-09T12:00:00Z",
+      "event": "ACCC decided to reject the draft 87B undertakings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 19 April 2010, the ACCC announced its decision to oppose the proposed acquisition of AXA Asia Pacific Holdings Limited (AXA) by National Australia Bank Limited (NAB) (see www.accc.gov.au/nab_axareview ). Subsequently NAB and AXA proposed section 87B undertakings providing for the divestiture of the North platform administration business carried out by AXA to IOOF Holdings Limited (proposed undertakings). The ACCC concluded that the proposed undertakings did not remedy the ACCC's competition concerns arising from the proposed acquisition. Please see the Public Competition Assessment below detailing the reasons for the ACCC's decision.",
+    "Market definition": "Please see Public Competition Assessment below.",
+    "Competition analysis": "Please see Public Competition Assessment below."
+  }
+}

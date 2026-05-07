@@ -1,0 +1,31 @@
+{
+  "id": "1454",
+  "title": "Acquirer: Westfield Holdings Ltd; Target: Skygarden",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-westfield-holdings-ltd-target-skygarden",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20229",
+  "industries": [],
+  "date_completed": "12 October 2004",
+  "date_completed_iso": "2004-10-12T12:00:00Z",
+  "date_commenced": "18 August 2004",
+  "date_commenced_iso": "2004-08-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Westfield Holdings Ltd"
+  ],
+  "targets": [
+    "Skygarden"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Westfield proposed to complete acquisitions of Skygarden and Imperial Arcade in September and October 2004, respectively.",
+    "Market definition": "retail space in prime Sydney CBD retail precinct",
+    "Competition analysis": "A detailed competition assessment is available on the ACCC website. In October 2004 the ACCC decided that it would not intervene in the acquisitions by Westfield of Skygarden and Imperial Arcade. Following market enquiries among retailers and landlords, the ACCC considers that the acquisitions are unlikely to substantially lessen competition. In the prime retail precinct surrounding Pitt Street mall, Westfield would control a significant proportion of the available retail space. This precinct attracts high consumer traffic, both of CBD workers, tourists, and families travelling from Sydney's suburbs. Westfield however will be constrained by competition from alternative retail sites in the CBD. Retail space in other shopping complexes is competitive for the retailing of fashion, giftware, jewellery, footwear, fashion accessories, food and drinks, and for many of the other types of retailers represented in Pitt Street mall. Competing shopping complexes in the Pitt Street mall precinct include Mid City Centre, Glasshouse, Strand Arcade and Sydney Arcade. Other competing shopping complexes in Sydney's central business district include Queen Victoria Building, MLC and Piccadilly. For some retailing, street-front space in the central business district is also a competitive alternative.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Complaint",
+    "ANZSIC code": "7712"
+  }
+}

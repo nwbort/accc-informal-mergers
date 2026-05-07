@@ -1,0 +1,31 @@
+{
+  "id": "1527",
+  "title": "Acquirer: Cabcharge Australia Ltd; Target: Black Cabs Combined Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cabcharge-australia-ltd-target-black-cabs-combined-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17799",
+  "industries": [],
+  "date_completed": "6 September 2003",
+  "date_completed_iso": "2003-09-06T12:00:00Z",
+  "date_commenced": "15 May 2003",
+  "date_commenced_iso": "2003-05-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Cabcharge Australia Ltd"
+  ],
+  "targets": [
+    "Black Cabs Combined Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Cabcharge intends to acquire Black Cabs Combined.",
+    "Market definition": "The following markets were considered relevant: - the provision of charge account facilities for payment of taxi fares nationally; - the provision of depot services to Melbourne metropolitan taxi operators; and - the provision of taxi booking and dispatch services in the Melbourne metropolitan region.",
+    "Competition analysis": "Following market inquiries with competitors and customers, the Commission considered it unlikely that the acquisition would substantially lessen competition in any of the relevant markets. The Commission took into consideration the following factors: - Cabcharge does not own any other taxi depots in Melbourne; - in the market for the provision of charge account facilities to taxis, barriers to entry are likely to be significant regardless of the acquisition; - operators are able to adopt their own charge account facility independently of depots; and - the presence of significant competing depots in Melbourne.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Other",
+    "ANZSIC code": "6123"
+  }
+}

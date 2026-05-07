@@ -1,0 +1,31 @@
+{
+  "id": "1535",
+  "title": "Acquirer: SGE Credit Union Ltd; Target: Money Wise Credit Union Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sge-credit-union-ltd-target-money-wise-credit-union-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18053",
+  "industries": [],
+  "date_completed": "22 July 2003",
+  "date_completed_iso": "2003-07-22T12:00:00Z",
+  "date_commenced": "7 July 2003",
+  "date_commenced_iso": "2003-07-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "SGE Credit Union Ltd"
+  ],
+  "targets": [
+    "Money Wise Credit Union Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission was notified of a pending transfer of business of the Money Wise Credit Union to the SGE Credit Union on 7 July 2003 by the Australian Prudential Regulation Authority.",
+    "Market definition": "Various markets for financial services.",
+    "Competition analysis": "Money Wise is a Sydney based credit union providing financial services for government employees residing in New South Wales and their families.  SGE is a credit union principally catering for employees of the state governments of New South Wales and Victoria and their families. The proposed merger will not cross any of the Commission's concentration thresholds for the exercise of market power, and is therefore unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

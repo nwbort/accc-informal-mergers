@@ -1,0 +1,42 @@
+{
+  "id": "0214",
+  "title": "InvoCare Australia Pty Limited (IVC) - proposed acquisition of Norwood Park Limited (Norwood)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invocare-australia-pty-limited-ivc-proposed-acquisition-of-norwood-park-limited-norwood",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63542",
+  "industries": [
+    "Crematoria and cemeteries"
+  ],
+  "date_completed": "14 February 2018",
+  "date_completed_iso": "2018-02-14T12:00:00Z",
+  "date_commenced": "22 January 2018",
+  "date_commenced_iso": "2018-01-22T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "InvoCare Australia Pty Limited (IVC)"
+  ],
+  "targets": [
+    "Norwood Park Limited (Norwood)"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2018",
+      "date_iso": "2018-01-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "5 Feb 2018",
+      "date_iso": "2018-02-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Feb 2018",
+      "date_iso": "2018-02-14T12:00:00Z",
+      "event": "ACCC discontinued its public review after InvoCare announced its intention to withdraw its takeover offer for Norwood Park."
+    }
+  ],
+  "body_sections": {
+    "Summary": "IVC announced on 16 January 2018 that it proposed to acquire 100 per cent of the shares of Norwood"
+  }
+}

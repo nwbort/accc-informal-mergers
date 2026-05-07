@@ -1,0 +1,44 @@
+{
+  "id": "0612",
+  "title": "Transpacific Industries Group Ltd - proposed acquisition of land and certain associated assets located at Unanderra (NSW) from Veolia Environmental Services",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-proposed-acquisition-of-land-and-certain-associated-assets-located-at-unanderra-nsw-from-veolia-environmental-services",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41830",
+  "industries": [
+    "Waste management"
+  ],
+  "date_completed": "16 July 2010",
+  "date_completed_iso": "2010-07-16T12:00:00Z",
+  "date_commenced": "18 June 2010",
+  "date_commenced_iso": "2010-06-18T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Land and assets at Unanderra from Veolia Environmental Services"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jun 2010",
+      "date_iso": "2010-06-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "2 Jul 2010",
+      "date_iso": "2010-07-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Jul 2010",
+      "date_iso": "2010-07-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 16 July 2010, the ACCC decided not to oppose the acquisition by Transpacific of land and assets at Unanderra from Veolia Environmental Services.",
+    "Market definition": "The ACCC considered this matter in the context of the following relevant markets - a regional NSW (encompassing at least Unanderra and Sydney) market for the supply of liquid and hazardous waste treatment and disposal services; - a regional NSW (encompassing at least Unanderra and Sydney) market for the collection of commercial solid waste; and - a regional NSW (encompassing at least Unanderra and Sydney) for the treatment of soil. The ACCC did not form a concluded view on market definition in this matter, as competition concerns were unlikely to arise irrespective of the market definition adopted.",
+    "Competition analysis": "The ACCC determined that the acquisition was not likely to result in a substantial lessening of competition in the relevant markets. The main factors that informed this view included that: In relation to the supply of liquid and hazardous waste treatment, it was found that the assets to be acquired were currently mothballed, and accordingly, the acquisition was unlikely to have a significant impact on competition in this market. In relation to the collection of commercial solid waste, it was found that there were a number of exisiting competitors who would provide a competitive constraint and the potential for operators with significant presence to enter this market. In relation to the treatment of soil, it was found that there were a range of local and national competitors with a local presence in this area of activity and access to landfill sites, which would provide a competitive constraint on the merged firm post-acquisition."
+  }
+}

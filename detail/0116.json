@@ -1,0 +1,59 @@
+{
+  "id": "0116",
+  "title": "National Australia Bank Limited - Citigroup Pty Limited’s Australian consumer business (Citigroup Consumer Business)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-limited-citigroup-pty-limited%E2%80%99s-australian-consumer-business-citigroup-consumer-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Financial Services"
+  ],
+  "date_completed": "25 November 2021",
+  "date_completed_iso": "2021-11-25T12:00:00Z",
+  "date_commenced": "23 August 2021",
+  "date_commenced_iso": "2021-08-23T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "National Australia Bank Limited"
+  ],
+  "targets": [
+    "Citigroup Pty Limited’s Australian consumer business (Citigroup Consumer Business)"
+  ],
+  "timeline": [
+    {
+      "date": "23 Aug 2021",
+      "date_iso": "2021-08-23T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Sep 2021",
+      "date_iso": "2021-09-08T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of ACCC's findings (18 November) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "13 Sep 2021",
+      "date_iso": "2021-09-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "22 Oct 2021",
+      "date_iso": "2021-10-22T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "22 Nov 2021",
+      "date_iso": "2021-11-22T12:00:00Z",
+      "event": "Former provisional decision date of 16 December 2021 brought forward to 25 November 2021."
+    },
+    {
+      "date": "25 Nov 2021",
+      "date_iso": "2021-11-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "National Australia Bank Limited ( NAB ) proposes to acquire Citigroup Pty Limited’s Australian consumer business ( Citigroup’s Consumer Business ). Broadly, NAB and Citigroup’s Consumer Business ( Citi ) overlap in the supply of Australian consumer banking products and services, including credit cards, low interest credit cards, personal loans, wealth management and investment products, transaction and savings accounts and home loans.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition in the supply of the following consumer banking products: credit cards, including types of credit cards (e.g. low rate, low fee, rewards) personal loans wealth management and investment products transaction and savings accounts home loans.",
+    "Competition analysis": "The ACCC concluded that the transaction would not substantially lessen competition. The ACCC’s review focused specifically on competition issues in the credit card market as this is where competition issues appeared most likely to arise from the proposed acquisition. Credit cards Horizontal effects Given that NAB and Citi are both subtantial providers of credit cards to consumers, the ACCC considered whether the proposed acquisition would reduce competition both in the overall market for credit cards and in particular segments such as credit cards with rewards programs. The ACCC concluded that, following the proposed acquisition, NAB would continue to face competition from a range of credit card suppliers. These include other big four banks, second-tier banks/authorised deposit-taking institutions ( ADI ) and non-ADI suppliers. The ACCC’s analysis also showed that NAB and Citi are not particularly close competitors in the supply of credit cards or in any segment. Vertical foreclosure of downstream white label partners In addition to supplying credit cards directly to consumers, Citi is also currently the dominant supplier of white label credit cards in Australia. These cards are distributed to consumers via white label partners (for example, supermarkets, retailers, banks and ADIs). Citi supplies unsecured credit funding, technology and other services to these white label partners to enable them to market credit cards with their branding to consumers. The ACCC considered whether post-acquisition, NAB would be able to leverage its dominant position in white label credit cards to offer less favourable terms to these white label partners such as smaller banks/ADIs, with the aim of enhancing the position of NAB’s own branded credit cards. The ACCC considered that post-acquisition NAB may have the ability to engage in a foreclosure strategy, given the very limited number of alternative suppliers that can service the needs of white label partners in Australia. However, the ACCC considered that NAB would be unlikely to have the incentive to foreclose white label partners, particularly banks/ADIs. The ACCC understands that bank/ADI white label partners may have the ability to invest in their own credit card issuing platforms (albeit at a cost) which would limit or remove their reliance on NAB’s white label credit cards post-acquisition and limit the benefits of any foreclosure strategy. More generally, the ACCC considered that any benefits to NAB from foreclosing white label partners would, on balance, be outweighed by potential downsides to its financial position. Other markets In the supply of all other consumer banking products (personal loans, wealth management and investment products, transaction and savings accounts and home loans), the ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition, because: in each of these markets, the proposed acquisition would lead to a minimal increase in NAB’s share and Citi is not a close or significant competitor to NAB; and a number of competitors would remain to constrain NAB post-acquisition."
+  }
+}

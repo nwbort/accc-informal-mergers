@@ -1,0 +1,43 @@
+{
+  "id": "1170",
+  "title": "Universal Music Group - proposed acquisition of BMG Music Publishing Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/universal-music-group-proposed-acquisition-of-bmg-music-publishing-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25548",
+  "industries": [
+    "Music publishing"
+  ],
+  "date_completed": "21 December 2006",
+  "date_completed_iso": "2006-12-21T12:00:00Z",
+  "date_commenced": "27 October 2006",
+  "date_commenced_iso": "2006-10-27T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Vivendi's Universal Music Group"
+  ],
+  "targets": [
+    "BMG Music Publishing"
+  ],
+  "timeline": [
+    {
+      "date": "27 Oct 2006",
+      "date_iso": "2006-10-27T12:00:00Z",
+      "event": "ACCC received submission from Universal Music. ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "13 Nov 2006",
+      "date_iso": "2006-11-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "21 Dec 2006",
+      "date_iso": "2006-12-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The proposed acquisition was considered in the context of: - a national market for the acquisition of rights from authors by music publishers; and - a national market for the exploitation of copyrights by music publishers.",
+    "Competition analysis": "It is was considered unlikely that the proposed acquisition would substantially lessen competition in the national market for the acquisition of rights from authors by music publishers. Factors informing this conclusion included: - barriers to entry are unlikely to be high in relation to local A&R - there would remain a number of alternative publishers to which authors could turn in the event of a SSNIP by the merged firm; - the authors which are likely to be customers of the major publishers, being larger writers and local writers on the cusp of 'making it', are likely to possess significant countervailing power in the form of self-publishing; - vertical integration concerns were unlikely to arise as inquiries suggest that many new and local authors prefer to have an unrelated music publisher and recording company; and - there would be a significant lack of transparency in relation to the terms of artistic recruitment which would likely inhibit co-ordinated conduct between the major publishers. It is was considered unlikely that the proposed acquisition would substantially lessen competition in the national market for the exploitation of copyrights by music publishers. Factors informing this conclusion included: - barriers to entry are unlikely to be high; - there would remain a number of alternative publishers to which rights users could turn in the event of a SSNIP by the merged firm; - collecting societies, and the Copyright Tribunal's review role, would appear to impose significant constraints on the merged firm's ability to withhold mechanical or performance rights licences, impose unfavourable terms or charge more than industry agreed license rates in relation to mechanical and performance rights; - the proposed acquisition would be unlikely to result in the merged firm having substantially greater ability or incentive to exit domestic collective licensing arrangements; and - there would be a significant lack of transparency in relation to the terms and license fees for synchronisation rights which would be likely to inhibit co-ordinated conduct between the major publishers. BMG Music Publishing is active in the music production business, whereas Universal Music Publishing Group is not. As such, competition concerns were considered unlikely to be raised in relation to the supply of production music. Based on the above factors, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets."
+  }
+}

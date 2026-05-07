@@ -1,0 +1,44 @@
+{
+  "id": "1199",
+  "title": "FIM Holdings LLC - proposed acquisition of GMAC LLC (GMAC)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fim-holdings-llc-proposed-acquisition-of-gmac-llc-gmac",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25788",
+  "industries": [
+    "Automotive and commercial finance"
+  ],
+  "date_completed": "8 November 2006",
+  "date_completed_iso": "2006-11-08T12:00:00Z",
+  "date_commenced": "23 October 2006",
+  "date_commenced_iso": "2006-10-23T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "FIM Holdings LLC"
+  ],
+  "targets": [
+    "GMAC LLC (GMAC)"
+  ],
+  "timeline": [
+    {
+      "date": "23 Oct 2006",
+      "date_iso": "2006-10-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "6 Nov 2006",
+      "date_iso": "2006-11-06T12:00:00Z",
+      "event": "Submissions from interested parties closed"
+    },
+    {
+      "date": "8 Nov 2006",
+      "date_iso": "2006-11-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "FIM Holdings proposes to acquire 51 per cent of GMAC LLC (formerly known as General Motors Acceptance Corporation).",
+    "Market definition": "The merger parties supply products including automotive financing, commercial finance, insurance, mortgage products and real estate services. The proposed acquisition was considered in the context of several possible market definitions involving some or all of these products.",
+    "Competition analysis": "The ACCC formed the view that there was minimal, or nil, overlap in the operations of the merger parties. On this basis, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any of the markets in which the parties operated, and decided that it would not oppose the acquisition."
+  }
+}

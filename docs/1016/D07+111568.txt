@@ -1,0 +1,647 @@
+ 
+ 
+Public Competition Assessment 
+6 December 2007 
+Google Inc - proposed acquisition of DoubleClick Inc 
+ 
+Introduction 
+1. 
+On 30 October 2007, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of 
+DoubleClick Inc (DoubleClick) by Google Inc (Google) (proposed 
+acquisition).  The ACCC was of the view that the proposed acquisition would 
+be unlikely to have the effect of substantially lessening competition in any 
+relevant Australian market in contravention of section 50 of the Trade Practices 
+Act 1974 (the Act). 
+2. 
+The ACCC formed its view on the basis of the information provided by the 
+merger parties and information arising from its market inquiries.  This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment 
+for all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is approved but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because Google’s 
+proposed acquisition of DoubleClick raised issues of interest to the public. 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets 
+and the associated merger and competition issues.  It also alerts the public to the 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change, because of developments.  
+ 
+
+
+ 
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC.  While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the 
+ACCC’s view in respect of other transaction proposals, as each matter will be 
+considered on its own merits.  
+7. 
+Many of the ACCC’s decisions will involve consideration of both non-
+confidential and confidential information provided by the merger parties and 
+market participants.  In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources.  While the ACCC aims to provide an appropriately 
+detailed explanation of the basis for the ACCC decision, maintaining 
+confidentiality will be the ACCC's paramount concern.  Accordingly, a Public 
+Competition Assessment may not definitively explain the analysis of all issues. 
+The parties 
+The acquirer: Google Inc 
+8. 
+Google is a US-based information technology company.  Its principal activities 
+are the sale of online advertising space on its search engine website 
+www.google.com (and equivalent national sites such as www.google.com.au), 
+other websites published by Google such as YouTube, and the sale of online 
+advertising space on third party websites via affiliation agreements. 
+9. 
+In Australia, Google’s products include: 
+ AdWords – a product that allows advertisers to place advertisements on 
+Google’s websites and Google’s network of third party websites. 
+ 
+ AdSense – a product that allows website publishers to join Google’s 
+network to display advertisements supplied by AdWords customers on 
+their website. 
+ 
+ Analytics – a free program that assists website publishers in determining 
+how people find that publisher’s websites, how they navigate through them 
+and how they become customers of that publisher.  It also assists 
+advertisers in analysing and understanding the performance of search 
+campaigns on Google’s search engine. 
+ 
+10. 
+Google operates in Australia via its wholly-owned subsidiary,  
+Google Australia Pty Ltd. 
+The target: DoubleClick Inc 
+11. 
+DoubleClick is a US-based technology company.  Its principal activities are the 
+provision of advertising serving (ad serving) and reporting services to 
+advertisers and publishers.  
+12. 
+DoubleClick offers the following products in Australia: 
+ 
+
+
+ 
+ 
+ DART for Advertisers (DFA) – software that allows advertisers’ 
+advertisements to be displayed across multiple websites.  This software 
+also provides reports to advertisers regarding the effectiveness of 
+advertisements and advertising campaigns.  
+ 
+ DART for Publishers (DFP) – software that allows website publishers to 
+display advertisements on their websites.  This software also provides 
+reports to publishers about user behaviour on their websites and the 
+effectiveness of advertisements on websites. 
+ 
+ DART for Search (DFS) – software that assists advertisers to manage 
+advertising campaigns across multiple search engines. 
+ 
+13. 
+DoubleClick operates in Australia via its wholly-owned subsidiary, 
+DoubleClick Australia Pty Ltd. 
+Timing 
+14. 
+The following table outlines the timeline of key events in this matter. 
+ 
+Date 
+Event 
+22-Aug-2007 
+11-Sep-2007 
+09-Oct-2007 
+ 
+30-Oct-2007 
+ACCC commenced review under the Merger Review Process Guidelines. 
+Closing date for submissions from interested parties. 
+Timeline extended by 2 weeks (from 16 October 2007) at request of ACCC to 
+allow additional time to consider new information. 
+ACCC announced it would not oppose the proposed acquisition. 
+ 
+Market inquiries 
+15. 
+The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, advertisers, website publishers, industry bodies, other 
+regulatory agencies and other interested parties.  Submissions were sought in 
+relation to the substantive competition issues. 
+Industry background 
+16. 
+The online advertising sector comprises: 
+ advertisers (or advertising agencies), who pay for advertising space on 
+websites; 
+ 
+ website publishers, who supply advertising space on their websites; 
+ 
+ firms that supply ad serving services (“ad servers”) – that is, software that 
+enables website publishers to supply online advertising space, and 
+advertisers to acquire it; and 
+ 
+ firms that supply search engine marketing (SEM) software. 
+ 
+
+
+ 
+Relevant Markets 
+17. 
+The ACCC considered the relevant markets in this matter to be: 
+ the Australian market for the supply of ad serving products designed for, 
+and supplied to, publishers; 
+ 
+ the Australian market for the supply of ad serving products designed for, 
+and supplied to, advertisers; and 
+ 
+ the Australian market for the supply of search engine marketing (SEM) 
+software. 
+ 
+18. 
+These markets are focused upon online advertising. The ACCC considered that 
+if the proposed merger would be unlikely to substantially lessen competition in 
+these markets, then it would not necessary to consider broader advertising 
+markets. 
+Ad serving for publishers 
+19. 
+Website publishers seek to maximise revenues generated by their sites by 
+attracting the highest value advertisements they can.  This process is referred to 
+as ‘monetisation’.  
+20. 
+For publishers, ad servers are the hardware, software and personnel which: 
+ enable publishers to display graphical advertising (visual and audio-visual 
+images) on their websites; and 
+ 
+ provide reports about how particular advertisements are performing. For 
+example, ad servers can report on the frequency with which internet users 
+click on an advertisement and move through to other websites. 
+ 
+21. 
+Publisher-side ad servers are usually paid a fixed amount for every 1,000 times 
+a graphical advertisement appears on a publisher’s website.  This basis of 
+pricing is known as ‘cpm’.  
+Ad serving for advertisers 
+22. 
+Advertisers’ ad servers comprise the hardware, software and personnel which 
+enable them to send graphic advertisements to publishers’ websites, as well as 
+provide reports to advertisers regarding how their ad campaigns are performing 
+across multiple websites. 
+23. 
+Unlike publisher-side ad servers, advertiser-side ad servers do not have a role in 
+deciding which advertisements will be displayed on a website at any given time.  
+Rather, they deliver specific advertisements which have been requested by a 
+website (via the website’s publisher-side ad server). 
+24. 
+Advertiser-side ad servers are usually paid a fixed amount for every 1,000 times 
+an advertisement appears on a third party website. 
+ 
+
+
+ 
+25. 
+A number of companies supply both publisher-side and advertiser-side ad 
+serving operations in Australia.  These include DoubleClick, Accipiter (which is 
+owned by Microsoft) 24/7 Real Media (owned by WPP Media), and Facilitate 
+Digital.  There are also a number of ad servers that specialise in either publisher 
+or advertiser side ad serving.   
+26. 
+Market inquiries revealed that some market participants do provide ad serving 
+to both publishers and advertisers, and that both types of ad servers use similar 
+software. Therefore, the ACCC considered the possibility of supply side 
+substitution and that publisher and advertiser ad serving may form part of the 
+same market. 
+27. 
+The ACCC considered that publisher-side and advertiser-side ad serving may 
+comprise one or two relevant markets, although it did not find it necessary to 
+come to a definitive conclusion on this matter. However, the ACCC proceeded 
+from the conservative view that they comprised separate markets; if no 
+competition issues arose on this basis, then they would also be unlikely to arise 
+on the more liberal view that they formed part of the same market. 
+Is Google in the same ad serving markets as DoubleClick? 
+28. 
+Google’s products, AdSense and AdWords, allow publishers and advertisers, 
+respectively, to display predominantly text-based advertisements on websites, 
+and Google provides ad serving to both publishers and advertisers as part of 
+these products.   
+29. 
+As well as serving ads via AdSense and AdWords, Google also acts as the 
+intermediary between publishers and advertisers for the sales and purchases of 
+advertising space on third party websites.  AdSense customers therefore do not 
+negotiate with advertisers for the sale of advertising space; Google does this on 
+their behalf.  Likewise, AdWords customers do not negotiate with publishers 
+because Google does this as well. 
+30. 
+DoubleClick predominantly serves graphical advertisements, whereas Google 
+serves predominantly text-based advertisements.  DoubleClick offers ‘stand 
+alone’ ad serving products and has no involvement in commercial negotiations 
+between publishers and advertisers.  Publishers and advertisers negotiate the 
+terms of an advertising campaign and DoubleClick’s DFA and DFP products 
+are simply the tools used by publishers and advertisers to deliver the 
+advertisements to a specific space on a website. 
+31. 
+In contrast to DoubleClick’s ad serving products, AdWords and AdSense are 
+not stand-alone ad serving products – they are integrated with Google’s role as 
+an intermediary between publishers and advertisers for the sale and purchase of 
+advertising space.  Therefore, Google does not compete for serving ads that are 
+directly sold by the publisher to an advertiser or indirectly between an ad 
+network and an advertiser.  
+32. 
+Further, Google’s products predominantly involve the display of text based ads 
+rather than graphical ads.   
+ 
+
+
+ 
+33. 
+The technical characteristics of Google and DoubleClick’s ad serving products, 
+and the fact that publishers and advertisers do choose between text and 
+graphical advertisements to a certain extent, suggests that there are elements of 
+demand-side and supply-side substitutability between Google and DoubleClick 
+and therefore their products could be considered as being in the same market.  
+Google as a potential entrant 
+34. 
+The ACCC understands that Google is currently in the process of developing 
+stand alone graphical ad serving products for publishers and advertisers. The 
+ACCC understands that these products are still early in the development stages, 
+and that there is substantial uncertainty surrounding when this product will be 
+released for general distribution. 
+Geographic dimension – supply of ad serving and SEM software 
+35. 
+Market inquiries indicated that ad serving and SEM software customers require 
+that their suppliers have an Australian presence for handling sales and assistance 
+such as help-desk inquiries.  Ad-serving and SEM software suppliers that were 
+based off-shore were not considered to be effective substitutes for local 
+suppliers. Therefore, the ACCC considered that all relevant markets were 
+national in scope. 
+ 
+
+
+ 
+ 
+                                                
+Ad serving markets characteristics 
+Relationship between publisher-side and advertiser-side ad serving 
+36. 
+Where a publisher is able to display more than one advertisement in a particular 
+part of its website1, its ad server will decide which advertisement will be 
+displayed.  It makes this decision based on information including the relevant 
+web content, the past behaviour of individual users visiting a website, 
+geographic factors, and the content of the advertisement itself. 
+37. 
+After deciding which advertisement will be displayed, the ad server makes a 
+‘call’ to the relevant advertiser’s ad server to access the required advertisement. 
+Once the advertisement is retrieved from the advertiser side, the publisher-side 
+ad server delivers the advertisement to the publisher’s website where it can be 
+seen by an internet user. 
+38. 
+A simplified diagram depicting the roles played by publisher and advertiser-side 
+ad servers is shown below: 
+Advertisement A 
+Advertisement B 
+Advertiser B 
+ad server 
+Advertiser A 
+ad server 
+Step 2: Website’s ad 
+server requests ad from 
+advertiser A’s ad server.  
+Advertiser A ad server 
+delivers the ad to 
+publisher ad server. Ad is 
+displayed on website. 
+Step 2: Website 
+requests ad from 
+advertiser B’s ad server.  
+Advertiser B ad server 
+delivers the ad to 
+publisher ad server. Ad 
+is displayed on website 
+and viewed by internet 
+browser. 
+___________________
+_____Publisher 
+ 
+content________
+_________________ 
+___________________
+________Publisher 
+ 
+content________
+___________________
+publisher 
+ad server 
+Step 1: Website requests 
+ad locations from its ad 
+server.  Ad server sends 
+back location of ads. 
+ 
+39. 
+Market inquiries revealed that for publishers, inventory of highest value is 
+usually sold via direct or indirect negotiation with advertisers and is known as 
+premium inventory.   
+ 
+1 Publishers often ‘sell’ one piece of inventory to more than one advertiser.  Advertiser’s do not pay a 
+set fee, however, and are only charged when their ad actually appears.  In this way, publishers are 
+often able to display several different ads in one space. 
+
+
+ 
+40. 
+Market inquiries revealed that text ads are used by publishers to ‘fill’ remnant 
+inventory that has not has not already been populated by graphical advertising, 
+or to fill new inventory that it has not yet been able to populate with graphical 
+advertisements. 
+Switching costs  
+41. 
+Market inquiries revealed that, for both publishers and advertisers, the costs 
+associated with switching ad servers are significant (more so for publishers) but 
+not insurmountable, such that publishers and advertisers could pursue a 
+commercial incentive to switch ad servers.  
+42. 
+In the case of publishers, switching ad servers involves recoding the publisher’s 
+website to make it compatible with the new ad server.  Market inquiries 
+revealed that this process can be disruptive, especially for larger websites with 
+many different web pages; however most publishers surveyed advised that such 
+disruptions did not ultimately prevent them from switching ad servers when a 
+need arose (such as reduced quality, increased prices, or the emergence of a 
+superior product). Further, market inquiries revealed evidence of major website 
+publishers having switched ad servers. 
+43. 
+Advertisers do not face the same technical issue of recoding that publishers do, 
+however market inquiries revealed that historical data regarding the 
+performance of advertisements cannot be easily loaded into a new ad serving 
+system.  Advertisers use this data to plan for future campaigns and a loss of data 
+can place an advertiser at a disadvantage. 
+44. 
+Nevertheless, market participants indicated that, while an inconvenience, this 
+was not a barrier to switching and can be overcome to some degree by manually 
+loading historical data into the ad serving system.  Further, market inquiries 
+indicated that this data can lose its value over time as the new system records 
+more up to date information. 
+45. 
+The majority of publishers and advertisers advised that they would be likely to 
+switch ad servers if presented with a commercial incentive such as increased 
+prices or a reduction in quality. 
+Barriers to entry 
+46. 
+Market inquiries indicated that barriers to entry for constructing publisher and 
+advertiser ad serving software are not significant, particularly for ad servers 
+wishing to serve small to medium websites.  A major barrier to entry appeared 
+to be winning customer contracts, which was likely to be somewhat influenced 
+by the presence of varying degrees of switching costs (discussed above).  
+47. 
+For ad servers wishing to service large websites, barriers are likely to be high.  
+According to market participants, this is because it is more difficult to develop 
+software that can be ‘scaled’ to meet the requirements of larger websites. 
+ 
+
+
+ 
+48. 
+As such, the ACCC considered that barriers to entry were likely to be moderate 
+for small companies wishing to service small to medium sized websites, and 
+higher for those seeking to serve large websites. 
+Competition analysis – ad serving markets 
+Horizontal aggregation – ad serving 
+49. 
+As noted earlier in this document, Google’s (integrated) ad serving activities are 
+largely confined to text-based advertising within the remnant inventory spaces 
+sold by website publishers.  Further, DoubleClick predominantly provides 
+stand-alone graphical ad serving products to publishers and advertisers, while 
+Google does not, meaning that it does not compete to provide ad serving 
+services to publishers and advertisers who trade in directly sold advertising 
+inventory. For these reasons, it was considered that Google and DoubleClick are 
+not close competitors in the supply of ad serving products.  
+50. 
+The ACCC also considered that a lack of close substitution between sales of 
+premium and remnant inventory also minimised the extent to which the merger 
+parties’ ad serving capabilities overlap. This is explained in more detail below. 
+51. 
+Market inquiries revealed that publishers prefer to monetise premium inventory 
+via graphical and rich media advertising because these types of advertising earn 
+the highest revenues.  Text ads are used by publishers to ‘fill’ remnant inventory 
+that has not has not already been populated by graphical advertising, or to fill 
+new inventory that it has not yet been able to populate with graphical 
+advertisements. 
+52. 
+The vast majority of publishers surveyed during market inquiries revealed that, 
+given the choice, they would monetise their inventory with graphical ads in 
+preference to text ads, even if the revenues received from graphical ads 
+decreased by 5-10%.   
+53. 
+Therefore, the ACCC concluded that the manner in which publishers and 
+advertisers allocate their advertising activities between text and graphical 
+advertisements, and therefore use Google’s and DoubleClick’s ad serving 
+capabilities barely overlap, such that there is very little trade-off between the 
+merger parties’ products by their respective customers, if any.   
+54. 
+The ACCC therefore considered that the merger would be unlikely to give the 
+merged entity the ability to raise the price of ad serving.  The ACCC noted that, 
+in the event that it did attempt to raise prices, the merged entity would be likely 
+to lose customers to the other viable, effective competitors in both markets, who 
+are also closer competitors for Google’s and DoubleClick’s respective activities. 
+55. 
+Finally, the ACCC considered the possibility that the merger may halt Google 
+from developing graphical ad serving products that might compete with 
+DoubleClick, but due to the existence of a number of closer substitutes for 
+DoubleClick’s ad serving products, the ACCC did not consider that this was 
+likely to give rise to competition concerns. 
+ 
+
+
+ 
+56. 
+As such, the ACCC did not consider that the merger would lead to significant 
+horizontal aggregation. 
+Conglomerate competition issues 
+57. 
+The ACCC examined concerns that the proposed merger would enable the 
+merged entity to: 
+ 
+Operate publisher-side ad serving products in a discriminatory manner 
+which would be to the benefit of Google’s network of advertisers and the 
+detriment of rival ad servers; 
+ 
+Access confidential data about internet users through its ad serving 
+functions, which would benefit Google as a seller of advertising space; 
+and 
+ 
+Sell bundles of ad serving products at price levels with which rival ad 
+servers could not compete. 
+58. 
+In the context of the above issues, the ACCC considered whether as a result of 
+the merger, Google and DoubleClick’s customers would have substantially 
+fewer ad serving options, enabling the merged entity to ultimately increase the 
+prices of ad serving and possibly also online advertising in the long term.  
+59. 
+The ACCC noted that there are a number of alternative ad servers who are well-
+established, many with international operations, and sophisticated ad serving 
+products. Although there are segments of the market where switching costs and 
+barriers to entry are more pronounced than others, there are substantial strong 
+competitors who would be difficult to dislodge from the market. The ACCC 
+also observed evidence of very large website publishers switching between ad 
+servers, and considered there was a strong possibility that publishers and 
+advertisers would change ad servers in response to increased prices. 
+60. 
+As such, the ACCC did not consider that the proposed merger was likely to 
+substantially lessen competition in the relevant ad serving markets. 
+Search advertising software market 
+ 
+61. 
+Advertisers bid on search terms entered into search engines to determine when 
+their advertisements will be displayed.  For example, a manufacturer of football 
+boots may bid on search terms such as “soccer”, “football” and other related 
+terms in an attempt to reach its target audience.  Where more than one advertiser 
+bids on a search term, a combination of the price bid for the term and the 
+popularity of the advertiser’s website is often used to determine the order in 
+which advertisements appear.  These ‘auctions’ are continuous and the value of 
+search terms, as set by the market, is constantly changing.  
+62. 
+Often, search campaigns can involve bidding on hundreds or even thousands of 
+search terms on a search engine.  Software that assists advertisers (and 
+advertising agencies) to design, implement and manage search campaigns is 
+known as search engine marketing (SEM) software. 
+ 
+
+
+ 
+63. 
+DoubleClick has a product called DART for Search (DFS). Google also has a 
+free program called ‘Analytics’ that can be used to assist advertisers to manage 
+search campaigns. 
+64. 
+SEM software allow advertisers to keep track of how much is being paid for 
+each search term at any given moment, report on the conversion rate of each 
+search term2 and calculate the ROI of search terms. 
+65. 
+Another type of software, search engine optimisation (SEO) is also used by 
+advertisers to maximise the traffic directed to their site by search engines.  SEO 
+software differs from SEM software, however, in that SEO software assists 
+advertisers to improve their website so that it appears as early as possible in 
+search results. 
+66. 
+While these types of products are similar, however, the ACCC considered that 
+they are more likely to be complements than substitutes, because SEM software 
+involves designing and managing search advertising campaigns, whereas SEO 
+software’s purpose is more to do with website design. 
+Conclusion 
+67. 
+The ACCC considered a relevant market to be the market for the development 
+of SEM software. 
+Market characteristics  
+Importance of Google’s search engine 
+68. 
+SEM software assists advertisers to participate in the upstream search engine 
+advertising market.  In Australia, Google is the largest player in this market, 
+accounting for over 85% of all searches performed in Australia.3  Microsoft and 
+Yahoo! are the next largest with approximately 6% and 2% respectively.4 
+69. 
+Barriers to entry into this market, on a scale that would be competitive with 
+Google, appear to be very high.  The technology involved in developing and 
+maintaining a search engine of the scale of Google’s, Yahoo!’s or Microsoft’s is 
+highly complex and would take several years to develop. 
+70. 
+Although switching costs appear to be low for search engine users, market 
+inquiries revealed that advertisers generally do not perceive there to be a strong 
+alternative to Google.  Indeed, market inquiries revealed that there are some 
+search engine advertising agencies which only provide marketing services to 
+advertisers advertising on Google. 
+71. 
+Generally, market inquiries revealed that Google is perceived to be a necessary 
+input into the SEM software market, without access to which SEM software 
+developers would probably be unable to remain viable. 
+                                                 
+2 The conversion rate of a search term is the percentage of time that a consumer enters into an online 
+transaction directly after clicking on an advertisement generated by that search term. 
+3 www.hitwise.com.au  
+4 ibid 
+ 
+
+
+ 
+Barriers to entry 
+72. 
+Market inquiries revealed that entry barriers were not high in this market.  
+Market participants advised that the technology involved is not prohibitively 
+complex and there is evidence of recent new entry. 
+Competitors 
+73. 
+A number of competitors compete in this market, including DoubleClick, 24/7 
+Real Media and Accipiter.  Google also has a free program called ‘Analytics’ 
+which can be used to manage search advertising campaign on Google’s search 
+engine.  However, many market participants expressed doubts as to whether this 
+program is suitable for large advertising campaigns involving thousands of key 
+words.  As such, the ACCC considered that Analytics was a viable alternative 
+for advertisers running small campaigns but became less competitive as the size 
+of the campaign increased.  It was not considered a viable alternative for large 
+advertising campaigns. 
+Competition analysis 
+74. 
+A number of market participants raised concerns that the merger would allow 
+Google to discriminate against rival SEM software developers.  According to 
+those concerned, Google could do this by blocking or denying access to its 
+search engine’s Application Program Interface (API) or by tying or bundling 
+AdWords with DFS. 
+Blocking or hindering access to Google’s API 
+75. 
+A search engine’s API allows SEM programs to effectively interface with it.  
+Among other things, it also allows SEM programs to upload very large search 
+campaigns much faster than if this were to be done manually.  A number of 
+market participants advised that, without access to the API, the effectiveness of 
+SEM software is severely affected.  Given that access to Google’s search engine 
+is considered by many in the market to be essential to SEM software developers, 
+the ACCC considered that this issue could be problematic. 
+76. 
+Nevertheless, the ACCC came to the conclusion that this issue was unlikely to 
+give rise to competition concerns. 
+77. 
+First, Google may already have an incentive to deny SEM software developers 
+access to its API because SEM software assists advertisers in maximising the 
+results of their advertising spend which, by implication, could mean actually 
+spending less on Google’s search engine.  However, not only has Google not 
+sought to deny access, it actually gives away a product, Analytics, to assist 
+advertisers to rationalise their spend. 
+78. 
+Second, Google is likely to already have the ability to enter the SEM software 
+market itself.  Indeed, as the owner of a search engine, Google would be well-
+placed to do this.  Further, it could further develop and market Analytics in 
+order to enter this market. 
+ 
+
+
+ 
+79. 
+As such, the ACCC did not consider that the merger would give the merged 
+entity an added incentive or ability to foreclose rival SEM software developers.   
+Bundling or tying AdWords with DFS 
+80. 
+A concern was raised that Google would attempt to tie AdWords with DFS, thus 
+forcing advertisers to use DFS.  However, as with the issue of blocking or 
+hindering access to Google’s APIs, the ACCC did not consider that the merger 
+gave Google any added incentive or ability to engage in this behaviour.   
+81. 
+The ACCC considered that, were Google minded to do so, it already probably 
+has the incentive and ability to tie AdWords with Analytics.  Google could tie 
+AdWords with Analytics as it is or further develop Analytics and then tie 
+AdWords to it.  
+82. 
+As such, the ACCC did not consider this issue would be likely to give rise to 
+competition concerns. 
+Conclusion 
+83. 
+The ACCC did not consider that the merger would give rise to a substantial 
+lessening of competition in the SEM software market. 
+Conclusion 
+84. 
+On the basis of the above, the ACCC formed the view that the proposed 
+acquisition of DoubleClick by Google would not be likely to result in a 
+substantial lessening of competition any Australian market in contravention of 
+section 50 of the Act. 
+ 
+ 

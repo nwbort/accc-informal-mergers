@@ -1,0 +1,64 @@
+{
+  "id": "0515",
+  "title": "Woolworths Limited - proposed acquisition of a lease for a new supermarket site in Dunlop in the ACT",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-a-lease-for-a-new-supermarket-site-in-dunlop-in-the-act",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45476",
+  "industries": [
+    "Grocery Retailing"
+  ],
+  "date_completed": "9 June 2011",
+  "date_completed_iso": "2011-06-09T12:00:00Z",
+  "date_commenced": "15 April 2011",
+  "date_commenced_iso": "2011-04-15T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "a lease for a new supermarket site in Dunlop in the ACT"
+  ],
+  "timeline": [
+    {
+      "date": "15 Apr 2011",
+      "date_iso": "2011-04-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2011",
+      "date_iso": "2011-04-15T12:00:00Z",
+      "event": "ACCC timeline suspended to await further information from Woolworths."
+    },
+    {
+      "date": "20 Apr 2011",
+      "date_iso": "2011-04-20T12:00:00Z",
+      "event": "ACCC received further information from Woolworths. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Apr 2011",
+      "date_iso": "2011-04-29T12:00:00Z",
+      "event": "ACCC requested further information from the landlord of the new supermarket site in Dunlop in the ACT. ACCC timeline suspended."
+    },
+    {
+      "date": "2 May 2011",
+      "date_iso": "2011-05-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 May 2011",
+      "date_iso": "2011-05-16T12:00:00Z",
+      "event": "ACCC received further information from the landlord of the new supermarket site in Dunlop in the ACT. ACCC timeline recommenced."
+    },
+    {
+      "date": "9 Jun 2011",
+      "date_iso": "2011-06-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire a lease for a new supermarket site in Dunlop in the ACT.",
+    "Market definition": "The proposed acquisition was considered in the context of: (a) separate local retail markets within approximately 5 kilometres surrounding the Dunlop site for i. the supply of products sold in supermarkets; and ii. the supply of takeaway packaged liquor products; (b) separate state-based markets for i. the acquisition from suppliers of products sold in supermarkets; and ii. the acquisition from suppliers of takeaway packaged liquor products; and (c) separate state-based markets for i. the wholesale supply of packaged groceries and other products sold in supermarkets; and ii. the wholesale supply of packaged liquor to takeaway liquor retailers.",
+    "Competition analysis": "The ACCC considered whether the acquisition of the lease by Woolworths would be likely to result in a substantial lessening of competition in a market when compared with the likely future without the acquisition, namely the acquisition of the lease by another supermarket operator. That is, it compared the likely state of competition in the market with and without the acquisition. With respect to the local retail supermarkets market the ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition because: - the Dunlop site is small and unsuitable for a full-line supermarket and, as a site for a largely convenience-based offer to local consumers, appeared unlikely to support a supermarket that would drive pricing or add significant new competition; - the Dunlop site is located in the outermost suburb in north west Canberra and is not on a thoroughfare for consumers living outside Dunlop, diminishing the likelihood that those consumers would consider a supermarket in Dunlop to be a close and important competitor to existing supermarkets; - several convenience-based supermarkets, as well as Aldi, already compete with Woolworths in the relevant area, such that another independent, small-format store at the Dunlop site would be unlikely to significantly change the local competitive dynamics when compared with the acquisition proceeding; and - the relevant market is a growing area and, subject to relevant approvals, may provide opportunities for future entry by other competitors. In light of the presence of many competing retailers of liquor products in the relevant area, the ACCC considered the proposed acquisition was unlikely to substantially lessen competition in this retail market. Given that the proposed acquisition would result in a minimal increment to Woolworths' purchasing volumes and an equally small change to the wholesale volumes supplied by either Woolworths (with the acquisition) or an independent wholesaler (without the acquisition) the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the state-based markets for acquisition or wholesaling of products sold in supermarkets and takeaway liquor retailers. Accordingly, on 9 June 2011 the ACCC announced its decision not to oppose the proposed acquisition."
+  }
+}

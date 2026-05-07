@@ -1,0 +1,54 @@
+{
+  "id": "0390",
+  "title": "Pact Group Pty Ltd - completed acquisition of Drum Reconditioners NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-completed-acquisition-of-drum-reconditioners-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49904",
+  "industries": [
+    "Industrial reconditioning of drums"
+  ],
+  "date_completed": "22 April 2013",
+  "date_completed_iso": "2013-04-22T12:00:00Z",
+  "date_commenced": "31 October 2012",
+  "date_commenced_iso": "2012-10-31T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Drum Reconditioners NSW"
+  ],
+  "timeline": [
+    {
+      "date": "31 Oct 2012",
+      "date_iso": "2012-10-31T12:00:00Z",
+      "event": "Pact Group completed the acquisition of Drum Reconditioners NSW."
+    },
+    {
+      "date": "15 Nov 2012",
+      "date_iso": "2012-11-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Nov 2012",
+      "date_iso": "2012-11-30T12:00:00Z",
+      "event": "ACCC requested further information from Pact. ACCC timeline suspended."
+    },
+    {
+      "date": "21 Mar 2013",
+      "date_iso": "2013-03-21T12:00:00Z",
+      "event": "ACCC received further information from Pact. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Apr 2013",
+      "date_iso": "2013-04-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group Pty Ltd acquired Drum Reconditioners NSW on 31 October 2012.",
+    "Market definition": "The ACCC primarily considered the effect of the completed acquisition in the context of markets for the: - supply of reconditioned steel drums (drums) in NSW; - acquisition of used drums in NSW; - supply of reconditioned intermediate bulk containers (IBCs) in NSW; and - acquisition of used IBCs in NSW.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to result in a substantial lessening of competition in any of the relevant markets. Supply of reconditioned drums The ACCC noted that the market for the supply of reconditioned drums in NSW was a mature and potentially declining market. The ACCC considered that, when compared with the status quo (Pact remaining in the market as a competitor), the acquisition raised serious competition issues, particularly on the basis that: - the merged entity had a significant share of the market; and - the market was characterised by significant entry/expansion barriers. The ACCC carefully considered whether the status quo reflected the likely state of competition without the acquisition.  After closely analysing information and internal documents provided by Pact, the ACCC considered it was more likely than not Pact would have closed its reconditioning facility in Penrith with or without the acquisition and would not have remained as a significant competitor in the NSW market. The ACCC concluded that if Pact had exited the market instead of acquiring Drum Reconditioners NSW (DR), DR, as the major existing supplier in NSW, was uniquely placed to attract Pact's customers (a significant proportion of whom were not on contracts).  DR was an efficient and experienced operator with spare capacity, and was therefore likely to have been successful in winning a majority of Pact's former customers in the absence of the acquisition. After comparing the effects of the completed acquisition to the position where Pact is likely to have closed the Penrith facility in any event, the ACCC formed the view that the completed acquisition of DR would not be likely to result in a substantial lessening of competition in the NSW market for the supply of reconditioned drums. Acquisition of used drums The ACCC concluded that the competitive dynamics in the NSW market for the acquisition of used drums were closely related to the above analysis regarding the supply of reconditioned drums.  The ACCC accordingly concluded that the competitive landscapes with and without the acquisition were likely to be quite similar. Therefore a substantial lessening of competition did not arise. Supply of reconditioned IBCs and acquisition of used IBCs The ACCC concluded that, absent the acquisition, Pact may have remained an active competitor in the markets for both the supply of reconditioned IBCs and the acquisition of used IBCs (i.e. the status quo reflected the state of competition without the acquisition). However the ACCC concluded that the completed acquisition was not likely to substantially lessen competition in these markets as: - remaining competitors, particularly Tank Management Service, would be likely to provide a close constraint on the merged entity; and - demand for reconditioned IBCs was not declining and the ACCC did not have concerns about the availability of used IBCs as an input."
+  }
+}

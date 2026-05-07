@@ -1,0 +1,45 @@
+{
+  "id": "0262",
+  "title": "Primary Health Care Limited - acquisition of pathology assets previously operated by Healthscope in Queensland",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/primary-health-care-limited-acquisition-of-pathology-assets-previously-operated-by-healthscope-in-queensland",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56782",
+  "industries": [
+    "Pathology"
+  ],
+  "date_completed": "16 June 2016",
+  "date_completed_iso": "2016-06-16T12:00:00Z",
+  "date_commenced": "13 February 2015",
+  "date_commenced_iso": "2015-02-13T12:00:00Z",
+  "total_review_days": 332,
+  "acquirers": [
+    "Primary Health Care Limited"
+  ],
+  "targets": [
+    "Pathology assets previously operated by Healthscope in Queensland"
+  ],
+  "timeline": [
+    {
+      "date": "2 Feb 2015",
+      "date_iso": "2015-02-02T12:00:00Z",
+      "event": "Primary and Healthscope completed the acquisition."
+    },
+    {
+      "date": "13 Feb 2015",
+      "date_iso": "2015-02-13T12:00:00Z",
+      "event": "ACCC commenced investigation."
+    },
+    {
+      "date": "16 Jun 2016",
+      "date_iso": "2016-06-16T12:00:00Z",
+      "event": "ACCC announced it would discontinue its investigation on the basis of s87B undertakings accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Primary Health Care acquired certain pathology assets previously operated by Healthscope in Queensland.",
+    "Market definition": "In previous reviews involving pathology providers, the ACCC has considered acquisitions in the context of state-based markets for the supply of community pathology services. In this case, the ACCC considered a Queensland-based market and, alternatively, separate geographic markets in each of the Gold Coast, Brisbane and the Sunshine Coast. These narrower geographic markets were relevant because the ACCC's investigation found that Healthscope provided a particularly strong competitive constraint in these regions. Although pathology providers can operate and compete at a state-wide level, the competitive effects of pathology mergers can have an impact in geographic regions narrower than a state. This is primarily because pathology providers only act as an immediate competitive constraint within a limited range of their existing laboratories and collection centres. In this case, documents and information gathered through the investigation indicated that the Gold Coast, Brisbane and the Sunshine Coast represented Healthscope's key fields of rivalry with competing pathology providers.",
+    "Competition analysis": "The ACCC concluded that, after taking account of the undertakings given by Primary and Healthscope, the acquisition was not likely to result in a substantial lessening of competition in any relevant market. This was because the undertakings would have the effect of restoring the market structure to its pre-acquisition state. Primary and Healthscope did not notify the ACCC of the acquisition and Primary proceeded to acquire the Healthscope assets before the ACCC was aware of the acquisition. As a result, at the time of giving the undertakings, the Healthscope assets were already owned by Primary. The undertaking given by Primary therefore required Primary to divest all of the collection centres that it had acquired from Healthscope and still held, and to facilitate the transfer of the personnel required to operate them.  As Healthscope had retained some of its pathology assets in Queensland, it was also required to divest some of those assets to the same purchaser. The undertakings required Primary and Healthscope to divest the assets to a purchaser approved by the ACCC, in order to create a viable, effective, stand-alone, independent and long term competitor in the supply of community pathology services in Queensland. The ACCC approved Medlab as the purchaser of the divestiture assets under both undertakings. In particular, the ACCC considered that Medlab would provide a competitive constraint on Primary and Sonic that was comparable to that which would have been provided by Healthscope's Queensland pathology business in the absence of the acquisition. The ACCC's investigation indicated that Healthscope was an important constraint preventing Primary (through its Queensland pathology business, QML) and Sonic (through its Queensland pathology business, Sullivan Nicolaides Pathology) from increasing prices or decreasing the quality of their services in the relevant markets. Primary and Sonic had similar shares of the relevant markets, while Healthscope's smaller share gave it a greater incentive to capture additional referrals. At the same time, Healthscope's geographic coverage and overall service offering were comparable to Primary and Sonic in the relevant markets, meaning that it imposed an immediate competitive constraint on them. Other pathology providers in Queensland did not provide a level of competitive constraint comparable to Healthscope. In some cases this was due to their business model, and in others this was because they provided a narrower range of pathology testing, operated in smaller regions or lacked the economies of scale. Barriers to entry and expansion meant that new entry on a scale comparable to Healthscope was unlikely and that other existing pathology providers would be unlikely to expand in a timely manner.",
+    "Undertakings": "Primary Health Care Limited - section 87B Undertaking - signed 15 June 2016.\nUPDATE: During the course of 2017, Primary requested waivers in respect of a number of its obligations under its undertaking. The reasons for seeking the waivers related to some landlords refusing to consent to transfer leases to Medlab, refusals from counterparties to novate agreements to Medlab, Medlab determining it did not wish to acquire some centres, and some site closures in the ordinary course of business or the applicable service level agreement coming to an end during the divestiture period.\n\nOn the basis of the information provided by Primary and after consultation with the Approved Independent Auditor and Medlab, the ACCC agreed to Primary's request to waive a number of Primary's obligations under the undertaking.\n\nMore information is on the section 87B public register, at: https://www.accc.gov.au/public-registers/undertakings-registers/s87b-undertakings-register"
+  }
+}

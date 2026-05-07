@@ -1,0 +1,54 @@
+{
+  "id": "0387",
+  "title": "Shell Company of Australia Ltd - completed acquisition of former BP-branded Gundagai North Service Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/shell-company-of-australia-ltd-completed-acquisition-of-former-bp-branded-gundagai-north-service-centre",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49982",
+  "industries": [
+    "Petrol station"
+  ],
+  "date_completed": "30 April 2013",
+  "date_completed_iso": "2013-04-30T12:00:00Z",
+  "date_commenced": "21 December 2012",
+  "date_commenced_iso": "2012-12-21T12:00:00Z",
+  "total_review_days": 69,
+  "acquirers": [
+    "Shell Company of Australia"
+  ],
+  "targets": [
+    "BP North Gundagai"
+  ],
+  "timeline": [
+    {
+      "date": "21 Dec 2012",
+      "date_iso": "2012-12-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Jan 2013",
+      "date_iso": "2013-01-23T12:00:00Z",
+      "event": "ACCC requested further information from Shell and Coles Express. ACCC timeline suspended."
+    },
+    {
+      "date": "1 Feb 2013",
+      "date_iso": "2013-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Feb 2013",
+      "date_iso": "2013-02-12T12:00:00Z",
+      "event": "ACCC received further information from Shell and Coles Express. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 Apr 2013",
+      "date_iso": "2013-04-30T12:00:00Z",
+      "event": "ACCC announced it would cease its investigation into the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In September 2012 Shell acquired a leasehold interest in the formerly BP-branded North Gundagai Service Centre on the northbound side of Hume Highway at Gundagai. Shell also leased a service station site on the southbound side of Hume Highway at Gundagai, operated by Coles Express. Shell's existing site was approximately 9km south of the BP-branded site it acquired.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the market for the retail supply of petroleum based fuels, diesel and automotive LPG surrounding the Gundagai region of the Hume Highway (encompassing both sides of the Highway).  The ACCC did not precisely define the geographic scope of the market but took into account the next closest retail fuel sites on and off the Highway.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to substantially lessen competiion in the market for the retail supply of petroleum based fuels in the Hume Highway Gundagai region for the following reasons: - the former BP-branded Gundagai North Service Centre (Target site) and the Shell-branded South Gundagai Service Centre (South site), were not close competitors prior to the completed acquisition because: * although both sites were located close to the highway and were visible and accessible to vehicles travelling in both directions, only a small percentage of vehicles crossed the Highway to purchase petrol prior to the acquisition; and * there was no evidence of price competition between the sites prior to the acquisition; - a number of large transport companies, whose vehicles represented a significant percentage of the commercial traffic on the Highway in the Gundagai region, operated their own petrol bowsers and as such did not need to purchase petrol at either the Target site or the South site; and - the availability of substitutes to the Target site and the South site, including Caltex at Tarcutta, BP at Jugiong; and to a lesser degree the Caltex at Yass, and Caltex stations at Holbrook."
+  }
+}

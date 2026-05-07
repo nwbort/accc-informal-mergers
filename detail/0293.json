@@ -1,0 +1,44 @@
+{
+  "id": "0293",
+  "title": "VIP Steel Packaging Pty Ltd - proposed acquisition of certain steel drum assets from National Can Industries Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/vip-steel-packaging-pty-ltd-proposed-acquisition-of-certain-steel-drum-assets-from-national-can-industries-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57072",
+  "industries": [
+    "Steel drums"
+  ],
+  "date_completed": "30 April 2015",
+  "date_completed_iso": "2015-04-30T12:00:00Z",
+  "date_commenced": "1 April 2015",
+  "date_commenced_iso": "2015-04-01T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "VIP Steel Packaging Pty Ltd"
+  ],
+  "targets": [
+    "National Can Industries Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Apr 2015",
+      "date_iso": "2015-04-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Apr 2015",
+      "date_iso": "2015-04-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Apr 2015",
+      "date_iso": "2015-04-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "VIP Steel Packaging Pty Ltd (VIP Steel) proposed to acquire certain large steel drum assets from National Can Industries (NCI) (the proposed acquisition).",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the markets for: - the supply of new large steel drums (over 60 litres); and - the supply of reconditioned large steel drums. The ACCC did not consider it necessary to form a definitive view on the geographic scope of these markets, given the ACCC's conclusion that a substantial lessening of competition was unlikely to arise irrespective of the market definition adopted.",
+    "Competition analysis": "VIP Steel and NCI are both suppliers of a wide range of plastic and steel packaging in Australia, including drums, cans and pails. The proposed acquisition related only to NCI's large steel drum operations. The ACCC was concerned that the proposed acquisition would remove the only alternative supplier of new large steel drums in Australia. A focus of the ACCC's review was the future of NCI's large steel drum operations if VIP Steel's proposed acquisition does not proceed. The ACCC was concerned that the proposed acquisition would remove the only alternative supplier of new large steel drums in Australia. However, NCI's large steel drum operations had failed to achieve profitability and the ACCC concluded that, with or without VIP Steel's proposed acquisition, there would only be one supplier of new large steel drums remaining in the market. It was clear that NCI's large steel drum operations had been unprofitable since their acquisition by NCI in 2012 from receivers appointed to HP Industries. NCI had experienced declining overall demand for large steel drums from customers, in a market with significant excess production capacity.  NCI had attempted to restructure its large steel drum operations, such as by closing its Queensland plant. NCI had also recently discontinued production at its NSW plant, leaving only one facility operating, at Altona, Victoria. The ACCC appointed a forensic accountant to examine the financial accounts and other internal NCI documents for NCI's large steel drum operations. This forensic accountant's independent analysis assisted the ACCC's conclusions that NCI's large steel drum operations were not viable, either historically or in future. The ACCC also carefully reviewed confidential information and internal documents from NCI in relation to its sales process for these assets. This material supported NCI's submission to the ACCC that there was no alternative acquirer of these assets in Australia and that the assets would leave the market in the absence of the proposed acquisition. In these circumstances, opportunities for competition in the supply of new steel drums would be the same with or without the proposed acquisition. Accordingly, on 30 April 2015 the ACCC announced its decision that the proposed acquisition would be unlikely to substantially lessen competition in any relevant market."
+  }
+}

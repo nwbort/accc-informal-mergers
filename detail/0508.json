@@ -1,0 +1,43 @@
+{
+  "id": "0508",
+  "title": "Proposed merger between Teys Bros (Holdings) Pty Limited and Cargill Beef Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-between-teys-bros-holdings-pty-limited-and-cargill-beef-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44179",
+  "industries": [
+    "Meat Processing"
+  ],
+  "date_completed": "6 July 2011",
+  "date_completed_iso": "2011-07-06T12:00:00Z",
+  "date_commenced": "13 May 2011",
+  "date_commenced_iso": "2011-05-13T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Teys Bros (Holdings) Pty Limited"
+  ],
+  "targets": [
+    "Cargill Beef Australia"
+  ],
+  "timeline": [
+    {
+      "date": "13 May 2011",
+      "date_iso": "2011-05-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2011",
+      "date_iso": "2011-06-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Jul 2011",
+      "date_iso": "2011-07-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see Public Competition Assessment below.",
+    "Competition analysis": "Please see Public Competition Assessment below."
+  }
+}

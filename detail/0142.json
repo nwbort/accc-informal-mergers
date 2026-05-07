@@ -1,0 +1,59 @@
+{
+  "id": "0142",
+  "title": "Mylan N.V. and Upjohn Inc. - proposed merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mylan-nv-and-upjohn-inc-proposed-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "10 September 2020",
+  "date_completed_iso": "2020-09-10T12:00:00Z",
+  "date_commenced": "24 March 2020",
+  "date_commenced_iso": "2020-03-24T12:00:00Z",
+  "total_review_days": 102,
+  "acquirers": [
+    "Mylan N.V."
+  ],
+  "targets": [
+    "Upjohn Inc."
+  ],
+  "timeline": [
+    {
+      "date": "24 Mar 2020",
+      "date_iso": "2020-03-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "22 Apr 2020",
+      "date_iso": "2020-04-22T12:00:00Z",
+      "event": "Closing date for submissions. The ACCC will place an indicative decision date here shortly."
+    },
+    {
+      "date": "4 Jun 2020",
+      "date_iso": "2020-06-04T12:00:00Z",
+      "event": "ACCC awaiting further information from the parties. Former provisional date for announcement of ACCC's finding (11 June 2020) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "19 Aug 2020",
+      "date_iso": "2020-08-19T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Aug 2020",
+      "date_iso": "2020-08-31T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed divestment undertaking."
+    },
+    {
+      "date": "10 Sep 2020",
+      "date_iso": "2020-09-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to  section 87B undertakings accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The proposed combination of Mylan N.V. (Mylan) and Pfizer's Upjohn Inc. division (Upjohn), which will be renamed Viatris at the closing of the transaction (the proposed transaction). Mylan and Upjohn both supply cardiovascular, neurology & pain, psychiatry, urology and ophthalmology pharmaceutical products in Australia.",
+    "Market definition": "Refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Refer to the attached Public Competition Assessment."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "0224",
+  "title": "Camp Australia Pty Ltd and Junior Adventures Group Pty Ltd - proposed merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/camp-australia-pty-ltd-and-junior-adventures-group-pty-ltd-proposed-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61622",
+  "industries": [
+    "Child care services"
+  ],
+  "date_completed": "27 September 2017",
+  "date_completed_iso": "2017-09-27T12:00:00Z",
+  "date_commenced": "1 June 2017",
+  "date_commenced_iso": "2017-06-01T12:00:00Z",
+  "total_review_days": 58,
+  "acquirers": [
+    "Camp Australia Pty Ltd"
+  ],
+  "targets": [
+    "Junior Adventures Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jun 2017",
+      "date_iso": "2017-06-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "22 Jun 2017",
+      "date_iso": "2017-06-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Jul 2017",
+      "date_iso": "2017-07-10T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (27 July 2017) delayed."
+    },
+    {
+      "date": "24 Jul 2017",
+      "date_iso": "2017-07-24T12:00:00Z",
+      "event": "ACCC received information from the merger parties."
+    },
+    {
+      "date": "10 Aug 2017",
+      "date_iso": "2017-08-10T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "23 Aug 2017",
+      "date_iso": "2017-08-23T12:00:00Z",
+      "event": "Parties requested more time to provide further information. Former provisional date for announcement of findings (26 October 2017) is delayed. ACCC will announce a revised proposed decision date in due course."
+    },
+    {
+      "date": "27 Sep 2017",
+      "date_iso": "2017-09-27T12:00:00Z",
+      "event": "Following notification by the merger parties that the proposed merger has been terminated, the ACCC has discontinued this review."
+    }
+  ],
+  "body_sections": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1490",
+  "title": "Acquirer: Corex Plastics Australia Pty Ltd; Target: Austrim Nylex Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-corex-plastics-australia-pty-ltd-target-austrim-nylex-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18876",
+  "industries": [],
+  "date_completed": "1 April 2004",
+  "date_completed_iso": "2004-04-01T12:00:00Z",
+  "date_commenced": "5 January 2004",
+  "date_commenced_iso": "2004-01-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Corex Plastics Australia Pty Ltd"
+  ],
+  "targets": [
+    "Austrim Nylex Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 28 November 2003 the Commission received a complaint about the sale by Austrim Nylex of its plastic sheet extrusion business to Corex Plastics.",
+    "Market definition": "Two relevant markets identified: - manufacture of solid sheet plastic; - manufacture of hollow profile plastic sheet.",
+    "Competition analysis": "The Commission's thresholds for the exercise of unilateral and combined market power are not crossed in relation to the market for the manufacture and supply of solid sheet plastic.  The merged entity has approximately 12.2 per cent market share, with an unchanged CR4 of 61.9 per cent. The Commission's thresholds for the exercise of unilateral and combined market power are crossed in relation to the market for the manufacture and supply of hollow profile plastic sheet.  The merged entity has 72 per cent market share and the CR4 increasing from 82 per cent to 86 per cent. Based on the high number of competitors and low market share of the merged entity in relation to solid sheet plastic and the high level of imports with the possibility of further imports, the existence of significant countervailing power and the availability of substitutes for most applications, it was concluded that the acquisition is unlikely to result in a substantial lessening of competition in either of the identified markets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2533"
+  }
+}

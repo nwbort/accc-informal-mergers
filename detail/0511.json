@@ -1,0 +1,44 @@
+{
+  "id": "0511",
+  "title": "Qiagen N.V - proposed acquisition of Cellestis Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qiagen-nv-proposed-acquisition-of-cellestis-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45690",
+  "industries": [
+    "Biotechnology"
+  ],
+  "date_completed": "30 June 2011",
+  "date_completed_iso": "2011-06-30T12:00:00Z",
+  "date_commenced": "27 May 2011",
+  "date_commenced_iso": "2011-05-27T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Qiagen N.V"
+  ],
+  "targets": [
+    "Cellestis Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 May 2011",
+      "date_iso": "2011-05-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jun 2011",
+      "date_iso": "2011-06-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Jun 2011",
+      "date_iso": "2011-06-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Qiagen N.V (Qiagen) proposed to acquire Cellestis Limited (Cellestis)",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. Nonetheless, the ACCC considered the competitive effects of the proposed acquisition in the context of a national market for the supply of testing products for latent tuberculosis diagnosis and a national market for the supply of molecular DNA testing products for active tuberculosis diagnosis.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market for the following reasons: - the testing products supplied by Qiagen and Cellestis were not substitutable and there was unlikely to be any horizontal overlap in their operations in the foreseeable future; - Qiagen and Cellestis did not appear to have significant market power in any market; and - the proposed acquisition was unlikely to provide the merged firm with the ability and incentive to foreclose competing suppliers of latent TB or active TB diagnosis testing products in such a way that would be likely to result in a substantial lessening of competition in any relevant market."
+  }
+}

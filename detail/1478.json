@@ -1,0 +1,31 @@
+{
+  "id": "1478",
+  "title": "Acquirer: Ancient Order of Foresters in Victoria Freindly Society Limited; Target: Ausdef Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ancient-order-of-foresters-in-victoria-freindly-society-limited-target-ausdef-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19731",
+  "industries": [],
+  "date_completed": "15 June 2004",
+  "date_completed_iso": "2004-06-15T12:00:00Z",
+  "date_commenced": "4 June 2004",
+  "date_commenced_iso": "2004-06-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ancient Order of Foresters in Victoria Freindly Society Limited"
+  ],
+  "targets": [
+    "Ausdef Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 31 May 2004, APRA informed the ACCC of the proposed transfer of Annuity Benefit Fund Number 1 from Ausdef Ltd to Ancient Order of Foresters in Victoria Friendly Society.",
+    "Market definition": "For competition assessment purposes the relevant product market in this instance was treated as a broadly defined market for insurance services.  Even on a narrower definition it appears that a substantial lessening of competition is unlikely.",
+    "Competition analysis": "The acquisition does not cross the ACCC's threshold for either the exercise of unilateral market power or combined market power.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Other",
+    "ANZSIC code": "7340"
+  }
+}

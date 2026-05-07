@@ -1,0 +1,54 @@
+{
+  "id": "1083",
+  "title": "Force Corp Pty Ltd - proposed acquisition of SA Access Equipment Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/force-corp-pty-ltd-proposed-acquisition-of-sa-access-equipment-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28368",
+  "industries": [
+    "Hire Equipment"
+  ],
+  "date_completed": "29 June 2007",
+  "date_completed_iso": "2007-06-29T12:00:00Z",
+  "date_commenced": "25 May 2007",
+  "date_commenced_iso": "2007-05-25T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Force Corp Pty Ltd"
+  ],
+  "targets": [
+    "SA Access Equipment Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 May 2007",
+      "date_iso": "2007-05-25T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines"
+    },
+    {
+      "date": "31 May 2007",
+      "date_iso": "2007-05-31T12:00:00Z",
+      "event": "ACCC requested further information from Force Corp Pty Ltd. ACCC timeline suspended"
+    },
+    {
+      "date": "6 Jun 2007",
+      "date_iso": "2007-06-06T12:00:00Z",
+      "event": "ACCC received further information from Force Corp Pty Ltd. ACCC timeline recommenced"
+    },
+    {
+      "date": "8 Jun 2007",
+      "date_iso": "2007-06-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "29 Jun 2007",
+      "date_iso": "2007-06-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Force Corp Pty Ltd proposes to acquire SA Access Equipment Pty Ltd",
+    "Market definition": "The proposed acquisition has been considered in the context of a South Australian market for access hire equipment, with local areas of close competition.",
+    "Competition analysis": "The ACCC considers that the proposed acquisition is unlikely to substantially lessen competition as: - the merged firm would face significant competition from existing players in the market, in particular Coates, as well as competition from other national suppliers of access hire equipment and regional suppliers;  and - the merged firm is likely to be constrained by the threat of new entry or expansion.  Barriers include building a fleet of access equipment and branch representation. These barriers are unlikely to deter entry and expansion in the relevant market, in the event hire rates increased above competitive levels."
+  }
+}

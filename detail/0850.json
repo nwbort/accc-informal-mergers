@@ -1,0 +1,49 @@
+{
+  "id": "0850",
+  "title": "Linde AG - completed acquisition of Auscom Holdings Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/linde-ag-completed-acquisition-of-auscom-holdings-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32994",
+  "industries": [
+    "Industrial gas"
+  ],
+  "date_completed": "16 October 2008",
+  "date_completed_iso": "2008-10-16T12:00:00Z",
+  "date_commenced": "2 October 2008",
+  "date_commenced_iso": "2008-10-02T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Linde AG"
+  ],
+  "targets": [
+    "Auscom Holdings Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Oct 2008",
+      "date_iso": "2008-10-02T12:00:00Z",
+      "event": "Linde AG acquired the remaining 50% interest in Auscom Holdings Pty Ltd."
+    },
+    {
+      "date": "2 Oct 2008",
+      "date_iso": "2008-10-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Oct 2008",
+      "date_iso": "2008-10-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Oct 2008",
+      "date_iso": "2008-10-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Linde AG, through its subsidiary BOC Ltd, has acquired from AGL Energy Ltd its 50% shareholding in Auscom Holdings Pty Ltd",
+    "Market definition": "The ACCC considered the competitive effects of the completed acquisition in the context of state based markets for the production, supply, wholesale and retail of: - traditional LPG; and - autogas.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - that the completed acquisition was unlikely to change the competitive dynamic that existed pre-acquisition; - that there were strong incentives post-acquisition to maintain supply to downstream competitors; and - competitors existed that would continue to provide alternative supply options for customers."
+  }
+}

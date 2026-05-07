@@ -1,0 +1,44 @@
+{
+  "id": "0741",
+  "title": "Kirin Holdings Company - proposed acquisition of outstanding shares in Lion Nathan Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/kirin-holdings-company-proposed-acquisition-of-outstanding-shares-in-lion-nathan-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37331",
+  "industries": [
+    "Beverages"
+  ],
+  "date_completed": "26 June 2009",
+  "date_completed_iso": "2009-06-26T12:00:00Z",
+  "date_commenced": "19 May 2009",
+  "date_commenced_iso": "2009-05-19T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Kirin Holdings Company"
+  ],
+  "targets": [
+    "Lion Nathan Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 May 2009",
+      "date_iso": "2009-05-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Jun 2009",
+      "date_iso": "2009-06-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Jun 2009",
+      "date_iso": "2009-06-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Kirin proposed to acquire all of the outstanding shares (approximately 54%) in Lion Nathan.",
+    "Market definition": "The ACCC noted that there was no significant product overlap between the two parties in Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market. In reaching this conclusion, the ACCC considered that the merged entity would be competitively constrained by existing effective competitors."
+  }
+}

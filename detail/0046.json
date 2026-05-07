@@ -1,0 +1,54 @@
+{
+  "id": "0046",
+  "title": "Clean Energy Fuels Australia (CEFA) - Wesfarmers LNG Pty Ltd (trading as EVOL LNG)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/clean-energy-fuels-australia-cefa-wesfarmers-lng-pty-ltd-trading-as-evol-lng",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "LNG transport"
+  ],
+  "date_completed": "24 October 2024",
+  "date_completed_iso": "2024-10-24T12:00:00Z",
+  "date_commenced": "25 July 2024",
+  "date_commenced_iso": "2024-07-25T12:00:00Z",
+  "total_review_days": 63,
+  "acquirers": [
+    "Clean Energy Fuels Australia (CEFA)"
+  ],
+  "targets": [
+    "Wesfarmers LNG Pty Ltd (trading as EVOL LNG)"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jul 2024",
+      "date_iso": "2024-07-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Aug 2024",
+      "date_iso": "2024-08-08T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "10 Oct 2024",
+      "date_iso": "2024-10-10T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties.  Former provisional date for announcement of ACCC's findings (17 October 2024) is delayed.  The ACCC will announce a revised proposed decision date in due course."
+    },
+    {
+      "date": "22 Oct 2024",
+      "date_iso": "2024-10-22T12:00:00Z",
+      "event": "Timeline recommenced."
+    },
+    {
+      "date": "24 Oct 2024",
+      "date_iso": "2024-10-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Clean Energy Fuels Australia ( CEFA ) proposes to acquire 100% of the issued share capital in Wesfarmers LNG Pty Ltd (trading as EVOL LNG ) (the proposed acquisition ). The proposed acquisition includes the entire EVOL LNG business, including customer contracts and associated assets. CEFA and EVOL LNG both deliver liquefied natural gas ( LNG ) by road tanker to customers requiring remote energy generation in Western Australia. Natural gas can be regasified upon delivery and used to power gas energy generation infrastructure. CEFA distributes LNG from its Mid-West LNG processing facility, near Mount Magnet, WA, which has current production capacity of 247 tonnes of LNG per day. Wesfarmers Limited, through its subsidiary Wesfarmers Kleenheat Gas Pty Ltd also owns and operates the Kwinana LNG processing facility, which has a production capacity of 250 tonnes of LNG per day, which EVOL LNG currently distributes LNG from. While the Kwinana processing facility will not form part of the proposed acquisition, pursuant to a separate long-term tolling arrangement, which will be entered into simultaneously with the proposed acquisition, CEFA will have exclusive rights for the duration of the agreement to deliver and process natural gas into LNG at Wesfarmers Kwinana processing facility.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in the market(s) for: the supply of trucked LNG in Western Australia the supply of fuels for remote energy generation in Western Australia. It was not necessary for the ACCC to form a concluded view of the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market. The ACCC found that the merged entity would likely be constrained by alternative sources of remote energy generation when agreeing prices and contractual terms for the supply of trucked LNG to customers in the relevant areas. These sources include alternative providers of trucked LNG, providers of diesel and also renewables which are increasingly being utilised."
+  }
+}

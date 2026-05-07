@@ -1,0 +1,47 @@
+{
+  "id": "0109",
+  "title": "APA Group - AusNet Services Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/apa-group-ausnet-services-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Energy & Infrastructure"
+  ],
+  "date_completed": "20 December 2021",
+  "date_completed_iso": "2021-12-20T12:00:00Z",
+  "date_commenced": "28 October 2021",
+  "date_commenced_iso": "2021-10-28T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "APA Group"
+  ],
+  "targets": [
+    "AusNet Services Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "28 Oct 2021",
+      "date_iso": "2021-10-28T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Nov 2021",
+      "date_iso": "2021-11-12T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "25 Nov 2021",
+      "date_iso": "2021-11-25T12:00:00Z",
+      "event": "Timeline suspended pending confirmation from APA that the Proposed Acquisition is likely to proceed. Former provisional date for announcement of findings (3 February 2022) delayed.  The ACCC will announce a new provisional decision date in due course."
+    },
+    {
+      "date": "20 Dec 2021",
+      "date_iso": "2021-12-20T12:00:00Z",
+      "event": "The ACCC decided it would discontinue its investigation into the proposed acquisition. The review may be recommenced subsequently."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 28 October 2021 the ACCC commenced a public review into a proposal by APA Group ( APA ) to acquire AusNet Services Ltd ( AusNet ) (the Proposed Acquisition ). APA owns and operates gas and electricity infrastructure assets throughout Australia. AusNet owns and operates gas and electricity assets across Victoria. For further information on APA and AusNet please refer to the Market Inquiries letter below. On 1 November 2021 AusNet agreed to the terms of a binding proposal and entered into a Scheme Implementation Deed with Brookfield, under which Brookfield is to acquire all the shares in AusNet. On 12 November 2021 Brookfield received Foreign Investment Review Board ( FIRB ) approval in relation to the proposed scheme for the purchase of AusNet. The ACCC understands that the Scheme Implementation Deed between Brookfield and AusNet remains subject to a number of conditions. However, in light of this development on 25 November 2021 the ACCC suspended its review of the Proposed Acquisition pending confirmation from APA that the Proposed Acquisition is likely to proceed. On 20 December 2021 the ACCC decided it would discontinue its investigation into the proposed acquisition."
+  }
+}

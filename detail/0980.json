@@ -1,0 +1,28 @@
+{
+  "id": "0980",
+  "title": "BlueScope Steel Ltd - acquisition of IMSA Steel",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bluescope-steel-ltd-acquisition-of-imsa-steel",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30876",
+  "industries": [
+    "Steel"
+  ],
+  "date_completed": "15 January 2008",
+  "date_completed_iso": "2008-01-15T12:00:00Z",
+  "date_commenced": "20 December 2007",
+  "date_commenced_iso": "2007-12-20T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "BlueScope Steel Ltd"
+  ],
+  "targets": [
+    "IMSA Steel"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "BlueScope announced its purchase of IMSA Steel",
+    "Market definition": "The ACCC did not consider it necessary to form a view in relation to market definition.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to result in a substantial lessening of competition since IMSA Steel has no Australian operations."
+  }
+}

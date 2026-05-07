@@ -1,0 +1,49 @@
+{
+  "id": "0140",
+  "title": "Dormakaba’s proposed acquisition of E Plus",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dormakaba%E2%80%99s-proposed-acquisition-of-e-plus",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Construction products"
+  ],
+  "date_completed": "1 October 2020",
+  "date_completed_iso": "2020-10-01T12:00:00Z",
+  "date_commenced": "23 July 2020",
+  "date_commenced_iso": "2020-07-23T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "Dormakaba Australia Pty Ltd"
+  ],
+  "targets": [
+    "E Plus Building Products Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jul 2020",
+      "date_iso": "2020-07-23T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Aug 2020",
+      "date_iso": "2020-08-07T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "18 Sep 2020",
+      "date_iso": "2020-09-18T12:00:00Z",
+      "event": "Review timeline extended so the ACCC can consider information provided by Dormakaba. The previous proposed decision date was 24 September 2020."
+    },
+    {
+      "date": "1 Oct 2020",
+      "date_iso": "2020-10-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Dormakaba Australia Pty Ltd ( Dormakaba ) proposes to acquire E Plus Building Products Pty Ltd ( E Plus ). Dormakaba is part of the global Dormakaba Group. In Australia, Dormakaba is a manufacturer, importer and seller of a range of components and customised integrated solutions, including door hardware. Dormakaba's subsidiaries include Kilargo, Madinoz and Resolute Testing Laboratories, a fire door testing facility. E Plus is an Australian-based supplier, and supplies the 'E-Core' fire door product. Certified E-Core based fire doors are distributed throughout Australia by licenced door manufacturers. Both parties are active suppliers of key inputs in the fire doors industry in Australia.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on markets for: the supply of fire door cores the supply of door hardware and seals certified for use on fire doors, and the supply of fire resistance testing. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "Overview Dormakaba and E Plus both supply components used in the construction of fire doors. Dormakaba supplies door hardware and seals for use on fire doors, and owns Resolute Testing Laboratories, a fire testing facility. E Plus imports and supplies the ‘E-Core’ fire door core to licensed door manufacturers. Door hardware, seals and fire door cores must be tested and certified together to adhere to Australian Standards for fire door sets. These standards dictate that the fire door core supplier have control over the testing process, which enables core suppliers to control the hardware certified for use in combination with their fire door core. The ACCC considered whether the proposed acquisition of E Plus would give Dormakaba the ability and incentive to foreclose rival door hardware and seal suppliers from testing to certify their hardware and seals with fire door cores, and whether the effect of any foreclosure would be likely to result in a substantial lessening of competition. The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Ability to foreclose The ACCC concluded that Dormakaba would not have the ability to foreclose rival door hardware and seal suppliers from certifying their hardware for use with fire door cores. Even if Dormakaba refused testing with E-Core, there would remain two other core suppliers, Pyropanel and Firecore. Although the ACCC received some market feedback that it is important for door hardware and seal suppliers to be certified with all three cores, the ACCC concluded that fire door cores are generally homogenous products and certification specifically with E-Core is not vital for suppliers in order to win customers. Incentive to foreclose The ACCC concluded that, on the basis of information provided by the parties and market participants, Dormakaba would be unlikely to have the incentive to foreclose rival hardware and seal suppliers from testing with E-Core. Core, door hardware and seal suppliers are currently incentivised to maximise the number of certified combinations in which their products can be used, in order to maximise potential sales. Without the ability to prevent door hardware and seal rivals from being certified with the other fire door cores, if Dormakaba foreclosed access to testing with E-Core, it would lose E-Core sales without any certainty of increasing its sales of door hardware and seals. Therefore the proposed acquisition is unlikely to change Dormakaba’s incentives. Effect of foreclosure It was not necessary for the ACCC to reach a concluded view on the effect of a foreclosure strategy, due to its conclusions in relation to Dormakaba’s ability and incentives."
+  }
+}

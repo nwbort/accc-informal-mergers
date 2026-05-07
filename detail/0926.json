@@ -1,0 +1,44 @@
+{
+  "id": "0926",
+  "title": "Darley Australia Pty Ltd - proposed acquisition of Woodlands Stud",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/darley-australia-pty-ltd-proposed-acquisition-of-woodlands-stud",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31710",
+  "industries": [
+    "Horseracing stud industry"
+  ],
+  "date_completed": "9 May 2008",
+  "date_completed_iso": "2008-05-09T12:00:00Z",
+  "date_commenced": "16 April 2008",
+  "date_commenced_iso": "2008-04-16T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Darley Australia Pty Ltd"
+  ],
+  "targets": [
+    "Woodlands Stud"
+  ],
+  "timeline": [
+    {
+      "date": "16 Apr 2008",
+      "date_iso": "2008-04-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 May 2008",
+      "date_iso": "2008-05-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 May 2008",
+      "date_iso": "2008-05-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 16 April 2008, Darley Australia Pty Ltd advised the ACCC that it proposed to acquire Woodlands Stud from Inghams Enterprises Ltd.",
+    "Market definition": "Without reaching a final view, the ACCC considered that the relevant market was likely to be the market for breeding thoroughbred horses in Australia.",
+    "Competition analysis": "On 9 May 2008, the ACCC formed the view that the acquisition would be unlikely to result in a substantial lessening of competition. Factors informing this conclusion included: - the merged entity's market share would only increase by a small amount in terms of total number of stallions and in terms of stallion service fee revenues in the market for breeding thoroughbred horses in Australia; - there is a large degree of risk associated with breeding thoroughbred horses such that the likelihood of any one stud farm establishing, maintaining or exercising market power over a substantial period of time appears to be relatively low; and - barriers to entry into the national market for breeding thoroughbred horses appear to be relatively low."
+  }
+}

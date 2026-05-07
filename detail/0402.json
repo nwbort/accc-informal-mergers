@@ -1,0 +1,44 @@
+{
+  "id": "0402",
+  "title": "Costa Group Holdings Pty Ltd - proposed acquisition of Adelaide Mushrooms (Nominees) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/costa-group-holdings-pty-ltd-proposed-acquisition-of-adelaide-mushrooms-nominees-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50166",
+  "industries": [
+    "Mushrooms"
+  ],
+  "date_completed": "6 February 2013",
+  "date_completed_iso": "2013-02-06T12:00:00Z",
+  "date_commenced": "17 December 2012",
+  "date_commenced_iso": "2012-12-17T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Costa Group Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Adelaide Mushrooms (Nominees) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 Dec 2012",
+      "date_iso": "2012-12-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jan 2013",
+      "date_iso": "2013-01-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Feb 2013",
+      "date_iso": "2013-02-06T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Costa Group Holdings Pty Ltd proposed to acquire Adelaide Mushrooms (Nominees) Pty Ltd's mushroom growing and wholesale supply business.",
+    "Market definition": "The ACCC did not consider that it was necessary to form a concluded view in relation to market definition. The ACCC considered the effects of the proposed acquisition on the growing and wholesale supply of mushrooms on the east coast of Australia, the west coast of Australia and in Tasmania.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in each market for the growing and wholesale supply of mushrooms. The ACCC considered that barriers to entry and expansion by existing producers are low. The ACCC also considered that the extent of the competitive constraint that remaining suppliers would impose on Costa would not be significantly reduced by the proposed acquisition.  In addition, the ACCC considered that larger customers, such as the major supermarket chains, would be able to exercise countervailing power in the form of supporting new entry or expansion by existing producers if they were dissatisfied with the terms of supply offered."
+  }
+}

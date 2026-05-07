@@ -1,0 +1,49 @@
+{
+  "id": "1016",
+  "title": "Google Inc - proposed acquisition of DoubleClick Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/google-inc-proposed-acquisition-of-doubleclick-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28340",
+  "industries": [
+    "Media (Internet Advertising)"
+  ],
+  "date_completed": "30 October 2007",
+  "date_completed_iso": "2007-10-30T12:00:00Z",
+  "date_commenced": "22 August 2007",
+  "date_commenced_iso": "2007-08-22T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Google Inc"
+  ],
+  "targets": [
+    "DoubleClick Inc"
+  ],
+  "timeline": [
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Sep 2007",
+      "date_iso": "2007-09-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Oct 2007",
+      "date_iso": "2007-10-09T12:00:00Z",
+      "event": "Former proposed date of 16 October 2007 for announcement of ACCC's findings amended by 2 weeks at request of ACCC to allow additional time to consider new information."
+    },
+    {
+      "date": "30 Oct 2007",
+      "date_iso": "2007-10-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Please refer to the Public Competition Assessment for this matter",
+    "Market definition": "Please refer to the Public Competition Assessment for this matter",
+    "Competition analysis": "Please refer to the Public Competition Assessment for this matter"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1066",
+  "title": "PPG Industries Australia Pty Ltd - proposed acquisition of Barloworld Coatings (Australia) Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ppg-industries-australia-pty-ltd-proposed-acquisition-of-barloworld-coatings-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28561",
+  "industries": [
+    "Architectural and decorative paint, coatings"
+  ],
+  "date_completed": "2 August 2007",
+  "date_completed_iso": "2007-08-02T12:00:00Z",
+  "date_commenced": "23 July 2007",
+  "date_commenced_iso": "2007-07-23T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "PPG Industries Australia Pty Ltd"
+  ],
+  "targets": [
+    "Barloworld Coatings (Australia) Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jul 2007",
+      "date_iso": "2007-07-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Jul 2007",
+      "date_iso": "2007-07-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Aug 2007",
+      "date_iso": "2007-08-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PPG has acquired Barloworld's Australian business, including the Taubmans, Bristol, and White Knight brands of Architectural and Decorative Paint.",
+    "Market definition": "The ACCC considered that the relevant markets were likely to be the national market for the manufacture and supply of architectural and decorative (A&D) paint, and the national market for the manufacture and supply of industrial coatings. The ACCC also considered the possibility of separate markets within the broader industrial coatings markets. However, it was not necessary for the ACCC to reach a conclusive view on market definition as the outcome of the competition assessment would not have been affected.",
+    "Competition analysis": "The ACCC considered that the transaction would be unlikely to substantially lessen competition in the A&D market given PPG's very limited involvement in that market prior to the merger. The ACCC considered that the transaction would be unlikely to substantially lessen competition in the industrial coatings market given Barloworld's limited involvement in that market prior to the merger. Additionally, notwithstanding that PPG and Barloworld were both manufacturers of 'heavy duty' industrial coatings, the ACCC considered that this particular segment of the industrial coatings market was characterised by low barriers to entry and the possibility of new entry or expansion by a range of alternative suppliers."
+  }
+}

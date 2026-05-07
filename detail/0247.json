@@ -1,0 +1,55 @@
+{
+  "id": "0247",
+  "title": "Pacific National - proposed acquisition of certain assets and interests of Glencore Rail",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-national-proposed-acquisition-of-certain-assets-and-interests-of-glencore-rail",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59812",
+  "industries": [
+    "Rail"
+  ],
+  "date_completed": "21 October 2016",
+  "date_completed_iso": "2016-10-21T12:00:00Z",
+  "date_commenced": "15 August 2016",
+  "date_commenced_iso": "2016-08-15T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Pacific National Pty Ltd"
+  ],
+  "targets": [
+    "Glencore Rail (NSW) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Aug 2016",
+      "date_iso": "2016-08-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Aug 2016",
+      "date_iso": "2016-08-19T12:00:00Z",
+      "event": "ACCC requested further information from Pacific National."
+    },
+    {
+      "date": "26 Aug 2016",
+      "date_iso": "2016-08-26T12:00:00Z",
+      "event": "Closing date for submissions. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "31 Aug 2016",
+      "date_iso": "2016-08-31T12:00:00Z",
+      "event": "ACCC received further information from Pacific National."
+    },
+    {
+      "date": "6 Oct 2016",
+      "date_iso": "2016-10-06T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "21 Oct 2016",
+      "date_iso": "2016-10-21T12:00:00Z",
+      "event": "Following an announcement by Glencore that it had reached an agreement to sell GRail to Genesee & Wyoming Australia, the ACCC discontinued this review."
+    }
+  ],
+  "body_sections": {}
+}

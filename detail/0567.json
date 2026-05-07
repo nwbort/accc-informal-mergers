@@ -1,0 +1,44 @@
+{
+  "id": "0567",
+  "title": "ACS Actividades de Construccion y Servicios SA - proposed acquisition of Hochtief Aktiengesellschaft",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acs-actividades-de-construccion-y-servicios-sa-proposed-acquisition-of-hochtief-aktiengesellschaft",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43655",
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "6 December 2010",
+  "date_completed_iso": "2010-12-06T12:00:00Z",
+  "date_commenced": "3 November 2010",
+  "date_commenced_iso": "2010-11-03T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "ACS Actividades de Construccion y Servicios SA"
+  ],
+  "targets": [
+    "Hochtief Aktiengesellschaft"
+  ],
+  "timeline": [
+    {
+      "date": "3 Nov 2010",
+      "date_iso": "2010-11-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Nov 2010",
+      "date_iso": "2010-11-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Dec 2010",
+      "date_iso": "2010-12-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ACS currently holds 29.98% interest in Hochtief Aktiengesellschaft and is proposing to increase its interest.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the design, construction and operation of water infrastructure; and the design, installation and operation of tolling systems. However, the ACCC did not consider it necessary to form a definitive view on market definition.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not be likely to substantially lessen competition in any market. In reaching this conclusion, the ACCC had regard to the following factors: - The minimal overlap between the merger parties; and - The presence of other competitors."
+  }
+}

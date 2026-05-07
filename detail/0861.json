@@ -1,0 +1,44 @@
+{
+  "id": "0861",
+  "title": "Vodafone Australia - proposed acquisition of Mobileworld Communications Pty Ltd (Crazy John's)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/vodafone-australia-proposed-acquisition-of-mobileworld-communications-pty-ltd-crazy-johns",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34000",
+  "industries": [
+    "Mobile telephone services"
+  ],
+  "date_completed": "24 September 2008",
+  "date_completed_iso": "2008-09-24T12:00:00Z",
+  "date_commenced": "4 September 2008",
+  "date_commenced_iso": "2008-09-04T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Vodafone Australia"
+  ],
+  "targets": [
+    "Mobileworld Communications Pty Ltd (Crazy Johns)"
+  ],
+  "timeline": [
+    {
+      "date": "4 Sep 2008",
+      "date_iso": "2008-09-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Sep 2008",
+      "date_iso": "2008-09-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Sep 2008",
+      "date_iso": "2008-09-24T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vodafone Australia proposes to acquire Crazy John's",
+    "Market definition": "While the ACCC did not consider it necessary to form a view in relation to market definition, the ACCC considered the impact of the proposed acquisition on competition in the supply of mobile telephone services and on competition at the retail level of the industry.",
+    "Competition analysis": "The ACCC considered that there was only minimal overlap between the parties. The ACCC noted that Crazy John's is an existing supplier of Vodafone handsets and plans and that there are a large number of alternative retail suppliers of handsets and plans. The ACCC therefore considered that the transaction was unlikely to result in a substantial lessening of competition."
+  }
+}

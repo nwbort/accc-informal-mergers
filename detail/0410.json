@@ -1,0 +1,54 @@
+{
+  "id": "0410",
+  "title": "Integrated Packaging Australia Pty Ltd - proposed acquisition of certain assets of Amcor Packaging Asia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/integrated-packaging-australia-pty-ltd-proposed-acquisition-of-certain-assets-of-amcor-packaging-asia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49934",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "14 December 2012",
+  "date_completed_iso": "2012-12-14T12:00:00Z",
+  "date_commenced": "1 November 2012",
+  "date_commenced_iso": "2012-11-01T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Integrated Packaging Australia Pty Ltd"
+  ],
+  "targets": [
+    "certain assets of Amcor Packaging Asia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Nov 2012",
+      "date_iso": "2012-11-01T12:00:00Z",
+      "event": "The ACCC commenced a review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Nov 2012",
+      "date_iso": "2012-11-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Nov 2012",
+      "date_iso": "2012-11-23T12:00:00Z",
+      "event": "The ACCC is awaiting further information from the merger parties and the ACCC timeline is suspended pending receipt of the information."
+    },
+    {
+      "date": "3 Dec 2012",
+      "date_iso": "2012-12-03T12:00:00Z",
+      "event": "The ACCC received further information from IPA and the ACCC timeline recommenced."
+    },
+    {
+      "date": "14 Dec 2012",
+      "date_iso": "2012-12-14T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Integrated Packaging Australia Pty Ltd (IPA) proposes to acquire certain businesses and assets recently acquired by Amcor Packaging Asia Pty Ltd (Amcor) from Aperio Goup Ltd. The relevant assets proposed to be acquired by IPA from Amcor include all of the property, assets and rights pertaining to the following plants: - Cheltenham (Vic); - Chester Hill (NSW); and - Kirawee (NSW).",
+    "Market definition": "The ACCC considered the competitive effect of the proposed acquisition on the national market for the supply of plain non-stretch polyethylene (PE) film. The manufacture and supply of plain non-stretch PE film is the only area in which the operations of IPA overlap with the manufacturing operations of the assets to be acquired from Amcor.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the supply of plain non-stretch PE film. Factors informing this view included: - post acquisition, the merged entity would continue to face competitive constraint from a number of viable alternative domestic manufacturers of non-stretch PE film; and -post acquisition, the merged entity would continue to face competitive constraint from actual and potential import competition. Imports currently meet a significant proportion of national demand and market inquiries did not reveal the existence of any significant barriers which would hinder the growth of import competition."
+  }
+}

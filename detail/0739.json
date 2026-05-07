@@ -1,0 +1,84 @@
+{
+  "id": "0739",
+  "title": "Baiada Poultry Pty Ltd - proposed acquisition of Bartter Enterprises Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/baiada-poultry-pty-ltd-proposed-acquisition-of-bartter-enterprises-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30657",
+  "industries": [
+    "Poultry"
+  ],
+  "date_completed": "30 June 2009",
+  "date_completed_iso": "2009-06-30T12:00:00Z",
+  "date_commenced": "12 November 2008",
+  "date_commenced_iso": "2008-11-12T12:00:00Z",
+  "total_review_days": 154,
+  "acquirers": [
+    "Baiada Poultry Pty Ltd"
+  ],
+  "targets": [
+    "Bartter Enterprises Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "3 Dec 2008",
+      "date_iso": "2008-12-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Dec 2008",
+      "date_iso": "2008-12-17T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 14 January 2009, amended to allow for further market inquiries in response to the Statement of Issues."
+    },
+    {
+      "date": "17 Dec 2008",
+      "date_iso": "2008-12-17T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Jan 2009",
+      "date_iso": "2009-01-27T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    },
+    {
+      "date": "9 Apr 2009",
+      "date_iso": "2009-04-09T12:00:00Z",
+      "event": "Proposed s87B undertaking proffered by Baiada. ACCC commenced market inquiries relating to the proposed undertaking."
+    },
+    {
+      "date": "24 Apr 2009",
+      "date_iso": "2009-04-24T12:00:00Z",
+      "event": "Closing date for submissions relating to the proposed undertaking."
+    },
+    {
+      "date": "4 May 2009",
+      "date_iso": "2009-05-04T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information from the proposed purchaser."
+    },
+    {
+      "date": "23 Jun 2009",
+      "date_iso": "2009-06-23T12:00:00Z",
+      "event": "ACCC received further information from proposed purchaser. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 Jun 2009",
+      "date_iso": "2009-06-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, following acceptance of Baiada's s87B undertaking."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Baiada Poultry Pty Ltd proposed to acquire Bartter Enterprises Pty Ltd. On 11 February 2009, the ACCC announced its decision to oppose the proposed acquisition. Baiada proffered an undertaking to address the ACCC's concerns about the impact that the proposed acquisition may have on the market for the wholesale supply of processed chicken meat. The undertaking aims to maintain competition through the creation or strengthening of an additional viable, stand alone, independent and long term competitor for the wholesale supply of processed chicken meat products to Quick Service Restaurants, particularly to customers with requirements for large volume purchases across multiple states of Australia.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

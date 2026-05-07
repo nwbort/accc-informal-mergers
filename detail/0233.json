@@ -1,0 +1,79 @@
+{
+  "id": "0233",
+  "title": "Caltex Australia Petroleum Pty Ltd - proposed acquisition of assets from Milemaker Petroleum",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caltex-australia-petroleum-pty-ltd-proposed-acquisition-of-assets-from-milemaker-petroleum",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61162",
+  "industries": [
+    "Fuel service stations"
+  ],
+  "date_completed": "4 May 2017",
+  "date_completed_iso": "2017-05-04T12:00:00Z",
+  "date_commenced": "17 November 2016",
+  "date_commenced_iso": "2016-11-17T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Caltex Australia Petroleum Pty Ltd"
+  ],
+  "targets": [
+    "Milemaker Petroleum"
+  ],
+  "timeline": [
+    {
+      "date": "17 Nov 2016",
+      "date_iso": "2016-11-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Dec 2016",
+      "date_iso": "2016-12-15T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "25 Jan 2017",
+      "date_iso": "2017-01-25T12:00:00Z",
+      "event": "Former provisional decision date of 16 February 2017 delayed due to delays in receiving information from the parties."
+    },
+    {
+      "date": "1 Mar 2017",
+      "date_iso": "2017-03-01T12:00:00Z",
+      "event": "Former proposed decision date of 2 March 2017 delayed to allow the parties to provide additional information."
+    },
+    {
+      "date": "2 Mar 2017",
+      "date_iso": "2017-03-02T12:00:00Z",
+      "event": "Former proposed decision date of 3 March 2017 delayed to allow the parties to provide additional information."
+    },
+    {
+      "date": "16 Mar 2017",
+      "date_iso": "2017-03-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Mar 2017",
+      "date_iso": "2017-03-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "18 Apr 2017",
+      "date_iso": "2017-04-18T12:00:00Z",
+      "event": "Former proposed decision date of 20 April 2017 delayed to allow the ACCC to consider additional information provided by the parties."
+    },
+    {
+      "date": "4 May 2017",
+      "date_iso": "2017-05-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "During the course of the review the ACCC also made a number of document and information requests to Caltex and Milemaker that are not separately identified in the entries above. Collectively, the parties took 70 business days to respond to these other requests."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Caltex proposes to acquire certain assets relating to 46 retail service stations in Victoria from Milemaker Petroleum.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

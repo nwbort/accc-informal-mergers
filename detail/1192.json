@@ -1,0 +1,44 @@
+{
+  "id": "1192",
+  "title": "Invista B V - proposed acquisition of a carpet fibre plant owned by Honeywell Specialty Materials (China) Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invista-b-v-proposed-acquisition-of-a-carpet-fibre-plant-owned-by-honeywell-specialty-materials-china-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26168",
+  "industries": [
+    "Carpet fibre"
+  ],
+  "date_completed": "21 November 2006",
+  "date_completed_iso": "2006-11-21T12:00:00Z",
+  "date_commenced": "1 November 2006",
+  "date_commenced_iso": "2006-11-01T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Invista B V"
+  ],
+  "targets": [
+    "Carpet fibre plant owned by Honeywell Specialty Materials (China) Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Nov 2006",
+      "date_iso": "2006-11-01T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "15 Nov 2006",
+      "date_iso": "2006-11-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "21 Nov 2006",
+      "date_iso": "2006-11-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Invista B.V. proposes to acquire a nylon fibre plant in Shanghai, China, from Honeywell Specialty Materials (China) Co. Ltd, which is used by Honeywell to supply its Australian customers.",
+    "Market definition": "1) The national market for carpet manufacturing and supply; and 2) The national market for the supply of carpet fibre to manufacturers.",
+    "Competition analysis": "In relation to both markets, the ACCC formed the view that there are relatively high levels of imports at an input and end product level, which are likely to act as a strong competitive constraint. After consideration of the information provided by market participants and other information before it, the ACCC formed the view that the recent and proposed acquisitions in the two markets listed above are unlikely to result in a substantial lessening of competition, and decided that it would not oppose the proposed acquisition."
+  }
+}

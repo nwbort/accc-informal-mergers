@@ -1,0 +1,54 @@
+{
+  "id": "0185",
+  "title": "QANTM Intellectual Property Ltd - Xenith IP Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qantm-intellectual-property-ltd-xenith-ip-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "intellectual property services and products"
+  ],
+  "date_completed": "21 March 2019",
+  "date_completed_iso": "2019-03-21T12:00:00Z",
+  "date_commenced": "10 January 2019",
+  "date_commenced_iso": "2019-01-10T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "QANTM Intellectual Property Ltd"
+  ],
+  "targets": [
+    "Xenith IP Group Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jan 2019",
+      "date_iso": "2019-01-10T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Process Guidelines."
+    },
+    {
+      "date": "31 Jan 2019",
+      "date_iso": "2019-01-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Mar 2019",
+      "date_iso": "2019-03-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed merger between QANTM Intellectual Property Ltd (ASX:QIP) and Xenith IP Group Ltd (ASX:XIP).",
+    "Market definition": "The ACCC considered the effect of the proposed merger on competition for the supply of intellectual property (IP) services in Australia for: ·        patents, ·        trademarks, ·        designs, and ·        plant breeder’s rights. The ACCC did not reach a concluded view on whether these services are separate markets or a single combined market. The ACCC considered the potential effects of the proposed merger on a national basis. IP services are services associated with the registration, protection, commercialisation, enforcement and management of IP rights.",
+    "Competition analysis": "The ACCC concluded that the proposed merger would not be likely to substantially lessen competition in any relevant market. Supply of patent services The ACCC noted that the proposed merger would combine the second and third largest providers of IP services in Australia, and that the merger parties have about 30 per cent of total patent filings in Australia. The ACCC found that corporate customers rely on the expertise and infrastructure of large IP firms, such as those within QANTM and Xenith, to handle their work in complex technology areas and to manage their volume of patent filings. While firms within the same ownership group have regulatory obligations to maintain independence for the purposes of managing conflicts of interests, the ACCC considered that firms within a merged QANTM and Xenith do not have the incentive to compete with each other. The ACCC concluded that a merged QANTM and Xenith is likely to continue to face competition from a number of alternative large and medium suppliers. Supply of trademark services The ACCC found that trademark services requires lesser levels of technical expertise compared with patent services, and therefore there is likely to be a greater range of alternative options, including alternative IP firms and some commercial law firms. The ACCC also considered that barriers to entry and expansion for the supply of trademark services are relatively low, particularly as trademark applications do not need to be filed by a registered trademark attorney. Supply of designs services Similar to trademark services, the ACCC considered that a number of alternative IP firms, and potentially some commercial law firms, can provide designs services, and are likely to continue to provide a competitive constraint on the merged entity. Supply of plant breeder’s rights services The ACCC’s investigation indicated that the combined market share of QANTM and Xenith is low in the supply of plant breeder’s rights services, and that the majority of filings are made by applicants directly. Therefore the ACCC did not consider that there are competition concerns in this area."
+  }
+}

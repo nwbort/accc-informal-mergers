@@ -1,0 +1,45 @@
+{
+  "id": "0506",
+  "title": "Melbourne Medical Deputising Service Pty Ltd - proposed merger with Australian Locum Medical Service Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/melbourne-medical-deputising-service-pty-ltd-proposed-merger-with-australian-locum-medical-service-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45502",
+  "industries": [
+    "After hours medical care"
+  ],
+  "date_completed": "15 July 2011",
+  "date_completed_iso": "2011-07-15T12:00:00Z",
+  "date_commenced": "20 June 2011",
+  "date_commenced_iso": "2011-06-20T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Melbourne Medical Deputising Service Pty Ltd"
+  ],
+  "targets": [
+    "Australian Locum Medical Service Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2011",
+      "date_iso": "2011-06-20T12:00:00Z",
+      "event": "ACCC commenced its review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Jul 2011",
+      "date_iso": "2011-07-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Jul 2011",
+      "date_iso": "2011-07-14T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "15 Jul 2011",
+      "date_iso": "2011-07-15T12:00:00Z",
+      "event": "The ACCC was informed that the merger parties no longer wished to proceed with the proposed merger. As a consequence, the ACCC ceased its review of this matter."
+    }
+  ],
+  "body_sections": {}
+}

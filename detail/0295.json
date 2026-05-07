@@ -1,0 +1,55 @@
+{
+  "id": "0295",
+  "title": "Dometic Group AB - acquisition of Atwood Investment Holdings LLC",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dometic-group-ab-acquisition-of-atwood-investment-holdings-llc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55804",
+  "industries": [
+    "Recreational vehicle components"
+  ],
+  "date_completed": "10 April 2015",
+  "date_completed_iso": "2015-04-10T12:00:00Z",
+  "date_commenced": "26 September 2014",
+  "date_commenced_iso": "2014-09-26T12:00:00Z",
+  "total_review_days": 131,
+  "acquirers": [
+    "Dometic Group AB"
+  ],
+  "targets": [
+    "Atwood Investment Holdings LLC (inc Aircommand Australia Pty Ltd)"
+  ],
+  "timeline": [
+    {
+      "date": "26 Sep 2014",
+      "date_iso": "2014-09-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Oct 2014",
+      "date_iso": "2014-10-14T12:00:00Z",
+      "event": "Section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "15 Oct 2014",
+      "date_iso": "2014-10-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Oct 2014",
+      "date_iso": "2014-10-17T12:00:00Z",
+      "event": "Dometic completed the acquisition. A section 87B undertaking was in place requiring Dometic to hold its interest in Aircommand separate from Dometic for a certain period."
+    },
+    {
+      "date": "10 Apr 2015",
+      "date_iso": "2015-04-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition. Section 87B undertaking terminated."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Dometic Group AB acquired Atwood Investment Holdings LLC (and its subsidiary Aircommand) as part of a global transaction. Both Dometic Group AB and Atwood Investment Holdings LLC (through Aircommand) supplied heating, ventilation and air-conditioning (HVAC) systems and other equipment to manufacturers of recreational vehicles in Australia.",
+    "Market definition": "The ACCC assessed the effects of the acquisition in the context of the: -\tnational market for the distribution of heating, ventilation and air conditioning (HVAC) systems for recreational vehicles (RVs). The ACCC did not consider it necessary to form a definitive view on the geographic boundaries of the market, given the ACCC's conclusion that a substantial lessening of competition was unlikely to arise irrespective of the market definition adopted. The ACCC also determined that the proposed acquisition was unlikely to substantially lessen competition in any other markets in which Dometic, Atwood or Aircommand are active, including the distribution of hot water systems for RVs.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In 2014 Aircommand and Dometic were the largest and second largest suppliers of caravan HVACs, with a combined market share in excess of 75 per cent. Both companies were highly regarded in the industry and had strong brands and reputations, particularly Aircommand. Their products, like most of their competitors' products, were manufactured overseas and imported into Australia. As a result of concerns expressed by market participants, the ACCC considered whether the acquisition might allow Dometic to increase prices or reduce service levels in the market. However, the ACCC concluded the acquisition was unlikely to lead to a substantial lessening of competition and would therefore not lead to an increase in prices or reduction in services. Other brands competing in the market were Coleman (distributed by Coast to Coast), Denso and Gree (distributed by NCE). Coleman and Gree were expanding their product offerings to compete more effectively with Aircommand and Dometic. The expanded product range would likely allow these brands to act as stronger competitive constraints on the merged entity. Truma branded products also competed in the market, but they were predominantly supplied in Australia by Dometic. The ACCC also considered whether new HVAC systems for RVs could be successfully developed, imported and distributed to Australian customers. There are barriers to entry and expansion, including product quality and reputation barriers and the ACCC found prospects for significant new entry were uncertain. However, evidence of product development by existing competitors suggested that expansion by these firms would likely provide a competitive constraint on Dometic. Post-acquisition Dometic will also likely face countervailing power from the largest RV manufacturer in Australia, Jayco, and also possibly from other large RV manufacturers. The ACCC considered that smaller RV manufacturers were unlikely to have countervailing power due to their small size being insufficient to justify the time and effort involved in sourcing products from overseas. The ACCC also found that Jayco, which uses a mix of HVAC brands, influenced competition in the upstream market for the distribution of HVAC systems for RVs. This is because the large volumes of HVAC systems Jayco acquires, and the associated credibility attached to the brands it installs in its RVs, could facilitate entry and/or expansion by HVAC suppliers. In response to concerns from market participants, the ACCC also considered whether, as a result of the acquisition, Dometic would have the ability to bundle or package products to foreclose competition in the sale of other products for use in RVs. However, the ACCC considered this behaviour would be contingent on Dometic having significant market power in the sale of HVAC systems for RVs. Therefore, having found that Dometic would be constrained in this market, the ACCC also concluded that a substantial lessening of competition through product bundling was unlikely.",
+    "Undertakings": "In October 2014 Dometic Group AB acquired Atwood Investment Holdings LLC (and its subsidiary Aircommand) as part of a global transaction. A section 87B undertaking was in place for a certain period (while the ACCC conducted its merger review investigation) which required Dometic Group AB to hold its interest in Aircommand separate from Dometic Group AB. \n\nThe Undertaking terminated on 10 April 2015 when the ACCC announced it would not oppose the acquisition."
+  }
+}

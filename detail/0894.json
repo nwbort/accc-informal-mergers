@@ -1,0 +1,49 @@
+{
+  "id": "0894",
+  "title": "Nextgen Networks Pty Ltd - acquisition of Silk Telecom Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nextgen-networks-pty-ltd-acquisition-of-silk-telecom-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32581",
+  "industries": [
+    "Data network services"
+  ],
+  "date_completed": "18 July 2008",
+  "date_completed_iso": "2008-07-18T12:00:00Z",
+  "date_commenced": "9 July 2008",
+  "date_commenced_iso": "2008-07-09T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Nextgen Networks Pty Ltd"
+  ],
+  "targets": [
+    "Silk Telecom Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jun 2008",
+      "date_iso": "2008-06-02T12:00:00Z",
+      "event": "Nextgen Networks Pty Ltd acquired Silk Telecom Pty Ltd."
+    },
+    {
+      "date": "9 Jul 2008",
+      "date_iso": "2008-07-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2008",
+      "date_iso": "2008-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jul 2008",
+      "date_iso": "2008-07-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nextgen Networks Pty Ltd has acquired 100% of the shares and assets of Silk Telecom Pty Ltd.",
+    "Market definition": "For the purposes of the assessment of this acquisition only, the ACCC considered a national market for provision of transmission capacity services.",
+    "Competition analysis": "The ACCC considered that the acquisition was not likely to have resulted in a substantial lessening of competition in the relevant market due to the presence of a number of existing alternative suppliers for transmission capacity services within Australia."
+  }
+}

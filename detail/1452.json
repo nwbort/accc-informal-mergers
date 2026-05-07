@@ -1,0 +1,31 @@
+{
+  "id": "1452",
+  "title": "Acquirer: San Miguel Corporation; Target: Berri Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-san-miguel-corporation-target-berri-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19690",
+  "industries": [],
+  "date_completed": "20 October 2004",
+  "date_completed_iso": "2004-10-20T12:00:00Z",
+  "date_commenced": "5 August 2004",
+  "date_commenced_iso": "2004-08-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "San Miguel Corporation"
+  ],
+  "targets": [
+    "Berri Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of Berri Limited by San Miguel Corporation.",
+    "Market definition": "The relevant market was considered to be the national market for the manufacture and wholesale supply of fruit beverages.",
+    "Competition analysis": "Given the limited competitive overlap between the parties, the acquisition was considered to effectively result in a bare transfer of market power to San Miguel Corporation (SMC) in the relevant market. The ACCC also considered conglomerate merger theory to be of limited application in this matter. However, the ACCC noted the historical and existing relationship between SMC, The Coca-Cola Company (TCCC) and Coca-Cola Amatil Limited (CCA) and considered there to be a number of explicit and implicit means by which co-ordinated conduct may be facilitated. These included: control or influence by TCCC over SMC; a licence arrangement or sell-off of Berri brands to TCCC; and/or distribution arrangement(s) between SMC and CCA. In relation to the means identified, the ACCC noted SMC's submissions including, in particular: - neither TCCC or CCA have a legal or beneficial interest in SMC nor have any influence, or exercise any control, over SMC; - SMC does not have any intention to transfer any or all of the Berri trade marks, brands or intellectual property to TCCC or CCA; - there is no contract, agreement or understanding between TCCC or CCA and SMC in relation to the manufacture, distribution, marketing or supply of any non-alcoholic beverage in Australia; and - SMC does not have any intention to enter into any contract, understanding or agreement with CCA or TCCC relating to the manufacture, distribution, marketing or supply of any non-alcoholic beverage in Australia. On the basis of the above information, the ACCC decided to not intervene in the acquisition.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2130"
+  }
+}

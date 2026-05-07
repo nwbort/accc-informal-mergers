@@ -1,0 +1,59 @@
+{
+  "id": "0988",
+  "title": "Proposed sale of part of LNG Storage Facility owned by GasNet Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-sale-of-part-of-lng-storage-facility-owned-by-gasnet-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30284",
+  "industries": [
+    "energy, gas"
+  ],
+  "date_completed": "11 December 2007",
+  "date_completed_iso": "2007-12-11T12:00:00Z",
+  "date_commenced": "12 November 2007",
+  "date_commenced_iso": "2007-11-12T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Multiple potential bidders"
+  ],
+  "targets": [
+    "GasNet Australia Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Nov 2007",
+      "date_iso": "2007-11-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Nov 2007",
+      "date_iso": "2007-11-23T12:00:00Z",
+      "event": "Former closing date for submissions, amended to allow for further market inquiries."
+    },
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further information received from market participants."
+    },
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "6 Dec 2007",
+      "date_iso": "2007-12-06T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further information received from market participants."
+    },
+    {
+      "date": "11 Dec 2007",
+      "date_iso": "2007-12-11T12:00:00Z",
+      "event": "ACCC decided it would not oppose the proposed sale."
+    }
+  ],
+  "body_sections": {
+    "Summary": "GasNet Australia has proposed a tender process for the sale of storage rights to 1,500 tonnes of its liquefied natural gas (LNG) storage facility in Dandenong, Victoria.",
+    "Market definition": "The ACCC considered that a conclusive view in relation to market definition would be unlikely to affect the outcome of the competition analysis, but considered the markets most likely to be relevant would be: (i) the market for the wholesale supply of gas in Victoria; (ii) the market for retailing gas in Victoria; and (iii) the market for gas storage services in Victoria.",
+    "Competition analysis": "After consideration of the information provided by market participants and other information before it, the ACCC formed the view that the proposed sale is unlikely to result in a substantial lessening of competition in the relevant markets and decided that it would not oppose the acquisition. Factors informing this conclusion included that GasNet will conduct the tender process on the basis that the 1,500 tonnes of LNG storage rights to be sold are to be split into 6 parcels (of 250 tonnes each), with a condition that no market participant can acquire more than a single parcel. Only in the event that parcels remain after bids above the reserve price have been allocated will successful bidders be able to acquire additional parcels. GasNet has also confirmed that the reserve price will be provided to prospective bidders in the tender documentation."
+  }
+}

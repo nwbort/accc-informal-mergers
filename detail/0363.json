@@ -1,0 +1,44 @@
+{
+  "id": "0363",
+  "title": "Qube Holdings Limited - proposed acquisition of new container terminal and empty container park at Port of Melbourne",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qube-holdings-limited-proposed-acquisition-of-new-container-terminal-and-empty-container-park-at-port-of-melbourne",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51540",
+  "industries": [
+    "Ports"
+  ],
+  "date_completed": "25 September 2013",
+  "date_completed_iso": "2013-09-25T12:00:00Z",
+  "date_commenced": "31 July 2013",
+  "date_commenced_iso": "2013-07-31T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Qube Holdings Limited"
+  ],
+  "targets": [
+    "New container terminal and empty container park at Port of Melbourne"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2013",
+      "date_iso": "2013-07-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "23 Aug 2013",
+      "date_iso": "2013-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Sep 2013",
+      "date_iso": "2013-09-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Qube Holdings Limited proposed to develop and operate the International Container Terminal and Empty Container Park at Webb Dock East, Port of Melbourne.",
+    "Market definition": "The ACCC considered that the relevant markets for the purpose of assessing the proposed acquisition were the markets for the supply of: i. international container terminal and container stevedoring services at the Port of Melbourne (the container terminal market); ii. empty container park services in Melbourne; and iii. land-side logistics services for the transportation and storage of containerised freight to and from Port of Melbourne for onward delivery to customers (the landside logistics market). The ACCC noted that the landside logistics market may be defined more narrowly for freight which requires transportation by rail but did not consider it was necessary to make this distinction for the purpose of this review.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition by Qube would not be likely to result in a substantial lessening of competition in a relevant market. The ACCC formed this view having regard to the following: - Qube is likely to face significant competition from DP World and Asciano in the container terminal market; - Qube is unlikely to have the incentive to attempt to foreclose competing suppliers of landside logistics customers from accessing the Webb Dock East terminal if it risks reducing terminal throughput; - attempts by Qube to discriminate against landside logistics suppliers in favour of its own vehicles (such as prioritising in truck queues or waiving penalties for delays) is unlikely to substantially lessen competition in the landside logistics market more broadly; - Qube is unlikely to be able to offer an attractive bundle of services to export/import customers to such an extent which would foreclose competing providers of landside logistics services; and - if Qube were to offer a bundle of services, it is likely that both Asciano and DP World (in an alliance with a landside logistics provider) would be able to offer competing bundles."
+  }
+}

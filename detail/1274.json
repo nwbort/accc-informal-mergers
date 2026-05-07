@@ -1,0 +1,25 @@
+{
+  "id": "1274",
+  "title": "Airport Development and Investment Ltd - proposed acquisition of BAA plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/airport-development-and-investment-ltd-proposed-acquisition-of-baa-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24363",
+  "industries": [
+    "airports"
+  ],
+  "date_completed": "13 June 2006",
+  "date_completed_iso": "2006-06-13T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "BAA plc - proposed acquisition by Airport Development and Investment Ltd (a consortium including Grupo Ferrovial SA)",
+    "Competition analysis": "The merged entity will not have a controlling interest in any airport.  Consequently, the acquisition is unlikely to substantially lessen competition.",
+    "Merger type": "Horizontal",
+    "Initiation": "FIRB"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1564",
+  "title": "Acquirer: Capricorn Barge Co Pty Ltd; Target: Palm Island Barge Service",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-capricorn-barge-co-pty-ltd-target-palm-island-barge-service",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17593",
+  "industries": [],
+  "date_completed": "29 April 2003",
+  "date_completed_iso": "2003-04-29T12:00:00Z",
+  "date_commenced": "1 April 2003",
+  "date_commenced_iso": "2003-04-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Capricorn Barge Co Pty Ltd"
+  ],
+  "targets": [
+    "Palm Island Barge Service"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 31 March 2003, the Commission received a complaint in regard the proposed acquisition of Palm Island Barge Service (\"Palm Island\") by Riverside Coal Transport Company Pty Ltd (\"Riverside Marine\").",
+    "Market definition": "The Commission considered the market for barge services in Northern Queesnland, in particular the barge services to Palm Island and to Magnetic Island.",
+    "Competition analysis": "On 14 April 2003, the Commission decided that it would not intervene in this matter.  The Commission based this decision on the fact that there are a number and range of barge services to Palm Island and it was not likely that the merged entity will be able to increase prices. All barge ramps on Magnetic Island are exclusively leased.  It is not possible to establish a barge service to Magnetic Island without access to a barge ramp on Magnetic Island.  Given that the proposed acquisition did not alter the situation in regard to barge ramp access on Magnetic Island, the Commission formed the view that the proposed transaction would not result in a substantial lessening of competition in the market for barge services to Magnetic Island.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "6302"
+  }
+}

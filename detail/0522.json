@@ -1,0 +1,64 @@
+{
+  "id": "0522",
+  "title": "Orica Ltd - possible acquisition of interests in Burrup Holdings Ltd and the ammonium nitrate facility proposed by Burrup Nitrates Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/orica-ltd-possible-acquisition-of-interests-in-burrup-holdings-ltd-and-the-ammonium-nitrate-facility-proposed-by-burrup-nitrates-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45243",
+  "industries": [
+    "Ammonia & Ammonium Nitrate"
+  ],
+  "date_completed": "11 May 2011",
+  "date_completed_iso": "2011-05-11T12:00:00Z",
+  "date_commenced": "7 March 2011",
+  "date_commenced_iso": "2011-03-07T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Orica Ltd"
+  ],
+  "targets": [
+    "Burrup Holdings Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 Mar 2011",
+      "date_iso": "2011-03-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Mar 2011",
+      "date_iso": "2011-03-18T12:00:00Z",
+      "event": "ACCC requested further information from Orica. Former proposed date for announcement of ACCC's findings of 28 April 2011, amended to allow for provision of further information."
+    },
+    {
+      "date": "21 Mar 2011",
+      "date_iso": "2011-03-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Apr 2011",
+      "date_iso": "2011-04-01T12:00:00Z",
+      "event": "ACCC received further information from Orica. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Apr 2011",
+      "date_iso": "2011-04-07T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information requested from Burrup Holdings."
+    },
+    {
+      "date": "18 Apr 2011",
+      "date_iso": "2011-04-18T12:00:00Z",
+      "event": "ACCC received further information from Burrup Holdings. ACCC timeline recommenced."
+    },
+    {
+      "date": "11 May 2011",
+      "date_iso": "2011-05-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 17 December 2010, receivers were appointed to Burrup Fertilisers Pty Ltd and certain shareholdings of its holding company, Burrup Holdings Ltd. Orica had indicated that it may seek to acquire interests in Burrup Holdings Ltd and the ammonium nitrate facility proposed by Burrup Nitrates Pty Ltd when the sales process commences.",
+    "Market definition": "The ACCC considered the possible acquisition in the context of the following markets: - the market for the supply of ammonia in Western Australia; and - the market for the supply of ammonium nitrate in Western Australia.",
+    "Competition analysis": "The ACCC formed the view that the possible acquisition was unlikely to substantially lessen competition in any relevant market due to the lack of geographic overlap between the parties, with Orica operating primarily on the east coast of Australia and Burrup being located on the Burrup Peninsula in Western Australia. The ACCC considers that its decision would not have been affected even if a narrower product market for the supply of explosive grade ammonium nitrate had been adopted."
+  }
+}

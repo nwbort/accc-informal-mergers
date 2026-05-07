@@ -1,0 +1,44 @@
+{
+  "id": "1145",
+  "title": "Australian Pipeline Trust (APT) - proposed acquisition of Origin Energy Limited's gas infrastructure assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-pipeline-trust-apt-proposed-acquisition-of-origin-energy-limiteds-gas-infrastructure-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27045",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "21 February 2007",
+  "date_completed_iso": "2007-02-21T12:00:00Z",
+  "date_commenced": "22 January 2007",
+  "date_commenced_iso": "2007-01-22T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Australian Pipeline Trust (APT)"
+  ],
+  "targets": [
+    "Origin Energy Limited's gas infrastructure assets"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2007",
+      "date_iso": "2007-01-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "5 Feb 2007",
+      "date_iso": "2007-02-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "21 Feb 2007",
+      "date_iso": "2007-02-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "In January 2007, Origin Energy (Origin) commenced a tender process for the sale of its gas infrastructure assets.  These assets are: -  An approximate 17% interest in Envestra Limited; -  the Albury gas distribution network; -  one of three Victorian gas distribution networks -  A 33.3% interest in the SEA Gas pipeline; and -  Origin Energy Asset Management Limited. On 22 January 2007, the ACCC commenced an informal review of the Australian Pipeline Trust's proposed acquisition of those assets.",
+    "Market definition": "The ACCC considered the relevant markets to be: -  the supply of services on gas transmission pipelines and gas distribution networks; -  the supply of services on gas distribution networks; and -  the provision of infrastructure/asset management services on a national basis. The geographic markets of the gas transmission pipeline and gas distribution networks markets were confined to the areas that the assets could service.",
+    "Competition analysis": "The ACCC noted that most of the assets were regulated monopoly assets and that competition between the assets was minimal and appeared to only occur at the margins of the networks.  It was also noted that as APT has no gas wholesale or retail operations in any of the relevant markets, APT therefore had little incentive to leverage any increased vertical integration. The ACCC considered that APT obtaining a 33.3% interest in the SEA Gas Pipeline would be unlikely to substantially lessen competition, as the presence of the other SEA Gas partners and the Moomba to Adelaide Pipeline System would act as competitive constraints for the transportation of gas into Adelaide. In relation to the market for the provision of infrastructure/asset management services, the ACCC did not reach a conclusive view on whether this market related only to gas infrastructure or included other infrastructure.  Regardless, the ACCC was of the view that APT did not provide significant asset management functions to third parties.  The ACCC did not consider that significant horizontal aggregation in infrastructure/asset management services arose as a result of the proposed acquisition. In summary, taking into account the above factors and other information, the ACCC did not consider it likely that the acquisition would substantially lessen competition in any relevant market."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "0424",
+  "title": "Universal Music Holdings Limited - proposed acquisition of the recorded music business of EMI Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/universal-music-holdings-limited-proposed-acquisition-of-the-recorded-music-business-of-emi-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47726",
+  "industries": [
+    "Entertainment (music)"
+  ],
+  "date_completed": "17 September 2012",
+  "date_completed_iso": "2012-09-17T12:00:00Z",
+  "date_commenced": "7 March 2012",
+  "date_commenced_iso": "2012-03-07T12:00:00Z",
+  "total_review_days": 134,
+  "acquirers": [
+    "Universal Music Holdings Limited",
+    "Vivendi SA"
+  ],
+  "targets": [
+    "EMI Group Global Limited"
+  ],
+  "timeline": [
+    {
+      "date": "7 Mar 2012",
+      "date_iso": "2012-03-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Mar 2012",
+      "date_iso": "2012-03-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Sep 2012",
+      "date_iso": "2012-09-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vivendi S.A. and Universal Music Holdings Limited (a 100% subsidiary of Vivendi) propose to acquire the recorded music business of EMI Group Global Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following Australian based markets: -               the signing of artists & repertoire (A&R); - \twholesale supply of physical recorded music; -\twholesale supply of digital recorded music; and -\tthe retail supply of digital music.",
+    "Competition analysis": "The ACCC liaised closely with international competition regulators including the New Zealand Commerce Commission, the European Commission and the Federal Trade Commission, throughout the investigation of the proposed acquisition. i.\tThe signing of artists & repertoire The ACCC considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in the A&R market having regard to the following factors: -\tbarriers to entry did not appear high for new small-scale, independent record companies who could compete to sign and represent new artists, however the barriers faced by a potential new major record company appear to be high such that significant new entry or expansion on a large scale was considered unlikely; -\ttwo other major record companies (Sony and Warner) and many independent record labels would remain in the market post-acquisition and would be likely to competitively constrain the merged firm; -\trecording artists faced low barriers in switching to alternative record labels; and -\tEMI was not a uniquely vigorous or maverick competitor to UMHL in Australia. ii.\tWholesale supply of physical recorded music The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in this market having regard to the following factors: -\teach of the major record companies have large and differentiated catalogues of music recordings, which are considered 'must have' products for many retailers. The significant scale and scope of the major record companies' distribution and marketing capabilities also made them an important source of distribution and promotion for small independent record companies; -\tas noted above, there appeared to be significant barriers to entry or expansion to the scale and scope of the major record companies, such that new entry on a large scale appeared to be unlikely; -\thowever, market inquiries did not indicate that the proposed acquisition would be likely to substantially add to the major record companies' ability and incentive to increase prices or increase the merged entity's ability and incentive to foreclose competing suppliers of recorded music by compelling retailers of physical recorded music to guarantee extra promotional or shelving space; -\twholesale customers (retailers) did not raise concerns during market inquiries; -\tthere existed only a small number of significant wholesale customers and these appeared to have some bargaining power; -\tthe market had experienced significant and prolonged declines in revenue, resulting in the merged firm having little incentive to increase prices. iii.\tWholesale supply of digital recorded music The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in this market having regard to the following factors: -\tit did not appear that the proposed acquisition would be likely to substantially add to the market power of the major record companies or substantially alter the competitive dynamics of supply in this market as there would remain three major record companies all of which would continue to supply a range of 'must have' product to retailers of digital music post acquisition; -\tspecifically, the merged firm would not have the ability and incentive to foreclose competing wholesale suppliers of digital music recordings from accessing downstream retail markets; -\tthere was insufficient evidence to consider that UMHL would have the ability to obtain more favourable supply terms or prices from digital retailers of recorded music in Australia as a result of the proposed acquisition; and -\tno submissions were made that independent record labels receive less favourable wholesale prices than the major record companies or that the proposed acquisition would be likely to change the relative prices that the independent record labels receive. iv.\tThe retail supply of digital music. The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in this market having regard to the following factors: -\tthe market was experiencing frequent and innovative entry and expansion and UMHL had a limited influence over which retailers are commercially viable and popular with end-consumers; -\tUMHL would not have the incentive to attempt to foreclose retailers of digital music from access to the UMHL catalogue post acquisition."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0726",
+  "title": "Australian United Retailers Ltd (FoodWorks) - proposed acquisition of 45 supermarkets and 8 liquor stores from Wesfarmers Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-united-retailers-ltd-foodworks-proposed-acquisition-of-45-supermarkets-and-8-liquor-stores-from-wesfarmers-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36983",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "21 July 2009",
+  "date_completed_iso": "2009-07-21T12:00:00Z",
+  "date_commenced": "29 June 2009",
+  "date_commenced_iso": "2009-06-29T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Australian United Retailers Ltd (Foodworks)"
+  ],
+  "targets": [
+    "45 supermarkets and 8 liquor stores from Wesfarmers Limited"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jun 2009",
+      "date_iso": "2009-06-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jul 2009",
+      "date_iso": "2009-07-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Jul 2009",
+      "date_iso": "2009-07-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "FoodWorks proposed to acquire 45 supermarkets and 8 adjoining liquor stores from Wesfarmers Limited. The 45 supermarkets are located in Victoria, South Australia, New South Wales and Queensland; comprising 37 Coles stores and 8 Bi-Lo stores.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - local retail markets, with a 3-5 km geographic radius in urban and regional areas, and a 10 km radius in rural areas, for the supply of supermarket and liquor products; and - state-based wholesale and procurement markets for supermarket and liquor products.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets for the following reasons: - with respect to the relevant retail markets, in areas where FoodWorks already has a member supermarket, there would be at least one, and in the majority of cases, two or more, competing full-line supermarkets to the merged firm; and - with respect to the relevant wholesale and procurement markets, the ACCC considered that the proposed acquisition was unlikely to raise competition concerns given the marginal transfer of buying power as a result of the transaction."
+  }
+}

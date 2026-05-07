@@ -1,0 +1,49 @@
+{
+  "id": "0105",
+  "title": "Corporate Travel Management Limited - Helloworld Travel Limited's corporate travel management division",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/corporate-travel-management-limited-helloworld-travel-limiteds-corporate-travel-management-division",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Travel services"
+  ],
+  "date_completed": "3 March 2022",
+  "date_completed_iso": "2022-03-03T12:00:00Z",
+  "date_commenced": "4 January 2022",
+  "date_commenced_iso": "2022-01-04T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Corporate Travel Management Limited"
+  ],
+  "targets": [
+    "Helloworld Travel Limited's corporate travel management division"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jan 2022",
+      "date_iso": "2022-01-04T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jan 2022",
+      "date_iso": "2022-01-28T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Mar 2022",
+      "date_iso": "2022-03-01T12:00:00Z",
+      "event": "Former provisional decision date (17 March) brought forward."
+    },
+    {
+      "date": "3 Mar 2022",
+      "date_iso": "2022-03-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Corporate Travel Management Limited ( CTM ) proposes to acquire the corporate travel management division of Helloworld Travel Limited ( Helloworld Corporate ). Both CTM and Helloworld Corporate are providers of corporate travel management services.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the Australian market for the supply of corporate travel management services. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise scope of this market (for example, whether a separate market exists for travel management services for large corporate and government customers), as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. The ACCC focussed its investigation on competition for larger customers, including government customers, as this was the main area of competition between the parties. These customers tend to have more complex systems, reporting and financial requirements that smaller travel management companies ( TMCs ) may be unable to provide. Therefore there may be barriers to expansion for smaller TMCs who seek to supply large corporate and government customers. The ACCC concluded that CTM and Helloworld Corporate are close competitors, in particular for government contracts. However, the ACCC considered that Flight Centre will remain a strong local competitor able to compete for these contracts. In addition to Flight Centre, there are large overseas-based TMCs such as Amex GBT, BCD and CWT who could expand in Australia if CTM sought to increase prices. Large customers may be able to sponsor new entry or expansion. Therefore, the ACCC considers that there will likely be sufficient competition post-merger to constrain CTM."
+  }
+}

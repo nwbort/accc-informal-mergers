@@ -1,0 +1,54 @@
+{
+  "id": "1261",
+  "title": "TNT Logistics - proposed acquisition of the Toll or the Patrick Vehicle Transport Business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tnt-logistics-proposed-acquisition-of-the-toll-or-the-patrick-vehicle-transport-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24163",
+  "industries": [
+    "Vehicle Distribution"
+  ],
+  "date_completed": "11 July 2006",
+  "date_completed_iso": "2006-07-11T12:00:00Z",
+  "date_commenced": "18 April 2006",
+  "date_commenced_iso": "2006-04-18T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "TNT Logistics"
+  ],
+  "targets": [
+    "Toll Holdings Ltd<br/> Patrick Corporation Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Apr 2006",
+      "date_iso": "2006-04-18T12:00:00Z",
+      "event": "TNT Logistics made submission to ACCC and ACCC commenced market inquiries"
+    },
+    {
+      "date": "8 Jun 2006",
+      "date_iso": "2006-06-08T12:00:00Z",
+      "event": "ACCC requested further information from TNT Logistics and commenced further market inquiries. ACCC timeline suspended"
+    },
+    {
+      "date": "21 Jun 2006",
+      "date_iso": "2006-06-21T12:00:00Z",
+      "event": "Proposed announcement of ACCC's findings - announcement suspended pending receipt by ACCC of a further submission from TNT Logistics"
+    },
+    {
+      "date": "29 Jun 2006",
+      "date_iso": "2006-06-29T12:00:00Z",
+      "event": "ACCC received further information from TNT Logistics. ACCC timeline recommenced"
+    },
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "TNT Logistics Australia expressed an interest to acquire either the Toll or Patrick Vehicle Transport Business (VTB). Toll Holdings Limited (Toll) is required to divest the VTB pursuant to undertakings which Toll has given the ACCC in relation to its acquisition of Patrick Corporation Ltd (Patrick). The ACCC accepted undertakings from Toll pursuant to s.87B of the Trade Practices Act 1974 (the Act) on 11 March 2006 and accepted from Toll a Variation to the Undertakings pursuant to s.87B of the Act on 4 May 2006 (collectively referred to as 'the Undertakings'). The Undertakings provided for Toll divesting either the Toll VTB or the Patrick VTB.",
+    "Market definition": "The relevant markets were considered to be: -  the market for the distribution of new domestically manufactured vehicles from place of manufacture to dealership; -  the market for the distribution of new imported vehicles from the place of import to dealership; and -  the market for the distribution of used vehicles and relocations.",
+    "Competition analysis": "The market for the distribution of new domestically manufactured vehicles from place of manufacture to dealership The ACCC concluded that the proposed acquisition would be unlikely to substantially lessen competition in this market because TNT only has a very small market share and the proposed acquisition would result in only a very small increase in market concentration. The market for the distribution of new imported vehicles from the place of import to dealership While the proposed acquisition would result in reducing the number of national suppliers of vehicle distribution from three to two, the ACCC concluded that, on balance, the proposed acquisition would be unlikely to substantially lessen competition in this market because: -there appeared to be scope for smaller and regional operators to compete for the supply of vehicle distribution due to the various contractual arrangements that can be entered into by car companies to distribute vehicles, e.g. engaging various suppliers to distribute vehicles to the dealership or using `dealer choice' whereby individual dealerships will arrange with an operator of its choice to deliver vehicles to the dealership; -for one segment of the market, TNT has only a very small market share and the proposed acquisition will effectively result in a transfer of market share from the VTB to TNT; -there appeared to be efficiency gains that can be achieved through vertical integration with vehicle transport and Pre-Delivery and Inspection (PDI) services by the supplier and the customer. TNT will not be vertically integrated with a PDI operator; however TNT will have a vertically integrated operator as its significant competitor; -customers appeared to have some bargaining power. This was demonstrated by the short term nature of the contracts which customers enter into with its supplier of vehicle transport. The market for the distribution of used vehicles and relocations The ACCC concluded that the proposed acquisition would be unlikely to substantially lessen competition in this market because: (i) there exist a number of competitors in this market including smaller and regional operators and (ii) barriers to entry do not appear to be high."
+  }
+}

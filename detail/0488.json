@@ -1,0 +1,76 @@
+{
+  "id": "0488",
+  "title": "ANZ Banking Group Ltd , National Australia Bank Ltd (NAB) , Westpac Banking Corporation , Commonwealth Bank Group - proposed acquisition of National E-Conveyancing Development Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/anz-banking-group-ltd-national-australia-bank-ltd-nab-westpac-banking-corporation-commonwealth-bank-group-proposed-acquisition-of-national-e-conveyancing",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46209",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "19 October 2011",
+  "date_completed_iso": "2011-10-19T12:00:00Z",
+  "date_commenced": "29 July 2011",
+  "date_commenced_iso": "2011-07-29T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "ANZ Banking Group Ltd",
+    "National Australia Bank Ltd (NAB)",
+    "Westpac Banking Corporation",
+    "Commonwealth Bank Group"
+  ],
+  "targets": [
+    "National E-Conveyancing Development Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jul 2011",
+      "date_iso": "2011-07-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Aug 2011",
+      "date_iso": "2011-08-01T12:00:00Z",
+      "event": "ACCC requested clarification of information provided by the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "5 Aug 2011",
+      "date_iso": "2011-08-05T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "17 Aug 2011",
+      "date_iso": "2011-08-17T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former proposed decision date of 22 September 2011 for announcement of ACCC's findings suspended."
+    },
+    {
+      "date": "19 Aug 2011",
+      "date_iso": "2011-08-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Aug 2011",
+      "date_iso": "2011-08-30T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Sep 2011",
+      "date_iso": "2011-09-15T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former proposed decision date of 6 October 2011 for the announcement of ACCC's findings suspended."
+    },
+    {
+      "date": "30 Sep 2011",
+      "date_iso": "2011-09-30T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Oct 2011",
+      "date_iso": "2011-10-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisitions in the context of the following markets: - a national market for the provision of conveyancing facilitation services, that is, services which assist with the conveyancing process (including property searching, settlement processing, mortgage administration and document lodgement services); and -  a national market(s) for the provision of residential and commercial mortgage products. The ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisitions were unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "While there is no overlap between the proposed activities of NECDL and the activities of the Participating Banks, the Participating Banks are major customers of conveyancing facilitation services and are potentially large customers of NECDL and any future developer of an e-conveyancing platform. Accordingly the ACCC considered whether the proposed acquisitions were likely to give rise to anti-competitive vertical effects. Conveyancing facilitation services market: The ACCC considered that the proposed acquisitions would be unlikely to substantially lessen competition in the market for the provision of conveyancing facilitation services for the following reasons: - while the development of the National E-Conveyancing Platform (NECP) by NECDL may have a detrimental impact on the business of incumbent providers of conveyancing facilitation services, this potential impact would be due to increased efficiencies associated with the adoption of e-conveyancing rather than being a consequence of the proposed acquisitions; and -  the Participating Banks would likely have an incentive to use other e-conveyancing platforms in the future should such platforms be developed and prove to be more efficient than the NECP, notwithstanding the Participating Banks equity investments in NECDL. Residential and commercial mortgage products market(s): The ACCC considered that the proposed acquisitions would be unlikely to substantially lessen competition in the market(s) for the provision of residential and commercial mortgage products for the following reasons: - the Participating Banks are unlikely to have the incentive to seek to influence NECDL to foreclose mortgage lending rivals access to the NECP as to do so would result in the Participating Banks foregoing efficiencies arising from the network effects associated with all parties to a transaction participating in the NECP; - the majority shareholding to be retained by the Participating State Governments in NECDL is likely to restrain the ability of the Participating Banks to exercise significant influence over NECDL and the conditions on which access to the NECP is granted to mortgage lending rivals; and - a mortgage lenders access to conveyancing facilitation services, including any e-conveyancing platform, is unlikely to have a material impact on the mortgage lenders ability to attract customers and compete with rival mortgage lenders."
+  }
+}

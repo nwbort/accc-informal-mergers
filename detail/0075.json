@@ -1,0 +1,44 @@
+{
+  "id": "0075",
+  "title": "Bega Cheese - Betta Milk and Meander Valley Dairy from TasFoods",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bega-cheese-betta-milk-and-meander-valley-dairy-from-tasfoods",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "17 November 2023",
+  "date_completed_iso": "2023-11-17T12:00:00Z",
+  "date_commenced": "4 September 2023",
+  "date_commenced_iso": "2023-09-04T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "Bega Cheese Limited"
+  ],
+  "targets": [
+    "Betta Milk business and Meander Valley Dairy business from TasFoods Limited and its subsidiaries"
+  ],
+  "timeline": [
+    {
+      "date": "6 Sep 2023",
+      "date_iso": "2023-09-06T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Sep 2023",
+      "date_iso": "2023-09-20T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Nov 2023",
+      "date_iso": "2023-11-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bega Cheese Limited (ASX:BGA) proposes to acquire the business assets of the Betta Milk business and the Meander Valley Dairy business (other than the land and buildings used in those businesses) from TasFoods Limited (ASX:TFL) and two of its wholly owned subsidiaries. Bega has one milk processing plant in Tasmania at Lenah Valley which produces fresh white drinking milk, milk-based beverages and packaged cream. TasFoods acquires raw milk from a third party processor and some raw milk from farmers in Tasmania. TasFoods produces fresh white milk, milk-based beverages, packaged cream and butter under the Betta Milk and Meander Valley Dairy brands. It also produces premium milk products under the Pyengana Dairy brand in Tasmania. Bega proposes to acquire the Betta Milk brand, Meander Valley Dairy brand and a licence of the Pyengana Dairy brand, as well as the plant and equipment used to process and pack the products of these brands (except for those used for the Pyengana cheese branded products).",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on: The market for the wholesale supply of fresh white drinking milk The market for the wholesale supply of milk-based beverages The market for the acquisition of raw milk",
+    "Competition analysis": "In relation to the market for wholesale supply of fresh white drinking milk, the ACCC found that Ashgrove and TasFoods are the primary competitors in the wholesaling of branded and premium fresh white drinking milk. Although Bega does supply branded fresh white drinking milk in Tasmania, it has significantly lower market share than both Ashgrove and TasFoods. The continued presence of Ashgrove and its strong brands will continue to constrain the merged entity post-acquisition. In relation to private label or “economy” fresh white drinking milk, the ACCC found that Bega and TasFoods were the only suppliers of these products in Tasmania. However, the ACCC considered that the limited capacity of TasFoods compared to Bega reduced its importance in the ongoing competitive dynamic of this market segment. In addition, the ACCC found that the ongoing threat of other processors starting to supply private label or “economy” fresh white milk would continue to constrain the merged entity post-acquisition. Therefore the ACCC found that, given the constraints present in the wholesaling of both branded and “economy” fresh white milk, the proposed acquisition would be unlikely to lead to a substantial lessening of competition in this market. In relation to the market for the wholesale supply of milk-based beverages, such as iced coffee and flavoured milk, the ACCC found that the longer shelf life and higher retail margin of these products meant that competition from interstate supply was strong. This was evidenced by the presence of competitors that did not have any milk-based beverage production facilities in Tasmania. Accordingly, the ACCC found that the acquisition was unlikely to substantially lessen competition in this market. In relation to the market for the acquisition of raw milk, the ACCC found that TasFoods only acquired a very small volume of raw milk directly from farmers (with the bulk of its raw milk needs acquired from another processor), and post-acquisition farmers in Tasmania would still benefit from strong competition from Saputo, Fonterra and Mondelez."
+  }
+}

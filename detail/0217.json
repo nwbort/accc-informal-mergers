@@ -1,0 +1,49 @@
+{
+  "id": "0217",
+  "title": "OneFortyOne Plantations - proposed acquisition of the Jubilee Highway Sawmill",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onefortyone-plantations-proposed-acquisition-of-the-jubilee-highway-sawmill",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62842",
+  "industries": [
+    "Forestry"
+  ],
+  "date_completed": "14 December 2017",
+  "date_completed_iso": "2017-12-14T12:00:00Z",
+  "date_commenced": "3 October 2017",
+  "date_commenced_iso": "2017-10-03T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "OneFortyOne Plantations"
+  ],
+  "targets": [
+    "Jubilee Highway Sawmill"
+  ],
+  "timeline": [
+    {
+      "date": "3 Oct 2017",
+      "date_iso": "2017-10-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Oct 2017",
+      "date_iso": "2017-10-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Nov 2017",
+      "date_iso": "2017-11-20T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (30th November) delayed to provide more time to consider information provided by the parties."
+    },
+    {
+      "date": "14 Dec 2017",
+      "date_iso": "2017-12-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "OneFortyOne Plantations Pty Ltd (OFO) proposes to acquire the Jubilee Highway Sawmill in Mount Gambier and associated woodchip export operations at the Port of Portland from the Carter Holt Harvey Group (CHH). OFO is the largest softwood forest plantation grower in the Green Triangle region. It does not currently own any sawmills. CHH manufactures and produces various sawn timber products in Australia. The Jubilee Highway Sawmill is the largest structural sawmill in the Green Triangle region.",
+    "Market definition": "The ACCC considered the proposed acquisition in relation to the following markets: * a regional market for the supply and acquisition of sawlogs in the Green Triangle ( sawlog market ) * an east coast market for the supply and acquisition of structural grade timber products ( structural timber market ) * an east coast market for the supply and acquisition of non-structural timber products ( non-structural timber market ) * a regional market for the supply and acquisition of woodchips ( woodchip market ), and * an east coast market for the supply and acquisition of treated round wood posts ( round wood market ). The ACCC also considered whether the above markets may be narrower. In particular, whether the markets for the supply and acquisition of structural and non-structural timber may be more limited than the entire east coast. However, it did not need to form a concluded view as the proposed merger would not be likely to substantially lessen competition even if narrower markets were defined.",
+    "Competition analysis": "The ACCC concluded that OFO's proposed acquisition of the Jubilee Highway Sawmill and associated woodchip export operations from CHH is unlikely to substantially lessen competition in any relevant market. Sawlog market The primary concerns considered by the ACCC were whether the proposed acquisition would give OFO the ability and incentive to foreclose competing sawmills in the sawlog market by: * withholding sawlog supply from, or reducing sawlog supply to, those sawmills, * raising sawlog prices to those sawmills, and/or * discriminating on the basis of sawlog quality or size in favour of Jubilee The ACCC considered that OFO is unlikely to have the ability and incentive to act in this manner due to the differing margins associated with each level of the supply chain, differences in the size of sawlogs acquired by various sawmills in the region (which limits the extent of competition between the Jubilee sawmill and non-structural sawmills in the acquisition of sawlogs), and the availability of alternative sources of supply for some customers. The ACCC also took into account practical limitations on OFO discriminating on the basis of sawlog quality or size, such as additional transport and haulage costs that would be incurred. The ACCC also considered whether rival forest growers could be foreclosed following the proposed acquisition if the Jubilee Sawmill stopped purchasing its sawlogs from them. However the ACCC considered that this was unlikely given that rival forest growers in the region will continue to have a range of sawmills to supply. Woodchip market The ACCC considered that the proposed acquisition was unlikely to give OFO the ability and incentive to foreclose competing sawmills by: * ceasing to acquire woodchips from, or reducing the volume of woodchips acquired from, those sawmills, and/or * reducing the price it pays to acquire woodchips from those sawmills. In reaching this conclusion, the ACCC took into account existing commercial obligations that OFO will acquire from CHH as part of the proposed acquisition, the availability of alternative options for sawmills, including domestic particleboard manufacturers and alternative export facilities, and the limited change associated with the proposed acquisition given the existing vertical integration between the Jubilee Sawmill and the woodchip export operations under CHH's ownership. Downstream structural and non-structural timber markets The ACCC considered the potential impact of the proposed acquisition in downstream timber markets for the supply of structural and non-structural timber products. The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in these markets, as Green Triangle region sawmills compete in these markets with other sawmills located in other parts of the east coast. The ACCC also took into account the extent of imports. Round wood market The ACCC also considered whether existing round wood post manufacturers could be foreclosed following the proposed acquisition if OFO stopped supplying them with logs as a result of the Jubilee Sawmill resuming processing of round wood. The ACCC found such foreclosure was unlikely to occur as the Jubilee Sawmill does not currently process round posts and is unlikely to have an economic incentive to do so in the future. The ACCC also understands that barriers to entry to round wood post processing are unlikely to be high."
+  }
+}

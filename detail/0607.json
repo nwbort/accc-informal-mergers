@@ -1,0 +1,43 @@
+{
+  "id": "0607",
+  "title": "SAP AG - proposed acquisition of Sybase Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sap-ag-proposed-acquisition-of-sybase-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42051",
+  "industries": [
+    "Software"
+  ],
+  "date_completed": "23 July 2010",
+  "date_completed_iso": "2010-07-23T12:00:00Z",
+  "date_commenced": "1 July 2010",
+  "date_commenced_iso": "2010-07-01T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "SAP AG"
+  ],
+  "targets": [
+    "Sybase Inc"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jul 2010",
+      "date_iso": "2010-07-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "9 Jul 2010",
+      "date_iso": "2010-07-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jul 2010",
+      "date_iso": "2010-07-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not consider it necessary to precisely define a relevant market, given the minimal product overlap between the operations of the merger parties. For the purposes of the competition analysis, the ACCC considered the proposed acquisition in the context of various markets for the supply of database software and enterprise application software in Australia.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market on a horizontal basis because the merger parties do not appear to be close competitors and their products are largely complementary. The ACCC also considered that the proposed acquisition was unlikely to raise concerns on a conglomerate basis. Post acquisition, there would remain a number of significant competitors to the merged firm in each product category."
+  }
+}

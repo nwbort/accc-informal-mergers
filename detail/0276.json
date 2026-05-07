@@ -1,0 +1,54 @@
+{
+  "id": "0276",
+  "title": "FedEx Corporation - proposed acquisition of TNT Express",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fedex-corporation-proposed-acquisition-of-tnt-express",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57206",
+  "industries": [
+    "Logistics"
+  ],
+  "date_completed": "26 November 2015",
+  "date_completed_iso": "2015-11-26T12:00:00Z",
+  "date_commenced": "6 August 2015",
+  "date_commenced_iso": "2015-08-06T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "FedEx Corporation"
+  ],
+  "targets": [
+    "TNT Express"
+  ],
+  "timeline": [
+    {
+      "date": "6 Aug 2015",
+      "date_iso": "2015-08-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "3 Sep 2015",
+      "date_iso": "2015-09-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "7 Oct 2015",
+      "date_iso": "2015-10-07T12:00:00Z",
+      "event": "Former proposed decision date of 29 October delayed at the request of FedEx, to allow FedEx to provide additional information."
+    },
+    {
+      "date": "3 Nov 2015",
+      "date_iso": "2015-11-03T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 Nov 2015",
+      "date_iso": "2015-11-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "FedEx Corporation (FedEx), through its wholly-owned subsidiary FedEx Acquisition B.V., proposes to acquire all of the issued and outstanding ordinary shares in TNT Express N.V (TNT) (the proposed acquisition).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the supply of international express small package delivery services (express services). Express services have time-definite or day-definite delivery guarantees, which are distinguishable from standard air mail services. The key suppliers of express services are the four 'integrators' - DHL, UPS, FedEx and TNT. This is because, unlike other suppliers of delivery services, the integrators have the necessary infrastructure and assets to effectively supply express services, including - advanced IT systems; - substantial pick-up and delivery (road and air) networks in a significant number of origin and destination markets on a global basis; - unique brand and reputation for ensuring consistent, reliable and timely deliveries on a global basis; and - an extensive hub-and-spoke system, allowing for efficient first mile pickup and last mile delivery. Other suppliers of express services, such as Australia Post and Toll Holdings, offer only a limited competitive constraint to the integrators.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the market for express services. The proposed acquisition would reduce the number of key suppliers of express services from 4 to 3. However, the merged entity would continue to face strong competition from the remaining integrators, DHL and UPS, and the credible threat of new entry and expansion by other suppliers of express services. Customers of express services also face low costs to switch suppliers and could move easily to other suppliers including DHL and UPS, if the merged entity attempted to increase prices or reduce service levels. The ACCC also concluded that the proposed acquisition was unlikely to increase the ability and incentive for the merged entity and the remaining integrators to engage in price coordination, or coordination based on customer allocation or geographic market sharing. Relevant factors in this regard included the lack of price transparency in the market, the network of subcontractors engaged by suppliers, and the highly fragmented and differentiated nature of customer demand. These factors would make coordination difficult to implement."
+  }
+}

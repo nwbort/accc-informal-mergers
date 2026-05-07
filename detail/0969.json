@@ -1,0 +1,44 @@
+{
+  "id": "0969",
+  "title": "Woolworths Limited - proposed acquisition of Ritchies Super IGA in Kelvin Grove QLD",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-ritchies-super-iga-in-kelvin-grove-qld",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30521",
+  "industries": [
+    "Retail Grocery Industry"
+  ],
+  "date_completed": "4 February 2008",
+  "date_completed_iso": "2008-02-04T12:00:00Z",
+  "date_commenced": "16 January 2008",
+  "date_commenced_iso": "2008-01-16T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Ritchies Super IGA in Kelvin Grove QLD"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jan 2008",
+      "date_iso": "2008-01-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jan 2008",
+      "date_iso": "2008-01-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Feb 2008",
+      "date_iso": "2008-02-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposes to acquire the Super IGA supermarket, Ritchies Super IGA in Kelvin Grove, Queensland.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the local supermarket market surrounding the Super IGA located within the Kelvin Grove Urban Village on Musk Avenue, Kelvin Grove, Queensland.  Kelvin Grove is located approximately two kilometres north of the Brisbane CBD.  The ACCC also considered the impact of the proposed acquisition in the relevant Queenland market for procurement for products sold in supermarkets.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any of the relevant markets.  Among other things, the ACCC took into account the existence of other competitors in the relevant local area which would pose a competition constraint on Woolworths post acquisition."
+  }
+}

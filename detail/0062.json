@@ -1,0 +1,74 @@
+{
+  "id": "0062",
+  "title": "Cochlear Limited - Oticon Medical",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cochlear-limited-oticon-medical",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Medical Technology"
+  ],
+  "date_completed": "4 April 2024",
+  "date_completed_iso": "2024-04-04T12:00:00Z",
+  "date_commenced": "4 August 2022",
+  "date_commenced_iso": "2022-08-04T12:00:00Z",
+  "total_review_days": 108,
+  "acquirers": [
+    "Cochlear Limited"
+  ],
+  "targets": [
+    "Oticon Medical A/S"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2022",
+      "date_iso": "2022-08-04T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Aug 2022",
+      "date_iso": "2022-08-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Oct 2022",
+      "date_iso": "2022-10-12T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of findings (27 October 2022) is delayed."
+    },
+    {
+      "date": "16 Nov 2022",
+      "date_iso": "2022-11-16T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Dec 2022",
+      "date_iso": "2022-12-01T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "22 Dec 2022",
+      "date_iso": "2022-12-22T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "30 Jan 2023",
+      "date_iso": "2023-01-30T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties.  Former provisional date for announcement of ACCC's findings (16 March 2023) was delayed."
+    },
+    {
+      "date": "15 Mar 2024",
+      "date_iso": "2024-03-15T12:00:00Z",
+      "event": "ACCC received further information from the parties on 14 March 2024. Timeline recommenced."
+    },
+    {
+      "date": "4 Apr 2024",
+      "date_iso": "2024-04-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cochlear Limited ( Cochlear ) proposes to acquire the cochlear implants business of Oticon Medical A/S ( Oticon Medical ) from Demant A/S. Oticon Medical’s bone conduction solutions business will be retained by Demant A/S. In Australia, Cochlear and Oticon Medical both supply hearing solutions, specifically cochlear implants and bone conduction solutions. Cochlear originally proposed to acquire the shares and certain assets of Oticon Medical, which would have constituted its cochlear implants and bone conduction solutions businesses. The ACCC commenced an informal review of Cochlear’s proposed acquisition of the whole of Oticon Medical’s hearing solutions business on 4 August 2022. The ACCC published a Statement of Issues on 1 December 2022, outlining preliminary competition concerns with the proposed acquisition, particularly in respect of the supply of bone conduction solutions. The ACCC sought further information from the parties in January 2023, and suspended its review timeline. On 23 June 2023, the Competition and Markets Authority in the United Kingdom ( CMA ) decided to partially prohibit the proposed acquisition to address competition concerns it identified in the supply of bone conduction solutions, prohibiting Cochlear from acquiring Oticon Medical’s bone conduction solutions business specifically. The parties subsequently revised the proposed transaction so that Cochlear proposes to acquire Oticon Medical’s cochlear implants business only ( the revised transaction ) and provided undertakings to the CMA to that effect. The CMA required that the terms of Oticon Medical’s separation process and the sale of its cochlear implants business be approved by the CMA before the revised transaction may complete. As of 15 March 2024, the parties were still finalising some of the agreements for the separation process and the CMA had not yet made a decision on the revised transaction. On 28 February 2024, the parties sought informal merger clearance from the ACCC in relation to the revised transaction. On 14 March 2024, the parties provided further information to the ACCC necessary for the ACCC to recommence its review.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on: a national market for the supply of non-surgical bone conduction devices a national market for the supply of surgical bone anchored devices a national market for the supply of cochlear implants.",
+    "Competition analysis": "Bone conduction and bone anchored devices The ACCC formed a preliminary view that the initial proposed acquisition was likely to substantially lessen competition in the supply of non-surgical bone conduction devices and surgical bone anchored devices (collectively, bone conduction solutions) nationally. The merger parties proposed a revised transaction in order to address these competition concerns and Cochlear provided an undertaking to the CMA that prevents it from acquiring the bone conduction solutions business of Oticon Medical. The ACCC considered that the proposed separation of Oticon Medical’s bone conduction solutions and cochlear implants businesses, and the associated employee restructure, would be unlikely to disadvantage Oticon Medical in its ability to compete in the supply of bone conduction solutions. Oticon Medical is incentivised to protect its commercial interest by ensuring its competitiveness in the supply of bone conduction solutions is not compromised. The ACCC concluded that the revised transaction addresses its preliminary competition concerns and that the revised transaction is unlikely to substantially lessen competition in markets for the supply of non-surgical bone conduction devices and surgical bone anchored devices in Australia. Cochlear implants The ACCC concluded that Cochlear’s proposed acquisition of the cochlear implants business of Oticon Medical is not likely to substantially lessen competition in any market in Australia. Despite Cochlear’s leading position in the supply of cochlear implants and high barriers to entry, Oticon Medical has low market share and does not provide strong competition in the supply of cochlear implants in Australia, including with respect to research and development. The ACCC also considers there is a low likelihood of Oticon Medical being a stronger competitor in the supply of cochlear implants in the foreseeable future."
+  }
+}

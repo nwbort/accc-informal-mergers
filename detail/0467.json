@@ -1,0 +1,44 @@
+{
+  "id": "0467",
+  "title": "Cabcharge Australia Limited - proposed acquisition of Yellow Cabs Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cabcharge-australia-limited-proposed-acquisition-of-yellow-cabs-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46775",
+  "industries": [
+    "Taxi services"
+  ],
+  "date_completed": "24 January 2012",
+  "date_completed_iso": "2012-01-24T12:00:00Z",
+  "date_commenced": "15 November 2011",
+  "date_commenced_iso": "2011-11-15T12:00:00Z",
+  "total_review_days": 51,
+  "acquirers": [
+    "Cabcharge Australia Limited"
+  ],
+  "targets": [
+    "Yellow Cabs Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Nov 2011",
+      "date_iso": "2011-11-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Dec 2011",
+      "date_iso": "2011-12-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jan 2012",
+      "date_iso": "2012-01-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cabcharge Australia Limited (Cabcharge) proposed to acquire Yellow Cabs Holdings Pty Ltd (Yellow Cabs) (the proposed acquisition). Cabcharge is an ASX listed company whose principal business is the provision of the Cabcharge charge account facilitiy and Cabcharge FAREWAY EFTPOS system which provides non-cash payment facilities for taxi fares throughout Australia. Cabcharge also owns a number of taxi networks and taxi licences throughout Australia. Yellow Cabs is a taxi network which has been operating in the Adelaide metropolitan area since 1993, providing automated taxi and booking services.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: (i)\tthe supply of standard taxi services in metropolitan Adelaide; (ii)\tthe supply of taxi network services to operators/drivers in metropolitan Adelaide; (iii)\tthe supply of network booking and dispatch services to taxis in metropolitan Adelaide; (iv)\tthe provision of taxi-specific non-cash payment instruments in Australia; (v)\tthe provision of non-cash payment processing services for taxis in Australia; and (vi)\tthe supply of taxi equipment to the taxi industry in Australia.",
+    "Competition analysis": "The ACCC considered that as Cabcharge, including its subsidiary taxi networks, did not operate any taxi network services in metropolitan Adelaide, the proposed acquisition would result in a direct transfer of market share of affiliated taxis within the Adelaide metropolitan area. The ACCC therefore considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in the markets for the supply of taxi services, taxi network services and booking and dispatch services to taxis in the Adelaide metropolitan area. With regards to the national markets for the provision of taxi-specific non-cash payment instruments, non-cash payment processing services for taxis and the supply of taxi equipment to the taxi industry, the ACCC considered that the proposed acquisition was unlikely to substantially raise barriers to entry and therefore was unlikely to substantially lessen competition in these markets. Within the context of the Adelaide metropolitan area, the ACCC considered that there would remain two independent taxi networks, with a substantial share of affiliated taxis, that could be approached by new entrants."
+  }
+}

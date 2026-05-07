@@ -1,0 +1,69 @@
+{
+  "id": "0598",
+  "title": "Jetset Travelworld Limited - proposed acquisition of Stella Travel Services Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jetset-travelworld-limited-proposed-acquisition-of-stella-travel-services-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41999",
+  "industries": [
+    "Travel"
+  ],
+  "date_completed": "1 September 2010",
+  "date_completed_iso": "2010-09-01T12:00:00Z",
+  "date_commenced": "14 May 2010",
+  "date_commenced_iso": "2010-05-14T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Jetset Travelworld Limited"
+  ],
+  "targets": [
+    "Stella Travel Services Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 May 2010",
+      "date_iso": "2010-05-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 May 2010",
+      "date_iso": "2010-05-25T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "4 Jun 2010",
+      "date_iso": "2010-06-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Jun 2010",
+      "date_iso": "2010-06-09T12:00:00Z",
+      "event": "ACCC received a partial response to its information request of 25 May 2010 from the merger parties. ACCC requested further additional information from the merger parties. Former proposed date for announcement of ACCC's findings of 24 June 2010 amended to allow the merger parties to provide the information requested."
+    },
+    {
+      "date": "16 Jul 2010",
+      "date_iso": "2010-07-16T12:00:00Z",
+      "event": "ACCC received all outstanding information requested from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Jul 2010",
+      "date_iso": "2010-07-21T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "12 Aug 2010",
+      "date_iso": "2010-08-12T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "1 Sep 2010",
+      "date_iso": "2010-09-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Jetset Travelworld Limited proposed to acquire Stella Travel Services Holding Pty Ltd (Stella), which trades under a number of retail brands including Harvey World Travel, Travelscene American Express and Best Flights. Stella also owns a number of wholesale travel distribution brands including Travelscene Holidays.",
+    "Market definition": "Please see attached Public Competition Assessment.",
+    "Competition analysis": "Please see attached Public Competition Assessment."
+  }
+}

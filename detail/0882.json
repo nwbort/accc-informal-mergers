@@ -1,0 +1,55 @@
+{
+  "id": "0882",
+  "title": "Westpac Banking Corporation - proposed acquisition of St George Bank Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/westpac-banking-corporation-proposed-acquisition-of-st-george-bank-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32010",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "13 August 2008",
+  "date_completed_iso": "2008-08-13T12:00:00Z",
+  "date_commenced": "2 June 2008",
+  "date_commenced_iso": "2008-06-02T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "Westpac Banking Corporation"
+  ],
+  "targets": [
+    "St George Bank Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jun 2008",
+      "date_iso": "2008-06-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Jun 2008",
+      "date_iso": "2008-06-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jul 2008",
+      "date_iso": "2008-07-23T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Jul 2008",
+      "date_iso": "2008-07-30T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for comments on the Statement of Issues."
+    },
+    {
+      "date": "6 Aug 2008",
+      "date_iso": "2008-08-06T12:00:00Z",
+      "event": "Closing date for submissions relating to the Statement of Issues."
+    },
+    {
+      "date": "13 Aug 2008",
+      "date_iso": "2008-08-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

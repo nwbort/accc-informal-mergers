@@ -1,0 +1,43 @@
+{
+  "id": "0749",
+  "title": "Woolworths Limited - proposed acquisition of Macro Wholefoods Market",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-macro-wholefoods-market",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37023",
+  "industries": [
+    "Organic products and services - retail"
+  ],
+  "date_completed": "17 June 2009",
+  "date_completed_iso": "2009-06-17T12:00:00Z",
+  "date_commenced": "13 May 2009",
+  "date_commenced_iso": "2009-05-13T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Macro Wholefoods Market"
+  ],
+  "timeline": [
+    {
+      "date": "13 May 2009",
+      "date_iso": "2009-05-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 May 2009",
+      "date_iso": "2009-05-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Jun 2009",
+      "date_iso": "2009-06-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to Public Competition Assessment.",
+    "Competition analysis": "Please refer to Public Competition Assessment."
+  }
+}

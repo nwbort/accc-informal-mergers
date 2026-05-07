@@ -1,0 +1,48 @@
+{
+  "id": "0917",
+  "title": "Transpacific Industries Group Ltd - completed acquisition of The Waste People Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-completed-acquisition-of-the-waste-people-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31495",
+  "industries": [
+    "Waste collection"
+  ],
+  "date_completed": "20 May 2008",
+  "date_completed_iso": "2008-05-20T12:00:00Z",
+  "date_commenced": "12 May 2008",
+  "date_commenced_iso": "2008-05-12T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "The Waste People Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Apr 2008",
+      "date_iso": "2008-04-30T12:00:00Z",
+      "event": "Transpacific Industries Group Ltd acquired The Waste People Pty Ltd."
+    },
+    {
+      "date": "12 May 2008",
+      "date_iso": "2008-05-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 May 2008",
+      "date_iso": "2008-05-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 May 2008",
+      "date_iso": "2008-05-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of: - the south-east NSW market for the collection and transport of non-hazardous liquids; and - the south-east NSW market for the collection and transport of solid waste.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to result in a substantial lessening of competition since Transpacific had not been actively servicing the relevant markets and alternative suppliers, such as Watt's Waste, would continue to constrain the merged firm."
+  }
+}

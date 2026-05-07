@@ -1,0 +1,25 @@
+{
+  "id": "1300",
+  "title": "Coles Myer Limited - proposed acquisition of Hedley Liquor Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-myer-limited-proposed-acquisition-of-hedley-liquor-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23799",
+  "industries": [
+    "Liquor Retail"
+  ],
+  "date_completed": "21 March 2006",
+  "date_completed_iso": "2006-03-21T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Coles Myer Limited (CML) proposed acquisition of Hedley Liquor Group (HLG).",
+    "Market definition": "The ACCC considered the impact of the acquisition primarily on the market for retail packaged liquor for off-premises consumption in local areas in Queensland.",
+    "Competition analysis": "The majority of HLG's outlets are located in northern Queensland where CML has no presence.  Generally, CML has a relatively small presence in Queensland.  In the small number of local markets where CML and Hedley both compete, the ACCC considered that the acquisition was unlikely to result in a substantial lessening of competition because of the existence of other competitors that would be likely to act as a competitive constraint on the merged entity.",
+    "Merger type": "Horizontal"
+  }
+}

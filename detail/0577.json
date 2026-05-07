@@ -1,0 +1,44 @@
+{
+  "id": "0577",
+  "title": "Network Services Company - completed acquisition of certain distribution agreements from NDD Distribution Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/network-services-company-completed-acquisition-of-certain-distribution-agreements-from-ndd-distribution-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43262",
+  "industries": [
+    "Magazine distribution services"
+  ],
+  "date_completed": "9 November 2010",
+  "date_completed_iso": "2010-11-09T12:00:00Z",
+  "date_commenced": "24 August 2010",
+  "date_commenced_iso": "2010-08-24T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "Network Services Company"
+  ],
+  "targets": [
+    "NDD Distribution Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Aug 2010",
+      "date_iso": "2010-08-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Sep 2010",
+      "date_iso": "2010-09-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Nov 2010",
+      "date_iso": "2010-11-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 1 August 2010 Network Services Company acquired a number of assets and client contracts of NDD Distribution Pty Ltd.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the national market for magazine distribution services.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to a number of factors including: - the competitive constraint posed by existing market participants, including Gordon & Gotch and Fairfax, along with smaller magazine distributors; and - the threat of new entry by logistics service providers, which have pre-existing distribution routes, capital and infrastructure suitable for use in magazine distribution."
+  }
+}

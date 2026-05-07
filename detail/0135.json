@@ -1,0 +1,42 @@
+{
+  "id": "0135",
+  "title": "Saputo Dairy Australia Pty Limited - Lion-Dairy & Drinks Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/saputo-dairy-australia-pty-limited-lion-dairy-drinks-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "20 November 2020",
+  "date_completed_iso": "2020-11-20T12:00:00Z",
+  "date_commenced": "20 October 2020",
+  "date_commenced_iso": "2020-10-20T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Saputo Dairy Australia Pty Limited"
+  ],
+  "targets": [
+    "Lion-Dairy & Drinks Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2020",
+      "date_iso": "2020-10-20T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Nov 2020",
+      "date_iso": "2020-11-05T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "20 Nov 2020",
+      "date_iso": "2020-11-20T12:00:00Z",
+      "event": "ACCC discontinued its public review after Saputo informed of its intention to withdraw its proposed acquisition of Lion Dairy & Drinks."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Saputo Dairy Australia Pty Limited ( Saputo ) proposes to acquire Lion-Dairy & Drinks Pty Ltd ( Lion D&D ). Lion D&D and Saputo both operate dairy processing plants and purchase raw milk from dairy farmers, as well as supplying dairy products to retailers."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "0290",
+  "title": "Coles - proposed acquisition of a supermarket lease in Lakelands Western Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-proposed-acquisition-of-a-supermarket-lease-in-lakelands-western-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56824",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "2 July 2015",
+  "date_completed_iso": "2015-07-02T12:00:00Z",
+  "date_commenced": "7 May 2015",
+  "date_commenced_iso": "2015-05-07T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Coles"
+  ],
+  "targets": [
+    "a supermarket lease in Lakelands Western Australia"
+  ],
+  "timeline": [
+    {
+      "date": "7 May 2015",
+      "date_iso": "2015-05-07T12:00:00Z",
+      "event": "Draft 87B undertaking offered by Coles. As the undertaking offered by Coles at an early stage addressed the competition concern, the ACCC did not consider it necessary to conduct a full public review of the proposed acquisition."
+    },
+    {
+      "date": "2 Jul 2015",
+      "date_iso": "2015-07-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {}
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0826",
+  "title": "Sea Swift Pty Ltd - acquisition of assets of Endeavour Shipping Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sea-swift-pty-ltd-acquisition-of-assets-of-endeavour-shipping-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34554",
+  "industries": [
+    "Shipping"
+  ],
+  "date_completed": "4 December 2008",
+  "date_completed_iso": "2008-12-04T12:00:00Z",
+  "date_commenced": "24 October 2008",
+  "date_commenced_iso": "2008-10-24T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Sea Swift Pty Ltd"
+  ],
+  "targets": [
+    "Endeavour Shipping Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Oct 2008",
+      "date_iso": "2008-10-02T12:00:00Z",
+      "event": "Sea Swift Pty Ltd acquired certain assets of Endeavour Shipping Pty Ltd."
+    },
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "ACCC received a submission from Sea Swift Pty Ltd. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Nov 2008",
+      "date_iso": "2008-11-10T12:00:00Z",
+      "event": "Former closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Nov 2008",
+      "date_iso": "2008-11-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Dec 2008",
+      "date_iso": "2008-12-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sea Swift Pty Ltd's acquisition of Endeavour Shipping Pty Ltd.",
+    "Market definition": "The separate markets for the supply of shipping (freight and/or passenger) services from Cairns to each of: -Thursday Island; - Bamaga/Seisia; - Weipa; - Horn Island; and - the outer Torres Strait islands.",
+    "Competition analysis": "The ACCC considered a substantial lessening of competition would be unlikely to arise in any relevant market as a result of the acquisition.  Factors informing the ACCC's view included: - Perkins Shipping Pty Ltd (Perkins) is likely to continue to provide strong competition to Sea Swift on the Cairns-to-Weipa route; - Sea Swift is likely to be constrained on the remaining shipping routes given the potential ability and incentive for new entry and expansion by other shipping service suppliers; and - barriers to entry to any of the relevant markets do not appear to be substantial, as reflected in the recent history of entry including Perkins entry to the Cairns-to-Weipa route."
+  }
+}

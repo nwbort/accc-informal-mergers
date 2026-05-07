@@ -1,0 +1,49 @@
+{
+  "id": "0962",
+  "title": "Woolworths Limited - proposed acquisition of Glenorie Cellars",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-glenorie-cellars",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31089",
+  "industries": [
+    "Liquor Retailing"
+  ],
+  "date_completed": "19 February 2008",
+  "date_completed_iso": "2008-02-19T12:00:00Z",
+  "date_commenced": "7 February 2008",
+  "date_commenced_iso": "2008-02-07T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Glenorie Cellars"
+  ],
+  "timeline": [
+    {
+      "date": "7 Feb 2008",
+      "date_iso": "2008-02-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "Market inquiries commenced."
+    },
+    {
+      "date": "15 Feb 2008",
+      "date_iso": "2008-02-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Feb 2008",
+      "date_iso": "2008-02-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire an off-licence and associated assets in Glenorie, NSW, currently trading as 'Glenorie Cellars'.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is a 3-5km radius surrounding the target retail liquor business (Market 1); and 2. the New South Wales market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 2).",
+    "Competition analysis": "On 19 February 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. in relation to Market 1, Woolworths owned no liquor outlets (either takeaway packaged liquor outlets or hotels) within the market.  Accordingly, the proposed acquisition represented a bare transfer of market share; and 2. in relation to Market 2, the ACCC considered that the proposed acquisition of one liquor licence was unlikely to significantly affect the market share or buying power of Woolworths in the NSW wholesale market."
+  }
+}

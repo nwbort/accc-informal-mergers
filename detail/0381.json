@@ -1,0 +1,59 @@
+{
+  "id": "0381",
+  "title": "Rocla Pty Ltd - proposed acquisition of Beresford Concrete Products Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/rocla-pty-ltd-proposed-acquisition-of-beresford-concrete-products-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51157",
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "19 June 2013",
+  "date_completed_iso": "2013-06-19T12:00:00Z",
+  "date_commenced": "23 April 2013",
+  "date_commenced_iso": "2013-04-23T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Rocla Pty Ltd"
+  ],
+  "targets": [
+    "Beresford Concrete Products Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Apr 2013",
+      "date_iso": "2013-04-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "6 May 2013",
+      "date_iso": "2013-05-06T12:00:00Z",
+      "event": "ACCC requested further information from merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "13 May 2013",
+      "date_iso": "2013-05-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 May 2013",
+      "date_iso": "2013-05-21T12:00:00Z",
+      "event": "ACCC timeline suspended upon request from merger parties to provide further information. Former proposed decision date of 20 June 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "3 Jun 2013",
+      "date_iso": "2013-06-03T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Jun 2013",
+      "date_iso": "2013-06-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Rocla Pty Ltd proposed to acquire Beresford Concrete Products Pty Ltd.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition in the context of markets for the supply of: -\tconcrete box culverts (box culverts) in NSW; -\tconcrete drainage pits (drainage pits) in NSW; -\tbox culverts in QLD; and -\tdrainage pits in QLD. For the purposes of considering this acquisition, the ACCC did not consider it necessary to form a definitive view as to whether the specific geographic dimension of the product markets (i.e. the supply of box culverts and the supply of drainage pits) encompassed the whole of QLD, or else encompassed separate geographic markets in the South and North of QLD.",
+    "Competition analysis": "Box culverts The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in the QLD or NSW markets for the supply of box culverts as: - remaining competitors, including Humes and Abigroup, will exert an effective competitive constraint on the merged firm; - barriers to entry and expansion appear relatively low; and - some large customers appear to have significant countervailing power, in particular the ability to produce box-culverts in-house. Drainage pits The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in the QLD or NSW markets for the supply of drainage pits due to the presence of significant alternative suppliers of those products in both States. Conglomerate effects The ACCC concluded that any attempt by the merged firm to bundle or tie supply of box culverts and drainage pits (and/or other precast concrete products) would be unlikely to substantially lessen competition as: - the merged firm appears unlikely to have market power for box culverts or any other complementary products that it could leverage to anti-competitively foreclose access to distribution by rival suppliers; and - Humes is already in a position to offer a bundle of precast concrete products, and this has not significantly foreclosed access to distribution by rival suppliers. Accordingly, on 18 June 2013 the ACCC decided not to oppose the proposed acquisition."
+  }
+}

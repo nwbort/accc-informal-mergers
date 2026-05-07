@@ -1,0 +1,54 @@
+{
+  "id": "0527",
+  "title": "Adani Enterprises - possible acquisition of interests in the Abbot Point Coal Terminal",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adani-enterprises-possible-acquisition-of-interests-in-the-abbot-point-coal-terminal",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45059",
+  "industries": [
+    "Coal terminals"
+  ],
+  "date_completed": "21 April 2011",
+  "date_completed_iso": "2011-04-21T12:00:00Z",
+  "date_commenced": "3 March 2011",
+  "date_commenced_iso": "2011-03-03T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Adani Enterprises Ltd"
+  ],
+  "targets": [
+    "Abbot Point Coal Terminal"
+  ],
+  "timeline": [
+    {
+      "date": "3 Mar 2011",
+      "date_iso": "2011-03-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Mar 2011",
+      "date_iso": "2011-03-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Mar 2011",
+      "date_iso": "2011-03-30T12:00:00Z",
+      "event": "ACCC requested further information from Adani Enterprises Ltd. ACCC timeline suspended pending receipt of information requested. Former proposed date of 7 April delayed to allow provision of information."
+    },
+    {
+      "date": "8 Apr 2011",
+      "date_iso": "2011-04-08T12:00:00Z",
+      "event": "ACCC received further information from Adani Enterprises Ltd. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Apr 2011",
+      "date_iso": "2011-04-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Mundra Port and Special Economic Zone Limited, a subsidiary of Adani Enterprises, may seek to acquire interests in the Abbot Point Coal Terminal as part of the State of Queensland's competitive bidding process. The Abbot Point Coal Terminal is located near Bowen in North Queensland. The Adani Group is investigating the opportunity to develop a coal mine and associated infrastructure in the Galilee Basin known as the Carmichael Coal Mine and Rail Project.",
+    "Market definition": "The ACCC considered whether the proposed acquisition would substantially lessen competition in the following markets: -\tthe market for the provision of coal loading facilities servicing the Northern Bowen Basin and            \tGalilee Basin (Market 1); -\tthe market for the acquisition, development and expansion of coal deposits in the Northern Bowen \tBasin and Galilee Basin (Market 2); and -\tthe market for the supply of coal of an exportable quality (Market 3).",
+    "Competition analysis": "Market 1 There is unlikely to be a substantial lessening of competition because the proposed acquisition does not result in any horizontal aggregation. Any ability for Mundra to leverage market power because of Adani Mining Pty Ltd's (Adani Mining) interests in upstream coal production is discussed below. Markets 2 and 3 The potential for Mundra to leverage market power into upstream or downstream markets to the advantage of Adani Mining depends on the ability and incentive to foreclose rival miners. Relevant to the counterfactual to the proposed acquisition, any acquirer of the Abbot Point Coal Terminal will be the counter party to the long term user agreements already in place and so will have the same ability to engage in over-allocation of terminal capacity or discrimination in allocation of additional capacity. Mundra's incentive to foreclose rival miners depends on: (i) whether it can access rail for the transport of its coal to the Abbot Point Coal Terminal; and (ii) whether it can export its coal via alternative coal terminals under development. In the short to medium term, the ACCC considered information which suggested that Mundra is unlikely to have sufficient incentives to foreclose the capacity of existing and future users of the Abbot Point Coal Terminal. The relevant time period considered was from the commencement of coal production from the Carmichael Coal Mine and prior to the likely future presence of alternative coal terminals to which Adani Mining may direct its coal production. The ACCC also considered that to the limited extent that a risk of foreclosure did arise during this period, any foreclosure of lower cost existing coal suppliers in favour of higher cost Adani Mining coal would be small and temporary and unlikely to impact on world coal prices. In the long term, following the expiry of current user agreements, the ACCC considered that Mundra would not have an incentive to foreclose terminal access for coal producers as it would be constrained by the likely future presence of competing coal terminals. For the reasons outlined above, the ACCC concluded that the proposed acquisition is unlikely to result in a substantial lessening of competition in the upstream or downstream markets."
+  }
+}

@@ -1,0 +1,140 @@
+ 
+Our ref: 
+IM-72998  
+ 
+ 
+ 
+3 September 2025 
+Dear Interested Party 
+Re:  Request for submissions: Cuscal Limited’s proposed acquisition of Indue 
+Limited 
+The Australian Competition and Consumer Commission (ACCC) is seeking your views on Cuscal 
+Limited’s (Cuscal) proposed acquisition of 100% of the issued share capital in Indue Limited 
+(Indue) (the proposed acquisition). 
+Cuscal and Indue both supply payment facilitation services, which encapsulate all of the functions 
+that facilitate the passing of messages between payers, financial institutions and payees in the 
+payment flow. More specifically, Cuscal and Indue overlap in the provision of account-to-account 
+payment facilitation services (including switching and messaging through NPP, BECS and BPay 
+and ESA settlement) and card issuing payment facilitation services (including credit, debit and 
+prepaid card processing, BIN sponsorship, card switching, card management services and digital 
+card provisioning). Cuscal and Indue also offer non-payment specific services such as fraud 
+mitigation services. Further details are provided at Attachment A. 
+The ACCC’s investigation is focused on the impact of the proposed acquisition on competition. In 
+particular, we are seeking your views on: 
+• 
+how closely Cuscal and Indue compete in the supply of payment facilitation services; 
+• 
+the extent to which alternative suppliers of payment facilitation services would competitively 
+constrain the merged entity; and 
+• 
+the likely impact of the proposed acquisition on the pricing and service quality of payment 
+facilitation services.  
+Further issues you may wish to address are set out in Attachment B.  
+This matter is public and you can forward this letter to anybody who may be interested. 
+The legal test which the ACCC applies in considering the proposed acquisition is in section 50 of 
+the Competition and Consumer Act 2010. Section 50 prohibits acquisitions that are likely to have 
+the effect of substantially lessening competition in a market. 
+Please provide your response by 2pm on 17 September 2025 via email to mergers@accc.gov.au 
+with the title: Submission re: Cuscal’s proposed acquisition of Indue. If you require more time to 
+respond, please let us know. 
+If you would like to arrange a time to discuss the matter with ACCC officers, or have any questions 
+about this letter, please contact mergers@accc.gov.au. 
+Updates regarding the ACCC’s investigation will be available on the ACCC’s Public Mergers 
+Register at (ACCC mergers register). 
+
+
+Confidentiality of submissions 
+The ACCC treats sensitive information it receives during a merger review as confidential, and will 
+not publish your submission. We will not disclose submissions to third parties (except our 
+advisors/consultants) unless compelled by law (for example, under freedom of information 
+legislation or during court proceedings) or in accordance with s155AAA of the Competition and 
+Consumer Act 2010. Where the ACCC is required to disclose confidential information, we will 
+notify you in advance where possible so that you have an opportunity to be heard. Therefore 
+please clearly indicate if any information you provide is confidential. Our Informal Merger Review 
+Process Guidelines contain more information on confidentiality. 
+Yours sincerely 
+ 
+Daniel McCracken-Hewson 
+General Manager  
+Merger Assessments  
+ 
+ 
+ 
+ 
+
+
+Attachment A 
+ 
+The acquirer – Cuscal 
+Cuscal is an ASX-listed (ASX: CCL) payment facilitation company operating in Australia. 
+Cuscal is also an authorised deposit-taking institution (ADI).  
+Cuscal offers clients the ability to obtain end-to-end payment facilitation across merchant 
+acquiring, switching and messaging through the BECS, NPP and BPAY payment rails, card 
+and ATM switching, ESA settling, credit, debit and pre-paid card processing, digital card 
+provisioning, BIN sponsorship, Consumer Data Right solutions and fraud mitigation.  
+The target – Indue  
+Indue is a payment facilitation company operating in Australia, and is also an ADI.  
+Indue offers payment facilitation services for its clients to switch and message through the 
+NPP, BECS and BPAY payment rails, ESA settlement, and supplies credit and debit card 
+processing for issuers, pre-paid card management, fraud mitigation and digital card 
+provisioning. Indue is also an aggregator of certain third-party payment facilitation services, 
+such as card switching, which it on-supplies to clients.  
+Industry background 
+Payment facilitation services encapsulate the functions that facilitate the passing of 
+messages between payers, financial institutions and payees in the payment flow. This may 
+include switching or messaging through one or more of the payment schemes, (Visa, 
+Mastercard, eftpos, BPAY, New Payments Platform (NPP) and the Bulk Electronic Clearing 
+System (BECS)), BIN sponsorship, card and ATM switching, credit, debit and prepaid card 
+processing, data and fraud mitigation services and back-office support.   
+Cuscal and Indue both provide payment facilitation services to businesses in Australia 
+including mutual banks, fintech companies and corporate clients. Indue also provides 
+services to some government clients in Australia.  
+Payment facilitation services can be supplied as individual components or as an end-to-end 
+service covering all aspects of the payment flow, from providers such as Cuscal or Indue. 
+Alternatively, customers may choose to build their own end-to-end solution by obtaining 
+different components of payment processing services from different suppliers. Customers 
+may also choose to self-supply some components of the payment flow. 
+ 
+ 
+
+
+Attachment B 
+1. Provide a brief description of your business or organisation.  
+2. Outline the reasons for your interest in the proposed acquisition, including any 
+commercial relationship(s) with Cuscal and/or Indue. 
+The questions below are divided into questions for customers and competitors, but you are 
+welcome to comment on any question/s in any category.  
+Questions for customers 
+3. Please identify and explain the types of payment facilitation services you procure in 
+Australia and identify the current suppliers of each of these services. 
+a. Please explain whether you procure these services as an end-to-end solution, or 
+procure different components from different suppliers, and reasons for this. 
+4. For each payment facilitation service you procure in Australia, please identify and 
+describe the alternative suppliers capable of servicing your needs. In your response, 
+please identify any suppliers you consider particularly effective competitors (for example, 
+through their prices, innovation or service offering). 
+5. Please explain whether you consider Cuscal and Indue are close competitors in the 
+supply of payment facilitation services. In your response, please consider factors such as 
+the types of services the parties supply, the quality of these services, levels of innovation 
+and the reputation of both parties.  
+6. Please describe how you procure different types of payment facilitation services, for 
+example, through formal tender or other methods, including typical contract duration.  
+7. Please discuss whether you would have the ability to bypass supply of any of the 
+payment facilitation services from the combined Cuscal-Indue by either self-supplying or 
+supporting a new provider to commence supplying these services. Please provide 
+examples where possible. 
+8. Please describe how you expect your procurement of payment facilitation services to be 
+affected by the proposed acquisition.  
+Questions for competitors  
+9. 
+Please identify and explain the payment facilitation services you supply in Australia. 
+10. Please identify your competitors for the supply of each service you supply. Please 
+estimate market shares where possible. 
+11. Discuss the likelihood of, and timeframe for, new entry or expansion in the supply of 
+payment facilitation services, including any barriers to entry. Please provide examples of 
+recent entry where possible. 
+Other  
+12. Please provide any additional information that you consider relevant to the ACCC’s 
+consideration of the proposed acquisition. 
+13. Please discuss the importance of innovation, research and development in the supply of 
+payment facilitation services in Australia. 

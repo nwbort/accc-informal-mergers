@@ -1,0 +1,49 @@
+{
+  "id": "0884",
+  "title": "BHP Billiton Mitsubishi Alliance (BMA) - proposed acquisition of New Saraji Metallurgical Coal Project",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bhp-billiton-mitsubishi-alliance-bma-proposed-acquisition-of-new-saraji-metallurgical-coal-project",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33188",
+  "industries": [
+    "Coal mining"
+  ],
+  "date_completed": "11 August 2008",
+  "date_completed_iso": "2008-08-11T12:00:00Z",
+  "date_commenced": "18 July 2008",
+  "date_commenced_iso": "2008-07-18T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "BHP Billiton Mitsubishi Alliance (BMA)"
+  ],
+  "targets": [
+    "New Saraji Metallurgical Coal"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jul 2008",
+      "date_iso": "2008-07-17T12:00:00Z",
+      "event": "BMA announced the proposed acquisition."
+    },
+    {
+      "date": "18 Jul 2008",
+      "date_iso": "2008-07-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2008",
+      "date_iso": "2008-08-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Aug 2008",
+      "date_iso": "2008-08-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BHP Billiton Mitsubishi Alliance (BMA) proposes to acquire the New Saraji Metallurgical Coal Project (New Saraji) from New Hope Corporation Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of markets for the production and supply of metallurgical coal. The ACCC did not consider it necessary to form a definitive view on market definition since the proposed acquisition was unlikely to substantially lessen competition in either a broad or a narrow market.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition since: * there will be no overlap with the existing metallurgical coal production of BMA since New Saraji is not currently producing any volumes of metallurgical coal for export or sale; and * there will continue to be significant Australian and international alternative suppliers of metallurgical coal with substantial existing metallurgical coal resources to constrain the merged entity."
+  }
+}

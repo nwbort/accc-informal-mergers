@@ -1,0 +1,69 @@
+{
+  "id": "0067",
+  "title": "Etex Australia Pty Ltd - BGC Lightweight Materials",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/etex-australia-pty-ltd-bgc-lightweight-materials",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Construction material"
+  ],
+  "date_completed": "16 February 2024",
+  "date_completed_iso": "2024-02-16T12:00:00Z",
+  "date_commenced": "10 November 2023",
+  "date_commenced_iso": "2023-11-10T12:00:00Z",
+  "total_review_days": 66,
+  "acquirers": [
+    "Etex Australia Pty Ltd"
+  ],
+  "targets": [
+    "BGC Lightweight Materials"
+  ],
+  "timeline": [
+    {
+      "date": "10 Nov 2023",
+      "date_iso": "2023-11-10T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Nov 2023",
+      "date_iso": "2023-11-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "21 Dec 2023",
+      "date_iso": "2023-12-21T12:00:00Z",
+      "event": "ACCC requested further information from the parties and market participants."
+    },
+    {
+      "date": "19 Jan 2024",
+      "date_iso": "2024-01-19T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "25 Jan 2024",
+      "date_iso": "2024-01-25T12:00:00Z",
+      "event": "ACCC received further information from market participants."
+    },
+    {
+      "date": "30 Jan 2024",
+      "date_iso": "2024-01-30T12:00:00Z",
+      "event": "ACCC amended former provisional date for announcement of findings (8 February 2024) to provide time to consider the new information."
+    },
+    {
+      "date": "9 Feb 2024",
+      "date_iso": "2024-02-09T12:00:00Z",
+      "event": "ACCC amended former provisional date for announcement of findings (22 February 2024)."
+    },
+    {
+      "date": "16 Feb 2024",
+      "date_iso": "2024-02-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Etex Australia Pty Ltd ( Etex ) proposes to acquire the business assets of BGC Lightweight Materials ( BGC ) from BGC (Australia) Pty Ltd ( BGC Group ). Etex is a global manufacturer and supplier of building materials and solutions. Its primary business in Australia is the production and distribution of plasterboard and related accessories. Etex operates three plasterboard manufacturing plants, located in Victoria, NSW, and Queensland, as well as a metal profile production facility in Queensland. Etex also supplies imported fibre cement, as well as fire protection products and high temperature insulation materials and solutions. BGC Group is a diversified Australian manufacturer and supplier of various building materials including plasterboard, fibre cement, cement, asphalt, roofing, steel, insulation, windows and raw quarry materials. BGC operates relatively independently as a division of the BGC Group and produces and sells plasterboard and related accessories, as well as imported fibre cement products. BGC owns and operates one plasterboard manufacturing facility in Western Australia.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on markets for: the regional supply of plasterboards in Victoria/Tasmania, South Australia/Northern Territory and Western Australia the national supply of fibre cement.",
+    "Competition analysis": "The proposed acquisition would reduce the number of competitors in already highly concentrated markets for plasterboard. The four suppliers of plasterboard in Australia, in order of sales volume are CSR Limited ( CSR ), Knauf Gypsum Pty Ltd ( Knauf ), Etex and BGC. Both CSR and Knauf have greater production capacity than Etex and BGC nationally. Etex operates largely on the east coast, whereas BGC operates largely on the west coast. The parties overlap in the markets for the supply of plasterboards in Victoria, South Australia, and Western Australia. Etex has a nascent presence in the national market for the supply of fibre cement, where James Hardie, CSR and BGC are the three largest suppliers. In relation to the markets for plasterboard in Victoria and South Australia, the ACCC found that while there are only four competitors in these markets, the competitive constraint exerted by BGC on Etex is not unique or strong compared to CSR and Knauf, and this is unlikely to improve over time. The continued presence of CSR and Knauf and their strong brands (‘Gyprock’ and ‘Sheetrock’) will continue to constrain the merged entity post-acquisition. In relation to the market for plasterboard in Western Australia, the ACCC found that the proposed acquisition is not likely to substantially lessen competition. While Etex does supply plasterboard in Western Australia, it has significantly lower market share than either of the other two suppliers there, BGC and CSR, and does not compete as strongly, primarily because its manufacturing plants are located on the east coast. The continued presence of CSR and its strong brand will continue to constrain the merged entity post-acquisition. The threat of re-entry into the Western Australian market by Knauf, which used to supply plasterboard there, also will constrain the merged entity. In relation to the national market for fibre cement, the ACCC found that the proposed acquisition is not likely to substantially lessen competition. The ACCC found that BGC and Etex are not close competitors and Etex’s presence is minor. James Hardie is the clear market leader, and it and CSR will continue to exert effective constraints on the merged entity post-acquisition. Additionally, the threat of entry by an importer of fibre cement will serve to constrain the merged entity."
+  }
+}

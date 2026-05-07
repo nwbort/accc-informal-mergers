@@ -1,0 +1,42 @@
+{
+  "id": "0899",
+  "title": "Challenger Financial Services Group Limited - proposed acquisition of AXA's Australian Annuity Portfolio",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/challenger-financial-services-group-limited-proposed-acquisition-of-axas-australian-annuity-portfolio",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32605",
+  "industries": [
+    "Annuity products"
+  ],
+  "date_completed": "7 July 2008",
+  "date_completed_iso": "2008-07-07T12:00:00Z",
+  "date_commenced": "24 June 2008",
+  "date_commenced_iso": "2008-06-24T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Challenger Financial Services Group Limited"
+  ],
+  "targets": [
+    "AXA's Australian Annuity Portfolio"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jun 2008",
+      "date_iso": "2008-06-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Jul 2008",
+      "date_iso": "2008-07-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Jul 2008",
+      "date_iso": "2008-07-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "The ACCC did not oppose the proposed acquisition, particularly because it would not reduce the number of existing suppliers of annuities in Australia."
+  }
+}

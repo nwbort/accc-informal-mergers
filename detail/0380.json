@@ -1,0 +1,43 @@
+{
+  "id": "0380",
+  "title": "Archer Daniels Midland Company - possible takeover of GrainCorp Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/archer-daniels-midland-company-possible-takeover-of-graincorp-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50620",
+  "industries": [
+    "Agriproducts"
+  ],
+  "date_completed": "27 June 2013",
+  "date_completed_iso": "2013-06-27T12:00:00Z",
+  "date_commenced": "3 May 2013",
+  "date_commenced_iso": "2013-05-03T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Archer Daniels Midland Company"
+  ],
+  "targets": [
+    "GrainCorp Limited"
+  ],
+  "timeline": [
+    {
+      "date": "3 May 2013",
+      "date_iso": "2013-05-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 May 2013",
+      "date_iso": "2013-05-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jun 2013",
+      "date_iso": "2013-06-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "While the ACCC did not consider it necessary to form a concluded view in relation to market definition for the purpose of analysing the proposed acquisition, the ACCC considered the likely competitive impact of the proposed acquisition on: -\tgrain trading and marketing; -\tup-country grain storage and handling; and -\tbulk grain port terminal services The ACCC's review focussed on the competitive impact of the proposed acquisition on the east coast of Australia, given GrainCorp Limited's (GrainCorp) significant activities in Victoria, New South Wales and Queensland, in particular, its ownership and operation of 280 up-country grain storage and handling sites, and its operation of seven bulk grain port terminals on the east coast.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any market. The only horizontal overlap of any significance between GrainCorp and Archer Daniels Midland Company (ADM) is the trading and marketing of grain on the east coast of Australia. This involves the acquisition, marketing and sale of grain to export and domestic grain customers. Given ADM's presently limited involvement in grain trading in Australia, the proposed acquisition would result in only a relatively small increase in market share. Further, market inquiries indicated that the merged firm would continue to face competition from a number of viable alternative grain traders to which grain growers could turn should the merged firm seek to reduce the prices paid to growers (and which grain customers could switch to if the merged firm should seek to increase the price offered to customers). GrainCorp has a significant presence at all levels of the grain supply chain on the east coast of Australia and provides grain traders with access to its up-country storage facilities, its contracted rail transport services, and its port terminal services. This access is important to competition between traders and marketers of grain. Despite its limited presence in Australia, ADM has a vertically integrated global structure. Given these factors, the ACCC considered whether the proposed acquisition would affect the merged firm's incentive to foreclose rival grain traders' access to these facilities and thereby have the effect or likely effect of substantially lessening competition in grain trading and marketing. The ACCC considered that there is unlikely to be any material change in the merged firm's ability or incentive to foreclose access to its storage and transport supply chain services (whether through completely foreclosing access or otherwise frustrating third parties' access) that would result in a substantial lessening of competition. In forming this view, the ACCC noted that: -\tGrainCorp, like ADM, already has a vertically integrated structure and international operations; while the proposed acquisition would transfer ownership of a vertically integrated supply chain from GrainCorp to ADM, it would not provide the merged firm with increased market power in either grain storage or port terminals and hence any ability to foreclose rivals would remain unchanged. -\tGiven ADM's presently limited involvement in grain trading in Australia, the proposed acquisition would also not result in significant horizontal aggregation, which may be expected to increase ADM's incentive to foreclose rivals' access. -\tPost-acquisition, the merged entity would continue to face some competition from other providers of storage. -\tIn relation to access to bulk-grain export terminals, GrainCorp is already the dominant provider of port terminal services on the east coast of Australia, while ADM has only an effective 8% interest in a single terminal (Queensland Bulk Terminal) through a shareholding in Wilmar International Pty Ltd. Accordingly the proposed acquisition would transfer this dominant position from GrainCorp to ADM, but it would not strengthen it. The ACCC also notes that the merged firm would be required to comply with the ACCC approved Port Terminal Services Access Undertaking, pursuant to Part IIIA of the Competition and Consumer Act 2010 (Cth). The Wheat Export Marketing Act 2008 (Cth) requires port terminal operators with vertically integrated wheat exporting operations to pass an 'access test' (part of which involves an access undertaking) until September 2014. After September 2014, port terminal access is expected to be governed by a mandatory code of conduct (enforced by the ACCC). If the code is not in place by that time, the access test arrangements will continue to operate in their current form."
+  }
+}

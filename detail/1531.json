@@ -1,0 +1,31 @@
+{
+  "id": "1531",
+  "title": "Acquirer: Macquarie Credit Union Ltd; Target: Post-Tel Credit Union Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-macquarie-credit-union-ltd-target-post-tel-credit-union-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18160",
+  "industries": [],
+  "date_completed": "30 July 2003",
+  "date_completed_iso": "2003-07-30T12:00:00Z",
+  "date_commenced": "18 July 2003",
+  "date_commenced_iso": "2003-07-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Macquarie Credit Union Ltd"
+  ],
+  "targets": [
+    "Post-Tel Credit Union Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 18 July 2003 the Australian Prudential Regulation Authority informed the Commission of the pending transfer of the entire business of Post-Tel Credit Union Ltd to the Macquarie Credit Union Ltd. On 29 July 2003 the Commission decided that it would not intervene in the proposed merger between the Post-Tel Credit Union and Macquarie Credit Union.",
+    "Market definition": "Various markets for financial services in New South Wales",
+    "Competition analysis": "Credit unions offer a broad range of financial services and offer a similar range of products to banks and building societies. The Post-Tel Credit Union and the Macquarie Credit Union are both based in regional New South Wales. The proposed merger will not cross any of the Commission's concentration thresholds for the exercise of market power.  As a consequence, the Commission determined that a substantial lessening of competition was unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

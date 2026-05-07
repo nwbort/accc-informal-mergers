@@ -1,0 +1,44 @@
+{
+  "id": "0408",
+  "title": "Woolworths Limited - proposed acquisition of Austral Refrigeration Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-austral-refrigeration-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50111",
+  "industries": [
+    "Commercial refrigeration services"
+  ],
+  "date_completed": "19 December 2012",
+  "date_completed_iso": "2012-12-19T12:00:00Z",
+  "date_commenced": "21 November 2012",
+  "date_commenced_iso": "2012-11-21T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Austral Refrigeration Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Nov 2012",
+      "date_iso": "2012-11-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Dec 2012",
+      "date_iso": "2012-12-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Dec 2012",
+      "date_iso": "2012-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire the remote commercial refrigeration business of Austral Refrigeration Holdings Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: (i) the national market for the manufacture and supply of remote refrigerated display cases; (ii) the national market for the design and installation of remote refrigeration systems; and (iii) region-based markets for the maintenance of remote refrigeration systems.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Factors informing this view included; (i) the merger parties did not overlap in any relevant market; and (ii) in each relevant market, a number of alternatives to Austral existed such that any attempt by Woolworths to foreclose its retail rivals' access to remote refrigeration equipment and services was unlikely to be successful."
+  }
+}

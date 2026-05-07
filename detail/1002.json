@@ -1,0 +1,44 @@
+{
+  "id": "1002",
+  "title": "National Hire Ltd and The Carlyle Group - proposed acquisition of Coates Hire Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-hire-ltd-and-the-carlyle-group-proposed-acquisition-of-coates-hire-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28679",
+  "industries": [
+    "Equipment Hire"
+  ],
+  "date_completed": "13 November 2007",
+  "date_completed_iso": "2007-11-13T12:00:00Z",
+  "date_commenced": "2 October 2007",
+  "date_commenced_iso": "2007-10-02T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "National Hire Ltd"
+  ],
+  "targets": [
+    "Coates Hire Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Oct 2007",
+      "date_iso": "2007-10-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Oct 2007",
+      "date_iso": "2007-10-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Nov 2007",
+      "date_iso": "2007-11-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 2 October 2007 it was announced that a consortium comprising National Hire Group Limited and The Carlyle Group reached an agreement with the Independent Board Committee of Coates Hire Limited to recommend the consortium's proposal to acquire Coates.",
+    "Market definition": "The relevant market was considered likely to be the state/territory-based supply of general equipment hire.",
+    "Competition analysis": "Barriers to entering the market at the local level appeared to be low. Barriers to expansion to a scale similar to the merged firm, having a full range of hire equipment and a network of branches throughout Australia, appeared to be more significant but were largely in the form of capital investment and to a large extent were not sunk.  The merged firm appeared likely to be constrained by existing and potential competitors, including both smaller general equipment hire companies and national specialist companies. WesTrac, the Caterpillar dealer for Western Australia and New South Wales, was likely to hold a non-controlling interest in the merged firm post-acquisition.  WesTrac held a 67% interest in National Hire at the time of the announcement of the acquisition proposal. Competitors to the merged firm appeared to have alternatives to Caterpillar when sourcing equipment. In relation to Coates' suppliers which may have been replaced by National Hire's suppliers after the proposed transaction, it appeared likely there were other distribution channels to market, and equipment manufacturers may have had the ability to enter the rental market themselves."
+  }
+}

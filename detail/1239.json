@@ -1,0 +1,28 @@
+{
+  "id": "1239",
+  "title": "Tradefresh Pty Ltd - proposed acquisition of Chiquita Brands South Pacific Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tradefresh-pty-ltd-proposed-acquisition-of-chiquita-brands-south-pacific-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24930",
+  "industries": [
+    "Fresh produce"
+  ],
+  "date_completed": "17 August 2006",
+  "date_completed_iso": "2006-08-17T12:00:00Z",
+  "date_commenced": "19 July 2006",
+  "date_commenced_iso": "2006-07-19T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Tradefresh Pty Ltd"
+  ],
+  "targets": [
+    "Chiquita Brands South Pacific Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Tradefresh, a joint venture between Costa Group and Timbercorp Limited, proposed to acquire Chiquita Brands South Pacific Limited.",
+    "Market definition": "The ACCC considered the relevant market to be the national wholesale market for fruit and vegetables.",
+    "Competition analysis": "The ACCC decided not to oppose Tradefresh's acquisition of Chiquita. The ACCC considered that the merged firm would continue to face strong competition from existing firms and there are no significant barriers preventing new entry into the relevant market."
+  }
+}

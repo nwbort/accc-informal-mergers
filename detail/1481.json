@@ -1,0 +1,31 @@
+{
+  "id": "1481",
+  "title": "Acquirer: Police Credit Union Limited; Target: Softwoods Credit Union Cooperative Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-police-credit-union-limited-target-softwoods-credit-union-cooperative-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19587",
+  "industries": [],
+  "date_completed": "25 May 2004",
+  "date_completed_iso": "2004-05-25T12:00:00Z",
+  "date_commenced": "13 May 2004",
+  "date_commenced_iso": "2004-05-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Police Credit Union Limited"
+  ],
+  "targets": [
+    "Softwoods Credit Union Cooperative Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Softwoods proposes to transfer all of its business assets to PCU.",
+    "Market definition": "Financial services.",
+    "Competition analysis": "No direct overlap between outlets of parties concerned.  Customers of Softwoods will have greater accesss to facilities from PCU. Softwoods and PCU compete against a range of other financial institutions, such that proposed transaction does not raise competition concerns.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

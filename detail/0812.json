@@ -1,0 +1,44 @@
+{
+  "id": "0812",
+  "title": "Progen Pharmaceuticals Limited - proposed merger with Avexa Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/progen-pharmaceuticals-limited-proposed-merger-with-avexa-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36168",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "22 January 2009",
+  "date_completed_iso": "2009-01-22T12:00:00Z",
+  "date_commenced": "6 January 2009",
+  "date_commenced_iso": "2009-01-06T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Progen Pharmaceuticals Limited"
+  ],
+  "targets": [
+    "Avexa Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jan 2009",
+      "date_iso": "2009-01-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jan 2009",
+      "date_iso": "2009-01-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jan 2009",
+      "date_iso": "2009-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 22nd December 2008, Progen Pharmaceuticals Limited and Avexa Limited announced they had signed a Merger Implementation Agreement.",
+    "Market definition": "The parties overlap in the research and development of pharmaceuticals. Neither party currently has a product on-market. The ACCC considered that due to the lack of competition concerns it is not necessary to reach a definitive view on market definition in this matter.",
+    "Competition analysis": "The ACCC considered that there is no competitive overlap between the pipeline products of the two firms with Progen focusing on developing treatment for cancer and Avexa specialising in the treatment of infectious diseases."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1014",
+  "title": "Dymocks - proposed acquisition of Borders Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dymocks-proposed-acquisition-of-borders-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29820",
+  "industries": [
+    "Books"
+  ],
+  "date_completed": "1 November 2007",
+  "date_completed_iso": "2007-11-01T12:00:00Z",
+  "date_commenced": "8 October 2007",
+  "date_commenced_iso": "2007-10-08T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Dymocks"
+  ],
+  "targets": [
+    "Borders Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Oct 2007",
+      "date_iso": "2007-10-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Oct 2007",
+      "date_iso": "2007-10-12T12:00:00Z",
+      "event": "ACCC to commence market inquiries."
+    },
+    {
+      "date": "26 Oct 2007",
+      "date_iso": "2007-10-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Nov 2007",
+      "date_iso": "2007-11-01T12:00:00Z",
+      "event": "Dymocks withdrew its application for ACCC clearance."
+    }
+  ],
+  "body_sections": {}
+}

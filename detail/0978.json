@@ -1,0 +1,44 @@
+{
+  "id": "0978",
+  "title": "Transpacific Industries Group Ltd - acquisition of Alukram Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-alukram-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29973",
+  "industries": [
+    "Manufacture of waste management equipment"
+  ],
+  "date_completed": "22 January 2008",
+  "date_completed_iso": "2008-01-22T12:00:00Z",
+  "date_commenced": "13 December 2007",
+  "date_commenced_iso": "2007-12-13T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Alukram Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Dec 2007",
+      "date_iso": "2007-12-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Dec 2007",
+      "date_iso": "2007-12-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jan 2008",
+      "date_iso": "2008-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific has acquired the business and assets of Alukram Pty Ltd",
+    "Market definition": "1. the NSW market for the manufacture and supply of industrial bins; 2. the national market for the manufacture and supply of mounted lifting equipment; and 3. the national market for the manufacture of stationary compactors.",
+    "Competition analysis": "On 22 January 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. This was due to the limited overlap in the operations of the merger parties in the NSW market for the manufacture of industrial bins, and the existence of alternative competitive providers which will remain available to customers in both the national markets for the manufacture and supply of mounted lifting equipment and stationary compactors."
+  }
+}

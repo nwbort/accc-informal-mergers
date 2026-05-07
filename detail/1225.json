@@ -1,0 +1,54 @@
+{
+  "id": "1225",
+  "title": "Linde AG - proposed acquisition of the BOC Group plc and proffered section 87B undertaking",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/linde-ag-proposed-acquisition-of-the-boc-group-plc-and-proffered-section-87b-undertaking",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23993",
+  "industries": [
+    "Industrial gas"
+  ],
+  "date_completed": "5 September 2006",
+  "date_completed_iso": "2006-09-05T12:00:00Z",
+  "date_commenced": "17 July 2006",
+  "date_commenced_iso": "2006-07-17T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Linde AG"
+  ],
+  "targets": [
+    "BOC Group plc"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jul 2006",
+      "date_iso": "2006-07-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "31 Jul 2006",
+      "date_iso": "2006-07-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Aug 2006",
+      "date_iso": "2006-08-17T12:00:00Z",
+      "event": "Proposed announcement of ACCC findings. Decision postponed to allow for further ACCC inquiries."
+    },
+    {
+      "date": "29 Aug 2006",
+      "date_iso": "2006-08-29T12:00:00Z",
+      "event": "Proposed announcement of ACCC findings. ACCC's indicative timeline suspended pending receipt by the ACCC of a submission from Linde Gas (Australia)."
+    },
+    {
+      "date": "5 Sep 2006",
+      "date_iso": "2006-09-05T12:00:00Z",
+      "event": "ACCC accepted an 87B undertaking and announced it will not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "See detailed Public Competition Assessment",
+    "Market definition": "See detailed Public Competition Assessment",
+    "Competition analysis": "See detailed Public Competition Assessment"
+  }
+}

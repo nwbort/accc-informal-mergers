@@ -1,0 +1,44 @@
+{
+  "id": "0453",
+  "title": "Australian Fuel Distributors Pty Limited (Ausfuel) - proposed acquisition of retail petrol sites (BP Kununurra and BP Ord River Roadhouse) from Munners Pty Limited.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-fuel-distributors-pty-limited-ausfuel-proposed-acquisition-of-retail-petrol-sites-bp-kununurra-and-bp-ord-river-roadhouse-from-munners-pty",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48235",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "12 April 2012",
+  "date_completed_iso": "2012-04-12T12:00:00Z",
+  "date_commenced": "1 March 2012",
+  "date_commenced_iso": "2012-03-01T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Australian Fuel Distributors Pty Limited"
+  ],
+  "targets": [
+    "Munners Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "1 Mar 2012",
+      "date_iso": "2012-03-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Mar 2012",
+      "date_iso": "2012-03-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Apr 2012",
+      "date_iso": "2012-04-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australian Fuel Distributors Pty Limited (Ausfuel) proposed to acquire two retail fuel sites, BP Kununurra and BP Ord River Roadhouse, from Munners Pty Limited, located in Kununurra, Western Australia. Ausfuel operated a fuel depot located on the outskirts of Kununurra and is a distributor of fuel in and around the Kununurra region.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - local markets for the supply of petrol (PULP and ULP) and diesel to retail customers in and around Kununurra; and - regional markets for the supply of petrol (PULP and ULP) and diesel to commercial and industrial customers in and around Kununurra.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets given the lack of overlap between the operations of the merger parties. The merger parties were not close competitors for the supply of fuel products to retail customers and commercial/industrial customers. The Munners retail sites are both located in central Kununurra and focus on supply to retail customers and the Ausfuel depot is located on the outskirts of Kununurra and focuses on supply of fuel to commercial and industrial customers. In relation to the markets for the supply of fuel products to commercial and industrial customers, the ACCC considered whether Munners, if it sought to expand its supply of fuel products to commercial and industrial customers, may increase existing levels of competition. The ACCC noted that there were limitations on the ability of Munners to expand its fuel sites to accommodate the requirements of commercial and industrial customers. In any case, even if such an expansion occurred, there is currently a presence of sufficient local competitors for the supply of fuel to commercial and industrial customers which would act as a competitive constraint on the merged entity."
+  }
+}

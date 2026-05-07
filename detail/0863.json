@@ -1,0 +1,44 @@
+{
+  "id": "0863",
+  "title": "Sony Corporation of America - proposed acquisition of Bertelsmann AG's 50% interest in Sony BMG Music Entertainment BV",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sony-corporation-of-america-proposed-acquisition-of-bertelsmann-ags-50-interest-in-sony-bmg-music-entertainment-bv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33574",
+  "industries": [
+    "Music Entertainment"
+  ],
+  "date_completed": "23 September 2008",
+  "date_completed_iso": "2008-09-23T12:00:00Z",
+  "date_commenced": "12 August 2008",
+  "date_commenced_iso": "2008-08-12T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Sony Corporation of America"
+  ],
+  "targets": [
+    "Bertelsmann AG"
+  ],
+  "timeline": [
+    {
+      "date": "12 Aug 2008",
+      "date_iso": "2008-08-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Sep 2008",
+      "date_iso": "2008-09-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Sep 2008",
+      "date_iso": "2008-09-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sony Corporation of America (Sony) proposal to acquire Bertelsmann AG's 50% interest in Sony BMG Music Entertainment BV (SBME).",
+    "Market definition": "The proposed acquisition was assessed within the context of the following markets: 1. the national market for the wholesale supply of recorded music in physical form; and 2. the national market for the wholesale licensing of recorded music in digital form. The ACCC also examined whether Sony may have the ability and incentive to engage in vertical foreclosure of competitors in related product markets including: 1. retail markets for platforms and devices enabling the downloading and streaming of digital music content; 2. television and film production; and 3. music publishing.",
+    "Competition analysis": "On 23 September 2008, the ACCC formed the view that Sony's acquisition of sole (as opposed to joint) control of SBME was unlikely to increase Sony's ability or incentive to foreclose its competitors in the relevant markets because Sony lacks sufficient market power in any of these markets to profitably engage in this conduct. On this basis, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets."
+  }
+}

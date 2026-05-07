@@ -1,0 +1,31 @@
+{
+  "id": "1578",
+  "title": "Acquirer: JOINT VENTURE COMPANY; Target: Queensland Cement Ltd, Australian Cement Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-joint-venture-company-target-queensland-cement-ltd-australian-cement-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16653",
+  "industries": [],
+  "date_completed": "20 February 2003",
+  "date_completed_iso": "2003-02-20T12:00:00Z",
+  "date_commenced": "10 September 2002",
+  "date_commenced_iso": "2002-09-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "JOINT VENTURE COMPANY"
+  ],
+  "targets": [
+    "Queensland Cement Ltd, Australian Cement Holdings Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Merger of Queensland Cement Limited (\"QCL\") and Australian Cement Holdings (\"ACH\").",
+    "Market definition": "ACH and QCL manufacture, distribute and supply cement, and also have interests in the supply of cementitious products, namely flyash and blast furnace slag.  Excel supplies pre-mix concrete and has quarry operations.",
+    "Competition analysis": "On 26 November 2002, CSR Limited, Hanson Plc and Holicm Ltd announced that they propose to merge their Australian cement busineses - Australian Cement Holdings and Queensland Cement Limited. The proposal involves the merger of all ACH and QCL assets and operations involved in the production, distribution and supply of cement, flyash and blast furnace slag, and divestiture of QCL's Excel assets to CSR and Pioneer (owned by Hanson). In its investigation, the ACCC considered the competitive impact of the proposed merger on the supply of cement and other materials.  Extensive market inquiries were conducted with customers and competitors.  Following these inquiries, the ACCC concluded that the proposed merger would be unlikely to result in a significant reduction in competition in any relevant market. There is minimal geographic overlap in the current operations of ACH and QCL, with the nature of competition in each Australian State influenced by the location of cement production and distribution facilities. ACH produces cement in Tasmania and New South Wales, with sales mostly in Victoria and NSW where its main competitors are Blue Circle Southern Cement (owned by Boral Limited), and Adelaide Brighton Limited.  ACH does not have spare capacity to supply into Queensland. QCL operates predominantly in Queensland, where its major competitor is Sunstate Cement (a joint venture between Blue Circle Southern Cement and Adelaide Brighton). There is also evidence that during the past five years, imports have played an increasing role in the environments in which the merging firms operate.  In a number of instances, customers have used the threat of importing cement to achieve a greater level of competition between domestic cement suppliers. In respect of slag and flyash, the proposed merger is not likely to lead to a substantial lessening of competition.  ACH is not currently involved in the supply of ground or crushed blast furnace slag.  In respect of flyash, the regions serviced by ACH and QCL's interests do not generally overlap.  Also, there are a number of other firms that acquire flyash from power stations for use in the cement and concrete industries. The ACCC also examined the likely effect on competition of the sale of QCL's Excel quarries and pre-mix concrete operations.  These will be sold to CSR and Pioneer in such a manner that it is unlikley to lead to a lessening of competition in the relevant concrete and quarry markets. Accordingly, the ACCC decided on 19 February 2003 that it would not oppose the proposed transaction.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2631"
+  }
+}

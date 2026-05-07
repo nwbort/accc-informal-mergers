@@ -1,0 +1,31 @@
+{
+  "id": "1456",
+  "title": "Acquirer: Boral Limited; Target: Dunmore Sand and Soil Pty Ltd, Penrose sand quarry operations",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-boral-limited-target-dunmore-sand-and-soil-pty-ltd-penrose-sand-quarry-operations",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20290",
+  "industries": [],
+  "date_completed": "10 October 2004",
+  "date_completed_iso": "2004-10-10T12:00:00Z",
+  "date_commenced": "27 August 2004",
+  "date_commenced_iso": "2004-08-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Boral Limited"
+  ],
+  "targets": [
+    "Dunmore Sand and Soil Pty Ltd, Penrose sand quarry operations"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Boral proposed to acquire the lease, operating assets and buffer land of the Penrose sand quarry, and Dunmore Sand and Soil Pty Ltd.",
+    "Market definition": "For competition assessment purposes, the relevant markets were considered to be the market for the production and distribution of construction sand in the greater-Sydney region",
+    "Competition analysis": "The ACCC decided to not oppose the acquisitions and in reaching its decision it took account of: the current market share of Boral and the likely future market share after the closure of the Penrith Lakes Scheme quarries; demand side substitution possibilities between sand from different sources (in considering this issue the ACCC considered in detail whether there were limited substitution possibilities for certain types of sand, for example fine white sand from Penrose); the strong likelihood that in the future new sources of sand further from Sydney will need to be developed, creating a competitive constraint on Penrose and Dunmore; the existence of independent sand businesses in the Sydney region that are not vertically integrated with concrete manufacturers, including sand businesses close to Penrose and Dunmore; and the competitive constraint provided by manufactured sand and slag-sand (from Port Kembla), although it was recognised that for some end uses these alternative types of sand are of very limited substitutability.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "1411"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "1054",
+  "title": "PMP Limited and McPherson's Limited book printing businesses - proposed joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pmp-limited-and-mcphersons-limited-book-printing-businesses-proposed-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25068",
+  "industries": [
+    "Printing"
+  ],
+  "date_completed": "15 August 2007",
+  "date_completed_iso": "2007-08-15T12:00:00Z",
+  "date_commenced": "9 May 2007",
+  "date_commenced_iso": "2007-05-09T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "PMP Limited"
+  ],
+  "targets": [
+    "McPherson's Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 May 2007",
+      "date_iso": "2007-05-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 May 2007",
+      "date_iso": "2007-05-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 May 2007",
+      "date_iso": "2007-05-28T12:00:00Z",
+      "event": "Former proposed date of 13 June 2007 for announcement of ACCC's findings, amended to allow for consideration of further information."
+    },
+    {
+      "date": "20 Jun 2007",
+      "date_iso": "2007-06-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date of 20 June 2007 for announcement of ACCC's findings amended to allow for consultation on Statement of Issues."
+    },
+    {
+      "date": "4 Jul 2007",
+      "date_iso": "2007-07-04T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Jul 2007",
+      "date_iso": "2007-07-11T12:00:00Z",
+      "event": "Former proposed date of 18 July 2007 for announcement of ACCC's findings, amended to allow for consideration of further information."
+    },
+    {
+      "date": "24 Jul 2007",
+      "date_iso": "2007-07-24T12:00:00Z",
+      "event": "Former proposed date of 1 August 2007 for announcement of ACCC's findings, amended to allow for consideration of further information."
+    },
+    {
+      "date": "15 Aug 2007",
+      "date_iso": "2007-08-15T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed transaction."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "Please see Public Competition Assessment attached below."
+  }
+}

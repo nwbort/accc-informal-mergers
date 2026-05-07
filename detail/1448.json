@@ -1,0 +1,31 @@
+{
+  "id": "1448",
+  "title": "Acquirer: Coca Cola Amatil Ltd; Target: Crusta Fruit Juices Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coca-cola-amatil-ltd-target-crusta-fruit-juices-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20214",
+  "industries": [],
+  "date_completed": "26 October 2004",
+  "date_completed_iso": "2004-10-26T12:00:00Z",
+  "date_commenced": "6 October 2004",
+  "date_commenced_iso": "2004-10-06T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coca Cola Amatil Ltd"
+  ],
+  "targets": [
+    "Crusta Fruit Juices Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of the Crusta fruit juice business by Coca-Cola Amatil Limited",
+    "Market definition": "The relevant market was considered to be the national market for the manufacture and wholesale supply of chilled and ambient fruit drink and fruit juice",
+    "Competition analysis": "While the proposed acquisition raises the same competition issues the ACCC considered in CCA's proposed acquisition of Berri in 2003, the ACCC considered there to be a significant difference between the size and strength of Berri and that of CFJ. The ACCC therefore considered the level of competitive detriment likely to arise from the proposed acquisition to be significantly less than which would have likely resulted from CCA's acquisition of Berri. On this basis, the ACCC formed the view that the proposed acquisition was unlikely to lead to a substantial lessening of competition in the relevant market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2130"
+  }
+}

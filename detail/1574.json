@@ -1,0 +1,31 @@
+{
+  "id": "1574",
+  "title": "Acquirer: Stericorp Ltd; Target: Nuplex Medismart Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-stericorp-ltd-target-nuplex-medismart-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16410",
+  "industries": [],
+  "date_completed": "11 March 2003",
+  "date_completed_iso": "2003-03-11T12:00:00Z",
+  "date_commenced": "30 July 2002",
+  "date_commenced_iso": "2002-07-30T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Stericorp Ltd"
+  ],
+  "targets": [
+    "Nuplex Medismart Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "SteriCorp seeks to acquire the medical waste business of Nuplex.  The companies are large providers of medical waste disposal services in Victoria, the ACT and NSW.",
+    "Market definition": "Medical waste, particularly medical waste treatment.",
+    "Competition analysis": "The Commission decided not to oppose SteriCorp's acquisition of Nuplex.  In reaching this decision the Commission conducted market inquiries with a range of parties including with customers and current and potential competitors of the merged entity. Post-merger, SteriCorp/Nuplex would own three of the four most significant medical waste treatment facilities in Victoria, the ACT and NSW. However market inquiries indicated that autoclave treatment facilities that had the capacity to treat a significant portion of medical waste generated in Victoria, the ACT and NSW could be established for relatively low dollar values.  Environmental approvals for autoclave treatment facilities were said to be less problematic than for alternate technologies such as incineration. It was thus not clear that that the acquisition would result in SteriCorp being able to significantly and sustainably increase prices or profit margins.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "9634"
+  }
+}

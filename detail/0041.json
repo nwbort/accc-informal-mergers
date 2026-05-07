@@ -1,0 +1,64 @@
+{
+  "id": "0041",
+  "title": "Aurizon Operations Limited - Flinders Logistics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aurizon-operations-limited-flinders-logistics-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Stevedoring services"
+  ],
+  "date_completed": "28 November 2024",
+  "date_completed_iso": "2024-11-28T12:00:00Z",
+  "date_commenced": "17 April 2024",
+  "date_commenced_iso": "2024-04-17T12:00:00Z",
+  "total_review_days": 120,
+  "acquirers": [
+    "Aurizon Operations Limited"
+  ],
+  "targets": [
+    "Flinders Logistics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Apr 2024",
+      "date_iso": "2024-04-18T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 May 2024",
+      "date_iso": "2024-05-03T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "11 Jul 2024",
+      "date_iso": "2024-07-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "25 Jul 2024",
+      "date_iso": "2024-07-25T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "6 Sep 2024",
+      "date_iso": "2024-09-06T12:00:00Z",
+      "event": "ACCC is awaiting information from the merger parties. Former proposed date for announcement of findings (26 September 2024) is delayed. ACCC will announce a new proposed decision date in due course."
+    },
+    {
+      "date": "31 Oct 2024",
+      "date_iso": "2024-10-31T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. Timeline recommenced."
+    },
+    {
+      "date": "28 Nov 2024",
+      "date_iso": "2024-11-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aurizon, through its wholly owned subsidiary, Aurizon Operations Limited ( Aurizon ), proposes to acquire Flinders Logistics Pty Ltd ( Flinders Logistics ) and its wholly owned subsidiary Pirie Bulk Pty Ltd ( Pirie Bulk ) under a share sale agreement. Flinders Logistics operates a stevedoring and logistics business for bulk and limited break bulk at Berths 18-20 and 29 at Port Adelaide and at Port Pirie, South Australia. Pirie Bulk provides cargo handling services at Port Pirie. Aurizon is an ASX listed (ASX: AZJ) national freight company which provides rail haulage services in Queensland, South Australia and the Northern Territory, including the Tarcoola to Darwin railway. Aurizon currently provides rail haulage to and from Port Adelaide. Aurizon does not currently provide any haulage services to or from Port Pirie. As part of the proposed acquisition, Aurizon will acquire the assets associated with Flinders Logistics' stevedoring operation and Flinders Logistics will enter into underleases for certain land currently used by Flinders Logistics or Pirie Bulk. Existing common areas (including those required for berth access) will remain common user.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in the market(s) for the supply of: rail haulage services for the import and export of containerised bulk minerals for customers in South Australia and western New South Wales/Victoria; and stevedoring and/or port logistics services for bulk commodities at Berth 29, Port Adelaide. For the purposes of this assessment, it was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "Following the release of the Statement of Issues, the merger parties restructured the transaction to exclude the underlease for the Berth 29 rail pad from the proposed acquisition. Under the new transaction structure, Flinders Port Holdings Pty Ltd (Flinders Ports), the parent company of Flinders Logistics, will retain control of the rail pad and operate it as a common user asset, in accordance with an access policy to be published on Flinders Ports’ website. Third parties will be able to apply for a non-exclusive licence to use the rail pad for the servicing of trains during specified windows and for short-term container storage. The ACCC considered whether, given the new transaction structure, Aurizon would have the ability and incentive to foreclose or frustrate rival rail haulage suppliers. Following the restructure, the ACCC found foreclosure to be unlikely as the rail pad will be owned and managed by Flinders Ports with access provided to third parties to load and unload trains. The ACCC also considered concerns raised by market participants about Flinders Ports’ proposed access policy and licensing arrangements. Given ownership of the relevant asset (the rail pad at Berth 29) would not change with the acquisition, the ACCC found that any concerns flowing from the proposed policy and licensing regime were not directly connected to the acquisition. The ACCC also considered whether Aurizon would have the ability and incentive to foreclose or frustrate rival stevedores or port logistics suppliers for bulk commodities at Berth 29, Port Adelaide. The ACCC found foreclosure was unlikely. Post-acquisition, Flinders Ports will continue to issue stevedoring operating licenses. There will also continue to be a number of areas within the Berth 29 precinct available for redevelopment for stevedoring operations, and stevedores and port logistics suppliers will continue to be able to use a number of common user areas."
+  }
+}

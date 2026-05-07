@@ -1,0 +1,31 @@
+{
+  "id": "1587",
+  "title": "Acquirer: SC Johnson & Sons Inc; Target: Bayer Australia Ltd, Bayer Ag Germany",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sc-johnson-sons-inc-target-bayer-australia-ltd-bayer-ag-germany",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16879",
+  "industries": [],
+  "date_completed": "17 December 2002",
+  "date_completed_iso": "2002-12-17T12:00:00Z",
+  "date_commenced": "24 October 2002",
+  "date_commenced_iso": "2002-10-24T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "SC Johnson & Sons Inc"
+  ],
+  "targets": [
+    "Bayer Australia Ltd, Bayer Ag Germany"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 13 September 2002, SC Johnson & Sons Inc ('SCJ') and Bayer AG signed a confidential Letter of Intent for SCJ to acquire the worldwide household business unit of Bayer's Consumer Care Division which relates to the household insecticides and insect repellents industry. The transaction has been brought about due to Bayer's strategy to divest its household insecticides business and concentrate on its core business, including developing, manufacturing and marketing human and animal health care products and diagnostic systems globally.",
+    "Market definition": "the relevant product markets are the national markets for: 1. household insecticides, which includes the markets for flying insect killers and crawling insect killers; and 2. insect repellents. Household insecticides kill or repel insects in the home whilst repellents are used on the skin to repel insects.",
+    "Competition analysis": "The Commission does not propose to take any action at this stage pursuant to section 50 in relation to the proposed acquisition. In reaching this decision the Commission noted that the influence of the parties' competitors, particularly Reckitt-Benckiser, and the countervailing power of the parties' customers would provide a constraint on the merged entity.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2544"
+  }
+}

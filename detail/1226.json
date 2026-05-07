@@ -1,0 +1,44 @@
+{
+  "id": "1226",
+  "title": "Linfox Transport Australia Pty Ltd - proposed acquisition of FCL Interstate Transport Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/linfox-transport-australia-pty-ltd-proposed-acquisition-of-fcl-interstate-transport-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25344",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "4 September 2006",
+  "date_completed_iso": "2006-09-04T12:00:00Z",
+  "date_commenced": "17 August 2006",
+  "date_commenced_iso": "2006-08-17T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Linfox Transport Australia Pty Ltd"
+  ],
+  "targets": [
+    "FCL Interstate Transport Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 Aug 2006",
+      "date_iso": "2006-08-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "1 Sep 2006",
+      "date_iso": "2006-09-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "4 Sep 2006",
+      "date_iso": "2006-09-04T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australia's largest privately owned transport company, Linfox, proposed to acquire rail freight forwarder FCL.",
+    "Market definition": "The relevant markets in this matter were considered to be: - the market for rail freight forwarding between the eastern states and Perth; and - the market for freight forwarding between the eastern states.",
+    "Competition analysis": "The ACCC noted that the proposed acquisition would lead to increased market concentration in the relevant markets, but did not consider that this would lead to a substantial lessening of competition. In the east-west market, the ACCC noted that the presence of a number of different rail freight forwarders, including the combined Toll/Patrick entity, would be likely to provide a competitive constraint on the merged entity post merger. In the north-south market, the ACCC concluded that the presence of many different rail, road and sea freight forwarders, including the combined Toll/Patrick entity, would be likely to have the effect of providing a competitive constrain on the merged entity. In the north-south market, the ACCC concluded that the presence of many different rail, road and sea freight forwarders, including the combined Toll/Patrick entity, would be likely to provide a competitve constrain on the merged entity."
+  }
+}

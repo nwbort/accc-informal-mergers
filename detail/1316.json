@@ -1,0 +1,25 @@
+{
+  "id": "1316",
+  "title": "Symbion Health - proposed acquisition of Mansfield Pathology",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/symbion-health-proposed-acquisition-of-mansfield-pathology",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23222",
+  "industries": [
+    "Pathology services"
+  ],
+  "date_completed": "10 January 2006",
+  "date_completed_iso": "2006-01-10T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "The ACCC considered the impact of the acquisition on the NSW market for the provision of pathology services (excluding services to public hospital in-patients).",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to substantially lessen competition in the NSW pathology services market having regard to, among other things, the existence of other significant pathology service providers in this market which would act as a competitive constraint against the merged entity.",
+    "Merger type": "Horizontal",
+    "Initiation": "Press"
+  }
+}

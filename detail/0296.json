@@ -1,0 +1,53 @@
+{
+  "id": "0296",
+  "title": "Victoria Quay International RoRo Terminal Pty Ltd - proposed acquisition of Automotive and Ro-Ro Terminal at the Port of Fremantle",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/victoria-quay-international-roro-terminal-pty-ltd-proposed-acquisition-of-automotive-and-ro-ro-terminal-at-the-port-of-fremantle",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56496",
+  "industries": [
+    "Port Terminal"
+  ],
+  "date_completed": "2 April 2015",
+  "date_completed_iso": "2015-04-02T12:00:00Z",
+  "date_commenced": "23 December 2014",
+  "date_commenced_iso": "2014-12-23T12:00:00Z",
+  "total_review_days": 68,
+  "acquirers": [
+    "Victoria Quay International RoRo Terminal Pty Ltd"
+  ],
+  "targets": [
+    "Automotive and Ro-Ro Terminal at the Port of Fremantle"
+  ],
+  "timeline": [
+    {
+      "date": "23 Dec 2014",
+      "date_iso": "2014-12-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Feb 2015",
+      "date_iso": "2015-02-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Feb 2015",
+      "date_iso": "2015-02-16T12:00:00Z",
+      "event": "Closing date for further submissions from interested parties regarding draft key performance indicators."
+    },
+    {
+      "date": "20 Feb 2015",
+      "date_iso": "2015-02-20T12:00:00Z",
+      "event": "Former proposed decision date of 26 February delayed at the request of VQIRT."
+    },
+    {
+      "date": "2 Apr 2015",
+      "date_iso": "2015-04-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

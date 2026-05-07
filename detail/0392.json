@@ -1,0 +1,44 @@
+{
+  "id": "0392",
+  "title": "Dnata - proposed acquisition of Broadlex Air Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dnata-proposed-acquisition-of-broadlex-air-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50647",
+  "industries": [
+    "Aircraft cleaning services"
+  ],
+  "date_completed": "10 April 2013",
+  "date_completed_iso": "2013-04-10T12:00:00Z",
+  "date_commenced": "6 March 2013",
+  "date_commenced_iso": "2013-03-06T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Dnata"
+  ],
+  "targets": [
+    "Broadlex Air Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Mar 2013",
+      "date_iso": "2013-03-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Mar 2013",
+      "date_iso": "2013-03-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Apr 2013",
+      "date_iso": "2013-04-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "dnata, which forms part of the Emirates Group, proposed to acquire the aircraft cabin cleaning business of Broadlex Air Services Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of separate markets for the supply of aircraft cabin cleaning services in Sydney, Melbourne and Brisbane.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets given the lack of overlap between the operations of the merger parties. Additionally, the ACCC did not consider that barriers to entry were substantial for the supply of aircraft cabin cleaning services such that the merged entity would likely be able to successfully foreclose the supply of cabin cleaning services to rival airline operators."
+  }
+}

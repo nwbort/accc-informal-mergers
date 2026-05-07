@@ -1,0 +1,48 @@
+{
+  "id": "0244",
+  "title": "Quadrant Fund 5 - proposed acquisition of Fitness First Asia Pacific Group P/L",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/quadrant-fund-5-proposed-acquisition-of-fitness-first-asia-pacific-group-pl",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60884",
+  "industries": [
+    "Health and Fitness Centres and Gyms Operation"
+  ],
+  "date_completed": "1 December 2016",
+  "date_completed_iso": "2016-12-01T12:00:00Z",
+  "date_commenced": "20 October 2016",
+  "date_commenced_iso": "2016-10-20T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Quadrant Fund 5"
+  ],
+  "targets": [
+    "Fitness First Asia Pacific Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2016",
+      "date_iso": "2016-10-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 Nov 2016",
+      "date_iso": "2016-11-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Nov 2016",
+      "date_iso": "2016-11-23T12:00:00Z",
+      "event": "Former proposed decision date of 15 December 2016 brought forward."
+    },
+    {
+      "date": "1 Dec 2016",
+      "date_iso": "2016-12-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered that in the supply of gym services, competition may occur at more than one geographic level. While gyms compete within local areas to attract members, chains of gyms that can offer membership to a network of clubs in multiple locations may also compete with other chains of gyms across a broader area (such as across a city, or across a State). In light of this, the ACCC primarily considered the effects of the proposed acquisition on: - local markets for the supply of gym services (including full service, low cost and possibly specialist (such as F45 and Crossfit) gyms)) surrounding each of the target Fitness First gyms - broader geographic markets for the supply of gym services by gym chains. The ACCC also considered markets for the acquisition of various goods and services by gyms such as gym equipment, branded choreographed exercise classes and the services of personal trainers.",
+    "Competition analysis": "The ACCC determined that the proposed acquisition would not raise competition concerns in any of the markets potentially affected by the proposed acquisition. Some market participants raised concerns about the combination of Fitness First and Goodlife, which are the two largest chains of 'full service' gyms in Australia. Full service gyms typically offer a range of weight and cardio equipment, as well as group training classes. However, the ACCC determined that the combined firm would continue to face competition from a number of alternatives in the form of other full service gyms (where they are available), low cost gyms such as Anytime Fitness and, at least for some customers, a range of specialist gym providers such as F45 and Crossfit. The ACCC took into account the dynamic changes and high churn rates affecting the gym industry in recent years. A number of new suppliers, including overseas operators, have entered the industry and experienced significant growth in a short space of time. While some customers may not consider that there are substitutes for full service gyms, the ACCC determined that many customers consider other gym options to be substitutes. The ACCC did not consider it likely that full service gyms could easily price discriminate against those customers that do not consider there to be substitutes for a full service gym. The ACCC also considered that other suppliers of fitness services outside the market for the supply of gym services, such as bootcamps, or specialist studios, such as pilates, imposed a limited level of competitive constraint on full service gyms for certain customer groups. In relation to the acquisition markets, the ACCC determined that despite the increased scale of the merged firm it would still constitute a relatively small proportion of total market demand for the various goods and services acquired by gyms."
+  }
+}

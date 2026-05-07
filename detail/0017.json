@@ -1,0 +1,44 @@
+{
+  "id": "0017",
+  "title": "Omnicom Group Inc. - The Interpublic Group of Companies Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/omnicom-group-inc-the-interpublic-group-of-companies-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Advertising Services"
+  ],
+  "date_completed": "17 July 2025",
+  "date_completed_iso": "2025-07-17T12:00:00Z",
+  "date_commenced": "13 May 2025",
+  "date_commenced_iso": "2025-05-13T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Omnicom Group Inc."
+  ],
+  "targets": [
+    "The Interpublic Group of Companies Inc."
+  ],
+  "timeline": [
+    {
+      "date": "13 May 2025",
+      "date_iso": "2025-05-13T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 May 2025",
+      "date_iso": "2025-05-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Jul 2025",
+      "date_iso": "2025-07-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 8 December 2024 Omnicom Group Inc. ( Omnicom ) entered into an Agreement and Plan of Merger with The Interpublic Group of Companies, Inc. ( Interpublic ) (the proposed acquisition ). Omnicom and Interpublic are both US-based holding companies of advertising, marketing and communication services. Both companies are listed on the NYSE and are large multinational suppliers of advertising, media and communications services, including media buying and marketing services. In Australia, Omnicom's key brands include DDB, TBWA, OMD Worldwide, PHD Media, Clemenger Group and Hearts & Science. Interpublic’s key brands in Australia include IPG Mediabrands, Universal McCann (UM), Initiative, 303 MullenLowe and Octagon. Media Buying Services Media buying services involve the planning and purchasing of advertising space from media owners across various media types, including digital platforms and more traditional media advertising, such as television, radio, print, and outdoor platforms (billboards, public transit, etc), on behalf of advertisers. Marketing and Communications Services Marketing and communications services include the creation of advertising material and determining what and how advertising is communicated. Marketing and communication services include design, consumer insights, consultancy, public relations, direct marketing, event management, brand identity and customer relationship management. Providers may offer the entire range of marketing and communication services, or they may specialise in a specific type of marketing or creative service.",
+    "Market definition": "The ACCC considered the likely effect of the proposed acquisition on competition in the supply of media buying services and marketing and communications services in Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any relevant market in Australia. The ACCC’s investigation focused on the closeness of competition between Omnicom and Interpublic in the supply of media buying services and marketing and communications services in Australia. The ACCC found that while the proposed acquisition would result in an increase in the parties’ combined market share, the remaining advertising, media and communications holding companies, including WPP, Publicis and Dentsu, will continue to compete with Omnicom after the acquisition, as well as independent providers of these services."
+  }
+}

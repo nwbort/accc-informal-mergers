@@ -1,0 +1,31 @@
+{
+  "id": "1623",
+  "title": "Acquirer: Consolidated Extrusions Pty Ltd; Target: MCK Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-consolidated-extrusions-pty-ltd-target-mck-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15951",
+  "industries": [],
+  "date_completed": "13 August 2002",
+  "date_completed_iso": "2002-08-13T12:00:00Z",
+  "date_commenced": "9 May 2002",
+  "date_commenced_iso": "2002-05-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Consolidated Extrusions Pty Ltd"
+  ],
+  "targets": [
+    "MCK Group Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of extrusions business from MCK Group Limited by Consolidated Extrusions Pty Limited (Conex).",
+    "Market definition": "National market for the manufacture and supply of brass, copper and copper alloy extrusions",
+    "Competition analysis": "On 13 August 2002 the Commission considered that the proposed acquisition is unlikely to substantially lessen competition in the national market for the manufacture and supply of brass, copper and copper alloy extrusions for the following reasons: the Australian market is in structural decline; the ability of some large customers to import extrusions directly from overseas and for existing importers to expand their distribution of small lots of imported extrusions to domestic customers; a constraint on the supply of extrusions by Conex arising from the ability of some of Conex's customers to import components rather than manufacture components from locally sourced extrusions; downstream competition between Conex's customers and imports of finished products; and the ability of other domestic manufacturers to utilise their existing capacity to increase production and expand sales to external customers in response to any SSNIP by the merged firm. Accordingly, the Commission did not intervene in the proposed acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2711"
+  }
+}

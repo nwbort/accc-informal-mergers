@@ -1,0 +1,39 @@
+{
+  "id": "0704",
+  "title": "Proposed sale of licence and/or assets relating to NSW Lotteries",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-sale-of-licence-andor-assets-relating-to-nsw-lotteries",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37335",
+  "industries": [
+    "Lotteries"
+  ],
+  "date_completed": "30 September 2009",
+  "date_completed_iso": "2009-09-30T12:00:00Z",
+  "date_commenced": "29 July 2009",
+  "date_commenced_iso": "2009-07-29T12:00:00Z",
+  "total_review_days": 46,
+  "acquirers": [
+    "Various acquirers"
+  ],
+  "targets": [
+    "NSW Lotteries"
+  ],
+  "timeline": [
+    {
+      "date": "29 Apr 2009",
+      "date_iso": "2009-04-29T12:00:00Z",
+      "event": "ACCC commenced public monitoring of the proposal."
+    },
+    {
+      "date": "30 Sep 2009",
+      "date_iso": "2009-09-30T12:00:00Z",
+      "event": "ACCC withdrew its consideration of the proposal."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The NSW Government proposed to licence a private operator to conduct public lotteries in New South Wales under the Public Lotteries Act 1996. The ACCC decided not to conduct a merger review of this proposal, on the basis that the initial grant of either an operator or product licence in accordance with the Public Lotteries Act 1996 was not an acquisition under s.50 of the TPA. This view is limited to the initial grant of the operator or product licences, and does not extend to the transfer of a licence from one operator to another",
+    "Market definition": "See summary above.",
+    "Competition analysis": "See summary above."
+  }
+}

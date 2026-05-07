@@ -1,0 +1,78 @@
+{
+  "id": "0205",
+  "title": "Cleanaway Waste Management Limited - proposed acquisition of Tox Free Solutions Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cleanaway-waste-management-limited-proposed-acquisition-of-tox-free-solutions-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63443",
+  "industries": [
+    "Waste management"
+  ],
+  "date_completed": "26 April 2018",
+  "date_completed_iso": "2018-04-26T12:00:00Z",
+  "date_commenced": "11 January 2018",
+  "date_commenced_iso": "2018-01-11T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "Cleanaway Waste Management Limited"
+  ],
+  "targets": [
+    "Tox Free Solutions Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jan 2018",
+      "date_iso": "2018-01-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Jan 2018",
+      "date_iso": "2018-01-18T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "2 Feb 2018",
+      "date_iso": "2018-02-02T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "9 Feb 2018",
+      "date_iso": "2018-02-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Mar 2018",
+      "date_iso": "2018-03-09T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "19 Mar 2018",
+      "date_iso": "2018-03-19T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "23 Mar 2018",
+      "date_iso": "2018-03-23T12:00:00Z",
+      "event": "Proposed decision date of 29 March 2018 delayed to allow the ACCC time to consider additional information."
+    },
+    {
+      "date": "28 Mar 2018",
+      "date_iso": "2018-03-28T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "5 Apr 2018",
+      "date_iso": "2018-04-05T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "26 Apr 2018",
+      "date_iso": "2018-04-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not reach concluded views on market definition, but in assessing the proposed acquisition, the ACCC considered the following potential markets: - Local council area markets for the collection of municipal waste. - Regional or local council area markets for the collection of commercial and industrial (C&I) and/or construction and demolition (C&D) waste. - Regional markets for solid waste post-collection services, including services provided at landfills, transfer stations and/or material recovery facilities. - Regional markets for the collection of non-hazardous liquid waste, including drill muds, biosolids and/or wash and oily waters. - Regional markets for processing non-hazardous liquid waste. - State-based markets for the collection of hazardous waste. - An eastern seaboard or state-based market for processing hazardous waste or sub-categories of hazardous waste based on EPA licensing codes for hazardous waste. - Regional or local markets for the collection of medical waste (excluding used sharps collection). - Regional markets for processing medical waste. - Regional or local metropolitan markets for each of the various types of industrial services. - Regional markets for the collection of used lubricating oil (ULO). - Regional markets for processing and re-refining ULO. The ACCC also considered the broader impact of the proposed acquisition across multiple waste streams and geographic areas, as well as the effect of increased vertical integration resulting from the proposed acquisition.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to meet the threshold of a substantial lessening of competition in any relevant market, although the proposed acquisition may have the effect of lessening competition in some waste streams. In reaching this conclusion, the ACCC considered that a combined Cleanaway-Tox Free is generally likely to be constrained by the availability of existing alternative suppliers in most relevant markets. Additionally, for waste collection and industrial services, the ACCC considered future entry or expansion by existing players in nearby or related markets will likely act as a competitive constraint. For further detail, see the attached competition analysis document."
+  }
+}

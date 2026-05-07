@@ -1,0 +1,54 @@
+{
+  "id": "0246",
+  "title": "Tabcorp Holdings Limited - proposed acquisition of Intecq Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tabcorp-holdings-limited-proposed-acquisition-of-intecq-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60645",
+  "industries": [
+    "Gaming"
+  ],
+  "date_completed": "3 November 2016",
+  "date_completed_iso": "2016-11-03T12:00:00Z",
+  "date_commenced": "21 September 2016",
+  "date_commenced_iso": "2016-09-21T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Tabcorp Holdings Limited"
+  ],
+  "targets": [
+    "Intecq Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Sep 2016",
+      "date_iso": "2016-09-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "6 Oct 2016",
+      "date_iso": "2016-10-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "12 Oct 2016",
+      "date_iso": "2016-10-12T12:00:00Z",
+      "event": "ACCC requested further information from Tabcorp."
+    },
+    {
+      "date": "26 Oct 2016",
+      "date_iso": "2016-10-26T12:00:00Z",
+      "event": "ACCC received further information from Tabcorp."
+    },
+    {
+      "date": "3 Nov 2016",
+      "date_iso": "2016-11-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Tabcorp Holdings Limited proposed to acquire Intecq Limited.",
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition in the markets for the supply of gaming and promotional management systems in each of New South Wales and Victoria.",
+    "Competition analysis": "The ACCC noted that, because Tabcorp currently only resupplies gaming and promotional management systems through its business division Tabcorp Gaming Solutions (TGS), most market participants do not consider that Tabcorp and Intecq compete closely.  Intecq and TGS have different operating models and Intecq and TGS do not normally compete to supply the same venues. The ACCC considered that, following the proposed acquisition, Tabcorp would continue to be constrained by the presence of existing suppliers of gaming and promotional management systems in each of New South Wales and Victoria. The ACCC also recognised that small venues may also hold a degree of countervailing power due to their ability to self-manage their own gaming floor, particularly in New South Wales. The ACCC considered whether Tabcorp would be able to misuse venues' commercially sensitive data and information after the acquisition in a way that would damage competition. The ACCC concluded that this was unlikely due to regulatory and contractual restrictions, as well as the competitive constraints outlined above. The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant markets. The ACCC is aware of the proposed transaction between Tabcorp and Tatts. The ACCC will commence a review of that transaction shortly. Given there are various regulatory clearances required, including ACCC clearance or authorisation from the Tribunal, the ACCC did not take into account the Tabcorp-Tatts transaction in considering the Tabcorp-Intecq matter."
+  }
+}

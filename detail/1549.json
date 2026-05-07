@@ -1,0 +1,31 @@
+{
+  "id": "1549",
+  "title": "Acquirer: Cashcard Australia Ltd; Target: Direct Cash Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cashcard-australia-ltd-target-direct-cash-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17481",
+  "industries": [],
+  "date_completed": "13 June 2003",
+  "date_completed_iso": "2003-06-13T12:00:00Z",
+  "date_commenced": "7 March 2003",
+  "date_commenced_iso": "2003-03-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Cashcard Australia Ltd"
+  ],
+  "targets": [
+    "Direct Cash Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Direct Cash Pty Ltd by Cashcard Australia Ltd",
+    "Market definition": "The relevant market was considered to be the national market for the supply of automated teller machines (ATMs) to merchants.",
+    "Competition analysis": "The Commission considered that banks and other financial institutions, with the exception of St George, did not appear to provide a competitive constraint on independent ATM deployers generally and were unlikely to do so going forward. Although the proposed acquisition would cross the Commission's concentration threshold and remove the second largest independent ATM deployer from the market, the Commission considered that barriers to entry and expansion appeared relatively low, though were increasing with the general industry move towards longer term contracts. Further, the Commission  noted that there would remain a number of alternative ATM deployers to whom merchants could turn. On this basis, the Commission considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market and decided to not intervene.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2841"
+  }
+}

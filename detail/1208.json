@@ -1,0 +1,43 @@
+{
+  "id": "1208",
+  "title": "Wesfarmers Limited - proposed acquisition of OAMPS Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/wesfarmers-limited-proposed-acquisition-of-oamps-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25458",
+  "industries": [
+    "Insurance services"
+  ],
+  "date_completed": "9 October 2006",
+  "date_completed_iso": "2006-10-09T12:00:00Z",
+  "date_commenced": "18 September 2006",
+  "date_commenced_iso": "2006-09-18T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Wesfarmers Limited"
+  ],
+  "targets": [
+    "OAMPS Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Sep 2006",
+      "date_iso": "2006-09-18T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "29 Sep 2006",
+      "date_iso": "2006-09-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Oct 2006",
+      "date_iso": "2006-10-09T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The national market for general insurance products, as well as the supply of commercial motor vehicle insurance.",
+    "Competition analysis": "On 9 October 2006 the ACCC decided not to oppose the proposed acquisition of OAMPS Limited by Wesfarmers Limited.  It considered that the proposed acquisition of OAMPS' insurance underwriting business (Australian International Insurance Limited) is unlikely to substantially lessen competition in the national markets for general insurance products because the proposed acquisition is unlikely to cause significant consolidation within the market, and the merged entity would continue to face significant competition from a number of alternative general insurers. Further, the ACCC considered that the proposed acquisition of OAMPS' insurance intermediary businesses (OAMPS Insurance Brokers Limited and Australian Underwriting Services Pty Ltd) is unlikely to raise vertical integration concerns because insurers have other distribution channels by which they could bypass any attempt by the merged entity to significantly foreclose access to the supply of insurance intermediary services."
+  }
+}

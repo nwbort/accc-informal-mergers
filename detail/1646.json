@@ -1,0 +1,30 @@
+{
+  "id": "1646",
+  "title": "Acquirer: Deutsche Asset Management; Target: Zurich Scudder Investments Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-deutsche-asset-management-target-zurich-scudder-investments-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15804",
+  "industries": [],
+  "date_completed": "15 May 2002",
+  "date_completed_iso": "2002-05-15T12:00:00Z",
+  "date_commenced": "3 April 2002",
+  "date_commenced_iso": "2002-04-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Deutsche Asset Management"
+  ],
+  "targets": [
+    "Zurich Scudder Investments Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "See information provided in Competition Analysis",
+    "Market definition": "Funds managment",
+    "Competition analysis": "The Commission concluded that the combined market share of the Asset Management market held by Deutsche Bank post-merger would not cross any of the Commission's thresholds for the exercise of market power.  The acquisition is unlikely to result in a substantial lessening of competition.",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7519"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0115",
+  "title": "JBS Australia Pty Limited  - Rivalea Holdings Pty Ltd and Oxdale Dairy Enterprise Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jbs-australia-pty-limited-rivalea-holdings-pty-ltd-and-oxdale-dairy-enterprise-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Slaughtering and processing of pork"
+  ],
+  "date_completed": "2 December 2021",
+  "date_completed_iso": "2021-12-02T12:00:00Z",
+  "date_commenced": "25 June 2021",
+  "date_commenced_iso": "2021-06-25T12:00:00Z",
+  "total_review_days": 113,
+  "acquirers": [
+    "JBS Australia Pty Limited"
+  ],
+  "targets": [
+    "Rivalea Holdings Pty Ltd and Oxdale Dairy Enterprise Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jun 2021",
+      "date_iso": "2021-06-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jul 2021",
+      "date_iso": "2021-07-16T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "16 Sep 2021",
+      "date_iso": "2021-09-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Sep 2021",
+      "date_iso": "2021-09-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "30 Nov 2021",
+      "date_iso": "2021-11-30T12:00:00Z",
+      "event": "Former provisional decision date of 9 December 2021 brought forward to 2 December 2021."
+    },
+    {
+      "date": "2 Dec 2021",
+      "date_iso": "2021-12-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JBS Australia Pty Ltd ( JBS ) proposes to acquire Rivalea Holdings Pty Ltd and Oxdale Dairy Enterprise Pty Ltd ( Rivalea ). JBS is Australia’s largest meat and food processing company. Relevant to the proposed acquisition, it has a pig abattoir and processing facility in South Australia. It also produces and supplies pork smallgoods under the Primo brand and fresh pork under various brands. Rivalea is the majority owner of two pig abattoirs in Corowa and Laverton. Rivalea also produces live pigs and supplies fresh pork and value-added pork to wholesalers and retailers.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the supply of: service kill services to third parties, including producers, wholesalers and smallgoods manufacturers; and fresh pork and value-added pork to wholesalers, retailers and smallgoods manufacturers.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any market. Access to service kills A focus of the investigation was on whether post acquisition, JBS would have the ability and incentive to frustrate or foreclose access to third party service kills, resulting in a substantial lessening of competition in downstream markets that JBS competes in. This is because Diamond Valley Pork in Laverton (Vic) is an asset of significant importance in the pork supply chain and currently operates as a majority third party service kill abattoir. The ACCC found that JBS would likely have the ability to frustrate or foreclose access to third party service kills. However, the ACCC found that JBS would have a limited ability to profit overall from increasing the cost of pork by restricting the supply or increasing the cost of service kill to its wholesaling and smallgoods rivals. Rather, JBS would have a commercial incentive to continue processing a similar number of third-party pigs through Diamond Valley Pork. The ACCC therefore concluded that JBS would be unlikely to frustrate or foreclose access to service kills at Diamond Valley Pork. Access to fresh pork The ACCC also considered whether the proposed acquisition would affect access to fresh pork for JBS’ wholesaling and smallgoods rivals. The ACCC found that fresh pork can be transported significant distances, and that post-acquisition, it will be possible to acquire fresh pork from alternative suppliers, limiting JBS’ ability to foreclose access to fresh pork and, similarly, to profit from restricting supply. The ACCC also found that most smallgoods consumed in Australia are made with imported pork. Fresh domestic pork is only required for a limited number of smallgoods products, further reducing the incentive to limit access to fresh pork. The ACCC therefore concluded that JBS would be unlikely to frustrate or foreclose access to fresh pork for wholesalers and smallgoods producers."
+  }
+}

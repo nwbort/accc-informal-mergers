@@ -1,0 +1,54 @@
+{
+  "id": "0121",
+  "title": "Microsoft Corporation - Nuance Communications Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/microsoft-corporation-nuance-communications-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Voice recognition technology"
+  ],
+  "date_completed": "7 October 2021",
+  "date_completed_iso": "2021-10-07T12:00:00Z",
+  "date_commenced": "11 August 2021",
+  "date_commenced_iso": "2021-08-11T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Microsoft Corporation"
+  ],
+  "targets": [
+    "Nuance Communications, Inc."
+  ],
+  "timeline": [
+    {
+      "date": "12 Aug 2021",
+      "date_iso": "2021-08-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "27 Aug 2021",
+      "date_iso": "2021-08-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "5 Oct 2021",
+      "date_iso": "2021-10-05T12:00:00Z",
+      "event": "Former proposed decision date (21 October) brought forward to 7 October."
+    },
+    {
+      "date": "7 Oct 2021",
+      "date_iso": "2021-10-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "Microsoft Corporation ( Microsoft ) proposes to acquire Nuance Communications, Inc. ( Nuance ). Both parties supply digital software to healthcare and enterprise customers. Microsoft supplies a range of products in the digital productivity, intelligent cloud and personal computing segments and Nuance provides speech recognition, transcription and digital customer engagement products in Australia.",
+    "Market definition": "The ACCC mainly considered the effect of the proposed acquisition on the primary markets that Nuance serves, being the supply of: transcription software to healthcare customers; and customer engagement solutions, including digital engagement, voice engagement and voice biometrics solutions. The ACCC also considered potential impacts of the proposed acquisition on competition in the supply of the various software suites and services that Microsoft supplies, including customer relationship management, cloud computing, videoconferencing and others. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to have the effect or likely effect of substantially lessening competition. Healthcare transcription software While Nuance is the leading provider of this software, the ACCC found that Microsoft does not currently compete in this market, and appears unlikely to become a strong future competitor to Nuance. In addition, the ACCC found there are alternative competitors and overseas companies that may enter the Australian market in the future. Customer engagement solutions The ACCC determined that there are a number of alternative providers to Nuance in the supply of each of digital engagement, voice engagement and voice biometrics. Microsoft does not offer any end-user products in these markets, and does not compete closely with Nuance. Vertical and conglomerate effects The ACCC found that Microsoft would not have an incentive to restrict or degrade access to its suite of technology services post-acquisition. Nuance’s competitors can switch to a number of alternative providers in customer relationship management, cloud services, internet browsing and videoconferencing software. While Microsoft is a market leader in personal productivity software, Nuance’s competitors do not rely on integration with Microsoft’s Office products to compete effectively. The ACCC also found that Microsoft would not have an incentive to restrict or degrade access to Nuance’s products, because potential customers of Microsoft’s competitors would not consider integration with Nuance an important offering."
+  }
+}

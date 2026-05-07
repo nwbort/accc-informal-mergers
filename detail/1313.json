@@ -1,0 +1,23 @@
+{
+  "id": "1313",
+  "title": "Ruralco Holdings Limited - proposed acquisition of Roberts Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ruralco-holdings-limited-proposed-acquisition-of-roberts-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23467",
+  "industries": [
+    "Wool and livestock, real estate, rural merchandise"
+  ],
+  "date_completed": "2 February 2006",
+  "date_completed_iso": "2006-02-02T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "The primary market the ACCC considered was the market for the retailing of rural merchandise in Tasmania.",
+    "Competition analysis": "Roberts does not operate any rural merchandising business outside of Tasmania and Ruralco does not operate any corporate owned businesses in Tasmania.  Accordingly, given that no area of overlap exists, the ACCC considered that no substantial lessening of competition was likely to occur in any regional or local market in Tasmania."
+  }
+}

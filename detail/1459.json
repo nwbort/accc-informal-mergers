@@ -1,0 +1,30 @@
+{
+  "id": "1459",
+  "title": "Acquirer: Emwest Products Pty Ltd, Bayard Capital Partners; Target: Landis & Gyr Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-emwest-products-pty-ltd-bayard-capital-partners-target-landis-gyr-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19912",
+  "industries": [],
+  "date_completed": "21 September 2004",
+  "date_completed_iso": "2004-09-21T12:00:00Z",
+  "date_commenced": "5 July 2004",
+  "date_commenced_iso": "2004-07-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Emwest Products Pty Ltd, Bayard Capital Partners"
+  ],
+  "targets": [
+    "Landis & Gyr Group Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Bayard Capital is proposing to acquire the global business of Landis & Gyr, including the Landis & Gyr Australian subsidiary.  The headquarters for Landis & Gyr is Switzerland, but it has operations in approximately 26 countries across Europe, North and South America and the Asia/Pacific region.",
+    "Market definition": "For the purpose of competition assessment, the relevant market was considered to be the market for the supply of electricity meters in Australia, including sub-markets for various meter types.",
+    "Competition analysis": "The ACCC noted that the influence of the parties' competitors, the potential for entry and the countervailing power of the parties' customers appear sufficient to constrain the merged entity and prevent any substantial lessening of competition. Accordingly, the ACCC does not propose to take any action at this stage pursuant to section 50 in relation to the proposed acquisition. In reaching this conclusion the ACCC noted that although the merged entity will have a very high share of the Australian market for electricity meters, it is likely to be constrained by imports.  Further, market inquiries suggest that many customers (including large electricity companies) have the incentive and the countervailing power necessary to resist any attempt by the merged entity to exploit its high market share.",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2839"
+  }
+}

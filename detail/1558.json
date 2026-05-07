@@ -1,0 +1,32 @@
+{
+  "id": "1558",
+  "title": "Acquirer: Pfizer Pty Ltd; Target: Pharmacia Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pfizer-pty-ltd-target-pharmacia-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16904",
+  "industries": [],
+  "date_completed": "21 May 2003",
+  "date_completed_iso": "2003-05-21T12:00:00Z",
+  "date_commenced": "29 October 2002",
+  "date_commenced_iso": "2002-10-29T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pfizer Pty Ltd"
+  ],
+  "targets": [
+    "Pharmacia Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Pfizer Inc proposed to acquire Pharmacia Corporation.  In Australia this will result in a merger between Pfizer Pty Limited and Pharmacia Australia Pty Limited and Pharmacia (Perth) Pty Limited.",
+    "Market definition": "The Commission analysed the impact of the merger on competition in a range of markets for human pharmaceutical products and products used for animal healthcare. In particular, the Commission focused on the market for cattle progesterone delivery devices (which are used by cattle breeders, veterinarians and farmers for the management of cattle reproduction) and the market for human erectile dysfunction treatments.",
+    "Competition analysis": "The Commission was concerned that the worldwide merger may result in a substantial lessening of competition in Australia in relation to cattle progesterone products.  In this context, the Commission accepted a court-enforceable  undertaking from Pfizer Pty Ltd and Pfizer Overseas Inc to divest its CueMate product and business to a viable competitor, in order to address these concerns. The undertaking, which requires Pfizer to divest its CueMate product, aims to preserve competition between two key products used for the treatment of non-cycling cows and synchronisation of the mating of multiple cows. Whilst the Commission also had concerns in relation to the erectile dysfunction market the undertakings which have been given by the parties to the European Commission are considered sufficient to address the concerns for the Australian market. This involves the transfer of two products Pharmacia has in development: the dopamine D2 receptor (PNU-142774E) and Apomorphine hydrochloride nasal spray, which is being developed by Pharmacia in cooperation with Nastech Pharmaceutical Company, Inc.",
+    "Resolution": "Undertakings",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2543"
+  }
+}

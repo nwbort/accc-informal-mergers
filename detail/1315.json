@@ -1,0 +1,25 @@
+{
+  "id": "1315",
+  "title": "DP World (Ports, Customs and Free Zone Corporation) - proposed acquisition of P&O Ports (the Peninsular and Oriental Steam Navigation Company)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dp-world-ports-customs-and-free-zone-corporation-proposed-acquisition-of-po-ports-the-peninsular-and-oriental-steam-navigation-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23202",
+  "industries": [
+    "Ports"
+  ],
+  "date_completed": "18 January 2006",
+  "date_completed_iso": "2006-01-18T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "DP World (Ports, Customs and Free Zone Corporation) owns, operates and manages container terminals and other port infrastructure around the world. DP World, through DPI Terminals, has a presence in Adelaide. P&O Ports (the Peninsular and Oriental Steam Navigation Company) is a global container terminal and stevedore services provider with a presence in 19 countries, operating 29 container terminals and logistics operations at over 100 ports worldwide. P&O Ports' Australian subsidiaries lease, operate and manage terminals in Brisbane, Sydney, Melbourne and Fremantle.",
+    "Market definition": "The relevant market for the assessment of the proposed acquisition was considered to be the markets for the supply of stevedoring services in each of Melbourne, Adelaide and Fremantle.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not result in a substantial lessening of competition in the relevant markets given the limited competitive overlap in the operations of DP World and P&O Ports in Australia.",
+    "Initiation": "Parties"
+  }
+}

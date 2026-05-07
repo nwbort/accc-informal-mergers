@@ -1,0 +1,31 @@
+{
+  "id": "1676",
+  "title": "Acquirer: Black Cabs Combined Ltd; Target: North Suburban Taxis Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-black-cabs-combined-ltd-target-north-suburban-taxis-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15124",
+  "industries": [],
+  "date_completed": "7 March 2002",
+  "date_completed_iso": "2002-03-07T12:00:00Z",
+  "date_commenced": "28 November 2001",
+  "date_commenced_iso": "2001-11-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Black Cabs Combined Ltd"
+  ],
+  "targets": [
+    "North Suburban Taxis Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "North Suburban has approached Black Cabs proposing that the business of North Suburban be purchased by Black Cabs.  The offer has been accepted by Black Cabs.",
+    "Market definition": "1. Pre-booked taxi services to the public in the Melbourne metropolitan area; 2. Radio booking services to taxi operators in the Melbourne metropolitan area; and 3. Taxi depot services in the Melbourne metropolitan area.",
+    "Competition analysis": "Both parties are involved in the running of taxi depots in metropolitan Melbourne. North Suburban taxis primarily service the northern suburbs of Melbourne, whilst Black Cabs primarily services the south-eastern suburbs of Melbourne. Black Cabs provides radio network services to North Suburban affiliated drivers under a bureau services agreement arrangement. The market concentration in relation to the provision of radio booking services to taxi operators is unchanged as Black Cabs provides radio booking services for North Suburban under a bureau services agreement. Whilst the Commission's competition thresholds will be crossed in relation to both the provision of taxi booking services and the provision of pre-booked services to the public in the Melbourne metropolitan area, the Commission noted that the parties competed only to a limited extent. Furthermore, the Commission considered that the level of regulation applying to the taxi industry - both in relation to fare prices and quality standards - and the considerable market share held by the largest competitor would act as competitive constraints preventing the merged firm from increasing prices or reducing the quality of its services.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "6123"
+  }
+}

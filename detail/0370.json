@@ -1,0 +1,44 @@
+{
+  "id": "0370",
+  "title": "Hussmann Corporation - proposed acquisition of Austral Refrigeration Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hussmann-corporation-proposed-acquisition-of-austral-refrigeration-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51742",
+  "industries": [
+    "Commercial refrigeration services"
+  ],
+  "date_completed": "5 September 2013",
+  "date_completed_iso": "2013-09-05T12:00:00Z",
+  "date_commenced": "18 July 2013",
+  "date_commenced_iso": "2013-07-18T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Hussmann Corporation"
+  ],
+  "targets": [
+    "Austral Refrigeration Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jul 2013",
+      "date_iso": "2013-07-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Aug 2013",
+      "date_iso": "2013-08-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Sep 2013",
+      "date_iso": "2013-09-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Hussmann proposed to acquire Austral's commercial refrigeration business. As part of the transaction, Woolworths proposed to acquire Hussmann's Australian maintenance and service business assets.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: i. The national market for the manufacture and supply of remote refrigerated display cases; ii. The national market for the design and installation of remote refrigeration systems; and iii. Region-based markets for the maintenance of remote commercial refrigeration systems.",
+    "Competition analysis": "The ACCC considered that the proposed acquisitions were unlikely to substantially lessen competition in any relevant market. Factors informing this view included: i. in each relevant market, a number of actual and potential alternatives existed that would continue to competitively constrain the merged entities; and ii. barriers to entry and expansion did not appear significant."
+  }
+}

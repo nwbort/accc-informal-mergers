@@ -1,0 +1,29 @@
+{
+  "id": "1271",
+  "title": "AGL - proposed acquisition of Alinta Ltd.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-proposed-acquisition-of-alinta-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24017",
+  "industries": [
+    "Energy generation, transmission, retail."
+  ],
+  "date_completed": "15 June 2006",
+  "date_completed_iso": "2006-06-15T12:00:00Z",
+  "date_commenced": "21 February 2006",
+  "date_commenced_iso": "2006-02-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The ACCC has accepted undertakings in relation to this acquisition proposal.",
+    "Market definition": "Please see Public Competition Assessment.",
+    "Competition analysis": "Please see Public Competition Assessment.",
+    "Resolution": "Undertakings accepted",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties",
+    "Public competition assessment": "Public competition assessment ( PDF 221.55 KB )",
+    "Undertakings": "Undertakings ( PDF 165.17 KB )"
+  }
+}

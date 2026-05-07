@@ -1,0 +1,25 @@
+{
+  "id": "1414",
+  "title": "Pacific Brands Limited - proposed acquisition of Joyce Corporation Limited's foam business assets.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-brands-limited-proposed-acquisition-of-joyce-corporation-limiteds-foam-business-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20666",
+  "industries": [
+    "Polyurethane foam"
+  ],
+  "date_completed": "2 March 2005",
+  "date_completed_iso": "2005-03-02T12:00:00Z",
+  "date_commenced": "2 December 2004",
+  "date_commenced_iso": "2004-12-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Pacific Brands Limited proposes to acquire all operating assets of the foam business of Joyce Corporation Limited. Pacific Brands and Joyce are the largest foam manufacturers in Australia.",
+    "Market definition": "The ACCC concluded that the relevant markets were state based markets for foam.",
+    "Competition analysis": "Please refer to the Public Competition Assessment.",
+    "Public competition assessment": "Public competition assessment ( PDF 35.32 KB )"
+  }
+}

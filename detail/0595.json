@@ -1,0 +1,88 @@
+{
+  "id": "0595",
+  "title": "Swift Australia Pty Ltd - proposed acquisition of Rockdale Beef Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/swift-australia-pty-ltd-proposed-acquisition-of-rockdale-beef-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41279",
+  "industries": [
+    "Beef processing"
+  ],
+  "date_completed": "9 September 2010",
+  "date_completed_iso": "2010-09-09T12:00:00Z",
+  "date_commenced": "8 April 2010",
+  "date_commenced_iso": "2010-04-08T12:00:00Z",
+  "total_review_days": 90,
+  "acquirers": [
+    "Swift Australia Pty Ltd"
+  ],
+  "targets": [
+    "Rockdale Beef Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Apr 2010",
+      "date_iso": "2010-04-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Apr 2010",
+      "date_iso": "2010-04-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 May 2010",
+      "date_iso": "2010-05-26T12:00:00Z",
+      "event": "ACCC requested further information from Swift Australia. ACCC timeline suspended to allow Swift Australia to respond to the ACCC's request for further information."
+    },
+    {
+      "date": "4 Jun 2010",
+      "date_iso": "2010-06-04T12:00:00Z",
+      "event": "ACCC received further information from Swift Australia. ACCC timeline remained suspended to await further information from Rockdale Beef."
+    },
+    {
+      "date": "10 Jun 2010",
+      "date_iso": "2010-06-10T12:00:00Z",
+      "event": "ACCC received further information from Rockdale Beef. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Jun 2010",
+      "date_iso": "2010-06-24T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "6 Jul 2010",
+      "date_iso": "2010-07-06T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "13 Jul 2010",
+      "date_iso": "2010-07-13T12:00:00Z",
+      "event": "ACCC requested further information from Swift Australia."
+    },
+    {
+      "date": "14 Jul 2010",
+      "date_iso": "2010-07-14T12:00:00Z",
+      "event": "ACCC requested further information from Rockdale Beef. ACCC timeline suspended to allow the merger parties to provide the information requested."
+    },
+    {
+      "date": "26 Jul 2010",
+      "date_iso": "2010-07-26T12:00:00Z",
+      "event": "ACCC received further information from Rockdale Beef and a partial response from Swift Australia to the ACCC's information request. ACCC timeline recommenced."
+    },
+    {
+      "date": "12 Aug 2010",
+      "date_iso": "2010-08-12T12:00:00Z",
+      "event": "ACCC received further information from Swift Australia. Former proposed date of 26 August 2010 amended to allow the ACCC to consider additional information provided by Swift Australia."
+    },
+    {
+      "date": "9 Sep 2010",
+      "date_iso": "2010-09-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see the attached Public Competition Assessment.",
+    "Competition analysis": "Please see the attached Public Competition Assessment."
+  }
+}

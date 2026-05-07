@@ -1,0 +1,59 @@
+{
+  "id": "0688",
+  "title": "Microsoft Corporation and Yahoo! Inc - proposed search engine agreement",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/microsoft-corporation-and-yahoo-inc-proposed-search-engine-agreement",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38377",
+  "industries": [
+    "IT"
+  ],
+  "date_completed": "24 November 2009",
+  "date_completed_iso": "2009-11-24T12:00:00Z",
+  "date_commenced": "28 September 2009",
+  "date_commenced_iso": "2009-09-28T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Microsoft Corporation"
+  ],
+  "targets": [
+    "Yahoo! Inc"
+  ],
+  "timeline": [
+    {
+      "date": "28 Sep 2009",
+      "date_iso": "2009-09-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Oct 2009",
+      "date_iso": "2009-10-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Oct 2009",
+      "date_iso": "2009-10-23T12:00:00Z",
+      "event": "ACCC requested further information from the parties to the proposed agreement. ACCC timeline suspended and former proposed date for announcement of ACCC's findings of 5 November 2009 deferred."
+    },
+    {
+      "date": "2 Nov 2009",
+      "date_iso": "2009-11-02T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 18 November 2009 deferred in response to a request by the parties to the proposed agreement, in order allow them additional time to respond to the ACCC's information request of 23 October 2009."
+    },
+    {
+      "date": "13 Nov 2009",
+      "date_iso": "2009-11-13T12:00:00Z",
+      "event": "ACCC received further information from the parties to the proposed agreement. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Nov 2009",
+      "date_iso": "2009-11-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed agreement."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Microsoft Corporation and Yahoo! Inc. proposed to enter into an agreement to combine their search and search advertising businesses. Under the proposed transaction, Microsoft would acquire an exclusive licence to Yahoo! search technologies for a period of 10 years. The transaction also involved Yahoo!'s existing search technology being integrated into Microsoft's Bing search engine (the Bing search engine will 'power' Yahoo!'s search engine) and Yahoo! becoming the exclusive worldwide relationship sales force for both company's premium search advertisers.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed agreement in the context of national markets for: - the supply of online paid search advertising; and - the supply of online search syndication services. As the proposed agreement between Microsoft and Yahoo! related only to online search advertising, the ACCC did not consider the national market for the supply of online display advertising.",
+    "Competition analysis": "The ACCC considered that the proposed agreement was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - Microsoft and Yahoo! had an existing relationship in Australia, in which Microsoft utilised Yahoo!'s paid search platform. Therefore, Microsoft and Yahoo! through their respective Australian subsidiaries - ninemsn and Yahoo!7 - did not compete for paid search advertising in Australia; - Microsoft and Yahoo!'s share of online paid search advertising queries in Australia was limited. In combining search engine platforms, Microsoft and Yahoo! may have been able to achieve the necessary scale to provide effective and sustainable competition to Google, which had a very large share of online paid search advertising queries; and - the proposed agreement did not appear to decrease innovation incentives for either of Microsoft, Yahoo! or Google."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0886",
+  "title": "Transpacific Industries Group Ltd - completed acquisition of part of the business of Allied Industrial Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-completed-acquisition-of-part-of-the-business-of-allied-industrial-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32430",
+  "industries": [
+    "Industrial Cleaning Equipment"
+  ],
+  "date_completed": "7 August 2008",
+  "date_completed_iso": "2008-08-07T12:00:00Z",
+  "date_commenced": "4 July 2008",
+  "date_commenced_iso": "2008-07-04T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Allied Industrial Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jul 2008",
+      "date_iso": "2008-07-04T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Jul 2008",
+      "date_iso": "2008-07-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2008",
+      "date_iso": "2008-08-07T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group Ltd has acquired part of the business of Allied Industrial Services Pty Ltd.",
+    "Market definition": "The acquisition was considered in the context of: -  the Sydney regional market for the supply of industrial cleaning services; - the national market for the supply of parts washers;  and - the national market for the supply of compaction bins.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets due to a number of competitors who would be likely to constrain the merged firm."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1102",
+  "title": "OJSC MMC Norilsk Nickel - proposed acquisition of LionOre Mining International Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ojsc-mmc-norilsk-nickel-proposed-acquisition-of-lionore-mining-international-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28134",
+  "industries": [
+    "Mining"
+  ],
+  "date_completed": "23 May 2007",
+  "date_completed_iso": "2007-05-23T12:00:00Z",
+  "date_commenced": "7 May 2007",
+  "date_commenced_iso": "2007-05-07T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "OJSC MMC Norilsk Nickel"
+  ],
+  "targets": [
+    "LionOre Mining International Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 May 2007",
+      "date_iso": "2007-05-07T12:00:00Z",
+      "event": "ACCC commences informal review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 May 2007",
+      "date_iso": "2007-05-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 May 2007",
+      "date_iso": "2007-05-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "OJSC MMC Norilsk Nickel proposes to acquire all of the issued and outstanding common shares of LionOre Mining International Limited.",
+    "Market definition": "The proposed acquisition was considered in the context of the worldwide market for nickel production.",
+    "Competition analysis": "On 23 May 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion include: - nickel is a globally traded commodity with the majority of nickel produced in Australian being exported; - there would be significant potential import competition with Australian customers likely to be able to access imports in response to an increase in domestic prices; - alternative suppliers including CRVD Inco, BHP Billiton, Jinchuan, Xstrata and Sumitomo would be readily accessible in the nickel market; and - prices for nickel are referenced to international mediums such as the London Metal Exchange and so the merged firm would be unlikely to be able to significantly increase prices."
+  }
+}

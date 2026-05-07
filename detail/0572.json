@@ -1,0 +1,53 @@
+{
+  "id": "0572",
+  "title": "Ecolab Pty Ltd - proposed acquisition of Cleantec business of Campbell Brothers Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ecolab-pty-ltd-proposed-acquisition-of-cleantec-business-of-campbell-brothers-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43006",
+  "industries": [
+    "Commercial cleaning products"
+  ],
+  "date_completed": "17 November 2010",
+  "date_completed_iso": "2010-11-17T12:00:00Z",
+  "date_commenced": "29 September 2010",
+  "date_commenced_iso": "2010-09-29T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Ecolab Pty Ltd"
+  ],
+  "targets": [
+    "Cleantec business of Campbell Brothers Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Sep 2010",
+      "date_iso": "2010-09-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "15 Oct 2010",
+      "date_iso": "2010-10-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Oct 2010",
+      "date_iso": "2010-10-25T12:00:00Z",
+      "event": "ACCC requested further information from Ecolab."
+    },
+    {
+      "date": "2 Nov 2010",
+      "date_iso": "2010-11-02T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 11 November 2010 amended to allow time for Ecolab to respond to the ACCC's information request of 25 October 2010, and for the ACCC to consider Ecolab's response."
+    },
+    {
+      "date": "17 Nov 2010",
+      "date_iso": "2010-11-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the supply of commercial cleaning products and ancillary services.",
+    "Competition analysis": "Although the proposed acquisition would result in a more highly concentrated market, the ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition due to: - the number of alternative competitors remaining post-acquisition for customers not requiring high-frequency service; - remaining firms, particularly Jasol and Diversey, that are likely to constrain the merged firm in tenders for high-volume customers requiring specialised services as well for as for low-volume customers; - barriers to expansion not being prohibitive despite finding that sunk costs and long term contracts may deter a large-scaled and timely entry; and - some large-volume customers having some degree of countervailing power."
+  }
+}

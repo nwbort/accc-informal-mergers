@@ -1,0 +1,59 @@
+{
+  "id": "0170",
+  "title": "Emergent Cold proposed acquisition of AB Oxford Cold Storage Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/emergent-cold-proposed-acquisition-of-ab-oxford-cold-storage-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Cold storage facility"
+  ],
+  "date_completed": "23 October 2019",
+  "date_completed_iso": "2019-10-23T12:00:00Z",
+  "date_commenced": "3 June 2019",
+  "date_commenced_iso": "2019-06-03T12:00:00Z",
+  "total_review_days": 63,
+  "acquirers": [
+    "Emergent Cold Pty Ltd"
+  ],
+  "targets": [
+    "AB Oxford Cold Storage Company"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jun 2019",
+      "date_iso": "2019-06-04T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jun 2019",
+      "date_iso": "2019-06-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Aug 2019",
+      "date_iso": "2019-08-15T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Aug 2019",
+      "date_iso": "2019-08-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "22 Oct 2019",
+      "date_iso": "2019-10-22T12:00:00Z",
+      "event": "Former proposed decision date of 7 November 2019 brought forward to 23 October 2019."
+    },
+    {
+      "date": "23 Oct 2019",
+      "date_iso": "2019-10-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Emergent Cold Pty Ltd (Emergent Cold) proposes to acquire all the shares of AB Oxford Cold Storage Company Pty Ltd and AB Oxford Cold Storage Company No 2 Pty Ltd (together, Oxford). Emergent Cold and Oxford both provide cold storage services in Victoria. Cold storage is used to store a range of temperature-sensitive products, including dairy, seafood, meat, poultry, frozen vegetables and other frozen or chilled foods.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition for the supply of third party cold storage services in Victoria.",
+    "Competition analysis": "The ACCC concluded that Emergent Cold's proposed acquisition was unlikely to substantially lessen competition in any relevant market. There are four large suppliers of cold storage services in Victoria. The proposed acquisition would combine the second and third largest suppliers and place 35-40% of third party cold storage capacity in Victoria in Emergent Cold's control. The other two large suppliers are NewCold (a recent new entrant) and Americold, both of which are part of multi-national cold storage businesses. Other competitors include AHG Refrigerated Logistics, Linfox and numerous smaller businesses. At the time of issuing the Statement of Issues, the ACCC held preliminary concerns that Emergent Cold was acquiring its closest competitor, and that the extent of competition with other suppliers was limited. There are some differences in the size and level of automation of the cold storage facilities operated by other suppliers, and in their business models and preferred customer bases. However, after carrying out further market inquiries, the ACCC concluded that despite these differences, Emergent Cold would still face considerable competitive constraint from NewCold, Americold and other suppliers following the acquisition. As part of its assessment, the ACCC also took into account the potential for these competing suppliers to expand and build new capacity in response to demand in the coming years, including the ability of some larger customers to sponsor such expansion if required. The ACCC also considered that, to a lesser extent, Emergent Cold was likely to be constrained by the prospect of some larger customers turning to self-supply in response to increases in the price of third party cold storage services."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "1085",
+  "title": "Salmat Limited - proposed acquisition of HPAL Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/salmat-limited-proposed-acquisition-of-hpal-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28306",
+  "industries": [
+    "Document delivery services"
+  ],
+  "date_completed": "27 June 2007",
+  "date_completed_iso": "2007-06-27T12:00:00Z",
+  "date_commenced": "18 May 2007",
+  "date_commenced_iso": "2007-05-18T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Salmat Limited"
+  ],
+  "targets": [
+    "HPAL Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 May 2007",
+      "date_iso": "2007-05-18T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Jun 2007",
+      "date_iso": "2007-06-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Jun 2007",
+      "date_iso": "2007-06-08T12:00:00Z",
+      "event": "ACCC requested further information from Salmat. ACCC timeline suspended."
+    },
+    {
+      "date": "18 Jun 2007",
+      "date_iso": "2007-06-18T12:00:00Z",
+      "event": "ACCC received further information from Salmat. ACCC timeline recommenced."
+    },
+    {
+      "date": "27 Jun 2007",
+      "date_iso": "2007-06-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In April 2007, HPA announced that it had commenced a strategic review of its options. Salmat is a possible acquirer and sought the ACCC's informal merger clearance in May 2007.",
+    "Market definition": "The ACCC condidered the proposed acquisition in the context of the market for the supply of essential and direct mail document delivery services in Australia (document delivery services market) within which the following segments may be identified: - high volume customers requiring national coverage; and - lower volume customers requiring national or regional coverage.",
+    "Competition analysis": "On 27 June 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Market inquiries indicated that the proposed acquisition would see the removal of Salmat's principal competitor and that the impact of the proposed acquisition was likely to be most significant with respect to the supply of document delivery services to high volume customers. In particular, some interested parties expressed a view that smaller competitors may not have sufficient geographic coverage, capability and capacity to meet the requirements of high volume customers and impose a competitive constraint on the merged entity. The ACCC's market inquiries indicated that: - smaller competitors have the capability to meet the requirements of some high volume customers on a national basis and thereby impose a competitive constraint on the merger parties; - document delivery services are relatively scaleable and it is likely that smaller competitors would be able to expand capacity to compete with the merged entity, including competing for high volume customers; and - high volume customers are likely to have some countervailing power through their ability to support an expansion in capacity by smaller competitors. The ACCC notes that electronic document delivery does not currently impose a significant competitive constraint on document delivery service providers, although it acknowledges that the industry has developed rapidly and is likely to exhibit dynamic characteristics post acquisition including through the increased utilisation of electronic document delivery. As it is likely that the merged entity would face effective competitive constraints, the ACCC does not propose to intervene in the proposed acquisition under section 50 of the Trade Practices Act (1974)."
+  }
+}

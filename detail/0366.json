@@ -1,0 +1,63 @@
+{
+  "id": "0366",
+  "title": "Perpetual Limited - proposed acquisition of The Trust Company Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/perpetual-limited-proposed-acquisition-of-the-trust-company-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51337",
+  "industries": [
+    "Financial Services"
+  ],
+  "date_completed": "19 September 2013",
+  "date_completed_iso": "2013-09-19T12:00:00Z",
+  "date_commenced": "16 May 2013",
+  "date_commenced_iso": "2013-05-16T12:00:00Z",
+  "total_review_days": 80,
+  "acquirers": [
+    "Perpetual Limited"
+  ],
+  "targets": [
+    "The Trust Company Limited"
+  ],
+  "timeline": [
+    {
+      "date": "16 May 2013",
+      "date_iso": "2013-05-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "7 Jun 2013",
+      "date_iso": "2013-06-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Jul 2013",
+      "date_iso": "2013-07-02T12:00:00Z",
+      "event": "ACCC timeline suspended to allow Perpetual Limited to provide further information. Former proposed decision date of 11 July 2013 delayed."
+    },
+    {
+      "date": "15 Jul 2013",
+      "date_iso": "2013-07-15T12:00:00Z",
+      "event": "ACCC received further information from Perpetual Limited."
+    },
+    {
+      "date": "1 Aug 2013",
+      "date_iso": "2013-08-01T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "15 Aug 2013",
+      "date_iso": "2013-08-15T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "19 Sep 2013",
+      "date_iso": "2013-09-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

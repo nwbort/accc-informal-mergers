@@ -1,0 +1,43 @@
+{
+  "id": "0992",
+  "title": "Village Roadshow Limited - request for withdrawal of undertakings dated 29 June 2004",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/village-roadshow-limited-request-for-withdrawal-of-undertakings-dated-29-june-2004",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29831",
+  "industries": [
+    "cinema"
+  ],
+  "date_completed": "21 November 2007",
+  "date_completed_iso": "2007-11-21T12:00:00Z",
+  "date_commenced": "2 October 2007",
+  "date_commenced_iso": "2007-10-02T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Not Applicable"
+  ],
+  "targets": [
+    "none"
+  ],
+  "timeline": [
+    {
+      "date": "18 Oct 2007",
+      "date_iso": "2007-10-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Nov 2007",
+      "date_iso": "2007-11-08T12:00:00Z",
+      "event": "Initial date of 14 November 2007 for announcement of ACCC's findings extended to 21 November 2007 to allow time to complete market inquiries."
+    },
+    {
+      "date": "21 Nov 2007",
+      "date_iso": "2007-11-21T12:00:00Z",
+      "event": "ACCC announced it would not to consent to early withdrawal of the Undertaking."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 29 June 2004, the ACCC accepted an undertaking from Village Roadshow Ltd (Village) and two of its directors, further to the ACCC's concerns about the risk of collaboration between cinema exhibitors to oppose market entry and/or expansion by other cinema exhibitors (Undertaking). Village and two of its directors provided the Undertaking, without admitting that any of Village's conduct constituted a contravention of the Act, to reduce the risk of collaboration with other cinema exhibitors to jointly oppose entry into and/or expansion within cinema exhibition markets. The undertaking expires on 30 June 2008. The undertaking also provided for a review of the undertaking after 30 June 2007 with a view to extending, varying or withdrawing the undertaking if appropriate. Village has sought consent from the ACCC to withdraw the Undertaking.",
+    "Competition analysis": "The ACCC considers that strong grounds are required to support the early withdrawal of any undertaking provided to the ACCC under section 87B of the Trade Practices Act 1974. Among other things, the ACCC took into account factors pointing to a reduced risk of the collaboration sought to be addressed by the Undertaking, including changes in interests held by each of Village and The Greater Union Group - for example, The Greater Union Group has sold down its shareholding in the Village Roadshow Group and Village has acquired Greater Union's 50% share of Roadshow Film Distributors. The ACCC also noted however that joint venture arrangements between Village and Greater Union in relation to cinema multiplexes remain in existence. On balance the ACCC did not consider that sufficiently strong grounds exist to justify early withdrawal of the Undertaking."
+  }
+}

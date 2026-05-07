@@ -1,0 +1,58 @@
+{
+  "id": "0057",
+  "title": "Global Payments Australia 1 Pty Ltd - School Bytes Learning Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/global-payments-australia-1-pty-ltd-school-bytes-learning-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "School administration software"
+  ],
+  "date_completed": "3 June 2024",
+  "date_completed_iso": "2024-06-03T12:00:00Z",
+  "date_commenced": "9 February 2024",
+  "date_commenced_iso": "2024-02-09T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "Global Payments Australia 1 Pty Ltd"
+  ],
+  "targets": [
+    "School Bytes Learning Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "9 Feb 2024",
+      "date_iso": "2024-02-09T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Feb 2024",
+      "date_iso": "2024-02-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "22 Mar 2024",
+      "date_iso": "2024-03-22T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (18 April 2024) is delayed."
+    },
+    {
+      "date": "30 Apr 2024",
+      "date_iso": "2024-04-30T12:00:00Z",
+      "event": "ACCC received further information from the parties (on 18 April 2024). Timeline recommenced."
+    },
+    {
+      "date": "23 May 2024",
+      "date_iso": "2024-05-23T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "3 Jun 2024",
+      "date_iso": "2024-06-03T12:00:00Z",
+      "event": "ACCC discontinued its public review after Global Payments advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 5 February 2024, Global Payments announced that it was seeking to acquire School Bytes. Global Payments is the Australian subsidiary of Global Payments Inc., a payments technology company headquartered in Georgia, USA. Global Payments owns Sentral Pty Ltd (Sentral) which is a leading national supplier of school administration software solutions to public and independent schools, including school information software, parent communications and consent, and student finance software. School Bytes is an Australian company supplying school administration software, including school information software, parent communications and consent, and student finance software products, to public schools in NSW. Global Payments subsidiary Sentral and School Bytes overlap in the provision of school administration software to public schools in NSW.",
+    "Competition analysis": "The ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition. On 3 June 2024, the ACCC discontinued its public review after Global Payments advised that the proposed acquisition would not be proceeding."
+  }
+}

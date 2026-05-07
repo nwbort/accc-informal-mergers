@@ -1,0 +1,45 @@
+{
+  "id": "1158",
+  "title": "OneSteel Limited and Smorgon Steel Group Limited - proposed pipe and tube joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-limited-and-smorgon-steel-group-limited-proposed-pipe-and-tube-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26819",
+  "industries": [
+    "Steel"
+  ],
+  "date_completed": "31 January 2007",
+  "date_completed_iso": "2007-01-31T12:00:00Z",
+  "date_commenced": "19 December 2006",
+  "date_commenced_iso": "2006-12-19T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "OneSteel Limited",
+    "Smorgon Steel Group Limited"
+  ],
+  "targets": [
+    "Not Applicable"
+  ],
+  "timeline": [
+    {
+      "date": "19 Dec 2006",
+      "date_iso": "2006-12-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "17 Jan 2007",
+      "date_iso": "2007-01-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jan 2007",
+      "date_iso": "2007-01-31T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Summary": "OneSteel Limited (OneSteel) and Smorgon Steel Group Limited (Smorgon) proposed to form a joint venture company (the JV) into which OneSteel and Smorgon would each contribute their current structural pipe and rectangular hollow section (RHS)* manufacturing businesses. The proposed JV would not include Smorgon's LiteSteel beam or OneSteel's precision tube and oil & gas manufacturing facilities. *Sometimes collectively referred to as hollow structural sections or HSS",
+    "Market definition": "The ACCC considered the relevant market to be a national market for the manufacture of hollow structural sections (HSS) which includes circular hollow sections (CHS) and rectangular hollow sections (RHS).",
+    "Competition analysis": "The ACCC concluded that the proposed JV would be unlikely to result in a substantial lessening of competition in the relevant market. The ACCC noted that imports in conjunction with the presence of Orrcon (the third largest manufacturer of HSS in Australia) are likely to impose a strong competitive constraint on OneSteel and Smorgon. The ACCC noted that the significant increase in the volume of imports of HSS in recent times and the increasing role they have played in competition in the relevant markets. The ACCC did not consider that imports of HSS would be significantly limited in their ability to compete with OneSteel and Smorgon products due to length of lead times, quality, product range or the requirements of Australian Standards 1163 or 1074. Market inquiries tended to indicate that these were either not barriers to import competition or were barriers that could be overcome. The ACCC was also provided with information which directly demonstrated the impact of import competition on the pricing and supply decisions of the JV parties. The ACCC also noted the significant capacity for increase in the volume of imports of HSS to Australia and the lack of any technical limit (such as the ability of a manufacturer to meet an Australian Standard) to overseas manufacturers manufacturing HSS for export to Australia. The ACCC also considered the role of anti-dumping applications on competition in the relevant market, as the parties had offered an undertaking relating to this issue. The ACCC formed the view that the proposed joint venture would not provide the parties with any greater ability to inhibit imports by means of making anti-dumping applications. As such, the ACCC did not consider it necessary to accept the undertaking offered by OneSteel and Smorgon."
+  }
+}

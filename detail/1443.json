@@ -1,0 +1,29 @@
+{
+  "id": "1443",
+  "title": "Acquirer: Oracle Corporation; Target: Peoplesoft Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-oracle-corporation-target-peoplesoft-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18400",
+  "industries": [],
+  "date_completed": "23 November 2004",
+  "date_completed_iso": "2004-11-23T12:00:00Z",
+  "date_commenced": "1 October 2003",
+  "date_commenced_iso": "2003-10-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Oracle Corporation"
+  ],
+  "targets": [
+    "Peoplesoft Inc"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Oracle Corporation is proposing to acquire Peoplesoft Inc.",
+    "Market definition": "The most relevant markets were considered to be the markets for complex core financial management and complex core human resource management software.  By 'complex core' the ACCC is referring to software: - that is used by large organisations, both government and private, that have complex software requirements; and - that is core to the organisations' operations, and fulfils the main requirements of organisations in either financial management or human resource management.",
+    "Competition analysis": "In considering the competition effects under s 50 of the Act, the ACCC noted the position of significant player SAP in Australia, and the presence of several Australian-based firms, including Mincom and Technology One, that compete with Peoplesoft and Oracle in some industry sectors. The ACCC also recognised the global nature of the industry, and considered that firms such as Microsoft Business Solutions, Lawson and Intentia may potentially increase their Australian market shares in the future. Although the ACCC considered that there may be a restriction in choice for some purchasers of software in Australia, particularly large organisations in certain industries, the ACCC did not consider there was enough evidence to suggest that the acquisition was likely to substantially lessen competition in the relevant markets. The ACCC took into consideration the views of foreign competition regulators in reaching its decision, and noted the evidence put before the US District Court of Northern California in the antitrust lawsuit filed by the US Department of Justice seeking to block the acquisition.",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "ANZSIC code": "4613"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0212",
+  "title": "AAPC Limited (Accor) - proposed acquisition of Mantra Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aapc-limited-accor-proposed-acquisition-of-mantra-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63122",
+  "industries": [
+    "Hotels / Accommodation"
+  ],
+  "date_completed": "8 March 2018",
+  "date_completed_iso": "2018-03-08T12:00:00Z",
+  "date_commenced": "27 October 2017",
+  "date_commenced_iso": "2017-10-27T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "AAPC Limited"
+  ],
+  "targets": [
+    "Mantra Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 Oct 2017",
+      "date_iso": "2017-10-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Nov 2017",
+      "date_iso": "2017-11-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Jan 2018",
+      "date_iso": "2018-01-12T12:00:00Z",
+      "event": "Former provisional decision date (1st February 2018) delayed pending receipt of further information from Accor."
+    },
+    {
+      "date": "19 Feb 2018",
+      "date_iso": "2018-02-19T12:00:00Z",
+      "event": "ACCC announced a new proposed date (8th March 2018) for announcement of its findings."
+    },
+    {
+      "date": "8 Mar 2018",
+      "date_iso": "2018-03-08T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AAPC Limited (Accor) proposed to acquire Mantra Group Limited (Mantra). Accor is a wholly owned subsidiary of Accor S.A., one of the world's largest hotel and tourism groups, operating under the brand AccorHotels. Mantra is an Australian accommodation operator and provider of hotel management and marketing services.",
+    "Market definition": "The ACCC did not reach concluded views on market definition, but its review focused on the supply of short-term accommodation services (including traditional hotels, serviced apartments, larger multi-room apartments and motels) on a location-by-location basis. The ACCC also considered competition at a broader geographic level, including nationally. While short-term accommodation providers compete in local areas to attract visitors, short-term accommodation chains can offer benefits to customers choosing to stay in accommodation belonging to a larger network and there are some multi-locational arrangements between some corporate customers and specific hotel chains. The ACCC also considered the possible effects of the proposed acquisition on the supply of hotel management services, such as leasing, management letting rights (MLR), franchising and related services to property owners and developers at a national level.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. While being part of a national or multi-regional network or chain may provide some advantages, the ACCC found that competition occurred predominantly at a local level and that multi-locational arrangements between specific hotel chains and corporate customers are generally not exclusive. The ACCC found that the combined firm would continue to face competition from a number of alternative providers, including other international and national hotel chains as well as many independent hotels and accommodation providers. As regards hotel management services, the ACCC concluded that the combined firm would continue to face competition from a number of alternative providers, including other national and international hotel chains."
+  }
+}

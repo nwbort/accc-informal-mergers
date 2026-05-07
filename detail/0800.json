@@ -1,0 +1,64 @@
+{
+  "id": "0800",
+  "title": "P & M Quality Smallgoods Pty Ltd (Primo) - proposed acquisition of Hans Continental Smallgoods Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/p-m-quality-smallgoods-pty-ltd-primo-proposed-acquisition-of-hans-continental-smallgoods-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35328",
+  "industries": [
+    "Smallgoods suppliers to supermarkets, delis"
+  ],
+  "date_completed": "18 February 2009",
+  "date_completed_iso": "2009-02-18T12:00:00Z",
+  "date_commenced": "22 December 2008",
+  "date_commenced_iso": "2008-12-22T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "P & M Quality Smallgoods Pty Ltd (Primo)"
+  ],
+  "targets": [
+    "Hans Continental Smallgoods Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "22 Dec 2008",
+      "date_iso": "2008-12-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jan 2009",
+      "date_iso": "2009-01-16T12:00:00Z",
+      "event": "P & M Quality Smallgoods advised the ACCC that it now proposes to acquire certain inventory and equipment located at the Blacktown manufacturing facility."
+    },
+    {
+      "date": "23 Jan 2009",
+      "date_iso": "2009-01-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Feb 2009",
+      "date_iso": "2009-02-10T12:00:00Z",
+      "event": "ACCC timeline suspended to allow the merger parties to provide further information."
+    },
+    {
+      "date": "12 Feb 2009",
+      "date_iso": "2009-02-12T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for consideration of further information provided by the merger parties."
+    },
+    {
+      "date": "16 Feb 2009",
+      "date_iso": "2009-02-16T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Feb 2009",
+      "date_iso": "2009-02-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Primo proposes to acquire the assets of Hans Continental Smallgoods, including certain inventory and equipment located at the Blacktown manufacturing facility but excluding the Hans Fresh business (which supplies fresh pork), Blacktown manufacturing facility and the Swickers (Qld) abattoir and associated pig growing operations, from Japan Tobacco Inc.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

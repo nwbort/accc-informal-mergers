@@ -1,0 +1,58 @@
+{
+  "id": "0938",
+  "title": "Qantas Airways Limited - proposed acquisition of a majority interest in Jetset Travelworld Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qantas-airways-limited-proposed-acquisition-of-a-majority-interest-in-jetset-travelworld-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31245",
+  "industries": [
+    "Travel Agency Services"
+  ],
+  "date_completed": "8 April 2008",
+  "date_completed_iso": "2008-04-08T12:00:00Z",
+  "date_commenced": "28 February 2008",
+  "date_commenced_iso": "2008-02-28T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Qantas Airways Limited"
+  ],
+  "targets": [
+    "Jetset Travelworld Limited"
+  ],
+  "timeline": [
+    {
+      "date": "28 Feb 2008",
+      "date_iso": "2008-02-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Mar 2008",
+      "date_iso": "2008-03-03T12:00:00Z",
+      "event": "ACCC commenced market inquiries."
+    },
+    {
+      "date": "14 Mar 2008",
+      "date_iso": "2008-03-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Mar 2008",
+      "date_iso": "2008-03-19T12:00:00Z",
+      "event": "ACCC requested further information from Qantas. ACCC timeline suspended."
+    },
+    {
+      "date": "1 Apr 2008",
+      "date_iso": "2008-04-01T12:00:00Z",
+      "event": "ACCC received further information from Qantas. ACCC timeline recommenced."
+    },
+    {
+      "date": "8 Apr 2008",
+      "date_iso": "2008-04-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For the purposes of this review the ACCC considered the following relevant markets: - the market for retail travel; - the market for corporate travel; - the market for wholesale travel; and - the airline passenger market. However, it was not necessary to reach a conclusive view on market definition as the outcome of the competition analysis would not have been affected.",
+    "Competition analysis": "The ACCC considered that a substantial lessening of competition was unlikely to arise in any of the relevant markets. In particular, the ACCC considered that in the retail travel market there would be continued competition between a wide range of travel related service providers, post-acquisition. The ACCC also considered that the proposed acquisition was unlikely to extend Qantas' presence in the corporate travel market to any significant extent. Jetset Travelworld is predominantly a leisure travel service provider and where there was any overlap, it appeared to be very limited. In relation to the wholesale travel market, the ACCC noted that there are a relatively large number of wholesalers who compete to have travel related products and services offered for sale by travel agents and/or distribute them direct to the public. This level of competition was unlikely to be significantly affected by the proposed acquisition, given the limited overlap in wholesaling between Qantas and Jetset Travelworld. The ACCC closely examined the possibility of Qantas attempting to leverage its position between the airline passenger market and other travel related markets (retail, corporate, wholesale), to the detriment of competition in those markets. However, given the presence of competitors and the nature of the assets being acquired, the ACCC considered that it would be unlikely that the proposed acquisition would give Qantas the ability and incentive to leverage in any of these markets. Overall, the ACCC was satisfied that the proposed acquisition would be unlikely to result in a substantial lessening of competition."
+  }
+}

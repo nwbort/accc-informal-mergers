@@ -1,0 +1,25 @@
+{
+  "id": "1386",
+  "title": "Queensland Rail - acquisition of CRT Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/queensland-rail-acquisition-of-crt-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22062",
+  "industries": [
+    "Rail freight transport and freight forwarding"
+  ],
+  "date_completed": "28 June 2005",
+  "date_completed_iso": "2005-06-28T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 24 June 2005, Queensland Rail (QR) announced that it had acquired CRT Group Pty Ltd (CRT). QR is the incumbent government-owned rail operator in Queensland. CRT is a freight forwarding company based in Victoria. A significant portion of CRT's business relates to plastics logistics.",
+    "Market definition": "The Commission did not conclusively define the market, as it did not consider market definition to be a critical issue in this matter.  However, the relevant industries considered by the Commission included the freight forwarding industry and interstate rail line haul industry.",
+    "Competition analysis": "The Commission formed the view that the increase in vertical integration introduced by the acquisition would not have an adverse effect on competition for a number of reasons. From the Commission's understanding of the matter, these included the following: * CRT's share of freight forwarding is small compared to other large freight forwarders, both on an aggregate basis and on a route-by-route basis; * QR's freight forwarding operations outside of Queensland are small; and * QR's interstate rail operations are relatively limited, and most of QR's line haul business is restricted to narrow gauge track in Queensland. In coming to its decision, the Commission considered the following factors: * the strong position of Pacific National in interstate rail line haul; and * the continued presence of significant rivals such as Toll and FCL, in the freight forwarding industry. The Commission noted that, while this acquisition would add to QR's haulage business, it was unlikely that CRT's freight volumes would be sufficient to assist in underwriting any new interstate rail line haul service of a significant scale. For the reasons above, the Commission therefore formed the view that no substantial lessening of competition in any market was likely.",
+    "Merger type": "Horizontal, Vertical"
+  }
+}

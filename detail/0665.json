@@ -1,0 +1,56 @@
+{
+  "id": "0665",
+  "title": "Proposed variation to the s87B undertakings of Alinta Limited and others dated 25 October 2004",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-variation-to-the-s87b-undertakings-of-alinta-limited-and-others-dated-25-october-2004",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24156",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "28 January 2010",
+  "date_completed_iso": "2010-01-28T12:00:00Z",
+  "date_commenced": "10 June 2009",
+  "date_commenced_iso": "2009-06-10T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Alinta Ltd",
+    "Diversified Utility and Energy Trust",
+    "Alcoa of Australia Ltd",
+    "Alinta Network Services Pty Ltd",
+    "DBNGP Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Epic Energy Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jun 2009",
+      "date_iso": "2009-06-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Jul 2009",
+      "date_iso": "2009-07-02T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of Alinta Asset Management Pty Ltd."
+    },
+    {
+      "date": "3 Dec 2009",
+      "date_iso": "2009-12-03T12:00:00Z",
+      "event": "ACCC timeline recommenced at the request of Alinta Asset Management Pty Ltd."
+    },
+    {
+      "date": "18 Dec 2009",
+      "date_iso": "2009-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Jan 2010",
+      "date_iso": "2010-01-28T12:00:00Z",
+      "event": "ACCC ceased its review of the proposed variation."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Alinta Asset Management Pty Ltd (AAM), formerly Alinta Network Services Pty Ltd, submitted a draft variation to the s87B undertaking of Alinta Limited and others, which was accepted by the ACCC on 25 October 2004. The draft variation proposed to remove AAM from the undertaking, because AAM had ceased to be a party to the operating services agreement for the Dampier to Bunbury Natural Gas Pipeline. Given that the amendments proposed by the AAM Variation have been superseded by the broader variation which was accepted by the ACCC on 28 January 2010, the ACCC has ceased its review of the AAM variation."
+  }
+}

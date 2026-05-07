@@ -1,0 +1,31 @@
+{
+  "id": "1681",
+  "title": "Acquirer: Baxter Healthcare Pty Ltd; Target: Hospital Supplies Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-baxter-healthcare-pty-ltd-target-hospital-supplies-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14814",
+  "industries": [],
+  "date_completed": "26 February 2002",
+  "date_completed_iso": "2002-02-26T12:00:00Z",
+  "date_commenced": "3 October 2001",
+  "date_commenced_iso": "2001-10-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Baxter Healthcare Pty Ltd"
+  ],
+  "targets": [
+    "Hospital Supplies Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition by Baxter Healthcare Pty Limited of the Cytomix business from Hospital Supplies of Australia Limited",
+    "Market definition": "The national supply of cytotoxic compounds.",
+    "Competition analysis": "The Commission considered that the relevant market was the national market for the supply of cytotoxic compounds. The Panel considered that the acquisition would not substantially lessen competition in the relevant market because of the following factors: - the acquisition did not exceed Merger Guideline thresholds; - the existence of state-based private pharmacies which presently service the majority of private hospitals nation-wide; - the relatively low barriers to entry or expansion that would be faced by cytotoxic compounders seeking to constrain any price increases by Baxter; - the planned expansion by competitors to provide cytotoxic services and products nationally ; and - countervailing power in the hands of major and specialist public hospitals arising from their   presently existing in-house cytotoxic compounding facilities.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Complaint",
+    "ANZSIC code": "8639"
+  }
+}

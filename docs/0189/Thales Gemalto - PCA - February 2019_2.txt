@@ -1,0 +1,252 @@
+ 
+Page 1 of 6 
+ 
+Public Competition Assessment 
+11 February 2019 
+Thales S.A. - proposed acquisition of Gemalto N.V.  
+ 
+The ACCC’s decision 
+1. 
+On 20 December 2018, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of 
+Gemalto N.V. (Gemalto) by Thales S.A.1 (Thales) (the proposed acquisition),   
+following the acceptance of a section 87B divestiture undertaking.2 
+2. 
+The divestiture undertaking requires Thales to sell its global GP HSM business 
+to a purchaser approved by the ACCC. 
+3. 
+The ACCC considered that the proposed acquisition, taking into account the 
+divestiture undertaking, would not be likely to contravene section 50 of the 
+Competition and Consumer Act 2010 (the Act).  
+4. 
+Section 50 prohibits acquisitions that would have the effect, or be likely to have 
+the effect, of substantially lessening competition in any market. 
+5. 
+The ACCC focused its investigation on the markets for the supply of general 
+purpose (GP) hardware security modules (HSM) and payment HSMs in 
+Australia. 
+6. 
+The ACCC considered that as Thales and Gemalto were each other’s closest 
+competitors and the two largest suppliers of GP HSMs worldwide and in 
+Australia, the proposed acquisition would likely lead to a substantial lessening of 
+competition without the divestiture undertaking.  
+7. 
+Please note that this and other public competition assessments are subject to 
+the following qualifications: 
+ 
+The ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily 
+                                                 
+1 The proposed acquisition involves the subsidiary Thales Australia Holdings Pty Ltd.  
+2 Merger parties can provide the ACCC with a court-enforceable undertaking under section 87B of the 
+Competition and Consume Act 2010 to remedy competition concerns identified by the ACCC. 
+
+
+ 
+Page 2 of 6 
+reflect the ACCC’s view of another transaction, even where that other 
+transaction may involve the same or a related market. 
+ 
+As assessments are brief and do not refer to confidential information 
+provided by the parties or other market participants, assessments do not 
+set out all of the issues and information considered by the ACCC, nor all of 
+the analysis and reasons of the ACCC.  
+The parties  
+The acquirer: Thales 
+8. 
+Thales is an international electronics and communications group registered in 
+France and listed on the Euronext Stock Exchange in Paris. Thales provides 
+systems and electronic services globally in five main areas: (i) aeronautics, (ii) 
+space, (iii) ground transportation, (iv) defence, and (v) security. In 2017, Thales 
+had operations in 56 countries with approximately 64,100 employees.  
+9. 
+In Australia, Thales has operations in every mainland state and territory 
+comprising defence, aerospace, security, transportation and R&D. 
+The target: Gemalto 
+10. Gemalto is an international digital security company registered in the 
+Netherlands and listed on the Euronext Stock Exchange in Paris and 
+Amsterdam. Gemalto is involved in the development, manufacture or supply of, 
+and the provision of services relating to, data encryption and security 
+technologies and communications systems. In 2017, Gemalto had operations in 
+47 countries with approximately 15,000 employees.  
+11. Gemalto’s Australian operations are based in Melbourne and Sydney. 
+The transaction 
+12. Thales proposed to acquire all issued and outstanding ordinary shares of 
+Gemalto by way of a full public offer.   
+Review timeline 
+13. The following table outlines the timeline of key events for the ACCC in this 
+matter. 
+Date 
+Event 
+24 September 2018 
+ACCC commenced review under the Merger Process 
+Guidelines. 
+22 November 2018 
+Former provisional decision date of 6 December 2018 delayed 
+while ACCC waited for information from parties.  
+17 December 2018 
+ACCC received information from the parties. 
+20 December 2018 
+ACCC announced it would not oppose the proposed 
+acquisition following the acceptance of a section 87B 
+divestiture undertaking by the ACCC. 
+
+
+ 
+Page 3 of 6 
+14. The total elapsed time from start to finish was just under three months. The total 
+period, net of time taken by the parties to submit information or documents, was 
+46 business days.  
+Market inquiries 
+15. The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, potential competitors, customers, industry bodies, other 
+regulatory agencies and other interested parties. Submissions were sought in 
+relation to the potential competition issues. 
+16. The ACCC also liaised closely with overseas agencies, including the European 
+Commission, the US Department of Justice and the New Zealand Commerce 
+Commission. 
+Areas of overlap 
+17. In  Australia, Thales and Gemalto overlap in the supply of: 
+ 
+enterprise key management products, including HSMs 
+ 
+encryption software for data at rest and in use. 
+18. The main area of overlap between Thales and Gemalto is in the supply of HSMs, 
+which are enterprise key management products. Enterprise key management 
+products provide encryption keys to access data that has been encrypted and 
+decrypted by an encryption algorithm across a variety of operating systems and 
+databases. The generation, allocation, storage, protection and destruction of 
+keys is critical to the success of data encryption.  
+19. Thales and Gemalto both supply GP and payment HSMs in Australia. GP HSMs 
+are tamper-resistant hardware devices that run on encryption software and 
+generate keys, encrypt and decrypt data and verify digital signatures. Payment 
+HSMs are similar to GP HSMs, but also have payment-related functionality and 
+perform a high volume of payment operations and payment transaction 
+processing. Payment HSMs are typically used by the retail banking industry. 
+20. Encryption software performs the encryption and decryption of data to secure 
+and control access to high-value information. Thales and Gemalto did not have a 
+significant presence in Australia for the supply of enterprise encryption software, 
+and there were a number of other significant providers with a global presence 
+that were likely to act as a strong competitive constraint after the acquisition, 
+including Dell, Microsoft, Oracle, Seagate, McAfee, Netscape, Trend Micro and 
+many others. Therefore, the ACCC did not consider that the proposed 
+acquisition was likely to substantially lessen competition in the supply of 
+encryption software.  
+Competition analysis 
+21. During the course of its investigation, the ACCC received feedback from market 
+participants, in particular customers of HSMs, that GP HSMs and payment 
+HSMs are not typically substitutable as they serve different purposes and 
+customers would be unlikely to switch from one to the other in response to an 
+
+
+ 
+Page 4 of 6 
+increase in price or reduction in quality. Therefore, the ACCC considered that for 
+the purpose of the competition analysis, separate markets for the supply of GP 
+HSMs and payment HSMs were likely to exist. This approach to market definition 
+was also taken by a number of other competition regulators which considered 
+the proposed acquisition, including the European Commission and the New 
+Zealand Commerce Commission.   
+22. The ACCC also considered that other solutions such as HSM-as-a-service and 
+cloud-based key management products were not currently a close substitute to 
+traditional on-premise GP and payment HSMs, but could potentially become so 
+in the future. These alternative products were not considered part of the relevant 
+markets.  
+23. The ACCC considered that the relevant geographic scope of the separate 
+markets for the supply of GP HSM and payment HSM markets was national, 
+noting that competition on product quality predominantly occurs on a global basis 
+as the products supplied in Australia are generally homogenous to those 
+supplied in other countries. 
+General Purpose HSMs 
+24. The ACCC considers that Thales and Gemalto are each other’s closest 
+competitor and the two largest providers of GP HSMs in Australia and globally. 
+Therefore, the ACCC was concerned that the proposed acquisition could lead to 
+higher prices or reduced service levels for the supply of GP HSMs in Australia. 
+There were also concerns that the removal of Gemalto would have a detrimental 
+impact on innovation.   
+25. The ACCC received evidence of Thales and Gemalto competing closely with 
+each other across their GP HSM range, including by comparing and contrasting 
+each other’s features, functions, performance, technology and reputation to 
+current and potential customers. In some circumstances, customers had 
+leveraged this competition between Thales and Gemalto to obtain better pricing 
+and superior terms.  
+26. The ACCC considered that barriers to entry for overseas suppliers are likely to 
+be high. Customers of GP HSMs face significant barriers to switching between 
+suppliers as switching is costly, complex, risky and time consuming. Switching 
+involves the migration of cryptographic material and the redevelopment of certain 
+codes and algorithms. The ACCC received information that the process to 
+extract cryptographic material and handle it outside the secure boundary of the 
+GP HSM introduces risks that may deter some customers from switching GP 
+HSM suppliers, and that the time it takes to switch suppliers is generally two to 
+five years and requires a significant amount of testing. 
+27. Some customers of Thales and Gemalto expressed a strong preference for their 
+GP HSM supplier to have a local presence, as Thales and Gemalto do. 
+Therefore, the ACCC considered that it would take a significant increase in price 
+or decrease in service for customers to switch to a supplier without a local 
+presence.  
+28. The ACCC concluded that, without the divestiture undertaking, the proposed 
+acquisition was likely to substantially lessen competition for the supply of GP 
+HSMs in Australia.  
+
+
+ 
+Page 5 of 6 
+Payment HSMs 
+29. Thales and Gemalto supply the vast majority of payment HSMs to Australian 
+customers. Therefore, the ACCC was concerned that the removal of Gemalto 
+could lead to higher prices or lower quality for payment HSMs. However, the 
+ACCC considered that there were a number of factors that made a substantial 
+lessening of competition unlikely for the supply of payment HSMs. 
+30. Unlike for GP HSMs, Gemalto does not have a significant global presence in the 
+supply of payment HSMs; it previously acquired a company with an already 
+established presence in payment HSMs in Australia.  
+31. Feedback the ACCC received from industry participants indicated that payment 
+HSMs are generally considered a globally homogenous product, with product 
+development and manufacture occurring in one or two countries from where they 
+are distributed globally. There is a unique Australian standard for payment HSMs 
+(AS2805), but in most cases this standard requires de-activating some 
+functionality rather than any major redesign.  
+32. In terms of product development and innovation, the ACCC considered that the 
+other global players (including Utimaco, Atos, Ultra Electronics and Futurex), 
+even if they are not present in Australia at the moment, were likely to place a 
+competitive constraint on Thales (both globally and in Australia) in the longer 
+term.   
+33. The ACCC did not receive evidence of significant switching by customers 
+between Thales and Gemalto in Australia. In the shorter term, the vast majority 
+of sales in Australia are to existing customers via product refreshes or customers 
+expanding their security networks, and these sales are largely uncontested.  
+34. The ACCC also took into account that the majority of payment HSM sales are to 
+large financial institutions which are likely to have some degree of bargaining 
+power or purchase on a scale sufficient to sponsor a new entrant (for example, 
+for an existing overseas manufacturer to commence supply into Australia). The 
+ACCC also considered that barriers to entry for international suppliers to enter 
+Australia are likely to decline over time. 
+35. Although the proposed acquisition results in the removal of one of the two major 
+suppliers of payment HSMs in Australia, the factors noted above led the ACCC 
+to conclude that the proposed acquisition was unlikely to substantially lessen 
+competition for the supply of payment HSMs in Australia.  
+Undertaking 
+36. In order to remedy the ACCC’s competition concerns in respect of GP HSMs, 
+Thales provided a divestiture undertaking to the ACCC to comply with 
+commitments it made to the European Commission to sell its global GP HSM 
+business. The divesture undertaking requires that Thales obtains ACCC 
+approval of the purchaser of the global GP HSM business, which reflects the 
+global nature of the divestiture obligations and the GP HSM business itself. 
+
+
+ 
+Page 6 of 6 
+37. The ACCC’s purchaser approval process will take into account the ability and 
+intention of the proposed purchaser to maintain and operate the business in 
+Australia. 
+38. The proposed acquisition required review by competition authorities in other 
+jurisdictions and Thales received conditional clearance by the European 
+Commission for the proposed acquisition on 11 December 2018.  
+39. As a result of the divestiture undertaking and commitments to the European 
+Commission, a new or established global supplier will acquire Thales’ nShield 
+HSM brand and assets, including in Australia.  
+Conclusion 
+40. Based on the above analysis, the ACCC concluded that the proposed acquisition 
+of Gemalto by Thales, taking into account the divestiture undertaking, would not 
+be likely to have the effect of substantially lessening competition in any market. 
+ 

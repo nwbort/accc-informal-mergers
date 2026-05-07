@@ -1,0 +1,31 @@
+{
+  "id": "1502",
+  "title": "Acquirer: Melbourne Business School Limited; Target: Mt Eliza Business School",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-melbourne-business-school-limited-target-mt-eliza-business-school",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20046",
+  "industries": [],
+  "date_completed": "21 January 2004",
+  "date_completed_iso": "2004-01-21T12:00:00Z",
+  "date_commenced": "27 November 2003",
+  "date_commenced_iso": "2003-11-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Melbourne Business School Limited"
+  ],
+  "targets": [
+    "Mt Eliza Business School"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Melbourne Business School Ltd proposes to acquire Mt Eliza Business School.",
+    "Market definition": "The following two markets were considered to be relevant: 1. a market in Victoria for the supply of Post-graudate management education programs with a submarket for the supply of MBA programs; and 2. a market in Victoria for the supply of Executive Education program.",
+    "Competition analysis": "The Commission's Merger Guidelines market thresholds are not exceeded in the relevant markets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "8431"
+  }
+}

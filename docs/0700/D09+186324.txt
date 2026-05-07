@@ -1,0 +1,895 @@
+ 
+Public Competition Assessment 
+19 November 2009 
+Thomson Reuters (Professional) Australia Limited - proposed 
+acquisition of Ernst & Young’s tax compliance software products 
+business 
+ 
+A 
+Introduction 
+1. 
+On 14 October 2009, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision to oppose the proposed acquisition of Ernst & 
+Young’s tax compliance software products business by Thomson Reuters 
+(Professional) Australia Limited (proposed acquisition). The ACCC was of the 
+view that the proposed acquisition would be likely to have the effect of 
+substantially lessening competition in the national markets for the supply of 
+income tax compliance software and for the supply of fringe benefits tax (FBT) 
+compliance software in contravention of s. 50 of the Trade Practices Act 1974 
+(the Act). 
+2. 
+The ACCC formed its view on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+B 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition was opposed by the ACCC. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-2- 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets and 
+the associated merger and competition issues. It also alerts the public to the 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change, because of developments.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own merits.  
+7. 
+Many of the ACCC’s decisions will involve consideration of both non-
+confidential and confidential information provided by the merger parties and 
+market participants. In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources. While the ACCC aims to provide an appropriately 
+detailed explanation of the basis for the ACCC decision, where this is not 
+possible, maintaining confidentiality will be the ACCC’s paramount concern, and 
+accordingly a Public Competition Assessment may not definitively explain all 
+issues and the ACCC’s analysis of such issues. 
+C 
+The parties 
+The acquirer: Thomson Reuters (Professional) Australia Limited 
+8. 
+Thomson Reuters (Professional) Australia Limited (Thomson Reuters) is a 
+wholly-owned subsidiary of Thomson Reuters Corporation, a corporation based 
+in the US. Thomson Reuters Corporation currently has a presence in 93 countries 
+and employs approximately 50,000 employees. 
+9. 
+Thomson Reuters Corporation is a global provider of technology and integrated, 
+information management and publishing solutions for tax and corporate 
+professionals in accounting firms, corporations, law firms, government, and for 
+academics and students. Thomson Reuters Corporation was formed following 
+Thomson’s acquisition of Reuters in 2008.  
+10. 
+In Australia, Thomson Reuters currently supplies the following tax software 
+products: PowerTax; N-ABLE; Company Tax Kit; PowerTax FBT; FBT 
+Simplifier; FBT Toolkit; and Tax Effect Accounting Toolkit. Table 1 provides 
+further detail of these products. 
+11. 
+Thomson Reuters acquired the majority of its tax software products from three of 
+the ‘big four’ accounting firms in the last two years. Specifically: 
+ PowerTax and PowerTax FBT from PricewaterhouseCoopers (PwC) in 2007; 
+and 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-3- 
+ N-ABLE, FBT Simplifier and Company Tax Kit from Allume Technology 
+Partners Pty Ltd (a joint venture between Deloitte and KPMG) (Allume) in 
+2008. 
+12. 
+The ACCC understands that these accounting firms sold their products to 
+Thomson Reuters primarily because they considered it was not their core 
+business to be a software provider. Another reason given was their increasingly 
+limited ability to sell tax compliance software products to their audit clients 
+following the introduction of auditor independence rules in the United States and 
+other countries around the world.  
+13. 
+Thomson Reuters’ other tax software product —the Tax Effect Accounting 
+Toolkit — was developed and authored by Moore Stephens on behalf of Thomson 
+Reuters.  
+The target: Ernst & Young  
+14. 
+Ernst & Young is a member company of Ernst & Young Global Limited (EYG), 
+a UK private company limited by guarantee. EYG is a global professional 
+services firm providing advisory services across core service lines of assurance, 
+advisory and taxation.  
+15. 
+In Australia, Ernst & Young currently supplies the following tax compliance 
+software products: Tax Integrator, Global Integrator and FBT Organiser. Table 1 
+provides further detail of these products.  
+Other industry participants 
+16. 
+Moore Stephens is a national network of six affiliated independent firms 
+providing business advice and chartered accounting services. Moore Stephens 
+supplies a software product for income tax compliance activities called Complete 
+Tax Solutions.  
+17. 
+The National Tax & Accountants’ Association (NTAA) is a not-for-profit 
+organisation that provides support to its 7,000 member firms, including practical 
+tax advice to assist taxation practitioners and businesses. The NTAA supplies a 
+software product for FBT compliance activities called FBT Return Preparer.  
+18. 
+A number of other organisations supply suites of accounting and practice 
+management software which include products for the preparation of income tax 
+and, in some cases, FBT returns. This software is targeted to tax and accounting 
+professionals (for predominantly small to medium enterprise (SME) clients). The 
+suppliers include MYOB, CCH Australia, Reckon Group and Sage Software 
+Australia.  
+ 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-4- 
+Table 1 
+Tax software products of the merger parties 
+Supplier 
+Name of product 
+Description 
+Income tax software products 
+PowerTax 
+• Developed by PwC and acquired by Thomson 
+Reuters in 2007 
+• Has tax return, tax effect accounting and trusts 
+modules 
+• Can be hosted on a customer’s server or 
+intranet or on the web 
+• Also available in ‘Lite’ version on CD-ROM. 
+ N-ABLE 
+• Developed by Allume, acquired by Thomson 
+Reuters in 2008 
+• Has tax return and tax effect accounting 
+modules 
+• Can be hosted on intranet or the web 
+Company Tax Kit 
+• Developed by Allume, acquired by Thomson 
+Reuters in 2008 
+• Prepares tax returns, no tax effect accounting 
+functionality 
+• Spreadsheet based product  
+Thomson Reuters 
+Tax Effect Accounting Toolkit 
+• Authored by Moore Stephens for Thomson 
+Reuters in 2005 
+• Does not prepare tax returns, tax effect 
+accounting only 
+Tax Integrator 
+• Similar functionality to PowerTax / N-ABLE 
+(tax effect accounting and tax returns) plus 
+electronic lodgement capability 
+• Can be hosted on customer’s server or 
+intranet or on the web 
+Ernst & Young 
+Global Integrator 
+• Caters for multinational companies with 
+multi-jurisdictional reporting requirements 
+FBT software products 
+PowerTax FBT 
+• Developed by PwC and acquired by Thomson 
+Reuters in 2007 
+• Prepares and produces FBT return 
+• Spreadsheet-based 
+FBT Simplifier 
+• Developed by Allume, acquired by Thomson 
+Reuters in 2008 
+• Prepares and produces FBT return 
+• Database configuration 
+Thomson Reuters 
+FBT Toolkit 
+• Authored by Moore Stephens for Thomson 
+Reuters 
+• Prepares and produces FBT return 
+• Spreadsheet-based 
+Ernst & Young 
+FBT Organiser 
+• Prepares and produces FBT return 
+• Spreadsheet based 
+ 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-5- 
+D 
+Industry background 
+Tax compliance activities  
+19. 
+Companies undertake a range of tax compliance activities which include:  
+ gathering, analysing and interpreting financial data for tax planning and 
+provisioning (including tax effect accounting1);  
+ where there are multiple group entities – consolidating financial data into one 
+reporting stream (for the purpose of income tax returns and reporting, a group 
+of affiliated companies are able to file a single consolidated tax return, rather 
+than each entity filing a separate tax return) ; and  
+ preparing for external tax reporting requirements (such as lodging income tax 
+returns with the Australian Taxation Office.  
+20. Two significant types of taxes payable by companies are income tax and FBT, as 
+below:  
+ income tax is paid on a company’s taxable income. If a company has an 
+income tax liability, it is required to lodge a return for the financial year 
+typically ending 30 June; and  
+ FBT is paid on certain benefits employers provide to their employees or their 
+employees’ associates in place of salary or wages. If a company has an FBT 
+liability, it is required to lodge a return for the FBT year typically ending 
+31 March.  
+Options available to companies conducting tax compliance activities 
+21. 
+In conducting tax compliance activities, companies can potentially choose from 
+the following options:  
+ undertake all activities in-house (using tax compliance software or in-house 
+developed tax compliance solutions); or  
+ outsource all activities to a professional advisor, usually one of the ‘big four’ 
+accounting firms in the case of large companies (in which case advisors might 
+use tax compliance software); or  
+ undertake some activities in-house and outsource some activities, in which 
+case the degree of involvement of the professional advisor varies, from 
+undertaking some of the initial calculations through to reviewing a draft 
+return prepared by the company.  
+                                               
+1 Tax effect accounting is a method of bringing income tax expenses into account during the period in 
+which the expenses are incurred, rather than the period in which the income tax is payable. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-6- 
+Tax compliance software 
+22. 
+The software discussed in this section is referred to in this Public Competition 
+Assessment as “tax compliance software”. 
+23. 
+A number of software products are available to manage the income tax 
+compliance requirements of companies. Software products that currently provide 
+such functionality are PowerTax and N-ABLE (supplied by Thomson Reuters), 
+Tax Integrator (supplied by Ernst & Young) and Complete Tax Solutions 
+(supplied by Moore Stephens).  
+24. 
+These products provide companies with what is described as an ‘end to end’ 
+process, enabling them to attend to income tax compliance activities and 
+simplifying the process of internal and/or external review of financial reports. 
+These products are also used by the ‘big four’ accounting firms in providing tax 
+advisory services to some of their clients (generally to their larger clients).  
+25. 
+Inquiries indicated that the core functionality offered by income tax compliance 
+software is likely to include all four of the following: 
+ automated data input (including mapping to and from Enterprise Resource 
+Planning (ERP)/financial systems or uploading from Microsoft Excel); 
+ tax effect accounting (; 
+ multi-entity consolidation/aggregation calculations (including for 
+consolidated tax return preparation); and 
+ company tax return form generation. 
+26. 
+These products are most often supplied in an ‘off the shelf’ format, although 
+some can be customised for a particular company’s requirements. The products 
+are supplied under licence with many contracts being 3 years in duration with 
+licence fees paid annually. The licence fee tends to include software support and 
+some training. 
+27. 
+For FBT compliance, software includes PowerTax FBT, FBT Simplifier and FBT 
+Toolkit (supplied by Thomson Reuters), FBT Organiser (supplied by Ernst & 
+Young) and FBT Return Preparer (supplied by the NTAA). 
+28. 
+Similar to income tax compliance, these products provide a highly automated 
+process for customers. Product features tend to include: 
+ automated data input and rollover (some products only have manual data 
+input); 
+ multi-user access; 
+ export functions, such as exporting data to payroll systems; and 
+ capability to aggregate and report FBT details in a variety of ways, such as by 
+type of benefit, by employee, by employer/group/division, for both external 
+and internal reporting. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-7- 
+Other tax compliance solutions 
+Other software 
+29. 
+There are other types of software that can be used by a company or an 
+accountant/tax advisor as part of the compliance process for income tax and FBT 
+— tax return software, ERP modules and general book keeping software.   
+30. 
+Tax return software, such as APS Advance Tax, MYOB Tax (formerly Solution 6), 
+Sage Handisoft’s HandiTax and CCH’s ProSystem Tax, is primarily marketed to 
+accountants. Thomson Reuters also supplies a tax return software product called 
+Company Tax Kit which is primarily marketed to companies. 
+31. 
+As the name suggests, this type of software is used primarily to prepare tax 
+returns. The software can also be used to produce some reports. Some software 
+allows tax return forms to be submitted electronically. 
+32. 
+Tax return software that is marketed to accountants tends to have additional 
+functionalities that assist accountants with the management of their practices (the 
+software forms part of an accounting and practice management software suite). 
+Accountants primarily use this software for their clients, and clients provide the 
+input data in compatible files (including book keeping software files – discussed 
+below).  
+33. 
+Tax return software does not have tax effect accounting functionality or 
+consolidation/aggregation functionality and has less reporting functionality 
+compared with tax compliance software. In contrast to tax compliance software, 
+this type of software does not provide companies with an ‘end to end’ process, as 
+described above. 
+34. 
+General book keeping software includes Quicken and MYOB Accounting. Such 
+software allows SMEs to prepare basic records including journals, profit and loss 
+statements, trial balances, and can be used to prepare some tax statements such as 
+Business Activity Statements. However, this software cannot prepare tax returns 
+or conduct tax effect accounting activities.  
+35. 
+Many large companies use modules in ERP systems, such as those supplied by 
+SAP or Oracle, for numerous business needs. However, no modules have been 
+specifically designed for tax compliance activities and these systems are 
+considered to be unsuitable for this purpose by market participants.  
+In-house developed tax compliance solutions 
+36. 
+In-house developed tax compliance solutions are often based on spreadsheet 
+applications (e.g. Microsoft Excel) or sometimes using other methods such as 
+database platforms. These are usually developed internally, although some 
+companies engage external service providers to develop customised solutions. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-8- 
+37. 
+All functionality to conduct tax compliance activities needs to be built into the 
+solution by a company or by a software consultant at the request of a company. 
+Given this, the functionality built into individual in-house solutions tends to vary 
+significantly — from the quite simplistic (only allowing for basic aggregation and 
+generation of totals to load into the tax return) to the more sophisticated (allowing 
+for full tax compliance including a range of reporting functionality, complex 
+consolidation functionality, sophisticated tax effect accounting, foreign exchange 
+conversions, depreciation, R&D calculations etc.).  
+38. 
+However, in-house developed tax compliance solutions generally have some 
+functional limitations, e.g. spreadsheet based solutions cannot automatically 
+generate/populate a tax return form and tax returns cannot be submitted 
+electronically.  
+E 
+ACCC review timeline 
+39. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+06-Jul-2009 
+ 
+27-Jul-2009 
+ 
+19-Aug-2009 
+ 
+ 
+27-Aug-2009 
+ 
+ 
+01-Sep-2009 
+ 
+ 
+ 
+10-Sep-2009 
+ 
+24-Sep-2009 
+ 
+ 
+05-Oct-2009 
+ 
+ 
+ 
+ 
+08-Oct-2009 
+ 
+ 
+14-Oct-2009 
+ACCC commenced review under the Merger Review Process Guidelines. 
+ 
+Closing date for submissions from interested parties. 
+ 
+ACCC published a Statement of Issues outlining preliminary competition 
+concerns. 
+ 
+ACCC requested further information from merger parties. ACCC 
+timeline suspended pending receipt of this information. 
+ 
+Former proposed date of 23 September 2009 for announcement of 
+ACCC's findings, amended to allow the merger parties to provide 
+further information. 
+ 
+Closing date for submissions relating to Statement of Issues. 
+ 
+ACCC received further information from the merger parties. ACCC 
+timeline recommenced. 
+ 
+Former proposed date of 7 October 2009 for announcement of ACCC's 
+findings amended in response to a request by Thomson Reuters 
+to allow it additional time to provide further information to 
+the ACCC. ACCC timeline suspended pending receipt of this information. 
+ 
+ACCC received further information from Thomson Reuters. ACCC 
+timeline recommenced. 
+ 
+ACCC announced it would oppose the proposed acquisition. 
+ 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-9- 
+F 
+Market inquiries 
+40. 
+The ACCC conducted extensive market inquiries in relation to the proposed 
+acquisition. A range of interested parties provided responses including 
+competitors, potential market entrants, companies that use the tax compliance 
+software products for their tax compliance function, companies that do not use 
+the tax compliance software products and other interested third parties. 
+G 
+Statement of Issues 
+41. 
+On 19 August 2009, the ACCC published a Statement of Issues regarding the 
+proposed acquisition. The Statement of Issues sought further comments from 
+market participants on the likely market definition identified by the ACCC and on 
+the ACCC’s preliminary view that the proposed acquisition:  
+ was likely to substantially lessen competition in the national market for the 
+supply of income tax compliance software to large companies; and  
+ may raise substantial concerns in the national market for the supply of FBT 
+compliance software.  
+42. 
+The Statement of Issues is available on the ACCC’s website at 
+www.accc.gov.au/statementsofissues. 
+H 
+With/without test  
+43. 
+In assessing a merger pursuant to s. 50 of the Act, the ACCC must consider the 
+effects of the transaction by comparing the likely future state of competition if the 
+transaction proceeds (the “with” or “factual” position) to the likely future state of 
+competition if the transaction does not proceed (the “without” or “counterfactual” 
+position).  
+44. 
+Following extensive inquiries, the ACCC was of the view that, without the 
+merger, it was likely that the tax compliance software products business currently 
+operated by Ernst & Young would continue as a competitive presence in the 
+market. Accordingly, the ACCC adopted this view as part of the counterfactual in 
+applying the with/without test in this matter.  
+I 
+Market definition 
+45. 
+The ACCC considered that the relevant markets in this matter were: 
+ the national market for the supply of income tax compliance software; and 
+ the national market for the supply of FBT compliance software. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-10- 
+Supply of income tax compliance software market 
+Geographic dimension 
+46. 
+Given that income tax software products are developed specifically for the 
+requirements of the Australian taxation regime and are marketed and sold to 
+customers nationally, the ACCC took the view that the geographic dimension of 
+the market for the supply of income tax compliance software was national.  
+Product dimension  
+47. 
+In the Statement of Issues, the relevant income tax product market was identified 
+with reference to large companies. The ACCC’s preliminary view was that the 
+software products of the merger parties and Moore Stephens constituted possible 
+substitution options for large companies because these products offered the core 
+functionality required by such companies. After further consideration, the ACCC 
+considered it was more appropriate to identify the market based on the core 
+functionality provided by the income tax compliance software products.   
+48. 
+On the basis of extensive market inquiries, the ACCC considered that the core 
+functionality offered by income tax compliance software is likely to include all of 
+the following elements: 
+1. automated data input (including mapping to and from ERP/financial systems 
+or uploading from Microsoft Excel); 
+2. tax effect accounting; 
+3. multi-entity consolidation/aggregation calculations (including for 
+consolidated tax return preparation); and 
+4. company tax return form generation. 
+49. 
+In identifying the scope of the relevant market, the ACCC considered whether the 
+market should be limited to income tax compliance software, or defined more 
+broadly to encompass other tax compliance solutions such as tax return software, 
+ERP systems, general book keeping software, and in-house developed solutions. 
+In particular, the ACCC considered whether or not other tax compliance solutions 
+were sufficiently close demand-side or supply-side substitutes to be included in 
+the same market as income tax compliance software. 
+Demand-side substitutability 
+50. 
+The ACCC analysed in considerable depth the extent to which income tax 
+compliance software and other tax compliance solutions could be considered 
+close substitutes on the demand-side. The ACCC sought a large amount of 
+information from both the merger parties as well as a large number of companies 
+in relation to these issues. 
+51. 
+Market inquiries demonstrated that the majority of companies did not consider 
+other software products (that is, tax return software, ERP systems or general book 
+keeping software), in-house developed solutions or outsourcing to be close 
+substitutes for income tax compliance software. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-11- 
+52. 
+Inquiries revealed that using in-house solutions for income tax compliance 
+involves a manual and lengthy process. There can be costs and difficulties in 
+initially building the solution, and continuing difficulties in periodically updating 
+the solution to ensure consistency with changes in complex tax legislation. It was 
+found that data integrity issues could also pose significant risks.   While these 
+difficulties and risks can be minimised by a company, this would require a 
+sizeable investment  in terms of time and money. 
+53. 
+Many customers considered that outsourcing their tax compliance activities to a 
+professional advisor was not a viable option because the cost differential between 
+tax compliance software and outsourcing was considered to be significant. 
+Although some customers did consider outsourcing their tax compliance 
+activities to be an alternative to using income tax compliance software, the 
+ACCC found that  professional advisors in fact use income tax compliance 
+software in undertaking tax compliance activities for the majority of clients. 
+Therefore, outsourcing still involves the use of income tax compliance software. 
+54. 
+Analysis of actual switching between solutions further supported the view that 
+the other income tax compliance solutions were not close substitutes to income 
+tax compliance software.  
+55. 
+It was found that, over the past two years, only a small proportion of customers 
+switched from their existing income tax compliance software. Of the customers 
+that switched from income tax compliance software, most moved across to an 
+alternative income tax compliance software product. Some customers switched to 
+an in-house solution; only a very small number of customers switched to an 
+outsourced solution. It was found that not one customer switched from income 
+tax compliance software to income tax return software, ERP modules or other 
+general book keeping software.  
+56. 
+Generally, switching from income tax compliance software to another solution 
+resulted from a change in the client’s functional needs. A small number of 
+customers that moved to an in-house solution cited that the income tax 
+compliance software could not meet their specific needs. The majority of 
+customers that moved to an in-house solution noted that income tax compliance 
+software was too expensive and/or too complex for their relatively simple tax 
+needs. Some of these customers had recently downsized operations whilst others 
+had simply been trialling the income tax compliance software. Some of these 
+customers recognised that, if their tax needs were more complex, in-house 
+solutions would not have been a possible alternative.  
+57. 
+Market inquiries indicated that some switching from in-house solutions to income 
+tax compliance software did occur. 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-12- 
+58. 
+The ACCC found that switching from an in-house solution to income tax 
+compliance software generally happened as a one-off change, reflecting 
+technological advances, the growth or increasing complexity of the company or 
+the increasing complexity of tax legislation. The ACCC found that there was 
+some suggestion of asymmetric substitution between in-house solutions and 
+income tax compliance software. That is, income tax compliance software may, 
+to some extent, provide a substitute for users of in-house solutions (hence the 
+observation of some actual switching of customers from in-house solutions to tax 
+compliance software). However, for users of tax compliance software, an 
+in-house solution was not a close substitute due to the factors outlined above and 
+because those customers had not maintained the knowledge and skills needed for 
+an in-house solution.  
+Supply-side substitutability  
+59. 
+On the supply side, the ACCC explored whether other software providers could 
+build further functionality into their respective products and market those 
+products quickly and without significant investment to supply an income tax 
+compliance software product. 
+60. 
+Market inquiries with providers of tax return and other software revealed that it 
+would take a considerable amount of time to develop and integrate the additional 
+functionality required (such as tax effect accounting functionality) to develop 
+those products to a point where they could provide similar functionality to 
+income tax compliance software. Providers of other software products also noted 
+that the investment associated with the marketing efforts would be significant. 
+61. 
+The ACCC found that suppliers of other software products could not quickly and 
+without significant investment, build and supply income tax compliance software 
+products, and accordingly, other software products were not considered to be 
+close substitutes on the supply-side. 
+Conclusion  
+62. 
+The ACCC found that there were no close substitutes on the demand-side for 
+income tax compliance software products. It was found that products such as tax 
+return software and in-house solutions were not close substitutes.  
+63. 
+The ACCC found that there were no close substitutes on the supply-side for 
+income tax compliance software products as suppliers of other software products 
+could not quickly and without significant investment build and supply income tax 
+compliance software products.  
+64. 
+On this basis, the ACCC concluded that the relevant market was the national 
+market for the supply of income tax compliance software.  
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-13- 
+Supply of FBT compliance software market 
+Geographic dimension 
+65. 
+Market inquiries revealed that FBT compliance software products are specific to 
+the requirements of the Australian taxation regime and are marketed and sold to 
+customers nationally. Accordingly, the ACCC took the view that the geographic 
+dimension of this market was national.  
+Product dimension  
+66. 
+On the basis of market inquiries, the ACCC found that the core functionality 
+offered by FBT compliance software is that it provides for the data entry process, 
+and the calculation and reporting of FBT benefits for the purpose of FBT 
+compliance.  
+67. 
+In identifying the scope of the relevant market, the ACCC considered whether the 
+market should be limited to FBT compliance software, or defined more broadly 
+to encompass other FBT compliance solutions such as in-house solutions and 
+outsourcing FBT compliance to professional advisors. In particular, the ACCC 
+considered whether or not other solutions were sufficiently close demand-side or 
+supply-side substitutes to be included in the same market as FBT compliance 
+software. 
+Demand-side substitutability  
+68. 
+In identifying the scope of the product dimension of this market, the ACCC 
+explored the extent to which other FBT compliance solutions (such as in-house 
+solutions or outsourcing) could be considered close demand-side substitutes to 
+FBT compliance software. 
+69. 
+Market inquiries revealed that customers do not consider in-house and outsourced 
+solutions to be close substitutes to FBT compliance software because of the extra 
+work and costs associated with using in-house and outsourced solutions. Further, 
+in-house solutions leave the company open to compliance risks because of 
+potential data integrity issues.  
+70. 
+Analysis of actual switching between solutions supported the view that other FBT 
+compliance solutions are not considered close substitutes for FBT compliance 
+software. Market inquiries showed that there were very few instances of 
+switching from FBT compliance software to another FBT compliance solution or 
+even another FBT compliance software product.  
+71. 
+It was found that in the small number of cases where customers of the merger 
+parties did switch to another product, those customers switched from FBT 
+compliance software to an in-house FBT solution rather than another FBT 
+compliance software product. However, similar to income tax compliance 
+software, these customers noted that their FBT needs were relatively ‘simple’ and 
+therefore the software was not a cost effective option for them.  
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-14- 
+72. 
+It was found that some customers switched from an in-house solution to an FBT 
+compliance software product. However, the ACCC found that such switching 
+occurred not because in-house FBT solutions and FBT compliance software 
+products were close substitutes but rather generally because of changes in the 
+needs or circumstances of the customer. As with income tax compliance 
+software, the ACCC found that there was some suggestion of asymmetric 
+substitution between in-house solutions and FBT compliance software. That is, 
+FBT compliance software may, to some extent, provide a substitute for users of 
+in-house solutions, but for users of tax compliance software an in-house solution 
+was not a close substitute. 
+Supply-side substitutability 
+73. 
+On the supply side, other software providers noted that they were unlikely to 
+develop FBT compliance software because of time, costs and expertise involved.  
+74. 
+Accordingly, the ACCC found that suppliers of other software products could not 
+quickly and without significant investment, build and supply FBT compliance 
+software products. 
+Conclusion  
+75. 
+The ACCC took the view that other software, in-house solutions or outsourcing 
+to a professional advisor were not close substitutes to FBT compliance software 
+on the demand-side, largely because of the extra work and costs involved in using 
+those other solutions. 
+76. 
+The ACCC found that there were no close substitutes on the supply-side for FBT 
+compliance software.  
+77. 
+On this basis, the ACCC concluded that the relevant market was the national 
+market for FBT compliance software.  
+J 
+Competition analysis 
+Market concentration 
+78. 
+The ACCC found that the income tax compliance software market is comprised 
+of four competing software products, namely PowerTax and N-ABLE (supplied 
+by Thomson Reuters), Tax Integrator (supplied by Ernst & Young) and Complete 
+Tax Solutions (supplied by Moore Stephens).  
+79. 
+The ACCC found that the FBT compliance software market is comprised of five 
+competing software products, namely PowerTax FBT, FBT Simplifier and FBT 
+Toolkit (supplied by Thomson Reuters), FBT Organiser (supplied by Ernst & 
+Young) and FBT Return Preparer (supplied by the NTAA). 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-15- 
+80. 
+The ACCC estimated the market shares and post-merger measures of 
+concentration for the income tax compliance software market. Post-acquisition, 
+the merged entity would hold more than a 90% share of licence revenue from 
+income tax compliance software. Accordingly, the ACCC found that the 
+proposed acquisition was likely to result in a significant increase in concentration 
+in an already concentrated market. 
+81. 
+The ACCC considered that the structure of the market for FBT compliance 
+software is similar to the income tax compliance software market, and that the 
+proposed acquisition was also likely to result in a significant increase in 
+concentration in this already concentrated market. 
+Availability of substitutes 
+82. 
+The ACCC found that only one other competitor would remain in each of the 
+relevant markets post-acquisition — Moore Stephens in the income tax 
+compliance software market and the NTAA in the FBT compliance software 
+market.  
+83. 
+While their products have comparable functionality to the products of the merger 
+parties, inquiries revealed that these competitors do not currently have a 
+significant market share.  
+84. 
+Further, documentary evidence reviewed by the ACCC showed that the merger 
+parties competed vigorously with each other, but indicated that the merger parties 
+did not consider Moore Stephens or the NTAA as strong competitors.   
+85. 
+The ACCC found that Moore Stephens and the NTAA are likely to be 
+constrained from expanding their respective customer bases. While both 
+organisations are in the tax advisory space, market inquiries indicated that most 
+companies do not perceive the products supplied by Moore Stephens and the 
+NTAA as functionally equivalent to the products supplied by the merger parties. 
+Also, the supply of software is not recognised as their core business. 
+Accordingly, the ACCC took the view that it is unlikely that these two providers 
+could attract a sizeable number of customers away from the established products 
+owned by the merger parties in a reasonably mature market. 
+86. 
+As outlined above, the ACCC found that in-house developed solutions and 
+outsourcing are not close substitutes for tax compliance software and are not in 
+the relevant markets. Nevertheless, the ACCC examined the level of constraint 
+provided by these ‘out of market’ tax compliance solutions. Extensive market 
+inquiries indicated that these tax compliance solutions would not pose an 
+effective constraint on the merged firm in either of the relevant markets.  
+Barriers to entry  
+87. 
+The ACCC found that barriers to entry are significant in the relevant markets.  
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-16- 
+88. 
+In the income tax compliance software market, all products to date have been 
+developed by industry tax experts — the ‘big four’ accounting firms and Moore 
+Stephens. The ACCC understands that product development requires a high level 
+of tax expertise and a high level of IT expertise. Market participants have 
+suggested that entry would only be viable if it were through acquisition of an 
+existing product. 
+89. 
+After consulting widely with a large range of actual and potential competitors, the 
+ACCC found that it would take at least 2 years to develop a greenfield income tax 
+compliance product at a likely cost of around $2–3 million.  
+90. 
+The ACCC found that it would be very difficult for a new entrant to attract a 
+critical mass of customers for an income tax compliance software product for a 
+number of reasons including: 
+ A proven track record / strong brand is needed — given the significant 
+consequences of errors in a company’s income tax compliance, customers of 
+income tax compliance software are risk averse and, as such, will not use 
+software products that do not come with a proven track record, such as 
+customer testimonials, or are not provided under an established brand name. 
+In this respect, potential entrants considered endorsement and/or use by one 
+of the ‘big four’ accounting firms as necessary to attract customers. The 
+ACCC found that the ‘big four’ accounting firms are unlikely to endorse or 
+use a new entrant product, and other customers are unlikely to sponsor entry. 
+Further, the ‘big four’ accounting firms are unlikely to re-enter the market 
+because participation in the income tax compliance software market would 
+distract from their core business, and the auditor independence rules would 
+limit their target market. 
+ There are barriers to customers switching — a large number of customers are 
+supplied income tax compliance software under 3 year contracts and the costs 
+of implementing a new mode of tax compliance can be substantial in terms of 
+employee training and system setup. 
+ The market is reasonably mature — while not yet saturated, customer 
+numbers are not likely to grow significantly in the foreseeable future.  
+91. 
+In respect of the FBT compliance software market, the ACCC found that an FBT 
+compliance software product would take less time and money to develop than an 
+income tax compliance software product.  
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-17- 
+92. 
+However, the ACCC also found that there is unlikely to be any monoline entry 
+into this market (that is, supplying an FBT compliance software product without 
+a complementary income tax compliance software product) due to lower expected 
+returns, relative to income tax compliance products, and the expectation that a 
+supplier of an FBT compliance product would also supply an income tax 
+compliance product. Also, as with income tax compliance products, a new entrant 
+would be likely to face difficulties in attracting a critical mass of customers 
+because of the reluctance of customers to switch to a new product, the desirability 
+of a product being aligned with one of the ‘big four’ accounting firms, the 
+existence of 3 year supply contracts and the mature nature of the market. The 
+ACCC found that the ‘big four’ accounting firms are unlikely to endorse a new 
+product or to re-enter. 
+93. 
+For the reasons set out above, the ACCC found that new and effective entry in the 
+relevant markets in the foreseeable future was unlikely. 
+Removal of a vigorous and effective competitor  
+94. 
+On the basis of market inquiries and analysis of internal company documents, the 
+ACCC considers that the two merger parties are each other’s closest competitors 
+in both the national markets for the supply of income tax compliance software 
+and FBT compliance software.  
+95. 
+Ernst & Young and Thomson Reuters compete vigorously for each other’s 
+customers as well as vigorously for new customers (including those switching 
+from in-house solutions to tax compliance software) in both of the relevant 
+markets. The merger parties compete on price, service levels and on software 
+functionality. The ACCC considers that the proposed acquisition would therefore 
+result in a large reduction in competition at the ‘switching’ stage and the ‘sign up’ 
+stage. 
+Ability to increase prices and profits 
+96. 
+Given that the proposed acquisition would have resulted in the removal of 
+Thomson Reuters’ closest competitor in markets where barriers to entry are 
+significant and the remaining competitors currently pose a weak competitive 
+constraint and are unlikely to expand significantly, the ACCC found that if the 
+acquisition were to proceed, Thomson Reuters would have the ability to 
+significantly and sustainably increase prices in both markets.  
+97. 
+In addition, if the merger proceeded, the ACCC found that the merged firm 
+would have the ability to lower service levels in each market without losing a 
+significant number of customers, due to the factors outlined above. Further, there 
+would be less incentive for the merged entity to further develop or improve its 
+products post-acquisition due to the reduction in competition.  
+Conclusion 
+98. 
+In conclusion, the ACCC found that if the proposed acquisition were to proceed, 
+the merged entity would have the ability to significantly and sustainably increase 
+
+
+Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young’s 
+tax compliance software products business 
+-18- 
+prices and lower service levels in the markets for the supply of income tax 
+compliance software and the supply of FBT compliance software. Further there 
+would be less incentive for the merged entity to further develop or improve its 
+products in these markets. In contrast, if the proposed acquisition were not to 
+proceed, the ACCC took the view that the tax compliance software business 
+currently operated by Ernst & Young would continue to compete vigorously with 
+Thomson Reuters in relation to the supply of income tax and FBT compliance 
+software products, and continue to effectively constrain the ability of Thomson 
+Reuters to increase prices, or lower service levels. 
+99. 
+On the basis of the above, the ACCC formed the view that the proposed 
+acquisition would be likely to have the effect of substantially lessening 
+competition in the national market for the supply of income tax compliance 
+software and in the national market for the supply of FBT compliance software in 
+contravention of s. 50 of the Act. 

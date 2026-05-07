@@ -1,0 +1,26 @@
+{
+  "id": "1395",
+  "title": "Reuters Limited - proposed acquisition of Moneyline Telerate",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/reuters-limited-proposed-acquisition-of-moneyline-telerate",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20987",
+  "industries": [
+    "Real time market data"
+  ],
+  "date_completed": "10 May 2005",
+  "date_completed_iso": "2005-05-10T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Reuters Limited proposes to acquire Moneyline Telerate Holdings.",
+    "Market definition": "Supply of real-time market data",
+    "Competition analysis": "Telerate only has a small market share and it seems likely that other international suppliers could enter the Australian market relatively easily.  Consequently, the proposed acquisition is unlikely to substantially lessen competition.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

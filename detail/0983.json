@@ -1,0 +1,43 @@
+{
+  "id": "0983",
+  "title": "C R Bard Inc - proposed acquisition of Edwards Lifesciences Corporation's worldwide peripheral vascular stent business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/c-r-bard-inc-proposed-acquisition-of-edwards-lifesciences-corporations-worldwide-peripheral-vascular-stent-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30682",
+  "industries": [
+    "Vascular Stent Business"
+  ],
+  "date_completed": "8 January 2008",
+  "date_completed_iso": "2008-01-08T12:00:00Z",
+  "date_commenced": "19 December 2007",
+  "date_commenced_iso": "2007-12-19T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "C R Bard Inc"
+  ],
+  "targets": [
+    "Edwards Lifesciences Corporation"
+  ],
+  "timeline": [
+    {
+      "date": "19 Dec 2007",
+      "date_iso": "2007-12-19T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "4 Jan 2008",
+      "date_iso": "2008-01-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Jan 2008",
+      "date_iso": "2008-01-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered there to be separate Australian markets for the supply of ballon-expanding stents and for the supply of self-expanding stents.",
+    "Competition analysis": "On 8 January 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included that the merged entity would continue to be constrained by the presence of alternative suppliers of balloon-expanding stents and self-expanding stents."
+  }
+}

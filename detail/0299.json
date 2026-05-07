@@ -1,0 +1,54 @@
+{
+  "id": "0299",
+  "title": "Origin Energy LPG Ltd - proposed acquisition of Bulwer Island Gas Terminal assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/origin-energy-lpg-ltd-proposed-acquisition-of-bulwer-island-gas-terminal-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56747",
+  "industries": [
+    "Liquefied Petroleum Gas"
+  ],
+  "date_completed": "11 March 2015",
+  "date_completed_iso": "2015-03-11T12:00:00Z",
+  "date_commenced": "2 February 2015",
+  "date_commenced_iso": "2015-02-02T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Origin Energy LPG Ltd"
+  ],
+  "targets": [
+    "Bulwer Island Gas Terminal assets"
+  ],
+  "timeline": [
+    {
+      "date": "2 Feb 2015",
+      "date_iso": "2015-02-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 Feb 2015",
+      "date_iso": "2015-02-09T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "16 Feb 2015",
+      "date_iso": "2015-02-16T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "18 Feb 2015",
+      "date_iso": "2015-02-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Mar 2015",
+      "date_iso": "2015-03-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Origin Energy LPG Limited proposed to acquire the Bulwer Island Gas Terminal assets from BP Refinery (Bulwer Island) Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the market for the wholesale supply of liquefied petroleum gas (LPG). The ACCC viewed the geographic dimension of this market to include at least south east Queensland and northern New South Wales. However, the ACCC did not form a definite view on the geographic boundaries.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not be likely to have the effect of substantially lessening competition in the relevant market. The ACCC considered that BP would be likely to exit the supply of wholesale LPG at Bulwer Island, with or without the proposed acquisition. LPG is a by-product of BP's oil refining process at Bulwer Island. On 2 April 2014, BP announced its intention to cease refinery production at Bulwer Island. BP will therefore cease supplying wholesale LPG at Bulwer Island as a consequence of the refinery closing, not the proposed acquisition. The ACCC considered whether, absent the proposed acquisition, an alternative party would use the assets subject to the proposed acquisition to create a more competitive outcome than the proposed acquisition. Based on the information available, the ACCC found that this was unlikely to occur. The ACCC also took into account the presence of Elgas as a major wholesaler of LPG on the east coast with LPG interests at Bulwer Island (resulting from its acquisition of Kleenheat's east coast LPG business in February 2015). Caltex also supplies wholesale LPG at its nearby Lytton refinery. The ACCC also noted that in some instances wholesale LPG is transported over long distances by road."
+  }
+}

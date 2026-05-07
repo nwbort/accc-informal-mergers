@@ -1,0 +1,31 @@
+{
+  "id": "1504",
+  "title": "Acquirer: Perkins Shipping Pty Ltd; Target: Gulf Freight Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-perkins-shipping-pty-ltd-target-gulf-freight-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18092",
+  "industries": [],
+  "date_completed": "22 December 2003",
+  "date_completed_iso": "2003-12-22T12:00:00Z",
+  "date_commenced": "14 July 2003",
+  "date_commenced_iso": "2003-07-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Perkins Shipping Pty Ltd"
+  ],
+  "targets": [
+    "Gulf Freight Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 22 December 2003 the ACCC accepted an undertaking from Perkins Shipping with regard to access to port facilities at Gove and maintaining levels of customer service.",
+    "Market definition": "The undertaking follows on from the acquisition by Perkins of Gulf Freight Services, which formerly competed with Perkins in the provision of coastal shipping services to the remote communities of north-western Australia, the Northern Territory and the Gulf of Carpentaria.",
+    "Competition analysis": "The Commission's market inquiries gave rise to a concern that as a result of the acquisition, any new entrants to the market which may potentially compete with Perkins could be foreclosed from access to and use of the present wharf facilities and any new wharf facility in the Port of Gove. The Commission considered that the nature of the market is such that new entry may be infrequent due to economies of scale, the duration of major freight contracts as well as the remoteness and size of many of the communities.  However the Commission considered it important to ensure that access at Gove, a major port in the region, would be available in the event of new entry. The undertaking provides that Perkins will not, consistent with its own operations, hinder or prevent any new entrant which:  uses or proposes to use the new wharf for land transport, freight forwarding operations or the movement by sea of goods or produce;  or provides or proposes to provide services at the Port of Gove, from having access to the new wharf and associated hard stands and access roads. Market inquiries also revealed some concern on the part of remote communities that services may decline with one operator providing coastal cargo services in the region. Perkins Shipping will take steps to publicise its service charter (which will reflect industry best practice and cover the nature of its services, delivery times/scheduling, pricing policies, policies with respect to damage to goods, insurance and complaints handling) and will institute a dispute resolution procedure involving independent referees and experts where necessary.  The charter and dispute resolution measures will be made available to Perkins' customers, including remote communities.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "6302"
+  }
+}

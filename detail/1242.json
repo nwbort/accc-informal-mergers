@@ -1,0 +1,54 @@
+{
+  "id": "1242",
+  "title": "JJ Richards - acquisition of certain assets of Cleanaway Australia in Queensland",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jj-richards-acquisition-of-certain-assets-of-cleanaway-australia-in-queensland",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24810",
+  "industries": [
+    "Waste management services"
+  ],
+  "date_completed": "15 August 2006",
+  "date_completed_iso": "2006-08-15T12:00:00Z",
+  "date_commenced": "4 July 2006",
+  "date_commenced_iso": "2006-07-04T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "JJ Richards"
+  ],
+  "targets": [
+    "Cleanaway Australia"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jul 2006",
+      "date_iso": "2006-07-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "4 Jul 2006",
+      "date_iso": "2006-07-04T12:00:00Z",
+      "event": "ACCC requested further information from JJ Richards. ACCC timeline suspended"
+    },
+    {
+      "date": "18 Jul 2006",
+      "date_iso": "2006-07-18T12:00:00Z",
+      "event": "ACCC received further information from JJ Richards. ACCC timeline recommenced"
+    },
+    {
+      "date": "25 Jul 2006",
+      "date_iso": "2006-07-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Aug 2006",
+      "date_iso": "2006-08-15T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JJ Richards acquired various contracts in Queensland for the collection of municipal waste and recyclables and the operation of landfill facilities from Cleanaway Australia (Cleanaway). JJ Richards and Cleanaway provide waste management services to both councils and commercial customers.",
+    "Market definition": "The ACCC considered the following markets in its review of JJ Richards' acquisitions: - the South East Queensland market for the supply of domestic waste collection services; - the South East Queensland market for the supply of compacted waste transfer; and - one regional market for the operation of landfills.",
+    "Competition analysis": "The ACCC considered that JJ Richards faced sufficient competitive constraints post-acquisition and that the acquisition is unlikely to have caused a substantial lessening of competition in any of the relevant markets. This conclusion was informed by the following factors: - prior to the acquisition there was no overlap between JJ Richards and Cleanaway in the relevant regional market for the operation of landfills; - a number of other waste management service providers can provide domestic waste collection services and compacted waste transfer services in South East Queensland; - low barriers to entry into the South East Queensland market for the provision of domestic waste collection services and/or compacted waste transfer; and - some countervailing power on part of the councils when negotiating domestic waste collection and/or compacted waste transfer contracts with waste management service providers."
+  }
+}

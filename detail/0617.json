@@ -1,0 +1,43 @@
+{
+  "id": "0617",
+  "title": "Ricegrowers Limited (trading as SunRice) - proposed acquisition of certain rice milling equipment from Allied Mills Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ricegrowers-limited-trading-as-sunrice-proposed-acquisition-of-certain-rice-milling-equipment-from-allied-mills-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41873",
+  "industries": [
+    "Rice milling"
+  ],
+  "date_completed": "21 June 2010",
+  "date_completed_iso": "2010-06-21T12:00:00Z",
+  "date_commenced": "24 May 2010",
+  "date_commenced_iso": "2010-05-24T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Ricegrowers Limited (trading as SunRice)"
+  ],
+  "targets": [
+    "rice milling equipment from Allied Mills Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 May 2010",
+      "date_iso": "2010-05-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Jun 2010",
+      "date_iso": "2010-06-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Jun 2010",
+      "date_iso": "2010-06-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The matter was considered based on the following markets: - the market for the acquisition of rice paddy in eastern Australia and the manufacture of rice. - the national market for the supply of rice.",
+    "Competition analysis": "On 21 June 2010, the ACCC announced its decision not to oppose Ricegrowers Limited's (trading as SunRice) proposed acquisition of certain rice milling equipment from Allied Mills Australia Pty Ltd. The ACCC considered the information provided by the parties and other information available to it. Based on that information, the ACCC considered that the acquisition of rice milling equipment from Allied Mills was unlikely to remove a significant source of competitive constraint in the relevant markets."
+  }
+}

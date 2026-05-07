@@ -1,0 +1,65 @@
+{
+  "id": "0097",
+  "title": "Aurizon Holdings Ltd - One Rail Australia Holdings LP",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aurizon-holdings-ltd-one-rail-australia-holdings-lp",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Rail",
+    "Transport"
+  ],
+  "date_completed": "14 July 2022",
+  "date_completed_iso": "2022-07-14T12:00:00Z",
+  "date_commenced": "6 December 2021",
+  "date_commenced_iso": "2021-12-06T12:00:00Z",
+  "total_review_days": 82,
+  "acquirers": [
+    "Aurizon Holdings Ltd"
+  ],
+  "targets": [
+    "One Rail Australia Holdings LP"
+  ],
+  "timeline": [
+    {
+      "date": "7 Dec 2021",
+      "date_iso": "2021-12-07T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jan 2022",
+      "date_iso": "2022-01-21T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "28 Feb 2022",
+      "date_iso": "2022-02-28T12:00:00Z",
+      "event": "Timeline suspended pending receipt of further information. Former provisional date for announcement of findings (10 March 2022) is delayed."
+    },
+    {
+      "date": "7 Jun 2022",
+      "date_iso": "2022-06-07T12:00:00Z",
+      "event": "ACCC received further information."
+    },
+    {
+      "date": "9 Jun 2022",
+      "date_iso": "2022-06-09T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. ACCC also commenced market consultation on draft proposed s87B undertaking."
+    },
+    {
+      "date": "23 Jun 2022",
+      "date_iso": "2022-06-23T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues and draft proposed s87B undertaking."
+    },
+    {
+      "date": "14 Jul 2022",
+      "date_iso": "2022-07-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a s87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aurizon Holdings Ltd ( Aurizon ) has entered into a sale agreement with various entities of Macquarie Asset Management ( MAM ), on behalf of MAM’s funds, and PGGM Infrastructure Fund, to acquire 100% of One Rail Australia Holdings LP ( One Rail ), a South Australian limited partnership that owns the One Rail business. As part of the transaction, Aurizon has offered a court enforceable undertaking under section 87B of Competition and Consumer Act 2010 to divest the entirety of One Rail’s East Coast Rail business by way of sale or by demerger that will establish an ASX-listed entity. The divested East Coast Rail business will include all of One Rail’s assets, operations, and contracts on the east coast, including the entirety of its coal haulage operations in the Hunter Valley in New South Wales and its coal haulage operations in Queensland. On 9 June 2022, the ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition. The ACCC also conducted market consultation on a draft proposed s87B undertaking. On 14 July 2022, the ACCC decided not to oppose Aurizon’s proposed acquisition of One Rail after accepting an updated s87B undertaking provided by Aurizon.",
+    "Market definition": "Refer to the Public Competition Assessment attached below.",
+    "Competition analysis": "Refer to the Public Competition Assessment attached below."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "0944",
+  "title": "Lake Imaging & Western Medical Imaging - proposed merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lake-imaging-western-medical-imaging-proposed-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30172",
+  "industries": [
+    "General Diagnostic Imaging"
+  ],
+  "date_completed": "19 March 2008",
+  "date_completed_iso": "2008-03-19T12:00:00Z",
+  "date_commenced": "11 January 2008",
+  "date_commenced_iso": "2008-01-11T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Lake Imaging Pty Ltd"
+  ],
+  "targets": [
+    "Western Medical Imaging"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jan 2008",
+      "date_iso": "2008-01-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Feb 2008",
+      "date_iso": "2008-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Feb 2008",
+      "date_iso": "2008-02-27T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "28 Feb 2008",
+      "date_iso": "2008-02-28T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for Statement of Issues."
+    },
+    {
+      "date": "7 Mar 2008",
+      "date_iso": "2008-03-07T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "19 Mar 2008",
+      "date_iso": "2008-03-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "For the ACCC's competition analysis, please refer to the Public Competition Assessment."
+  }
+}

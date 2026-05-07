@@ -1,0 +1,49 @@
+{
+  "id": "0406",
+  "title": "Austral Masonry Holdings Pty Ltd - proposed acquisition of Boral Ltd's masonry business in New South Wales",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/austral-masonry-holdings-pty-ltd-proposed-acquisition-of-boral-ltds-masonry-business-in-new-south-wales",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49695",
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "24 January 2013",
+  "date_completed_iso": "2013-01-24T12:00:00Z",
+  "date_commenced": "14 November 2012",
+  "date_commenced_iso": "2012-11-14T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "Austral Masonry Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Boral Ltd's masonry business in New South Wales"
+  ],
+  "timeline": [
+    {
+      "date": "14 Nov 2012",
+      "date_iso": "2012-11-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Dec 2012",
+      "date_iso": "2012-12-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Dec 2012",
+      "date_iso": "2012-12-20T12:00:00Z",
+      "event": "Former proposed decision date of 17 January 2013 extended to 24 January 2013 to allow the ACCC to conduct further market inquiries and consider further information provided by Austral."
+    },
+    {
+      "date": "24 Jan 2013",
+      "date_iso": "2013-01-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Austral Masonry Holdings Pty Ltd proposed to acquire Boral Ltd's masonry business in New South Wales.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of a regional market for the manufacture and supply of concrete masonry products in the Sydney region, extending from Port Kembla to Newcastle. This was the only region in NSW where there was overlap between the operations of the parties. While noting that there is some degree of substitution between these products and alternative products that can be used for similar applications, such that it may be arguable that the product market should be defined more broadly, ultimately the ACCC did not consider it necessary to form a concluded view in relation to market definition, and proceeded on the basis of the market outlined above, consistent with previous matters in this industry. Given that it considers that no substantial lessening of competition is likely on the basis of this market definition, the ACCC considers that this view would be unchanged if a broader market definition were adopted.",
+    "Competition analysis": "Following market inquiries with market participants including customers and competitors of the merger parties, the ACCC considers that the proposed acquisition is unlikely to substantially lessen competition. Factors informing this view included: 1. The merged entity would continue to face competitive constraint from a number of alternative producers of concrete masonry products, several of which have excess capacity. 2. The availability of a number of substitute products for concrete masonry, which would likely constrain, to some degree, any attempt by the merged firm to increase prices. 3. The threat of new entry would likely impose some further constraint on the merged firm."
+  }
+}

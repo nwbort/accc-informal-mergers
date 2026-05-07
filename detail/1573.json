@@ -1,0 +1,31 @@
+{
+  "id": "1573",
+  "title": "Acquirer: IBM Australia Ltd; Target: Rational Software Corporation Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ibm-australia-ltd-target-rational-software-corporation-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17333",
+  "industries": [],
+  "date_completed": "11 March 2003",
+  "date_completed_iso": "2003-03-11T12:00:00Z",
+  "date_commenced": "11 February 2003",
+  "date_commenced_iso": "2003-02-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "IBM Australia Ltd"
+  ],
+  "targets": [
+    "Rational Software Corporation Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 11 February 2003, the Commission received a submission from International Business Machines Corporation advising of its proposed acquisition of Rational Software Corporation.",
+    "Market definition": "The national market for software application design and construction tools.",
+    "Competition analysis": "On 11 March 2003, the Commission decided not to intervene in the proposed acquisition.  This decision was taken on the basis of the following reasons: - the acquisition is largely complementary with minimal overlap in product offerings; - there are large volumes of imported products; - there are many large global players; - the market is characterised by emerging products and technologies; and - countervailing power is held by resellers and retailers.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "7834"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "1103",
+  "title": "Drum Makers Pty Ltd, a subsidiary of Visy Steel Products Pty Ltd - proposed acquisition of Greif Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/drum-makers-pty-ltd-a-subsidiary-of-visy-steel-products-pty-ltd-proposed-acquisition-of-greif-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25174",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "18 May 2007",
+  "date_completed_iso": "2007-05-18T12:00:00Z",
+  "date_commenced": "21 March 2007",
+  "date_commenced_iso": "2007-03-21T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Drum Makers Pty Ltd"
+  ],
+  "targets": [
+    "Greif Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Mar 2007",
+      "date_iso": "2007-03-21T12:00:00Z",
+      "event": "Drum Makers advised the ACCC of the public announcement of the proposed acquisition. ACCC commenced review under the Merger Review Process Guidelines. Market inquires commenced."
+    },
+    {
+      "date": "27 Mar 2007",
+      "date_iso": "2007-03-27T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information requested from Drum Makers."
+    },
+    {
+      "date": "2 Apr 2007",
+      "date_iso": "2007-04-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Apr 2007",
+      "date_iso": "2007-04-02T12:00:00Z",
+      "event": "ACCC received further information from Drum Makers. ACCC's indicative timeline recommenced."
+    },
+    {
+      "date": "5 Apr 2007",
+      "date_iso": "2007-04-05T12:00:00Z",
+      "event": "Timeline suspended pending receipt of further information from Drum Makers."
+    },
+    {
+      "date": "13 Apr 2007",
+      "date_iso": "2007-04-13T12:00:00Z",
+      "event": "Further information received from Drum Makers. ACCC's indicative timeline recommenced."
+    },
+    {
+      "date": "19 Apr 2007",
+      "date_iso": "2007-04-19T12:00:00Z",
+      "event": "ACCC publishes Statement of Issues."
+    },
+    {
+      "date": "2 May 2007",
+      "date_iso": "2007-05-02T12:00:00Z",
+      "event": "Closing date for submission on Statement of Issues."
+    },
+    {
+      "date": "4 May 2007",
+      "date_iso": "2007-05-04T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "15 May 2007",
+      "date_iso": "2007-05-15T12:00:00Z",
+      "event": "Drum Makers provided partial response to information request dated 4 May 2007."
+    },
+    {
+      "date": "17 May 2007",
+      "date_iso": "2007-05-17T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings amended to allow for parties' responses to ACCC's request of 4 May 2007 and the ACCC's Statement of Issues."
+    },
+    {
+      "date": "18 May 2007",
+      "date_iso": "2007-05-18T12:00:00Z",
+      "event": "Drum Makers withdrew its request for informal merger clearance prior to the announcement of the ACCC's findings. The ACCC terminated its review."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Drum Makers Pty Ltd - a wholly owned subsidiary of Visy Steel Products Pty Limited - proposed to acquire the rigid industrial packaging business of Greif Australia Pty Ltd.",
+    "Competition analysis": "Drum Makers withdrew its request for informal merger clearance prior to the annoucement of the ACCC's findings."
+  }
+}

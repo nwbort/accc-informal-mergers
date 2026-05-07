@@ -1,0 +1,30 @@
+{
+  "id": "1519",
+  "title": "Acquirer: Cabcharge Australia Ltd; Target: ABC Radio Taxi Co-Op Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cabcharge-australia-ltd-target-abc-radio-taxi-co-op-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18377",
+  "industries": [],
+  "date_completed": "28 October 2003",
+  "date_completed_iso": "2003-10-28T12:00:00Z",
+  "date_commenced": "25 September 2003",
+  "date_commenced_iso": "2003-09-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Cabcharge Australia Ltd"
+  ],
+  "targets": [
+    "ABC Radio Taxi Co-Op Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Cabcharge's primary business is the provision of charge account facilities for the payment of taxi fares. Cabcharge also owns Sydney's largest taxi company and provider of dispatch services, Combined Communications Network. ABC is Sydney's seventh largest taxi network.  Approximately 3% of Sydney's metropolitan taxis are affiliated with ABC.  ABC currently outsources booking and dispatch services to Cabcharge.",
+    "Market definition": "The Panel considered that the relevant markets were: - the Sydney metropolitan market for taxi-cab networks (or depots); - the Sydney metropolitan market for taxi booking and dispatch services; and - the national market for taxi payment systems.",
+    "Competition analysis": "The Panel considered it unlikely that the proposed acquisition would substantially lessen competition in any of the relevant markets.  The Panel took into consideration ABC's small market share and ABC's history of outsourcing its booking and dispatch to Cabcharge.",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "6123"
+  }
+}

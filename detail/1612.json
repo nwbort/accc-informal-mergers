@@ -1,0 +1,31 @@
+{
+  "id": "1612",
+  "title": "Acquirer: Delaware Champion Acquisition Corporation; Target: Burger King Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-delaware-champion-acquisition-corporation-target-burger-king-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16671",
+  "industries": [],
+  "date_completed": "9 October 2002",
+  "date_completed_iso": "2002-10-09T12:00:00Z",
+  "date_commenced": "16 September 2002",
+  "date_commenced_iso": "2002-09-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Delaware Champion Acquisition Corporation"
+  ],
+  "targets": [
+    "Burger King Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed global acquisition of the Burger King Corporation by Delaware Champion Acquisition Corporation.",
+    "Market definition": "In October 2002, the Commission considered that it would adopt DCAC's national quick service restaurant market definition.",
+    "Competition analysis": "Using this market definition or the narrower quick service chained restaurant market definition the Commission's indicative merger concentration thresholds did not appear to be exceeded.  In addition the Commission considered that the proposed acquisition did not appear to substantially lessen competition due to: 1. the low barriers to entry faced by suppliers seeking to constrain any price increases by the merged entity; 2. examples of effective entry in the past on both a small and large scale; and 3. the availability of a wide variety of substitutes from a large number of small independent fast food outlets and larger chains should Domino's or Burger King increase prices.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "5125"
+  }
+}

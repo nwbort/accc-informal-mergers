@@ -1,0 +1,48 @@
+{
+  "id": "0201",
+  "title": "Energizer Holdings Inc. - proposed acquisition of the battery and portable lighting business of Spectrum Brands Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/energizer-holdings-inc-proposed-acquisition-of-the-battery-and-portable-lighting-business-of-spectrum-brands-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63587",
+  "industries": [
+    "Batteries and Portable Lighting"
+  ],
+  "date_completed": "9 August 2018",
+  "date_completed_iso": "2018-08-09T12:00:00Z",
+  "date_commenced": "20 June 2018",
+  "date_commenced_iso": "2018-06-20T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Energizer Holdings Inc."
+  ],
+  "targets": [
+    "Spectrum Brands Inc."
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2018",
+      "date_iso": "2018-06-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "4 Jul 2018",
+      "date_iso": "2018-07-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2018",
+      "date_iso": "2018-08-07T12:00:00Z",
+      "event": "Former proposed decision date of 23 August 2018 brought forward."
+    },
+    {
+      "date": "9 Aug 2018",
+      "date_iso": "2018-08-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on competition in: - a national market for the supply of consumer batteries; - a national market for the supply of hearing aid batteries; and - a national market for the supply of portable lighting devices. For the purposes of this review, it was not necessary to reach a definitive view on the exact scope of these markets.",
+    "Competition analysis": "Whilst Spectrum's \"Varta\" brand is a leading brand of consumer batteries in Europe, its market share and brand recognition in Australia is still very limited. The ACCC found that if the proposed acquisition did not proceed, it was unlikely that Spectrum could grow its market share and brand recognition sufficiently in the medium term to operate as a significant constraint upon the market leaders, Energizer and Duracell. The ACCC considered that there are several other brands of consumer batteries (both proprietary and house brands) that could play a similar role to Spectrum in the market for consumer batteries. In the circumstances, the ACCC considered that the proposed acquisition would lessen competition, but not substantially. The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in the supply of hearing aid batteries in Australia. The ACCC found that Spectrum and Energizer supply hearing aid batteries predominantly through different channels and do not place significant competitive constraints on each other. Market participants did not raise concerns about the impact of the proposed acquisition on the supply of portable lighting devices in Australia. Given Spectrum's limited market share and the availability of alternative suppliers, the ACCC considered that the proposed acquisition was not likely to substantially lessen competition in the supply of portable lighting devices."
+  }
+}

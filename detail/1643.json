@@ -1,0 +1,30 @@
+{
+  "id": "1643",
+  "title": "Acquirer: Automotive Components Ltd; Target: Carparts Distribution Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-automotive-components-ltd-target-carparts-distribution-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15700",
+  "industries": [],
+  "date_completed": "4 June 2002",
+  "date_completed_iso": "2002-06-04T12:00:00Z",
+  "date_commenced": "20 March 2002",
+  "date_commenced_iso": "2002-03-20T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Automotive Components Ltd"
+  ],
+  "targets": [
+    "Carparts Distribution Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Carparts Distribution Ltd by Automotive Components Ltd.",
+    "Market definition": "The distribution of hard parts to end consumers, via vertically integrated retailers and independent wholesalers supplying non-integrated resellers, retailers and traders.",
+    "Competition analysis": "The merger is likely to result in more limited opportunities for access to hard parts for non-vertically integrated retailers. However, market inquiries indicated that the great majority of hard parts flow through the various vertically integrated retailers in the market. Under these circumstances, it is likely that any attempt to raise prices for hard parts that flow through the non-vertically integrated channel would be constrained by customers switching to the vertically integrated retailers. This reasoning is consistent with that applied by the Australian Trade Practices Tribunal in Re Queensland Independent Wholesalers Limited (1995) ATPR 41-438, in which the inclusion of vertically integrated retailers within the market definition meant that the merger resulted in only a relatively small increase in concentration. On the basis of these factors, the Commission concluded that the proposed acquisition was not likely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0301",
+  "title": "Channel 7 and Foxtel proposed joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/channel-7-and-foxtel-proposed-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55715",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "2 March 2015",
+  "date_completed_iso": "2015-03-02T12:00:00Z",
+  "date_commenced": "15 December 2014",
+  "date_commenced_iso": "2014-12-15T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "Channel 7"
+  ],
+  "targets": [
+    "FOXTEL"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2014",
+      "date_iso": "2014-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "26 Jan 2015",
+      "date_iso": "2015-01-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Feb 2015",
+      "date_iso": "2015-02-25T12:00:00Z",
+      "event": "Former proposed decision date of 26 February 2015 delayed to allow the merger parties to provide additional information to the ACCC."
+    },
+    {
+      "date": "2 Mar 2015",
+      "date_iso": "2015-03-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Seven and Foxtel proposed to enter into a joint venture to collectively produce and supply a standalone subscription video on demand (SVOD) service, marketed as \"Presto Entertainment\". Seven's participation in the joint venture was contingent on an acquisition of shares in a joint venture company (the proposed acquisition). The ACCC reviewed that acquisition of shares pursuant to section 50 of the Competition and Consumer Act 2010 (Cth).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - a national market for the acquisition of broadcast rights to general audio-visual content (excluding sporting rights), in which SVOD providers compete with a range of providers including traditional subscription television and free to air TV providers; and - a national market for the supply of paid general audio-visual content services to consumers. This market is likely to include traditional subscription television services as well as SVOD and transactional video on demand (TVOD) services.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in either market. The ACCC considered whether the proposed acquisition would enable Foxtel and Seven to leverage their existing positions as leading subscription and free to air television providers to obtain exclusive access to compelling content, limiting the ability of competitors such as Netflix and Stan (a joint venture between Nine and Fairfax) to compete with Presto. However, the ACCC's review found that content providers generally sell rights for different delivery platforms separately and Foxtel and Seven were unlikely to have any significant ability to leverage their traditional relationships with content suppliers to obtain SVOD rights on an exclusive or favourable basis.  The ACCC noted that Foxtel and Seven intend that the joint venture company will acquire SVOD rights to content in a way that is consistent with the court-enforceable undertaking provided to the ACCC by Foxtel in relation to its acquisition of the Austar subscription television business in 2012. The ACCC also considered whether any favourable treatment that Telstra, which owns 50% of Foxtel, may give to Presto and its content (for example, providing its broadband customers with unmetered internet access to the Presto service) was likely to negatively impact competition between SVOD providers. The ACCC found that any such concerns arise from the existing relationship between Telstra and Foxtel, rather than from the proposed acquisition. While Seven's participation in the proposed joint venture provides Presto with some additional content and/or commercial benefits, it is not likely to significantly strengthen any competitive advantage that Presto already has as a result of Foxtel's relationship with Telstra."
+  }
+}

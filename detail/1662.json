@@ -1,0 +1,31 @@
+{
+  "id": "1662",
+  "title": "Acquirer: OPSM Group Ltd; Target: Eyewear Now Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-opsm-group-ltd-target-eyewear-now-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15652",
+  "industries": [],
+  "date_completed": "2 April 2002",
+  "date_completed_iso": "2002-04-02T12:00:00Z",
+  "date_commenced": "12 March 2002",
+  "date_commenced_iso": "2002-03-12T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "OPSM Group Ltd"
+  ],
+  "targets": [
+    "Eyewear Now Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition by OPSM Group Limited of Eyewear Now business from the Now group of companies.",
+    "Market definition": "The Commission considered the relevant market to be the national market for optical dispensing with regional areas of close competition.",
+    "Competition analysis": "The Commission considered that the relevant market appeared to be the national market for optical dispensing with regional areas of close competition.  Within this market definition the Commission considered that the proposed acquisition did not appear to substantially lessen competition due to: *close and vigorous competition from independent optometrists and retail optical dispensers at the local level of competition that will remain post acquisition; *it appeared that the barriers to entry or expansion were not high; *there appeared to be examples of effective entry in the past and possible new entry by the health funds; and *the apparent countervailing power in the hands of health funds arising from preferred provider arrangments with national and regional optical chains.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "8632"
+  }
+}

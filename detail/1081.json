@@ -1,0 +1,45 @@
+{
+  "id": "1081",
+  "title": "Ironbridge Capital , Archer Capital - proposed acquisition of Symbion's pharmacy and consumer product businesses",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ironbridge-capital-archer-capital-proposed-acquisition-of-symbions-pharmacy-and-consumer-product-businesses",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28678",
+  "industries": [
+    "Pharmaceuticals and consumer healthcare"
+  ],
+  "date_completed": "3 July 2007",
+  "date_completed_iso": "2007-07-03T12:00:00Z",
+  "date_commenced": "14 June 2007",
+  "date_commenced_iso": "2007-06-14T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Ironbridge Capital",
+    "Archer Capital"
+  ],
+  "targets": [
+    "Symbion's pharmacy and consumer product businesses"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jun 2007",
+      "date_iso": "2007-06-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Jun 2007",
+      "date_iso": "2007-06-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Jul 2007",
+      "date_iso": "2007-07-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The proposed acquisition of Symbion Health Limited's pharmacy and consumer product businesses is dependant upon, and will be subsequent to, Healthscope Limited's proposed acquisition of Symbion Health Limited.",
+    "Market definition": "The ACCC considered Ironbridge Capital's and Archer Capital's proposed acquisition of Symbion's pharmacy and consumer product businesses in the context of the national market for the manufacture of throat preparations.",
+    "Competition analysis": "In reaching its conclusion not to oppose Ironbridge Capital's and Archer Capital's proposed acquisition of Symbion's pharmacy and consumer product businesses, the ACCC took into account, amongst other factors: - the relatively small increase in market concentration as a result of the proposed acquisition; and - the range of alternative suppliers of throat preparations."
+  }
+}

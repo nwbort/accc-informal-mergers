@@ -1,0 +1,49 @@
+{
+  "id": "0879",
+  "title": "Brickworks Ltd - acquisition of Smart State Blocks",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brickworks-ltd-acquisition-of-smart-state-blocks",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32510",
+  "industries": [
+    "Concrete masonry products"
+  ],
+  "date_completed": "19 August 2008",
+  "date_completed_iso": "2008-08-19T12:00:00Z",
+  "date_commenced": "31 July 2008",
+  "date_commenced_iso": "2008-07-31T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Brickworks Ltd"
+  ],
+  "targets": [
+    "Smart State Blocks"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jul 2008",
+      "date_iso": "2008-07-17T12:00:00Z",
+      "event": "Brickworks Limited announced the acquisition."
+    },
+    {
+      "date": "31 Jul 2008",
+      "date_iso": "2008-07-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Aug 2008",
+      "date_iso": "2008-08-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "ACCC announced it would not intervene in the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A Brickworks Ltd subsidiary, Austral Masonry Products (Qld) Pty Ltd, has acquired Smart State Blocks, a producer of concrete masonry blocks based on the Gold Coast, Queensland.",
+    "Market definition": "The ACCC considered the acquisition in the context of the South East Queensland market for the supply of concrete masonry products used in constructing walls.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant market. In particular, the ACCC considered that the merged entity would be constrained by two large existing competitors and by potential new entrants in the market."
+  }
+}

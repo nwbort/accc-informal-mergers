@@ -1,0 +1,31 @@
+{
+  "id": "1625",
+  "title": "Acquirer: Centennial Coal Company Ltd; Target: Powercoal Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-centennial-coal-company-ltd-target-powercoal-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15116",
+  "industries": [],
+  "date_completed": "6 August 2002",
+  "date_completed_iso": "2002-08-06T12:00:00Z",
+  "date_commenced": "27 November 2001",
+  "date_commenced_iso": "2001-11-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Centennial Coal Company Ltd"
+  ],
+  "targets": [
+    "Powercoal Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Centennial Coal proposes to acquire Powercoal, an owner and operator of coal mines in NSW and a wholly owned subsidiary of Pacific Power which is a statutory corporation established under the Electricity (Pacific Power) Act 1950 (NSW)",
+    "Market definition": "The Commission considered the relevant market to be the market for thermal coal in NSW.",
+    "Competition analysis": "The Commission decided that the proposed acquisition did not appear to lead to a substantial lessening of competition in the market for the supply of thermal coal in NSW.  This was because: - the market concentration of the merged entity would be below the Commission's safe harbour threshold; - the large volume of exports from domestic suppliers, including the parties, indicated that Australian coal is priced at internationally competitive levels.  Suppliers are also likely to be able to divert supply from export markets to defeat a rise in domestic prices; and - countervailing power appears to be present among some major customers of the parties.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "1101"
+  }
+}

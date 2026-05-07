@@ -1,0 +1,475 @@
+ 
+Page 1 of 10 
+ 
+ 
+Public Competition Assessment 
+14 October 2015 
+Victoria Quay International RoRo Terminal Pty Ltd and 
+Australian Amalgamated Terminals Pty Ltd – separate 
+proposed acquisitions of the long term lease of the new 
+automotive and RoRo terminal at the Port of Fremantle 
+Purpose 
+1. 
+This public competition assessment outlines reasons for the following separate 
+decisions by the Australian Competition and Consumer Commission (ACCC): 
+ 
+on 2 April 2015, not to oppose Victoria Quay International RoRo Terminal 
+Pty Ltd’s (VQIRT) proposed acquisition of the long term lease of the new 
+automotive and roll-on roll-off (RoRo) terminal on Victoria Quay at the Port 
+of Fremantle (the Terminal) subject to a court-enforceable undertaking 
+accepted by the ACCC pursuant to section 87B of the Competition and 
+Consumer Act 2010 (the Act); and 
+ 
+on 23 April 2015, not to oppose Australian Amalgamated Terminals Pty Ltd’s 
+(AAT) proposed acquisition of the long term lease of the Terminal (together, 
+the proposed acquisitions) subject to a court-enforceable undertaking 
+accepted by the ACCC pursuant to section 87B of the Act. 
+2. 
+VQIRT and AAT both separately sought to acquire the long term lease of the 
+Terminal. Given that the proposed acquisition by VQIRT and the proposed 
+acquisition by AAT both raised vertical competition concerns, this Public 
+Competition Assessment provides a summary of both decisions. 
+3. 
+A Public Competition Assessment is a detailed summary of the ACCC’s reasons 
+and issues considered by the ACCC in a merger review and is generally published 
+when: 
+ 
+A merger is opposed 
+ 
+A merger is subject to enforceable undertakings 
+ 
+The merger parties seek such disclosure 
+ 
+A merger is cleared but raises important issues that the ACCC considers 
+should be made public 
+4. 
+By publishing a Public Competition Assessment, the ACCC aims to provide 
+guidance to the public about the ACCC’s analysis of the competition issues 
+involved in certain merger reviews. 
+
+
+ 
+Page 2 of 10 
+ 
+5. 
+The ACCC considers each acquisition on a case-by-case basis. While some 
+transactions may involve the same or related markets, the analysis and decision 
+outlined in one assessment will not necessarily reflect the ACCC’s view about 
+other transactions. 
+6. 
+The ACCC considers confidential information from merger parties and other 
+market participants when making a decision. Our public competition assessments 
+may not identify and explain all issues that we considered because we must 
+maintain confidentiality about certain information and sources. 
+The ACCC’s decisions 
+7. 
+On 2 April 2015, the ACCC announced its decision not to oppose the proposed 
+acquisition by VQIRT subject to a s 87B undertaking. On 23 April 2015, the ACCC 
+announced its decision not to oppose the proposed acquisition by AAT subject to 
+a s 87B undertaking. 
+8. 
+The ACCC decided that, subject to each of the undertakings, each of the separate 
+proposed acquisitions by VQIRT and AAT would be unlikely to have the effect of 
+substantially lessening competition in the relevant markets in contravention of 
+section 50 of the Act. 
+9. 
+Without the undertakings, the ACCC considered that the proposed acquisition by 
+VQIRT and proposed acquisition by AAT would each have raised similar 
+competition concerns related to the vertical integration that would occur post 
+acquisition. These concerns relate to the potential for the successful bidder to 
+exercise market power by leveraging its position as the operator of the sole 
+automotive terminal at the Port of Fremantle to benefit its other upstream or 
+downstream interests at the port. These concerns are detailed in the competition 
+analysis below. 
+The parties 
+Fremantle Ports 
+10. The Fremantle Port Authority (Fremantle Ports) is a government trading 
+enterprise and is the owner and manager of the Port of Fremantle. Fremantle 
+Ports is the current operator of the existing automotive terminals at the Port of 
+Fremantle. 
+11. The Port of Fremantle operates through two harbours; the Inner Harbour and the 
+Outer Harbour. The Inner Harbour handles almost all of Western Australia’s 
+container trade, in addition to livestock exports, motor vehicle imports, other 
+general cargo, cruise ships and visiting naval vessels.  
+12. The Port of Fremantle is the only port in Western Australia that is used for the 
+import of motor vehicles. Fremantle Ports’ existing automotive and other RoRo 
+trade is spread across the North Quay (Berths 11 and 12) and Victoria Quay 
+(Berths E and H) within the Inner Harbour. 
+VQIRT 
+13. VQIRT is a wholly owned subsidiary of Wallenius Wilhelmsen Terminals Holding 
+AS (WW Terminals), a company which operates automotive terminals in Europe, 
+the United States and Asia. WW Terminals is a wholly owned subsidiary of 
+
+
+ 
+Page 3 of 10 
+ 
+Wallenius Wilhelmsen Logistics AS (WW Logistics). WW Logistics is a full 
+service global shipping and logistics provider. WW Logistics’ vessels call at a 
+number of ports in Australia, including the Port of Fremantle.  
+14. VQIRT does not currently operate at any other port in Australia. However, VQIRT 
+is a related body corporate of Melbourne International RoRo & Auto Terminal Pty 
+Ltd (MIRRAT) which is also a wholly owned subsidiary of WW Terminals. In 2014, 
+MIRRAT successfully bid for the right to lease, redevelop and operate the 
+automotive terminal at Webb Dock West at the Port of Melbourne until 30 June 
+2040. It is expected that MIRRAT will commence operations at the Port of 
+Melbourne in early 2016. 
+AAT 
+15. AAT is an incorporated joint venture, the shares of which are equally held by: 
+ 
+P&O Wharf Management Pty Limited, a wholly owned subsidiary of Qube 
+Holdings Ltd (Qube); and 
+ 
+Plzen Pty Limited, a wholly owned subsidiary of Asciano Ltd (Asciano).  
+16. Qube and Asciano have interests in the supply of land based logistics services for 
+automotive cargo at the Port of Fremantle. In particular: 
+ 
+Qube and Patrick Stevedoring Pty Ltd (a wholly owned subsidiary of 
+Asciano) have automotive stevedoring operations at the Port of Fremantle; 
+and 
+ 
+Prixcar Services Pty Limited (in which Qube has an indirect 25% 
+shareholding) and Patrick Autocare Pty Limited (in which Asciano has an 
+80% interest) provide pre-delivery inspection (PDI) services for motor 
+vehicles at the Port of Fremantle. 
+17. AAT currently operates automotive terminals at the following ports in Australia: 
+ 
+Port Adelaide (South Australia); 
+ 
+Port of Brisbane (Queensland); 
+ 
+Port Kembla (New South Wales); and 
+ 
+Port of Melbourne (Victoria).1 
+18. AAT’s operations at these terminals are covered by a conditional authorisation 
+granted by the ACCC on 3 December 2009, which will expire on 31 December 
+2019. The conditions of authorisation broadly require AAT to: 
+ 
+provide a mechanism for stevedores other than AAT aligned stevedores to 
+seek access to AAT’s terminals; 
+ 
+subject any proposed price increases to terminal users to review by an 
+independent party; and 
+ 
+offer a dispute resolution process to terminal users for non-price disputes. 
+                                                 
+1 AAT will cease operating at the Port of Melbourne once consolidation is complete and MIRRAT is fully 
+operational. 
+
+
+ 
+Page 4 of 10 
+ 
+19. The authorisation would not extend to cover AAT’s operations at the Port of 
+Fremantle, should it be successful in its bid for the long term lease. Consequently, 
+in the absence of the separate undertakings accepted by the ACCC, AAT’s 
+operations at the Port of Fremantle would only be subject to the open access 
+regime set out in the proposed terminal licence between the terminal operator and 
+Fremantle Ports. 
+The proposed transaction  
+20. In December 2013, Fremantle Ports sought expressions of interest from parties 
+interested in developing and operating a new dedicated automotive and RoRo 
+terminal under a long term lease on Victoria Quay in the Port of Fremantle’s Inner 
+Harbour. The term of the lease is expected to be for approximately 20 years.  
+21. Fremantle Ports seeks to provide increased automotive and RoRo capacity at the 
+Port of Fremantle by consolidating automotive and RoRo trade from a number of 
+common user terminals within the Port of Fremantle to the new Terminal, which 
+will be the sole dedicated automotive and RoRo terminal at the Port of Fremantle. 
+22. As part of this consolidation, Fremantle Ports will appoint a single terminal 
+operator to operate the Terminal on a multi-user, open access basis. The terminal 
+operator will have no responsibility for berthing allocation. Fremantle Ports will 
+retain responsibility for berthing allocation and the provision of mooring services at 
+the Terminal. 
+23. The proposed terminal lease and terminal licence to be granted by Fremantle 
+Ports requires the terminal operator to operate the Terminal in accordance with 
+open access principles including:  
+ 
+a mechanism for stevedores, PDI operators and others to access the 
+Terminal; 
+ 
+non-discrimination provisions in relation to the terminal operator’s provision 
+of services;  
+ 
+a price dispute resolution process for terminal users and other interested 
+third parties to raise price disputes which includes a procedure for resolving 
+the disputes by negotiation and, if the dispute is not resolved, a procedure 
+for referring the dispute to an independent expert for binding determination; 
+and 
+ 
+a dispute resolution process for non-price disputes. 
+24. Following completion of its expression of interest phase for interested parties, 
+Fremantle Ports announced that AAT and VQIRT had each been shortlisted to 
+proceed to the Request For Proposal phase. As part of their proposals, AAT and 
+VQIRT were required by the vendor to submit a letter of no objection from the 
+ACCC. 
+
+
+ 
+Page 5 of 10 
+ 
+Review timeline 
+25. The following tables outline the timeline of key events in these matters. 
+VQIRT 
+Date 
+ Event 
+23 December 2014 
+ACCC commenced a review under the Merger Review 
+Process Guidelines.  
+2 February 2015 
+Closing date for submissions for interested parties. 
+11 February 2015 
+ACCC commenced market inquiries on the draft section 87B 
+undertaking. 
+16 February 2015 
+Closing date for further submissions from interested parties 
+regarding draft key performance indicators. 
+20 February 2015 
+Former proposed decision date of 26 February delayed at the 
+request of VQIRT. 
+2 April 2015 
+ACCC announced it would not oppose the proposed 
+acquisition, subject to a section 87B undertaking accepted by 
+the ACCC. 
+ 
+AAT 
+Date 
+ Event 
+23 December 2014 
+ACCC commenced a review under the Merger Review 
+Process Guidelines. 
+2 February 2015 
+Closing date for submissions for interested parties. 
+18 February 2015 
+Former proposed decision date of 26 February delayed. 
+8 April 2015 
+Draft section 87B undertaking offered by AAT. ACCC 
+commenced market inquiries on the draft section 87B 
+undertaking. 
+14 April 2014 
+Closing date for submissions relating to draft section 87B 
+undertaking. 
+23 April 2015  
+ACCC announced it would not oppose the proposed 
+acquisition, subject to a section 87B undertaking accepted by 
+the ACCC. 
+ 
+Industry background 
+26. Car manufacturers and other original equipment manufacturers (OEMs) contract 
+with shipping lines for the transport of vehicles between different ports and the 
+delivery of vehicles to the automotive terminal. 
+
+
+ 
+Page 6 of 10 
+ 
+27. Stevedores are contracted by shipping lines to load cargo on and off vessels 
+which berth at the automotive terminal. PDI operators are contracted by OEMs or 
+motor vehicle importers to inspect, clean and process vehicles prior to delivery to 
+their ultimate destination.  
+28. The terminal operator is generally responsible for the day-to-day operation of the 
+terminal, which includes managing the arrival of vessels, providing temporary 
+storage for cargo and facilitating access to the terminal by stevedores, mooring 
+service providers and PDI operators.  
+29. The terminal operator also facilitates a receipt and delivery process where 
+landbased logistics/transport carriers access the terminal to support movement of 
+cargo to or from the terminal in order to deliver automotive cargo to OEMs and car 
+dealers. 
+30. Figure 1 represents the supply chain for automotive cargo for the Port of 
+Fremantle. 
+Figure 1: supply chain for automotive cargo 
+ 
+31. In Australia, the following ports have dedicated automotive terminals: 
+ 
+Port Kembla (NSW); 
+ 
+Port of Brisbane (Qld); 
+ 
+Port Adelaide (SA); 
+ 
+Port of Fremantle (WA); and 
+ 
+Port of Melbourne (Vic).2  
+Market inquiries 
+32. The ACCC received written submissions from and/or spoke with a number of 
+interested parties including OEMs, motor vehicle importers, shipping lines, 
+stevedores, PDI providers, transport carriers and relevant associations. 
+33. The ACCC sought feedback from interested parties on the open access regime as 
+initially proposed by Fremantle Ports, focussing on its effectiveness (including the 
+proposed open access services terms and conditions and price and non-price 
+dispute resolution processes) and enforceability (given that the proposed open 
+access regime would be included in a terminal licence between Fremantle Ports 
+and the terminal operator). 
+                                                 
+2  Other ports in Australia, including Darwin and Townsville, also have terminals that are in part used for 
+automotive trade. Only a relatively small proportion of automotive trade goes through those ports. 
+
+
+ 
+Page 7 of 10 
+ 
+34. The ACCC also sought submissions from interested parties in relation to the 
+separate undertakings after they were offered by VQIRT and AAT, particularly in 
+relation to the key performance indicators included in each of the undertakings.  
+Market definition 
+35. The ACCC considers that the relevant markets for assessing the proposed 
+acquisitions are: 
+ the supply of automotive terminal services in the Fremantle region; 
+ the supply of automotive shipping services in the Fremantle region; 
+ the supply of automotive stevedoring services in the Fremantle region; and 
+ the supply of vehicle PDI services in the Fremantle region. 
+36. Automotive terminal services are an input to downstream terminal users that in 
+turn supply stevedoring, PDI and shipping services. Automotive terminal services 
+include, but are not limited to, providing licensed stevedores with access to the 
+terminal facility. 
+37. The Port of Fremantle is the only port that receives and processes automotive 
+vehicles in Western Australia. The ACCC considered that automotive terminals in 
+other capital cities are not close substitutes for the Terminal at the Port of 
+Fremantle given the long distances between those terminals and the destination 
+of the vehicles. The ACCC therefore considered that the relevant geographic 
+scope of the markets affected by the proposed acquisition is the Fremantle region. 
+Likely future with and without the proposed acquisitions 
+38. Section 50 of the Act prohibits mergers or acquisitions that would have the effect, 
+or be likely to have the effect, of substantially lessening competition in a market. In 
+assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to the 
+likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to assist in determining whether the proposed acquisition is 
+likely to substantially lessen competition in any relevant market. 
+39. There has been no indication from Fremantle Ports that it would be likely to 
+develop and operate the Terminal itself in the absence of the proposed 
+acquisitions. Accordingly, for each of the proposed acquisitions, the ACCC 
+considered the most likely future without the proposed acquisition is that another 
+party would be appointed as the terminal operator.  
+Competition analysis 
+VQIRT 
+40. In the course of market inquiries, interested parties expressed concerns regarding 
+VQIRT’s status as a vertically integrated operator of the sole automotive terminal 
+at the Port of Fremantle, given WW Logistics’ interests in automotive shipping 
+(and potentially in stevedoring or PDI services at the Port of Fremantle in the 
+future). 
+
+
+ 
+Page 8 of 10 
+ 
+41. The ACCC considered that VQIRT’s proposed acquisition would provide VQIRT 
+with the ability and incentive to exercise market power to: 
+ discriminate against rival shipping lines by charging higher prices for 
+automotive terminal services to non VQIRT related entities (for example, by 
+raising the standalone price for access to the Terminal above efficient levels, 
+raising the input costs of its rivals); 
+ discriminate against rival shipping lines by providing less favourable non-
+price terms and conditions and/or giving preferential treatment to WW 
+Logistics in the provision of ancillary services;  
+ discriminate against downstream terminal users that VQIRT or its related 
+bodies corporate may compete with in the future should VQIRT or its related 
+bodies corporate enter those downstream markets (e.g. stevedoring); and 
+ access commercially sensitive information of rival shipping lines and other 
+terminal users, which WW Logistics, VQIRT or its related bodies corporate 
+may use to their advantage. 
+AAT 
+42. Interested parties also expressed concerns regarding AAT’s position as a 
+vertically integrated operator of the sole automotive terminal at the Port of 
+Fremantle, having regard to the interests held by each of AAT’s two shareholders 
+in automotive stevedoring and PDI operations at the Port of Fremantle. 
+43. The ACCC considered that AAT’s proposed acquisition would provide AAT with 
+the ability and incentive to exercise market power to: 
+ foreclose the entry and expansion of third party stevedores or PDI operators 
+which compete with entities associated with AAT’s two shareholders, by 
+setting higher prices for access services supplied to those third party terminal 
+users; 
+ frustrate or restrict access to the Terminal by third party stevedores or PDI 
+operators which compete with entitles associated with either of AAT’s two 
+shareholders, through non-price terms of supply; and 
+ gain access to commercially sensitive information of terminal users, shipping 
+lines and car manufacturers, and use or disclose such commercially sensitive 
+information in order to benefit the downstream entities associated with AAT’s 
+shareholders. 
+44. The ACCC considered that the competition concerns identified above in relation to 
+VQIRT and AAT could not be resolved through an open access regime 
+established in a terminal licence between Fremantle Ports and the successful 
+bidder. This is because the terminal licence would not be subject to independent 
+oversight and enforcement. In addition, the ACCC was concerned that as the 
+terminal licence is a private agreement, it could be changed in the future by 
+agreement between the parties. 
+Undertakings 
+45. Given the ACCC’s concerns with the deficiencies in the proposed open access 
+regime, VQIRT and AAT each offered the ACCC separate court enforceable 
+undertakings pursuant to section 87B of the Act to address the competition 
+
+
+ 
+Page 9 of 10 
+ 
+concerns associated with each of VQIRT and AAT’s separate proposed 
+acquisitions in the context of section 50 of the Act. 
+46. Unlike the proposed open access regime, the obligations in the separate 
+undertakings can be enforced and monitored by the ACCC. On 2 April 2015, the 
+ACCC accepted a court enforceable undertaking offered by VQIRT under section 
+87B of the Act. On 23 April 2015, the ACCC accepted a court enforceable 
+undertaking offered by AAT under section 87B of the Act.  
+47. Each undertaking aims to address the ACCC’s competition concerns in the 
+context of section 50 of the Act by requiring VQIRT or AAT, whichever is the 
+successful bidder, to: 
+ comply with open access conditions in their operation of the Terminal; 
+ ring fence terminal users’ confidential information, to ensure it is not 
+inappropriately used or disclosed; 
+ provide mechanisms for independent resolution of price and non-price 
+related disputes if parties consider they have been discriminated against or 
+have other concerns relating to the supply of terminal services by VQIRT or 
+AAT; 
+ provide for oversight of VQIRT’s or AAT’s compliance with the undertakings 
+through self-reporting (including reporting on key performance indicators) 
+and the requirement for regular independent audits by an ACCC-approved 
+auditor; and 
+ allow terminal users to request that an independent auditor conducts an audit 
+check of VQIRT’s or AAT’s compliance with the undertaking at any time if a 
+terminal user is concerned that VQIRT or AAT has breached its undertaking 
+obligations. 
+48. Fremantle Ports will retain responsibility for berthing allocation and the provision of 
+mooring services at the Terminal. However, given that this may change over the 
+term of the lease, each undertaking contains a clause prohibiting VQIRT or AAT 
+from being responsible for berthing unless the ACCC accepts a further section 
+87B undertaking or a variation to the undertaking. 
+49. As the undertaking of the successful bidder is expected to be in place for the 
+length of the lease (a period of approximately 20 years), the ACCC was 
+concerned to ensure that each of the undertakings can continue to meet their 
+objectives throughout their entire term. To address this concern, each undertaking 
+makes provision for it to be publicly reviewed by the ACCC two years after 
+commencement and no more than once in each five year interval thereafter.  
+50. During the ACCC’s reviews of the proposed acquisitions, market participants 
+expressed significant concerns about the decision by Fremantle Ports to offer a 
+long term lease for the Terminal. Effectively, the lease will transfer a monopoly 
+asset from the Western Australian Government to private ownership. Without 
+adequate protections, terminal users may be subject to monopoly pricing and/or 
+declining service levels, with flow-on effects to downstream parties such as car 
+manufacturers and ultimately consumers.  
+
+
+ 
+Page 10 of 10 
+ 
+51. The undertakings given by VQIRT and AAT comprehensively address the section 
+50 competition concerns arising from the proposed acquisitions. However, merger 
+remedies cannot address all competition issues arising from the monopoly 
+characteristics of an asset that exist regardless of who owns it.  
+52. Where an infrastructure asset such as a port has natural monopoly characteristics, 
+the sale of that asset transfers any market power arising from the ownership of the 
+asset from one party to another. In these circumstances, merger remedies do not 
+provide an adequate mechanism for addressing any underlying monopoly pricing 
+concerns. 
+53. It may be more appropriate in these circumstances for monopoly pricing concerns 
+to be addressed under Part IIIA of the Act. Part IIIA sets out a regime which 
+governs access to monopoly infrastructure services throughout Australia. It is 
+designed to address concerns through a public assessment process in industries 
+where an infrastructure asset with natural monopoly characteristics forms a 
+bottleneck for firms operating in upstream or downstream markets.   
+Conclusion  
+54. On the basis of the above, including taking into account the undertaking given by 
+VQIRT and the undertaking given by AAT which were accepted by the ACCC, the 
+ACCC formed the view that the proposed acquisition of the long term lease of the 
+new automotive and RoRo terminal at the Port of Fremantle by either VQIRT or 
+AAT would not have the effect or be likely to have the effect of substantially 
+lessening competition in any relevant market in contravention of section 50 of the 
+Act. 

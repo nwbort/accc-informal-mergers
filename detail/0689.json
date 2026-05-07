@@ -1,0 +1,64 @@
+{
+  "id": "0689",
+  "title": "The Borg Group - proposed acquisition of raw medium density fibreboard manufacturing plant located at Oberon, NSW of Carter Holt Harvey Woodproducts Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-borg-group-proposed-acquisition-of-raw-medium-density-fibreboard-manufacturing-plant-located-at-oberon-nsw-of-carter-holt-harvey-woodproducts",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39325",
+  "industries": [
+    "Raw medium density fibreboard (MDF)"
+  ],
+  "date_completed": "24 November 2009",
+  "date_completed_iso": "2009-11-24T12:00:00Z",
+  "date_commenced": "16 October 2009",
+  "date_commenced_iso": "2009-10-16T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "The Borg Group"
+  ],
+  "targets": [
+    "Carter Holt Harvey's raw MDF plant located at Oberon NSW"
+  ],
+  "timeline": [
+    {
+      "date": "16 Oct 2009",
+      "date_iso": "2009-10-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Oct 2009",
+      "date_iso": "2009-10-26T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "30 Oct 2009",
+      "date_iso": "2009-10-30T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Nov 2009",
+      "date_iso": "2009-11-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Nov 2009",
+      "date_iso": "2009-11-09T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended pending receipt of requested information. Former proposed date for announcement of ACCC's findings of 18 November 2009, deferred to allow the merger parties time to provide requested information."
+    },
+    {
+      "date": "17 Nov 2009",
+      "date_iso": "2009-11-17T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Nov 2009",
+      "date_iso": "2009-11-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Borg Group proposed to acquire the medium density fibreboard (MDF) manufacturing plant and certain associated assets located at Oberon, NSW of Carter Holt Harvey Woodproducts Australia Pty Limited.",
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition in this matter, the relevant markets which the ACCC considered for the purpose of assessing the proposed acquisition included the national market for the manufacture and supply of raw MDF.",
+    "Competition analysis": "The proposed acquisition involved integration by Borg, a manufacturer of value-added MDF products and distributor of MDF products, into production of the raw MDF input.  The ACCC concluded that the proposed acquisition was unlikely to materially increase the ability and incentive for foreclosure of downstream rivals, such as by restricting supply of raw MDF, or sabotaging of rivals' alternative supply options.  Factors informing this conclusion included: - alternative sources of raw MDF were available; and - because of effective competitive constraints at the upstream and downstream levels, the profits accruing to the merged firm at the downstream level, as a result of any foreclosure, would not outweigh the profits lost through reduced sales at the upstream level. The ACCC also considered that the merged firm was unlikely to have the ability or incentive to foreclose access to downstream distribution by rival MDF suppliers, including because alternative distribution options would continue to be available. For the purpose of assessing the proposed acquisition, the ACCC also considered the horizontal merger of the parties' interests in supply of various value-added MDF products.  In this regard, the ACCC considered that the merged firm would be constrained by existing competitors. The proposed acquisition also transferred the resin supply operations of one integrated supplier to another integrated supplier, and therefore appeared unlikely to materially change the ability and incentive for foreclosure of supply of resin to rival downstream suppliers of raw MDF or particleboard."
+  }
+}

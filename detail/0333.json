@@ -1,0 +1,73 @@
+{
+  "id": "0333",
+  "title": "Caltex Australia Limited - proposed acquisition of the fuel division of the Scotts Group of Companies",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caltex-australia-limited-proposed-acquisition-of-the-fuel-division-of-the-scotts-group-of-companies",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53975",
+  "industries": [
+    "Fuel retailing and wholesaling"
+  ],
+  "date_completed": "21 May 2014",
+  "date_completed_iso": "2014-05-21T12:00:00Z",
+  "date_commenced": "27 February 2014",
+  "date_commenced_iso": "2014-02-27T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Caltex Australia Limited"
+  ],
+  "targets": [
+    "Scotts Group of Companies"
+  ],
+  "timeline": [
+    {
+      "date": "27 Feb 2014",
+      "date_iso": "2014-02-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Mar 2014",
+      "date_iso": "2014-03-14T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "21 Mar 2014",
+      "date_iso": "2014-03-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "24 Mar 2014",
+      "date_iso": "2014-03-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "4 Apr 2014",
+      "date_iso": "2014-04-04T12:00:00Z",
+      "event": "Former proposed decision date of 1 May 2014 delayed pending receipt of further information from the merger parties. ACCC will announce a new decision date in due course (as outlined in the Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues)."
+    },
+    {
+      "date": "24 Apr 2014",
+      "date_iso": "2014-04-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 May 2014",
+      "date_iso": "2014-05-06T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "8 May 2014",
+      "date_iso": "2014-05-08T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "22 May 2014",
+      "date_iso": "2014-05-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of: -\tlocal retail markets for the supply of fuel; and -\tregional wholesale markets for the supply and distribution of fuel to small commercial customers. In relation to retail markets for the supply of fuel, the ACCC assessed the impact of the proposed acquisition in each local area where Scotts and Caltex both controlled one or more retail fuel sites and also in certain areas where there was no overlap but where Scotts operated a retail site and Caltex supplied an independently operated retail fuel site. In relation to wholesale markets for the supply and distribution of fuel, the ACCC considered the impact of the proposed acquisition in those regions where the merger parties either both operated depots or where there was no direct overlap but where Scotts operated a depot and Caltex supplied an independent distributor (and where the distributor, in some cases, operated from a Caltex owned depot). For the purposes of the competition assessment of the proposed acquisition, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "Wholesale supply and distribution of fuel In each of the relevant areas (Mt Gambier, Griffith, Warrnambool and Horsham) the ACCC considered that post-acquisition Caltex would face effective constraint from rival distributors operating from depots located in the relevant area.  For example, in the Warrnambool area the ACCC considered that Matthews Petroleum, operating from depots in Warrnambool and Portland, would provide a strong alternative to Caltex for small commercial customers. The ACCC also concluded that barriers to entry and expansion in the relevant markets were relatively low. The ACCC considered that a rival depot operator could install an above ground storage tank at a low cost and in a timeframe sufficient to provide a constraint on Caltex. In particular, the ACCC considered that should Caltex no longer supply fuel to Caltex appointed distributors on competitive terms, Caltex appointed distributors could switch away from Caltex, through establishing their own storage capacity and obtaining supply from an alternative wholesaler. As a consequence, the ACCC considered that Caltex was likely to have an incentive to maintain competitive supply to its appointed distributors including K&S. Local markets for the retail supply of fuel With the exception of Mt Gambier (South Australia) and Nhill (Victoria) the ACCC concluded that the proposed acquisition would not result in competition concerns in any relevant local market for the retail supply of fuel.  Post-acquisition, Caltex would be constrained by the presence of alternative fuel retailers, including Woolworths and Coles controlled sites located in prominent positions on roads with high traffic volumes. The ACCC noted that market concerns were raised with the potential impact of the proposed acquisition in Millicent, South Australia. While Caltex does not currently operate or control a retail site in Millicent, there is a Caltex branded retail site, operated by an independent distributor which is supplied with Caltex fuel. The independent operator owns this retail site and the ACCC considered that this operator would continue to be a competitive constraint on Caltex post-acquisition through its ability to independently set retail prices. The operator would also have the ability to switch to a rival wholesaler of fuel should Caltex not supply the operator on competitive terms. The ACCC considered that absent the divestiture of retail sites by Caltex, the proposed acquisition would result in competition concerns in Mt Gambier and Nhill. In the absence of the divestitures, Caltex would control the majority of the retail fuel sites in Mt Gambier (and which are located on key transport routes into and out of Mt Gambier) while in Nhill, Caltex would control two of the three retail sites. In both towns the ACCC concluded that the remaining independent retail sites would not have provided a strong competitive constraint on Caltex. The ACCC was satisfied that the section 87B undertaking provided by Caltex would remedy the potential competition concerns in the Mt Gambier and Nhill local markets. On 22 May 2014, the ACCC accepted the 87B undertaking offered by Caltex and announced that it would not oppose the proposed acquisition."
+  }
+}

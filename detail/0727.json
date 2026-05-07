@@ -1,0 +1,44 @@
+{
+  "id": "0727",
+  "title": "Sportsbet Pty Ltd - proposed acquisition of International All Sports Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sportsbet-pty-ltd-proposed-acquisition-of-international-all-sports-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37758",
+  "industries": [
+    "Gambling"
+  ],
+  "date_completed": "21 July 2009",
+  "date_completed_iso": "2009-07-21T12:00:00Z",
+  "date_commenced": "18 June 2009",
+  "date_commenced_iso": "2009-06-18T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Sportsbet Pty Ltd"
+  ],
+  "targets": [
+    "International All Sports Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jun 2009",
+      "date_iso": "2009-06-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jul 2009",
+      "date_iso": "2009-07-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Jul 2009",
+      "date_iso": "2009-07-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sportsbet intended to acquire all of the outstanding shares (approximately 80%) in International All Sports that it did not already own.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of: - a national wagering market; and - a national sports betting market.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the presence of a number of alternative suppliers of wagering and sports betting services, including other corporate bookmakers and the state based totalisators; and - the transparency in pricing, and the ability of punters to readily compare odds between the totalisator and bookmakers."
+  }
+}

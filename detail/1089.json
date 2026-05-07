@@ -1,0 +1,44 @@
+{
+  "id": "1089",
+  "title": "Prime Television Limited - acquisition of 2 AM radio stations from Elmie Investments Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/prime-television-limited-acquisition-of-2-am-radio-stations-from-elmie-investments-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28075",
+  "industries": [
+    "Media - Radio communications"
+  ],
+  "date_completed": "25 June 2007",
+  "date_completed_iso": "2007-06-25T12:00:00Z",
+  "date_commenced": "1 May 2007",
+  "date_commenced_iso": "2007-05-01T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Prime Television Limited"
+  ],
+  "targets": [
+    "Two AM radio stations of Elmie Investments Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 May 2007",
+      "date_iso": "2007-05-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines after becoming aware of the completed acquisition."
+    },
+    {
+      "date": "22 May 2007",
+      "date_iso": "2007-05-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Jun 2007",
+      "date_iso": "2007-06-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "In February 2007, Prime Television Limited acquired two AM radio stations from Elmie Investments Pty Ltd -  Easy Listening 846 (4EL) in Cairns and Easy Listening Radio Ten26 (4AA) in Mackay.",
+    "Market definition": "The ACCC considered the following markets: - the Cairns markets for commercial radio advertising and supplying content to radio listeners; and - the Mackay markets for commercial radio advertising and supplying content to radio listeners. The ACCC limited the product dimension of the relevant markets to commercial radio on the basis that if competition concerns did not arise in this narrower market, they were unlikely to arise in a wider market (for example, including television, noting that Prime does not operate commercial television stations in Cairns or Mackay).",
+    "Competition analysis": "Prime's acquisitions reduced the number of commercial radio operators from three to two in Cairns and Mackay.  However, the information available to the ACCC indicated that the addition of AM 'talk/classic hits' stations to Prime's FM music stations in Cairns and Mackay was unlikely to enable Prime to unilaterally raise advertising prices or lower product quality in either area.  Similarly, given their differentiated nature, the removal of the 'talk/classic hits' stations as independent competitors in Cairns and Mackay was unlikely to facilitate co-ordinated conduct between Prime and the other commercial radio operator in both areas, Macquarie Regional Radioworks."
+  }
+}

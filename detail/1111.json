@@ -1,0 +1,53 @@
+{
+  "id": "1111",
+  "title": "ABC Learning Centres Limited - acquisition of Just Little People child care centres (Macedon Ranges - Victoria)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/abc-learning-centres-limited-acquisition-of-just-little-people-child-care-centres-macedon-ranges-victoria",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27067",
+  "industries": [
+    "Child care"
+  ],
+  "date_completed": "26 April 2007",
+  "date_completed_iso": "2007-04-26T12:00:00Z",
+  "date_commenced": "15 February 2007",
+  "date_commenced_iso": "2007-02-15T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "ABC Learning Centres Limited"
+  ],
+  "targets": [
+    "Just Little People child care centres (Macedon Ranges - Victoria)"
+  ],
+  "timeline": [
+    {
+      "date": "15 Feb 2007",
+      "date_iso": "2007-02-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "15 Mar 2007",
+      "date_iso": "2007-03-15T12:00:00Z",
+      "event": "ACCC requested further information from ABC. ACCC timeline suspended."
+    },
+    {
+      "date": "10 Apr 2007",
+      "date_iso": "2007-04-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Apr 2007",
+      "date_iso": "2007-04-13T12:00:00Z",
+      "event": "ACCC received further information from ABC. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 Apr 2007",
+      "date_iso": "2007-04-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The relevant market considered by the ACCC was the market for the supply of centre-based long day child care services in an area immediately north-west of Melbourne encompassing Macedon, Gisborne, Woodend, Romsey and Riddells Creek (the Macedon region) and extending along the Calder Freeway at least to Sunbury. The information available to the ACCC suggested that a sufficient number parents would be likely to consider child care in Sunbury to be substitutable for child care in the Macedon region, particularly given information that a significant number of people living in the Macedon area travel along the Calder Freeway to, through or near Sunbury to attend work.",
+    "Competition analysis": "The ACCC decided not to oppose the acquisitions in the Macedon region given the availability of child care places in the relevant market, particularly Sunbury. In addition, information before the ACCC indicated that new childcare centres had recently entered the market, and that further new entry was planned for the future."
+  }
+}

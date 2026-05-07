@@ -1,0 +1,44 @@
+{
+  "id": "0960",
+  "title": "Woolworths Limited - proposed acquisition of dormant hoteliers licence in Bega owned by Nutters Hotels Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-dormant-hoteliers-licence-in-bega-owned-by-nutters-hotels-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30948",
+  "industries": [
+    "Liquor licence"
+  ],
+  "date_completed": "20 February 2008",
+  "date_completed_iso": "2008-02-20T12:00:00Z",
+  "date_commenced": "25 January 2008",
+  "date_commenced_iso": "2008-01-25T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Nutters Hotels Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jan 2008",
+      "date_iso": "2008-01-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Feb 2008",
+      "date_iso": "2008-02-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire a dormant hoteliers licence located in Bega.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is a 3-5km radius surrounding the target retail liquor business. The liquor licence is to be relocated within the central business district of Bega. (Market 1); 2. the New South Wales market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 2).",
+    "Competition analysis": "On 20 February 2008, the ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. in relation to Market 1, the ACCC considered that the existence of other competitors in the local area would be likely to continue to competitively constrain Woolworths post-acquisition; and 2. in relation to Market 2, the ACCC considered that the proposed acquisition of one liquor licence was unlikely to significantly affect the market share or buying power of Woolworths in the NSW wholesale market."
+  }
+}

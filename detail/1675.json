@@ -1,0 +1,31 @@
+{
+  "id": "1675",
+  "title": "Acquirer: Qenos; Target: Orica Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-qenos-target-orica-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15595",
+  "industries": [],
+  "date_completed": "8 March 2002",
+  "date_completed_iso": "2002-03-08T12:00:00Z",
+  "date_commenced": "22 February 2002",
+  "date_commenced_iso": "2002-02-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Qenos"
+  ],
+  "targets": [
+    "Orica Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Orica Australia Ltd (Orica) wishes to sell its interest in the Port Botany LPG Storage Joint Venture to any subsidiary of Qenos Holding Pty Ltd.  Qenos is owned by Orica (50%) and ExxonMobil (50%).  Orica's share of the JV is 71.5%.  The other JV parties are Shell, Mobil and Elgas",
+    "Market definition": "Market for the storage and distribution of LPG in NSW.",
+    "Competition analysis": "This matter does not appear to raise any competition issues.  This proposal will not result in any increase in market concentration.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "4521"
+  }
+}

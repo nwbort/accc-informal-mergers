@@ -1,0 +1,31 @@
+{
+  "id": "1555",
+  "title": "Acquirer: Queensland X-Ray Services; Target: Southside Diagnostics Group Radiology",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-queensland-x-ray-services-target-southside-diagnostics-group-radiology",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17692",
+  "industries": [],
+  "date_completed": "27 May 2003",
+  "date_completed_iso": "2003-05-27T12:00:00Z",
+  "date_commenced": "30 April 2003",
+  "date_commenced_iso": "2003-04-30T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Queensland X-Ray Services"
+  ],
+  "targets": [
+    "Southside Diagnostics Group Radiology"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Queensland X-Ray (a wholly owned subsidiary of Sonic Healthcare Limited) proposes to acquire Southside Diagnostic Services Radiology",
+    "Market definition": "The market for the provision of diagnostic imaging services, excluding services to bulk billed public hospital in-patients, in the Sunshine Coast area.",
+    "Competition analysis": "The Commission considered that the proposed acquisition would not appear to lead to a substantial lessening of competition in the market for the provision of diagnostic imaging services, excluding services to bulk billed public hospital in-patients, in the Sunshine Coast area due to: \"\tIt appears that the barriers to entry are not high; \"\tIt appears that there are a number of diagnostic service providers not presently competing in the relevant market which would be able to enter the relevant market easily; \"\tThere are a number of available substitutes who would be able to expand existing operations ; and \"\tCountervailing power appears to be present among customers including private hospitals and health funds.  Additionally, medical practitioners are able to refer patients to a competing diagnostic imaging provider to assist a new entrant.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "8639"
+  }
+}

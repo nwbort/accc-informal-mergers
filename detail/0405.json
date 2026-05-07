@@ -1,0 +1,54 @@
+{
+  "id": "0405",
+  "title": "IDEXX Laboratories Pty Limited - proposed acquisition of veterinary pathology business assets of Healthscope Limited in New South Wales, the Australian Capital Territory and Queensland",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/idexx-laboratories-pty-limited-proposed-acquisition-of-veterinary-pathology-business-assets-of-healthscope-limited-in-new-south-wales-the-australian",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49977",
+  "industries": [
+    "Veterinary pathology"
+  ],
+  "date_completed": "25 January 2013",
+  "date_completed_iso": "2013-01-25T12:00:00Z",
+  "date_commenced": "5 November 2012",
+  "date_commenced_iso": "2012-11-05T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "IDEXX Laboratories Pty Limited"
+  ],
+  "targets": [
+    "Veterinary pathology business assets of Healthscope Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Nov 2012",
+      "date_iso": "2012-11-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Nov 2012",
+      "date_iso": "2012-11-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Nov 2012",
+      "date_iso": "2012-11-28T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 13 December 2012 delayed pending receipt of information from the parties."
+    },
+    {
+      "date": "17 Dec 2012",
+      "date_iso": "2012-12-17T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "25 Jan 2013",
+      "date_iso": "2013-01-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "IDEXX Laboratories Pty Limited proposed to acquire the veterinary pathology business assets of Healthscope Limited in New South Wales, the Australian Capital Territory and Queensland.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: -the market for the supply of veterinary pathology services in Queensland; and -the market for the supply of veterinary pathology services in NSW/ACT.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets for the following reasons: -Healthscope (trading as 'Gribbles Veterinary Pathology') did not appear likely to impose a strong competitive constraint on other veterinary pathology providers in the relevant markets in the future absent the proposed acquisition. -Other competitive constraints on IDEXX would remain post-acquisition, including Primary Health Care Limited (trading as 'Vetnostics' in NSW/ACT and 'QML Vetnostics' in Queensland), smaller specialised laboratories and some potential for new entry."
+  }
+}

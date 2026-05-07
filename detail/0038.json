@@ -1,0 +1,54 @@
+{
+  "id": "0038",
+  "title": "Viva Energy Australia Pty Ltd - LOC Global Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viva-energy-australia-pty-ltd-loc-global-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Fuel and convenience - retail and wholesale operations"
+  ],
+  "date_completed": "12 December 2024",
+  "date_completed_iso": "2024-12-12T12:00:00Z",
+  "date_commenced": "3 September 2024",
+  "date_commenced_iso": "2024-09-03T12:00:00Z",
+  "total_review_days": 61,
+  "acquirers": [
+    "Viva Energy Australia Pty Ltd"
+  ],
+  "targets": [
+    "LOC Global Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Sep 2024",
+      "date_iso": "2024-09-03T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Sep 2024",
+      "date_iso": "2024-09-17T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "25 Nov 2024",
+      "date_iso": "2024-11-25T12:00:00Z",
+      "event": "Former proposed decision date (26 November) delayed to allow the ACCC to consider a proposed divestiture remedy."
+    },
+    {
+      "date": "10 Dec 2024",
+      "date_iso": "2024-12-10T12:00:00Z",
+      "event": "ACCC conducted targeted market consultation on the proposed divestiture sites. Timeline recommenced with a revised provisional decision date of 12 December 2024."
+    },
+    {
+      "date": "12 Dec 2024",
+      "date_iso": "2024-12-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viva Energy Australia Pty Ltd ( Viva Energy ) proposes to acquire the remaining 50% interest in LOC Global Pty Ltd ( LOC ) from New World Corporation Pty Limited ( NWC ) (the Proposed Acquisition ). LOC is currently owned 50% by Viva Energy and 50% by NWC. It is a joint venture established in December 2019 utilising the retail assets of Liberty Oil Holdings Pty Ltd. LOC and its subsidiaries currently operate (or grant rights to commission agents to operate) 105 Liberty retail fuel and convenience sites across all states and territories in Australia (excluding Tasmania), with plans for approximately an additional 21 planned sites. Viva Energy, through its wholly owned subsidiaries, conducts downstream fuel refining, importing, distribution and marketing in Australia. It is the exclusive supplier of Shell-branded fuels and lubricants in Australia. Viva Energy and LOC overlap in the supply of retail fuel across metropolitan and/or regional locations in local markets across South Australia, Victoria, Western Australia, New South Wales, Queensland and Northern Territory The proposed acquisition includes 88 active LOC retail fuel sites and 10 planned sites across South Australia, Victoria, Western Australia, New South Wales, Queensland, and Northern Territory. On 12 December 2024, the ACCC decided to not oppose the proposed acquisition, subject to the ACCC accepting a court-enforceable undertaking from Viva Energy, LOC, and NWC to divest 14 LOC retail fuel and convenience sites ( divestiture sites ) to Solo Oil Corporation Pty Ltd (an entity established by the owners of NWC). Refer to the Public Competition Assessment.",
+    "Market definition": "Refer to the Public Competition Assessment.",
+    "Competition analysis": "Refer to the Public Competition Assessment."
+  }
+}

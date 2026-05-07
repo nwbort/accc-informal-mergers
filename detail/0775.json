@@ -1,0 +1,43 @@
+{
+  "id": "0775",
+  "title": "Morgan Stanley and Citigroup Incorporated - Joint Venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/morgan-stanley-and-citigroup-incorporated-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36714",
+  "industries": [
+    "Wealth Management Services"
+  ],
+  "date_completed": "19 March 2009",
+  "date_completed_iso": "2009-03-19T12:00:00Z",
+  "date_commenced": "25 February 2009",
+  "date_commenced_iso": "2009-02-25T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Morgan Stanley"
+  ],
+  "targets": [
+    "Citigroup Incorporated"
+  ],
+  "timeline": [
+    {
+      "date": "25 Feb 2009",
+      "date_iso": "2009-02-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Mar 2009",
+      "date_iso": "2009-03-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Mar 2009",
+      "date_iso": "2009-03-19T12:00:00Z",
+      "event": "ACCC decided not to intervene in the proposed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed joint venture to be in the market for the supply of wealth management services.",
+    "Competition analysis": "The ACCC considered the proposed joint venture was unlikely to result in a substantial lessening of competition in the market for the supply of wealth management services. In reaching this view the ACCC noted that Morgan Stanley has a small presence in the wealth management market in Australia, the continued presence of a large number of competitors in the market post-joint venture, and the low barriers to entry in the market."
+  }
+}

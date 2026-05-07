@@ -1,0 +1,44 @@
+{
+  "id": "0723",
+  "title": "Woolworths Limited - proposed acquisition of Liquor licence located in Rydalmere NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-located-in-rydalmere-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38215",
+  "industries": [
+    "Takeaway packaged liquor licence"
+  ],
+  "date_completed": "10 August 2009",
+  "date_completed_iso": "2009-08-10T12:00:00Z",
+  "date_commenced": "20 July 2009",
+  "date_commenced_iso": "2009-07-20T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor licence located in Rydalmere NSW"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jul 2009",
+      "date_iso": "2009-07-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Aug 2009",
+      "date_iso": "2009-08-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Aug 2009",
+      "date_iso": "2009-08-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire the licence and goodwill of a takeaway packaged liquor licencee located in Rydalmere, NSW.  The licence is located at Shops 2 and 3, 72 Pine Street, Rydalmere, NSW and trades as \"David's Cellars\".",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - a local retail market for the supply of liquor for off-premises consumption, with a 3-5 km geographic radius surrounding the target; and - a state-based wholesale market for the supply and procurement of packaged liquor products for   subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - in the retail market, Woolworths would continue to be constrained by a number of other retail liquor    outlets; and - in the wholesale market, the proposed acquisition was unlikely to significantly increase the buying power    of Woolworths, nor diminish the buying power of competing wholesale purchasers."
+  }
+}

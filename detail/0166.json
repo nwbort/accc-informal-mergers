@@ -1,0 +1,67 @@
+{
+  "id": "0166",
+  "title": "Assa Abloy Australia Pacific Pty Ltd acquisitions of the Seal Doors Group and E Plus Building Products Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/assa-abloy-australia-pacific-pty-ltd-acquisitions-of-the-seal-doors-group-and-e-plus-building-products-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Fire Doors"
+  ],
+  "date_completed": "21 November 2019",
+  "date_completed_iso": "2019-11-21T12:00:00Z",
+  "date_commenced": "21 August 2019",
+  "date_commenced_iso": "2019-08-21T12:00:00Z",
+  "total_review_days": 51,
+  "acquirers": [
+    "Assa Abloy Australia Pacific Pty Ltd"
+  ],
+  "targets": [
+    "Seal Doors Group, and E Plus Building Products Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Aug 2019",
+      "date_iso": "2019-08-21T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Sep 2019",
+      "date_iso": "2019-09-06T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "4 Oct 2019",
+      "date_iso": "2019-10-04T12:00:00Z",
+      "event": "ACCC requested further information from Assa Abloy."
+    },
+    {
+      "date": "22 Oct 2019",
+      "date_iso": "2019-10-22T12:00:00Z",
+      "event": "ACCC received further information from Assa Abloy"
+    },
+    {
+      "date": "30 Oct 2019",
+      "date_iso": "2019-10-30T12:00:00Z",
+      "event": "ACCC requested further information from Assa Abloy."
+    },
+    {
+      "date": "4 Nov 2019",
+      "date_iso": "2019-11-04T12:00:00Z",
+      "event": "ACCC received further information from Assa Abloy."
+    },
+    {
+      "date": "14 Nov 2019",
+      "date_iso": "2019-11-14T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "21 Nov 2019",
+      "date_iso": "2019-11-21T12:00:00Z",
+      "event": "ACCC discontinued its public review after Assa Abloy informed of its intention to withdraw its proposed acquisition of E Plus."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 29 March 2019, Assa Abloy acquired the Seal Doors Group, including seven of its subsidiaries (but not E Plus). Assa Abloy also proposed to acquire E Plus."
+  }
+}

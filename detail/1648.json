@@ -1,0 +1,31 @@
+{
+  "id": "1648",
+  "title": "Acquirer: Group 4 Falck; Target: Wackenhut Corrections Corporation Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-group-4-falck-target-wackenhut-corrections-corporation-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15720",
+  "industries": [],
+  "date_completed": "8 May 2002",
+  "date_completed_iso": "2002-05-08T12:00:00Z",
+  "date_commenced": "26 March 2002",
+  "date_commenced_iso": "2002-03-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Group 4 Falck"
+  ],
+  "targets": [
+    "Wackenhut Corrections Corporation Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Group 4 Falck proposes to acquire a 57% interest in Wackenhut Corrections Corporation.",
+    "Market definition": "The market is the national market for custodial services.",
+    "Competition analysis": "The Panel considered that the proposed acquisition would not lead to a substantial lessening of competition in the national market for supply of custodial services for the following reasons: - there appear to be at least two substantial companies which will compete against the post-acquisition entity; - barriers to entry do not appear to be high; - the threat of vertical integration is real; - the countervailing power of customers, state and federal governments, is high; and - the parties also claim that their respective Australian operations will be bound by the terms of the proposed acquisition agreement which state that they must remain in competition in Australia.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "9632"
+  }
+}

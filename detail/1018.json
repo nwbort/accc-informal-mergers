@@ -1,0 +1,44 @@
+{
+  "id": "1018",
+  "title": "Seven Network Limited - proposed acquisition of Unwired Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-network-limited-proposed-acquisition-of-unwired-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29813",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "25 October 2007",
+  "date_completed_iso": "2007-10-25T12:00:00Z",
+  "date_commenced": "11 October 2007",
+  "date_commenced_iso": "2007-10-11T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Seven Network Limited"
+  ],
+  "targets": [
+    "Unwired Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Oct 2007",
+      "date_iso": "2007-10-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Oct 2007",
+      "date_iso": "2007-10-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Oct 2007",
+      "date_iso": "2007-10-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Seven Network Limited, through its wholly owned subsidiary Network Investment Holdings Pty Limited, proposed to acquire Unwired Group Limited.",
+    "Market definition": "The proposed acquisition was considered in the context of the retail supply of broadband.",
+    "Competition analysis": "On 25 October 2007 the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market.  Factors informing this conclusion included: - the absence of any overlap by Seven and Unwired in the retail supply of broadband; and - that the proposed acquisition may have enabled Seven to offer competitive bundled broadband services    to consumers in metropolitan areas."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0226",
+  "title": "Tronox Limited - proposed acquisition of Cristal's titanium dioxide business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tronox-limited-proposed-acquisition-of-cristals-titanium-dioxide-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61866",
+  "industries": [
+    "Mineral sands and titanium dioxide pigment"
+  ],
+  "date_completed": "31 August 2017",
+  "date_completed_iso": "2017-08-31T12:00:00Z",
+  "date_commenced": "28 April 2017",
+  "date_commenced_iso": "2017-04-28T12:00:00Z",
+  "total_review_days": 76,
+  "acquirers": [
+    "Tronox Limited"
+  ],
+  "targets": [
+    "Cristal's titanium dioxide business"
+  ],
+  "timeline": [
+    {
+      "date": "28 Apr 2017",
+      "date_iso": "2017-04-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "26 May 2017",
+      "date_iso": "2017-05-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Jun 2017",
+      "date_iso": "2017-06-26T12:00:00Z",
+      "event": "Former proposed decision date of 6 July 2017 delayed until 3 August 2017 to allow additional time to consider the proposed acquisition."
+    },
+    {
+      "date": "19 Jul 2017",
+      "date_iso": "2017-07-19T12:00:00Z",
+      "event": "Former proposed decision date of 3 August 2017 delayed to allow additional time to receive and consider additional information."
+    },
+    {
+      "date": "31 Aug 2017",
+      "date_iso": "2017-08-31T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in relation to the market for the supply of titanium dioxide pigment. The ACCC considered that the relevant market was national, comprising supply from both local producers and imports. The ACCC considered whether there might be narrower product markets for sulphate-based and chloride-based titanium dioxide pigment, and for particular grades of titanium dioxide pigment used in particular applications. However, it took the view that this issue could be left open since, on the basis of its investigation, the ACCC did not consider that the proposed acquisition would give rise to any substantial competition concerns even if narrower markets were defined. The ACCC also considered the impact of the proposed acquisition in relation to feedstocks used in the production of titanium dioxide pigment. The ACCC did not consider it necessary to come to a concluded view due to the parties' limited feedstocks sales in Australia to competing titanium dioxide pigment producers and the existence of large competitors, such as Rio Tinto and Iluka.",
+    "Competition analysis": "The ACCC concluded that Tronox's proposed acquisition of Cristal is unlikely to substantially lessen competition in any relevant market. Although Tronox and Cristal are close competitors, the ACCC considered that a merged Tronox-Cristal is likely to continue to be constrained by other suppliers. The ACCC's investigation indicated that there are a number of alternative suppliers of titanium dioxide pigment currently supplying into Australia, and that these suppliers could expand their supply to meet additional demand and constrain price rises by a merged Tronox-Cristal. In addition, China has become an increasingly large producer of titanium dioxide pigment and market inquiries indicated that the quality of Chinese pigment has been improving. Market inquiries indicated that many customers of titanium dioxide pigment have a multi-sourcing strategy and conduct ongoing testing of alternative pigments. This allows customers to have multiple pigment grades pre-approved for use, allowing them to switch to other pigments within relatively short timeframes. The ACCC's investigation also identified some potential new entrants, including potential customer sponsorship arrangements in relation to such new entrants."
+  }
+}

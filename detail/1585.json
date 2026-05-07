@@ -1,0 +1,30 @@
+{
+  "id": "1585",
+  "title": "Acquirer: John Holland Group Pty Ltd; Target: Transfield Construction Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-john-holland-group-pty-ltd-target-transfield-construction-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17043",
+  "industries": [],
+  "date_completed": "24 December 2002",
+  "date_completed_iso": "2002-12-24T12:00:00Z",
+  "date_commenced": "2 December 2002",
+  "date_commenced_iso": "2002-12-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "John Holland Group Pty Ltd"
+  ],
+  "targets": [
+    "Transfield Construction Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "John Holland propose to acquire Transfield Construction and the Walter Construction Group",
+    "Market definition": "Relevant markets defined as separate national markets for: 1. the supply of non-residential construction services for large scale projects; 2. the supply of non-residential construction services for smaller scale projects; 3. the supply of non-building construction services for large scale projects; 4. the supply of non-building construction services for smaller scale projects; 5. the supply of road and bridge construction services for large scale projects; and 6. the supply of road and bridge construction services for smaller scale projects.",
+    "Competition analysis": "Major construction companies generally operate on a national basis.  There is a distinction between firms able to tender for large scale projects (in excess of $100m) and those firms which are restricted to tendering for smaller projects.  To be able to tender for large scale projects, firms must have strong balance sheets and a proven track record in major construction work. It was considered that there are separate national markets for: 1. the supply of non-residential construction services for large scale projects; 2. the supply of non-residential construction services for smaller scale projects; 3. the supply of non-building construction services for large scale projects; 4. the supply of non-building construction services for smaller scale projects; 5. the supply of road and bridge construction services for large scale projects; and 6. the supply of road and bridge construction services for smaller scale projects. On the basis of the above markets, it is unlikely that the proposed acquisition would result in a substantial lessening of competition.  In the markets for smaller scale projects, there will remain a large number of competitors post-acquisition.  In relation to larger scale projects, fewer competitors exist in the markets, but still sufficient number to constrain the merged entity.  In addition, smaller contractors often form joint ventures or alliances to be in a position to tender for larger projects.",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4113"
+  }
+}

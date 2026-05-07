@@ -1,0 +1,48 @@
+{
+  "id": "1032",
+  "title": "Rio Tinto Ltd - proposed acquisition of Alcan Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/rio-tinto-ltd-proposed-acquisition-of-alcan-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28970",
+  "industries": [
+    "Bauxite/Alumina/Aluminium"
+  ],
+  "date_completed": "3 October 2007",
+  "date_completed_iso": "2007-10-03T12:00:00Z",
+  "date_commenced": "19 July 2007",
+  "date_commenced_iso": "2007-07-19T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "Rio Tinto Ltd"
+  ],
+  "targets": [
+    "Alcan Inc"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jul 2007",
+      "date_iso": "2007-07-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2007",
+      "date_iso": "2007-08-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Sep 2007",
+      "date_iso": "2007-09-12T12:00:00Z",
+      "event": "ACCC requested further information from Rio Tinto in relation to the supply of bauxite and alumina."
+    },
+    {
+      "date": "3 Oct 2007",
+      "date_iso": "2007-10-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to detailed Public Competition Assessment below.",
+    "Competition analysis": "Please refer to detailed Public Competition Assessment below."
+  }
+}

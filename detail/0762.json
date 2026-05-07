@@ -1,0 +1,44 @@
+{
+  "id": "0762",
+  "title": "General Motors Corporation - proposed acquisition of the steering business of Delphi Corporation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/general-motors-corporation-proposed-acquisition-of-the-steering-business-of-delphi-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36980",
+  "industries": [
+    "Automotive"
+  ],
+  "date_completed": "28 April 2009",
+  "date_completed_iso": "2009-04-28T12:00:00Z",
+  "date_commenced": "2 April 2009",
+  "date_commenced_iso": "2009-04-02T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "General Motors Corporation"
+  ],
+  "targets": [
+    "Delphi Corporation"
+  ],
+  "timeline": [
+    {
+      "date": "2 Apr 2009",
+      "date_iso": "2009-04-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2009",
+      "date_iso": "2009-04-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Apr 2009",
+      "date_iso": "2009-04-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "General Motors Corporation (GMC) proposed to acquire the global steering business of Delphi Corporation (Delphi Steering).",
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition in this matter, the ACCC considered the proposed acquisition in the context of national markets for the manufacture of individual motor vehicle steering parts, namely steering gears, steering columns and steering pumps.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets on the basis that alternative suppliers, particularly global suppliers capable of importing steering components into Australia, would continue to competitively constrain GMC post acquisition. In addition, the ACCC noted that steering component manufacturers gain limited economies of scale or other competitive advantage by producing steering components for more than one car manufacturer. As such, the ACCC considered that any shift of supply from existing suppliers of GMC to Delphi Steering would be unlikely to inhibit alternative suppliers' ability to compete."
+  }
+}

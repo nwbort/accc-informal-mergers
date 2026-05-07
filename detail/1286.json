@@ -1,0 +1,24 @@
+{
+  "id": "1286",
+  "title": "International Power - proposed acquisition of NRG Gladstone",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/international-power-proposed-acquisition-of-nrg-gladstone",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24072",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "9 May 2006",
+  "date_completed_iso": "2006-05-09T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "International Power is proposing to acquire an interest in the Gladstone Power Station in Queensland.",
+    "Competition analysis": "The parties indicated the plant is effectively contracted until 2029 and they have no Queensland electricity generation interests as such an substantial lessening of competition does not seem likely.",
+    "Initiation": "Parties"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0326",
+  "title": "Fairfax Media Limited - proposed acquisition of All Homes Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fairfax-media-limited-proposed-acquisition-of-all-homes-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54742",
+  "industries": [
+    "Property Listing Business"
+  ],
+  "date_completed": "4 September 2014",
+  "date_completed_iso": "2014-09-04T12:00:00Z",
+  "date_commenced": "11 July 2014",
+  "date_commenced_iso": "2014-07-11T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Fairfax Media Limited"
+  ],
+  "targets": [
+    "All Homes Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jul 2014",
+      "date_iso": "2014-07-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "4 Aug 2014",
+      "date_iso": "2014-08-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Sep 2014",
+      "date_iso": "2014-09-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fairfax Media Limited proposed to acquire All Homes Pty Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the supply of real estate classified advertising services in the ACT and real estate display advertising services in the ACT. The ACCC noted the significant differences in competitive dynamics between the online real estate advertising market in the ACT and other parts of Australia, particularly the very strong brand presence of All Homes in the ACT, which it did not enjoy in any other region. The ACCC considered that it was likely that there were separate markets for the supply of online and print advertising services, on the basis that they served complementary and not directly substitutable roles for  advertisers and customers. However it was not necessary for the ACCC to form a concluded view on whether print and online advertising services were in the same market. The ACCC analysed the competitive effect of the proposed acquisition by looking at possible links between the online and print business of Fairfax following the proposed acquisition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. The most direct impact of the proposed acquisition was the aggregation of the online real estate advertising portals of Fairfax (domain.com.au) and All Homes (allhomes.com.au). Market participants indicated that All Homes was, to a significant degree, the dominant supplier of online real estate advertising services in the ACT and charged a significantly greater amount for its advertising services than other competing providers.  Based on information provided by market participants and other relevant measures such as advertising revenue, number of listings and internet browsing figures, the ACCC considered that domain.com.au was a weak competitor prior to the proposed acquisition. Therefore, the ACCC considered that the proposed acquisition was unlikely to materially increase All Homes existing strong position in the market. The ACCC also investigated the extent of barriers to entry in relation to online advertising services in the ACT. Market participants indicated that the unwillingness of some real estate agents, or groups of agents, to list their property on websites other than All Homes may have impeded the ability of other websites to achieve the level of market coverage necessary to present a compelling offer to consumers which, in turn, may have reduced their attractiveness to real estate agents as advertising outlets. The ACCC analysed the confidential contractual relationships between All Homes and real estate agents in the ACT. The ACCC was satisfied that there were no restrictions that will continue post acquisition that would prevent any real estate agents listing their properties on competing websites. In addition, the ACCC was satisfied that there would be no financial or other incentives which would have the effect of benefiting any real estate agents if they did not list their properties on competing websites. Given this, the ACCC was satisfied that other real estate advertising websites, such as realestate.com.au which was the number one provider of such services nationally, would have the potential to expand their coverage of agents in the ACT following the proposed acquisition and may be able to grow their scale and compete more effectively with the merged entity over time. The ACCC also analysed whether the aggregation of All Homes with Fairfax's ACT print real estate advertising business (in the Canberra Times) would enable them to bundle the two services in a way which would harm competitive outcomes. The ACCC noted the significantly declining position of real estate print advertising in the Canberra Times in recent years and the entry and expansion by Canberra Weekly in real estate print advertising. Given this, the ACCC considered that Fairfax would be unlikely to have the ability or incentive to engage in any anti-competitive bundling strategy following the proposed acquisition. The ACCC also noted that All Homes offered online real estate advertising services outside of the ACT. The ACCC noted that All Homes had a minimal presence outside of the ACT, in terms of number of listings, brand presence and site revenue and that the proposed acquisition was not likely to represent a material aggregation of online advertising services in these regions."
+  }
+}

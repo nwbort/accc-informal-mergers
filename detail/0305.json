@@ -1,0 +1,54 @@
+{
+  "id": "0305",
+  "title": "GlaxoSmithKline plc - proposed acquisition of human vaccines business of Novartis AG",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/glaxosmithkline-plc-proposed-acquisition-of-human-vaccines-business-of-novartis-ag",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55896",
+  "industries": [
+    "Vaccines"
+  ],
+  "date_completed": "29 January 2015",
+  "date_completed_iso": "2015-01-29T12:00:00Z",
+  "date_commenced": "8 October 2014",
+  "date_commenced_iso": "2014-10-08T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "GlaxoSmithKline plc"
+  ],
+  "targets": [
+    "human vaccines business of Novartis AG"
+  ],
+  "timeline": [
+    {
+      "date": "8 Oct 2014",
+      "date_iso": "2014-10-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2014",
+      "date_iso": "2014-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Nov 2014",
+      "date_iso": "2014-11-21T12:00:00Z",
+      "event": "ACCC assessing additional information submitted by the parties. Former provisional date of 27 November 2014 for announcement of ACCC's decision delayed."
+    },
+    {
+      "date": "20 Jan 2015",
+      "date_iso": "2015-01-20T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "29 Jan 2015",
+      "date_iso": "2015-01-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "GlaxoSmithKline proposes to acquire Novartis AG's human vaccines business. In Australia, the human vaccines currently supplied by Novartis AG are Bexsero, Menevo and Rabipur.",
+    "Market definition": "The ACCC considered the competitive effects of the acquisition in the context of the market for the supply of Meningococcal ACWY vaccine products in Australia. The ACCC did not consider it necessary to form a definitive view regarding market definition in any of these product areas/categories.",
+    "Competition analysis": "In the context of this transaction, the only area of competitive overlap in Australia involved the supply by GSK and Novartis of Meningococcal ACWY vaccines.  The ACCC considered that in the absence of the s87B undertaking offered by GSK, the proposed acquisition is likely to raise competition concerns in this market. GSK and Novartis are particularly close competitors in the supply of Meningococcal ACWY vaccines with Sanofi the only other company supplying these vaccines in Australia. The ACCC was concerned that, following the proposed acquisition, Novartis' Meningococcal ACWY vaccines would cease to compete independently of GSK and thereby remove or weaken the competitive impact of one of GSK's two significant competitors. The ACCC was also concerned that the acquisition would weaken competitive constraints on remaining suppliers, which may provide them with an increased incentive or ability to raise prices and/or offer lower levels of service. The ACCC understands that new entry or expansion in relation to Meningococcal ACWY vaccine products requires substantial investment in research and development and it was not likely the remaining suppliers would be constrained by actual or potential new entry. In order to address these concerns GSK offered the ACCC a section 87B undertaking to comply with its commitment to the European Commission to divest its Meningococcal ACWY vaccine products on a global basis. The ACCC was satisfied that the section 87B undertaking provided by GSK would remedy the potential competition concerns in the market(s) for the supply of Meningococcal ACWY vaccine products in Australia. On 29 January 2015, the ACCC accepted the 87B undertaking offered by GSK and Novartis and announced that it would not oppose the acquisition."
+  }
+}

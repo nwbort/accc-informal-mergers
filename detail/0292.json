@@ -1,0 +1,54 @@
+{
+  "id": "0292",
+  "title": "Federation Centres and Novion Property Group - proposed merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/federation-centres-and-novion-property-group-proposed-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56772",
+  "industries": [
+    "Real estate"
+  ],
+  "date_completed": "21 May 2015",
+  "date_completed_iso": "2015-05-21T12:00:00Z",
+  "date_commenced": "4 February 2015",
+  "date_commenced_iso": "2015-02-04T12:00:00Z",
+  "total_review_days": 62,
+  "acquirers": [
+    "Federation Centres"
+  ],
+  "targets": [
+    "Novion Property Group"
+  ],
+  "timeline": [
+    {
+      "date": "4 Feb 2015",
+      "date_iso": "2015-02-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "25 Feb 2015",
+      "date_iso": "2015-02-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Apr 2015",
+      "date_iso": "2015-04-01T12:00:00Z",
+      "event": "Former proposed decision date of 2 April delayed to allow the parties to provide more information. ACCC will announce a new decision date in due course (as outlined in the Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues)."
+    },
+    {
+      "date": "15 Apr 2015",
+      "date_iso": "2015-04-15T12:00:00Z",
+      "event": "Novion and Federation announce that they are engaging with the ACCC in relation to the potential divestment of either Karingal Hub (a 50% Federation owned asset) or Bayside (a Novion owned asset), both of which are located in south east Melbourne."
+    },
+    {
+      "date": "21 May 2015",
+      "date_iso": "2015-05-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger, subject to section 87B undertakings accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Federation Limited and Federation Centres Limited as Responsible Entity of Federation Centres Trust No. 1 and Novion Limited and Novion RE Limited proposed to merge via schemes of arrangement. Both entities owned and managed a large number of shopping centres throughout Australia.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1598",
+  "title": "Acquirer: Orica Ltd; Target: Industrial Chemicals Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-orica-ltd-target-industrial-chemicals-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16926",
+  "industries": [],
+  "date_completed": "12 November 2002",
+  "date_completed_iso": "2002-11-12T12:00:00Z",
+  "date_commenced": "29 October 2002",
+  "date_commenced_iso": "2002-10-29T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Orica Ltd"
+  ],
+  "targets": [
+    "Industrial Chemicals Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "ICL is the company that will be created when Incitec is split up between its fertiliser and industrial chemicals businesses, with ICL taking over the industrial chemicals side of Incitec's operations.  Once ICL becomes a separate company, it was further envisaged that the company would be fully acquired by its majority shareholder in Orica.",
+    "Market definition": "Supply of ammonia in eastern Australia.",
+    "Competition analysis": "On 12 November 2002 the Commission decided that it would not intervene in the proposed acquisition of Industrial Chemicals Ltd (ICL) by Orica. Orica and Incitec have both been suppliers of ammonia to industrial customers in eastern Australia.  Ammonia is an important input used in the manufacture of  fertilisers, ammonium nitrate explosives and sodium cyanide which is used in the production of gold.  Concerns were raised with the Commission that the proposed acquisition of ICL by Orica would eliminate a competitor in the supply of ammonia in eastern Australia. In assessing the competitive impact of this acquisition, the Commission took into account that Incitec and Orica are already related parties with Orica owning 77% of Incitec.  On this basis, the Commission concluded that the proposed acquisition of ICL by Orica would not lead to the removal of a vigorous and effective competitor in the supply of ammonia, and therefore unlikely to constitute a substantial lessening of competition.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2535"
+  }
+}

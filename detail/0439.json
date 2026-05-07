@@ -1,0 +1,54 @@
+{
+  "id": "0439",
+  "title": "Glencore International plc - proposed acquisition of Xstrata Plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/glencore-international-plc-proposed-acquisition-of-xstrata-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45863",
+  "industries": [
+    "Mining"
+  ],
+  "date_completed": "3 July 2012",
+  "date_completed_iso": "2012-07-03T12:00:00Z",
+  "date_commenced": "10 April 2012",
+  "date_commenced_iso": "2012-04-10T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Glencore International plc"
+  ],
+  "targets": [
+    "Xstrata Plc"
+  ],
+  "timeline": [
+    {
+      "date": "10 Apr 2012",
+      "date_iso": "2012-04-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 May 2012",
+      "date_iso": "2012-05-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 May 2012",
+      "date_iso": "2012-05-28T12:00:00Z",
+      "event": "ACCC requested further information from Glencore. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 7 June 2012 delayed."
+    },
+    {
+      "date": "13 Jun 2012",
+      "date_iso": "2012-06-13T12:00:00Z",
+      "event": "ACCC received further information from Glencore. ACCC timeline recommenced."
+    },
+    {
+      "date": "4 Jul 2012",
+      "date_iso": "2012-07-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Glencore International plc proposes to acquire Xstrata plc. Glencore currently has a 34 percent stake in Xstrata.",
+    "Market definition": "The ACCC considered that the relevant product markets were as follows: -In relation to copper: copper concentrate, copper metal. -In relation to nickel: pre-refined nickel, refined nickel. - In relation to cobalt: pre-refined cobalt, refined cobalt. - In relation to zinc: zinc concentrate, zinc metal. - Lead. - In relation to seaborne Coal: thermal coal, coking coal. The ACCC considered the impact on the proposed acquisition on both the Australian and global markets for these products.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to cause a substantial lessening of competition in any of the relevant Australian markets. In relation to each of the relevant products, the merged entity would have a relatively low share of global production and would compete against a number of remaining substantial competitors. Based on inquiries with Australian customers, the ACCC considered, in relation to certain of the relevant products, that any impact in global markets would have minimal impact on Australian users of those products or end-consumers. The ACCC did not consider that there was a likelihood of anti-competitive effects arising from the vertical integration of Xstrata's mining and production activities with Glencore's extensive third-party trading activities. The ACCC noted that a significant proportion of sales in the relevant markets were direct sales, not involving any third-party trader, and considered that the merged entity would lack the requisite market power (at either the production or acquisition levels) to be able to engage in any foreclosure strategy to the detriment of other producers or traders."
+  }
+}

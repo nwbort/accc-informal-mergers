@@ -1,0 +1,43 @@
+{
+  "id": "0845",
+  "title": "InvoCare Limited - completed acquisition of Southern Cross Funerals",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invocare-limited-completed-acquisition-of-southern-cross-funerals",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34229",
+  "industries": [
+    "Funeral Directors, Crematoria and Cemeteries"
+  ],
+  "date_completed": "24 October 2008",
+  "date_completed_iso": "2008-10-24T12:00:00Z",
+  "date_commenced": "16 October 2008",
+  "date_commenced_iso": "2008-10-16T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "InvoCare Limited"
+  ],
+  "targets": [
+    "Southern Cross Funerals"
+  ],
+  "timeline": [
+    {
+      "date": "16 Oct 2008",
+      "date_iso": "2008-10-16T12:00:00Z",
+      "event": "InvoCare Limited notified the ACCC that it had completed the acquisition of Southern Cross Funerals. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Oct 2008",
+      "date_iso": "2008-10-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the competitive effects of the completed acquisition in the context of the supply of funeral direction services in the Melbourne region.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included: - post- acquisition, the merged firm would hold approximately 23% of the market; - the merged firm would continue to be constrained by a number of competitors including Tobins and a large    number of smaller competitors; and - no vertical integration issues arose as a result of the completed acquisition."
+  }
+}

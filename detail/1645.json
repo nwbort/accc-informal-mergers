@@ -1,0 +1,31 @@
+{
+  "id": "1645",
+  "title": "Acquirer: Pacific Access Pty Ltd; Target: Citysearch Australia Pty Ltd (City Search)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pacific-access-pty-ltd-target-citysearch-australia-pty-ltd-city-search",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15574",
+  "industries": [],
+  "date_completed": "23 May 2002",
+  "date_completed_iso": "2002-05-23T12:00:00Z",
+  "date_commenced": "25 February 2002",
+  "date_commenced_iso": "2002-02-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pacific Access Pty Ltd"
+  ],
+  "targets": [
+    "Citysearch Australia Pty Ltd (City Search)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 14 February 2002 f2, the online subsidiary of John Fairfax Holdings Limited, and Pacific Access Pty Ltd, a subsidiary of Telstra, jointly announced that they had entered into a binding Memorandum of Understanding for the sale of f2's online directories business, Citysearch Australia, to Pacific Access Pty Ltd for $20m.",
+    "Market definition": "Two relevant markets were determined: 1. Provision of Online Directory Services. 2. Online Advertising and Marketing.",
+    "Competition analysis": "Determining market shares and market concentration was problematic, as there were no definitive measures for the Online Directory Services market. However, based on market share figures for online search services it could be concluded that Pacific Access and CitySearch are clearly the market leaders with Pacific Access the most dominant player. The proposed acquisition was likely to result in Pacific Access increasing its market dominance, becoming effectively the only provider of Online Directory Services.  However, in the key areas of control over intellectual property for directories and the access to business specific data, the intellectual property and business data currently held by Fairfax would not be provided exclusively to Pacific Access.  Fairfax will maintain its ability to licence, lease or sell the copyright and/or data to any interested party without restraint from Pacific Access. The ongoing availability of business data and access to directory copyright for any operator seeking to enter the market satisfied the Commission that the proposed acquisition was unlikely to substantially lessen competition in the market for Online Directory Services. The Commission found no concern in relation to the market for Online Advertising and Marketing due to the significant number of alternative suppliers of such services.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "7851"
+  }
+}

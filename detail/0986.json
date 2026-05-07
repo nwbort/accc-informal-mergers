@@ -1,0 +1,44 @@
+{
+  "id": "0986",
+  "title": "Primary Health Care Limited - proposed acquisition of Symbion Health Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/primary-health-care-limited-proposed-acquisition-of-symbion-health-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29561",
+  "industries": [
+    "Health Care"
+  ],
+  "date_completed": "13 December 2007",
+  "date_completed_iso": "2007-12-13T12:00:00Z",
+  "date_commenced": "8 November 2007",
+  "date_commenced_iso": "2007-11-08T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Primary Health Care Ltd"
+  ],
+  "targets": [
+    "Symbion Health Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Nov 2007",
+      "date_iso": "2007-11-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Nov 2007",
+      "date_iso": "2007-11-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Dec 2007",
+      "date_iso": "2007-12-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Primary Health Care Limited proposes to acquire all the issued shares in Symbion Health Limited. Primary proposes to retain the medical centre, pathology and diagnostic imaging businesses and divest the consumer product and pharmaceutical product businesses to unknown purchasers.",
+    "Market definition": "Medical centres The relevant markets considered were the local markets for the supply of general medical services, with a geographic catchment area of between 5 to 10 kilometres in metropolitan areas and a wider catchment area for rural areas. Pathology The relevant markets considered were state markets for community pathology services, noting that there may be more narrow segments within these markets. Diagnostic Imaging The relevant markets considered were the local markets for the supply of diagnostic imaging services (excluding MRI and nuclear medicine), excluding all in-patients at public hospitals.",
+    "Competition analysis": "The ACCC considered the competitive effects of the proposed acquisition in the relevant markets and concluded as follows: Local markets for the provision of general medical services: The ACCC considered this market from a horizontal and vertical integration analysis and did not consider that any competition issues arose that would be likely to substantially lessen competition. Local markets for the provision of diagnostic imaging services (excluding MRI and nuclear medicine), excluding all in-patients at public hospitals: the ACCC considered this market from a horizontal and vertical integration analysis and did not consider that any competition issues arose that would be likely to substantially lessen competition. State based community pathology services markets: the ACCC considered this market from a horizontal and vertical integration analysis and did not consider that any competition issues arose that would be likely to substantially lessen competition. The ACCC found that there would be viable alternatives to the merged firm in all of the markets outlined above."
+  }
+}

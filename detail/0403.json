@@ -1,0 +1,39 @@
+{
+  "id": "0403",
+  "title": "Sonic Healthcare Limited - proposed acquisition of Healthscope Limited pathology business in ACT / Southern Tablelands",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sonic-healthcare-limited-proposed-acquisition-of-healthscope-limited-pathology-business-in-act-southern-tablelands",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50494",
+  "industries": [
+    "Pathology"
+  ],
+  "date_completed": "31 January 2013",
+  "date_completed_iso": "2013-01-31T12:00:00Z",
+  "date_commenced": "2 January 2013",
+  "date_commenced_iso": "2013-01-02T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Sonic Healthcare Limited"
+  ],
+  "targets": [
+    "Healthscope Limited pathology business in ACT / Southern Tablelands"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jan 2013",
+      "date_iso": "2013-01-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "31 Jan 2013",
+      "date_iso": "2013-01-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sonic Healthcare Limited proposed to acquire the pathology business of Healthscope Limited in the ACT and Southern Tablelands area. On 16 May 2012, the ACCC commenced a review of Sonic's proposed acquisition of the pathology businesses of Healthscope in Queensland, Western Australia and NSW/ACT . On 17 September, Sonic announced that it no longer proposed to acquire Healthscope's pathology business in NSW/ACT, so the ACCC did not reach a decision on that proposed acquisition. This review related to a new proposed acquisition, limited to the ACT and Southern Tablelands. In the previous review undertaken, the ACCC considered a number of relevant aspects of the pathology sector, including in the ACT and Southern Tablelands area. The ACCC therefore undertook targeted market inquiries only.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the NSW / ACT market for the supply of community pathology services. In conducting its assessment, the ACCC noted that there are areas of closer competition on a narrower geographic basis and considered it appropriate to assess the competitive effects of the proposed acquisition primarily in the ACT / Southern Tablelands region, since pathology providers active elsewhere in the NSW / ACT market provide a much weaker competitive constraint on the region.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the market for the supply of community pathology services in the ACT / Southern Tablelands for the following reasons: - Sonic will continue to be constrained by Primary and the public provider, ACT Pathology. - ACT Pathology has a significant presence and has a policy always to bulk bill. - There is the potential for Primary to expand its presence in the ACT if Sonic were to substantially increase price or reduce service levels. - Healthscope does not appear likely to impose a strong competitive constraint in this area in the future absent the proposed acquisition."
+  }
+}

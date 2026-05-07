@@ -1,0 +1,31 @@
+{
+  "id": "1559",
+  "title": "Acquirer: Southern Cross Broadcasting (Australia) Ltd; Target: Data and Commerce Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-southern-cross-broadcasting-australia-ltd-target-data-and-commerce-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17532",
+  "industries": [],
+  "date_completed": "5 May 2003",
+  "date_completed_iso": "2003-05-05T12:00:00Z",
+  "date_commenced": "24 March 2003",
+  "date_commenced_iso": "2003-03-24T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Southern Cross Broadcasting (Australia) Ltd"
+  ],
+  "targets": [
+    "Data and Commerce Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of interest in Data and Commerce Ltd (DCL) by Southern Cross Broadcasting (Australia) Ltd (SCB)",
+    "Market definition": "The relevant market was considered to be the market for the supply of commercial broadcast radio advertising services in Melbourne.",
+    "Competition analysis": "The Commission considered that the acquisition did not, of itself, appear to have the effect of: increasing the likelihood of co-ordinated conduct between SCB and DCL; foreclosing sales opportunities by third parties to DCL; or of providing SCB access to DCL's commercially sensitive information.  Further, the Commission considered that the acquisition did not appear to limit DCL's ability, or provide a disincentive, to become a better rival in its own right. On this basis, the Commission decided to not oppose the acquisition.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "9121"
+  }
+}

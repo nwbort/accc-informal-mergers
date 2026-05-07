@@ -1,0 +1,54 @@
+{
+  "id": "1209",
+  "title": "Fitness First Australia Pty Ltd - acquisition of three fitness centres from LivingWell Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fitness-first-australia-pty-ltd-acquisition-of-three-fitness-centres-from-livingwell-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24795",
+  "industries": [
+    "Fitness Centres"
+  ],
+  "date_completed": "9 October 2006",
+  "date_completed_iso": "2006-10-09T12:00:00Z",
+  "date_commenced": "12 September 2006",
+  "date_commenced_iso": "2006-09-12T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Fitness First Australia Pty Ltd"
+  ],
+  "targets": [
+    "LivingWell Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Sep 2006",
+      "date_iso": "2006-09-12T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines.  Market inquiries commence."
+    },
+    {
+      "date": "18 Sep 2006",
+      "date_iso": "2006-09-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Sep 2006",
+      "date_iso": "2006-09-21T12:00:00Z",
+      "event": "ACCC timeline suspended pending further information requested from Fitness First 12 September 2006."
+    },
+    {
+      "date": "27 Sep 2006",
+      "date_iso": "2006-09-27T12:00:00Z",
+      "event": "ACCC timeline recommenced upon receiving information requested from Fitness First 12 September 2006."
+    },
+    {
+      "date": "9 Oct 2006",
+      "date_iso": "2006-10-09T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fitness First has acquired three fitness clubs from Living Well Australia located at Willoughby (NSW), Carindale (QLD) and Robina (QLD).",
+    "Market definition": "The supply of fitness centre services in the local markets of Willoughby (NSW), Carindale (QLD) and Robina (QLD).",
+    "Competition analysis": "On 9 October 2006, the ACCC decided not to oppose Fitness First's acquisition of three LivingWell fitness centres in Willoughby, Carindale and Robina. It appears that in each of the local markets for the supply of fitness centre services, the merged entity would face competition from a number of other fitness centre suppliers as well as smaller boutique and women's only fitness centre providers. The ACCC also considered that barriers to entry and expansion are low. After consideration of the merger factors the ACCC formed the view that the acquisitions are unlikely to result in a substantial lessening of competition."
+  }
+}

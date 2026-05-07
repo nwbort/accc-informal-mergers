@@ -1,0 +1,63 @@
+{
+  "id": "0979",
+  "title": "Pittwater Radiology Pty Ltd & the Pittwater Radiology Partnership - proposed acquisition of Symbion Health Limited's radiology practice at North Gosford Private Hospital",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pittwater-radiology-pty-ltd-the-pittwater-radiology-partnership-proposed-acquisition-of-symbion-health-limiteds-radiology-practice-at-north-gosford",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30525",
+  "industries": [
+    "Radiology Practice"
+  ],
+  "date_completed": "22 January 2008",
+  "date_completed_iso": "2008-01-22T12:00:00Z",
+  "date_commenced": "3 December 2007",
+  "date_commenced_iso": "2007-12-03T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Pittwater Radiology Pty Ltd & the Pittwater Radiology Partnership"
+  ],
+  "targets": [
+    "Symbion Health's radiology practice at North Gosford Private Hospital"
+  ],
+  "timeline": [
+    {
+      "date": "3 Dec 2007",
+      "date_iso": "2007-12-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Dec 2007",
+      "date_iso": "2007-12-13T12:00:00Z",
+      "event": "ACCC requested further information from Pittwater. ACCC timeline suspended."
+    },
+    {
+      "date": "21 Dec 2007",
+      "date_iso": "2007-12-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Dec 2007",
+      "date_iso": "2007-12-21T12:00:00Z",
+      "event": "ACCC received further information from Pittwater. ACCC timeline resumed."
+    },
+    {
+      "date": "9 Jan 2008",
+      "date_iso": "2008-01-09T12:00:00Z",
+      "event": "ACCC requested further information from Pittwater. ACCC timeline suspended."
+    },
+    {
+      "date": "15 Jan 2008",
+      "date_iso": "2008-01-15T12:00:00Z",
+      "event": "ACCC received further information from Pittwater. ACCC timeline resumed."
+    },
+    {
+      "date": "22 Jan 2008",
+      "date_iso": "2008-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the following markets in the Gosford region of New South Wales: - the supply of diagnostic imaging services (excluding nuclear medicine and magnetic resonance imaging)  to patients, excluding in-patients at public hospitals; - the supply of nuclear medicine services to patients, excluding in-patients at public hospitals; and - the supply of magnetic resonance imaging services to patients, excluding in-patients at public hospitals.",
+    "Competition analysis": "In deciding not to intervene in the proposed acquisition the ACCC took into account the recent and expected new entry of additional suppliers in the market for diagnostic imaging services. With regard to nuclear medicine and magnetic resonance imaging, there was a lack of overlap between the merger parties. In addition, the proposed acquisition was unlikely to result in the removal of a vigorous and effective competitor in any of the relevant markets. The ACCC therefore considered that the proposed acquisition would be unlikely to substantially lessen competition."
+  }
+}

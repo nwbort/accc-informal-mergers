@@ -1,0 +1,26 @@
+{
+  "id": "1347",
+  "title": "Stratos Global Corporation - proposed acquisition of Xantic B.V",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/stratos-global-corporation-proposed-acquisition-of-xantic-bv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22387",
+  "industries": [
+    "Mobile satellite services"
+  ],
+  "date_completed": "25 October 2005",
+  "date_completed_iso": "2005-10-25T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Stratos Global Corporation - proposed acquisition of Xantic B.V",
+    "Market definition": "1. The national market for the wholesale supply of mobile satellite services (MSS) by land earth station operators (LESOs) to service providers and agents; and 2. The national market for the retail supply of MSS to end users.",
+    "Competition analysis": "On 25 October 2005, the ACCC decided not to oppose the proposed acquisition of Xantic B.V by the Stratos Global Corporation. It appears that in the national market for the wholesale supply of MSS by LESOs to service providers and agents, the merged entity would face significant competition from thirteen other LESOs with Inmarasat services covering all of Australia and an additional four servicing two thirds of the country. The ACCC also considered that barriers to expansion for these competing LESOs operators to increase their supply in the Australian market place appear to be low. Further, the ACCC considered that in the national market for the retail supply of MSS to end users, the merged entity would face significant competition from MSS wholesalers as well as a large number of service providers and agents for the distribution of substitutable MSS. This view was based on the ability of end users to switch between these alternative suppliers of MSS at minimal cost. After consideration of the merger factors the ACCC formed the view that the proposed acquisition is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

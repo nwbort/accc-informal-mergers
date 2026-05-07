@@ -1,0 +1,658 @@
+Page 1 of 13 
+ 
+Public Competition Assessment 
+16 December 2025 
+Australian Clinical Labs – proposed acquisition of Healius  
+The ACCC’s decision 
+1. 
+On 15 December 2023, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision to oppose the proposed acquisition by Australian 
+Clinical Labs Limited (ACL) of Healius Limited (Healius) (the proposed 
+acquisition). 
+2. 
+The ACCC considered that the proposed acquisition was likely to contravene 
+section 50 of the Competition and Consumer Act 2010 (the Act). Section 50 
+prohibits acquisitions that would have the effect, or be likely to have the effect, 
+of substantially lessening competition in any market. 
+3. 
+The ACCC considered the competitive effects of the proposed acquisition in the 
+markets for: 
+▪ 
+the supply of pathology services to out-patients in local, regional and/or 
+state areas in Australia 
+▪ 
+the supply of pathology services to private hospital in-patients in state 
+areas and/or across Australia 
+▪ 
+the supply of pathology services to commercial and government 
+customers across Australia 
+▪ 
+the supply of pathology services to public hospitals in Victoria 
+▪ 
+the supply of veterinary pathology services in Victoria and South Australia. 
+4. 
+The ACCC considered that the proposed acquisition would be likely to result in a 
+substantial lessening of competition as it would combine two of the three 
+largest providers of pathology services in Australia, further consolidating 
+already-concentrated markets for the supply of pathology services to out-
+patients, private hospital in-patients, and commercial and government 
+customers.  
+5. 
+While the ACCC also considered the effect of the proposed acquisition in the 
+markets for the supply of pathology services to public hospitals in Victoria, and 
+
+
+ 
+Page 2 of 13 
+veterinary pathology services in Victoria and South Australia, the ACCC did not 
+arrive at a concluded view as to whether the proposed acquisition would 
+substantially lessen competition in these markets. 
+6. 
+Please note that this and other public competition assessments are subject to 
+the following qualifications: 
+▪ 
+The ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily 
+reflect the ACCC’s view of another transaction. 
+▪ 
+As assessments are relatively brief and do not refer to confidential 
+information, assessments do not necessarily set out all of the issues and 
+information considered by the ACCC.  
+▪ 
+The ACCC’s findings and conclusions set out in this public competition 
+assessment reflect information available to the ACCC at the time of its 
+decision and do not reflect developments in the industry subsequent to the 
+ACCC’s decision. 
+The parties and the transaction 
+The acquirer: Australian Clinical Labs Limited 
+7. 
+ACL is an ASX-listed Australian provider of pathology services (ASX:ACL). ACL 
+provides human pathology services to out-patients, in-patients (of public and 
+private hospitals), and commercial and government customers. 
+8. 
+At the time of the ACCC’s consideration, ACL provided human pathology 
+services through its wholly owned subsidiary Clinical Labs Pty Ltd. ACL operated 
+Approved Collection Centres and National Association of Testing Authorities 
+(NATA) accredited laboratories Australia-wide except in Tasmania.  
+9. 
+ACL provided veterinary pathology services in South Australia and Victoria 
+through its Gribbles Veterinary brand. 
+10. 
+ACL operated 31 SunDoctors skin cancer clinics in NSW, Queensland, Victoria 
+and South Australia through Southern Sun Clinics Pty Ltd. 
+The target: Healius Limited 
+11. 
+Healius (ASX:HLS), which traded as Primary Health Care Limited until November 
+2018, is an ASX-listed Australian provider of pathology services to out-patients 
+and in-patients (of private and public hospitals), and commercial and 
+government customers. 
+12. 
+At the time of the ACCC’s consideration, Healius provided human pathology 
+services through Specialist Diagnostic Services Pty Ltd operating under various 
+brands in all Australian states and territories. Its brands included Laverty 
+Pathology (NSW/ACT), Dorevitch Pathology (Victoria), QML Pathology 
+(Queensland), Abbott Pathology (South Australia), Western Diagnostic Pathology 
+(Western Australia and Northern Territory) and TML Pathology (Tasmania). 
+
+
+ 
+Page 3 of 13 
+13. 
+Healius also provided veterinary pathology services through its Vetpath (Western 
+Australia and Northern Territory), Vetnostics (NSW/ACT), QML Vetnostics 
+(Queensland), TML Vetnostic (Tasmania) and Australian Specialised Animal 
+Pathology Laboratory (South Australia and Victoria) brands. 
+The transaction 
+14. 
+On 20 March 2023, ACL announced that it was seeking to acquire all the fully 
+paid ordinary shares in Healius by way of an off-market takeover offer. 
+15. 
+On 22 December 2023, following the ACCC’s decision to oppose the proposed 
+acquisition, ACL announced that it had withdrawn its takeover offer.  
+Market inquiries 
+16. 
+The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, potential competitors, customers, industry bodies, other 
+regulatory agencies and other interested parties.  
+Industry background 
+Pathology testing 
+17. 
+The supply of pathology testing services involves the analysis of medical 
+samples collected from patients such as blood tests. Pathology testing can be 
+divided into the following four broad categories and relevant sub-specialties: 
+▪ 
+biochemistry (chemical pathology, immunology, infertility and pregnancy 
+tests) 
+▪ 
+haematology 
+▪ 
+microbiology 
+▪ 
+histopathology and cytopathology (sometimes referred to as histology and 
+cytology). 
+18. 
+Testing for different sub-specialities is automated to varying degrees. 
+Biochemistry and haematology tend to be more highly automated and generate 
+the highest pathology test volumes. Consequently, there are significant 
+economies of scale associated with the supply of these tests. Histology, 
+cytology and microbiology tend to require greater manual preparation of 
+samples, analysis, and interpretation of test results. 
+Pathology collection 
+19. 
+Pathology samples are collected from patients via various channels, including at: 
+▪ 
+Approved Collection Centres or pathology collection centres staffed by a 
+pathology provider 
+
+
+ 
+Page 4 of 13 
+▪ 
+collection bins in medical practices, specialist practices or other allied 
+health facilities such as aged care and nursing homes, where a pathology 
+provider can collect referred samples 
+▪ 
+public and private hospitals and clinics. 
+20. 
+The ACCC is not aware of any full-service providers solely collecting samples by 
+using collection bins. Approved Collection Centres can be ‘co-located’ at medical 
+practices (by sub-leasing part of a medical practice) or ‘standalone’ at an 
+independent site. 
+21. 
+The ACCC understands that the majority of private hospitals and clinics can 
+effectively be serviced by an Approved Collection Centre with testing taking 
+place at a central laboratory, with smaller day hospitals and clinics typically 
+using collection bins as the volume of their pathology samples is insufficient to 
+require an Approved Collection Centre. In relation to private hospitals, the 
+ACCC’s review focused on private hospitals and clinics that require onsite 
+laboratories due to the need for fast turnaround times on pathology tests. 
+Pathology funding 
+22. 
+At the time of the ACCC’s consideration, most pathology testing was funded by: 
+▪ 
+The Australian Government – pathology tests are funded via Medicare 
+rebates on a fee-for-service basis, in some cases supplemented by out-of-
+pocket expenses paid by patients. The rate at which a pathology test is 
+covered by Medicare rebates is set by the Australian Government under 
+the Medicare Benefits Schedule. 
+▪ 
+Health funds – a private health fund may cover some or all of any ‘gap’ 
+payments (see further below) for private in-patients with private health 
+insurance. For this purpose, many private health funds seek to enter into 
+Medical Provider Purchase Agreements with pathology providers. 
+▪ 
+State governments – the pathology expenses of public in-patients at public 
+hospitals are generally covered by a state-based funding system covering 
+all services provided during a hospital stay. 
+23. 
+A pathology provider can choose whether to receive only the applicable 
+Medicare Benefits Schedule rebates for services it provides (‘bulk bill’) or to 
+impose an additional charge to patients, known as an ‘out of pocket’ expense or 
+‘gap’ (‘privately bill’). The pathology provider’s decision is influenced by a range 
+of factors, including whether the patient is a concession card holder, the 
+preference of the doctor as expressed on the referral form, the billing policy of 
+competing pathology providers and the complexity of the test. Pricing is 
+implemented through the billing policy of each pathology provider. 
+24. 
+When a pathology provider chooses to bulk bill its patients, the pathology 
+provider obtains payment directly from the Australian Government. The result is 
+that the services are effectively free to the patient.  
+
+
+ 
+Page 5 of 13 
+25. 
+In relation to private hospital in-patients, pathology providers receive 75% of the 
+Medicare Benefits Schedule rate for pathology tests from Medicare, with the 
+remaining 25% paid by the private health fund.   
+26. 
+Private health funds may enter into Medical Provider Purchase Agreements with 
+pathology providers to minimise gap payments charged to the private health 
+fund’s customers when admitted in a private hospital. Medical Provider 
+Purchase Agreements typically provide for additional payments to the pathology 
+provider above the Medicare Benefits Schedule rate, subject to negotiation 
+between the pathology provider and the private health fund. 
+27. 
+If a patient does not have private health insurance, or their private health insurer 
+does not have a Medical Provider Purchase Agreement with the pathology 
+provider that provides the test to the patient, then the patient may be directly 
+billed by the pathology provider for the cost of the pathology test.  
+28. 
+Some pathology tests are not covered by Medicare, for example pathology tests 
+connected with elective cosmetic surgery and some genetic tests. In this 
+instance, patients are directly billed for the full cost of a pathology test. In 
+addition, tests conducted for private and government organisations, such as 
+drug and alcohol testing, are not covered by Medicare. Pathology companies 
+contract directly with these organisations to provide these tests.   
+Referrals  
+29. 
+A patient must obtain a referral from a medical practitioner for a pathology test 
+to be covered by the Medicare Benefits Schedule. Pathology providers supply 
+branded referral forms to medical practitioners, which patients then take to an 
+Approved Collection Centre.  
+30. 
+Since 11 December 2010, patients have been free to take these forms to any 
+pathology provider, regardless of the branding on the form. The ACCC 
+understands that the number of ‘foreign’ request forms received by pathology 
+providers is low as patients generally opt for the pathology provider listed on the 
+form.  
+Other industry participants 
+Commercial pathology providers 
+31. 
+Sonic Healthcare Limited (Sonic) (ASX:SHL) is a prominent commercial 
+pathology provider. Sonic provides pathology and radiology services in all states 
+and territories in Australia, and overseas. It also offers medical centre 
+management services through subsidiary company Independent Practitioners 
+Network, and healthcare software development services through subsidiary 
+company Precedence Healthcare. 
+32. 
+4Cyte Pathology Pty Ltd (4Cyte) is a commercial pathology provider. At the time 
+of the ACCC’s assessment, 4Cyte had Approved Collection Centres in 
+Queensland, New South Wales and Victoria. 4Cyte commenced operations in 
+2018. 4Cyte’s prominent role in securing state government contracts for 
+conducting rapid antigen tests during the COVID-19 pandemic was a factor that 
+
+
+ 
+Page 6 of 13 
+contributed to 4Cyte’s significant growth across New South Wales, Victoria and 
+Queensland.  
+33. 
+There are also other commercial pathology providers with limited geographic 
+presence at the time of the ACCC’s assessment. These included:  
+▪ 
+Medihealth Pathology Pty Ltd, operating in New South Wales 
+▪ 
+Saturn Pathology Pty Ltd, operating in Western Australia  
+▪ 
+Austech Medical Laboratories (trading for KSPC Pty Ltd), operating in New 
+South Wales.  
+Not-for-profit pathology providers 
+34. 
+There are several not-for-profit pathology providers. Some are owned by hospital 
+operators and may not offer their services to all market participants.  
+35. 
+Not-for-profit providers tend to operate in limited geographic areas, including 
+metropolitan areas, typically around hospitals to which they are attached. Where 
+a not-for-profit provider is affiliated with a particular hospital, these providers 
+usually maintain Approved Collection Centre locations within a small geographic 
+radius of the affiliated hospital. 
+Public pathology providers 
+36. 
+All Australian states and territories other than Victoria have state-wide publicly 
+funded pathology services that are required to service the clinical pathology 
+testing needs of their respective public hospital systems, under state health 
+regulations.  
+37. 
+These public pathology providers are required to provide the full range of 
+pathology services 24 hours a day, 7 days a week, including complex tests. They 
+also accept pathology samples from a variety of sources including out-patients 
+and private in-patients. Some public pathology providers maintain Approved 
+Collection Centres in the general community, usually in the area surrounding the 
+public hospitals they service. 
+38. 
+In Victoria, there are public pathology providers that are associated with specific 
+public hospital operators (Monash Health Pathology, Austin Pathology, Eastern 
+Health, Alfred Pathology Services, Northern Pathology Victoria, and Melbourne 
+Health). These providers operate at a smaller scale than the state-wide public 
+pathology providers in other states. 
+39. 
+At the time of the ACCC’s assessment, Victoria had a high proportion of public 
+pathology services that were outsourced to commercial pathology providers. 
+Market feedback suggested this has occurred due to historical policy settings 
+favouring deregulation of pathology services in public hospitals. 
+
+
+ 
+Page 7 of 13 
+Market definition and competition analysis 
+40. 
+The ACCC’s starting point for considering which markets will be affected by the 
+proposed acquisition is to identify the areas of overlap between the products 
+actually or potentially supplied by the merger parties. The ACCC then considers 
+other actual or potential suppliers of those products, as well as what other 
+products constitute sufficiently close substitutes to provide a significant source 
+of constraint on the merged entity. The ACCC’s approach to market definition in 
+this matter is outlined below. 
+Out-patient pathology services 
+Market definition 
+41. 
+In previous pathology related acquisitions, the ACCC considered the product 
+dimension for community pathology services encompassed both out-patient and 
+private in-patient pathology services.  
+42. 
+However, for the purposes of this review, the ACCC considered that the 
+competitive effects of the proposed acquisition are more appropriately 
+considered in separate markets for the supply of pathology services to out-
+patients and private in-patients, due to distinct market features and service 
+requirements. Some private hospitals require urgent tests conducted at on-site 
+laboratories, while out-patient tests are generally less urgent and are primarily 
+processed at central laboratories. 
+43. 
+The ACCC did not reach a concluded view on the geographic dimension of the 
+relevant market/s, but considered that there may be local, state-based and/or 
+regional dimensions. 
+44. 
+The ACCC’s review found that patients typically choose among local (or at times 
+regional) pathology collection service providers. In making this choice between 
+competing pathology providers, patients value factors such as bulk billing, hours 
+of operation and convenience (such as proximity to their GP clinic).  
+45. 
+Medical practices, when choosing among competing offers for co-located 
+Approved Collection Centres, tend to reflect these patient preferences by 
+choosing providers offering favourable opening hours and staffing levels, and 
+bulk billing policies. In addition, medical practices will also consider other 
+factors such as turnaround times, breadth of testing capability, pathologist 
+reputation, reporting standards and rental payments.  
+46. 
+While competition for collections takes place at the local level, whether a service 
+provider is well-positioned or not to compete for local collection services 
+depends in large part on whether they are at (or likely to achieve) competitive 
+scale in courier services and laboratory testing. That is in turn informed by 
+whether the service provider has a nearby, central laboratory that can service the 
+area. Centralised laboratories typically service a region including multiple 
+Approved Collection Centres.     
+47. 
+Pathology providers compete for out-patient pathology services by competing 
+for Approved Collection Centre leases co-located with medical practices through 
+rental offers, billing policies (including choosing to bulk bill) and other non-price 
+
+
+ 
+Page 8 of 13 
+service factors discussed above. Approved Collection Centres do not have to be 
+co-located with a medical practice, but they typically are as this increases the 
+likely referral volumes from patients of that practice. 
+48. 
+As such, while demand for collection services is typically local, to effectively 
+compete to provide such collection services, the provider typically must have a 
+testing laboratory within the region.   
+Competition analysis 
+49. 
+At the time of the ACCC’s assessment, markets for out-patient pathology 
+services were highly concentrated and dominated by the three large private 
+providers: Sonic, Healius and ACL. Based on Approved Collection Centre 
+numbers, a combined ACL-Healius would have been the largest provider of out-
+patient pathology services in each state and territory in which they both 
+operated, with more than 50% of Approved Collection Centres across Australia at 
+the time of the ACCC’s assessment. 
+50. 
+The share of total Approved Collection Centres held by a pathology provider 
+does not directly correlate to market share based on revenue. However, it is a 
+useful proxy for it, and one which is readily available since it is based on public 
+information.  
+51. 
+The ACCC’s review also indicated that ACL and Healius were close competitors 
+in many regions on the basis of their non-price service offerings (such as the 
+breadth of testing capability, opening hours and turnaround times) and their 
+scale with respect Approved Collection Centres, central laboratories and courier 
+networks.  
+52. 
+Information available to the ACCC also indicated that ACL and Healius regularly 
+competed for the same Approved Collection Centre leases and they often 
+adjusted their price and non-price offerings in response to one another. At the 
+time of the ACCC’s assessment, ACL and Healius were also the largest (and in 
+some cases, the only) pathology providers in some regions, such as regional 
+Victoria. 
+53. 
+The ACCC found there are a limited number of comparable pathology providers 
+in relevant regions operating at scale due to the substantial barriers to entry and 
+expansion.  
+54. 
+At the time of the ACCC’s assessment, 4Cyte had grown its network of Approved 
+Collection Centres across Queensland and some regions of New South Wales 
+and Victoria. It was likely to be an important source of competition in these 
+areas. However, 4Cyte did not operate across all relevant geographic areas and 
+did not undertake as wide a range of tests in-house as ACL and Healius.  
+55. 
+As a result, the ACCC considered that competition from existing providers was 
+unlikely to sufficiently constrain a combined ACL-Healius. Further, the significant 
+barriers to expansion were likely to have limited 4Cyte’s and other pathology 
+providers’ ability to replace the competition lost from the proposed acquisition in 
+a timely and sufficient manner. 
+
+
+ 
+Page 9 of 13 
+56. 
+The ACCC considered that the proposed acquisition would be likely to result in a 
+substantial lessening of competition in the supply of out-patient pathology 
+services. This may have resulted in higher prices (including more frequent 
+and/or higher out of pocket expenses for patients) and/or lower service levels 
+(including increased testing turnaround times, reduced opening hours and lower 
+staffing levels).   
+Pathology services to private hospital in-patients 
+Market definition 
+57. 
+As identified above, the ACCC’s review indicated that there was likely to be a 
+separate market for the supply of pathology services to private hospital in-
+patients, distinct from the supply of pathology services to out-patients.  
+58. 
+The ACCC focused its assessment on private hospitals and clinics that require 
+on-site laboratories. These private hospitals are typically larger and provide 
+services that require urgent pathology testing, including emergency departments, 
+intensive care units and/or oncology services. 
+59. 
+Private hospital operators often have more stringent service level requirements 
+(including strict turnaround times for test results) than out-patient tests, which 
+are generally less urgent. Further, a pathology provider’s experience, expertise 
+and reputation are critical considerations for private hospital operators when 
+conducting tenders. 
+60. 
+The ACCC did not reach a concluded view on the geographic dimension of the 
+relevant market/s but considered that there may be national and/or state 
+dimensions to competition. 
+Competition analysis 
+61. 
+The ACCC found that the supply of pathology services to private hospital in-
+patients is highly concentrated. Sonic (40%), Healius (26%) and ACL (17%) 
+account for over 80% of pathology laboratories located in private hospitals 
+nationally. A combined ACL-Healius would have had market shares of 48% in 
+NSW, 52% in Victoria and 80% in WA. The share of total pathology laboratories in 
+private hospitals does not directly correlate to market share based on revenue 
+but is a proxy, based on public information.  
+62. 
+At the time of the ACCC’s review, ACL and Healius did not overlap in the supply 
+of pathology services to private hospitals in South Australia, the Northern 
+Territory, Tasmania or Queensland. It was not clear the extent to which ACL and 
+Healius would compete for future tenders in these states, particularly in 
+Queensland. 
+63. 
+The ACCC found alternative pathology providers were unlikely to be 
+competitively effective constraints on a combined ACL-Healius and Sonic as: 
+▪ 
+Public pathology providers rarely tender for private hospital contracts 
+unless the private hospital is co-located with a public hospital, due to their 
+focus on serving the public hospital system. 
+
+
+ 
+Page 10 of 13 
+▪ 
+Reputation, clinician support and a proven track record of servicing private 
+hospital contracts are critical considerations for private hospital operators 
+when inviting pathology providers to tender and awarding contracts. As 
+such, alternative private pathology providers that have not historically 
+serviced private hospitals face significant hurdles to viably compete for 
+these contracts. 
+▪ 
+While collection buckets are often present in private hospitals, these are 
+typically used for non-routine tests and are not a substitute for the types of 
+services provided at onsite laboratories.  
+64. 
+Private hospital operators are not party to Medical Provider Purchase 
+Agreements between pathology providers and private health insurers. Despite 
+this, information available to the ACCC indicated private hospital operators take 
+these agreements into account when selecting a pathology provider.  
+65. 
+Similarly, the number of private hospitals a pathology provider services is an 
+important consideration for private health funds to ensure coverage and 
+minimise out of pocket expenses for its members. As such, competitors entering 
+or expanding may be at a competitive disadvantage relative to incumbent 
+providers such as ACL and Healius which have Medical Provider Purchase 
+Agreements in place.   
+66. 
+In these circumstances, the ACCC was concerned that the proposed acquisition 
+result in a substantial lessening of competition leading to increased prices, 
+either in the form of increased costs to private health insurers under Medical 
+Provider Purchase Agreements, increased out of pocket costs to patients, and/or 
+reduced service levels to private hospital operators. 
+Commercial pathology services 
+Market definition 
+67. 
+Individual commercial pathology opportunities are dependent on the needs of 
+the customer and include services such as drug and alcohol screening, 
+government health screening programs, insurance related testing, immunity 
+screening, pre-employment screening, clinical trials, personal health screening 
+and genetic testing. 
+68. 
+Many commercial customers require pathology service providers with an 
+extensive footprint of Approved Collection Centres. While some customers 
+require or prefer to engage a pathology provider with a national presence, these 
+are in the minority. Many commercial customers require at least state-wide 
+services, often requiring a wide network of Approved Collection Centres, 
+including in regional areas.  
+69. 
+The ACCC did not form a concluded view on market definition, but assessed the 
+likely effect of the proposed acquisition in state markets for the supply of non-
+Medicare funded pathology testing to commercial customers (excluding private 
+and public hospitals). 
+
+
+ 
+Page 11 of 13 
+Competition analysis 
+70. 
+At the time of the ACCC’s assessment, markets for commercial pathology 
+services were already highly concentrated, with the number of potential suppliers 
+dependent on the specific needs of the customer. ACL and Healius were close 
+competitors for many commercial pathology contracts, both in terms of price 
+and service.  
+71. 
+The ACCC concluded that ACL, Healius and Sonic were the major competitors. 
+However, in some geographic regions (such as Victoria), Sonic lacked a regional 
+presence to service some customers, and Sonic did not appear to compete for 
+all opportunities.  
+72. 
+The ACCC noted that some other suppliers compete for some opportunities 
+where customers have more limited requirements. However, aside from ACL, 
+Healius and Sonic, few alternative providers were able to compete for many 
+commercial pathology contracts. Therefore, alternative providers were unlikely 
+to effectively constrain a combined ACL-Healius from increasing prices and/or 
+decreasing service levels. 
+Pathology services to public hospitals in Victoria 
+Market definition 
+73. 
+Similar to private hospital in-patients, pathology services provided to public 
+hospitals requires a high capacity and breadth of testing, as well as prompt 
+turnaround times.  
+74. 
+However, the ACCC considered that pathology services provided to public in-
+patients varies from private in-patients as: 
+▪ 
+pathology services provided to public in-patients are covered by state-
+based funding systems (and are not covered by Medicare) 
+▪ 
+state-owned public pathology providers are more likely to provide these 
+services. 
+75. 
+As identified above, Victoria was the only state that outsourced some of its public 
+in-patient pathology services. As such, the ACCC confined its assessment to 
+considering the likely effect of the proposed acquisition in Victoria.  
+Competition analysis 
+76. 
+The ACCC found that ACL and Healius were the two most active commercial 
+pathology providers competing in the supply of pathology to public hospitals in 
+Victoria. The proposed acquisition would have combined the only active private 
+competitors for these services in some regional areas of Victoria where Sonic 
+and 4Cyte did not operate. 
+77. 
+At the time of the ACCC’s consideration, the Victorian Government had in-
+sourced some public in-patient pathology services. The threat of further in-
+sourcing may have limited ACL’s ability to increase prices and/or decrease 
+service levels post-acquisition.  
+
+
+ 
+Page 12 of 13 
+78. 
+The ACCC did not reach a concluded view as to whether the proposed 
+acquisition was likely to substantially lessen competition in this market. 
+Veterinary pathology services in Victoria and South Australia 
+Market definition 
+79. 
+Veterinary pathology services are provided to veterinarians who treat companion 
+and/or production animals. The ACCC considered that veterinary pathology 
+services are distinct from human pathology services as there are specialist 
+veterinary pathologies and no government funding arrangements. 
+80. 
+While Healius provided veterinary pathology services in all states and territories 
+of Australia, ACL only provided veterinary pathology services in Victoria and 
+South Australia. The ACCC therefore considered the likely effect of the proposed 
+acquisition in separate markets for veterinary pathology services in Victoria and 
+South Australia. 
+Competition analysis 
+81. 
+The ACCC found the markets for veterinary pathology services in Victoria and 
+South Australia were already concentrated. The ACCC considered whether the 
+proposed acquisition would combine two important competitors in Victoria and 
+South Australia. 
+82. 
+The ACCC identified a number of smaller private veterinary pathology providers, 
+as well as government funded and university funded laboratories that may have 
+imposed competitive constraint on the merged firm.  
+83. 
+The ACCC did not reach a concluded view as to whether the proposed 
+acquisition was likely to substantially lessen competition in these markets. 
+Proposed undertaking 
+84. 
+On 14 September 2023, ACL offered to provide the ACCC with a court-
+enforceable undertaking pursuant to s87B of the Act (Proposed Undertaking) 
+which sought to address some of the ACCC’s preliminary concerns set out in the 
+Statement of Issues. ACL proposed to divest: 
+▪ 
+60 Approved Collection Centres in Perth 
+▪ 
+25 Approved Collection Centres across various parts of regional Victoria 
+▪ 
+the entirety of its existing Approved Collection Centre network (14 
+Approved Collection Centres) in the Northern Territory and its Darwin 
+Private Hospital laboratory. 
+85. 
+The ACCC conducted market consultation on the Proposed Undertaking.  
+86. 
+The ACCC found that: 
+▪ 
+The proposed divestiture package was insufficient to establish an 
+independent, standalone, long-term competitor that would be able to 
+compete across a wide range of tests and broader geographic areas. 
+
+
+ 
+Page 13 of 13 
+▪ 
+The success of the proposed divestments would be contingent upon the 
+purchaser/s having (or the ability and incentive to rapidly acquire and 
+develop) an existing network of Approved Collection Centres, adequate 
+supporting infrastructure, a wide breadth of pathologists across 
+disciplines, established recognition and trust, and stable relationships with 
+referring GPs and specialists. 
+▪ 
+The Approved Collection Centres proposed to be divested were unlikely to 
+be sufficient in number, scale and density. 
+▪ 
+The proposed divestment was at significant risk of being frustrated or 
+undermined by the actions of third parties, including landlords, referring 
+practitioners and patients. 
+▪ 
+The trust of medical practitioners for referrals is of utmost importance and 
+was not transferrable with the proposed divestment. 
+87. 
+As a result, the ACCC considered that the proposed divestment set out in the 
+Undertaking was not capable of addressing the ACCC’s competition concerns. 
+Conclusion 
+88. 
+Based on the above analysis, the ACCC concluded that the proposed acquisition 
+of Healius by ACL was likely to substantially lessen competition in the markets 
+for the supply of pathology services to out-patients, private in-patients, and 
+commercial and government customers.  

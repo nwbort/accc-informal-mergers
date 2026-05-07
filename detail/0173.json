@@ -1,0 +1,59 @@
+{
+  "id": "0173",
+  "title": "Saputo Dairy Australia Pty Ltd - Lion Dairy and Drinks Pty Ltd's cheese business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/saputo-dairy-australia-pty-ltd-lion-dairy-and-drinks-pty-ltds-cheese-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Dairy - Speciality Cheese"
+  ],
+  "date_completed": "26 September 2019",
+  "date_completed_iso": "2019-09-26T12:00:00Z",
+  "date_commenced": "16 May 2019",
+  "date_commenced_iso": "2019-05-16T12:00:00Z",
+  "total_review_days": 93,
+  "acquirers": [
+    "Saputo Dairy Australia Pty Ltd"
+  ],
+  "targets": [
+    "Lion Dairy and Drinks Pty Ltd's cheese business"
+  ],
+  "timeline": [
+    {
+      "date": "16 May 2019",
+      "date_iso": "2019-05-16T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 May 2019",
+      "date_iso": "2019-05-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jul 2019",
+      "date_iso": "2019-07-18T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC amended former provisional date for announcement of findings (25 July) to provide time to consider the new information and make further inquiries."
+    },
+    {
+      "date": "8 Aug 2019",
+      "date_iso": "2019-08-08T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "22 Aug 2019",
+      "date_iso": "2019-08-22T12:00:00Z",
+      "event": "Closing date for submissions on the Statement of Issues."
+    },
+    {
+      "date": "26 Sep 2019",
+      "date_iso": "2019-09-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Saputo Dairy Australia Pty Ltd's proposed acquisition of Lion Dairy and Drinks Pty Ltd's cheese business",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on competition in: the acquisition of raw milk in Tasmania; and the supply of cheese at wholesale and retail levels in Australia. The ACCC considered whether the geographic scope of the relevant market for the acquisition of raw milk should be mainland Tasmania or a narrower region of northern mainland Tasmania where most dairy processors and dairy farms are located. The ACCC also considered whether there is a separate product market for speciality cheese. For the purposes of this review, it was not necessary to reach a definitive view on those questions, as the outcome of the competition analysis is unlikely to change.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in the acquisition of raw milk in Tasmania and in the supply of cheese in Australia. The proposed acquisition would combine processing plants of the second and third largest buyers of raw milk in Tasmania. However, the ACCC found that Saputo’s closest competitor in Tasmania is Fonterra, the largest raw milk buyer in that State, and it does not compete as closely with Lion. The ACCC considered that post-acquisition Saputo and Fonterra are likely to continue to compete closely with each other and also compete with smaller processors, including Mondelez-Cadbury, Lactalis-Parmalat and a fresh-milk plant in Hobart that Lion will retain. Some farmers told the ACCC that Lion traditionally offered competitive price and non-price terms for raw milk in Tasmania, in particular for winter milk. However, the ACCC found that as a global dairy producer with expertise in running a cheese business, post-acquisition Saputo is likely to have the incentive to offer competitive terms to maintain raw milk intake and production in Tasmania. In relation to competition for the supply of cheese in Australia, Saputo has limited presence in the supply of speciality cheeses and Lion has limited presence in the supply of everyday cheeses. In addition, Lion and Saputo face competitive constraints from domestic cheese producers, supermarket private labels, and cheese importers in the supply of speciality cheeses and everyday cheeses respectively. The ACCC considered that a combined Saputo-Lion would continue to face these constraints."
+  }
+}

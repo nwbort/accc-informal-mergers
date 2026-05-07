@@ -1,0 +1,69 @@
+{
+  "id": "0460",
+  "title": "Google Inc - proposed acquisition of Motorola Mobility Holdings Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/google-inc-proposed-acquisition-of-motorola-mobility-holdings-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46736",
+  "industries": [
+    "Information technology and communications"
+  ],
+  "date_completed": "21 February 2012",
+  "date_completed_iso": "2012-02-21T12:00:00Z",
+  "date_commenced": "13 October 2011",
+  "date_commenced_iso": "2011-10-13T12:00:00Z",
+  "total_review_days": 62,
+  "acquirers": [
+    "Google Inc"
+  ],
+  "targets": [
+    "Motorola Mobility Holdings Inc"
+  ],
+  "timeline": [
+    {
+      "date": "13 Oct 2011",
+      "date_iso": "2011-10-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Nov 2011",
+      "date_iso": "2011-11-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Nov 2011",
+      "date_iso": "2011-11-23T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 8 December 2011 delayed to allow for provision of the further information."
+    },
+    {
+      "date": "15 Dec 2011",
+      "date_iso": "2011-12-15T12:00:00Z",
+      "event": "The ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 Jan 2012",
+      "date_iso": "2012-01-30T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. A new indicative decision date will be announced in due course, following receipt of the information requested from the merger parties."
+    },
+    {
+      "date": "7 Feb 2012",
+      "date_iso": "2012-02-07T12:00:00Z",
+      "event": "The ACCC received further information from the merger parties. The ACCC is working closely with overseas regulators and timeline remains suspended. A new indicative decision date will be announced in due course."
+    },
+    {
+      "date": "14 Feb 2012",
+      "date_iso": "2012-02-14T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Feb 2012",
+      "date_iso": "2012-02-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Google Inc proposed to acquire Motorola Mobility Holdings Inc. The ACCC liaised closely with overseas regulators throughout its review.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - supply of Mobile Device operating systems - supply of Mobile Devices - supply of internet advertising - supply of payment systems on Mobile Devices. The industry players and competitive dynamics in the technology markets identified above are largely global, but the competition assessment was limited to effects on Australian consumers.",
+    "Competition analysis": "The proposed acquisition represents vertical integration by Google, which supplies a Mobile Device operating system, into supply of Mobile Devices. The proposed acquisition also represents a conglomerate merger insofar as Motorola's ownership of telecommunications standard essential patents for Mobile Devices may complement Google's supply of an internet search tool and internet advertising services for Mobile Devices. The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in any market for the following reasons: -\tGoogle's strong incentive to maintain supply of Android to third party original equipment manufacturers; -\trival original equipment manufacturers' ownership of key portfolios of standard essential patents; -\tthe ability of rival suppliers of Mobile Device operating systems to integrate into supply of Mobile Devices and vice versa; -\tMotorola's relatively small market share and strong competition for supply of Mobile Devices from established global players; and -\tthe innovative and dynamic nature of these technology markets. The ACCC in its assessment also noted the public statements made by Google and other key market participants in which they clarify their respective approaches to the fair, reasonable and non-discriminatory use of their standard essential patents by competitors."
+  }
+}

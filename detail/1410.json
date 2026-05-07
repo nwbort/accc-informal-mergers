@@ -1,0 +1,26 @@
+{
+  "id": "1410",
+  "title": "Bradken Ltd - proposed acquisition of Roche Castings Pty Ltd.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bradken-ltd-proposed-acquisition-of-roche-castings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20730",
+  "industries": [
+    "Alloy steel and iron castings"
+  ],
+  "date_completed": "15 March 2005",
+  "date_completed_iso": "2005-03-15T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Bradken Ltd - Proposed acquisition of Roche Castings Pty Ltd",
+    "Market definition": "The supply of steel, alloy iron and iron cast products in Australia.",
+    "Competition analysis": "On 15 March 2005, the ACCC publicly announced that it would not intervene in the acquisition of Roche Castings Pty Ltd by Bradken Ltd. The ACCC noted that the merged firm would be a significant supplier of mill liners, ground engaging tools and crawler systems. However, other domestic and overseas sources of supply, as well as the potential for Australian foundries to expand their product range without significant sunk costs or delay, were considered likely to provide effective competitive constraints on the merged firm. Accordingly, the ACCC considered that the acquisition would not substantially lessen competition for the supply of steel, alloy iron and iron cast products in Australia.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

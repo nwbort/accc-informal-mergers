@@ -1,0 +1,31 @@
+{
+  "id": "1694",
+  "title": "Acquirer: Paloma Industries Ltd; Target: Southcorp Water Heaters",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-paloma-industries-ltd-target-southcorp-water-heaters",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14772",
+  "industries": [],
+  "date_completed": "29 January 2002",
+  "date_completed_iso": "2002-01-29T12:00:00Z",
+  "date_commenced": "26 September 2001",
+  "date_commenced_iso": "2001-09-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Paloma Industries Ltd"
+  ],
+  "targets": [
+    "Southcorp Water Heaters"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission has been advised that Paloma Industries Ltd proposes to acquire the Southcorp Water Heaters business, owned by Southcorp Water Heaters Group.",
+    "Market definition": "The parties submit that the relevant market is the Australia-wide market for the manufacture and supply of water heaters. The Commission considered it unnecessary to deterermine whether instantaneous and storage water heaters constitute separate markets, since a substantial lessening of competition appears unlikely even on the narrowest possible definition.",
+    "Competition analysis": "The area of overlap of the companies is minor, there is minimal increase in market shares, imports are possible in the larger scale projects and tenders are likely in the commercial applications (where the overlap is greatest).",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "FIRB",
+    "ANZSIC code": "2851"
+  }
+}

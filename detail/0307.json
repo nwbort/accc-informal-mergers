@@ -1,0 +1,49 @@
+{
+  "id": "0307",
+  "title": "GSK Consumer Healthcare - proposed acquisition of GlaxoSmithKline plc and Novartis AG",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gsk-consumer-healthcare-proposed-acquisition-of-glaxosmithkline-plc-and-novartis-ag",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55931",
+  "industries": [
+    "Consumer healthcare"
+  ],
+  "date_completed": "18 December 2014",
+  "date_completed_iso": "2014-12-18T12:00:00Z",
+  "date_commenced": "8 October 2014",
+  "date_commenced_iso": "2014-10-08T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "GSK Consumer Healthcare"
+  ],
+  "targets": [
+    "GlaxoSmithKline plc and Novartis AG"
+  ],
+  "timeline": [
+    {
+      "date": "8 Oct 2014",
+      "date_iso": "2014-10-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2014",
+      "date_iso": "2014-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Nov 2014",
+      "date_iso": "2014-11-21T12:00:00Z",
+      "event": "ACCC assessing additional information submitted by the parties. Former provisional date of 27 November 2014 for announcement of ACCC's decision delayed."
+    },
+    {
+      "date": "18 Dec 2014",
+      "date_iso": "2014-12-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Novartis AG (Novartis) and GlaxoSmithKline Plc (GSK) proposed to merge their global consumer healthcare businesses. The parties proposed to form a new joint venture company called GSK Consumer Healthcare (GSKCH). GSK proposed to acquire 63.5% of the shares in GSKCH and Novartis proposed to acquire 36.5% of GSKCH shares.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the markets for the manufacture and supply of: - smoking cessation products; - cold sore products; - topical pain management products; - systemic pain management products; - cold and flu products; and - anti-fungal dermatological products. The ACCC did not consider it necessary to form a definitive view regarding market definition in any of these product areas/categories.",
+    "Competition analysis": "In relation to the markets for the manufacture and supply of cold sore, topical and systemic pain management, cold and flu and anti-dermatological products the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition. The proposed acquisition results in minimal levels of aggregation and there are a number of pharmaceutical companies in each market that are likely to constrain the merged firm post acquisition. In relation to the market(s) for smoking cessation products the ACCC considered that the proposed acquisition is likely to raise competition concerns. In particular, the ACCC notes that GSK and Novartis are particularly close competitors in the supply of nicotine replacement patches and nicotine replacement gums in Australia. The ACCC was concerned that, following the proposed acquisition, Novartis' Nicotinell brand could cease to compete as a vigorous and effective competitor independently of GSK and thereby remove or weaken the competitive impact of one of GSK's three significant competitors. The ACCC was also concerned that the acquisition would weaken competitive constraints on remaining suppliers, which may provide them with an increased incentive or ability to increase prices and/or offer lower levels of service. The ACCC understands that entry into or expansion in relation to nicotine replacement products requires substantial investment in research and development of new products that are differentiated from popular products which already exist in the market. The ACCC understands that patent approval and other regulatory processes take approximately two years to complete before a new product can be marketed in competition with existing products. In order to address these concerns GSK and Novartis offered the ACCC a section 87B undertaking proposing to divest smoking cessation products currently marketed and supplied by Novartis in Australia under the brand Nicotinell, and the smoking cessation products currently supplied by Novartis in Australia under private label arrangements. The ACCC was satisfied that the section 87B undertaking provided by GSK and Novartis would remedy the potential competition concerns in the market(s) for the supply of smoking cessation products. On 18 December 2014, the ACCC announced that it had accepted the 87B undertaking offered by GSK and Novartis and that it would not oppose the acquisition."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1518",
+  "title": "Acquirer: Novo Foods Limited; Target: Farm Pride Foods Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-novo-foods-limited-target-farm-pride-foods-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18564",
+  "industries": [],
+  "date_completed": "28 October 2003",
+  "date_completed_iso": "2003-10-28T12:00:00Z",
+  "date_commenced": "7 October 2003",
+  "date_commenced_iso": "2003-10-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Novo Foods Limited"
+  ],
+  "targets": [
+    "Farm Pride Foods Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Novo intends to add Farm Pride foods as the fifth member of its joint venture. Both Novo and Farm Pride produce eggs and egg products.",
+    "Market definition": "For the purposes of competition analysis, the proposed acquisition was considered on the basis of the following product markets: 1.\tthe market for eggs sold in shell form ('shell eggs') in eastern Australia, which includes a functional market for the supply of eggs to supermarkets; and 2.\tthe market for processed egg products ('egg products') in eastern Australia, which includes two sub-markets: \"\tthe liquid/frozen egg products sub-market; \"\tthe dried/powdered egg products sub-market.",
+    "Competition analysis": "The Commission does not propose to take any action pursuant to section 50 in relation to the proposed joint venture. In reaching this conclusion the Commission noted that although the proposed acquisition appears to cross the Commission's concentration thresholds in the shell eggs market and the egg product market, Novo will continue to be constrained by large competitors to including Pace Farms and Sunny Queen. Furthermore, customers appear to have countervailing power and market inquiries indicated that the joint venture is likely to enhance competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "0142"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0734",
+  "title": "Sanofi-Aventis Australia Pty Ltd - proposed acquisition of Ostelin brands from Reckitt Benckiser Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sanofi-aventis-australia-pty-ltd-proposed-acquisition-of-ostelin-brands-from-reckitt-benckiser-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36633",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "13 July 2009",
+  "date_completed_iso": "2009-07-13T12:00:00Z",
+  "date_commenced": "3 July 2009",
+  "date_commenced_iso": "2009-07-03T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Sanofi-Aventis Australia Pty Ltd"
+  ],
+  "targets": [
+    "Ostelin brands from Reckitt Benckiser Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2009",
+      "date_iso": "2009-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Jul 2009",
+      "date_iso": "2009-07-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jul 2009",
+      "date_iso": "2009-07-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sanofi-Aventis Australia Pty Ltd proposed to acquire Ostelin brands from Reckitt Benckiser Australia Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of: - the national market for the wholesale supply of calcium supplements; and - the national market for the wholesale supply of vitamin D supplements. However, the ACCC recognised that the results of the analysis would have been unchanged, regardless of the market definition adopted.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the merged entity would continue to be constrained by existing and potential competitors; - barriers to entry and expansion are low; and - the relevant markets are dynamic."
+  }
+}

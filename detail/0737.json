@@ -1,0 +1,44 @@
+{
+  "id": "0737",
+  "title": "Regal Cream Products Pty Limited (Bulla Dairy Foods) - proposed acquisition of Cadbury ice cream range from Fonterra Co-operative Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/regal-cream-products-pty-limited-bulla-dairy-foods-proposed-acquisition-of-cadbury-ice-cream-range-from-fonterra-co-operative-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37401",
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "6 July 2009",
+  "date_completed_iso": "2009-07-06T12:00:00Z",
+  "date_commenced": "3 June 2009",
+  "date_commenced_iso": "2009-06-03T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Regal Cream Products Pty Limited"
+  ],
+  "targets": [
+    "Fonterra Co-operative Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jun 2009",
+      "date_iso": "2009-06-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Jun 2009",
+      "date_iso": "2009-06-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Jul 2009",
+      "date_iso": "2009-07-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bulla proposed to acquire intellectual property from Fonterra in relation to: - the Brownes tub ice cream range in Western Australia; - the Authentic Ice Cream brand of ice cream sandwiches nationally; and - the licence to produce Cadbury ice cream nationally in Australia and 500 Cadbury branded freezers located in route trade stores. In addition to the intellectual property, Bulla proposed to also acquire the Fonterra plant and equipment used to produce the Brownes tub ice cream range and the Authentic Ice Cream brand of ice cream sandwiches.",
+    "Market definition": "The ACCC considered national markets for the wholesale supply of ice cream, ice confection and frozen yoghurt products.",
+    "Competition analysis": "The ACCC found that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching its conclusion the ACCC noted that the merged entity would not have the ability and incentive to impose a unilateral price rise above competitive levels as it would be constrained by existing effective competitors."
+  }
+}

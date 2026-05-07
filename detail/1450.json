@@ -1,0 +1,31 @@
+{
+  "id": "1450",
+  "title": "Acquirer: Alinta Ltd, Diversified Utility and Energy Trust, Alcoa of Australia Ltd; Target: Epic Energy Australia Trust, Epic Energy Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-alinta-ltd-diversified-utility-and-energy-trust-alcoa-of-australia-ltd-target-epic-energy-australia-trust-epic-energy-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18309",
+  "industries": [],
+  "date_completed": "25 October 2004",
+  "date_completed_iso": "2004-10-25T12:00:00Z",
+  "date_commenced": "9 September 2003",
+  "date_commenced_iso": "2003-09-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Alinta Ltd, Diversified Utility and Energy Trust, Alcoa of Australia Ltd"
+  ],
+  "targets": [
+    "Epic Energy Australia Trust, Epic Energy Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "DUET/Alcoa/Alinta Consortium's acquisition of Dampier to Bunbury natural gas pipeline.",
+    "Market definition": "For the purpose of competition assessment, the relevant markets were considered to be the markets for retail supply of gas to south-west region of Western Australia and generation of electricity on Western Australia's south-west electricity network.",
+    "Competition analysis": "On 25 October 2004 the ACCC accepted a section 87B undertaking from Alinta Limited (20%), Alcoa of Australia Limited (20%) and DUET (60%) (combined 'the Consortium'). The Dampier to Bunbury natural gas pipeline (DBNGP) provides transmission of gas from the North West Shelf to customers along the length of the pipeline and into the Perth area.  The DBNGP is the only means for transmitting gas from the Carnarvon Basin to the Perth Region for gas retailing.  A significant quantity of the gas transmitted along the DBNGP is used for electricity generation on Western Australia's south-west electricity network. Detailed reasons for the decision are provided on the ACCC website.",
+    "Resolution": "Undertakings",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "6501"
+  }
+}

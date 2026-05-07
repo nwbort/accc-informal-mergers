@@ -1,0 +1,44 @@
+{
+  "id": "1143",
+  "title": "Customers Limited - proposed acquisition of ATM Solutions Australasia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/customers-limited-proposed-acquisition-of-atm-solutions-australasia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27222",
+  "industries": [
+    "ATM services"
+  ],
+  "date_completed": "21 February 2007",
+  "date_completed_iso": "2007-02-21T12:00:00Z",
+  "date_commenced": "2 January 2007",
+  "date_commenced_iso": "2007-01-02T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Customers Limited"
+  ],
+  "targets": [
+    "ATM Solutions Australasia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jan 2007",
+      "date_iso": "2007-01-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "19 Feb 2007",
+      "date_iso": "2007-02-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "21 Feb 2007",
+      "date_iso": "2007-02-21T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Customers Limited - proposed acquisition of ATM Solutions",
+    "Market definition": "The ACCC considered the relevant markets to be: -  Local markets for consumer cash dispensing through ATMs -  A national market for ATM deployment to merchants",
+    "Competition analysis": "The ACCC found the proposed acquisition was unlikely to result in a substantial lessening of competition in the national market for the deployment of ATMs to merchants. This conclusion was informed by market inquiries that suggested that merchants have strong countervailing power in negotiating their supply contracts (primarily due to the number of alternative deployers in the market) and that barriers to entry and expansion in the industry are low. The ACCC also considered it unlikely that the proposed acquisition would result in a substantial lessening of competition in the market for cash dispensing to consumers through ATMs. This conclusion reflected  the number of players in this market (including banks and financial institutions), the demonstrated willingness of customers to manage their transactions to minimise charges, the availability of EFTPOS as a substitute for `convenience? transactions and the low barriers to entry and expansion in the market."
+  }
+}

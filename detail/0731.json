@@ -1,0 +1,44 @@
+{
+  "id": "0731",
+  "title": "Courtenay Polymers Pty Limited (trading as ICO Polymers) - proposed acquisition of MicroPellets Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/courtenay-polymers-pty-limited-trading-as-ico-polymers-proposed-acquisition-of-micropellets-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37761",
+  "industries": [
+    "Linear low density polyethylene powder"
+  ],
+  "date_completed": "17 July 2009",
+  "date_completed_iso": "2009-07-17T12:00:00Z",
+  "date_commenced": "6 July 2009",
+  "date_commenced_iso": "2009-07-06T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Courtenay Polymers Pty Limited (trading as ICO Polymers Australia)"
+  ],
+  "targets": [
+    "MicroPellets Australia"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jul 2009",
+      "date_iso": "2009-07-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jul 2009",
+      "date_iso": "2009-07-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Jul 2009",
+      "date_iso": "2009-07-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Courtenay Polymers Pty Limited, trading as ICO Polymers, proposed to acquire the assets of MicroPellets Australia.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the national market for the supply of linear low density polyethylene (LLDPE) powder.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion included: - the presence of a number of competing domestic LLDPE powder suppliers; and - the availability of competitively priced imported LLDPE powder."
+  }
+}

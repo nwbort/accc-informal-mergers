@@ -1,0 +1,30 @@
+{
+  "id": "1503",
+  "title": "Acquirer: Val Morgan Cinema Advertisers; Target: No data available",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-val-morgan-cinema-advertisers-target-no-data-available",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18269",
+  "industries": [],
+  "date_completed": "20 January 2004",
+  "date_completed_iso": "2004-01-20T12:00:00Z",
+  "date_commenced": "11 November 2003",
+  "date_commenced_iso": "2003-11-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Val Morgan Cinema Advertisers"
+  ],
+  "targets": [
+    "No data available"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission accepted undertakings on 13 December 2002 pursuant to section 87B from the three major cinema exhibitors (Hoyts, Greater Union and Village) who jointly acquired the cinema advertising business from Television and Media Services. As provided by that undertaking, the exhibitors sought to vary the undertaking do as to close the slide advertising business.",
+    "Market definition": "Not applicable.",
+    "Competition analysis": "The Commission formed the view that the closure by the three major exhibitors of their slide advertising business does not appear to significantly affect the competitive position of independent cinema exhibitors in the form of lower advertising revenues. This view was particularly influenced by the number of successful new entrants; and also the trend by a number of cinema exhibitors who have successfully established 'in-house' slide advertising operations.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7851"
+  }
+}

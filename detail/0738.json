@@ -1,0 +1,44 @@
+{
+  "id": "0738",
+  "title": "Fulton Hogan Pty Ltd - proposed acquisition of Pioneer Road Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fulton-hogan-pty-ltd-proposed-acquisition-of-pioneer-road-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37703",
+  "industries": [
+    "Bitumen and asphalt industry"
+  ],
+  "date_completed": "3 July 2009",
+  "date_completed_iso": "2009-07-03T12:00:00Z",
+  "date_commenced": "1 June 2009",
+  "date_commenced_iso": "2009-06-01T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Fulton Hogan Pty Ltd"
+  ],
+  "targets": [
+    "Pioneer Road Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jun 2009",
+      "date_iso": "2009-06-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jun 2009",
+      "date_iso": "2009-06-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Jul 2009",
+      "date_iso": "2009-07-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fulton Hogan Pty Ltd proposed to acquire Shell Australia Limited's 50% shareholding in Pioneer Road Services Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of: - state-based markets for the supply and laying of asphalt; and - state-based markets for the supply and laying of bitumen spray seal. The outcome of the competition analysis would have been unchanged had narrower regional markets been adopted.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. The ACCC identified a number of alternative suppliers and layers of asphalt and bitumen spray seal, and considered their presence sufficient to ensure the merged entity would not have the ability and the incentive to impose a unilateral increase in price above competitive levels or reduce the quality of its service. The ACCC considered that the merged entity was unlikely to engage in coordinated conduct with its competitors. In forming this view, the ACCC had regard to the number of alternative suppliers in the relevant markets, and in addition noted that many customers (such as local governments) have the ability to provide some of the relevant services in-house if necessary."
+  }
+}

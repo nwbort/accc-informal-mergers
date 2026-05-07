@@ -1,0 +1,31 @@
+{
+  "id": "1670",
+  "title": "Acquirer: ANZ Banking Group Ltd; Target: ING Bank (Australia) Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-anz-banking-group-ltd-target-ing-bank-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15634",
+  "industries": [],
+  "date_completed": "19 March 2002",
+  "date_completed_iso": "2002-03-19T12:00:00Z",
+  "date_commenced": "7 March 2002",
+  "date_commenced_iso": "2002-03-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "ANZ Banking Group Ltd"
+  ],
+  "targets": [
+    "ING Bank (Australia) Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 4 March 2002 FIRB informed the Commission that ING and ANZ propose to enter into a Joint Venture agreement. The Joint Venture will include the bulk of ANZ's fund management and life insurance operations.  It will also include all of ING's fund management, life insurance and distribution operations in Australia and New Zealand.",
+    "Market definition": "The Australian market for retail investment funds management and the separate (but related) Australian market for wholesale funds managment.",
+    "Competition analysis": "The Commission considered that the following broad product categories are relevant to this joint venture proposal: - The Australian market for retail investment funds management; and - The Australian market for wholesale funds management. Post acquisition the entity will acount for: - around 9% of the Australian retail investment funds management market with a corresponding CR4 of 49.75; and - around 5% of the Australian wholesale funds management market with a corresponding CR4 of 38.31. The Commission noted that its unilateral and co-ordinated concentration thesholds are not crossed in respect of this market as a result of the Joint Venture.  In these circumstances the Commission is of the view that the proposal is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "FIRB",
+    "ANZSIC code": "7519"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0957",
+  "title": "Gerard Lighting Acquisitions Ltd - proposed acquisition of Lighting Corporation Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gerard-lighting-acquisitions-ltd-proposed-acquisition-of-lighting-corporation-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30698",
+  "industries": [
+    "Lighting"
+  ],
+  "date_completed": "26 February 2008",
+  "date_completed_iso": "2008-02-26T12:00:00Z",
+  "date_commenced": "24 December 2007",
+  "date_commenced_iso": "2007-12-24T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Gerard Lighting Acquisitions Ltd"
+  ],
+  "targets": [
+    "Lighting Corporation Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Dec 2007",
+      "date_iso": "2007-12-19T12:00:00Z",
+      "event": "ACCC sought information from Gerard Lighting."
+    },
+    {
+      "date": "24 Dec 2007",
+      "date_iso": "2007-12-24T12:00:00Z",
+      "event": "ACCC received Gerard Lighting's response. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jan 2008",
+      "date_iso": "2008-01-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Feb 2008",
+      "date_iso": "2008-02-21T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings amended to allow for provision of additional information by Gerard Lighting."
+    },
+    {
+      "date": "26 Feb 2008",
+      "date_iso": "2008-02-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 25 January 2008, Gerard Lighting acquired Lighting Corporation Limited.",
+    "Market definition": "The ACCC considered the acquisition in the context of state based markets for the design, assembly and supply of functional vehicular traffic luminaries.",
+    "Competition analysis": "On 26 February 2008, the ACCC formed the view that the acquisition would be unlikely to result in a substantial lessening of competition. In reaching this view, the ACCC considered that: - there are other suppliers of functional category V luminaries, particularly Thorn and Gough, that have the relevant approvals to supply in some states and that could expand their current supply in response to an attempted increase in prices; and - there is a potential for functional category V luminaries to be sourced from overseas, in a timely fashion and without significant investment, for supply in Australia at competitive prices."
+  }
+}

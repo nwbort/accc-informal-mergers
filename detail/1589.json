@@ -1,0 +1,31 @@
+{
+  "id": "1589",
+  "title": "Acquirer: West Australian Newspaper Holdings Ltd (WANH); Target: Quokka Press",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-west-australian-newspaper-holdings-ltd-wanh-target-quokka-press",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16880",
+  "industries": [],
+  "date_completed": "17 December 2002",
+  "date_completed_iso": "2002-12-17T12:00:00Z",
+  "date_commenced": "24 October 2002",
+  "date_commenced_iso": "2002-10-24T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "West Australian Newspaper Holdings Ltd (WANH)"
+  ],
+  "targets": [
+    "Quokka Press"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Quokka Press, a publisher owned jointly by Quokka AG, Riverlaw Holdings Limited and Dansted and McCabe Holdings Pty Limited, by West Australian Newspapers Holdings Limited.",
+    "Market definition": "The Commission considered that the relevant market was the market for classifieds and local display style print advertising in Western Australia.",
+    "Competition analysis": "In December 2002, the Commission considered the proposed acquisition.  The Commission noted that the proposed acquisition would result in the removal of a vigorous and effective competitor but considered that the proposed acquisition would be unlikely to substantially lessen competition in the market. Specifically, the Commission found that there are a number of alternative publications providing advertising space across each of the main categories of advertising appearing in Quokka.  In addition, the Commission found that although there are sunk costs associated with establishing a new publication, there is a record of recent effective entry and expansion suggesting that barriers to entry and expansion are relatively low.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2421"
+  }
+}

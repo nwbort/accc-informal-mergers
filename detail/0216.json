@@ -1,0 +1,44 @@
+{
+  "id": "0216",
+  "title": "EnergyAustralia - proposed acquisition of Ecogen Energy",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/energyaustralia-proposed-acquisition-of-ecogen-energy",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62909",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "21 December 2017",
+  "date_completed_iso": "2017-12-21T12:00:00Z",
+  "date_commenced": "3 November 2017",
+  "date_commenced_iso": "2017-11-03T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "EnergyAustralia"
+  ],
+  "targets": [
+    "Ecogen Energy"
+  ],
+  "timeline": [
+    {
+      "date": "3 Nov 2017",
+      "date_iso": "2017-11-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Nov 2017",
+      "date_iso": "2017-11-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Dec 2017",
+      "date_iso": "2017-12-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Energy Australia proposes to acquire Ecogen Energy, a subsidiary of IFM Investors, through a competitive bid procecss. Ecogen Energy owns two gas-fired electricity generators, Newport and Jeeralang, in Victoria. EnergyAustralia is an integrated energy generator and retailer.",
+    "Market definition": "The ACCC did not consider it necessary to form a definitive view in relation to market definition as a substantial lessening of competition was unlikely to arise irrespective of the defined market. For the purposes of the review, the ACCC considered the proposed acquisition in the context of the following markets: -   the wholesale supply of electricity in Victoria -   the retail supply of electricity to end users in Victoria.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to substantially lessen competition in any relevant market. The output from Ecogen Energy's power plants is contracted to EnergyAustralia through a Master Hedge Agreement (MHA). The ACCC considered until the MHA expires in April 2019 there would be little impact on competition due to EnergyAustralia's control over the output of the Ecogen plants. The key issue for the ACCC's competition assessment was how the proposed acquisition might affect competition after the expiry of the MHA. The proposed acquisition would effectively entrench existing concentration and vertical integration. However, in the context of considerable uncertainty about future market outcomes and how an alternative acquirer may operate the plants, the ACCC did not consider that the acquisition was likely to substantially lessen competition. The Ecogen plants are intermediate and peaking generators. EnergyAustralia uses these plants to hedge its retail load and offers an amount of electricity futures to other market participants. Absent evidence to the contrary, the ACCC concluded that EnergyAustralia would be likely to continue to use the Ecogen plants in a manner consistent with its conduct to date. There was also uncertainty as to whether an alternative acquirer would be able to obtain gas supply and storage at a similar volume or price as EnergyAustralia and this may limit their ability to operate as frequently as EnergyAustralia currently does. The ACCC considered that while new entry in the form of similar intermediate or peaking gas-fired generators was unlikely to occur in a timely manner, there may be other means of managing demand and supply balances in peak periods, including demand management and batteries. However, the likelihood of new entry was not critical to the competition assessment and the ACCC did not place significant weight on these possible alternative sources of portfolio coverage."
+  }
+}

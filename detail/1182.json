@@ -1,0 +1,39 @@
+{
+  "id": "1182",
+  "title": "News Limited - acquisition of Noosa Journal",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/news-limited-acquisition-of-noosa-journal",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25398",
+  "industries": [
+    "Newspaper"
+  ],
+  "date_completed": "6 December 2006",
+  "date_completed_iso": "2006-12-06T12:00:00Z",
+  "date_commenced": "16 October 2006",
+  "date_commenced_iso": "2006-10-16T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "News Limited"
+  ],
+  "targets": [
+    "Noosa Journal"
+  ],
+  "timeline": [
+    {
+      "date": "16 Oct 2006",
+      "date_iso": "2006-10-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "6 Dec 2006",
+      "date_iso": "2006-12-06T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "News Limited acquired the Noosa Journal, a free \"community style\" newspaper distributed in Noosa.",
+    "Market definition": "The ACCC concluded that the product dimension of the market included free, suburban newspapers.  It recognised the possibility that other media might be part of the market but did not need to resolve this issue for the purposes of this assessment. The geographic dimension of the market was considered likely to be the Noosa area on the Sunshine Coast in Queensland.",
+    "Competition analysis": "Prior to the acquisition News Limited did not own any free community newspapers in Noosa.  In addition, another free community newspaper, the Noosa News,  is published in Noosa by APN.  Consequently, the ACCC concluded that there were no competition concerns and decided not to oppose the acquisition."
+  }
+}

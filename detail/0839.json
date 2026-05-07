@@ -1,0 +1,44 @@
+{
+  "id": "0839",
+  "title": "Australia Pacific Airports Corporation - proposed acquisitions of Cairns and Mackay Airports",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australia-pacific-airports-corporation-proposed-acquisitions-of-cairns-and-mackay-airports",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34388",
+  "industries": [
+    "Airports"
+  ],
+  "date_completed": "12 November 2008",
+  "date_completed_iso": "2008-11-12T12:00:00Z",
+  "date_commenced": "24 October 2008",
+  "date_commenced_iso": "2008-10-24T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Australia Pacific Airports Corporation"
+  ],
+  "targets": [
+    "Cairns and Mackay Airports"
+  ],
+  "timeline": [
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Nov 2008",
+      "date_iso": "2008-11-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australia Pacific Airports Corporation Limited (APAC) proposes to acquire either or both of Cairns and Mackay airports from the Queensland Government.",
+    "Market definition": "For the purposes of this competition assessment, the ACCC considered the proposed acquisitions in the context of the market for the supply of airport services in mid-north Queensland. The ACCC did not consider it necessary to form a definitive view on the geographic scope of the market. The ACCC is of the view that were a broader geographic market definition taken, the competition assessment would not have been impacted.",
+    "Competition analysis": "On 12 November the ACCC formed the view that the proposed acquisitions would be unlikely to substantially lessen competition in the relevant market. Factors informing this decision included that in the event of the acquisition of both airports, the acquisition was unlikely to change the competitive dynamic that existed in the mid-north Queensland region pre-acquisition because both airports were ultimately owned by the same owner, the Queensland Government, and APAC did not own any other airports in the relevant market. In the event of the acquisition of only one of the airports, competitors would exist in the market who would continue to provide an effective competitive constraint. Although APAC also owned Melbourne and Launceston airports, the ACCC considered that the location of these airports meant that they were unlikely to have an impact on the competitive dynamic existing in the mid-north Queensland market."
+  }
+}

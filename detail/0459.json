@@ -1,0 +1,54 @@
+{
+  "id": "0459",
+  "title": "Coles - completed acquisition of Crows Nest Plaza Shopping Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-completed-acquisition-of-crows-nest-plaza-shopping-centre",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47624",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "29 February 2012",
+  "date_completed_iso": "2012-02-29T12:00:00Z",
+  "date_commenced": "10 January 2012",
+  "date_commenced_iso": "2012-01-10T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Coles"
+  ],
+  "targets": [
+    "Crows Nest Plaza"
+  ],
+  "timeline": [
+    {
+      "date": "4 Nov 2011",
+      "date_iso": "2011-11-04T12:00:00Z",
+      "event": "Coles acquired the Crows Nest Plaza Shopping Centre."
+    },
+    {
+      "date": "14 Nov 2011",
+      "date_iso": "2011-11-14T12:00:00Z",
+      "event": "ACCC became aware of the completed acquisition."
+    },
+    {
+      "date": "10 Jan 2012",
+      "date_iso": "2012-01-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Jan 2012",
+      "date_iso": "2012-01-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Feb 2012",
+      "date_iso": "2012-02-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles Group Property Developments Ltd, owned by Wesfarmers Ltd, has acquired the Crows Nest Plaza Shopping Centre located in Crows Nest, New South Wales. At the time of the acquisition, the Crows Nest Plaza comprised a number of specialty stores and a Franklins supermarket on a leasehold basis.",
+    "Market definition": "The ACCC considered the effects of the acquisition in the context of local retail supermarket competition and other relevant markets, including the local retail supply of takeaway packaged liquor and wholesale procurement and supply markets.",
+    "Competition analysis": "Metcash recently acquired the Franklins chain of supermarkets. Metcash is in the process of selling those stores, including the Franklins supermarket in the Crows Nest Plaza, to independent retailers. In particular, this supermarket is in the process of being sold to Ritchies, which has a number of IGA branded stores in Queensland, Victoria and New South Wales. The ACCC reviewed the acquisition in order to assess the potential competition effects in the relevant markets. The ACCC considered it likely that Coles may decide to redevelop the Crows Nest Plaza in the foreseeable future. In addition, Coles as the owner of the Crows Nest Plaza would be able to determine the tenants of the shopping centre, subject to existing lease provisions (some of which are long term). Accordingly, the acquisition would provide Coles, as a retailer with supermarket and liquor interests, with the ability to establish a new Coles supermarket (possibly a large full line supermarket) and/or takeaway packaged liquor store in the Crows Nest Plaza. In considering local retail supermarket competition, the ACCC noted the limited presence of Coles in the local area and the absence of large full line supermarkets in Crows Nest. The ACCC considered that the presence of alternative supermarkets would be sufficient to constrain a new Coles supermarket, including Woolworths and Aldi, both of which have supermarkets in relatively close geographic proximity to the acquisition site. The ACCC also had regard to the existing IGA supermarkets in the market, but noted that as small format stores they were unlikely to impose as significant a competitive constraint as compared to a full line supermarket. Overall the ACCC was satisfied that a new Coles supermarket in Crows Nest would not be likely to substantially lessen competition. In the market for the local retail supply of takeaway packaged liquor, the ACCC was satisfied that if Coles were to establish a liquor store within the Crows Nest Plaza, it would be constrained by other takeaway packaged liquor outlets. In terms of relevant wholesale markets, the ACCC considered that the acquisition would not significantly alter the wholesale volumes of supermarket and/or packaged liquor products as it would result in only a minimal increment to Coles' purchasing and supply volumes."
+  }
+}

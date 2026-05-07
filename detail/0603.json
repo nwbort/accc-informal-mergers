@@ -1,0 +1,69 @@
+{
+  "id": "0603",
+  "title": "Black & White Cabs - proposed acquisition of business and assets of Palcrest Pty Ltd and related entities",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/black-white-cabs-proposed-acquisition-of-business-and-assets-of-palcrest-pty-ltd-and-related-entities",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42324",
+  "industries": [
+    "Taxis"
+  ],
+  "date_completed": "10 August 2010",
+  "date_completed_iso": "2010-08-10T12:00:00Z",
+  "date_commenced": "21 June 2010",
+  "date_commenced_iso": "2010-06-21T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Black & White Taxi Management Pty Ltd and related entities"
+  ],
+  "targets": [
+    "Palcrest Pty Ltd and related entities"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jun 2010",
+      "date_iso": "2010-06-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Jul 2010",
+      "date_iso": "2010-07-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Jul 2010",
+      "date_iso": "2010-07-12T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "16 Jul 2010",
+      "date_iso": "2010-07-16T12:00:00Z",
+      "event": "ACCC received a response to its information request of 12 July 2010 from the merger parties. ACCC's indicative timeline recommenced."
+    },
+    {
+      "date": "20 Jul 2010",
+      "date_iso": "2010-07-20T12:00:00Z",
+      "event": "ACCC requested further additional information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "21 Jul 2010",
+      "date_iso": "2010-07-21T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, 29 July 2010, amended to allow for further information from the merger parties."
+    },
+    {
+      "date": "2 Aug 2010",
+      "date_iso": "2010-08-02T12:00:00Z",
+      "event": "ACCC received a response to its information request of 20 July 2010 from the merger parties. ACCC's indicative timeline recommenced."
+    },
+    {
+      "date": "10 Aug 2010",
+      "date_iso": "2010-08-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Black & White Taxi Management Pty Ltd (part of the Black & White Cabs Group of companies) and related entities propose to acquire the business and assets of Palcrest Pty Ltd and related entities. Palcrest operates a taxi management business that manages taxi licences and associated vehicles that are affiliated with Yellow Cabs Toowoomba. The proposed acquisition also involves certain taxi licences that are leased or managed by Palcrest.",
+    "Market definition": "The ACCC considered the following markets in its assessment of the proposed transaction: - regional markets (i.e. Toowoomba, Oakey and Crows Nest, each in Queensland) for the supply of taxi services to consumers; - regional markets (i.e. Toowoomba, Oakey and Crows Nest, each in Queensland) for the supply of taxi depot services to taxi operators; and - the Queensland market for the supply of booking dispatch services to taxi operators.",
+    "Competition analysis": "In reaching its conclusion not to oppose Black & White's proposed acquisitions in Toowoomba, the ACCC took into account, amongst other factors: - that Black & White Cabs would continue to be constrained from degrading services to consumers and raising fees to taxi operators due to the continuing presence of Yellow Cabs in the Toowoomba taxi service area; and - the regulation of the provision of taxi services in Toowoomba including pricing to end consumers. The ACCC did not oppose the separate acquisitions by Black & White of a single taxi licence in the towns of Oakey and Crows Nest, Queensland, as each acquisition represents a bare transfer of the licence in that market."
+  }
+}

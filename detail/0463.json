@@ -1,0 +1,59 @@
+{
+  "id": "0463",
+  "title": "Renewed Metal Technologies Pty Ltd - proposed acquisition of Australian Refined Alloys NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/renewed-metal-technologies-pty-ltd-proposed-acquisition-of-australian-refined-alloys-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47618",
+  "industries": [
+    "Lead smelting and refining"
+  ],
+  "date_completed": "8 February 2012",
+  "date_completed_iso": "2012-02-08T12:00:00Z",
+  "date_commenced": "23 November 2011",
+  "date_commenced_iso": "2011-11-23T12:00:00Z",
+  "total_review_days": 46,
+  "acquirers": [
+    "Renewed Metal Technologies Pty Ltd"
+  ],
+  "targets": [
+    "Australian Refined Alloys NSW"
+  ],
+  "timeline": [
+    {
+      "date": "23 Nov 2011",
+      "date_iso": "2011-11-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Dec 2011",
+      "date_iso": "2011-12-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Dec 2011",
+      "date_iso": "2011-12-20T12:00:00Z",
+      "event": "ACCC requested further information from Renewed Metal Technologies."
+    },
+    {
+      "date": "16 Jan 2012",
+      "date_iso": "2012-01-16T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of outstanding information requested from RMT. Former proposed decision date of 27 January 2012 delayed."
+    },
+    {
+      "date": "23 Jan 2012",
+      "date_iso": "2012-01-23T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "8 Feb 2012",
+      "date_iso": "2012-02-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Renewed Metal Technologies through its related entities had entered into an agreement with Nyrstar NV and Sims Metal Management to acquire their interests in the NSW secondary lead production facility Australian Refined Alloys.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following relevant markets: (a)     national and regional markets for the acquisition of used lead acid batteries (ULABs); (b)     the national market for the collection and transport of ULABs, in which RMT's related company,          Orbitas Pty Ltd, competed; (c)     the global market for the supply of refined lead and lead alloys.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: -   At the national level, the proposed acquisition would reverse the relative market shares of ARA and              RMT and would not significantly increase concentration. Post acquisition RMT would continue to be                constrained by ARA Victoria and other competitors. -   At the regional level, the ACCC considered that RMT would likely be constrained from imposing a                 reduction in ULAB prices post-acquisition by the following factors: o   competition from existing and new competitors that have the ability to increase consumption of                     ULABs  in response to a sustained decrease in prices; o   the threat of new entry by battery breakers; and o   the countervailing power of major ULAB suppliers which have the ability to withhold supply or                     alternatively supply competing customers interstate in response to a sustained decrease in prices. -   Further, information provided to the ACCC did not conclusively establish that it would not be feasible to          supply ULABs between regions, and indeed there were examples of ULABs being frequently transported     interstate. The ACCC considered that the above constraints would also be likely to prevent the merged firm from engaging in foreclosure strategies against competitors of Orbitas in the national market for the collection and transport of ULABs. In relation to the global market for the supply of refined lead and lead alloys the ACCC found that pricing in this market is determined by reference to the London Metal Exchange price for lead and that RMT would be likely to be competitively constrained by other domestic and imported sources of refined lead and lead alloys post-acquisition."
+  }
+}

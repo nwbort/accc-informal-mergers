@@ -1,0 +1,718 @@
+ 
+ 
+ 
+22 July 2011 
+ 
+Statement of Issues — FOXTEL - proposed acquisition 
+of Austar United Communications Limited 
+ 
+1. 
+Outlined below is the Statement of Issues released by the Australian 
+Competition and Consumer Commission (ACCC) in relation to the proposed 
+acquisition of Austar United Communications Limited by FOXTEL (proposed 
+acquisition).  
+2. 
+A Statement of Issues published by the ACCC is not a final decision about a 
+proposed acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well 
+as identifying the lines of further inquiry that the ACCC wishes to undertake. 
+3. 
+In line with the ACCC’s Merger Review Process Guidelines (available on the 
+ACCC’s website at www.accc.gov.au) the ACCC has established a secondary 
+timeline for further consideration of the issues. The ACCC anticipates 
+completing further market inquiries by 11 August 2011 and anticipates making 
+a final decision on 8 September 2011. However, the anticipated timeline can 
+change in line with the Merger Review Process Guidelines. To keep abreast of 
+possible changes in relation to timing and to find relevant documents, market 
+participants should visit the Mergers Register on the ACCC's website at 
+www.accc.gov.au/mergersregister. 
+4. 
+A Statement of Issues provides an opportunity for all interested parties 
+(including customers, competitors, shareholders and other stakeholders) to 
+ascertain and consider the primary issues identified by the ACCC. It is also 
+intended to provide the merger parties and other interested parties with the basis 
+for making further submissions should they consider it necessary. 
+ 
+1
+
+
+Background 
+5. 
+On 26 May 2011, the proposed acquisition was announced and the ACCC 
+commenced its review. 
+6. 
+On 11 July 2011, Austar announced that it had entered into definitive 
+transaction agreements with FOXTEL. ACCC approval is a condition precedent 
+to the agreements. 
+The parties 
+FOXTEL 
+7. 
+FOXTEL is owned by Telstra Corporation Ltd (50%), News Corporation Ltd 
+(25%), and Consolidated Media Holdings Limited (25%). The ownership 
+structure of FOXTEL is depicted in Figure 1, below. 
+Figure 1 
+ 
+50% 
+50% 
+50% 
+50% 
+News Corporation 
+Consolidated Media 
+Holdings 
+Premier Media 
+Group 
+Sky Cable 
+Telstra 
+FOXTEL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. 
+FOXTEL is Australia’s largest subscription television provider with over 1.63 
+million subscribing households in metropolitan Australia and around 6 million 
+viewers on cable and satellite through retail and wholesale distribution of its 
+services.  
+9. 
+FOXTEL delivers more than 200 channels, including high definition (HD) 
+content, covering news, sport, general entertainment, movies, documentaries, 
+music and children’s programming.  
+ 
+2
+
+
+10. 
+Other FOXTEL services include: 
+ 33 channels delivered through Telstra Mobile 
+ Live broadcasts on Virgin Blue airlines 
+ Delivery of content via subscribers’ personal computers 
+ Delivery of content via Microsoft Xbox 
+ On demand programming via internet 
+11. 
+FOXTEL had revenue of $2 billion in 2009-10.  
+Austar United Communications Limited 
+12. 
+Austar is listed on the Australian Securities Exchange. Liberty Global, an 
+international media company, owns a 54.2% indirect majority interest in Austar 
+as of 31 March 2011.  
+13. 
+Austar has over 760,000 subscribers. Austar’s coverage area is approximately 
+2.4 million homes in regional and rural Australia, as well as the Gold Coast, 
+Darwin and Hobart. 
+14. 
+Austar provides over 180 “premier” channels, 13 HD Channels and a near 
+video-on-demand service1. 
+15. 
+Austar provides a dial-up internet service, AUSTARnet. AUSTARnet 
+outsources its network to COMindico's IP Network, and is available nationally. 
+At December 31 2010, AUSTARnet had approximately 9,328 internet 
+customers. FOXTEL does not intend to acquire Austar's dial-up internet service. 
+16. 
+Austar has a 50% stake in XYZnetworks (a 50/50 joint venture with FOXTEL). 
+XYZ is the exclusive owner and/or distributor of twelve key programming 
+channels. 
+                                                 
+1 Near video on demand is a video delivery service that allows a customer to select from a limited 
+number of broadcast video channels when they are broadcast. NVOD channels have pre-designated 
+schedule times and are used for pay-per-view services. 
+ 
+3
+
+
+Other industry participants 
+Content producers, owners and suppliers 
+17. 
+Content suppliers provide audiovisual content rights in a number of different 
+forms including discrete programs or series of programs (e.g. drama 
+programming and sports events) sold to a broadcasters and channels or channel 
+groups sold to subscription television providers. Content is supplied from both 
+domestic and international sources such as movie studios, sporting rights 
+holders (such as AFL and NRL), local production companies and commercial 
+broadcasters producing content ‘in-house’. FOXTEL is also a wholesale 
+supplier of original programming and a content aggregator.  
+Subscription television providers 
+18. 
+In addition to FOXTEL and Austar, there are a limited number of alternative 
+subscription television service providers including: 
+ Telstra – which is a reseller for FOXTEL and supplies some limited 
+additional content. 
+ Optus – which is a reseller for FOXTEL in certain metropolitan areas 
+and supplies some limited additional content. 
+ Transact Communications – which supplies limited packages of 
+content to consumers located in the ACT and parts of Victoria. 
+ Fetch TV – which uses IPTV delivery to supply limited packages of 
+content and currently has limited customer penetration. 
+ UBI World – which supplies a niche service of mainly non-English 
+language content. 
+Other suppliers of audio visual content to consumers 
+19. 
+In addition to the supply of content via subscription television services, audio 
+visual content is supplied to consumers in a number of ways: 
+ by digital terrestrial signals produced by commercial and national free-
+to-air (FTA) broadcasters (including ABC, SBS, Seven, Nine and 
+ 
+4
+
+
+Ten);2 
+ linear channels, catch-up and streaming content supplied over the 
+internet (e.g., Telstra’s BigPond TV, iTunes, Apple TV, Google, 
+YouTube, ABC iview, PLUS7); 
+ streaming or downloads of content to mobile devices including smart 
+phones and an array of new ‘pad’ and ‘tablet’ style devices which can 
+access audiovisual content based on pay-per-view and subscription 
+models (e.g., Telstra’s mobile FOXTEL, Vodafone/3); and 
+ rentals and sale of digital video discs. 
+Telecommunications providers 
+20. 
+There are a number of telecommunications providers in Australia such as 
+Telstra, Optus, iiNet and Internode providing services such as fixed line 
+telephony, broadband and related services. Many of these providers also offer 
+some form of audiovisual content to their customers. 
+21. 
+Telstra is a major provider of these services and is also a 50% shareholder in 
+FOXTEL. More details on Telstra are provided below. 
+NBN Co 
+22. 
+NBN Co was created on 9 August 2009. NBN Co was formed as a government 
+business enterprise to build, own and operate the national broadband network 
+(NBN). The NBN will be a national fibre-to-the-home (FTTH) and 
+wireless/satellite network. It is to be operated on a wholesale-only, open access 
+basis, subject to ACCC oversight of wholesale access arrangements. Retail 
+services supplied over the NBN will be subject to the same competition and 
+consumer protection framework (including the Australian Consumer Law) that 
+currently applies to retail telecommunications services. 
+                                                 
+2 These broadcasters also offer ‘catch-up’ services where consumers can view certain programs over 
+the internet after they have been broadcast through the terrestrial signal. 
+ 
+5
+
+
+Telstra 
+23. 
+Telstra is the major wholesale and retail supplier of telecommunications 
+services in Australia, including: 
+ local, national, international and mobile telephony 
+ broadband access and content 
+ data and internet services (including through Telstra BigPond) 
+ wholesale services to other carriers, carriage service providers and 
+ISPs 
+ advertising, search and information services (through Sensis) 
+ pay TV (50% ownership of Foxtel). 
+24. 
+In addition to the above services, FOXTEL and Telstra recently announced an 
+agreement to provide FOXTEL content on the Telstra T-Box. The T-Box is a 
+digital set top box which connects a television to a broadband service in order to 
+provide internet and free-to-air entertainment. A range of FOXTEL packages 
+are available for Telstra consumers to acquire this service. 
+25. 
+On 23 June 2011, Telstra signed Definitive Agreements with NBN Co and the 
+Commonwealth. The Definitive Agreements govern, amongst other things, the 
+terms on which Telstra will progressively migrate its fixed line customers and 
+provide services and access to key infrastructure to NBN Co. These agreements 
+remain subject to the satisfaction of a number of conditions precedent, including 
+the ACCC’s acceptance of Telstra’s structural separation undertaking and 
+approval of its migration plan. 
+Market inquiries 
+26. 
+On 26 May 2011 the ACCC commenced market inquiries regarding the 
+proposed acquisition. The ACCC consulted widely with industry participants 
+including subscription television providers, FTA television operators, content 
+owners, telecommunications companies, other current and potential suppliers of 
+content to consumers and industry groups. 
+With/without test 
+27. 
+In assessing a merger pursuant to section 50 of the Competition and Consumer 
+Act 2010, the ACCC must consider the effects of the transaction by comparing 
+ 
+6
+
+
+the likely competitive environment post-acquisition if the transaction proceeds 
+(the “with” position) to the likely competitive environment if the transaction 
+does not proceed (the “without” position or “counterfactual” position) to 
+determine whether the acquisition is likely to substantially lessen competition in 
+any relevant market. 
+28. 
+In assessing the effects on competition of the proposed acquisition, it is 
+necessary to consider the extent to which FOXTEL and Austar would be likely 
+to compete in the foreseeable future under the counterfactual. The extent to 
+which FOXTEL and Austar compete currently, or have competed in the past, is 
+not necessarily indicative of the likely future level of competition between the 
+parties. This may particularly be so in light of significant industry changes 
+which are likely to occur in the foreseeable future, most notably the rollout of 
+the NBN, which has the potential to facilitate entry by FOXTEL, Austar and 
+other parties into areas of new activity (either in the sense of providing different 
+products and/or expanding their geographic presence). 
+29. 
+The ACCC has had regard to submissions from the merger parties and other 
+interested parties about the likely extent of future competition between 
+FOXTEL and Austar under the counterfactual. 
+Areas of overlap 
+Products 
+30. 
+Both FOXTEL and Austar supply subscription television services to residential 
+and business customers.  
+31. 
+Both FOXTEL and Austar acquire content from content suppliers. 
+32. 
+FOXTEL and Austar are indirectly involved in production of subscription 
+television content through their interests in XYZnetworks (a 50:50 joint 
+venture) and Main Event (a joint venture between FOXTEL, Austar and Optus). 
+These joint ventures provide some content to FOXTEL and Austar but the 
+majority of content sourced by FOXTEL and Austar is done so outside of these 
+joint venture arrangements. 
+33. 
+FOXTEL and Austar are also indirectly involved in the sale of advertising on 
+subscription television channels through their interests in Multi Channel 
+Network (a joint venture between FOXTEL, Austar, PMG and XYZ Networks). 
+ 
+7
+
+
+Geography 
+34. 
+The only geographic region in which FOXTEL and Austar currently both 
+supply subscription television services is the Gold Coast. As discussed later in 
+the document, existing programming arrangements in effect currently divide the 
+remaining national subscription television market into two segments; the 
+metropolitan regions which are serviced by FOXTEL, and regional and rural 
+Australia which is serviced by Austar 
+Market definition 
+Supply of subscription television services to consumers 
+35. 
+The ACCC’s preliminary view is that there is a national market for the supply 
+of subscription television services to consumers. Other sources of supply of 
+audio visual content to consumers, including FTA television, mobile TV and 
+internet content, are not sufficiently close substitutes to be considered in the 
+same market.  
+36. 
+The ACCC is of the view that it is relevant to consider the likely impact of the 
+proposed acquisition in a national market in order to assess the potential for 
+FOXTEL and Austar to compete in such a market in the future. 
+37. 
+The ACCC notes that FOXTEL and Austar currently compete within the 
+national market for the supply of subscription television services to consumers 
+in the Gold Coast region of Queensland. Accordingly, the ACCC will continue 
+to consider the degree of competition between the merger parties in this area. 
+Characteristics of subscription television services 
+38. 
+Subscription television services deliver a package of multiple television 
+channels, each of which generally conforms to a particular genre or subject. 
+Subscription television services usually include niche programming and often 
+repeat programming at different times and dates. Much subscription television 
+content is not available from FTA television sources. 
+39. 
+Subscription television services are provided to subscribers for a fee and are 
+delivered to subscribers’ televisions, traditionally via cable or satellite 
+distribution systems. However, the ACCC notes that IPTV appears to be 
+emerging as a potentially significant alternative delivery mechanism through 
+which subscription television services can be provided to consumers. IPTV as a 
+delivery mechanism for subscription television services has the potential to 
+ 
+8
+
+
+become increasingly important in the future, particularly as the NBN is rolled-
+out, subject to the ability to source suitable content. 
+Extent of substitution between FTA television and subscription television 
+40. 
+The ACCC recognises that FTA television operators compete to some extent 
+with subscription television providers for the supply of audio visual content to 
+consumers. The ACCC notes that the closeness of competition between 
+subscription and FTA television providers appears to have increased in recent 
+years as digital FTA multichannels have been launched. However, the ACCC’s 
+preliminary view is that FTA television is not a sufficiently close substitute to 
+be considered in the relevant market for the purposes of this competition 
+analysis. 
+Extent of substitution between subscription television and other audio visual content 
+delivery services 
+41. 
+On the information available to date, there appears to be limited substitution 
+between subscription television services and other audio visual content delivery 
+services such as mobile TV, YouTube and AppleTV/iTunes. 
+The ACCC invites comments from market participants about its preliminary view 
+regarding the extent to which subscription television is substitutable with other 
+sources of audio visual content as outlined above.  
+Acquisition of audio visual content 
+42. 
+The ACCC’s preliminary view is that there is a national market for the 
+acquisition of audio visual content. 
+43. 
+The ACCC recognises that in this market the closeness of competition between 
+subscription television and FTA providers varies. For certain types of content, 
+for example individual entertainment programs and some sporting events, 
+subscription television providers and FTA television operators compete. 
+44. 
+However, for other types of content such as complete channels produced by 
+content producers, FTA television operators are likely to provide little or no 
+constraint on subscription television providers. 
+45. 
+It is possible that there is a separate market for the acquisition of audio visual 
+content by subscription television providers. It is also possible there are separate 
+ 
+9
+
+
+markets for the acquisition of particular content, such as the AFL rights. 
+The ACCC seeks further information regarding the extent to which suppliers of audio 
+visual content can substitute between subscription television providers and other 
+audio visual content providers, including FTA television providers, for the sale of 
+their audio visual content. 
+Supply of advertising opportunities to advertisers 
+46. 
+The ACCC’s preliminary view is that a relevant market is the national market 
+for the supply of television advertising. 
+47. 
+The ACCC has considered whether advertising through other media services is 
+likely to be a close substitute for subscription television advertising. The ACCC 
+considers that the closest competition outside of advertising on subscription 
+television is likely to come from FTA advertising. The ACCC’s preliminary 
+view is that FTA television advertising is likely to be a sufficiently close 
+substitute to be included in the relevant market. However, market inquiries to 
+date have provided limited information on the degree of substitutability between 
+subscription television and advertising on FTA television or other advertising 
+opportunities. 
+The ACCC seeks further information regarding the degree of substitutability between 
+advertising on subscription television and other forms of advertising. 
+Telecommunications markets 
+48. 
+The ACCC’s preliminary view is that it is also relevant to consider the proposed 
+acquisition in a number of relevant telecommunications product markets. In 
+particular, in relation to the supply of broadband, fixed voice telephony and 
+mobile telephony products. 
+Statement of issues 
+49. 
+For the purposes of this Statement of Issues, the issues in this matter are divided 
+into three categories, ‘issues of concern’, ‘issues that may raise concerns’ and 
+‘issues unlikely to pose concerns’. 
+Issues of concern 
+50. 
+The ACCC’s preliminary view is that the proposed acquisition is likely to result 
+in a substantial lessening of competition in: 
+ 
+10
+
+
+ the national market for the supply of subscription television services; 
+ the national market for the acquisition of audio visual content; and 
+ a number of markets for the supply of telecommunications products. 
+Supply of subscription television services to consumers 
+51. 
+The ACCC’s preliminary view is that the proposed acquisition is likely to 
+substantially lessen competition in the national market for the supply of 
+subscription television services. FOXTEL and Austar are the only significant 
+providers of subscription television services in Australia. The proposed merger 
+would therefore effectively create a near monopoly subscription television 
+provider across Australia. In the absence of the proposed acquisition, and in 
+particular following the rollout of the NBN, the ACCC considers it likely that 
+industry changes will substantially increase the ability and incentive for 
+FOXTEL and Austar to compete with one another outside of their existing 
+distribution regions.  The proposed acquisition would prevent any such 
+competition from occurring. 
+Existing arrangements 
+52. 
+As a result of programming arrangements entered into in the 1990s, agreements 
+between FOXTEL, Austar and various content providers in effect currently 
+divide the national subscription television market into two significant market 
+segments; the metropolitan regions which are serviced by FOXTEL, and 
+regional and rural Australia which is serviced by Austar. Further, the costs of 
+expansion associated with distribution via traditional distribution platforms may 
+have acted to maintain this geographic division. However, with the 
+technological changes expected in the industry in the near future, it appears that 
+FOXTEL or Austar (or both) will have the ability and incentive to expand 
+beyond their current geographic footprints in the foreseeable future. 
+Technological developments 
+53. 
+While competition between FOXTEL and Austar has been limited in the past, 
+there have been, and are likely to be, a number of technological developments 
+that are relevant to the likely future state of competition.  
+54. 
+Subscription television providers are increasingly looking to new technologies 
+and distribution platforms to distribute their services, for example the use of 
+ 
+11
+
+
+IPTV and the delivery of content to existing internet enabled devices like 
+gaming consoles. The deployment of these technologies is likely to be 
+facilitated by the NBN. As new technologies continue to be utilised, 
+subscription television providers are likely to face lower incremental costs of 
+supplying new customers, for example from reduced installation costs. As the 
+costs are reduced, existing barriers to expansion by FOXTEL and/or Austar may 
+be reduced and their incentive to expand geographically increased. 
+Increased incentive for competition between FOXTEL and Austar 
+55. 
+As the costs of expansion are reduced due to the development of new 
+distribution platforms and technologies, the incentives for FOXTEL and Austar 
+to restrict their operations to their existing geographic footprints are likely to 
+diminish. 
+56. 
+To date, FOXTEL and Austar have focused on growing their businesses in their 
+existing geographic footprints as subscribers have continued to take up 
+subscription television services. Over time, the incentives for FOXTEL and 
+Austar to look to new opportunities for business growth, which may include 
+geographic expansion of their existing operations, are likely to increase. 
+Insufficient constraint from alternative subscription television providers and other 
+platforms 
+57. 
+As outlined above, the ACCC has considered the extent to which competition 
+from FTA television and other sources are likely to competitively constrain the 
+merged firm post acquisition. The ACCC’s preliminary view is that FOXTEL 
+and Austar would be likely to be particularly close competitors for the supply of 
+audio visual content to consumers relative to other potential competitors. The 
+ACCC considers that other competitors, including other subscription television 
+providers and FTA television, are unlikely to be sufficiently close competitors 
+to constrain the merged firm. 
+Inability of new entry or expansion to effectively constrain the merged firm 
+58. 
+The ACCC’s preliminary view is that the threat of new entry would be unlikely 
+to effectively constrain the merged firm post acquisition. The ACCC considers 
+that existing barriers to entry are high, particularly due to the difficulties faced 
+by new entrants in obtaining access to sufficient compelling content. Such 
+barriers include exclusivity arrangements and minimum subscriber guarantees.  
+ 
+12
+
+
+59. 
+FOXTEL and Austar’s large existing subscriber bases and established 
+subscription television businesses are seen by industry participants as 
+advantageous to the expansion of their geographic footprints. Their large 
+existing customer bases are likely to place them in a better position than other 
+possible new entrants in future acquisitions of content because content providers 
+prefer to deal with customers with the ability to reach significant audiences. 
+Further, costs incurred by FOXTEL or Austar in expanding can be spread over a 
+large number of subscribers, thereby decreasing the risk of expansion. 
+The ACCC is seeking further information about the likelihood and viability of 
+competition between the parties and new entrants in the foreseeable future. 
+Increased barriers to entry 
+60. 
+In addition, the ACCC considers that the proposed acquisition would be likely 
+to further heighten barriers to entry and expansion. The ACCC’s preliminary 
+view is that the increase in the barriers to entry is likely to result in a substantial 
+lessening of competition in the national market for the supply of subscription 
+television services in its own right. 
+61. 
+The proposed acquisition would lead to the merged firm being an acquirer of 
+content that is many times larger than its nearest rival or potential rival. The 
+creation of such a firm is likely to enhance the merged firm’s ability to achieve 
+agreements with content owners which contain terms that are favourable to the 
+merged firm relative to other potential competitors (for example, exclusivity). 
+Actual and potential competitors to the merged firm may be foreclosed from 
+acquiring compelling content which would be crucial to their prospects of 
+successfully and effectively competing with the merged firm. The ACCC notes 
+that offering such terms to the merged firm may be in the commercial interests 
+of content providers seeking to maximise revenue for their content. The ACCC 
+considers this will heighten barriers to entry and expansion in the national 
+market for the supply of subscription television services and result in a 
+substantial lessening of competition. 
+The ACCC is seeking further information on the extent to which the presence of 
+Austar currently limits (and in the future absent the proposed acquisition, would be 
+likely to limit) the reliance of content suppliers on FOXTEL and/or limits the extent 
+to which FOXTEL can achieve agreements with content suppliers which make entry 
+or expansion by competitors difficult or unachievable. 
+ 
+13
+
+
+62. 
+In addition, content owners seeking to supply content for subscription television 
+into Australia currently have two significantly scaled buyers – FOXTEL and 
+Austar. Market inquiries indicated that Austar plays a significant role in 
+providing the necessary scale for certain subscription channel operators to offer 
+content for Australian subscription services. Such channel operators, although 
+they may not have been able to reach commercial agreement with FOXTEL, are 
+able to operate in Australia due to their relationship with Austar. Without 
+Austar, these content providers may not have been able to achieve sufficient 
+scale through other subscription television providers to operate in Australia. The 
+ACCC considers that the removal of Austar as an acquirer of such channels may 
+raise barriers for new subscription television operators. It may also affect the 
+availability of choice of content for consumers and advertising opportunities on 
+subscription television for advertisers. 
+The ACCC is seeking additional information as to the role that Austar plays as an 
+acquirer of content and the likely implications of the removal of Austar in that role. 
+This will include information about the economics of operating stand alone channels 
+and the importance of stand alone channels to existing and potential new competitors 
+to FOXTEL and Austar. 
+The acquisition of audio visual content 
+ 
+63. 
+The ACCC’s preliminary view is that the proposed acquisition is likely to result 
+in a substantial lessening of competition in the national market for the 
+acquisition of audio visual content. 
+64. 
+Any lessening of competition in the national market for the supply of 
+subscription television services is likely to have flow on effects in the market 
+for the acquisition of audio visual content. Fewer subscription television 
+providers will directly lead to fewer buyers of content.  
+65. 
+There are certain types of content for which subscription television providers 
+face competition from FTA television operators. There are other types of 
+content for which subscription television providers are likely to be the only 
+purchasers (particularly packaged channels and groups of channels). 
+66. 
+As a result, within the national market for the acquisition of audio visual 
+content, there are likely to be substantial market segments for which there is 
+limited or no competition from FTA and other audio visual content acquirers. 
+ 
+14
+
+
+67. 
+The ACCC is of the preliminary view that the merged firm is likely to be able to 
+effectively discriminate against the suppliers of content based on the ability and 
+incentive of FTA providers to effectively compete for that content.  
+The ACCC is seeking further information on likely options available for suppliers of 
+content in the event the merged firm acts to reduce the prices it pays for audio visual 
+content. 
+Competition in telecommunications markets 
+68. 
+The ACCC’s preliminary view is that the proposed acquisition is likely to 
+substantially lessen competition in a number of telecommunications markets. In 
+particular, the ACCC considers that through its 50% shareholding in FOXTEL, 
+Telstra is likely to be able to leverage its relationship with FOXTEL, and 
+consequently FOXTEL’s position in the national market for the supply of 
+subscription television services, to the detriment of competition in 
+telecommunications markets. 
+69. 
+Market inquiries have highlighted the likely importance in the future of 
+telecommunications and broadband competitors being able to provide a bundle 
+of three or four services to consumers. Such a bundle includes fixed voice, 
+broadband internet, television and in some cases, mobile telephony services. 
+The role of subscription television services providers (and the content they can 
+offer) is seen as key to providing such a bundle. Market inquiries indicated the 
+importance of being able to provide a bundle of services is becoming 
+increasingly important over time, particularly once the NBN is rolled-out. 
+70. 
+Market participants are of the view that Telstra is well placed to provide a 
+bundle of services to consumers by virtue of its shareholding in FOXTEL3 
+However, other telecommunications providers and ISPs are concerned that 
+because they lack corporate or commercial links to subscription television 
+providers of substantial scale, they will be at a disadvantage relative to Telstra 
+in being able to provide consumers with a bundle of services.  
+71. 
+Austar is seen as a potential competitor in telecommunications markets. 
+Following the roll-out of the NBN, market participants view Austar as a likely 
+future competitor in providing a bundle of services or, alternatively, as a party 
+                                                 
+3 The ACCC notes that Telstra already supplies FOXTEL services as part of bundles of 
+telecommunications products in FOXTEL’s existing distribution areas. 
+ 
+15
+
+
+that could partner with telecommunications providers and ISPs to provide such 
+a bundle.  
+72. 
+The ACCC’s preliminary view is that there is a real chance that the proposed 
+acquisition will remove an important source of future competition in 
+telecommunications markets. 
+The ACCC seeks further information from interested parties about the likely impact 
+of the proposed acquisition on competition in telecommunications markets.  
+Issues that may raise concerns 
+Supply of subscription television services to consumers on the Gold Coast 
+73. 
+While the ACCC’s preliminary view is that it is appropriate to consider the 
+likely impact of the proposed acquisition in a national market for the supply of 
+subscription television services to consumers, it may also be relevant to 
+consider the potential loss of competition in the Gold Coast region. In this 
+region, FOXTEL and Austar currently overlap in the supply of subscription 
+television services to residential and commercial customers. Currently, 
+FOXTEL and Austar standardise many elements of their subscription television 
+offerings on a national basis (including the pricing of packages). While this 
+limits the scope for FOXTEL and Austar to differentiate their offer in the Gold 
+Coast region, the ACCC’s inquiries indicate that there is currently competition 
+between FOXTEL and Austar in the form of: 
+ inducements for signing up to a subscription television service such as 
+free installation or free channels included in the customer’s package;  
+ small differences between the content offerings of the parties which 
+may be important to some customers;4  
+ competition in supplying multi-dwelling units (MDUs) (such as 
+residential apartment buildings) - such buildings are usually 
+‘backboned’ by only one of FOXTEL or Austar and the ACCC 
+understands that there is competition between the parties to backbone 
+each building;  
+                                                 
+4 For example, Austar carries Ovation, Al Jazeera and CCTV that FOXTEL does not. Further, there are 
+variations in the channels that are included within different package tiers offered by FOXTEL and 
+Austar. 
+ 
+16
+
+
+ packages tailored to meet the needs of particular commercial 
+customers, for example, FOXTEL has tailored a package which is 
+available only to holiday apartments on the Gold Coast; and.  
+ competition between PMG and Austar to supply certain types of 
+commercial customers (for example, licensed premises). 
+The ACCC seeks further information about the extent of competition between 
+FOXTEL and Austar (and PMG and Austar in terms of licensed premises customers) 
+in the Gold Coast region. This may include additional information regarding the ways 
+in which offerings to customers in this region demonstrate the extent of competition. 
+Issues unlikely to pose concerns 
+Supply of advertising opportunities to advertisers 
+ 
+74. 
+The ACCC’s preliminary view is that the proposed acquisition is unlikely to 
+substantially lessen competition in the market for the supply of television 
+advertising. 
+75. 
+The ACCC considers that while in the future without the acquisition, FOXTEL 
+and Austar would likely compete across a broader geographic area. the ACCC’s 
+preliminary view is that the merged entity is likely to be competitively 
+constrained by the supply of other advertising opportunities, including FTA 
+television advertising. 
+Retransmission of FTA channels on subscription television platforms 
+76. 
+The ACCC has considered whether the proposed acquisition raises concerns in 
+relation to the retransmission of FTA channels through subscription television 
+set top units (STUs). 
+77. 
+The ACCC understands that FOXTEL and FTA operators have arrangements in 
+place for retransmission of FTA signals through FOXTEL STUs whereas 
+Austar's STUs contain digital tuners which remove the need for retransmission. 
+78. 
+The ACCC’s preliminary view is that retransmission arrangements have been 
+reached between FOXTEL and FTA operators because of the mutual interest to 
+both parties in having such arrangements in place (i.e. creating convenience for 
+consumers so they do not have to switch between platforms). The ACCC 
+considers that the proposed acquisition is unlikely to impact on the competitive 
+dynamic between the merged entity and FTA operators. 
+ 
+17
+
+
+ACCC's future steps 
+79. 
+The ACCC will finalise its view on this matter after it considers market 
+responses invited by this Statement of Issues. 
+80. 
+The ACCC now seeks submissions from market participants on each of the 
+issues identified in this Statement of Issues and on any other issue that may be 
+relevant to the ACCC's assessment of this matter. 
+81. 
+Submissions are to be received by the ACCC no later than 11 August 2011. The 
+ACCC will consider the submissions received from the market and the merger 
+parties in light of the issues identified above and will, in conjunction with 
+information and submissions already provided by the parties, come to a final 
+view in light of the issues raised above. 
+82. 
+The ACCC intends to publicly announce its final view by 8 September 2011. 
+However the anticipated timeline may change in line with the Merger Review 
+Process Guidelines. A public Competition Assessment for the purpose of 
+explaining the ACCC's final view may be published following the ACCC's 
+public announcement. 
+ 
+18

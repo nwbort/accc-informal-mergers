@@ -1,0 +1,64 @@
+{
+  "id": "0239",
+  "title": "PMP Limited - proposed merger with IPMG Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pmp-limited-proposed-merger-with-ipmg-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61122",
+  "industries": [
+    "Printing"
+  ],
+  "date_completed": "17 February 2017",
+  "date_completed_iso": "2017-02-17T12:00:00Z",
+  "date_commenced": "2 November 2016",
+  "date_commenced_iso": "2016-11-02T12:00:00Z",
+  "total_review_days": 68,
+  "acquirers": [
+    "PMP Limited"
+  ],
+  "targets": [
+    "IPMG Group"
+  ],
+  "timeline": [
+    {
+      "date": "2 Nov 2016",
+      "date_iso": "2016-11-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Nov 2016",
+      "date_iso": "2016-11-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Dec 2016",
+      "date_iso": "2016-12-22T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Jan 2017",
+      "date_iso": "2017-01-30T12:00:00Z",
+      "event": "ACCC requested further information from PMP and IPMG."
+    },
+    {
+      "date": "31 Jan 2017",
+      "date_iso": "2017-01-31T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "6 Feb 2017",
+      "date_iso": "2017-02-06T12:00:00Z",
+      "event": "ACCC received further information from PMP and IPMG."
+    },
+    {
+      "date": "17 Feb 2017",
+      "date_iso": "2017-02-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PMP Limited, a publicly listed commercial printer, proposed to merge with IPMG Group, a print and digital services provider privately owned by members of the Hannan family.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

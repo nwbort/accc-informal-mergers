@@ -1,0 +1,49 @@
+{
+  "id": "1052",
+  "title": "Stramit Corporation Pty Ltd - acquisition of AG&S Building Systems Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/stramit-corporation-pty-ltd-acquisition-of-ags-building-systems-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28883",
+  "industries": [
+    "Building systems"
+  ],
+  "date_completed": "22 August 2007",
+  "date_completed_iso": "2007-08-22T12:00:00Z",
+  "date_commenced": "6 August 2007",
+  "date_commenced_iso": "2007-08-06T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Stramit Corporation Pty Ltd"
+  ],
+  "targets": [
+    "AG&S Building Systems Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Aug 2007",
+      "date_iso": "2007-08-02T12:00:00Z",
+      "event": "Stramit Corporation Pty Ltd acquired AG&S Building Systems Pty Ltd."
+    },
+    {
+      "date": "6 Aug 2007",
+      "date_iso": "2007-08-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Aug 2007",
+      "date_iso": "2007-08-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Stramit Corporation Pty Ltd has acquired AG&S Building Systems, trading as Fair Dinkum Homes and Sheds. Stramit is a manufacturer and supplier of steel roll formed products and AG&S provides services to the shed building and assembly industry.",
+    "Market definition": "The acquisition was considered in the context of separate markets for the supply of steel roll formed products and the supply of steel frame sheds and buildings.",
+    "Competition analysis": "On 22 August 2007 the ACCC formed the view that the acquisition is not likely to substantially lessen competition in the relevant markets due to a number of actual and potential competitors who would be likely to constrain Stramit from attempting to exercise market power."
+  }
+}

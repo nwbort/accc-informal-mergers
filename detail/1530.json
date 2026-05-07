@@ -1,0 +1,31 @@
+{
+  "id": "1530",
+  "title": "Acquirer: West Australian Newspaper Holdings Ltd (WANH); Target: RedWave Media Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-west-australian-newspaper-holdings-ltd-wanh-target-redwave-media-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18114",
+  "industries": [],
+  "date_completed": "4 August 2003",
+  "date_completed_iso": "2003-08-04T12:00:00Z",
+  "date_commenced": "11 July 2003",
+  "date_commenced_iso": "2003-07-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "West Australian Newspaper Holdings Ltd (WANH)"
+  ],
+  "targets": [
+    "RedWave Media Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "West Australian Newspapers Holdings Ltd ('WAN') advised the Commission of its proposal to acquire RedWave Media Limited.",
+    "Market definition": "For the purpose of competition analysis the following markets were considered: a) The market for the supply of commercial broadcast radio advertising services, on both AM and FM frequencies, in each of the following licence areas: -\tthe Karratha licence area; -\tthe Remote Western Australia licence area; -\tthe Port Hedland licence area. b) The market for newspaper advertising in the north-west Western Australia and Kalgoorlie regions.",
+    "Competition analysis": "In view of the fact that WAN does not currently operate in the relevant radio advertising markets, the proposed acquisition represents new entry into the relevant markets and as such is unlikely to have the effect of substantially preventing or hindering competition in the market(s) for the supply of commercial broadcast radio advertising services in either the Karratha licence area or the Remote Western Australia licence area, or the Port Hedland licence area. Similarly, there is no change in ownership in relation to relevant newspaper-related markets as RedWave has no newspaper interests and the acquisition is unlikely to have the effect of substantially lessening competition in relation to any newspaper-related markets.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "9121"
+  }
+}

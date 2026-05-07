@@ -1,0 +1,59 @@
+{
+  "id": "0317",
+  "title": "Ricegrowers Limited (trading as SunRice) - proposed acquisition of Blue Ribbon Rice",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ricegrowers-limited-trading-as-sunrice-proposed-acquisition-of-blue-ribbon-rice",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54317",
+  "industries": [
+    "Rice"
+  ],
+  "date_completed": "28 October 2014",
+  "date_completed_iso": "2014-10-28T12:00:00Z",
+  "date_commenced": "25 July 2014",
+  "date_commenced_iso": "2014-07-25T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Ricegrowers Limited (trading as SunRice)"
+  ],
+  "targets": [
+    "Blue Ribbon Rice"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jul 2014",
+      "date_iso": "2014-07-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "8 Aug 2014",
+      "date_iso": "2014-08-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Aug 2014",
+      "date_iso": "2014-08-20T12:00:00Z",
+      "event": "Former proposed decision date of 4 September 2014 delayed to allow provision of requested information from Ricegrowers Limited."
+    },
+    {
+      "date": "12 Sep 2014",
+      "date_iso": "2014-09-12T12:00:00Z",
+      "event": "Review suspended at the request of Ricegrowers Limited. Ricegrowers Limited requested additional time to allow the merger parties to provide further information to the ACCC (including information requested by the ACCC on 20 August 2014)."
+    },
+    {
+      "date": "23 Oct 2014",
+      "date_iso": "2014-10-23T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Oct 2014",
+      "date_iso": "2014-10-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ricegrowers Limited (trading as SunRice) proposed to acquire the Blue Ribbon Rice business from the Blue Ribbon Group.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: -\ta national market for the wholesale supply of brown rice -\ta national market or markets for the wholesale supply of white (milled or polished) rice -\tlocal markets for the acquisition of paddy (unmilled rice). The ACCC did not consider it necessary to form a definitive view on the relevant markets given the ACCC's conclusion that a substantial lessening of competition was unlikely to arise irrespective of the market definition adopted. Importantly, the ACCC had not reached a conclusion on whether different varieties of white rice (e.g. Basmati, Jasmine, medium grain etc.) formed market segments or wholly separate markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. The domestic rice industry is dominated by Ricegrowers Limited (SunRice), which is by far the largest processor of Australian grown rice. The ACCC noted that NSW is the largest rice-growing region in Australia and despite the introduction of an authorised buyer scheme in NSW in 2006, meaningful domestic competition to SunRice has not yet emerged. The ACCC was concerned that domestic pricing for rice varieties where Australia is a net exporter may have been closer to import price parity than the (lower) export price parity, due to the lack of domestic competition. In that context, even small acquisitions by SunRice may have had the potential to substantially alter the competitive dynamic. However, as a very small processor of domestically grown rice, the ACCC considered Blue Ribbon Rice had not yet provided a significant competitive constraint in wholesale rice markets in Australia. The ACCC therefore considered closely whether Blue Ribbon Rice was likely to provide a meaningful competitive constraint in the future. The ACCC formed the view that Blue Ribbon Rice's operations were highly likely to shrink or cease if the proposed acquisition did not proceed. The ACCC considered that alternative possible purchasers would have been unlikely to provide meaningful competitive constraint in the future, as they would not have been likely to possess the necessary expertise and rice varieties to overcome Blue Ribbon Rice's agronomic challenges. Blue Ribbon Rice had been limited in its potential to provide a significant competitive constraint by the challenges involved with growing rice in Queensland's Burdekin region (where Blue Ribbon Rice was located). The Burdekin region was an emerging rice growing region and the industry was very small. The challenges included developing and proving rice varieties which were suitable for the tropical climate of the Burdekin and resistant to local diseases, particularly rice blast. In addition, as a tropical region, the Burdekin offered greatest potential in the production of fragrant rice varieties (such as Basmati rice) which had not grown well in the temperate climate of NSW's Riverina region, where SunRice's rice was produced. As such, Blue Ribbon Rice offered greatest potential for future production of varieties which SunRice did not produce in significant volumes and where imports are a substantial competitive constraint. Accordingly, even when leaving Blue Ribbon Rice's financial difficulties aside, the potential for future competitive overlap between the merger parties was limited. In the local markets for the acquisition of paddy, the ACCC concluded there was no overlap between the parties. The ACCC also considered the proposed acquisition may ultimately provide benefits to local rice growers through SunRice's size, expertise and access to rice varieties. This may have increased the attractiveness of rice as a rotational or alternative crop to sugar cane, improving the competitive position of farmers."
+  }
+}

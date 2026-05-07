@@ -1,0 +1,72 @@
+{
+  "id": "0049",
+  "title": "Stockland Supalai Residential Communities Partnership Pty Ltd - Lendlease Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/stockland-supalai-residential-communities-partnership-pty-ltd-lendlease-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Property development"
+  ],
+  "date_completed": "26 September 2024",
+  "date_completed_iso": "2024-09-26T12:00:00Z",
+  "date_commenced": "8 February 2024",
+  "date_commenced_iso": "2024-02-08T12:00:00Z",
+  "total_review_days": 129,
+  "acquirers": [
+    "Stockland Supalai Residential Communities Partnership Pty Ltd"
+  ],
+  "targets": [
+    "Lendlease Group"
+  ],
+  "timeline": [
+    {
+      "date": "8 Feb 2024",
+      "date_iso": "2024-02-08T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "Proposed date for announcement of ACCC’s decision"
+    },
+    {
+      "date": "23 Feb 2024",
+      "date_iso": "2024-02-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "16 Apr 2024",
+      "date_iso": "2024-04-16T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties.  Former provisional date for announcement of ACCC's findings (18 April 2024)  is delayed."
+    },
+    {
+      "date": "31 May 2024",
+      "date_iso": "2024-05-31T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "4 Jul 2024",
+      "date_iso": "2024-07-04T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "18 Jul 2024",
+      "date_iso": "2024-07-18T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Sep 2024",
+      "date_iso": "2024-09-11T12:00:00Z",
+      "event": "Former proposed decision date (12 September) delayed to allow the ACCC to consider a proposed divestiture remedy."
+    },
+    {
+      "date": "26 Sep 2024",
+      "date_iso": "2024-09-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Stockland Supalai Residential Communities Partnership Pty Ltd ( SSRCP ) (a wholly-owned subsidiary of a special purpose acquisition vehicle owned by Stockland Communities Partnership HoldCo Pty Ltd ( Stockland ) and Supalai Australia Holdings Pty Limited ( Supalai ) proposes to acquire 12 masterplanned communities ( MPC ) projects from Lendlease Group ( Lendlease ) ( proposed acquisition ). The MPC projects are located in greenfield growth areas across Greater Sydney, South East Queensland, Greater Melbourne and Greater Perth. Stockland is a wholly-owned subsidiary of Stockland Corporation Limited ( Stockland Group ), an ASX-listed diversified Australian property group that owns, funds, develops and manages portfolios of investment properties. Stockland Group has interests in 30 MPC projects across NSW, ACT, Queensland, Victoria and Western Australia. Supalai is a wholly-owned subsidiary of Supalai Public Company Limited, which is listed on the Stock Exchange of Thailand. Supalai Public Company Limited principally operates as a property developer. Supalai has investments in various MPC projects in Victoria, Queensland and Western Australia through joint ventures with other developers, including Mirvac, Stockland, Satterley, Peet and ICD Property. Lendlease is an ASX-listed global real estate business. Lendlease has 16 MPC projects in NSW, Queensland, Victoria and Western Australia, 12 of which would be sold under the proposed acquisition. On 4 July 2024, the ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition. On 26 September 2024, the ACCC decided to not oppose the proposed acquisition, subject to the ACCC accepting a court-enforceable undertaking from Stockland Corporation Limited to divest its Forest Reach MPC in the Illawarra region. The ACCC will release a Public Competition Assessment in due course."
+  }
+}

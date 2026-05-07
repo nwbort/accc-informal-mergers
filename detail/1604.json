@@ -1,0 +1,31 @@
+{
+  "id": "1604",
+  "title": "Acquirer: ISIS Communications Ltd; Target: AAV Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-isis-communications-ltd-target-aav-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16793",
+  "industries": [],
+  "date_completed": "18 October 2002",
+  "date_completed_iso": "2002-10-18T12:00:00Z",
+  "date_commenced": "8 October 2002",
+  "date_commenced_iso": "2002-10-08T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "ISIS Communications Ltd"
+  ],
+  "targets": [
+    "AAV Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "ISIS Communications Ltd (ISIS) proposes to acquire AAV Australia Pty Ltd.",
+    "Market definition": "Video production, duplication and distribution services - specifically duplicate television commercial distribution to television stations.  For the purposes of competition analysis this was taken to include traditional multi duplication and physical delivery, and satellite distribution.",
+    "Competition analysis": "In reaching its decision not to intervene in the merger of AAV and ISIS, the Commission conducted market inquiries with a range of parties including with customers and direct competitors of the merged entity. These inquiries suggested that traditional methods of television commercial distribution release may remain viable substitutes for satellite distribution for some time yet.  Moreover it was not clear that barriers to entry or expansion are large in any of the relevant markets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "9111"
+  }
+}

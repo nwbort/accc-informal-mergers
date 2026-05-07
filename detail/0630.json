@@ -1,0 +1,44 @@
+{
+  "id": "0630",
+  "title": "Sydney Adventist Hospital - proposed acquisition of Dalcross Private Hospital",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sydney-adventist-hospital-proposed-acquisition-of-dalcross-private-hospital",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41573",
+  "industries": [
+    "Private Hospitals"
+  ],
+  "date_completed": "1 June 2010",
+  "date_completed_iso": "2010-06-01T12:00:00Z",
+  "date_commenced": "21 April 2010",
+  "date_commenced_iso": "2010-04-21T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Sydney Adventist Hospital Limited"
+  ],
+  "targets": [
+    "Dalcross Private Hospital"
+  ],
+  "timeline": [
+    {
+      "date": "21 Apr 2010",
+      "date_iso": "2010-04-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 May 2010",
+      "date_iso": "2010-05-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Jun 2010",
+      "date_iso": "2010-06-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sydney Adventist Hospital Limited, owner and operator of the Sydney Adventist Hospital in the northern Sydney suburb of Wahroonga, proposed to acquire the nearby Dalcross Private Hospital located in Killara from Dalcross Holdings Pty Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following relevant markets: -  the northern Sydney regional market for the supply of private hospital services to health funds and the Repatriation Commission; and -  the northern Sydney regional market for the supply of private hospital services to patients.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market due to: -  the small increase in market concentration; -  the limited competition between Sydney Adventist Hospital and Dalcross Private Hospital given their focus on different specialties; and -  the presence of alternative private hospital operators in northern Sydney that would continue to provide an effective competitive constraint on the merged firm."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "1064",
+  "title": "Transpacific Industries Group Ltd - acquisition of Cleanaway Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-cleanaway-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28044",
+  "industries": [
+    "Waste Services Industry"
+  ],
+  "date_completed": "7 August 2007",
+  "date_completed_iso": "2007-08-07T12:00:00Z",
+  "date_commenced": "17 May 2007",
+  "date_commenced_iso": "2007-05-17T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Cleanaway Australia"
+  ],
+  "timeline": [
+    {
+      "date": "16 May 2007",
+      "date_iso": "2007-05-16T12:00:00Z",
+      "event": "Transpacific Industries Group Ltd completed acquisition of Cleanaway Australia."
+    },
+    {
+      "date": "17 May 2007",
+      "date_iso": "2007-05-17T12:00:00Z",
+      "event": "ACCC commenced review."
+    },
+    {
+      "date": "17 May 2007",
+      "date_iso": "2007-05-17T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific."
+    },
+    {
+      "date": "31 May 2007",
+      "date_iso": "2007-05-31T12:00:00Z",
+      "event": "ACCC received further information from Transpacific."
+    },
+    {
+      "date": "8 Jun 2007",
+      "date_iso": "2007-06-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2007",
+      "date_iso": "2007-08-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the following markets may be relevant to the analysis of the acquisition: - local markets for the collection and transport of municipal waste; - local markets for the collection and transport of commercial and industrial waste; - a landfill market for the disposal of municipal waste extending to at least the north-west and central-west of Melbourne; - a landfill market for the disposal of prescribed waste extending to some extent from Tullamarine to south-east of Melbourne; and - national markets for each of the manufacture and supply of side, front and rear waste collection truck bodies. However, it was not necessary to reach a conclusive view on market definition as the outcome of the competition analysis would not have been affected.",
+    "Competition analysis": "The ACCC considered that competition concerns were unlikely to arise in either the municipal collection markets or commercial and industrial collection markets as Transpacific was in effect a new entrant to many of these markets. Further, where there was any overlap, it appeared to be of a limited nature. The ACCC noted that commercial and industrial waste collectors wishing to enter the market to service customers (waste generators) on a national or multi-state basis may face higher barriers to entry. These barriers may include the need for critical scale and large capital investment in order to achieve economies of scale and/or scope, and the need in some cases for an established brand and/or reputation. However, the ACCC noted the presence of other competitors and their ability to tender for services as a constraining factor on the merged entity. The ACCC paid particular attention to the acquisition of landfills in Brooklyn and Tullamarine, Melbourne. The ACCC reached the view that Transpacific was likely to be constrained in the operation of its Brooklyn landfill by rival landfills in at least the central-west and north-west of Melbourne. In addition, the ACCC considered that Transpacific was likely to be constrained in the operation of its Tullamarine landfill by the impending closure of this landfill and by competitor landfills extending to some extent from Tullamarine to south-east of Melbourne. The ACCC also considered the ability of Transpacific to raise rivals' costs through landfill pricing or restricting access, which in turn may adversely affect the competitiveness of waste collectors and subsequently reduce the independent demand for the manufacture of waste collection truck bodies. The ACCC considered that Transpacific was likely to be constrained in this regard by rival landfills."
+  }
+}

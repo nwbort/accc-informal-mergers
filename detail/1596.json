@@ -1,0 +1,31 @@
+{
+  "id": "1596",
+  "title": "Acquirer: Hospitals Contribution Fund of Australia Ltd The; Target: IOR Australia Pty Ltd (Health Fund)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-hospitals-contribution-fund-of-australia-ltd-the-target-ior-australia-pty-ltd-health-fund",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16924",
+  "industries": [],
+  "date_completed": "19 November 2002",
+  "date_completed_iso": "2002-11-19T12:00:00Z",
+  "date_commenced": "31 October 2002",
+  "date_commenced_iso": "2002-10-31T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Hospitals Contribution Fund of Australia Ltd The"
+  ],
+  "targets": [
+    "IOR Australia Pty Ltd (Health Fund)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 19 November 2002 the Commission decided not to intervene in the proposed acquisition of IOR Australia by The Hospitals Contribution Fund of Australia (HCF). IOR Australia and HCF are both providers of private health insurance.",
+    "Market definition": "Market for private health insurance.",
+    "Competition analysis": "On 25 July 2002, IOR Australia was placed into administration by the Private Health Insurance Administration Council for failure to meet the necessary prudential standards for private health insurance funds as required under the provisions of the National Health Act 1953. The proposed acquisition did not cross any of the Commission's concentration thresholds for the exercise of market power in any state except for New South Wales.  In New South Wales, HCF is the third largest provider of private health insurance, however, IOR Australia has only an extremely small market share at around 0.5%.  Excluding HCF, there are 11 other open providers of private health insurance in New South Wales with a market share greater than IOR Australia.  In these circumstances, a diminution in the level of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7421"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1046",
+  "title": "QBE Insurance (Australia) Limited - proposed acquisition of Universal Underwriting Agencies Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qbe-insurance-australia-limited-proposed-acquisition-of-universal-underwriting-agencies-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28265",
+  "industries": [
+    "General Insurance"
+  ],
+  "date_completed": "29 August 2007",
+  "date_completed_iso": "2007-08-29T12:00:00Z",
+  "date_commenced": "22 August 2007",
+  "date_commenced_iso": "2007-08-22T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "QBE Insurance (Australia) Limited"
+  ],
+  "targets": [
+    "Universal Underwriting Agencies Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "28 Aug 2007",
+      "date_iso": "2007-08-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Aug 2007",
+      "date_iso": "2007-08-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "QBE Insurance proposes to acquire all the shares of Universal Underwiritng Agencies Pty Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the distribution of commercial risk insurance to brokers and end-consumers.  The various markets for the distribution of personal lines of insurance (including householders, accident and motor vehicle) were also considered.",
+    "Competition analysis": "On 29 August 2007,  the ACCC decided to not intervene in the proposed acquisition. The ACCC considered that the proposed acquisition is unlikely to substantially lessen competition in the national market for the distribution of commercial risk insurance to brokers and end-consumers because the proposed acquisition is unlikely to result in significant consolidation within the relevant market.  Further, there would remain numerous alternative underwriting agencies to which end-consumers and commercial insurance manufacturers could turn.  In light of the above, the proposed acquisition is also considered unlikely to raise vertical integration concerns. The ACCC considered that the proposed acquisition is unlikely to raise competition concerns in respect of the various markets for the distribution of personal lines of insurance (including householders, accident and motor vehicle) because the merger parties have limited presence in these markets."
+  }
+}

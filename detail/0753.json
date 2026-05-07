@@ -1,0 +1,44 @@
+{
+  "id": "0753",
+  "title": "Viterra Inc - proposed acquisition of ABB Grain Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viterra-inc-proposed-acquisition-of-abb-grain-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37549",
+  "industries": [
+    "Agri-food products and processing"
+  ],
+  "date_completed": "2 June 2009",
+  "date_completed_iso": "2009-06-02T12:00:00Z",
+  "date_commenced": "19 May 2009",
+  "date_commenced_iso": "2009-05-19T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Viterra Inc"
+  ],
+  "targets": [
+    "ABB Grain Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 May 2009",
+      "date_iso": "2009-05-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 May 2009",
+      "date_iso": "2009-05-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Jun 2009",
+      "date_iso": "2009-06-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viterra proposed to acquire ABB through a scheme of arrangement.",
+    "Market definition": "The ACCC did not consider it necessary to reach a definitive view on market definition in this matter.",
+    "Competition analysis": "The ACCC found that as Viterra did not have any interests in Australia and therefore did not overlap horizontally with ABB in any relevant market, the proposed acquisition would have no impact on market concentration in any Australian market. On the vertical side, the ACCC found that the proposed acquisition would not alter ABB's existing level of vertical integration and therefore was unlikely to increase or enhance the merged firm's ability or incentive to foreclose rivals' access to storage and handling at South Australian port terminals. The ACCC's assessment also noted the existing and proposed access undertakings covering third party access to these facilities and services. Accordingly, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any Australian market in breach of section 50."
+  }
+}

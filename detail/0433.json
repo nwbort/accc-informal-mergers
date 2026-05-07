@@ -1,0 +1,99 @@
+{
+  "id": "0433",
+  "title": "APA Group - proposed acquisition of Hastings Diversified Utilities Fund",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/apa-group-proposed-acquisition-of-hastings-diversified-utilities-fund",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47435",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "19 July 2012",
+  "date_completed_iso": "2012-07-19T12:00:00Z",
+  "date_commenced": "14 December 2011",
+  "date_commenced_iso": "2011-12-14T12:00:00Z",
+  "total_review_days": 124,
+  "acquirers": [
+    "APA Group"
+  ],
+  "targets": [
+    "Hastings Diversified Utilities Fund"
+  ],
+  "timeline": [
+    {
+      "date": "14 Dec 2011",
+      "date_iso": "2011-12-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jan 2012",
+      "date_iso": "2012-01-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Feb 2012",
+      "date_iso": "2012-02-06T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended and former proposed decision date for announcement of ACCC's findings of 16 February 2012 delayed."
+    },
+    {
+      "date": "16 Mar 2012",
+      "date_iso": "2012-03-16T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Mar 2012",
+      "date_iso": "2012-03-29T12:00:00Z",
+      "event": "Former proposed decision date of 29 March 2012 for announcement of ACCC's findings delayed."
+    },
+    {
+      "date": "30 Mar 2012",
+      "date_iso": "2012-03-30T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "13 Apr 2012",
+      "date_iso": "2012-04-13T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "16 Apr 2012",
+      "date_iso": "2012-04-16T12:00:00Z",
+      "event": "Timeline extended at the request of APA to allow it to make further submissions. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 26 April 2012 delayed."
+    },
+    {
+      "date": "11 May 2012",
+      "date_iso": "2012-05-11T12:00:00Z",
+      "event": "APA has asked the ACCC to consider and consult upon an in-principle proposal to divest MAPS and commit to behavioural obligations to allow connection to the SWQP. The ACCC commenced market inquiries on this new proposal as currently described by APA. Subject to these market inquiries, the ACCC will then consider whether a section 87B undertaking based on this proposal would be capable of addressing the ACCC's concerns. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 May 2012",
+      "date_iso": "2012-05-24T12:00:00Z",
+      "event": "Closing date for submissions relating to APA's proposal."
+    },
+    {
+      "date": "12 Jun 2012",
+      "date_iso": "2012-06-12T12:00:00Z",
+      "event": "Previous tentative decision date of 21 June 2012 delayed to allow the ACCC to assess information provided during market inquiries and engage with APA on any relevant issues arising from market inquiries."
+    },
+    {
+      "date": "19 Jul 2012",
+      "date_iso": "2012-07-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "1 Feb 2016",
+      "date_iso": "2016-02-01T12:00:00Z",
+      "event": "APA sought the ACCC's consent to withdraw the section 87B undertaking pursuant to s 87B(2) of the Act."
+    },
+    {
+      "date": "1 Apr 2016",
+      "date_iso": "2016-04-01T12:00:00Z",
+      "event": "In accordance with s 87B(2) of the Act, the ACCC gave consent to the withdrawal of the section 87B undertaking in its entirety with effect from 1 April 2016. The ACCC's reasons for consenting to the withdrawal of the Undertaking are set out in the document titled 'Consent To Withdrawal Of Section 87B Undertaking'."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Please refer to the attached Public Competition Assessment.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

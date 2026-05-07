@@ -1,0 +1,26 @@
+{
+  "id": "1362",
+  "title": "National Foods Ltd - proposed acquisition of Berri Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-foods-ltd-proposed-acquisition-of-berri-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22213",
+  "industries": [
+    "Beverages"
+  ],
+  "date_completed": "31 August 2005",
+  "date_completed_iso": "2005-08-31T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 31 August 2005 the ACCC advised National Foods it would not oppose the transfer by San Miguel to them of 51% of Berri's shares.",
+    "Market definition": "For competition analysis purposes the ACCC considered the following markets which are serviced by National Foods: 1. the regional market for raw milk; 2. the market for fresh milk on a state basis; 3. the market for flavoured milk on a state basis; 4. the national market for cream; 5. the national market for dairy desserts and yoghurt; and 6. the national market for cheese.",
+    "Competition analysis": "As the transfer of shares is part of an internal corporate restructure, there will be no change in effective corporate control. Based upon this factor the ACCC formed the view that a substantial lessening of competition in a market was unlikely to occur.",
+    "Merger type": "Shareholding",
+    "Initiation": "Press"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "0965",
+  "title": "Nexus Energy Limited - proposed acquisition of Anzon Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nexus-energy-limited-proposed-acquisition-of-anzon-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31125",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "15 February 2008",
+  "date_completed_iso": "2008-02-15T12:00:00Z",
+  "date_commenced": "6 February 2008",
+  "date_commenced_iso": "2008-02-06T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Nexus Energy Limited"
+  ],
+  "targets": [
+    "Anzon Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Feb 2008",
+      "date_iso": "2008-02-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Feb 2008",
+      "date_iso": "2008-02-15T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nexus Energy Limited (Nexus) proposes to acquire Anzon Australia (Anzon)",
+    "Market definition": "The ACCC did not consider it necessary to define the relevant market for the purposes of assessing this merger.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to result in a substantial lessening of competition, primarily because the merged entity would face competition from a number of much larger oil and gas companies in the regions in which it will operate."
+  }
+}

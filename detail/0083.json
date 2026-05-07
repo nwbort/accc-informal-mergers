@@ -1,0 +1,49 @@
+{
+  "id": "0083",
+  "title": "Spicers Limited - Domain Paper (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/spicers-limited-domain-paper-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Printing paper"
+  ],
+  "date_completed": "2 February 2023",
+  "date_completed_iso": "2023-02-02T12:00:00Z",
+  "date_commenced": "13 December 2022",
+  "date_commenced_iso": "2022-12-13T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Spicers Limited"
+  ],
+  "targets": [
+    "Domain Paper (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Dec 2022",
+      "date_iso": "2022-12-14T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Dec 2022",
+      "date_iso": "2022-12-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "2 Feb 2023",
+      "date_iso": "2023-02-02T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (9 February 2023) brought forward."
+    },
+    {
+      "date": "2 Feb 2023",
+      "date_iso": "2023-02-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Spicers Limited's (Spicers) proposed acquisition of the assets comprising the business trading as Domain Paper (Domain) from Domain Paper (Australia) Pty Ltd. Spicers and Domain both overlap in the supply of commercial printing paper, pressure sensitive adhesive material, packaging papers and boards, and sign and display consumables.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the markets for the wholesale supply of commercial printing paper, pressure sensitive adhesive material, and sign and display consumables in Victoria.",
+    "Competition analysis": "The ACCC concluded that Spicers’ proposed acquisition was unlikely to substantially lessen competition in any relevant market. In relation to the wholesale supply of commercial printing paper, the proposed acquisition would combine the second and third largest suppliers in Victoria. Other competitors continuing to supply this market include Ball & Doggett and to a lesser extent Vital. The ACCC found that barriers to entry were not high for a player the size of Domain and the parties would likely be constrained by the threat of new entry or expansion by existing competitors. The ACCC also found that larger printers are likely to exert some countervailing power by seeking direct supply from overseas paper mills, for at least some of their supply. In relation to the wholesale supply of pressure sensitive adhesive materials, and sign and display consumables, the ACCC found that a number of significant competitors would remain to constrain the parties post-acquisition."
+  }
+}

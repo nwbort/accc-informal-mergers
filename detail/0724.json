@@ -1,0 +1,64 @@
+{
+  "id": "0724",
+  "title": "Caltex Petroleum Services Pty Ltd - completed acquisitions of Cocks Petroleum Pty Ltd & South Coast Retail Pty Ltd, Malcolm Slater Pty Ltd & Wonfair Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caltex-petroleum-services-pty-ltd-completed-acquisitions-of-cocks-petroleum-pty-ltd-south-coast-retail-pty-ltd-malcolm-slater-pty-ltd-wonfair-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36623",
+  "industries": [
+    "Fuel retailing and wholesaling"
+  ],
+  "date_completed": "4 August 2009",
+  "date_completed_iso": "2009-08-04T12:00:00Z",
+  "date_commenced": "6 February 2009",
+  "date_commenced_iso": "2009-02-06T12:00:00Z",
+  "total_review_days": 82,
+  "acquirers": [
+    "Caltex Petroleum Services Pty Ltd"
+  ],
+  "targets": [
+    "Cocks Petroleum Pty Ltd & South Coast Retail Pty Ltd<br/> Malcolm Slater Pty Ltd & Wonfair Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Oct 2008",
+      "date_iso": "2008-10-13T12:00:00Z",
+      "event": "Caltex acquired Cocks Petroleum Pty Ltd and South Coast Retail Pty Ltd ."
+    },
+    {
+      "date": "15 Dec 2008",
+      "date_iso": "2008-12-15T12:00:00Z",
+      "event": "Caltex acquired Malcolm Slater Pty Ltd and Wonfair Pty Ltd."
+    },
+    {
+      "date": "23 Jan 2009",
+      "date_iso": "2009-01-23T12:00:00Z",
+      "event": "Caltex notified the ACCC of the completed acquisitions."
+    },
+    {
+      "date": "6 Feb 2009",
+      "date_iso": "2009-02-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Mar 2009",
+      "date_iso": "2009-03-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Aug 2009",
+      "date_iso": "2009-08-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisitions."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC requested further information from Caltex on 3 occasions during this review, resulting in the timeline being suspended for 40 business days."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 13 October 2008 Caltex acquired a Mobil fuel reselling business operated by Cocks Petroleum Pty Ltd and South Coast Retail Pty Ltd. The assets of the Cocks Petroleum/South Coast Retail business comprised of four service stations and three bulk fuel depots located in the south east region of NSW. On 15 December 2008 Caltex acquired the Caltex-branded fuel reselling business operated by Malcolm Slater Pty Ltd and Wonfair Pty Ltd. The assets of the Slater/Wonfair business comprised of four service stations and two bulk fuel depots located in the south east region of NSW.",
+    "Market definition": "The ACCC considered the competitive effects of the completed acquisitions in the context of: - local retail markets for the supply of petrol and diesel; and - regional wholesale/retail markets for the bulk supply of petrol and diesel to 'small drop' customers (comprising commercial end users and retail service stations). For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisitions were unlikely to substantially lessen competition in the relevant markets. In reaching its conclusion, the ACCC had regard to the following key factors: - in the local retail markets in which Caltex has acquired a retail service station, there were either competitive constraints offered by other competing retail sites, or otherwise the completed acquisitions did not result in horizontal aggregation in retail sites controlled by Caltex; and - in regional wholesale/retail markets in which Caltex has acquired bulk fuel depots: (i) in areas surrounding Cooma and Bombala, a competitive constraint is offered by a competing bulk fuel          depot; (ii) in areas surrounding Moruya and Bega, there is only a minimal overlap in distribution areas supplied by          the acquired bulk fuel depots; and (iii) in areas surrounding Bega and Eden, notwithstanding the similar distribution areas serviced by the               acquired bulk fuel depots in these locations, based on information received specific to the Bega bulk              fuel depot and its circumstances, the ACCC concluded that it was unlikely that this depot would                     continue as a viable business offering effective competition in the counterfactual."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "1246",
+  "title": "Adrad Pty Ltd - proposed acquisition of Natra Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adrad-pty-ltd-proposed-acquisition-of-natra-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24498",
+  "industries": [
+    "Automotive radiator manufacturing"
+  ],
+  "date_completed": "8 August 2006",
+  "date_completed_iso": "2006-08-08T12:00:00Z",
+  "date_commenced": "29 May 2006",
+  "date_commenced_iso": "2006-05-29T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Adrad Pty Ltd"
+  ],
+  "targets": [
+    "Natra Group Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 May 2006",
+      "date_iso": "2006-05-29T12:00:00Z",
+      "event": "ACCC commenced assessment under Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 May 2006",
+      "date_iso": "2006-05-30T12:00:00Z",
+      "event": "ACCC requested further information from Adrad. ACCC timeline suspended."
+    },
+    {
+      "date": "6 Jun 2006",
+      "date_iso": "2006-06-06T12:00:00Z",
+      "event": "ACCC commenced market inquiries."
+    },
+    {
+      "date": "6 Jun 2006",
+      "date_iso": "2006-06-06T12:00:00Z",
+      "event": "ACCC requested further information from Adrad."
+    },
+    {
+      "date": "7 Jun 2006",
+      "date_iso": "2006-06-07T12:00:00Z",
+      "event": "ACCC received response to information request dated 30 May."
+    },
+    {
+      "date": "9 Jun 2006",
+      "date_iso": "2006-06-09T12:00:00Z",
+      "event": "ACCC received response to information request dated 6 June. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Jun 2006",
+      "date_iso": "2006-06-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "ACCC requested further information from Adrad. ACCC timeline suspended."
+    },
+    {
+      "date": "19 Jul 2006",
+      "date_iso": "2006-07-19T12:00:00Z",
+      "event": "ACCC received further information from Adrad. ACCC timeline recommenced."
+    },
+    {
+      "date": "9 Aug 2006",
+      "date_iso": "2006-08-09T12:00:00Z",
+      "event": "ACCC announced decision not to oppose."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Adrad Pty Ltd  - acquisition of Natra Group Ltd",
+    "Market definition": "The key markets were: -  the national market for the wholesale supply of radiators to the automotive aftermarket.  Given the level of imports into the automotive aftermarket as discussed below, the ACCC did not need to determine whether suppliers of radiators to motor vehicle manufacturers (who largely do not currently supply the aftermarket) would be likely to significantly constrain the merged business; and -  the national market for the wholesale supply of industrial radiators to the aftermarket (equipment using industrial radiators is mostly imported and, in any case, local equipment manufacturers are likely to be able to import radiators).",
+    "Competition analysis": "Automotive radiators The proposed merger will increase concentration in the automotive radiator supply aftermarket.  However, imports of non-genuine and original equipment are likely to constitute a competitive constraint on the merged business. Regarding the repair of radiators for which complete assemblies are currently not available for import, imports of radiator cores and other Australian manufacturers of radiator cores are likely to restrain the actions of the merged business. Industrial radiators The acquisition would increase concentration in the national aftermarket for the wholesale supply of industrial radiators.  However, competitive constraints are likely to exist in the form of: -  original equipment manufacturers, who import genuine parts; -  parts dealers relying upon second hand parts and imports of genuine and non-genuine radiators; and -  to a lesser degree, the remaining small industrial core manufacturers (that are likely to be able to continue to supply repairers). Vertical issues The merged entity will be affiliated with a significant proportion of radiator repairers.  However, as both Natra and Adrad are already affiliated with repairers, the merger is unlikely to alter their ability to deal preferentially with their affiliated repairers."
+  }
+}

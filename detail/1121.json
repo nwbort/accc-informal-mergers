@@ -1,0 +1,39 @@
+{
+  "id": "1121",
+  "title": "Vero Insurance Limited - proposed acquisition of Terri Scheer Insurance Brokers Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/vero-insurance-limited-proposed-acquisition-of-terri-scheer-insurance-brokers-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27393",
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "11 April 2007",
+  "date_completed_iso": "2007-04-11T12:00:00Z",
+  "date_commenced": "2 April 2007",
+  "date_commenced_iso": "2007-04-02T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "Vero Insurance Limited"
+  ],
+  "targets": [
+    "Terri Scheer Insurance Brokers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Apr 2007",
+      "date_iso": "2007-04-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines.  Market inquiries commenced."
+    },
+    {
+      "date": "11 Apr 2007",
+      "date_iso": "2007-04-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vero Insurance Limited (a wholly owned subsidiary of Promina Group Ltd, which has recently been acquired by Suncorp Metway Limited) proposes to acquire Terri Scheer Insurance Brokers Pty Ltd.",
+    "Market definition": "For the purposes of this competition assessment, the relevant market was considered to be the national market for the manufacture and supply of home insurance and other types of domestic insurance excluding motor vehicle insurance.",
+    "Competition analysis": "The ACCC formed the view that the acquisition is unlikely to substantially lessen competition in the relevant market, as the target firm only accounts for a very small market share, and there are a number of insurers who are likely to be able to constrain the merged firm."
+  }
+}

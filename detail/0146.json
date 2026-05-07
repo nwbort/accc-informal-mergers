@@ -1,0 +1,79 @@
+{
+  "id": "0146",
+  "title": "Elanco Animal Health Incorporated - Bayer Aktiengesellschaft’s animal health business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/elanco-animal-health-incorporated-bayer-aktiengesellschaft%E2%80%99s-animal-health-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Animal Health"
+  ],
+  "date_completed": "9 July 2020",
+  "date_completed_iso": "2020-07-09T12:00:00Z",
+  "date_commenced": "20 December 2019",
+  "date_commenced_iso": "2019-12-20T12:00:00Z",
+  "total_review_days": 83,
+  "acquirers": [
+    "Elanco Animal Health Incorporated"
+  ],
+  "targets": [
+    "Bayer Aktiengesellschaft’s animal health business"
+  ],
+  "timeline": [
+    {
+      "date": "20 Dec 2019",
+      "date_iso": "2019-12-20T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Feb 2020",
+      "date_iso": "2020-02-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Mar 2020",
+      "date_iso": "2020-03-10T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (12 March) delayed."
+    },
+    {
+      "date": "9 Apr 2020",
+      "date_iso": "2020-04-09T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "22 Apr 2020",
+      "date_iso": "2020-04-22T12:00:00Z",
+      "event": "ACCC is awaiting further information from the parties. Former provisional date for announcement of findings (30 April) is delayed."
+    },
+    {
+      "date": "29 May 2020",
+      "date_iso": "2020-05-29T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Jun 2020",
+      "date_iso": "2020-06-10T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed divestment undertaking."
+    },
+    {
+      "date": "15 Jun 2020",
+      "date_iso": "2020-06-15T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of findings (18 June) is delayed."
+    },
+    {
+      "date": "29 Jun 2020",
+      "date_iso": "2020-06-29T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "9 Jul 2020",
+      "date_iso": "2020-07-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Elanco Animal Health Incorporated proposes to acquire Bayer Aktiengesellschaft’s animal health business, which covers development and distribution of prescription and non-prescription products for farm and companion animals. In Australia, this includes: pharmaceuticals, such as parasiticides and antimicrobials and analgesics, specialty products, which include immunomodulators, nutritionals, including vitamins, feed supplements and feed additives, and other products including disinfectants.",
+    "Market definition": "Refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Refer to the attached Public Competition Assessment."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1656",
+  "title": "Acquirer: Australian Fast Foods Pty Ltd; Target: Amalgamated Food & Poultry Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-fast-foods-pty-ltd-target-amalgamated-food-poultry-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15220",
+  "industries": [],
+  "date_completed": "30 April 2002",
+  "date_completed_iso": "2002-04-30T12:00:00Z",
+  "date_commenced": "18 December 2001",
+  "date_commenced_iso": "2001-12-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Fast Foods Pty Ltd"
+  ],
+  "targets": [
+    "Amalgamated Food & Poultry Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "It is proposed that Australian Fast Food (Chicken Treat) will acquire the issued share capital of Amalgamated Food & Poultry (Red Rooster, owned by Coles Myer).",
+    "Market definition": "The industry in which the parties compete is the takeaway food industry.",
+    "Competition analysis": "No specific market definition was reached since even on the narrowest possible market definition no substantial lessening of competition appears likely. In reaching its decision to not oppose the proposed merger, the Commission noted that: 1. The area of overlap of the merger parties is minor; 2. Barriers to entry are low; and 3. There are ample substitute products for consumers.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "5125"
+  }
+}

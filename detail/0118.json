@@ -1,0 +1,74 @@
+{
+  "id": "0118",
+  "title": "Meta Platforms, Inc.  - Kustomer, Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/meta-platforms-inc-kustomer-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Technology and CRM Solutions"
+  ],
+  "date_completed": "18 November 2021",
+  "date_completed_iso": "2021-11-18T12:00:00Z",
+  "date_commenced": "30 March 2021",
+  "date_commenced_iso": "2021-03-30T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "Meta Platforms, Inc."
+  ],
+  "targets": [
+    "Kustomer, Inc."
+  ],
+  "timeline": [
+    {
+      "date": "30 Mar 2021",
+      "date_iso": "2021-03-30T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Apr 2021",
+      "date_iso": "2021-04-22T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Jun 2021",
+      "date_iso": "2021-06-01T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former proposed decision date of 24 June 2021 is delayed. ACCC timeline suspended in the interim."
+    },
+    {
+      "date": "8 Oct 2021",
+      "date_iso": "2021-10-08T12:00:00Z",
+      "event": "ACCC timeline recommenced. Proposed decision date set for 25 November 2021."
+    },
+    {
+      "date": "16 Nov 2021",
+      "date_iso": "2021-11-16T12:00:00Z",
+      "event": "Former proposed decision date (25 November 2021) brought forward to 18 November 2021."
+    },
+    {
+      "date": "18 Nov 2021",
+      "date_iso": "2021-11-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "Meta Platforms, Inc. ( Meta ) proposes to acquire Kustomer, Inc. ( Kustomer ). Kustomer is a customer relationship management (CRM) software provider. Meta is an advertising services provider that offers three messaging services used by businesses to communicate with consumers: Facebook Messenger, WhatsApp and Instagram. On 28 October 2021, Facebook, Inc. changed its name to Meta Platforms, Inc.",
+    "Market definition": "The ACCC primarily considered the impact of the proposed acquisition in the Australian market for CRM products. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition of this market, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Foreclosure of competing CRM providers The ACCC considered that, for many businesses, Meta’s messaging services are increasingly important for communicating with customers, and Meta has the ability to give Kustomer a competitive advantage by giving it access to these services on more favourable terms post-acquisition. However, the ACCC found that Meta is unlikely to have the incentive to favour Kustomer’s access to its messaging services in the near future. In reaching this view, the ACCC took into account that: Meta generates almost all of its revenue from advertising and related services, and Meta monetises its messaging services by selling ads that direct consumers to those services. Meta has an interest in maximising the use of its messaging services so that it can grow its advertising business, and restricting access to those services is inconsistent with that interest. Kustomer is small and has a very limited presence in Australia. Given these factors, the ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Access to CRM data The ACCC also considered whether Meta could use or restrict access to data through its ownership of Kustomer in a way that would substantially lessen competition. The ACCC concluded that any benefit from customer transaction data is unlikely to give Meta a significant competitive advantage, primarily because similar data will continue to be widely available to other advertisers."
+  }
+}

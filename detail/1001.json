@@ -1,0 +1,44 @@
+{
+  "id": "1001",
+  "title": "Xstrata Plc - proposed acquisition of Jubilee Mines NL",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/xstrata-plc-proposed-acquisition-of-jubilee-mines-nl",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29866",
+  "industries": [
+    "Mining and Minerals Exploration"
+  ],
+  "date_completed": "13 November 2007",
+  "date_completed_iso": "2007-11-13T12:00:00Z",
+  "date_commenced": "29 October 2007",
+  "date_commenced_iso": "2007-10-29T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Xstrata Plc"
+  ],
+  "targets": [
+    "Jubilee Mines NL"
+  ],
+  "timeline": [
+    {
+      "date": "29 Oct 2007",
+      "date_iso": "2007-10-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Nov 2007",
+      "date_iso": "2007-11-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Nov 2007",
+      "date_iso": "2007-11-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Xstrata Plc, through its wholly owned subsidiary Ithaki Australia Pty Limited, proposed to acquire all of the issued shares of Jubilee Mines NL",
+    "Market definition": "The ACCC considered the relevant market to be the market for the supply of nickel.",
+    "Competition analysis": "The ACCC decided that the proposed acquisition was not likely to result in a substantial lessening of competition in the market for the supply of nickel. Factors which led to this conclusion included: - The market concentration of the merged entity would not be sufficient to raise competition concerns, as Xstrata represented a relatively small proportion of nickel supply; - There were sufficient alternative suppliers in the market for nickel, including Norilsk Nickel, CVRD and BHP Billiton; and - Nickel is listed on the London Metals Exchange, where its trading price is determined by international demand and supply, limiting the potential for unilateral and coordinated nickel price rises."
+  }
+}

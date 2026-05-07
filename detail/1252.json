@@ -1,0 +1,44 @@
+{
+  "id": "1252",
+  "title": "InvoCare Limited - proposed acquisition of Drysdale Funerals",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invocare-limited-proposed-acquisition-of-drysdale-funerals",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23992",
+  "industries": [
+    "Funeral Directors, Crematoria and Cemeteries"
+  ],
+  "date_completed": "2 August 2006",
+  "date_completed_iso": "2006-08-02T12:00:00Z",
+  "date_commenced": "11 July 2006",
+  "date_commenced_iso": "2006-07-11T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "InvoCare Limited"
+  ],
+  "targets": [
+    "Drysdale Funerals"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jul 2006",
+      "date_iso": "2006-07-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Aug 2006",
+      "date_iso": "2006-08-02T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "InvoCare Limited proposed to acquire Drysdale Funerals on the Queensland Sunshine Coast, and sought informal clearance from the ACCC. Both firms supply funeral direction, cremation and burial services.",
+    "Market definition": "The markets were defined as the local Sunshine Coast markets for 1) funeral direction, and 2) cremation and burial services.",
+    "Competition analysis": "InvoCare does not currently operate in any of these markets in the Sunshine Coast. There is no competitive overlap. After consideration of the information provided by market participants and other information before it, the ACCC formed the view that the proposed acquisition is unlikely to result in a substantial lessening of competition in either market and decided that it would not oppose the acquisition."
+  }
+}

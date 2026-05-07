@@ -1,0 +1,53 @@
+{
+  "id": "0591",
+  "title": "SembSITA Australia Pty Ltd - proposed acquisition of WSN Environmental Solutions",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sembsita-australia-pty-ltd-proposed-acquisition-of-wsn-environmental-solutions",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42646",
+  "industries": [
+    "Waste management services"
+  ],
+  "date_completed": "28 September 2010",
+  "date_completed_iso": "2010-09-28T12:00:00Z",
+  "date_commenced": "15 July 2010",
+  "date_commenced_iso": "2010-07-15T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "SembSITA Pty Ltd"
+  ],
+  "targets": [
+    "WSN Environmental Solutions"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jul 2010",
+      "date_iso": "2010-07-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "5 Aug 2010",
+      "date_iso": "2010-08-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Aug 2010",
+      "date_iso": "2010-08-11T12:00:00Z",
+      "event": "ACCC requested further information from SembSITA. Former proposed decision date of 26 August 2010 amended to allow for provision of further information. ACCC timeline suspended."
+    },
+    {
+      "date": "30 Aug 2010",
+      "date_iso": "2010-08-30T12:00:00Z",
+      "event": "ACCC received further information from SembSITA. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Sep 2010",
+      "date_iso": "2010-09-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For the purposes of its assessment, the ACCC considered the proposed acquisition in the context of the following relevant markets: -  the supply of waste management services (including collection and disposal) to commercial and industrial customers (C&I) in metropolitan Sydney; -  the supply of waste collection services to councils in metropolitan Sydney; -  the supply of alternative waste treatment (AWT) services in metropolitan Sydney; and -  the development and future supply of AWT services (AWT tender competition) in metropolitan Sydney.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In forming this view, the ACCC had regard to: -  the limited aggregation in competition for the supply of waste management services to C&I customers; -  the likely constraint on the merged firm by other significant council waste collectors; -  the negligible contestable capacity likely to be available at the merger parties' existing AWT processing facilities; and -  the likely constraint on the merged firm from other significant AWT service providers in respect of the development and future supply of AWT services. In forming this view, the ACCC also considered that the merged firm would not have any increased ability or incentive to foreclose competitors in upstream waste management services (to C&I customers) and waste collection services (to councils) as a result of the proposed acquisition, particularly given the presence of alternative putrescible waste disposal options now and in the foreseeable future."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0735",
+  "title": "Pact Group Pty Ltd - proposed acquisition of Viscount Plastics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-viscount-plastics-pty-ltd-1",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37562",
+  "industries": [
+    "Packaging products"
+  ],
+  "date_completed": "9 July 2009",
+  "date_completed_iso": "2009-07-09T12:00:00Z",
+  "date_commenced": "14 April 2009",
+  "date_commenced_iso": "2009-04-14T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Viscount Plastics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Apr 2009",
+      "date_iso": "2009-04-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2009",
+      "date_iso": "2009-04-15T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "8 May 2009",
+      "date_iso": "2009-05-08T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "10 Jun 2009",
+      "date_iso": "2009-06-10T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings. At the request of Pact Group, the ACCC timeline has been suspended to allow time for Pact Group to provide further information to the ACCC."
+    },
+    {
+      "date": "9 Jul 2009",
+      "date_iso": "2009-07-09T12:00:00Z",
+      "event": "Pact Group has withdrawn its application for an informal merger review. Consequently, the ACCC has ceased reviewing this matter."
+    }
+  ],
+  "body_sections": {
+    "Statement of issues": "Based on market inquiries conducted previously and competition concerns identified at that time, the ACCC is re-issuing a Statement of Issues for this proposed acquisition. This Statement of Issues largely reflects the ACCC's previous Statement of Issues; however, some amendments have been made to reflect changes advised by Pact Group since the ACCC's previous consideration of the proposed acquisition."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1207",
+  "title": "AGL - proposed acquisition of Sun Gas",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-proposed-acquisition-of-sun-gas",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25729",
+  "industries": [
+    "Natural Gas"
+  ],
+  "date_completed": "11 October 2006",
+  "date_completed_iso": "2006-10-11T12:00:00Z",
+  "date_commenced": "24 August 2006",
+  "date_commenced_iso": "2006-08-24T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "AGL"
+  ],
+  "targets": [
+    "Sun Gas"
+  ],
+  "timeline": [
+    {
+      "date": "24 Aug 2006",
+      "date_iso": "2006-08-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "26 Sep 2006",
+      "date_iso": "2006-09-26T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition subject to AGL's divestment of its interest in APT"
+    },
+    {
+      "date": "26 Sep 2006",
+      "date_iso": "2006-09-26T12:00:00Z",
+      "event": "ACCC timeline suspended until the outcome of the Alinta-AGL joint merger proposal was known."
+    },
+    {
+      "date": "11 Oct 2006",
+      "date_iso": "2006-10-11T12:00:00Z",
+      "event": "Outcome of Alinta-AGL joint merger proposal became known. ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL sought to acquire Sun Gas, a gas retailing business that was being privatised by the Queensland Government.",
+    "Market definition": "Sun Gas retailed gas to customers in Queensland.  AGL was a gas and electricity retailer operating in multiple states, but did not have any significant retailing operations in Queensland. At the time that AGL approached the ACCC for an informal clearance of the merger, the Alinta-AGL joint merger had not been finalised and, as such, AGL had a 30% shareholding in Australian Pipeline Trust (APT).  APT owned the Roma to Brisbane Pipeline (RBP), the only pipeline delivering natural gas to residential customers in south east Queensland. Although the ACCC did not consider it necessary to conclusively define the market, it considered the following to be potential relevant markets: 1. The market for retailing gas in Queensland 2. The market for retailing gas on the east coast of Australia 3. The market for retailing gas and electricity on the east coast of Australia 4. The market for the wholesale gas supply into south east Queensland",
+    "Competition analysis": "Retailing If the narrower retailing market definition is adopted, the proposed acquisition would have amounted to new entry by AGL and, therefore, the acquisition was unlikely to raise any competition concerns. If one of the broader markets is adopted, the acquisition would have led to a small increase in horizontal aggregation between AGL's pre-existing energy retailing activities and Sun Gas' gas retail business, as the number of retail gas customers held by Sun Gas was relatively small on a national scale.  Given the presence of a number of other significant retailers in the broader market, the ACCC concluded that the merged entity would be likely to face sufficient levels of competition post merger and, therefore, that the proposed acquisition was unlikely to result in a substantial lessening of competition. Wholesaling Absent the consummation of the AGL-Alinta merger, AGL's proposed acquisition of Sun Gas would have led to a situation where AGL would have had a 30% interest in the only pipeline (the RBP) servicing residential customers in south east Queensland, as well as being a retailer of gas to about half of those customers.  AGL would also have provided operational services for the RBP.  The ACCC was concerned that this would have provided AGL with the incentive and ability to engage in foreclosure tactics to unfairly benefit its own gas retailing business to the detriment of other gas retailers on the RBP. Once the Alinta-AGL joint merger was finalised, these concerns dissipated as AGL transferred its interest in APT to Alinta.  The ACCC subsequently cleared the acquisition."
+  }
+}

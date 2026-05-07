@@ -1,0 +1,74 @@
+{
+  "id": "1060",
+  "title": "Singapore Power, Babcock and Brown Limited - proposed acquisition of Alinta Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/singapore-power-babcock-and-brown-limited-proposed-acquisition-of-alinta-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27058",
+  "industries": [
+    "Electricity and Gas"
+  ],
+  "date_completed": "13 August 2007",
+  "date_completed_iso": "2007-08-13T12:00:00Z",
+  "date_commenced": "13 June 2007",
+  "date_commenced_iso": "2007-06-13T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Babcock and Brown Limited",
+    "Singapore Power"
+  ],
+  "targets": [
+    "Alinta Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Mar 2007",
+      "date_iso": "2007-03-30T12:00:00Z",
+      "event": "Alinta announced to ASX recommendation of bid for Alinta by Singapore Power and Babcock & Brown. ACCC commenced public monitoring."
+    },
+    {
+      "date": "12 Jun 2007",
+      "date_iso": "2007-06-12T12:00:00Z",
+      "event": "Draft 87B undertakings and transaction overview released by parties for commencement of ACCC market inquiries."
+    },
+    {
+      "date": "13 Jun 2007",
+      "date_iso": "2007-06-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jun 2007",
+      "date_iso": "2007-06-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Jun 2007",
+      "date_iso": "2007-06-26T12:00:00Z",
+      "event": "Former proposed date of 13 July 2007 for announcement of ACCC's findings, amended to seek further submissions."
+    },
+    {
+      "date": "25 Jul 2007",
+      "date_iso": "2007-07-25T12:00:00Z",
+      "event": "ACCC requested further submissions on revised draft undertakings regarding DBNGP from interested parties."
+    },
+    {
+      "date": "13 Aug 2007",
+      "date_iso": "2007-08-13T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC. ACCC decided that it would not intervene pursuant to section 50 of the Trade Practices Act."
+    },
+    {
+      "date": "29 Mar 2011",
+      "date_iso": "2011-03-29T12:00:00Z",
+      "event": "BBI BBP 2007 Undertaking terminated."
+    },
+    {
+      "date": "2 Oct 2013",
+      "date_iso": "2013-10-02T12:00:00Z",
+      "event": "BBP SPI 2007 Undertaking terminated."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 13 August 2007 the ACCC decided not to oppose the acquisition of Alinta Limited by a consortium comprising of Babcock & Brown Limited and Singapore Power International Pte Ltd (SPI), subject to two undertakings provided pursuant to s87B of the then Trade Practices Act 1974. One undertaking was given by SPI and Babcock and Brown Infrastructure Limited (BBI) (BBI SPI Undertaking) and the other was given by BBI and Babcock and Brown Power (BBP) (BBI BBP Undertaking). The BBI SPI Undertaking addressed the ACCC's competition concerns regarding the potential aggregation of interests in competing gas pipelines in NSW and WA as well as concerns regarding integration of electricity generation and retail assets with upstream gas pipeline interests in WA. The BBI BBP Undertaking addressed the risk that BBI would use its position as operator of the Dampier to Bunbury Natural Gas Pipeline (DBNGP) to favour BBP which was a shipper of gas on the DBNGP and competitor to the other shippers in downstream markets.  The ACCC considered BBI and BBP were not functionally or economically independent from the Babcock and Brown Group. On 29 March 2011 Alinta Energy (previously BBP, now Redbank Energy Limited) completed a corporate restructure and Redbank ceased to hold any interest in a Downstream Business (as defined in the BBI BBP Undertaking).  Accordingly, the BBI BBP Undertaking has terminated. The BBI SPI Undertaking terminated in accordance with its terms on 2 October 2013.",
+    "Undertakings": "Undertaking offered by Babcock & Brown Infrastructure Limited, Babcock & Brown Investor Services Limited acting in its capacity as trustee of the Babcock & Brown Infrastructure Trust,  Babcock & Brown Power Limited and Babcock & Brown Power Services Limited in its capacity as trustee of the Babcock & Brown Power Trust (Undertaking terminated on 29 March 2011 in accordance with clause 22(b) of the Undertaking) Undertaking offered by Singapore Power International Pte Ltd, Babcock & Brown Infrastructure Limited and Babcock & Brown Investor Services Limited acting in its capacity as trustee of the Babcock & Brown Infrastructure Trust (Undertaking terminated on 2 October 2013 in accordance with clauses 18 and 49 of the Undertaking)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1077",
+  "title": "Marie Stopes International (MSI) - proposed acquisition of GS Brodie Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/marie-stopes-international-msi-proposed-acquisition-of-gs-brodie-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28154",
+  "industries": [
+    "Medical Services"
+  ],
+  "date_completed": "6 July 2007",
+  "date_completed_iso": "2007-07-06T12:00:00Z",
+  "date_commenced": "22 June 2007",
+  "date_commenced_iso": "2007-06-22T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Marie Stopes International (MSI)"
+  ],
+  "targets": [
+    "GS Brodie Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jun 2007",
+      "date_iso": "2007-06-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jun 2007",
+      "date_iso": "2007-06-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Jul 2007",
+      "date_iso": "2007-07-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Marie Stopes International acquires GS Brodie Pty Ltd",
+    "Market definition": "The ACCC considered the following markets in its review of MSI's acquisition of GS Brodie Pty Limited: - Camperdown markets for reproductive and sexual health care services; and - Kingswood markets for reproductive and sexual health care services.",
+    "Competition analysis": "The ACCC considers that MSI faces sufficient competitive constraints post-acquisition and that the acquisition is unlikely to cause a substantial lessening of competition in any of the relevant markets. This conclusion was informed by the following factors: - MSI's acquisition of GS Brodie will result in a bare transfer of market share in the Kingswood markets for   reproductive and sexual health care services; - Barriers to entry and expansion are relatively low into the relevant markets; - There are a number of alternative suppliers to MSI and GS Brodie providing reproductive and sexual health   care services in the Camperdown markets."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0252",
+  "title": "Canada Pension Plan Investment Board (CPPIB) - proposed acquisition of a 40% interest in Glencore Agriculture Limited (Glencore Agri)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/canada-pension-plan-investment-board-cppib-proposed-acquisition-of-a-40-interest-in-glencore-agriculture-limited-glencore-agri",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60454",
+  "industries": [
+    "Grain and farming"
+  ],
+  "date_completed": "22 September 2016",
+  "date_completed_iso": "2016-09-22T12:00:00Z",
+  "date_commenced": "5 August 2016",
+  "date_commenced_iso": "2016-08-05T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Canada Pension Plan Investment Board"
+  ],
+  "targets": [
+    "Glencore Agriculture Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Aug 2016",
+      "date_iso": "2016-08-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Aug 2016",
+      "date_iso": "2016-08-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "21 Sep 2016",
+      "date_iso": "2016-09-21T12:00:00Z",
+      "event": "Former proposed date of 29 September 2016 for announcement of ACCC's decision brought forward."
+    },
+    {
+      "date": "22 Sep 2016",
+      "date_iso": "2016-09-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CPPIB proposed to acquire a 40% interest in Glencore Agriculture. Separately the British Columbia Investment Management Corporation proposed to acquire a 9.99% interest in Glencore Agriculture.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisitions in the following state-based markets: -grain trading -supply of grain upcountry storage and handling services -supply grain rail haulage services -supply of grain port terminal services. However, the ACCC did not consider it necessary to form a concluded view on market definition as it considered that a substantial lessening of competition is unlikely for the reasons outlined below in the Competition Analysis. In particular, the ACCC acknowledges that the relevant geographic dimension may be narrower than the state-based markets considered.",
+    "Competition analysis": "Glencore Agriculture has a significant position in the grain supply chain in South Australia through its subsidiary, Viterra Pty Ltd (Viterra), and is a large grain trader in Australia. CPPIB and bcIMC have various interests in the grain supply chain, including interests of 33% and 12% respectively in Pacific National. Whilst Glencore Agriculture (through Viterra) has a significant position in the supply of services in the grain supply chain in South Australia, the ACCC considered that the proposed acquisitions would not give CPPIB and bcIMC the ability or incentive to influence Glencore Agriculture to discriminate against Pacific National's rivals. It would also not increase Glencore Agriculture's market power. The ACCC took into consideration that Pacific National does not provide grain rail haulage services in South Australia. The incumbent, Genesee & Wyoming, is the dominant provider of grain rail haulage in South Australia and owns most of the relevant rail network. The ACCC also considered whether CPPIB and bcIMC could use their influence over Pacific National, which is the main provider of grain rail haulage in NSW and Victoria, to foreclose Glencore Agriculture's rivals. However, the nature of minority interests involved and the market position of other grain logistics providers and traders, such as GrainCorp, make it unlikely that CPPIB and bcIMC would have the ability or the incentive to engage in such a strategy. The ACCC considered whether the cross-ownership interests would result in commercially sensitive information being shared between related entities to the detriment of competition. The ACCC considered that there are several constraints on the two proposed shareholders' abilities to share Glencore Agriculture's commercially sensitive information. Further, Glencore plc will retain majority ownership of Glencore Agriculture and has a commercial incentive to prevent such disclosure."
+  }
+}

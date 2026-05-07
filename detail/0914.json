@@ -1,0 +1,53 @@
+{
+  "id": "0914",
+  "title": "Qantas Freight Enterprises - proposed acquisition of Jets Transport Express Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qantas-freight-enterprises-proposed-acquisition-of-jets-transport-express-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31861",
+  "industries": [
+    "Freight"
+  ],
+  "date_completed": "23 May 2008",
+  "date_completed_iso": "2008-05-23T12:00:00Z",
+  "date_commenced": "29 April 2008",
+  "date_commenced_iso": "2008-04-29T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Qantas Freight Enterprises"
+  ],
+  "targets": [
+    "Jets Transport Express Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Apr 2008",
+      "date_iso": "2008-04-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 May 2008",
+      "date_iso": "2008-05-01T12:00:00Z",
+      "event": "ACCC requested further information from Qantas. ACCC timeline suspended."
+    },
+    {
+      "date": "9 May 2008",
+      "date_iso": "2008-05-09T12:00:00Z",
+      "event": "ACCC received further information from Qantas. ACCC timeline recommenced."
+    },
+    {
+      "date": "14 May 2008",
+      "date_iso": "2008-05-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 May 2008",
+      "date_iso": "2008-05-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For the purposes of this competition assessment, the ACCC considered the proposed acquisition in the context of: - the national market for the supply of road haul services for air freight; and - the national markets for the supply of domestic and international air haul services for air freight.",
+    "Competition analysis": "The ACCC considered the proposed acquisition unlikely to substantially lessen competition in the relevant markets due to: - there being no overlap between the merger parties in the relevant markets; and - the existence of viable alternatives to the merged firm in road haul services for air freight which would be available to freight forwarders and other airlines."
+  }
+}

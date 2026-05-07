@@ -1,0 +1,59 @@
+{
+  "id": "0033",
+  "title": "Vocus Group Limited - TPG Telecom Limited's enterprise, government and wholesale business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/vocus-group-limited-tpg-telecom-limiteds-enterprise-government-and-wholesale-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "20 March 2025",
+  "date_completed_iso": "2025-03-20T12:00:00Z",
+  "date_commenced": "18 November 2024",
+  "date_commenced_iso": "2024-11-18T12:00:00Z",
+  "total_review_days": 66,
+  "acquirers": [
+    "Vocus Group Limited"
+  ],
+  "targets": [
+    "TPG's fixed line business, enterprise, government, and wholesale customer base and TPG's fibre and transmission network"
+  ],
+  "timeline": [
+    {
+      "date": "18 Nov 2024",
+      "date_iso": "2024-11-18T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Dec 2024",
+      "date_iso": "2024-12-02T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "24 Jan 2025",
+      "date_iso": "2025-01-24T12:00:00Z",
+      "event": "ACCC requested further information from Vocus and TPG. Former provisional date for announcement of findings (13 February) delayed."
+    },
+    {
+      "date": "13 Feb 2025",
+      "date_iso": "2025-02-13T12:00:00Z",
+      "event": "Provisional date for announcement of ACCC’s findings (as outlined in the Informal Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues)."
+    },
+    {
+      "date": "21 Feb 2025",
+      "date_iso": "2025-02-21T12:00:00Z",
+      "event": "ACCC received further information from Vocus and TPG. Timeline recommenced."
+    },
+    {
+      "date": "20 Mar 2025",
+      "date_iso": "2025-03-20T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (27 March 2025) brought forward to 20 March 2025. ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vocus is proposing to acquire TPG’s fixed line business, enterprise, government, and wholesale customer base as well as its fibre and transmission networks (the Proposed Acquisition). Vocus is an Australian telecommunications company which supplies fibre and network services to government, enterprise and wholesale customers, communications and technology services to small and medium sized businesses, and retail telecommunications services to consumers. It trades under the brands Vocus, Nextgen Networks, Amcom Telecommunications, Challenge Networks, Commander, iPrimus and Dodo. Vocus owns a fibre network, which includes domestic inter-capital transmission and metropolitan fibre infrastructure serving business premises. TPG is an ASX-listed telecommunications company which supplies fixed broadband services to consumers, small and medium sized businesses and enterprise, and government customers. It also supplies wholesale telecommunication services. The assets that Vocus is proposing to acquire from TPG include the following: network assets : TPG’s fibre network, including metropolitan, domestic, inter-capital and international subsea cable systems, and data centres that are primarily used for business, enterprise, government, wholesale and SME. Vision Network : a wholly-owned subsidiary of TPG, Vision Network is a fixed line broadband network that provides residential broadband access services in selected areas of Sydney, Canberra, Perth, Adelaide, Brisbane, Melbourne, as well as Geelong, Ballarat and Mildura. wholesale, government and enterprise products and services : TPG provides fixed line fibre and fixed line network services to wholesale, enterprise and government customers under the TPG Telecom and AAPT brands. TPG also operates a mobile network, however, this is excluded from the Proposed Acquisition. TPG’s consumer, business, enterprise, government, and wholesale mobile customers as well as its consumer and “small office home office” retail fixed line customers and business will also be excluded from the Proposed Acquisition.",
+    "Market definition": "The ACCC considered the effect of the Proposed Acquisition on competition in markets for: the supply of data networks and connectivity services, including fixed line telecommunication services in Australia the supply of fixed line voice services in Australia the supply of data centre, cloud and security services in Australia the supply of NBN wholesale aggregation services in Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of each market.",
+    "Competition analysis": "The ACCC concluded that the Proposed Acquisition is not likely to substantially lessen competition in any relevant market in Australia. The ACCC’s review focused on how closely Vocus and TPG compete in the supply of data network and connectivity services (including fixed-line internet services) to large enterprise and government customers and the competitive alternative providers. The ACCC found that post-acquisition, Vocus would continue to face strong competition from multiple suppliers for both larger enterprise and government customers and small and medium enterprise customers in the supply of data network and connectivity services. The introduction of NBN Co’s wholesale Enterprise Ethernet product in 2018 has significantly reduced barriers to entry and expansion to supplying large customers and has enabled providers with either none, or a small fibre footprint to now compete for larger customers. The ACCC also considered the impact of the Proposed Acquisition on the supply of fixed line voice services and data centre, cloud and security services in Australia. Traditional fixed line voice services are in decline due to the increased adoption of newer technologies, whereas the demand for data centre, cloud and security services is rapidly expanding. In both markets, Vocus would continue to be constrained by a number of other suppliers, post acquisition. NBN wholesale aggregation services enable smaller retailers to access the entire NBN network by bundling NBN wholesale access services with transmission and internet interconnection services instead of requiring direct connections to the NBN. While Vocus and TPG are currently two of the largest suppliers of NBN wholesale aggregation services, post-acquisition, the ACCC found that Vocus would continue to face competition in the supply of these services from Telstra, Superloop, Aussie Broadband and a number of other suppliers."
+  }
+}

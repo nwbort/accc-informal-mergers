@@ -1,0 +1,54 @@
+{
+  "id": "0498",
+  "title": "Bennamon Pty Ltd - proposed acquisition of shares in Pro-Pac Packaging Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bennamon-pty-ltd-proposed-acquisition-of-shares-in-pro-pac-packaging-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46350",
+  "industries": [
+    "Rigid packaging products"
+  ],
+  "date_completed": "23 August 2011",
+  "date_completed_iso": "2011-08-23T12:00:00Z",
+  "date_commenced": "7 July 2011",
+  "date_commenced_iso": "2011-07-07T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Bennamon Pty Ltd"
+  ],
+  "targets": [
+    "Pro-Pac Packaging Limited"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jul 2011",
+      "date_iso": "2011-07-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jul 2011",
+      "date_iso": "2011-07-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Jul 2011",
+      "date_iso": "2011-07-28T12:00:00Z",
+      "event": "ACCC requested further information from the parties to the proposed acquisition. ACCC timeline suspended pending receipt of the requested information."
+    },
+    {
+      "date": "4 Aug 2011",
+      "date_iso": "2011-08-04T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Aug 2011",
+      "date_iso": "2011-08-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bennamon Pty Ltd (Bennamon), a related body corporate of Pact Group Pty Ltd (Pact Group), proposed to acquire an additional 30.17% shareholding in Pro-Pac Packaging Limited (Pro-Pac). Bennamon held an existing interest in Pro-Pac, an 18.1% shareholding.",
+    "Market definition": "The parties overlap in relation to the manufacture and supply of the following products: - non-beverage rigid plastic containers, less than 10 litres in size; - small plastic industrial containers, between 10 litres and 25 litres in size; - plastic cartridges; - plastic closures. The ACCC did not consider it necessary to form a definitive view on the geographic scope of the markets. As Pro-Pac is a manufacturer and distributor of plastic packaging products, the ACCC also considered the vertical effects of the proposed acquisition - in particular, the potential for foreclosure which may occur with respect to: (i) manufacturing competitors of Pact Group which rely upon Pro-Pac to distribute their products; and (ii) third party distributors which rely upon Pact Group for the supply of packaging products for their distribution operations.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any market. Factors informing this conclusion included: - Pro-Pac's limited manufacturing presence in each relevant market; - the existence of a number of alternative manufacturers which would compete with Pact Group and Pro-Pac in each relevant market post-acquisition; - although barriers to entry are high, barriers to expansion for existing manufacturers appear to be comparatively low; - the availability of imported plastic cartridges and plastic closures. The ACCC concluded that Pact Group is unlikely to have the ability or incentive to foreclose its manufacturing rivals or Pro-Pac's distribution rivals due to: - the existence of a number of alternative distributors available to supply the plastic packaging products of competing manufacturers; - the existence of a number of alternative plastic packaging manufacturers from which packaging distributors are able to source products."
+  }
+}

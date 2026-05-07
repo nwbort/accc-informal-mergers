@@ -1,0 +1,40 @@
+{
+  "id": "0747",
+  "title": "Futuris Automotive Interiors Pty Ltd - proposed acquisition of Kennon (a subsidiary of Nylex Limited)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/futuris-automotive-interiors-pty-ltd-proposed-acquisition-of-kennon-a-subsidiary-of-nylex-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37754",
+  "industries": [
+    "Automotive interior manufacturing"
+  ],
+  "date_completed": "18 June 2009",
+  "date_completed_iso": "2009-06-18T12:00:00Z",
+  "date_commenced": "3 June 2009",
+  "date_commenced_iso": "2009-06-03T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Futuris Automotive Interiors Pty Ltd"
+  ],
+  "targets": [
+    "Kennon (a subsidiary of Nylex Limited)"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jun 2009",
+      "date_iso": "2009-06-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jun 2009",
+      "date_iso": "2009-06-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jun 2009",
+      "date_iso": "2009-06-18T12:00:00Z",
+      "event": "ACCC concluded its review of the proposed acquisition in light of another party executing a sale of business agreement for the purchase of Kennon."
+    }
+  ],
+  "body_sections": {}
+}

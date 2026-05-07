@@ -1,0 +1,44 @@
+{
+  "id": "0996",
+  "title": "Westpac Banking Corporation - proposed acquisition of RAMS Home Loans Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/westpac-banking-corporation-proposed-acquisition-of-rams-home-loans-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29826",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "19 November 2007",
+  "date_completed_iso": "2007-11-19T12:00:00Z",
+  "date_commenced": "24 October 2007",
+  "date_commenced_iso": "2007-10-24T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Westpac Banking Corporation"
+  ],
+  "targets": [
+    "RAMS Home Loans Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "24 Oct 2007",
+      "date_iso": "2007-10-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Nov 2007",
+      "date_iso": "2007-11-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Nov 2007",
+      "date_iso": "2007-11-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Westpac Banking Corporation proposed to acquire the brand and franchise assets of RAMS Home Loans Pty Limited",
+    "Market definition": "The ACCC considered that the relevant market is the national market for the provision of home loans.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the national market for the provision of home loans. Factors which led to this conclusion include: - the market concentration of the merged entity would not be sufficient to raise competition concerns, as RAMS Home Loans Pty Limited (RAMS) represented a small proportion of the national market for the supply of home loans, and the post-proposed acquisition increase in Westpac Banking Corporation's (Westpac) market share would be marginal; - there were sufficient alternative suppliers of home loan products, including Commonwealth Bank of Australia, Australia and New Zealand Banking Group Limited and National Australia Bank, all of which would continue to constrain Westpac should the proposed acquisition proceed; and - barriers to entry into the home loan market for established non-bank deposit taking institutions and established foreign banks may have been low."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0814",
+  "title": "Macquarie Media Group - proposed acquisition of an interest in Mildura Digital Television Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macquarie-media-group-proposed-acquisition-of-an-interest-in-mildura-digital-television-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36048",
+  "industries": [
+    "Media, television, advertising"
+  ],
+  "date_completed": "20 January 2009",
+  "date_completed_iso": "2009-01-20T12:00:00Z",
+  "date_commenced": "23 December 2008",
+  "date_commenced_iso": "2008-12-23T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Macquarie Media Group"
+  ],
+  "targets": [
+    "Mildura Digital Television Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Dec 2008",
+      "date_iso": "2008-12-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jan 2009",
+      "date_iso": "2009-01-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Jan 2009",
+      "date_iso": "2009-01-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 23 December 2008, MMG advised that it will acquire 50% of Mildura Digital Television Pty Ltd from Prime Television (Victoria) Pty Ltd. Following the transaction, Mildura Digital TV will be owned 50% by MMG (via Regional Television Pty Ltd) and 50% by WIN (via WIN Television Mildura Pty Ltd). As part of this transaction, MMG will sell its 50% interest in Darwin Digital Television Pty Ltd (Darwin Digital TV) to Prime.",
+    "Market definition": "Consistent with previous ACCC reviews of acquisitions in the media industry, the relevant markets are: - The supply of advertising opportunities to advertisers; - The supply of content to consumers; - The acquisition of content from content providers. The ACCC considers the appropriate geographic scope in which to consider the competitive effects of the proposed acquisition is the Mildura/Sunraysia TV1 licence area.",
+    "Competition analysis": "The ACCC considered that the acquisition of a 50% interest in Mildura Digital Television Pty Ltd was unlikely to give rise to a substantial lessening of competition in the relevant market as MMG does not currently have any television licence or any television interests in  Mildura/Sunraysia TV1 licence area. However, MMG has two radio licences in the Mildura RA1 licence area, 99.5 Star FM and 97.9 3MA FM. The ACCC does not consider that competition issues are likely to arise as a result of the proposed acquisition. This is because radio and digital television are unlikely to be close substitutes for advertising customers in Mildura. However, for those advertisers that do consider radio and digital television substitutable, alternative television broadcasters  and radio broadcasters exist in Mildura. The ACCC considers that these alternative television and radio broadcasters will provide an effective constraint on MMG post-acquisition in the relevant markets."
+  }
+}

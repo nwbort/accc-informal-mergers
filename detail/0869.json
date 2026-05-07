@@ -1,0 +1,54 @@
+{
+  "id": "0869",
+  "title": "QBE Insurance (Australia) Limited - acquisition of Sanderson Insurance Brokers Pty Ld and Underwriting Agencies of Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qbe-insurance-australia-limited-acquisition-of-sanderson-insurance-brokers-pty-ld-and-underwriting-agencies-of-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32096",
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "8 September 2008",
+  "date_completed_iso": "2008-09-08T12:00:00Z",
+  "date_commenced": "25 August 2008",
+  "date_commenced_iso": "2008-08-25T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "QBE Insurance (Australia) Limited"
+  ],
+  "targets": [
+    "Underwriting Agencies of Australia Pty Ltd<br/> Sanderson Insurance Brokers Pty Ld"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jul 2008",
+      "date_iso": "2008-07-01T12:00:00Z",
+      "event": "The acquisition was completed."
+    },
+    {
+      "date": "22 Aug 2008",
+      "date_iso": "2008-08-22T12:00:00Z",
+      "event": "ACCC became aware that the acquisition had been completed."
+    },
+    {
+      "date": "25 Aug 2008",
+      "date_iso": "2008-08-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "2 Sep 2008",
+      "date_iso": "2008-09-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Sep 2008",
+      "date_iso": "2008-09-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "QBE Insurance (Australia) Ltd acquired Sanderson Insurance Brokers Pty Ltd and Underwriting Agencies of Australia Pty Ltd.",
+    "Market definition": "The ACCC considered the relevant markets to be: - the market for insurance broking and underwriting of general and commercial insurance products; and - the market for general and commercial insurance.",
+    "Competition analysis": "The ACCC considered it unlikely that the increased vertical integration of the merged firm, resulting from the acquisition, would give it an increased ability and incentive to foreclose competition: - in the market for insurance broking and underwriting of general and commercial insurance products because there are a range of other distributors of contractors plant insurance in Australia that rival insurers could switch to in the event the merged firm's distribution arm sought to raise prices or restrict access to it; and - in the market for general and commercial insurance because there would be a range of other major Australian and overseas insurers that rival distributors could turn to if the merged firm sought to raise prices or restrict access to it. Accordingly, the ACCC considered the acquisition was unlikely to result in a substantial lessening of competition."
+  }
+}

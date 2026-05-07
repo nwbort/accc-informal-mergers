@@ -1,0 +1,31 @@
+{
+  "id": "1605",
+  "title": "Acquirer: AVIS Rent A Car System; Target: Budget Car Rental",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-avis-rent-a-car-system-target-budget-car-rental",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16522",
+  "industries": [],
+  "date_completed": "17 October 2002",
+  "date_completed_iso": "2002-10-17T12:00:00Z",
+  "date_commenced": "22 August 2002",
+  "date_commenced_iso": "2002-08-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "AVIS Rent A Car System"
+  ],
+  "targets": [
+    "Budget Car Rental"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of Budget Car Rental by Cendant Corporation, parent company of Avis Rent A Car",
+    "Market definition": "Car rental services",
+    "Competition analysis": "The Commission concluded that, having regard to market conditions, the continuing presence of strong competitors and the opportunity for new entry, it did not consider the transaction would result in a substantial lessening of competition for car rental services.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Other",
+    "ANZSIC code": "7741"
+  }
+}

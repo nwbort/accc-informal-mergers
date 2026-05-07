@@ -1,0 +1,31 @@
+{
+  "id": "1529",
+  "title": "Acquirer: Scallop Credit Union Co-operative Limited; Target: Advance Credit Union Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-scallop-credit-union-co-operative-limited-target-advance-credit-union-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18208",
+  "industries": [],
+  "date_completed": "19 August 2003",
+  "date_completed_iso": "2003-08-19T12:00:00Z",
+  "date_commenced": "13 August 2003",
+  "date_commenced_iso": "2003-08-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Scallop Credit Union Co-operative Limited"
+  ],
+  "targets": [
+    "Advance Credit Union Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 6 August 2003, the Australian Prudential Regulation Authority informed the Commission of the transfer of business of the Scallop Credit Union Co-operative Limited to Advance Credit Union Limited.",
+    "Market definition": "Credit unions offer a broad range of financial services similar to that offered by banks and building societies. The relevant market is considered to be the market for the provision of financial services in Victoria",
+    "Competition analysis": "The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

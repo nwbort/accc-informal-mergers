@@ -1,0 +1,37 @@
+{
+  "id": "0234",
+  "title": "Menulog Pty Ltd - completed merger with Eat Now Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/menulog-pty-ltd-completed-merger-with-eat-now-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58508",
+  "industries": [
+    "Online services for ordering meals"
+  ],
+  "date_completed": "18 April 2017",
+  "date_completed_iso": "2017-04-18T12:00:00Z",
+  "date_commenced": "5 April 2016",
+  "date_commenced_iso": "2016-04-05T12:00:00Z",
+  "total_review_days": 257,
+  "acquirers": [
+    "Menulog Group Ltd"
+  ],
+  "targets": [
+    "Menulog Pty Ltd and Eat Now Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Apr 2016",
+      "date_iso": "2016-04-05T12:00:00Z",
+      "event": "ACCC commenced investigation. As this acquisition has already been completed, no expected decision date for the ACCC's review will be posted."
+    },
+    {
+      "date": "19 Apr 2017",
+      "date_iso": "2017-04-19T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC will however continue to monitor the effect of the acquisition on competition in the relevant market."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In January 2015, Menulog Pty Ltd (\"Menulog\") merged with Eat Now Services Pty Ltd (\"Eat Now\"). Menulog and Eat Now supplied online services to restaurants and consumers to facilitate the placement of orders, receipt of payments and provision of takeaway and/or delivered food throughout Australia."
+  }
+}

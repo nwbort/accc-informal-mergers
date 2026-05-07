@@ -1,0 +1,49 @@
+{
+  "id": "0045",
+  "title": "Australian Wine HoldCo Limited - Pernod Ricard Winemakers Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-wine-holdco-limited-pernod-ricard-winemakers-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Wines"
+  ],
+  "date_completed": "25 October 2024",
+  "date_completed_iso": "2024-10-25T12:00:00Z",
+  "date_commenced": "3 September 2024",
+  "date_commenced_iso": "2024-09-03T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Australian Wine HoldCo Limited"
+  ],
+  "targets": [
+    "Pernod Ricard Winemakers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Sep 2024",
+      "date_iso": "2024-09-04T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Sep 2024",
+      "date_iso": "2024-09-18T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "23 Oct 2024",
+      "date_iso": "2024-10-23T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (28 November 2024) brought forward."
+    },
+    {
+      "date": "25 Oct 2024",
+      "date_iso": "2024-10-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australian Wine HoldCo Limited, through its subsidiary Accolade Wines Australia Limited (Accolade), is seeking to acquire the Australian wine businesses of Pernod Ricard SA, which is currently operated by Pernod Ricard Winemakers Pty Ltd (PRW). Australian Wine Holdco Limited is owned by a consortium of institutional investors, led by Bain Capital Special Situations. Accolade owns wine brands including Berri Estates, Grant Burge, Petaluma, Hardys and St Hallett. Pernod Ricard is an international wine and spirits producer and wholesaler that owns wine brands through its subsidiaries, including PRW in Australia. The acquisition relates to PRW’s BrandCo division, which owns and manages a portfolio of PRW’s Australian, New Zealand and Spanish wines including Campo Viejo, St Hugo, Church Road, Stoneleigh, and Jacob’s Creek.",
+    "Market definition": "The ACCC primarily considered the impact of the proposed acquisition in the markets for the: acquisition of wine grapes from third parties in certain Australian regions, supply of wine processing and packaging services in South Australia, and supply of wine at a wholesale level in Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definitions of each market. However, the ACCC’s investigation focused on the regions in which both parties have historically acquired grapes in South Australia. This included warm climate regions such as the Riverland, Murray Valley, and Riverina as well as cool climate regions such as the Adelaide Hills, Barossa Valley, and Langhorne Creek.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Wine grape acquisition Information and feedback obtained in market inquiries confirmed particular conditions, unrelated to the proposed acquisition, which currently impact the acquisition of wine grapes including grape oversupply and reduced consumer demand for wine. The ACCC found that the acquisition was unlikely to substantially lessen competition in wine grape acquisition. In particular, the ACCC considered that the merged entity would be constrained by the presence of other purchasers in the market. Wine processing and packaging services The ACCC found there are multiple suppliers offering substitutable services in markets for wine processing and packaging services in South Australia, and in the regions where the parties operate their processing and packaging facilities. Feedback generally indicated these services are homogeneous, and customers can switch suppliers with relative ease. As a result, the ACCC concluded that the merged entity would continue to be constrained by competing suppliers if the acquisition were to proceed. The ACCC also considered whether the acquisition gives rise to vertical issues, including whether the merged entity could disadvantage rival winemakers’ access to wine processing and packaging services. We concluded that the merged entity is unlikely to have the incentive to engage in this conduct, due to excess capacity in the market, and even if it were to occur it was unlikely to substantially lessen competition in the wholesale supply of wine. Wholesale supply of wine The ACCC found that there are a number of competing winemakers offering substitutable products in the relevant segments of the wholesale wine market. The ACCC considers that the merged entity would also be constrained by the countervailing power that can be exercised by larger, vertically integrated wine retailers."
+  }
+}

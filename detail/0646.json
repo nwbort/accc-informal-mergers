@@ -1,0 +1,45 @@
+{
+  "id": "0646",
+  "title": "Shell Energy Holdings Australia Limited and PetroChina International Investment Company Limited - proposed acquisition of Arrow Energy Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/shell-energy-holdings-australia-limited-and-petrochina-international-investment-company-limited-proposed-acquisition-of-arrow-energy-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41090",
+  "industries": [
+    "Coal seam gas and LNG"
+  ],
+  "date_completed": "13 April 2010",
+  "date_completed_iso": "2010-04-13T12:00:00Z",
+  "date_commenced": "10 March 2010",
+  "date_commenced_iso": "2010-03-10T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Shell Energy Holdings Australia Limited",
+    "PetroChina International Investment Company Limited"
+  ],
+  "targets": [
+    "Arrow Energy Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Mar 2010",
+      "date_iso": "2010-03-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Mar 2010",
+      "date_iso": "2010-03-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Apr 2010",
+      "date_iso": "2010-04-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Shell Energy Holdings Australia Limited and PetroChina International Investment Company Limited proposed to acquire Arrow Energy Limited by way of a 50:50 joint venture company. Shell Exploration Company B.V. held a 30% interest in Arrow's Australian coal seam gas tenements and a 10% interest in Arrow's international assets. Arrow's international assets (and certain domestic assets) were excluded from the proposed acquisition.",
+    "Market definition": "The ACCC did not consider it necessary to form a definitive view in relation to market definition in this review, since competition concerns were unlikely to arise irrespective of the market definition adopted. For the purpose of its assessment, the ACCC considered the proposed acquisition in the context of the following markets: - the southern Queensland market for the wholesale supply of natural gas; and - the northern Queensland market for the wholesale supply of natural gas.",
+    "Competition analysis": "The ACCC noted that in the absence of the proposed acquisition: - Shell's only natural gas interests in Queensland would consist of its 30% interest in Arrow's tenements; and - Arrow's future gas supply was likely to be predominantly directed toward export LNG projects and its own downstream energy interests, rather than supply to domestic gas customers. In light of the above and taking into account the significant competing gas suppliers and abundant gas reserves that would remain post-acquisition, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market."
+  }
+}

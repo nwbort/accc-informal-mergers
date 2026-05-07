@@ -1,0 +1,59 @@
+{
+  "id": "1004",
+  "title": "Transpacific Industries Group Ltd - acquisition of CBD Enviro Services",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-cbd-enviro-services",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30026",
+  "industries": [
+    "Solid waste collection and recycling"
+  ],
+  "date_completed": "8 November 2007",
+  "date_completed_iso": "2007-11-08T12:00:00Z",
+  "date_commenced": "23 October 2007",
+  "date_commenced_iso": "2007-10-23T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "CBD Enviro Services"
+  ],
+  "timeline": [
+    {
+      "date": "2 Oct 2007",
+      "date_iso": "2007-10-02T12:00:00Z",
+      "event": "Transpacific acquired the business and assets of CBD Enviro Services."
+    },
+    {
+      "date": "23 Oct 2007",
+      "date_iso": "2007-10-23T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "29 Oct 2007",
+      "date_iso": "2007-10-29T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. ACCC timeline suspended."
+    },
+    {
+      "date": "6 Nov 2007",
+      "date_iso": "2007-11-06T12:00:00Z",
+      "event": "ACCC received further information from TPI. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Nov 2007",
+      "date_iso": "2007-11-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Nov 2007",
+      "date_iso": "2007-11-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific acquired the business and assets of CBD Enviro Services.",
+    "Market definition": "Supply of solid waste collection services and waste recycling services in the Sydney metropolitan area.",
+    "Competition analysis": "On 8 November 2007, the ACCC announced its decision not to oppose the acquisition by Transpacific of CBD Enviro Services. The ACCC considered the information provided by Transpacific and other information available to it. Based on that information, the ACCC considered that the acquisition of CBD Enviro Services was unlikely to remove a significant source of competitive constraint in the relevant markets. A key factor in reaching this view was the fact that (in relation to the relevant markets) there are a number of alternative competitive providers which will remain available to customers."
+  }
+}

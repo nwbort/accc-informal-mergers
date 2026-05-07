@@ -1,0 +1,29 @@
+{
+  "id": "1445",
+  "title": "Acquirer: Orica Australia Pty Ltd; Target: Huntsman Chemical Company Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-orica-australia-pty-ltd-target-huntsman-chemical-company-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20493",
+  "industries": [],
+  "date_completed": "9 November 2004",
+  "date_completed_iso": "2004-11-09T12:00:00Z",
+  "date_commenced": "7 October 2004",
+  "date_commenced_iso": "2004-10-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Orica Australia Pty Ltd"
+  ],
+  "targets": [
+    "Huntsman Chemical Company Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Orica Australia Limited seeks to acquire the phenolic resins buisness of Huntsman Chemical Company Pty Ltd",
+    "Market definition": "The national market for formaldehyde based resins.",
+    "Competition analysis": "The ACCC decided not to oppose the Orica's acquisition of Huntsman on the grounds that: * Huntsman only supplies phenolic resins (as opposed to amino resins) which constitute less than 10% of the formaldehyde based resins market; * Borden and Orica will remain strong competitors in the supply of amino and phenolic resins, and Woodchem and Dynea will also remain competitors in the supply of amino resins; and * Bariers to entry do not appear to be high in the industry, as evidenced by the successful entry of Woodchem in 2000.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "ANZSIC code": "2533"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1221",
+  "title": "Alinta Ltd - proposed acquisition of Allgas Natural Gas Distribution Networks",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alinta-ltd-proposed-acquisition-of-allgas-natural-gas-distribution-networks",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25263",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "19 September 2006",
+  "date_completed_iso": "2006-09-19T12:00:00Z",
+  "date_commenced": "1 September 2006",
+  "date_commenced_iso": "2006-09-01T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Alinta Ltd"
+  ],
+  "targets": [
+    "Allgas Natural Gas Distribution Networks"
+  ],
+  "timeline": [
+    {
+      "date": "1 Sep 2006",
+      "date_iso": "2006-09-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "11 Sep 2006",
+      "date_iso": "2006-09-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "19 Sep 2006",
+      "date_iso": "2006-09-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Alinta was a national energy company with interests in natural gas pipeline ownership and management.  It also had interests in natural gas and electricity retailing in Western Australia.  Following the proposed merger between Alinta and AGL, it was possible that Alinta would have had an interest in the Roma to Brisbane Pipeline (RBP), which was owned by Australian pipeline Trust. Allgas owned a number of natural gas distribution networks south of the Brisbane River in Queensland.",
+    "Market definition": "The overlap between the two parties' operations was limited to the wholesale supply of gas into south east Queensland, and this was determined to be the relevant market in this instance.",
+    "Competition analysis": "The ACCC considered that, even if Alinta acquired an interest in the RBP, competition concerns were unlikely to arise from the vertical integration between the RBP and the Allgas networks because the RBP, and all except one of the Allgas networks, was regulated by the Gas Code, restricting Alinta's ability to discriminate against gas shippers in the RBP or the Allgas networks.  Further, as Alinta had no downstream interests in shipping gas in the RBP and given the lack of significant competition between the Allgas and Envestra distribution networks, Alinta was also deemed unlikely to have had the incentive to engage in such discrimination. Regarding the one uncovered Allgas pipeline, this serviced one large customer in Moura, and the acquisition of this pipeline was determined to be merely a transfer of monopoly power unlikely to give rise to competition concerns."
+  }
+}

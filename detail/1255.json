@@ -1,0 +1,38 @@
+{
+  "id": "1255",
+  "title": "Rentokil Initial - acquisition of the hygiene and washroom services business of SGS Australia Pty Ltd - Pink Healthcare",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/rentokil-initial-acquisition-of-the-hygiene-and-washroom-services-business-of-sgs-australia-pty-ltd-pink-healthcare",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24237",
+  "industries": [
+    "washroom and hygiene services"
+  ],
+  "date_completed": "25 July 2006",
+  "date_completed_iso": "2006-07-25T12:00:00Z",
+  "date_commenced": "3 July 2006",
+  "date_commenced_iso": "2006-07-03T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Rentokil Initial"
+  ],
+  "targets": [
+    "SGS Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "ACCC commenced review under merger review process guidelines"
+    },
+    {
+      "date": "25 Jul 2006",
+      "date_iso": "2006-07-25T12:00:00Z",
+      "event": "ACCC announced its decision to not oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the impact of the acquisition in regional markets for washroom and hygiene services.",
+    "Competition analysis": "The ACCC considered that the acquisition would be unlikely to substantially lessen competition on the basis of low barriers to entry, the ability of customers to switch service providers combined with the existence of other service providers in the relevant markets."
+  }
+}

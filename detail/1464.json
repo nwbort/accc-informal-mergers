@@ -1,0 +1,30 @@
+{
+  "id": "1464",
+  "title": "Acquirer: Titan Europe plc; Target: Andys Engineers Mildura Pty Limited, Andiline Distributors Victoria Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-titan-europe-plc-target-andys-engineers-mildura-pty-limited-andiline-distributors-victoria-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19525",
+  "industries": [],
+  "date_completed": "31 August 2004",
+  "date_completed_iso": "2004-08-31T12:00:00Z",
+  "date_commenced": "10 May 2004",
+  "date_commenced_iso": "2004-05-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Titan Europe plc"
+  ],
+  "targets": [
+    "Andys Engineers Mildura Pty Limited, Andiline Distributors Victoria Pty Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 31 August 2004, the ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the markets for industrial wheels, agricultural wheels, earthmover & construction wheels, truck wheels and wheel accessories and components.",
+    "Market definition": "The relevant markets were considered to be the national markets for the supply of: * industrial wheels; * agricultural wheels; * earthmover/construction wheels; * truck wheels; and * accessories and components.",
+    "Competition analysis": "Market shares did not exceed the ACCC?s thresholds in the markets for industrial wheels, earthmover & construction wheels, truck wheels and wheel accessories and components. In the agricultural wheels market, the ACCC?s market concentration thresholds may have been exceeded. However, the ACCC found that there were sufficient competitive constraints in the form of new entry, the threat of entry and the potential for imports to prevent the merged entity from increasing prices.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties"
+  }
+}

@@ -1,0 +1,654 @@
+ 
+Public Competition Assessment 
+21 April 2010 
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+ 
+Introduction 
+1. 
+On 24 March 2010, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision to oppose the proposed acquisition of Newreg 
+Pty Limited (Newreg) by Link Market Services Limited (Link) (proposed 
+acquisition). The ACCC was of the view that the acquisition by Link of 
+Newreg’s wholly owned subsidiary Registries Limited (Registries) would be 
+likely to have the effect of substantially lessening competition in the national 
+market for the provision of securities registration and related services to publicly 
+listed companies and entities with similar requirements in contravention of 
+section 50 of the Trade Practices Act 1974 (the Act). 
+2. 
+The ACCC formed its view on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+ 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition was opposed by the ACCC.   
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets and 
+the associated merger and competition issues. It also alerts the public to 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+circumstances where developments in particular markets have led, or are likely to 
+lead, to changes in the ACCC’s assessment of competition conditions in those 
+markets.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own merits.  
+7. 
+Many of the ACCC’s decisions will involve consideration of both non-
+confidential and confidential information provided by the merger parties and 
+market participants. In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources. While the ACCC aims to provide an appropriately 
+detailed explanation of the basis for the ACCC decision, where this is not 
+possible, maintaining confidentiality will be the ACCC’s paramount concern, and 
+accordingly a Public Competition Assessment may not definitively explain all 
+issues and the ACCC’s analysis of such issues. 
+The parties 
+The acquirer – Link Market Services 
+8. 
+Link is a member of the Link Group, a private company based in Australia which 
+provides superannuation administration and assists companies with investor 
+relations, employee share plans and company secretarial services. Link Group is 
+owned indirectly by a private equity investment fund managed by Pacific Equity 
+Partners Limited and Intermediate Capital Group. 
+9. 
+Link provides companies and trusts with a range of registry services such as: 
+ registry management (including payment of dividends, annual general 
+meeting services, reporting and shareholder enquiry management); 
+ capital raisings and other corporate actions (such as buy-backs, share sale 
+facilities, rights issues, share purchase plans, demergers, demutualisations and 
+takeover offers); 
+ employee share and option plan services; and  
+ specialist services (such as unlisted unit registry management and quantitative 
+analysis). 
+ 
+10. 
+Link operates in Australia, New Zealand, South Africa, India and Papua New 
+Guinea. 
+The target – Newreg Pty Ltd 
+11. 
+Newreg is a company owned by four separate shareholders: ADBO Group Pty 
+Limited (33.33%), Boardroom Limited (33.33%), Austock Limited (16.67%) and 
+Solanum Pte Ltd (16.67%). 
+2 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+12. 
+Newreg was incorporated in April 2007 for the sole purpose of acquiring a 100% 
+interest in Registries. Registries is a share registry provider which competes with 
+Link. 
+13. 
+Registries provides companies and trusts with a range of registry services such as: 
+ share register analytics;  
+ proxy solicitation services (scheme meetings, mergers and acquisitions, 
+capital raisings); 
+ management of employee option and share plans; 
+ managing investor relations, communications and intelligence; and 
+ online solutions to meet the shareholder voting and reporting requirements of 
+its customers under the Corporations Act 2001. 
+ 
+14. 
+Registries’s customers include over 260 companies listed on the Australian 
+Securities Exchange (ASX) and National Stock Exchange (NSX), including 
+Metcash, Aristocrat Leisure, Seven Network, Harvey Norman and Ramsay 
+Health Care. 
+Other industry participants 
+Computershare 
+15. 
+Computershare Limited (Computershare) was originally founded in Melbourne 
+in 1978. In 1994, Computershare was listed on the ASX as a small technology 
+company. In its early stages, Computershare developed a securities registration 
+system, known as SCRIP, which was used by three of the four major accounting 
+firms in Australia – KPMG, Ernst & Young, and PricewaterhouseCoopers. 
+16. 
+Computershare has grown through several acquisitions to become the world’s 
+largest global player in the provision of securities registry services. The company 
+vertically integrated in late 1997 by acquiring the KPMG and Ernst & Young 
+registry businesses (i.e. Computershare went from providing the underlying 
+information technology (IT) system to the accounting firms, to providing registry 
+services itself) and also acquired BT Registries in 2001.  
+17. 
+Computershare provides customers with a range of different services, including:  
+ registry and stakeholder servicing (such as registry management and 
+stakeholder relationship management); 
+ corporate actions; 
+ meeting services; 
+ employee plan solutions; 
+ fund services; and 
+ communication services. 
+3 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+ 
+Security Transfer 
+18. 
+Security Transfer Registrars Pty Limited (Security Transfer) is a Perth-based 
+company established in 1983. It delivers professional share registry services to 
+listed and unlisted entities in Australia and, to a lesser extent, overseas. It 
+maintains security registers for publicly listed and unlisted companies, and 
+provides services including transferring ownership of securities, issuing holder 
+statements, allotting securities, and handling shareholder enquiry services. 
+Advanced Share 
+19. 
+Advanced Share Registry Limited (Advanced Share) is a Perth-based business 
+established in 1996. It provides registry services to listed and unlisted customers, 
+including maintaining registers, transferring ownership of securities, issuing 
+holder statements, allotting securities, and handling shareholder enquiry services. 
+Industry background 
+20. 
+The users of registry services in Australia are publicly listed companies and 
+entities with similar requirements. All publicly listed companies in Australia are 
+required to maintain share and other registries under their constitutions, the 
+Corporations Act 2001, the listing rules of the ASX and the securities clearing 
+house rules of the Australian Securities and Transfer Corporation Limited. The 
+same or similar requirements apply to other listed entities (for example, listed 
+trusts) and unlisted entities with obligations under the Corporations Act 2001. 
+The reliable and cost-effective provision of registry services makes an important 
+contribution to the efficient operation of securities markets, while also benefiting 
+shareholders and other owners of securities. 
+21. 
+In Australia securities registration has transformed since the late 1990s. Initially, 
+the major participants were principally accounting firms – KPMG, 
+PricewaterhouseCoopers, Ernst & Young and Deloitte/Greenwood Challoner. In 
+addition many large listed entities chose to run their own in-house registries. 
+22. 
+Since that time, the number of participants involved in securities registry services 
+has declined in all countries. This trend to aggregation has been caused by the 
+increasing sophistication and cost of information systems which are the basis for 
+much of the competition among registry service providers. Substantial IT systems 
+and resources are required to support and manage complex large-scale 
+transactions such as calculation and/or payment of dividends. This is an important 
+element of competition between registry service providers.  
+23. 
+In the late 1990s Computershare acquired the registry businesses of the major 
+accounting firms, where it previously had a part in the development of the IT 
+systems used for registry services. Pacific Equity Partners similarly acquired 
+ASX Perpetual, thereafter being known as Link Market Services. 
+4 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+ACCC review timeline 
+24. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+22 December 2009 
+ACCC commenced review under the Merger Review Process Guidelines. 
+13 January 2010 
+Closing date for submissions from interested parties. 
+27 January 2010 
+Former proposed date for announcement of ACCC’s findings. Decision 
+delayed to allow the ACCC to conduct further inquiries. 
+2 February 2010 
+ACCC published a Statement of Issues outlining preliminary competition 
+concerns. 
+16 February 2010 
+ACCC requested information from the merger parties. ACCC timeline 
+suspended. 
+18 February 2010 
+ACCC requested further information from the merger parties. 
+19 February 2010 
+Closing date for submissions relating to Statement of Issues. 
+24 February 2010 
+ACCC received further information from the merger parties in response to 
+the ACCC’s request of 16 February 2010. ACCC timeline remains 
+suspended, pending receipt of the merger parties’ response to the ACCC’s 
+information request of 18 February 2010. 
+26 February 2010 
+ACCC received further information from the merger parties, in response to 
+the ACCC’s request of 18 February 2010. ACCC timeline recommenced. 
+10 March 2010 
+Former proposed date for announcement of ACCC’s findings of 12 March 
+2010, amended to allow the ACCC to conduct further inquiries. 
+24 March 2010 
+ACCC announced it would oppose the proposed acquisition. 
+Market inquiries 
+25. 
+The ACCC conducted extensive market inquiries in relation to the proposed 
+acquisition with listed and unlisted companies, domestic and overseas registry 
+service providers, government bodies and other interested parties.  
+ Statement of Issues 
+26. 
+On 2 February 2010, the ACCC published a Statement of Issues regarding the 
+proposed acquisition. The Statement of Issues identified two issues arising with 
+respect to the proposed acquisition categorised as issues of concern. 
+27. 
+The ACCC’s preliminary view was that the proposed acquisition would be likely 
+to have the effect of substantially lessening competition in the market for the 
+provision of securities registration and related services to publicly listed 
+companies and entities with similar registration requirements by increasing the 
+ability and incentive for Link and Computershare to coordinate their conduct.  
+28. 
+Further, the ACCC took the preliminary view that the proposed acquisition would 
+also be likely to enhance the merged firm’s ability to unilaterally exercise market 
+5 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+power in the provision of securities registration and related services, particularly 
+to ‘large cap’ (ASX 100) customers. The ACCC was concerned that the proposed 
+acquisition would remove the only other provider of securities registration and 
+related services able to service most, if not all, segments of the market.  
+29. 
+The Statement of Issues is available on the ACCC’s website at 
+www.accc.gov.au/statementsofissues. 
+Areas of overlap and market definition 
+30. 
+Link and Registries each provide securities registration and related services to a 
+range of different entities located across Australia. After taking into account 
+information provided by the merger parties and information arising from its 
+market inquiries, the ACCC considered the proposed acquisition in the context of 
+a national market for the provision of securities registration and related services 
+to publicly listed companies and entities with similar registration requirements. 
+The ACCC noted the possibility of alternative market definitions and various 
+methods of segmenting the market, but considered that the proposed acquisition 
+would be likely to have the effect of substantially lessening competition 
+irrespective of how the market was defined or segmented. 
+Product dimension 
+31. 
+Securities for which registration and related services may be required include: 
+ listed equity securities; 
+ listed debt securities; 
+ listed hybrid securities; 
+ unlisted equity securities; 
+ unlisted debt securities; 
+ managed funds; and 
+ warrants. 
+ 
+32. 
+Related services include but are not limited to maintenance of shareholder 
+records, payment of dividends, processing corporate actions, running annual 
+general meetings and administering employee share plans. While some of these 
+services appear to be complementary rather than substitutable, Link and 
+Registries both offer a similar suite of services and accordingly the ACCC 
+considered the services as one bundle rather than discrete services for the purpose 
+of defining the relevant product dimension. 
+33. 
+Different entities have different registry requirements. Most (though not all) large 
+listed companies (ASX100 or ‘large cap’ clients) have complex registers. For 
+example, a listed company with 100,000 shareholders may require dividend 
+reinvestment plans, employee share plans, extensive shareholder 
+communications, direct voting services and other services for complex corporate 
+actions. In contrast, many small listed companies and unlisted entities have 
+6 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+simple registers. For example an unlisted company with 50 shareholders may 
+only need limited shareholder record-keeping and communication services.  
+34. 
+The customers served by Link and Registries include small, medium and large 
+publicly listed companies and other listed and unlisted entities with similar 
+registration requirements in terms of dividend payments, shareholder meetings 
+and other forms of shareholder communication. Among these customers, there is 
+a spectrum of registry requirements based on the number and concentration of 
+shareholders and factors such as the level of corporate activity (including 
+dividend payments, shareholder meetings and other forms of communication), the 
+existence of employee share plans and reporting requirements. However, the 
+ACCC found no clear break between simple and complex registry requirements 
+or between large and small registers. 
+35. 
+On the demand side, the ACCC found that customers with large and complex 
+shareholder registers would not switch to a provider that only supplies customers 
+with small, simple shareholder registers, since such providers generally lack the 
+reputation and infrastructure (particularly the IT systems) required to service 
+large companies. Customers with small, simple shareholder registers, however, 
+would be able to switch to any provider of registry services. Accordingly, the 
+ACCC found that demand-side substitution was asymmetric in nature. 
+36. 
+Supply-side substitution was also found to be asymmetric in nature. Suppliers 
+that are able to service customers with large and complex registers can also 
+service customers with simple registers without additional investment, but 
+registry service providers currently servicing customers with simple registers 
+would face significant barriers in scaling up to serve customers with complex 
+registers. These barriers include: 
+ substantial sunk infrastructure costs, particularly with respect to IT systems; 
+ reputation barriers with customers, particularly associated with reliability and 
+ability to enable customers to satisfy their regulatory requirements; and 
+ limited customer switching (or ‘customer stickiness’) due to the perceived 
+risks of regulatory breaches and shareholder complaints. 
+ 
+37. 
+There is no clear distinction between simple and complex registry requirements 
+or between large and small registers. Accordingly, there appeared to be no clear 
+basis upon which to define either multiple markets with narrower product 
+dimensions or one market spanning both simple and complex registry 
+requirements consisting of distinct separate product segments. Furthermore, the 
+ACCC noted that the target, Registries, was particularly active in servicing 
+customers in the middle of the spectrum and, in contrast with smaller registry 
+service providers, has increasingly been scaling up to serve and attract customers 
+with larger and comparatively more complex registers. Therefore, taking a 
+purposive approach, the ACCC considered one broad product dimension to be the 
+most appropriate framework for its consideration of the proposed acquisition. 
+7 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+Geographic dimension 
+38. 
+Link and Registries each supply customers located across Australia. While the 
+ACCC’s market inquiries indicated that the location of a registry service provider 
+may affect its ability to compete due to a perceived customer preference for 
+registry service providers with offices in the same city, there are no technical or 
+regulatory impediments to providers in one location servicing customers based in 
+another. Since at least the 1980s the relevant laws and rules in relation to the 
+maintenance of share and other registers by publicly listed companies have been 
+uniform or substantially uniform throughout Australia. Moreover, clients of 
+registry service providers are generally ASX listed entities and the ASX is a 
+national entity. The ACCC therefore considered the relevant geographic 
+dimension to be national. However, it is worth noting that the constraints imposed 
+by the two smaller and more geographically focussed providers (i.e. Security 
+Transfer and Advanced Share) are particularly limited outside Western Australia, 
+and this is recognised as part of the competition analysis below. 
+Conclusion 
+39. 
+The ACCC considered the proposed acquisition in the context of the national 
+market for the provision of securities registration services to publicly listed 
+companies and entities with similar registration requirements. If there had been 
+clear breaks between the registration requirements of small, medium and large 
+customers within this market, the ACCC may have defined different segments 
+based on each group or possibly separate markets in relation to different types of 
+customers. In the absence of such breaks, the ACCC instead considered the effect 
+of the proposed acquisition on a range of customers with different registers – 
+from simple through to complex, small through to large. Importantly, the 
+outcome of the competition analysis would not have differed if the ACCC had 
+defined separate markets, or different segments in the broader market, based on 
+customer requirements.  
+Competition analysis 
+Market concentration 
+40. 
+The ACCC found that the proposed acquisition would increase concentration by a 
+small but significant amount in the national market for the provision of securities 
+registration services to publicly listed companies and entities with similar 
+registration requirements.   
+ 
+41. 
+Computershare and Link are the largest registry services providers and together 
+account for a very substantial share of the national market for the provision of 
+securities registration services to publicly listed companies and entities with 
+similar registration requirements. Computershare and Link are also able to 
+service all companies and entities requiring registry services. While Registries is 
+smaller than Link and Computershare and predominantly caters to small and 
+medium companies, the ACCC found that Registries has been pursuing an 
+aggressive expansion programme and targeting large customers, such that its 
+8 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+present comparatively small market share is likely to significantly understate its 
+present and future competitive impact in the market.  
+ 
+42. 
+The ACCC therefore considered that the proposed acquisition would entrench the 
+duopoly of Link and Computershare in the supply of registry services to medium 
+and large customers with complex registers and remove a significant alternative 
+for customers with simple registers. Post-acquisition, small clients would have 
+only Computershare, Advanced Share and Security Transfer as alternative 
+registry services providers, while for medium companies the number of viable 
+alternatives to Link would reduce from two to one. The proposed acquisition 
+would also remove a promising source of future competition to Computershare 
+and Link in the supply of the largest customers with the most complex register 
+requirements. 
+ 
+Availability of substitutes 
+43. 
+Post-acquisition the alternative providers of securities registration services to 
+publicly listed companies and entities with similar registration requirements 
+would be: 
+ Computershare alone for customers with complex registers; and  
+ Computershare, Advanced Share and Security Transfer for customers with 
+simple registers or small numbers of shareholders, with a few niche and 
+largely unknown alternatives available to very small customers.  
+ 
+44. 
+Security Transfer and Advance Share are significantly smaller than Registries and 
+focus on small resources companies based in Western Australia. The ACCC 
+considered that Security Transfer and Advance Share would face significant 
+barriers in scaling up to serve medium and large customers with complex 
+registers in competition with the merged firm, including sunk infrastructure 
+upgrade costs, reputation limitations, customer stickiness and economies of scale. 
+Accordingly, the ACCC considered it unlikely that Security Transfer and 
+Advance Share would provide an effective competitive constraint on the merged 
+firm in the foreseeable future for medium and large clients or clients with 
+complex share registers.  
+ 
+45. 
+In relation to the competitive constraint on the merged firm provided by 
+Computershare, the ACCC was concerned that there would be a real chance of 
+muted competition between Link and Computershare post-acquisition as 
+discussed below in the context of coordinated effects.   
+ 
+Barriers to entry and expansion 
+ 
+46. 
+The ACCC considered that the threat of new entry, including potential entry by 
+overseas registry service providers, was unlikely to provide an effective 
+competitive constraint on incumbent registry service providers in the Australian 
+market. The ACCC found that barriers to entry and expansion are relatively high 
+and consist of: 
+ substantial sunk infrastructure costs, particularly with respect to IT systems; 
+9 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+ reputation barriers with customers, particularly associated with reliability and 
+ability to enable customers to satisfy their regulatory requirements;  
+ limited customer switching (or ‘customer stickiness’) due to the perceived 
+risks of regulatory breaches and shareholder complaints; and  
+ economies of scale. 
+ 
+Sunk infrastructure costs 
+ 
+47. 
+Market inquiries indicated that appropriate and effective IT systems are critical to 
+a registry service provider’s ability to attract customers, particularly larger 
+customers with more complex registers. Sunk costs in designing, developing, 
+testing and implementing a suitable IT system are in the order of tens of millions 
+of dollars. Extensive and ongoing investment in the order of millions of dollars is 
+required to achieve efficiencies and maintain service levels. Given the high 
+volume of transactions and respective risk, registry service providers need 
+appropriate IT systems to ensure total accuracy and audit capacity. By improving 
+their IT systems, registry service providers are also able to attract larger clients 
+and acquire scale in order to remain competitive. A new entrant that does not 
+invest a substantial amount in IT systems may be able to service the smallest 
+clients with very simple registers, but is unlikely to be an effective competitor in 
+supplying the majority of customers. 
+Reputation barriers and regulatory requirements 
+ 
+48. 
+While there is no formal licensing of share registries in Australia and the only 
+regulatory requirement for a new entrant is the need to obtain technical 
+accreditation from the ASX Settlement and Transfer Corporation in order to 
+access CHESS, customers rely on their registry service provider to assist them in 
+complying with various listing and settlement rules. The cost incurred by clients 
+in the event that a registry service provider fails to provide accurate high quality 
+registry services, including potential penalties for breaching ASX rules, can be 
+significant.  
+ 
+49. 
+As a consequence, new entrants need to demonstrate familiarity with ASX listing 
+and settlement rules and customers need to have confidence that a provider’s IT 
+systems are tailored to facilitate compliance. Building trust among prospective 
+customers would therefore involve long lead times and substantial investment and 
+constitute a significant barrier to entry.  
+ 
+Customer stickiness 
+ 
+50. 
+Customer switching is limited in the national market for the provision of 
+securities registration services to publicly listed companies and entities with 
+similar registration requirements. Despite the fact that registry service providers, 
+particularly Computershare, Link and Registries, actively contact potential 
+customers to induce switching, customers generally only change providers as a 
+result of dissatisfaction with their current service provider or when their registries 
+requirements change. Even customers that call for tenders for long term contracts 
+typically remain with their incumbent provider. Market inquiries indicated that 
+10 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+the relatively small cost of registry services compared with the potential harm to 
+the customer if a new provider failed to deliver effective registry services meant 
+customers were generally reluctant to change providers. Registry service 
+providers also impose costs for switching based on the client’s number of 
+shareholders which may restrict some companies from switching. As a 
+consequence of such customer stickiness and switching costs, new entrants and 
+existing providers face great difficulty in growing their customer base. Only 
+vigorous competitors such as Registries appear to have had any success in 
+inducing significant customer switching.   
+ 
+Economies of scale 
+ 
+51. 
+The provision of registry services is a high fixed cost business, where competing 
+effectively requires scale to minimise unit (or average) costs. A small registry 
+services provider that has manual systems focussed on servicing small clients 
+with simple registers would  be limited in its ability to compete effectively with 
+larger incumbent suppliers due to the higher marginal costs it faces in taking on 
+significant additional clients. Accordingly, in order to compete effectively with 
+the merged firm and Computershare, a new entrant would need to enter on a 
+significant scale. Given customer stickiness described above, entry on a large 
+scale is unlikely. 
+ 
+Removal of a vigorous and effective competitor 
+ 
+52. 
+The ACCC found that Registries is a vigorous and effective competitor in the 
+national market for the provision of securities registration services to publicly 
+listed companies and entities with similar registration requirements. Over the past 
+three years, Registries has repeatedly engaged in aggressive marketing campaigns 
+to increase customer familiarity with and trust in its brand, to encourage 
+customers to use tender processes and to grow its customer base through 
+customer switching. Registries has offered customers significant discounts and 
+has successfully attracted small and medium customers away from Link and 
+Computershare. Registries also has one of the best retention rates of all registry 
+service providers, indicating that Registries is effective in servicing those 
+customers that do choose to switch. 
+ 
+53. 
+There is evidence that the presence of Registries in the market and its maverick 
+behaviour in pricing, marketing, business strategies and tender proposals provide 
+significant benefits to a broad range of customers – in particular, to customers 
+with medium-sized registers for which smaller providers are not an option. For 
+example, participation by Registries in formal and informal tender processes has 
+provided medium-sized companies and large companies with simpler shareholder 
+registers with an important third option, which a number of companies have used 
+as leverage to obtain better prices and services from Link or Computershare. The 
+success of Registries in winning progressively larger customers suggests that it is 
+better able to overcome barriers to expansion than its smaller rivals and, in the 
+foreseeable future, the ACCC considered that there was a real chance Registries 
+would be able to service some of the largest customers with complex 
+requirements. 
+ 
+11 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+54. 
+The ACCC therefore concluded that the proposed acquisition would lead to the 
+removal of a vigorous and effective competitor in the national market for 
+securities registration and related services to listed companies and entities with 
+similar requirements, and would thereby enable Link and Computershare to 
+achieve higher prices from a broad range of customers with reduced pressure to 
+improve services. 
+ 
+Coordinated effects 
+ 
+55. 
+The ACCC formed the view that, without the disruptive and aggressive 
+competition provided by Registries, there would be a real chance of muted 
+competition developing between the Link and Computershare post-acquisition – 
+that is, the ACCC found that the proposed acquisition would be likely to give rise 
+to coordinated effects. 
+ 
+56. 
+In particular, the ACCC was of the view that the removal of Registries as a 
+competitor would have been likely to increase the ability and incentive of 
+Computershare and Link to engage in coordinated conduct in the form of tacit 
+customer allocation or market sharing. Information facilitating such tacit 
+behaviour is easily accessible. For instance, Computershare and Link would be 
+able to discover customer switching simply by accessing the ASX website, which 
+provides details of each listed company’s registry.  
+ 
+57. 
+The presence of Registries, which plays a destabilising maverick role in the 
+market and provides an important third option for a broad range of customers, is 
+likely to significantly reduce the prospect of coordinated conduct in the form of 
+customer allocation or tacit market sharing. Mavericks can spell the difference 
+between effective and ineffective coordination and will often wield price 
+influence disproportionate to their market share. Coordination is much easier to 
+sustain with two players rather than three, particularly when the third is a small 
+but growing and aggressive rival. The ACCC found that as a smaller competitor 
+Registries had a lot more to gain and less to lose from aggressive competition. 
+Link and Computershare would risk losing critical volume contracts if they did 
+not respond in kind.  
+ 
+58. 
+Furthermore, any consensus reached between Computershare and the merged 
+firm through repeated interaction in the absence of a maverick rival is highly 
+unlikely to be undermined by external competitive constraints in the market. With 
+no actual or potential alternative for medium and large customers, given the high 
+barriers to entry and expansion, the ACCC was concerned that tacit collusion 
+among registry service providers could result in significant price rises above 
+competitive levels.  
+ 
+59. 
+Under such circumstances, the ACCC took the view that it was likely that the 
+merged firm and Computershare would realise that their individual profits would 
+be greater over the longer term if they refrain from competition than if they 
+compete aggressively. The customised nature of the product and, in particular, the 
+stickiness of customers (due to the perceived risks of switching) tend to reduce 
+the incentive for established providers to compete aggressively to gain market 
+share. If one provider did cut price or compete aggressively, their rival may be 
+12 
+
+
+Link Market Services Limited – proposed acquisition of Newreg Pty Ltd 
+likely to find this out from the customer and react by winning one or more 
+customers back. The merged firm and Computershare might quickly learn that 
+there is little to be gained from such aggressive competition, limiting their rivalry 
+to winning new customers or picking up the disgruntled customers of their rival 
+without any need for aggressive price competition. 
+ 
+60. 
+The ACCC therefore concluded that the proposed acquisition would give rise to a 
+real chance of muted competition or tacit market sharing post-acquisition, given 
+the low levels of customer switching and significant barriers to entry. Without 
+Registries in the market, the ACCC considered it likely that Link and 
+Computershare would be able to achieve higher prices and would face reduced 
+pressure to improve services.  
+Conclusion 
+61. 
+The ACCC concluded that the proposed acquisition would remove one of a very 
+small number of providers of registry services and an important competitive 
+discipline on Link and Computershare. As a consequence, the proposed 
+acquisition was likely to lead to higher prices and reduced quality of registry 
+services, to the detriment of shareholders in a broad range of listed and unlisted 
+companies. Accordingly, the ACCC formed that view that the proposed 
+acquisition was likely to substantially lessen competition in the national market 
+for the provision of securities registration and related services to publicly listed 
+companies and entities with similar registration requirements, in contravention of 
+section 50 of the Act. 
+ 
+ 
+13 

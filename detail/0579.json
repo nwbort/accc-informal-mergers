@@ -1,0 +1,44 @@
+{
+  "id": "0579",
+  "title": "Macadamia Processing Co Ltd - proposed joint venture with Consolidated Nuts (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macadamia-processing-co-ltd-proposed-joint-venture-with-consolidated-nuts-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43161",
+  "industries": [
+    "nut processing and wholesaling"
+  ],
+  "date_completed": "4 November 2010",
+  "date_completed_iso": "2010-11-04T12:00:00Z",
+  "date_commenced": "6 October 2010",
+  "date_commenced_iso": "2010-10-06T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Macadamia Processing Co Ltd"
+  ],
+  "targets": [
+    "Consolidated Nuts (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Oct 2010",
+      "date_iso": "2010-10-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Oct 2010",
+      "date_iso": "2010-10-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Nov 2010",
+      "date_iso": "2010-11-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Macadamia Processing Co Ltd (MPC) and Consolidated Nuts (Australia) Pty Ltd (CNA) propose to jointly develop a new facility for the processing of macadamia nuts in shell along with a macadamia kernel wholesaling entity.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: - the market for the acquisition of macadamia nuts in shell, encompassing the growing region in NSW and Queensland; and - the national market for the supply of macadamia kernel.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - in the acquisition market, a number of processors would remain in the market who would act as a competitive constraint on the ability of the joint venture to reduce the prices paid to growers of macadamia nuts in shell; and - in the wholesale market, the ability of the joint venture to increase prices would be constrained by a number of rival vertically integrated wholesale suppliers of kernel."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1470",
+  "title": "Acquirer: Singapore Power International Pte Ltd; Target: TXU Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-singapore-power-international-pte-ltd-target-txu-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19416",
+  "industries": [],
+  "date_completed": "28 July 2004",
+  "date_completed_iso": "2004-07-28T12:00:00Z",
+  "date_commenced": "14 April 2004",
+  "date_commenced_iso": "2004-04-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Singapore Power International Pte Ltd"
+  ],
+  "targets": [
+    "TXU Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Competition analysis": "SP Energy Pty Ltd (`SPE') has entered into a share sale agreement with TXU Corp, to purchase the group of companies of which TXU Australia Group Pty Ltd (`TXU') is the ultimate Australian holding company. The Commission had concerns about the impact of this proposed acquisition on competition in various markets. SPE provided these undertakings in order to address the Commission's concerns. The undertakings specify various ways in which there is to be operational separation between SPI PowerNet Pty Ltd (`SPI PowerNet'), which is the owner of the major transmission network in Victoria, and TXU's electricity retail and generation businesses. For example, SPI PowerNet is not able to carry on any of TXU's electricity retail or generation businesses, and after a period of 6 months from the date of the acquisition, there are not to be any common directors or secretaries of SPI PowerNet and TXU's retail or generation businesses. Further, there is a requirement that SPI PowerNet not make any decisions which unfairly discriminate in favour of TXU's electricity retail or generation businesses, or which discriminate unfairly against any competitor of TXU's electricity retail or generation businesses, in relation to a number of specified issues. In addition, there is an obligation upon SPI PowerNet, within 6 months of the acquisition, to modify its systems so as to remove access by SPI PowerNet staff to pre-dispatch data, and certain SCADA Data which is specified in Annexure B to the undertaking. The undertakings also make provision for SPI PowerNet to provide to the Commission, at the Commission's request, with information and documents relating to the operation of the Heywood interconnector. The undertakings require SPI PowerNet to implement, and at the Commission's request to provide to the Commission, details of the compliance measures being taken by SPI PowerNet to ensure compliance with various obligations in the undertaking.",
+    "Resolution": "Undertakings",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "3610"
+  }
+}

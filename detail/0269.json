@@ -1,0 +1,89 @@
+{
+  "id": "0269",
+  "title": "Iron Mountain Incorporated - proposed acquisition of Recall Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/iron-mountain-incorporated-proposed-acquisition-of-recall-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56467",
+  "industries": [
+    "Records and data management services"
+  ],
+  "date_completed": "31 March 2016",
+  "date_completed_iso": "2016-03-31T12:00:00Z",
+  "date_commenced": "25 August 2015",
+  "date_commenced_iso": "2015-08-25T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Iron Mountain Incorporated"
+  ],
+  "targets": [
+    "Recall Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 Aug 2015",
+      "date_iso": "2015-08-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Sep 2015",
+      "date_iso": "2015-09-15T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "15 Sep 2015",
+      "date_iso": "2015-09-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Sep 2015",
+      "date_iso": "2015-09-30T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "5 Nov 2015",
+      "date_iso": "2015-11-05T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "13 Nov 2015",
+      "date_iso": "2015-11-13T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "19 Nov 2015",
+      "date_iso": "2015-11-19T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "24 Nov 2015",
+      "date_iso": "2015-11-24T12:00:00Z",
+      "event": "Former proposed decision date of 15 December 2015 delayed at the request of the merger parties."
+    },
+    {
+      "date": "3 Dec 2015",
+      "date_iso": "2015-12-03T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "10 Mar 2016",
+      "date_iso": "2016-03-10T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Mar 2016",
+      "date_iso": "2016-03-21T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed divestment undertaking."
+    },
+    {
+      "date": "31 Mar 2016",
+      "date_iso": "2016-03-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the s87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Iron Mountain Incorporated proposed to acquire Recall Holdings Limited. Both parties provide services relating to the storage, protection, retrieval and disposal of paper and digital records.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

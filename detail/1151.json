@@ -1,0 +1,44 @@
+{
+  "id": "1151",
+  "title": "Archer Capital Pty Ltd - proposed acquisition of Rebel Sport Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/archer-capital-pty-ltd-proposed-acquisition-of-rebel-sport-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26358",
+  "industries": [
+    "Sports goods retailing"
+  ],
+  "date_completed": "13 February 2007",
+  "date_completed_iso": "2007-02-13T12:00:00Z",
+  "date_commenced": "15 December 2006",
+  "date_commenced_iso": "2006-12-15T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Archer Capital Pty Ltd"
+  ],
+  "targets": [
+    "Rebel Sport Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2006",
+      "date_iso": "2006-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "2 Feb 2007",
+      "date_iso": "2007-02-02T12:00:00Z",
+      "event": "Market inquires closed."
+    },
+    {
+      "date": "13 Feb 2007",
+      "date_iso": "2007-02-13T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Archer Capital proposes to merge with Rebel Sport. Archer Capital owns the multi-range sporting goods retailer, Amart All Sports (Amart). There are about 79 Amart stores in Australia. Rebel Sport is a multi-range sporting goods retailer and operates 63 stores in Australia.",
+    "Market definition": "Product market The ACCC considered the impact of the proposed merger on competition in separate markets for the retail supply of: (i)\tsports apparel; (ii)\tsports footwear; and (iii)\tsports equipment. Considering much narrower markets (particularly for different types of sporting equipment) would have been unlikely to change the outcome of the ACCC's review of this proposed merger. Multi-range sports stores typically supply a wide range of sporting goods (comprising sports apparel, footwear and equipment). The information available to the ACCC suggested that consumers are attracted to sports stores because they wish to buy a particular item (or small number of items).  The price of these items is also typically high enough for consumers to 'shop around'. Consequently, a multi-range sports store is likely to compete strongly with specialist retailers of the various products that the sports store supplies, and is therefore more a participant in a large number of separate markets rather than a single market for multi-range sports stores. Geographic market The ACCC considered that multi-range sports stores compete against other stores in their local area. This was initially defined broadly as being the area within 8 km of the relevant stores. However, in individual cases, the relevant local market might be narrower or wider than this because of, among other factors, local geography and road systems.  The ACCC also recognised that, given the higher price of many of the items that may be purchased at multi-range sports stores, the geographic market might be argued to be wider than the local area as defined above. However, the ACCC considered that if competition concerns do not arise in narrow markets, then they were unlikely to arise in broader markets.",
+    "Competition analysis": "The ACCC concluded that barriers to entry to the relevant markets were likely to be relatively low.  In particular, market inquiries emphasised that new entrants were able to open a franchise store and obtain access to the buying power of the franchise group. The ACCC also found that, in the local markets considered, other multi-range sports stores existed, as well as a range of retailers specialising in particular products (e.g. footwear, apparel, bicycles, camping equipment, etc), who were likely to constrain the merged entity. The ACCC therefore concluded that the proposed merger was unlikely to substantially lessen competition in any relevant market."
+  }
+}

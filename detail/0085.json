@@ -1,0 +1,44 @@
+{
+  "id": "0085",
+  "title": "PAG Asia III LP  - Australasian Foods Holdco Pty Ltd (Patties) and Heat to Eat Holdings Pty Ltd (Vesco)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pag-asia-iii-lp-australasian-foods-holdco-pty-ltd-patties-and-heat-to-eat-holdings-pty-ltd-vesco",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Ready made meals"
+  ],
+  "date_completed": "15 December 2022",
+  "date_completed_iso": "2022-12-15T12:00:00Z",
+  "date_commenced": "25 October 2022",
+  "date_commenced_iso": "2022-10-25T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "PAG Asia III LP"
+  ],
+  "targets": [
+    "Australasian Foods Holdco Pty Ltd (Patties) and Heat to Eat Holdings Pty Ltd (Vesco)"
+  ],
+  "timeline": [
+    {
+      "date": "25 Oct 2022",
+      "date_iso": "2022-10-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Nov 2022",
+      "date_iso": "2022-11-11T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "15 Dec 2022",
+      "date_iso": "2022-12-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PAG Asia III LP proposes to acquire Australasian Foods Holdco Pty Ltd ( Patties ) and Heat to Eat Holdings Pty Ltd ( Vesco ) ( Proposed Acquisition ). PAG Asia III LP is an investment fund that is part of the PAG investment management group ( PAG ). PAG does not currently have any investments in businesses that supply ready meal, savoury or snacking products in Australia. The competitive overlap that arises as a result of the Proposed Acquisition is between the two targets, Patties and Vesco. Patties and Vesco manufacture and supply frozen and chilled ready meals, and other savoury and sweet frozen packaged foods in Australia.",
+    "Market definition": "The ACCC considered the potential effect of the Proposed Acquisition on competition in Australia for: the wholesale supply of: frozen ready meals; and chilled ready meals; and the retail supply of: frozen ready meals; and chilled ready meals. The ACCC found in its review of the Proposed Acquisition that frozen ready meals are appropriately viewed as a distinct product market to chilled ready meals and other ready-to-eat foods.",
+    "Competition analysis": "Patties and Vesco are two of the major manufacturers and suppliers of ready meals in Australia. The ACCC considered that Patties and Vesco compete most closely in the supply of frozen ready meals, particularly in the ‘health and wellness’ segment of frozen ready meals. The ACCC investigated the potential for the Proposed Acquisition to raise horizontal concerns, and specifically whether the merged entity would be able to significantly and sustainably increase its prices or profit margins in relation to the supply of frozen ready meals in Australia. The ACCC considered that the merged entity was likely to be competitively constrained by existing and new alternative suppliers of frozen ready meals, and that the Proposed Acquisition was unlikely to result in a substantial lessening of competition in the wholesale or retail supply of frozen ready meals in Australia. In the supply of ‘health and wellness’ frozen ready meals, the ACCC had regard to recent new entry, growth of new product categories and product innovations by competing suppliers."
+  }
+}

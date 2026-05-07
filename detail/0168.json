@@ -1,0 +1,42 @@
+{
+  "id": "0168",
+  "title": "Brookfield/GIC - proposed acquisition of Genesee & Wyoming",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brookfieldgic-proposed-acquisition-of-genesee-wyoming",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Rail access"
+  ],
+  "date_completed": "15 November 2019",
+  "date_completed_iso": "2019-11-15T12:00:00Z",
+  "date_commenced": "9 August 2019",
+  "date_commenced_iso": "2019-08-09T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Brookfield/GIC"
+  ],
+  "targets": [
+    "Genesee & Wyoming"
+  ],
+  "timeline": [
+    {
+      "date": "9 Aug 2019",
+      "date_iso": "2019-08-09T12:00:00Z",
+      "event": "The ACCC received a request for clearance under the Informal Merger Review Process"
+    },
+    {
+      "date": "13 Sep 2019",
+      "date_iso": "2019-09-13T12:00:00Z",
+      "event": "The ACCC commenced public consultation about the proposed undertaking"
+    },
+    {
+      "date": "15 Nov 2019",
+      "date_iso": "2019-11-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Brookfield and GIC (together, the Brookfield Parties ) sought ACCC clearance to acquire 100% of the share capital of Genesee & Wyoming Inc. ( GWI ) (the Proposed Global Transaction ). In Australia, GWI operates through Genesee & Wyoming Australia Holdings LP ( GWA ). GWA provides above and below rail services in South Australia and the Northern Territory and operates rail haulage in the NSW Hunter Valley region. It is structured as a limited partnership and 51.1 per cent of its share capital is held by GWI with the remaining 48.9 per cent collectively held by funds advised by Macquarie Infrastructure and Real Assets ( MIRA ) and its co-investor PGGM Infrastructure Fund ( PGGM ). The Brookfield Parties do not consider that the Proposed Global Transaction would have the effect or be likely to have the effect of substantially lessening competition in any market. However, t he Brookfield Parties made a commercial decision to offer an undertaking to divest the 51.1 per cent share in GWA held by GWI (the Proposed Undertaking ). The Proposed Undertaking was offered to remove any overlap in the parties’ activities likely to arise from the Brookfield Parties’ acquisition of GWI. The Proposed Undertaking places obligations on the Brookfield Parties to: ensure that the Divestiture Business is divested to an Approved Purchaser; create or strengthen a viable, effective stand-alone, independent and long term competitor in the market for rail services in the Northern Territory,  South Australia and New South Wales; ensure the Approved Purchaser has all the necessary associated assets and rights to compete effectively in the above markets; maintain the economic viability, marketability, competitiveness and goodwill of the Divestiture Business prior to divestiture; and provide for the effective oversight of the Brookfield Parties' compliance with this Undertaking. MIRA/PGGM have been approved by the ACCC as Approved Purchasers of the GWI Interest under the Proposed Undertaking. A copy of the Proposed Undertaking is attached below."
+  }
+}

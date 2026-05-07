@@ -1,0 +1,43 @@
+{
+  "id": "0211",
+  "title": "Qube Logistics - completed acquisition of Maritime Container Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qube-logistics-completed-acquisition-of-maritime-container-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63487",
+  "industries": [
+    "Logistics"
+  ],
+  "date_completed": "8 March 2018",
+  "date_completed_iso": "2018-03-08T12:00:00Z",
+  "date_commenced": "15 January 2018",
+  "date_commenced_iso": "2018-01-15T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Qube Logistics"
+  ],
+  "targets": [
+    "Maritime Container Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jan 2018",
+      "date_iso": "2018-01-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "1 Feb 2018",
+      "date_iso": "2018-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Mar 2018",
+      "date_iso": "2018-03-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - the supply of empty container storage services in the vicinity of Port Botany - the supply of empty container storage services, including the repair of containers and authority to certify containers as food grade (Full Service Empty Container Storage Services) with rail access in Sydney - the supply of intermodal terminal services in Sydney - the supply of freight rail services to Port Botany - the supply of stevedore services at Port Botany - the supply of dry bulk transfer and transport services",
+    "Competition analysis": "The ACCC concluded that Qube's acquisition of MCS is unlikely to substantially lessen competition in any relevant market. The supply of empty container storage services in the vicinity of Port Botany The ACCC found that the acquisition would not lead to a significant concentration in the supply of empty container storage services in the vicinity of Port Botany. The ACCC considered that there are a number of empty container parks in this vicinity (including parks with road access only) and while Qube currently operates one park in the vicinity of Port Botany, it is small, operated on a temporary basis and is not well located. The supply of full service Empty Container Storage Services with rail access in Sydney The ACCC considered that there are currently two key suppliers of Full Service Empty Container Storage Services with rail access in Sydney - MCS at Cooks River and DP World at Port Botany. The ACCC also considered that Linx's recently announced container park at Enfield would develop as a competitor in this market in time. Qube currently has two facilities in Sydney with rail access that offer some container storage services - at Minto and Yennora. Qube is also developing an intermodal terminal at Moorebank that may offer empty container storage services. In contrast to the facilities identified in the previous paragraph, these facilities: - are not located in proximity to Port Botany on the main freight line, meaning that they are not well located to act as general use rail accessible empty container parks, and - do not offer a full suite of empty container storage services. The ACCC considered that these facilities are not presently significant competitors in the market. The ACCC concluded that the aggregation of MCS at Cooks River with Qube's Minto, Yennora and Moorebank facilities would be unlikely to substantially lessen competition in this market, in light of competition from DP World and Linx. The supply of freight rail services to Port Botany Qube already supplies freight rail services to regional exporters looking to send goods by rail to Port Botany for export. The MCS facility at Cook's River is currently an important part of the supply chain for suppliers of freight rail services to Port Botany. After a regional freight train has delivered its goods to the stevedore terminal(s), it needs to pick up empty containers from a rail accessible park before returning to its regional export location. Many suppliers of freight rail services currently use MCS' facility for this purpose. The ACCC considered whether Qube's acquisition of MCS would provide Qube with the ability and incentive to foreclose rival rail operators who currently use MCS to acquire empty containers. The ACCC's investigation found that this was unlikely to be the case because there were alternative empty container parks that could act as alternatives for regional exporters and rail operators - namely DP World at Port Botany, and the site that Linx is developing at Enfield. The ACCC considered that these alternatives would act to constrain Qube from leveraging its operation of MCS to substantially lessen competition in the supply of rail freight services. The supply of intermodal terminal services in Sydney While MCS does offer some intermodal terminal services at its Cooks River location, the ACCC found that these services are an adjunct to MCS' core business of offering empty container park services, and that it was not well placed geographically to operate exclusively or predominantly as an intermodal terminal. As such, the acquisition would not have the effect of removing a potential competitor to Qube's intermodal terminals. The supply of stevedore services at Port Botany The ACCC considered that the availability of alternative empty container parks and the nature of the relationship between stevedores and shipping lines meant that it would be unlikely that Qube could leverage the operation of MCS to preference Patrick stevedores (Qube has a 50 per cent interest in Patrick stevedores). The supply of dry bulk transfer and transport services With respect to dry bulk transfer and transport services the ACCC considered that there were alternative sites available to operators in this market and this could constrain Qube in its dealings with its rivals."
+  }
+}

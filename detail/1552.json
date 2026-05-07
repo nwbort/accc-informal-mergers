@@ -1,0 +1,31 @@
+{
+  "id": "1552",
+  "title": "Acquirer: General Electric Capital Corporation; Target: Instrumentarium Corporation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-general-electric-capital-corporation-target-instrumentarium-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17322",
+  "industries": [],
+  "date_completed": "10 June 2003",
+  "date_completed_iso": "2003-06-10T12:00:00Z",
+  "date_commenced": "10 February 2003",
+  "date_commenced_iso": "2003-02-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "General Electric Capital Corporation"
+  ],
+  "targets": [
+    "Instrumentarium Corporation"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The U.S.-based General Electric Company ('GE') proposed to acquire the Finnish company Instrumentarium OYJ by means of all-cash public tender offer. GE sought the Commission's opinion as to whether the proposed. acquisition may breach Section 50 of the Trade Practices Act 1974. The Commission determined that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets.",
+    "Market definition": "1. The national market for the supply of patient monitoring equipment. 2 The national market for the supply of mammography equipment.",
+    "Competition analysis": "Instrumentarium, the target, is an existing vigorous and effective competitor that will be removed from both relevant markets.  Other competitors are likely to continue to be vigorous and effective competitors in those markets. The proposed acquisition would result in a concentration in both relevant markets in excess of the Merger Guidelines.  However the proposed acquisition is unlikely to substantially lessen competition in either market, on the basis that: 1.  Post-acquisition, GE/Instrumentarium would be constrained in both markets by certain large international suppliers of patient monitoring and mammography equipment, who hold large shares of both relevant markets. There are also several other competitors, and potential competitors, with small shares of the Australian markets, but have global presence. 2.  Patient monitoring and mammography equipment is all imported, and foreign suppliers could increase imports to Australia if GE/Instrumentarium attempted to exercise market power in either relevant market. 3. There are low barriers to entry for foreign manufacturers or suppliers of patient monitoring and mammography equipment who wish to commence supply in Australia or expand their operations here.  This has been previously recognised by the Commission; 4. Customers (principally hospitals, research facilities and clinics) exercise a considerable degree of countervailing power through the use of competitive tender processes and organised buyer groups.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "8639"
+  }
+}

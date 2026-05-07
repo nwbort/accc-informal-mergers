@@ -1,0 +1,31 @@
+{
+  "id": "1508",
+  "title": "Acquirer: Suncorp Metway Insurance Limited, Suncorp Metway Limited; Target: RACT Insurance Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-suncorp-metway-insurance-limited-suncorp-metway-limited-target-ract-insurance-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18572",
+  "industries": [],
+  "date_completed": "16 December 2003",
+  "date_completed_iso": "2003-12-16T12:00:00Z",
+  "date_commenced": "3 November 2003",
+  "date_commenced_iso": "2003-11-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Suncorp Metway Insurance Limited, Suncorp Metway Limited"
+  ],
+  "targets": [
+    "RACT Insurance Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 10 October 2003 the Commission received a submission from Suncorp-Metway Limited (\"Suncorp\") in respect of the proposed acquisition of a competitor, RACT Insurance Ltd (\"RACTI\"). It is proposed that Suncorp-Metway Insurance Limited (\"SMIL\") will acquire RACTI.  As soon as practicable after that occurs, GIO Limited Insurance Limited (\"GIOG\") intends not to offer any further personal lines insurance products directly in Tasmania, and its existing customers will be sent renewal notices as and when renewals fall due, by RACTI.",
+    "Market definition": "The relevant markets considered were the Tasmanian market for domestic motor insurance and the Tasmanian market for home and contents insurance.  The Commission considered that these markets could be in transition to a national market.",
+    "Competition analysis": "On 16 December 2003, the Commission decided not to oppose the proposed acquisition.  The Commission considered that the proposed acquisition was unlikely to lead to a substantial lessening of competition in the relevant markets, owing to the fact that, following the acquisition, the merged entity would be constrained by large competitors and by the existence of relatively low barriers to entry for expansion.  Given these constraints, the Commission concluded that the acquirer would be unable to increase prices or profit margins post-acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7422"
+  }
+}

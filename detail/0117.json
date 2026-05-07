@@ -1,0 +1,59 @@
+{
+  "id": "0117",
+  "title": "Turnitin, LLC – Ouriginal Group AB",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/turnitin-llc-%E2%80%93-ouriginal-group-ab",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Anti-plagiarism software and other non-instructional educational software."
+  ],
+  "date_completed": "25 November 2021",
+  "date_completed_iso": "2021-11-25T12:00:00Z",
+  "date_commenced": "5 July 2021",
+  "date_commenced_iso": "2021-07-05T12:00:00Z",
+  "total_review_days": 76,
+  "acquirers": [
+    "Turnitin, LLC, via Turnitin UK Ltd."
+  ],
+  "targets": [
+    "Ouriginal Group AB"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jul 2021",
+      "date_iso": "2021-07-05T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Sep 2021",
+      "date_iso": "2021-09-09T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Sep 2021",
+      "date_iso": "2021-09-27T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "20 Oct 2021",
+      "date_iso": "2021-10-20T12:00:00Z",
+      "event": "ACCC is awaiting information from Turnitin. Former proposed date for announcement of findings (18 November) is delayed.  ACCC timeline suspended."
+    },
+    {
+      "date": "25 Oct 2021",
+      "date_iso": "2021-10-25T12:00:00Z",
+      "event": "ACCC received further information from Turnitin. Proposed decision date set for 25 November 2021."
+    },
+    {
+      "date": "25 Nov 2021",
+      "date_iso": "2021-11-25T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Turnitin, LLC ( Turnitin ), via Turnitin UK Ltd., proposes to acquire Ouriginal Group AB ( Ouriginal ). Turnitin and Ouriginal (through subsidiaries) both supply anti-plagiarism software, and Turnitin also supplies other non-instructional educational software in Australia.",
+    "Market definition": "The ACCC primarily considered the impact of the proposed acquisition in the Australian market for anti-plagiarism software ( APS ). The ACCC also considered the impact of the proposed acquisition on a narrower market for APS for higher education institutions in Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition of these markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. The ACCC initially had concerns that the proposed acquisition would result in Turnitin facing considerably less competition globally and in Australia, and could significantly reduce incentives for Turnitin to innovate. However, the ACCC found that Ouriginal is unlikely to provide a particularly significant competitive constraint on Turnitin at present or in the future. Turnitin is the dominant APS provider in Australia, and Ouriginal has minimal presence in Australia. Post-acquisition, other providers are likely to provide a similar, or greater, level of competitive constraint on Turnitin as Ouriginal does currently. The ACCC also found that Ouriginal is unlikely to be a particularly significant driver of innovation in the market, and that Turnitin’s incentives to innovate and develop its products are likely to continue to be driven by other international APS providers. In addition, barriers to entry or expansion into the relevant market are unlikely to be prohibitive and the proposed acquisition is unlikely to significantly raise these barriers. The ACCC was initially concerned that new entrants would be unable to compete with Turnitin’s cross-institutional database of previously submitted student papers and academic journals. However, the ACCC found that other providers will have the ability to enter and expand in the Australian market, at least to the extent that Ouriginal has. Given these factors, the ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia."
+  }
+}

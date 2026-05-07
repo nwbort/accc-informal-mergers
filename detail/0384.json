@@ -1,0 +1,54 @@
+{
+  "id": "0384",
+  "title": "Toll Holdings Limited - proposed acquisition of Linfox Trans-Bass business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-proposed-acquisition-of-linfox-trans-bass-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50982",
+  "industries": [
+    "Freight forwarding"
+  ],
+  "date_completed": "30 May 2013",
+  "date_completed_iso": "2013-05-30T12:00:00Z",
+  "date_commenced": "22 March 2013",
+  "date_commenced_iso": "2013-03-22T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Linfox Trans-Bass business"
+  ],
+  "timeline": [
+    {
+      "date": "22 Mar 2013",
+      "date_iso": "2013-03-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2013",
+      "date_iso": "2013-04-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 May 2013",
+      "date_iso": "2013-05-02T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 16 May 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "14 May 2013",
+      "date_iso": "2013-05-14T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 May 2013",
+      "date_iso": "2013-05-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Toll Holdings Limited (Toll) proposed to acquire Linfox Australia's Trans-Bass Freight Forwarding business (Linfox Trans-Bass).",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the following markets: I.  the market for the supply of freight forwarding services between Tasmania and mainland Australia; and II. the market for the supply of Bass Strait shipping services.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In the market for freight forwarding services between Tasmania and mainland Australia the ACCC considered that remaining competitors would provide an ongoing competitive constraint on the merged entity post acquisition. In the market for Bass Strait shipping services the ACCC considered that the proposed acquisition would not materially impact competition between Toll ANL, SeaRoad and TT-Line or the extent to which SeaRoad and TT-Line would provide an ongoing competitive constraint on Toll ANL."
+  }
+}

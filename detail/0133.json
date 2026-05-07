@@ -1,0 +1,44 @@
+{
+  "id": "0133",
+  "title": "BGC - Midland Brick",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bgc-midland-brick",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Construction - brickmaking"
+  ],
+  "date_completed": "17 December 2020",
+  "date_completed_iso": "2020-12-17T12:00:00Z",
+  "date_commenced": "6 October 2020",
+  "date_commenced_iso": "2020-10-06T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "BGC (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Midland Brick"
+  ],
+  "timeline": [
+    {
+      "date": "6 Oct 2020",
+      "date_iso": "2020-10-06T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Oct 2020",
+      "date_iso": "2020-10-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Dec 2020",
+      "date_iso": "2020-12-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BGC proposes to acquire Midland Brick. BGC (through its Brikmakers brand) and Midland Brick overlap in the supply of bricks, and other clay and masonry products, in Western Australia.",
+    "Market definition": "The ACCC considered the potential effect of the proposed acquisition on markets for: the supply of clay bricks in Western Australia; and the supply of masonry products in Western Australia. The ACCC did not reach a concluded view on market definition, including whether there were narrower product or geographic markets, as it was not necessary for the competition assessment.",
+    "Competition analysis": "BGC and Midland Brick both supply clay bricks and masonry products in Western Australia. The ACCC considered the impact of the proposed acquisition on competition, including potential horizontal and vertical effects, and concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Supply of clay bricks While the ACCC considered that the proposed acquisition was likely to result in a lessening of competition compared to the state of competition in the market at the time of the ACCC’s investigation - as it would reduce the number of competitors from three to two - that level of competition (the ‘current state’) was unlikely to continue in the future. Going forward, regardless of whether the proposed acquisition proceeds, it was likely that there would only be two major brick manufacturers in Western Australia. The ACCC received information which supported that Midland Brick was likely to exit the market in the event the proposed acquisition did not proceed. The ACCC also considered the likelihood of Midland Brick being sold to an alternative purchaser, however, there was insufficient evidence to support this eventuating. The ACCC therefore concluded the most likely counterfactual for its analysis was the exit of Midland Brick from the market. Horizontal effects The ACCC concluded that the impact on competition for the supply of clay bricks if the proposed acquisition proceeds was unlikely to be substantially less competitive than a scenario where Midland Brick exits. The ACCC considered that a scenario where Midland Brick exits would result in a substantial reduction in brick kiln capacity, which could cause prices to rapidly increase and create a shortage of supply for customers. Vertical effects BGC is vertically integrated into the home building market in Western Australia. The ACCC assessed whether the proposed acquisition would give BGC the ability or incentive to foreclose competitors in either the Western Australia brick manufacturing market or home building market. The ACCC concluded that the proposed acquisition was unlikely to increase BGC’s ability and incentive to foreclose the remaining rival brick manufacturer (Austral) from competing to supply bricks to home builders, because it did not increase BGC’s market share in the home building market. Further, any potential cross-subsidisation of BGC’s brick manufacturing business through its home building business was unlikely, as BGC’s home building prices would likely be constrained by rival home builders. The ACCC also concluded that any strategy to foreclose rival home builders from accessing bricks was likely to be undermined by the ability of those home builders to access bricks from Austral. The ACCC also considered the inability for BGC to maintain efficient production scale purely on self-supply as another factor constraining its incentive to foreclose home builder competitors. Supply of masonry products The ACCC considered that a combined BGC and Midland Brick would still face competition from other masonry product suppliers, including Austral and several smaller competitors, as well as from suppliers of other products that are substitutable for the masonry products Midland Brick and BGC produce (concrete pavers and blocks). The ACCC’s assessment also suggested that new entry into the market was possible and existing suppliers of similar products are able to expand production into competing products."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1117",
+  "title": "Challenger Life No.2 Limited - proposed acquisition of the existing annuity policy, personal superannuation and allocated pensions business of MetLife Insurance Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/challenger-life-no2-limited-proposed-acquisition-of-the-existing-annuity-policy-personal-superannuation-and-allocated-pensions-business-of-metlife",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27669",
+  "industries": [
+    "Annuity products"
+  ],
+  "date_completed": "18 April 2007",
+  "date_completed_iso": "2007-04-18T12:00:00Z",
+  "date_commenced": "14 March 2007",
+  "date_commenced_iso": "2007-03-14T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Challenger Life No.2 Limited"
+  ],
+  "targets": [
+    "MetLife Insurance Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Mar 2007",
+      "date_iso": "2007-03-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "16 Mar 2007",
+      "date_iso": "2007-03-16T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "30 Mar 2007",
+      "date_iso": "2007-03-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "18 Apr 2007",
+      "date_iso": "2007-04-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Challenger Life No.2 Limited proposes to acquire the existing annuity policies of MetLife Insurance Limited.",
+    "Market definition": "This merger was assessed within the context of the national markets for the manufacture and supply of i) long-term annuities, and ii) short-term annuities.",
+    "Competition analysis": "On 18 April 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - There remain a number of sizeable competitors in the two markets, who are likely to act as a strong competitive constraint on the merged firm. - Financial intermediaries exercise a significant degree of countervailing power, which is also likely to constrain the merged firm. - Impending regulatory changes mean that annuity providers in the relevant markets will face competition from a wider range of products."
+  }
+}

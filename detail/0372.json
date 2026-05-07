@@ -1,0 +1,54 @@
+{
+  "id": "0372",
+  "title": "Westfield Group and Westfield Retail Trust - proposed acquisition of Karrinyup Shopping Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/westfield-group-and-westfield-retail-trust-proposed-acquisition-of-karrinyup-shopping-centre-0",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51803",
+  "industries": [
+    "Shopping Centre"
+  ],
+  "date_completed": "5 September 2013",
+  "date_completed_iso": "2013-09-05T12:00:00Z",
+  "date_commenced": "22 July 2013",
+  "date_commenced_iso": "2013-07-22T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Westfield Group and Westfield Retail Trust"
+  ],
+  "targets": [
+    "Karrinyup Shopping Centre (owned by the KSC Trust)"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jul 2013",
+      "date_iso": "2013-07-22T12:00:00Z",
+      "event": "ACCC commenced a new review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 Aug 2013",
+      "date_iso": "2013-08-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Sep 2013",
+      "date_iso": "2013-09-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "19 Sep 2013",
+      "date_iso": "2013-09-19T12:00:00Z",
+      "event": "Westfield and WRT sought the ACCC's consent to withdraw the section 87B Undertaking on the basis that the proposed acquisition, as defined in and contemplated by the Undertaking, is no longer proceeding."
+    },
+    {
+      "date": "9 Oct 2013",
+      "date_iso": "2013-10-09T12:00:00Z",
+      "event": "ACCC decided to consent to the withdrawal of section 87B Undertaking given by Westfield and WRT pursuant to section 87B(2) of the Competition and Consumer Act 2010."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Westfield Group (Westfield) and Westfield Retail Trust (WRT) proposed to acquire the remaining shares in Karrinyup Shopping Centre (proposed acquisition). On 15 August 2011 the ACCC commenced a public review of the proposed acquisition. In April 2012 Westfield and WRT commenced a sale process for Westfield Innaloo. In July 2013, Westfield and WRT informed the ACCC of their intention to retain Westfield Innaloo. Westfield and WRT requested a new review of the proposed acquisition, which the ACCC commenced on 22 July 2013. More information on the ACCC's 2011 review can be found here . Following a public review, on 5 September 2013 the ACCC announced it would not oppose the proposed acquisition, subject to an Undertaking given by Westfield and WRT to divest Innaloo shopping centre. On 13 September 2013 Westfield and WRT sold their existing interests in Karrinyup Shopping Centre.  As the proposed acquisition is no longer proceeding, Westfield and WRT sought the ACCC's consent to withdraw the Undertaking. On 9 October 2013 the ACCC consented to the withdrawal of the Undertaking in accordance with section 87B(2) of the Competition and Consumer Act 2010 .",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

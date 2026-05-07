@@ -1,0 +1,446 @@
+Page 1 of 9 
+ 
+Statement of Issues 
+9 September 2021 
+ Turnitin, LLC – proposed acquisition of  
+Ouriginal Group AB  
+Purpose 
+1. 
+Turnitin, LLC (Turnitin), via Turnitin UK Ltd., proposes to acquire Ouriginal 
+Group AB (Ouriginal).  
+2. 
+This Statement of Issues: 
+• 
+gives the Australian Competition and Consumer Commission’s (ACCC) 
+preliminary views on competition issues arising from the proposed 
+acquisition,  
+• 
+identifies areas of further inquiry, and 
+• 
+invites interested parties to submit comments and information to assist our 
+assessment of the issues. 
+3. 
+Statements of Issues do not refer to confidential information provided by the 
+parties or other market participants and therefore may not fully articulate the 
+ACCC’s preliminary position. 
+Overview of ACCC’s preliminary views 
+4. 
+In considering the proposed acquisition, the ACCC applies the legal test set out 
+in section 50 of the Competition and Consumer Act 2010 (the CCA). In general 
+terms, section 50 prohibits acquisitions that would have the effect, or be likely to 
+have the effect, of substantially lessening competition in any market. 
+5. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. In this 
+Statement of Issues there are two issues that may raise concerns. 
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 2 of 9 
+Issues that may raise concerns 
+• 
+Turnitin is the dominant provider of anti-plagiarism software (APS) to 
+Australian higher education institutions, supplying a large majority of 
+universities, and Ouriginal is one of its two main competitors. By removing 
+one of the only competitive constraints on Turnitin, the proposed 
+acquisition may lead to higher prices and/or lower service levels for 
+Australian higher education institutions who acquire APS. 
+• 
+The proposed acquisition may lead to reduced global innovation that 
+results in reduced product innovation and lower product quality for 
+Australian higher education customers of APS. 
+Making a submission 
+6. 
+The ACCC invites submissions from interested parties. 
+7. 
+Interested parties should provide submissions by 5pm on 27 September 2021. 
+Responses may be emailed to mergers@accc.gov.au with the title: Submission 
+re: Turnitin/Ouriginal. If you would like to discuss the matter with ACCC staff or 
+have any questions about this Statement of Issues, please contact Steven Lee 
+on (02) 6243 1347 or Sidd Sharma on (02) 9102 4011.  
+8. 
+The ACCC anticipates making a final decision on 18 November 2021, however, 
+this timeline can change. To keep up with possible timing changes and to find 
+relevant documents, interested parties should visit the Mergers Register on the 
+ACCC's website. 
+Confidentiality of submissions 
+9. 
+The ACCC will not publish submissions regarding the proposed acquisition. We 
+will not disclose submissions to third parties (except our advisors/consultants) 
+unless compelled by law (for example, under freedom of information legislation 
+or during court proceedings) or in accordance with section 155AAA of the CCA. 
+Where the ACCC is required to disclose confidential information, the ACCC will 
+notify you in advance where possible so that you may have an opportunity to be 
+heard. Therefore, please identify any confidential information that is provided to 
+the ACCC. Our Informal Merger Review Process Guidelines contain more 
+information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+10. 
+A Statement of Issues is not a final decision about a proposed acquisition. A 
+Statement of Issues outlines the ACCC’s preliminary views and identifies further 
+lines of inquiry. 
+11. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 3 of 9 
+The parties 
+12. 
+Turnitin is based in the US and provides software solutions aimed at the 
+educational sector, including plagiarism detection, grammar-checking, grading 
+and online exam proctoring. Turnitin operates in many countries including 
+Australia, through its subsidiary Turnitin Australia Pty Ltd. 
+13. 
+Ouriginal is based in Sweden and is an educational technology provider offering 
+anti-plagiarism software. It focuses on providing APS and does not have as 
+broad a range of products and other assessment and feedback tools as Turnitin. 
+Industry overview 
+14. 
+APS is designed to detect plagiarism in its various forms. In Australia APS is 
+primarily used in the education sector to address risks of plagiarism and thereby 
+assist in maintaining academic integrity. 
+15. 
+Typically, APS detects plagiarism by comparing a piece of work against sources 
+held in databases (such as academic journal articles or works submitted by 
+students) and/or public sources (such as internet web pages). APS providers are 
+also developing more sophisticated tools to respond to increasingly diverse 
+forms of plagiarism, such as contract cheating or ghost writing, which requires 
+detection and analysis of changes in writing styles. 
+16. 
+Most higher education customers in Australia require APS that integrates with 
+their learning management system (LMS), which is a platform used to manage 
+course material, assessments and feedback. In Australia, key LMS providers 
+include Moodle, Blackboard, Canvas and D2L. 
+17. 
+Turnitin, Ouriginal and Blackboard (with its product SafeAssign) are the main 
+providers of APS to higher education institutions in Australia. 
+Relevant market 
+18. 
+The ACCC’s starting point for considering which markets will be affected by the 
+proposed acquisition is to identify the areas of overlap between the products 
+actually or potentially supplied by the merger parties. The ACCC then considers 
+other actual or potential suppliers of those products, as well as other products 
+that constitute sufficiently close substitutes to provide a significant source of 
+constraint on the merged entity. 
+19. 
+The area of overlap between Turnitin and Ouriginal is the supply of APS to 
+educational and corporate institutions. However, the ACCC understands that 
+there is only limited use of APS by the corporate sector, and the focus of the 
+ACCC’s review is on the education sector. 
+20. 
+There are also APS products targeted at students and other writers, to enable 
+them to check that they have appropriately referenced their work before 
+submission. For example, Grammarly provides writing assistance software that 
+incorporates an APS tool. Market feedback indicates that student-facing APS, 
+such as that supplied by Grammarly, is not substitutable at present for the 
+institution-facing APS supplied by the parties, including because it does not 
+integrate with leading LMS. However, the ACCC will consider whether suppliers 
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 4 of 9 
+of student-facing APS are well placed to begin supplying APS to educational 
+institutions. 
+21. 
+Despite the close links between APS and other educational software (such as 
+LMS), and the fact that Turnitin also supplies non-APS products, the ACCC’s 
+preliminary view is that the product market is limited to the supply of APS to 
+educational institutions because: 
+• 
+most Australian customers do not acquire APS from their LMS provider 
+(Turnitin and Ouriginal do not supply LMS), and LMS and other types of 
+non-instructional education software (for example, grading and feedback 
+tools) are not substitutable for APS from a customer’s perspective, and 
+• 
+while LMS providers may appear to be well-placed to expand into APS, 
+market feedback indicates that it would likely take significant time and 
+investment for an LMS provider to develop a competitive APS product.  
+22. 
+The ACCC considers that the market may be further limited to the supply of APS 
+to higher education institutions,1 due to their specific requirements for APS (in 
+particular, the importance of a cross-institution database of student papers) and 
+suppliers’ ability to price discriminate effectively between secondary and higher 
+education customer groups. 
+23. 
+However, the ACCC will continue to consider: 
+• 
+similarities and differences between the needs of secondary schools and 
+higher education institutions in relation to APS, and 
+• 
+whether there are APS suppliers currently only supplying secondary 
+schools who are well placed to begin supplying higher education 
+institutions.   
+The ACCC invites comments from market participants on the above characterisation 
+of the relevant area of competition. In particular, market participants may wish to 
+comment on the following: 
+• 
+How easy or difficult would it be for providers of LMS (or other educational 
+software such as grading or feedback tools) to begin supplying APS? 
+• 
+Would it be viable for educational institutions to use a student-facing APS, such 
+as Grammarly, for academic integrity purposes? Why or why not?  
+• 
+What changes would a provider such as Grammarly need to make to their 
+software for it to be a viable alternative to Turnitin or Ouriginal? 
+                                                 
+ 
+1  
+Higher education customers includes all institutions registered by the Tertiary Education Quality 
+and Standards Agency (TEQSA). There are approximately 180 institutions with active TEQSA 
+registration. The ACCC understands that VET providers and other training organisations (overseen 
+by the Australian Skills Quality Authority, or ASQA) typically do not use APS due to most 
+assessments being practical in nature. 
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 5 of 9 
+• 
+Do higher education customers and K-12 customers have different requirements 
+for APS? Please explain why and outline the key differences in APS functionality 
+and capability needed to serve each group of customers. 
+• 
+How important are each of the following features of APS to higher education and 
+secondary education customers, respectively: 
+o the ability to search against a cross-institution database of previously 
+submitted student works  
+o the ability to search against an extensive range of academic journal 
+articles 
+o local customer support based in Australia 
+o storage of any databases in Australia as opposed to overseas, and 
+o the reputation of the APS provider, including the extent to which it is 
+already being used by other educational institutions. 
+• 
+How easy or difficult would it be for APS suppliers to expand from supplying the 
+K-12 sector (for example, secondary schools) to supplying higher education 
+customers in Australia? 
+Issue that may raise concerns: increased prices/decreased 
+service levels for Australian higher education customers 
+24. 
+Turnitin is the dominant provider of APS to higher education institutions in 
+Australia and Ouriginal, although much smaller, is one of its two main 
+competitors. The ACCC’s preliminary view is that the proposed acquisition may 
+substantially lessen competition by removing one of few competitive constraints 
+on Turnitin, which may lead to increased prices and/or decreased service levels 
+in the supply of APS to Australian customers compared to a counterfactual in 
+which Ouriginal remains independent. 
+25. 
+The ACCC understands that Turnitin, Ouriginal and Blackboard’s SafeAssign are 
+the main APS products used by Australian higher education customers. 
+However, Turnitin is the largest by a significant margin. 
+26. 
+Turnitin obtained a significant first-mover advantage by being the first provider of 
+APS to Australian universities, in the early 2000s. Turnitin supplies the vast 
+majority of universities in Australia and the majority of higher education 
+customers generally. Turnitin has large databases that contain over 1.4 billion 
+student papers, 91 billion current and archived web pages and 82 million 
+scholarly subscription articles.2  
+27. 
+Ouriginal is much smaller than Turnitin in Australia. Currently, Ouriginal has only 
+a small number of university customers in Australia and substantially fewer 
+higher education customers than Turnitin, despite having supplied Australian 
+customers for nearly 10 years (through its predecessor companies). Some 
+                                                 
+ 
+2  
+Turnitin, ‘The Turnitin Difference: the largest and fastest growing database’ available at: 
+https://www.turnitin.com/about/content.  
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 6 of 9 
+market participants consider Ouriginal’s lower price point an advantage over 
+Turnitin, and some consider Ouriginal’s products to be more innovative than 
+Turnitin’s. Other market participants noted Turnitin has a more comprehensive 
+database and more user friendly interface than Ouriginal. Some market feedback 
+suggests Ouriginal’s lack of local Australian support is an issue. The ACCC is 
+still considering the extent to which Ouriginal does, and is likely to, provide a 
+significant competitive constraint on Turnitin absent the proposed acquisition. 
+28. 
+SafeAssign is an APS product offered by Blackboard that is integrated into 
+Blackboard’s LMS product. While a number of Australian higher education 
+customers may use SafeAssign, the ACCC understands that it is not an option 
+for many higher education customers at present as it does not integrate with 
+leading LMS products. Some market participants considered that SafeAssign 
+was not as effective as Turnitin’s APS. 
+Likelihood of entry 
+29. 
+The ACCC understands there are a number of overseas-based APS providers 
+that have limited or no presence in the supply of APS to higher education 
+institutions in Australia at present, but which may be able to enter or expand into 
+this market. These include Copyleaks, Copy Killer, Strike Plagiarism, Viper and 
+Proctorio. The ACCC is considering how likely these providers are to enter or 
+expand into supplying APS to Australian higher education institutions. 
+30. 
+In addition, Google and Microsoft have developed APS features as part of other 
+software commonly used by the education sector. Google Originality Reports is a 
+tool included in Google Classroom and Google Assignments (both available 
+through Google Workspace for Education) that compares works against public 
+sources using Google Search and can also search against the school’s own 
+repository of previous submissions. Similarity checker is a tool in Microsoft Word 
+that assists with citations using Bing Search. 
+31. 
+The ACCC is considering how likely it is that Google or Microsoft will expand 
+their APS businesses and begin supplying higher education institutions in 
+competition with Turnitin. They both have the resources to develop new products 
+and existing customer links in the growing education technology sector. 
+However, APS for higher education institutions is a relatively niche product and 
+may not have sufficient links with other markets to make it attractive to Google or 
+Microsoft. Furthermore, the network effects discussed below give rise to 
+significant barriers, even for very large technology companies. The ACCC is not 
+aware of any information that suggests Google or Microsoft have plans to 
+expand their presence in APS.  
+32. 
+The ACCC’s preliminary view is that there are significant barriers to entry or 
+expansion into the relevant market, that all of the potential entrants referred to 
+above would face (to differing degrees). These include the following: 
+• 
+Network effects due to private databases—the size of an APS provider’s 
+database, against which submitted works can be checked for plagiarism, 
+increases when customers choose to contribute their students’ works. At 
+the same time, for many higher education customers in Australia, an APS 
+product increases in value as its private database of student works grows 
+in size. To the extent that higher education students plagiarise work 
+submitted by students attending different institutions, a larger cross-
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 7 of 9 
+institution database is more likely to detect copying or collusion by 
+students.  
+• 
+Reputation/customer stickiness—related to network effects, some 
+institutions may prefer an established or proven APS product due to 
+concerns that use of new or lesser-known products may be seen as a 
+compromise on academic integrity. Further, contracts are typically several 
+years in length and it appears many customers do not go to tender, making 
+it difficult for a new entrant to quickly obtain scale.  
+• 
+Economies of scale associated with subscriptions to academic journal 
+databases—many higher education customers in Australia value APS 
+products that can check for plagiarism against a large database of journal 
+articles. The high fixed costs associated with procuring and managing 
+subscriptions with a large number of publishers may deter entry unless a 
+prospective APS supplier is confident of being able to rapidly capture a 
+sufficient customer base. 
+• 
+Switching difficulties for customers—the ACCC understands that higher 
+education customers are generally reluctant to switch APS providers. 
+While the monetary costs of switching to a new APS provider may not be 
+particularly high, market feedback suggests there may be significant costs 
+associated with training staff and students to use new software. Some 
+customers also raised concerns that they may be unable to download their 
+previous student submissions and transfer them to another APS provider. 
+However, the ACCC understands that typically an institution would be able 
+to access its previous student submissions via its LMS and submit them to 
+their new APS provider. 
+ACCC’s preliminary views 
+33. 
+In summary, the ACCC is concerned that Turnitin’s acquisition of Ouriginal may 
+result in an increased ability for Turnitin to raise prices and reduce service levels, 
+by removing one of its only competitive constraints in Australia.  
+The ACCC invites comments from market participants on its concerns in relation to 
+Turnitin’s ability to raise prices/decease service levels in the supply of APS to 
+Australian higher education customers. In particular, market participants may wish to 
+comment on the following: 
+• 
+Please list the APS providers you consider are suitable options for Australian 
+higher education institutions, and explain why. 
+• 
+Which companies not currently supplying APS to Australian higher education 
+institutions are best placed to begin doing so and why? What steps would they 
+need to take to be successful? 
+• 
+Please provide your views on  the significance of, and the difficulty of 
+overcoming, the following barriers to entry and expansion in the relevant market: 
+o the need to build cross-institutional databases and the number of 
+institutions’ materials that needs to be included 
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 8 of 9 
+o the importance of product reputation and the transferability of reputation 
+earned in overseas jurisdictions to the Australian market 
+o access to a comprehensive subscription-based academic journal 
+database and the annual cost of inaugurating and maintaining such a 
+database  
+o customer switching costs and difficulties, and 
+o any other potential barriers not listed above (please describe them). 
+Issue that may raise concerns: Turnitin’s reduced 
+incentive to innovate  
+34. 
+The ACCC is considering whether, by removing a significant global innovative 
+competitor and in the presence of significant barriers to entry, the proposed 
+acquisition may lead to reduced incentives for Turnitin and other APS providers 
+to improve and update their products. Generally, a key way in which software 
+firms compete is through product innovation. As innovation typically requires 
+firms to incur up-front costs for uncertain returns, firms will often have weaker 
+incentives to engage in innovation if they face less actual and potential 
+competition. The ACCC is concerned that removal of Ouriginal as an actual or 
+potential competitor may result in less product innovation globally and therefore 
+lower product quality for Australian customers than would be the case without 
+the acquisition. 
+35. 
+The incentive for Turnitin to innovate is likely to be driven by a broader range of 
+competitors than those it faces in Australia. The ACCC understands that 
+decisions by APS providers about how much to invest in product innovation, and 
+which aspects to prioritise, are likely to be made at the global level, taking into 
+account the full range of competitors that the provider faces, or may face, across 
+the different countries in which it competes or is likely to compete. 
+36. 
+The ACCC’s preliminary view is that the proposed acquisition has the potential to 
+lead to reduced innovation globally on the basis that: 
+• 
+Ouriginal may be a particularly innovative competitor, and 
+• 
+there may be a lack of other competitors globally who are likely to innovate 
+(and thereby incentivise Turnitin to innovate). 
+37. 
+The ACCC understands that APS providers generally do not develop specific 
+products for different countries, so APS products are largely the same across 
+jurisdictions. If the proposed acquisition were to lead to reduced innovation in 
+APS globally, it would be detrimental to Australian customers because they 
+would miss out on the benefits that the lost innovation could have created.  
+38. 
+The ACCC will continue to investigate the number and significance of other APS 
+providers globally to better understand the nature and level of innovation they 
+are likely to engage in directly as well as the impetus to innovate they are likely 
+to provide to their competitors. 
+
+
+Turnitin, LLC – proposed acquisition of Ouriginal Group AB 
+ 
+Page 9 of 9 
+The ACCC invites comments from market participants on its preliminary concern that 
+the proposed acquisition may reduce Turnitin’s incentive to innovate. In particular, 
+market participants may wish to comment on the following: 
+• 
+The extent to which Ouriginal is a particularly innovative APS provider, and 
+• 
+Whether there are other actual or potential competitors who are likely to drive 
+innovation in APS. 
+ACCC's future steps 
+39. 
+As noted above, the ACCC invites submissions from market participants on each 
+of the issues identified in this Statement of Issues and on any other issue that 
+may be relevant to the ACCC's assessment of this matter. Submissions should 
+be emailed to mergers@accc.gov.au by no later than 27 September 2021. 
+40. 
+The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+41. 
+The ACCC intends to publicly announce its final view by 18 November 2021. 
+However the anticipated timeline may change in line with the Informal Merger 
+Review Process Guidelines. A Public Competition Assessment explaining the 
+ACCC's final view may be published following the ACCC's public announcement. 

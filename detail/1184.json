@@ -1,0 +1,38 @@
+{
+  "id": "1184",
+  "title": "Transpacific Industries Group Ltd - proposed acquisition of Baxter Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-proposed-acquisition-of-baxter-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26593",
+  "industries": [
+    "Waste services"
+  ],
+  "date_completed": "1 December 2006",
+  "date_completed_iso": "2006-12-01T12:00:00Z",
+  "date_commenced": "13 November 2006",
+  "date_commenced_iso": "2006-11-13T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Baxter Group Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Nov 2006",
+      "date_iso": "2006-11-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "1 Dec 2006",
+      "date_iso": "2006-12-01T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group Ltd - proposed acquisition of Baxter Group Ltd",
+    "Competition analysis": "The ACCC concluded that the area of overlap was minimal and therefore no competition concerns were likely to arise."
+  }
+}

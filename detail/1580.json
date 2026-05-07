@@ -1,0 +1,31 @@
+{
+  "id": "1580",
+  "title": "Acquirer: Tropical Ice; Target: Nice Ice",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-tropical-ice-target-nice-ice",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16988",
+  "industries": [],
+  "date_completed": "4 February 2003",
+  "date_completed_iso": "2003-02-04T12:00:00Z",
+  "date_commenced": "15 November 2002",
+  "date_commenced_iso": "2002-11-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Tropical Ice"
+  ],
+  "targets": [
+    "Nice Ice"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Tropical Ice has acquired Nice Ice's business in Townsville.",
+    "Market definition": "The relevant market is the market for the manufacture and distribution of ice in Townsville.",
+    "Competition analysis": "Whilst the acquisition crosses the Commission's thresholds for the exercise of market power the Commission considers that it is unlikely to result in a substantial lessening of competition due to the low barriers to entry and the ability of end-users to manufacture their own ice.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2179"
+  }
+}

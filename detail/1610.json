@@ -1,0 +1,31 @@
+{
+  "id": "1610",
+  "title": "Acquirer: Australian National Credit Union Ltd; Target: City Coast Credit Union Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-national-credit-union-ltd-target-city-coast-credit-union-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16814",
+  "industries": [],
+  "date_completed": "14 October 2002",
+  "date_completed_iso": "2002-10-14T12:00:00Z",
+  "date_commenced": "4 October 2002",
+  "date_commenced_iso": "2002-10-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian National Credit Union Ltd"
+  ],
+  "targets": [
+    "City Coast Credit Union Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 4 October 2002 the Australian Prudential Regulation Authority informed the Commission of the transfer of business of the City Coast Credit Union to the Australian National Credit Union.",
+    "Market definition": "Financial services",
+    "Competition analysis": "Credit unions offer a broad range of financial services.  Credit unions offer a range of services similar to banks and building societies. There is virtually no competitive overlap between the two parties.  The operations of the City Coast Credit Union are spread along the south coast of New South Wales and centred around the Wollongong region.  The Australian National Credit Union has several branch locations in the outer suburbs of Sydney and one branch on the deep south coast of New South Wales. The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7329"
+  }
+}

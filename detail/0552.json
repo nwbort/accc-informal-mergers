@@ -1,0 +1,45 @@
+{
+  "id": "0552",
+  "title": "Amalgamated Holdings Limited - completed acquisition of leasehold interests and other assets related to cinemas located in Cronulla and Beverly Hills, NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amalgamated-holdings-limited-completed-acquisition-of-leasehold-interests-and-other-assets-related-to-cinemas-located-in-cronulla-and-beverly-hills-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40685",
+  "industries": [
+    "Cinema operation"
+  ],
+  "date_completed": "8 February 2011",
+  "date_completed_iso": "2011-02-08T12:00:00Z",
+  "date_commenced": "18 March 2010",
+  "date_commenced_iso": "2010-03-18T12:00:00Z",
+  "total_review_days": 121,
+  "acquirers": [
+    "Amalgamated Holdings Limited"
+  ],
+  "targets": [
+    "Certain cinema assets of D&G Cinemas Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "13 Oct 2009",
+      "date_iso": "2009-10-13T12:00:00Z",
+      "event": "Amalgamated Holdings Limited acquired leasehold interests and other assets related to cinemas located in Cronulla and Beverly Hills, NSW."
+    },
+    {
+      "date": "18 Mar 2010",
+      "date_iso": "2010-03-18T12:00:00Z",
+      "event": "ACCC commenced a public review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "1 Apr 2010",
+      "date_iso": "2010-04-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Feb 2011",
+      "date_iso": "2011-02-08T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC will however continue to monitor the effect of the acquisition on competition in the relevant markets."
+    }
+  ],
+  "body_sections": {}
+}

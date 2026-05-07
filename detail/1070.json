@@ -1,0 +1,44 @@
+{
+  "id": "1070",
+  "title": "Barclays PLC - proposed acquisition of ABN AMRO Holding NV",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/barclays-plc-proposed-acquisition-of-abn-amro-holding-nv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28677",
+  "industries": [
+    "Financial services"
+  ],
+  "date_completed": "24 July 2007",
+  "date_completed_iso": "2007-07-24T12:00:00Z",
+  "date_commenced": "9 July 2007",
+  "date_commenced_iso": "2007-07-09T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Barclays PLC"
+  ],
+  "targets": [
+    "ABN AMRO Holding NV"
+  ],
+  "timeline": [
+    {
+      "date": "9 Jul 2007",
+      "date_iso": "2007-07-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jul 2007",
+      "date_iso": "2007-07-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jul 2007",
+      "date_iso": "2007-07-24T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Barclays is proposing to acquire all of the issued shares in ABN AMRO. Barclays and ABN AMRO are both multinational financial services providers with operations in Australia.",
+    "Market definition": "The merger parties' Australian operations overlap in the areas of asset management, investment banking, and trading in bonds and derivatives. The ACCC considered that the markets for these products exist on at least a national scale. The ACCC did not reach a conclusive view on the specific market definition relevant to this transaction, as the outcome of the competition assessment would have remained the same regardless of the precise boundaries of the market.",
+    "Competition analysis": "The merger parties compete against a large number of global financial services providers including foreign owned entities and Australian owned entities. Further, customers of the merger parties are generally large, sophisticated corporations who are able to exert significant bargaining power and can turn to alternative providers relatively easily."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0450",
+  "title": "Pandrol Australia Pty Ltd - completed acquisition of Intercast & Forge Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pandrol-australia-pty-ltd-completed-acquisition-of-intercast-forge-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48151",
+  "industries": [
+    "Iron and steel casting, rail"
+  ],
+  "date_completed": "9 May 2012",
+  "date_completed_iso": "2012-05-09T12:00:00Z",
+  "date_commenced": "6 March 2012",
+  "date_commenced_iso": "2012-03-06T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Pandrol Australia Pty Ltd"
+  ],
+  "targets": [
+    "Intercast & Forge Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Mar 2012",
+      "date_iso": "2012-03-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Mar 2012",
+      "date_iso": "2012-03-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 May 2012",
+      "date_iso": "2012-05-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pandrol, a supplier of rail fastening products, acquired Intercast & Forge (I&F), Australia's largest iron foundry and manufacturer of rail shoulders and baseplates (rail casting products).",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the market for the manufacture and supply of rail casting products. The ACCC did not reach a concluded view with respect to the geographical dimension of the market, however considered that the relevant market would likely encompass, at its narrowest, manufacture and supply of rail casting products in the Asia Pacific region.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to substantially lessen competition in the relevant market. As the completed acquisition was vertical in nature with no horizontal overlap, the ACCC considered that the completed acquisition would not result in any increase in market concentration in any relevant market. The ACCC considered that the ability of customers to import rail castings would constrain any attempt by Pandrol to increase the prices of rail castings post-acquisition and limit Pandrol's incentive to implement a foreclosure strategy for its downstream competitors for the supply of rail fastening systems."
+  }
+}

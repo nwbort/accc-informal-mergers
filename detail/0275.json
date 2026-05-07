@@ -1,0 +1,99 @@
+{
+  "id": "0275",
+  "title": "GPC Asia Pacific Pty Ltd - proposed acquisition of Covs Parts from Automotive Holdings Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gpc-asia-pacific-pty-ltd-proposed-acquisition-of-covs-parts-from-automotive-holdings-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57697",
+  "industries": [
+    "Automotive parts"
+  ],
+  "date_completed": "17 December 2015",
+  "date_completed_iso": "2015-12-17T12:00:00Z",
+  "date_commenced": "26 August 2015",
+  "date_commenced_iso": "2015-08-26T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "GPC Asia Pacific Pty Ltd"
+  ],
+  "targets": [
+    "Covs Parts"
+  ],
+  "timeline": [
+    {
+      "date": "26 Aug 2015",
+      "date_iso": "2015-08-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "7 Sep 2015",
+      "date_iso": "2015-09-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Sep 2015",
+      "date_iso": "2015-09-21T12:00:00Z",
+      "event": "Former proposed decision date of 8 October delayed to allow receipt of further information from GPC."
+    },
+    {
+      "date": "28 Sep 2015",
+      "date_iso": "2015-09-28T12:00:00Z",
+      "event": "ACCC received further information from GPC. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Oct 2015",
+      "date_iso": "2015-10-21T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "5 Nov 2015",
+      "date_iso": "2015-11-05T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "17 Nov 2015",
+      "date_iso": "2015-11-17T12:00:00Z",
+      "event": "Former proposed decision date of 26 November delayed to allow receipt of further information from AHG."
+    },
+    {
+      "date": "18 Nov 2015",
+      "date_iso": "2015-11-18T12:00:00Z",
+      "event": "ACCC received further information from AHG. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Nov 2015",
+      "date_iso": "2015-11-24T12:00:00Z",
+      "event": "Former proposed decision date of 3 December delayed to allow the ACCC further time to consider information provided by the merger parties."
+    },
+    {
+      "date": "9 Dec 2015",
+      "date_iso": "2015-12-09T12:00:00Z",
+      "event": "Former proposed decision date of 10 December delayed to allow the ACCC further time to consider further information provided by the merger parties."
+    },
+    {
+      "date": "17 Dec 2015",
+      "date_iso": "2015-12-17T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    },
+    {
+      "date": "21 Dec 2015",
+      "date_iso": "2015-12-21T12:00:00Z",
+      "event": "GPC and AHG proposed to exclude the Covs Parts stores in Albany, Esperance, Karratha and Port Hedland from the proposed acquisition (revised proposed acquisition). The ACCC conducted further targeted market inquiries."
+    },
+    {
+      "date": "8 Feb 2016",
+      "date_iso": "2016-02-08T12:00:00Z",
+      "event": "AHG provided a draft section 87B undertaking to the ACCC regarding the continued operation of the retained stores."
+    },
+    {
+      "date": "18 Feb 2016",
+      "date_iso": "2016-02-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the revised proposed acquisition, subject to the s 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "GPC proposed to acquire the Covs Parts business from AHG. Both Covs Parts and GPC (via its Repco and Ashdown-Ingram stores) supply automotive parts to trade customers in metropolitan and regional Western Australia. Following the ACCC's decision to oppose the proposed acquisition, GPC and AHG modified the proposed acquisition to exclude the Covs Parts stores in Albany, Esperance, Karratha and Port Hedland (the revised proposed acquisition). After further targeted market inquiries, the ACCC announced that it would not oppose the revised proposed acquisition on 18 February 2016.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

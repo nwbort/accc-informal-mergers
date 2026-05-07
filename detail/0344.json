@@ -1,0 +1,53 @@
+{
+  "id": "0344",
+  "title": "Black & White Cabs (Queensland) Pty Ltd - proposed acquisition of Toowoomba business of Yellow Cabs (Queensland) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/black-white-cabs-queensland-pty-ltd-proposed-acquisition-of-toowoomba-business-of-yellow-cabs-queensland-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52699",
+  "industries": [
+    "Taxi"
+  ],
+  "date_completed": "5 March 2014",
+  "date_completed_iso": "2014-03-05T12:00:00Z",
+  "date_commenced": "19 November 2013",
+  "date_commenced_iso": "2013-11-19T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Black & White Cabs (Queensland) Pty Ltd"
+  ],
+  "targets": [
+    "Toowoomba business of Yellow Cabs (Queensland) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Nov 2013",
+      "date_iso": "2013-11-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "10 Dec 2013",
+      "date_iso": "2013-12-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "20 Jan 2014",
+      "date_iso": "2014-01-20T12:00:00Z",
+      "event": "Former provisional decision date of 23 January 2014 delayed to allow the ACCC to make further inquiries of the merger parties."
+    },
+    {
+      "date": "14 Feb 2014",
+      "date_iso": "2014-02-14T12:00:00Z",
+      "event": "Former proposed decision date of 27 February 2014 delayed to allow the merger parties to provide additional information."
+    },
+    {
+      "date": "5 Mar 2014",
+      "date_iso": "2014-03-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the following markets in its assessment of the proposed transaction: (i) a regional market in the Toowoomba taxi service area for the supply of taxi network services to taxi operators (ii) a regional market in the Toowoomba taxi service area for the supply of pre-booked taxi services to consumers (iii) a state-wide (Queensland) market for the supply of booking and dispatch services to taxi operators.",
+    "Competition analysis": "The proposed transaction would reduce the number of taxi network companies in the Toowoomba taxi service area from two to one. This would represent a reduction in competition, relative to the status quo, in the Toowoomba markets for both the supply of pre-booked taxi services to consumers, and the supply of taxi network services to taxi operators. Taxi consumers in Toowoomba would no longer enjoy a choice between rival networks: while it would remain possible to call Yellow's taxi booking telephone number, the booking service and taxis would be operated by Black & White. Given this lack of choice, consumers would be more vulnerable to a degradation of service levels from taxis in Toowoomba. Further, following the proposed transaction, Black & White would no longer be constrained by competition from Yellow from: - increasing the network fees it charges to taxi operators in Toowoomba for its booking and dispatch and related network services - degrading the level of service it provides to taxi operators in Toowoomba. However, the ACCC received persuasive evidence that Yellow would be unlikely to remain a viable competitor in Toowoomba in the absence of the proposed transaction, and that an alternative buyer of Yellow's business was unlikely to come forward. Accordingly, the potential competitive harm summarised above would be likely to occur with or without the proposed transaction. The ACCC concluded that the proposed transaction would not be likely to have the effect of substantially lessening competition in the state-wide (Queensland) market for the supply of booking and dispatch services to taxi operators, whether considered against the status quo or the likely future without Yellow operating in Toowoomba."
+  }
+}

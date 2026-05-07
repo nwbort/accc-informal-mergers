@@ -1,0 +1,65 @@
+{
+  "id": "0378",
+  "title": "Telstra Corporation Limited - proposed acquisition of Adam Internet Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/telstra-corporation-limited-proposed-acquisition-of-adam-internet-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49867",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "19 July 2013",
+  "date_completed_iso": "2013-07-19T12:00:00Z",
+  "date_commenced": "25 October 2012",
+  "date_commenced_iso": "2012-10-25T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "Telstra Corporation Limited"
+  ],
+  "targets": [
+    "Adam Internet Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Oct 2012",
+      "date_iso": "2012-10-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Nov 2012",
+      "date_iso": "2012-11-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Nov 2012",
+      "date_iso": "2012-11-20T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. The ACCC timeline was suspended and the former proposed decision date of 13 December 2012 was delayed pending receipt of the information."
+    },
+    {
+      "date": "30 Nov 2012",
+      "date_iso": "2012-11-30T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Dec 2012",
+      "date_iso": "2012-12-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "24 Jan 2013",
+      "date_iso": "2013-01-24T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "25 Jan 2013",
+      "date_iso": "2013-01-25T12:00:00Z",
+      "event": "ACCC timeline suspended upon request from Telstra. The former proposed decision date of 7 February 2013 delayed."
+    },
+    {
+      "date": "23 Jul 2013",
+      "date_iso": "2013-07-23T12:00:00Z",
+      "event": "ACCC terminated public review after Telstra advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1489",
+  "title": "Acquirer: Visy Industrial Packaging; Target: ACI Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-visy-industrial-packaging-target-aci-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19160",
+  "industries": [],
+  "date_completed": "1 April 2004",
+  "date_completed_iso": "2004-04-01T12:00:00Z",
+  "date_commenced": "2 March 2004",
+  "date_commenced_iso": "2004-03-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Visy Industrial Packaging"
+  ],
+  "targets": [
+    "ACI Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "VIP proposes to acquire the plastic packaging business of ACI.  This includes the manufacture and supply of rigid plastic non-beverage containers and plastic closures.",
+    "Market definition": "Separate markets for the manufacture and supply of non-beverage rigid plastic containers and plastic closures.",
+    "Competition analysis": "The Commission's thresholds for the exercise of unilateral and combined market power are not crossed in relation to the market for the manufacture and supply of non-beverage rigid plastic containers. The merged entity has 27 per cent market share and the CR4 increasing from 43 per cent to 57 per cent. The Commission's thresholds for the exercise of unilateral and combined market power are not crossed in relation to the market for the manufacture and supply of plastic closures.  The merged entity will have approximately 32 per cent market share, with all domestic producers having less than 70 per cent of the market. Some concern does exist in the market place as to the effect of the proposed acquisition on competition in the supply of non-beverage rigid plastic containers.  However, this is insufficient to conclude that there is likely to be a substantial lessening of competition due to the low barriers to entry, existence of significant import competition, countervailing power and the availability of substitutes. Given the high level of imports, as well as the potential for further imports of plastic closures, the proposed acquisition is not likely to substantially lessen competition in this market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2562"
+  }
+}

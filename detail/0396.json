@@ -1,0 +1,54 @@
+{
+  "id": "0396",
+  "title": "Commonwealth Bank of Australia - proposed acquisition of remaining issued capital of Aussie Home Loans",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/commonwealth-bank-of-australia-proposed-acquisition-of-remaining-issued-capital-of-aussie-home-loans",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50476",
+  "industries": [
+    "Home Loans distribution"
+  ],
+  "date_completed": "21 March 2013",
+  "date_completed_iso": "2013-03-21T12:00:00Z",
+  "date_commenced": "11 January 2013",
+  "date_commenced_iso": "2013-01-11T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Commonwealth Bank of Australia"
+  ],
+  "targets": [
+    "Aussie Home Loans"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jan 2013",
+      "date_iso": "2013-01-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "31 Jan 2013",
+      "date_iso": "2013-01-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Feb 2013",
+      "date_iso": "2013-02-08T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 7 March 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "19 Feb 2013",
+      "date_iso": "2013-02-19T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Mar 2013",
+      "date_iso": "2013-03-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Commonwealth Bank Australia proposed to acquire the remaining 67% of the issued capital in Aussie Home Loans that it does not already own.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the following markets: I.\tthe national market for the supply of home loans; and II.\tthe national market for the supply of mortgage distribution services. The supply of mortgage distribution services refers to mortgage aggregators and broker head groups providing lending institutions access to their networks of aligned brokers. For the purpose of considering this acquisition, the ACCC did not consider it necessary to form a definitive view as to whether there is a separate market for the supply of mortgage referral services. The supply of mortgage referral services refers to mortgage brokers providing services and advice to consumers seeking to obtain a mortgage product.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in any relevant market. Factors informing this view included: I.\tthe competitive constraint arising from the presence of a number of alternative suppliers of home loans, including bank and non-bank lenders, and alternative suppliers of mortgage distribution services, including other broker head groups and mortgage aggregators; and II.\twhile Commonwealth Bank is likely to have the ability and incentive to increase the volume of, for example, \"white label\" home loan products that it would supply  through Aussie Home Loans, this would not give rise to foreclosure of rival  lenders to the extent that a substantial lessening of competition was likely to arise, since Aussie Home Loans brokers make up only around 6% of Australia's mortgage brokers, and there are many other distribution channels through which lenders can access brokers and borrowers."
+  }
+}

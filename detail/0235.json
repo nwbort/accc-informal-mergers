@@ -1,0 +1,80 @@
+{
+  "id": "0235",
+  "title": "South32 Limited - proposed acquisition of Metropolitan Collieries Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/south32-limited-proposed-acquisition-of-metropolitan-collieries-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60982",
+  "industries": [
+    "Coal mining"
+  ],
+  "date_completed": "18 April 2017",
+  "date_completed_iso": "2017-04-18T12:00:00Z",
+  "date_commenced": "2 December 2016",
+  "date_commenced_iso": "2016-12-02T12:00:00Z",
+  "total_review_days": 67,
+  "acquirers": [
+    "South32 Limited"
+  ],
+  "targets": [
+    "Metropolitan Collieries Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Dec 2016",
+      "date_iso": "2016-12-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "22 Dec 2016",
+      "date_iso": "2016-12-22T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "23 Dec 2016",
+      "date_iso": "2016-12-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jan 2017",
+      "date_iso": "2017-01-13T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "8 Feb 2017",
+      "date_iso": "2017-02-08T12:00:00Z",
+      "event": "Former provisional decision date of 16 February 2017 delayed by ACCC to allow additional time to consider the proposed acquisition."
+    },
+    {
+      "date": "23 Feb 2017",
+      "date_iso": "2017-02-23T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "6 Mar 2017",
+      "date_iso": "2017-03-06T12:00:00Z",
+      "event": "ACCC requested further information from the vendor."
+    },
+    {
+      "date": "10 Mar 2017",
+      "date_iso": "2017-03-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "16 Mar 2017",
+      "date_iso": "2017-03-16T12:00:00Z",
+      "event": "ACCC received further information from the vendor."
+    },
+    {
+      "date": "23 Mar 2017",
+      "date_iso": "2017-03-23T12:00:00Z",
+      "event": "Former proposed decision date of 6 April 2017 delayed by ACCC to allow additional time to consider the proposed acquisition."
+    },
+    {
+      "date": "18 Apr 2017",
+      "date_iso": "2017-04-18T12:00:00Z",
+      "event": "Following South32's announcement that it will not proceed with its proposed acquisition of Metropolitan Collieries, the ACCC discontinued this review."
+    }
+  ],
+  "body_sections": {}
+}

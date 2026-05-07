@@ -1,0 +1,44 @@
+{
+  "id": "0923",
+  "title": "Banking and Financial Services Ombudsman Ltd - proposed acquisition of The Insurance Ombudsman Service Ltd, Financial Industry Complaints Service Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/banking-and-financial-services-ombudsman-ltd-proposed-acquisition-of-the-insurance-ombudsman-service-ltd-financial-industry-complaints-service-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29536",
+  "industries": [
+    "Dispute resolution  - Financial Services industry"
+  ],
+  "date_completed": "13 May 2008",
+  "date_completed_iso": "2008-05-13T12:00:00Z",
+  "date_commenced": "2 April 2008",
+  "date_commenced_iso": "2008-04-02T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Banking and Financial Services Ombudsman Ltd"
+  ],
+  "targets": [
+    "The Insurance Ombudsman Service Ltd<br/> Financial Industry Complaints Service Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Apr 2008",
+      "date_iso": "2008-04-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Apr 2008",
+      "date_iso": "2008-04-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 May 2008",
+      "date_iso": "2008-05-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposal to merge the business operations of the Banking and Financial Services Ombudsman Ltd, the Insurance Ombudsman Service Ltd and the Financial Industry Complaints Service Limted (schemes).",
+    "Market definition": "The relevant market is the national market for the provision of dispute resolution services to financial service providers.",
+    "Competition analysis": "No competitive rivalry exists between the schemes. Each scheme requires regulatory approval, including in determining the scope of the services provided by each scheme. As the scope of each scheme and therefore its customer base is confined by regulatory structure, the ACCC found no actual or potential competition between the merging schemes."
+  }
+}

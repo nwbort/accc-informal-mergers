@@ -1,0 +1,64 @@
+{
+  "id": "1092",
+  "title": "Woolworths Limited - proposed acquisition of Jindabyne IGA Supermarket, Festival IGA Liquor, and Porter's Liquor licence",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-jindabyne-iga-supermarket-festival-iga-liquor-and-porters-liquor-licence",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28264",
+  "industries": [
+    "Supermarket & Liquor Retail"
+  ],
+  "date_completed": "19 June 2007",
+  "date_completed_iso": "2007-06-19T12:00:00Z",
+  "date_commenced": "15 May 2007",
+  "date_commenced_iso": "2007-05-15T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Jindabyne IGA Supermarket"
+  ],
+  "timeline": [
+    {
+      "date": "15 May 2007",
+      "date_iso": "2007-05-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 May 2007",
+      "date_iso": "2007-05-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Jun 2007",
+      "date_iso": "2007-06-01T12:00:00Z",
+      "event": "ACCC requested further information from Woolworths. ACCC timeline suspended."
+    },
+    {
+      "date": "1 Jun 2007",
+      "date_iso": "2007-06-01T12:00:00Z",
+      "event": "Decision date postponed from 6 June 2007 to 13 June 2007 to allow for consideration of further information."
+    },
+    {
+      "date": "7 Jun 2007",
+      "date_iso": "2007-06-07T12:00:00Z",
+      "event": "ACCC received further information from Woolworths. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Jun 2007",
+      "date_iso": "2007-06-07T12:00:00Z",
+      "event": "Decision date postponed from 13 June 2007 to 19 June 2007 to allow for consideration of further information provided by Woolworths."
+    },
+    {
+      "date": "19 Jun 2007",
+      "date_iso": "2007-06-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire Festival Jindabyne IGA Supermarket, and Festival IGA Liquor Jindabyne, and the off-licence (retail) liquor licence currently trading in Jindabyne as \"Porter's Liquor\".",
+    "Market definition": "Please see detailed Public Competition Assessment below.",
+    "Competition analysis": "Please see detailed Public Competition Assessment below."
+  }
+}

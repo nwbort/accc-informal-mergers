@@ -1,0 +1,44 @@
+{
+  "id": "0740",
+  "title": "Toll Holdings Limited - proposed acquisition of Perkins Group Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-proposed-acquisition-of-perkins-group-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37599",
+  "industries": [
+    "Freight, logistics and shipping"
+  ],
+  "date_completed": "29 June 2009",
+  "date_completed_iso": "2009-06-29T12:00:00Z",
+  "date_commenced": "16 June 2009",
+  "date_commenced_iso": "2009-06-16T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Perkins Group Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jun 2009",
+      "date_iso": "2009-06-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Jun 2009",
+      "date_iso": "2009-06-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Jun 2009",
+      "date_iso": "2009-06-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Toll Holdings Limited proposed to acquire Perkins Group Holdings Pty Ltd, a privately owned shipping group based in Darwin.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: 1. The supply of international shipping services on the Darwin-Dili-Singapore route (the international shipping market); and 2. The supply of coastal and community shipping services between the Northern Territory, the eastern edge of northern Western Australia and the Cape York Peninsula (the coastal and community shipping market). For the purposes of this review, the ACCC also considered the provision of land-based services in connection with the above shipping markets, but did not reach a definitive view regarding market definition, since this would not have changed the outcome of the competition analysis.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Market 1 - International shipping market The ACCC noted that there was no horizontal overlap between the merger parties, and therefore no aggregation of market share in this market. The ACCC considered that any increase in vertical integration was unlikely to raise competition concerns due to the existence of a number of actual or potential competitors that provide international shipping services in this market. Market 2 - Coastal and community shipping market The ACCC noted that there was no horizontal overlap between the merger parties, and therefore no aggregation of market share in this market. The ACCC considered that the proposed acquisition was unlikely to result in any significant increase in vertical integration in this market. In relation to land-based services, the ACCC considered that the proposed acquisition was unlikely to raise competition concerns on a horizontal basis given the limited overlap between the merger parties for the provision of such services."
+  }
+}

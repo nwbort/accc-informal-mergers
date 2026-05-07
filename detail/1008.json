@@ -1,0 +1,49 @@
+{
+  "id": "1008",
+  "title": "Transpacific Industries Group Ltd - acquisition of Champions Corporation Pty Ltd trading as JRMS Services",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-champions-corporation-pty-ltd-trading-as-jrms-services",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28850",
+  "industries": [
+    "Solid waste collection"
+  ],
+  "date_completed": "7 November 2007",
+  "date_completed_iso": "2007-11-07T12:00:00Z",
+  "date_commenced": "22 October 2007",
+  "date_commenced_iso": "2007-10-22T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Champions Corporation Pty Ltd trading as JRMS Services"
+  ],
+  "timeline": [
+    {
+      "date": "9 Sep 2007",
+      "date_iso": "2007-09-09T12:00:00Z",
+      "event": "Transpacific acquired the business of Champions Corporation (trading as JRMS Services)."
+    },
+    {
+      "date": "22 Oct 2007",
+      "date_iso": "2007-10-22T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "6 Nov 2007",
+      "date_iso": "2007-11-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Nov 2007",
+      "date_iso": "2007-11-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific acquired the business of Champions Corporation trading as JRMS Services.",
+    "Market definition": "Solid waste collection services in the north-west region of Western Australia.",
+    "Competition analysis": "On 7 November 2007, the ACCC announced its decision not to oppose the acquisition by Transpacific of the business trading as JRMS Services. The ACCC considered the information provided by Transpacific and other information available to it. Based on that information, the ACCC considered that the acquisition of JRMS Services' relatively small-scale business and operations was unlikely to remove a significant source of competitive constraint in the relevant market. The main factor informing this view was the fact that, prior to the acquisition of JRMS Services, Transpacific did not provide any solid waste collection services in the north-west region (i.e. the region serviced by JRMS Services)."
+  }
+}

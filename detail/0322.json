@@ -1,0 +1,53 @@
+{
+  "id": "0322",
+  "title": "First Pacific Company Limited and Wilmar International Limited - proposed acquisition of Goodman Fielder Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/first-pacific-company-limited-and-wilmar-international-limited-proposed-acquisition-of-goodman-fielder-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54524",
+  "industries": [
+    "Wholesaling of edible oils"
+  ],
+  "date_completed": "25 September 2014",
+  "date_completed_iso": "2014-09-25T12:00:00Z",
+  "date_commenced": "4 August 2014",
+  "date_commenced_iso": "2014-08-04T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "First Pacific Company Limited and Wilmar International Limited"
+  ],
+  "targets": [
+    "Goodman Fielder Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2014",
+      "date_iso": "2014-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "25 Aug 2014",
+      "date_iso": "2014-08-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC asasessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "4 Sep 2014",
+      "date_iso": "2014-09-04T12:00:00Z",
+      "event": "Former proposed decision date of 25 September 2014 delayed to allow provision of requested information from Wilmar International Limited."
+    },
+    {
+      "date": "10 Sep 2014",
+      "date_iso": "2014-09-10T12:00:00Z",
+      "event": "ACCC received further information from Wilmar International Limited."
+    },
+    {
+      "date": "25 Sep 2014",
+      "date_iso": "2014-09-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a single market for the supply of packaged vegetable oils (also referred to as cooking oils) to Australian retailers. The proposed acquisition did not concern the refining of crude oil or the supply of bulk refined edible oil. The ACCC considered that the wholesale market for packaged oil affected by the proposed acquisition included seeded oils (sunflower, soybean and canola oil and blends of seeded oils) and potentially rice bran and/or peanut oil. The ACCC's market inquiries indicated that olive oil and speciality oils (such as avocado oil), which were typically sold at a much higher price point than seeded oils, were unlikely to fall within the same market. Given the ACCC's findings on the alternative options and competitive constraints which would apply in a narrowly defined market, it was not necessary for the ACCC to reach a definitive view on market definition.",
+    "Competition analysis": "Post-acquisition, Wilmar would have a 50% interest in Goodman Fielder and the ACCC's review proceeded on the basis that there was unlikely to be effective competition between Wilmar and Goodman Fielder post acquisition. The ACCC focussed on the overlap between Wilmar's Australian edible oils business (which involves the wholesale supply of private label edible oils to supermarkets) and Goodman Fielder's edible oil business (Goodman Fielder is the leading supplier of branded edible oil to supermarkets). The parties also both supplied edible oil to the food service channel (i.e. restaurants and take-away outlets) but the overlap in the supply of edible oil to this channel was less significant. There was no material overlap between the activities of First Pacific and Wilmar or between First Pacific and Goodman Fielder in Australia. The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the supply of packaged vegetable oils to retailers. This was because: - several alternative domestic suppliers would remain post-acquisition, with spare capacity and the ability to supply (or expand to supply) the volumes required by supermarket retailers; - there was strong competition from imports of packaged vegetable oil. Wilmar and MOI International supplied packaged vegetable oil to Australian retailers from their offshore refineries and packing facilities. Market inquiries identified several other international suppliers to which Australian retailers could switch; - there were potential new entrants, with market inquiries confirming that local edible oil refiners not currently supplying the retail channel would have the ability to expand production and supply retailers (as well as the existence of several other international suppliers); - the major retailers and Metcash (the wholesaler to most independent supermarkets) were likely to hold countervailing power in the market, and could bypass, or threaten to bypass Wilmar and/or Goodman Fielder entirely. The ACCC also examined whether the proposed acquisition would raise any conglomerate concerns, as a result of Goodman Fielder's range of other grocery products, or any potential vertical concerns as a result of Wilmar's upstream activities including its 50% ownership of Wilmar Gavilon Pty Ltd (a merchant of edible oil in Australia). However, the ACCC determined that the proposed acquisition was unlikely to raise competition concerns in any other market. Accordingly, on 25 September 2014, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

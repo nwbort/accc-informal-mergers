@@ -1,0 +1,44 @@
+{
+  "id": "0681",
+  "title": "JPMorgan Chase Bank National Association - proposed acquisition of ANZ's custodian services business division",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jpmorgan-chase-bank-national-association-proposed-acquisition-of-anzs-custodian-services-business-division",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39623",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "15 December 2009",
+  "date_completed_iso": "2009-12-15T12:00:00Z",
+  "date_commenced": "20 November 2009",
+  "date_commenced_iso": "2009-11-20T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "JPMorgan Chase Bank National Association"
+  ],
+  "targets": [
+    "ANZ's custodian services business division"
+  ],
+  "timeline": [
+    {
+      "date": "20 Nov 2009",
+      "date_iso": "2009-11-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Dec 2009",
+      "date_iso": "2009-12-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Dec 2009",
+      "date_iso": "2009-12-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JPMorgan proposed to acquire ANZ's custodian services business.",
+    "Market definition": "The ACCC noted that JPMorgan and ANZ overlapped in relation to the supply of master, domestic (including sub-custody services) and global custodian services. Based on these areas of overlap, the ACCC considered the proposed acquisition in the context of separate markets for the supply of master, domestic (including sub-custody services) and global custodian services. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any of the relevant markets. Factors informing this conclusion included: - the presence of a number of competing businesses in the relevant markets; and - that the proposed acquisition would result in a small increase in the merged entity's market share in each of the relevant markets."
+  }
+}

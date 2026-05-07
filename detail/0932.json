@@ -1,0 +1,69 @@
+{
+  "id": "0932",
+  "title": "Pact Group Pty Ltd - proposed acquisition of Brickwood Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-brickwood-holdings-pty-ltd-0",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31088",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "23 April 2008",
+  "date_completed_iso": "2008-04-23T12:00:00Z",
+  "date_commenced": "8 February 2008",
+  "date_commenced_iso": "2008-02-08T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Brickwood Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Mar 2008",
+      "date_iso": "2008-03-07T12:00:00Z",
+      "event": "ACCC requested further information from Pact. ACCC timeline suspended."
+    },
+    {
+      "date": "19 Mar 2008",
+      "date_iso": "2008-03-19T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings amended from 4 April to 16 April 2008 pending Pact Group's response to information request of 7 March 2008."
+    },
+    {
+      "date": "25 Mar 2008",
+      "date_iso": "2008-03-25T12:00:00Z",
+      "event": "ACCC received further information from Pact. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Apr 2008",
+      "date_iso": "2008-04-15T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings amended from 16 April to 23 April 2008 pending receipt of further information from market participants."
+    },
+    {
+      "date": "23 Apr 2008",
+      "date_iso": "2008-04-23T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    },
+    {
+      "date": "23 Apr 2008",
+      "date_iso": "2008-04-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 23 April 2008 the ACCC announced it would not oppose the proposed acquisition of Brickwood by Pact Group Pty Ltd",
+    "Market definition": "Please refer to the Public Competition Assessment below.",
+    "Competition analysis": "Please refer to the Public Competition Assessment below."
+  }
+}

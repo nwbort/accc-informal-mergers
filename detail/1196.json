@@ -1,0 +1,44 @@
+{
+  "id": "1196",
+  "title": "MFS Limited - proposed acquisition of S8 Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mfs-limited-proposed-acquisition-of-s8-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25448",
+  "industries": [
+    "Travel services"
+  ],
+  "date_completed": "15 November 2006",
+  "date_completed_iso": "2006-11-15T12:00:00Z",
+  "date_commenced": "11 October 2006",
+  "date_commenced_iso": "2006-10-11T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "MFS Limited"
+  ],
+  "targets": [
+    "S8 Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Oct 2006",
+      "date_iso": "2006-10-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "2 Nov 2006",
+      "date_iso": "2006-11-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "15 Nov 2006",
+      "date_iso": "2006-11-15T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "MFS Limited and S8 Limited have operations in the tourism accommodation industry.",
+    "Market definition": "The ACCC considered the following markets in its review of MFS Limited's proposed acquisition of S8 Limited: - a national market for the provision of management letting services to apartment owners; and - a Gold Coast market for the provision of accommodation services.",
+    "Competition analysis": "The ACCC considered that MFS Limited would face sufficient competitive constraints post-acquisition and that the proposed acquisition is unlikely to cause a substantial lessening of competition in any of the relevant markets. This conclusion was informed by the following factors: - moderate barriers to entry and expansion in relevant markets; - regulatory pricing constraints faced by management letting service providers when providing services to apartment owners; and - available substitutes in the Gold Coast for the provision of accommodation services."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1142",
+  "title": "Bucyrus Inc - proposed acquisition of DBT GmbH",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bucyrus-inc-proposed-acquisition-of-dbt-gmbh",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27019",
+  "industries": [
+    "Mining equipment"
+  ],
+  "date_completed": "22 February 2007",
+  "date_completed_iso": "2007-02-22T12:00:00Z",
+  "date_commenced": "1 February 2007",
+  "date_commenced_iso": "2007-02-01T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Bucyrus Inc"
+  ],
+  "targets": [
+    "DBT Gmbh"
+  ],
+  "timeline": [
+    {
+      "date": "1 Feb 2007",
+      "date_iso": "2007-02-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2007",
+      "date_iso": "2007-02-14T12:00:00Z",
+      "event": "Commenced market inquiries"
+    },
+    {
+      "date": "21 Feb 2007",
+      "date_iso": "2007-02-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "22 Feb 2007",
+      "date_iso": "2007-02-22T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the merger"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bucyrus Inc proposed acquisition of DBT GmbH. Bucyrus supplies and services surface mining equipment. DBT supplies and services underground mining equipment.",
+    "Market definition": "This merger was considered in the context of: - the supply of surface mining equipment, - the after sales service of surface mining equipment, - the supply of underground mining equipment, and - the after sales service of underground mining equipment.",
+    "Competition analysis": "The parties have no overlap in the product markets that they service and so it appears unlikely that the acquisition will lead to a substantial lessening of competition."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1118",
+  "title": "Xstrata Canada Acquisition Corp - proposed acquisition of LionOre Mining International Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/xstrata-canada-acquisition-corp-proposed-acquisition-of-lionore-mining-international-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27585",
+  "industries": [
+    "Nickel Mining"
+  ],
+  "date_completed": "18 April 2007",
+  "date_completed_iso": "2007-04-18T12:00:00Z",
+  "date_commenced": "27 March 2007",
+  "date_commenced_iso": "2007-03-27T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Xstrata Plc"
+  ],
+  "targets": [
+    "LionOre Mining International Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 Mar 2007",
+      "date_iso": "2007-03-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "6 Apr 2007",
+      "date_iso": "2007-04-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "17 Apr 2007",
+      "date_iso": "2007-04-17T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    },
+    {
+      "date": "18 Apr 2007",
+      "date_iso": "2007-04-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Xstrata plc, through its subsidiary Xstrata Canada Acquisition Corporation proposes to acquire all the issued and outstanding shares of LionOre Mining International Limited",
+    "Market definition": "The proposed acquisition was considered in the context of the worldwide market for nickel production.",
+    "Competition analysis": "On 18 April 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion include: - nickel is a globally traded commodity with the majority of nickel produced in Australian being exported; - there would be significant potential import competition with Australian customers likely to be able to access imports in response to an increase in domestic prices; - alternative suppliers including MMC Norilsk Nickel Group, CRVD Inco and BHP Billiton would be readily accessible; and - prices for nickel are referenced to international mediums such as the London Metal Exchange."
+  }
+}

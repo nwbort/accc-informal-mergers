@@ -1,0 +1,49 @@
+{
+  "id": "0258",
+  "title": "Consortium comprising QIC, GIP and Borealis - proposed acquisition of the Port of Melbourne",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/consortium-comprising-qic-gip-and-borealis-proposed-acquisition-of-the-port-of-melbourne",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60173",
+  "industries": [
+    "Ports"
+  ],
+  "date_completed": "11 August 2016",
+  "date_completed_iso": "2016-08-11T12:00:00Z",
+  "date_commenced": "24 June 2016",
+  "date_commenced_iso": "2016-06-24T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Consortium comprising QIC GIP and Borealis"
+  ],
+  "targets": [
+    "Port of Melbourne"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jun 2016",
+      "date_iso": "2016-06-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "8 Jul 2016",
+      "date_iso": "2016-07-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "10 Aug 2016",
+      "date_iso": "2016-08-10T12:00:00Z",
+      "event": "Former proposed date of 18 August 2016 for announcement of ACCC's decision brought forward."
+    },
+    {
+      "date": "11 Aug 2016",
+      "date_iso": "2016-08-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Victorian Government intends to privatise the Port of Melbourne by way of a 50 year lease (the Lease). A consortium comprising QIC Private Capital Pty Ltd, GIM Advisory Services, LLC and Borealis Infrastructure Management Inc. proposes to acquire the Lease.",
+    "Market definition": "Members of the consortium proposing to acquire the Port of Melbourne (PoM) have interests in Port Botany, Port Kembla and the Port of Brisbane. Given the cross-shareholdings in ports that would arise as a result of the proposed acquisition, the ACCC considered whether each port constitutes its own market, or whether there is significant competitive overlap between these, and potentially other ports, in relation to the supply of: - port services to importers and exporters - port services to shipping lines - port services to other tenants and users of the port - transhipment of containers An area of particular focus was on exporters, such as those located in the Riverina region of southern NSW, that do have a choice of which port to use. Consortium members hold or manage interests in DP World Australia and Pacific National. Accordingly the ACCC also considered the competitive effects of the proposed acquisition in the context of: - the supply of  terminal and stevedoring services at the PoM, and - landside container transport services (including by rail) to and from PoM. The ACCC did not consider it necessary to form a concluded view on market definition as it considered that a substantial lessening of competition is unlikely for the reasons outlined below in the Competition Analysis.",
+    "Competition analysis": "The ACCC found there may be some competition between ports, but this is limited and will likely remain so in the future. The ACCC took into consideration: - the physical distance between ports and high domestic transport costs, which means most port users don't have a choice but to use their closest port.  A group of exporters in Southern NSW are contestable between PoM and Port Botany. However their decisions on which port to use are influenced by a number of factors, most of which are not factors within the control of the ports - in relation to competition for transhipments, ports have limited influence on a shipping line's choice of port for transhipment and in some situations Australian container ports compete with international ports for transhipments, and - in relation to competition to attract investment and custom of port users, there are other factors outside the port's control which are key to determining where and how a port user will invest , including the location of key customers and forecast growth in demand. In addition, the ACCC considered that the consortium members who do not have interests in other ports are likely to have an incentive to continue to compete for the above trade and customers. In relation to vertical integration issues and other issues relating to cross-shareholdings between ports, the ACCC concluded that the proposed acquisition was not likely to substantially lessen competition because: - the incentives of other consortium members with no interest in the downstream entities and the indirect nature of the downstream interests  (which are managed on behalf of other entities) are unlikely to provide consortium members with a strong incentive or ability to provide favourable treatment or to share information with those interests - the proposed governance arrangements for the consortium members at the PoM, and the governance arrangements at NSW Ports and Port of Brisbane, provide that no single shareholder will have the ability to pass any affirmative decisions on its own without the support of at least one other consortium member. This means that other shareholders are likely to constrain any individual shareholder from favouring an entity in which it has a direct or indirect interest - there are constraints in the governance arrangements on the sharing of confidential information with any horizontal or downstream entities in which shareholders have interests - benchmarking of rents across ports already occurs to an extent and access to additional information is unlikely to significantly increase each ports' bargaining power, and - some protection, particularly in relation to general port charges rather than rents, is also provided by the proposed regulatory regime for the PoM which will be administered by the Victorian Essential Services Commission."
+  }
+}

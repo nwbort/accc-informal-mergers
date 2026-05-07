@@ -1,0 +1,31 @@
+{
+  "id": "1665",
+  "title": "Acquirer: Carter Holt Harvey Ltd; Target: MGP 10 Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-carter-holt-harvey-ltd-target-mgp-10-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "13317",
+  "industries": [],
+  "date_completed": "27 March 2002",
+  "date_completed_iso": "2002-03-27T12:00:00Z",
+  "date_commenced": "16 March 2001",
+  "date_commenced_iso": "2001-03-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Carter Holt Harvey Ltd"
+  ],
+  "targets": [
+    "MGP 10 Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Carter Holt Harvey Limited (CHH) proposes to acquire all shares in a company known as MGP 10 Pty Limited, which owns and operates a softwood sawmill business at Morwell, Victoria. The softwood sawmill business is known as \"Brown & Dureau (B&D).",
+    "Market definition": "For the purposes of competition analysis the proposed acquisition was considered in relation to the national market for the supply of softwood sawmill products.",
+    "Competition analysis": "The Commission's concentration thresholds are not crossed. In addition, imports constitute well over 10% of this market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2329"
+  }
+}

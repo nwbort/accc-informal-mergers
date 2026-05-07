@@ -1,0 +1,64 @@
+{
+  "id": "1189",
+  "title": "Alinta Ltd - acquisition of Australian Pipeline Trust",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alinta-ltd-acquisition-of-australian-pipeline-trust",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25033",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "27 November 2006",
+  "date_completed_iso": "2006-11-27T12:00:00Z",
+  "date_commenced": "17 August 2006",
+  "date_commenced_iso": "2006-08-17T12:00:00Z",
+  "total_review_days": 72,
+  "acquirers": [
+    "Alinta Ltd"
+  ],
+  "targets": [
+    "Australian Pipeline Trust (APT)"
+  ],
+  "timeline": [
+    {
+      "date": "17 Aug 2006",
+      "date_iso": "2006-08-17T12:00:00Z",
+      "event": "Alinta announced that it acquired units in APT"
+    },
+    {
+      "date": "8 Sep 2006",
+      "date_iso": "2006-09-08T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by Alinta. ACCC commenced market inquiries."
+    },
+    {
+      "date": "6 Oct 2006",
+      "date_iso": "2006-10-06T12:00:00Z",
+      "event": "ACCC announced that it will not accept earlier 8 Sept offer of undertakings."
+    },
+    {
+      "date": "6 Nov 2006",
+      "date_iso": "2006-11-06T12:00:00Z",
+      "event": "ACCC commences market inquiries in relation to new offer of undertakings by Alinta"
+    },
+    {
+      "date": "9 Nov 2006",
+      "date_iso": "2006-11-09T12:00:00Z",
+      "event": "Market inquiries to be completed in relation to new (6 Nov) offer of undertakings"
+    },
+    {
+      "date": "22 Nov 2006",
+      "date_iso": "2006-11-22T12:00:00Z",
+      "event": "Expected announcement of the ACCC's findings in relation to Alinta's new (6 Nov) offer of undertakings delayed."
+    },
+    {
+      "date": "27 Nov 2006",
+      "date_iso": "2006-11-27T12:00:00Z",
+      "event": "ACCC announced that it accepted replacement undertakings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Alinta Ltd - acquisition of Australian Pipeline Trust",
+    "Market definition": "Please refer to Public Competition Assessment.",
+    "Competition analysis": "Please refer to Public Competition Assessment."
+  }
+}

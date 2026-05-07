@@ -1,0 +1,44 @@
+{
+  "id": "0759",
+  "title": "Arrow Energy Limited - proposed acquisition of Beach Petroleum's Tipton West Joint Venture CSG project",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/arrow-energy-limited-proposed-acquisition-of-beach-petroleums-tipton-west-joint-venture-csg-project",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37143",
+  "industries": [
+    "Gas, coal seam gas (CSG)"
+  ],
+  "date_completed": "11 May 2009",
+  "date_completed_iso": "2009-05-11T12:00:00Z",
+  "date_commenced": "6 April 2009",
+  "date_commenced_iso": "2009-04-06T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Arrow Energy Limited"
+  ],
+  "targets": [
+    "Beach Petroleum's Tipton West Joint Venture CSG project"
+  ],
+  "timeline": [
+    {
+      "date": "6 Apr 2009",
+      "date_iso": "2009-04-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Apr 2009",
+      "date_iso": "2009-04-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 May 2009",
+      "date_iso": "2009-05-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Arrow Energy Limited proposed to acquire Beach Petroleum Limited's 40% interest in the Tipton West Joint Venture CSG project and surrounding exploration acreage.",
+    "Market definition": "The ACCC considered that two markets were relevant for the assessment of this matter: -  the market for the production and supply of wholesale gas in the southern Queensland region connected by pipeline infrastructure (including Brisbane, Gladstone and Mt Isa); and - the market for the production and supply of wholesale gas in the southern states (NSW, VIC and SA).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the low aggregation of gas reserves which would be held by the merged entity relative to the total gas reserves available for supply by other wholesale gas producers and suppliers in southern Queensland; and - the existence of several competitors who continue to provide alternative supply options for customers."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0443",
+  "title": "Woolworths Limited - proposed acquisition of Liquor licence at Glenfield Park t/as South City Liquor",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-at-glenfield-park-tas-south-city-liquor",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48651",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "13 June 2012",
+  "date_completed_iso": "2012-06-13T12:00:00Z",
+  "date_commenced": "23 April 2012",
+  "date_commenced_iso": "2012-04-23T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor licence at Glenfield Park t/as South City Liquor"
+  ],
+  "timeline": [
+    {
+      "date": "23 Apr 2012",
+      "date_iso": "2012-04-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 May 2012",
+      "date_iso": "2012-05-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jun 2012",
+      "date_iso": "2012-06-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC has decided not to oppose the proposed acquisition by Woolworths Limited of the liquor licence at Glenfield Park, Wagga Wagga, NSW, trading as 'South City Liquor' (the target).",
+    "Market definition": "The ACCC has considered the impact of the proposed acquisition in the following relevant markets: *   the retail sale of packaged liquor for off-premises consumption in the market surrounding the target (the local retail liquor market); *   the retail sale of packaged liquor for off-premises consumption in NSW (the NSW retail liquor market); and *   the NSW market for the wholesale acquisition of liquor (the wholesale liquor acquisition market).",
+    "Competition analysis": "In the local retail liquor market, the ACCC found that while the acquisition would lead to an increase in Woolworths' market share, the proposed acquisition is unlikely to substantially lessen competition. The ACCC found that the proposed acquisition is unlikely to result in a substantial lessening of competition in the local retail liquor market for the following reasons: *   post-acquisition there will continue to be a significant number of bottleshops and banner group alternatives to the Woolworths branded bottleshops in the local market; *   the acquisition will not result in the removal of a particularly significant competitor in terms of factors such as prices, promotions and product range; and *   customers will not lose access to the promotional cycle of the target's current banner group (Local Liquor) as the closest competitor to the target operates under the same group. In the NSW retail liquor market and wholesale liquor acquisition market, the ACCC found that the proposed acquisition would have no material impact on Woolworths' market share in each of these markets and therefore is unlikely to result in a substantial lessening of competition in either market."
+  }
+}

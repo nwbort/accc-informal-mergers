@@ -1,0 +1,44 @@
+{
+  "id": "0580",
+  "title": "GSM(Operations) Pty Limited - proposed acquisition of Surf Dive 'n' Ski (SDS) and Jetty Surf",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gsmoperations-pty-limited-proposed-acquisition-of-surf-dive-n-ski-sds-and-jetty-surf",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43657",
+  "industries": [
+    "Sports apparel"
+  ],
+  "date_completed": "3 November 2010",
+  "date_completed_iso": "2010-11-03T12:00:00Z",
+  "date_commenced": "7 October 2010",
+  "date_commenced_iso": "2010-10-07T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Billabong International Ltd"
+  ],
+  "targets": [
+    "Surf Dive 'n' Ski (SDS) and Jetty Surf"
+  ],
+  "timeline": [
+    {
+      "date": "7 Oct 2010",
+      "date_iso": "2010-10-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Oct 2010",
+      "date_iso": "2010-10-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Nov 2010",
+      "date_iso": "2010-11-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Billabong International Ltd (Billabong), via a subsidiary GSM (Operations) Pty Ltd, proposes to acquire 38 retail stores of Surf, Dive 'n' Ski and Jetty Surf.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: -Markets for the retail supply of surf lifestyle apparel, accessories and hardware in Sydney CBD, Melbourne CBD, Brookvale, Bondi Junction and Cairns; and - National market for the wholesale supply of surf lifestyle apparel, accessories and hardware.",
+    "Competition analysis": "The ACCC took into account, amongst other factors: -That Billabong would continue to be competitively constrained in the local markets through the presence of other competing specialist surf lifestyle apparel, accessories and hardware retailers in close proximity to Billabong/SDS stores in Sydney CBD, Melbourne CBD, Brookvale, Bondi Junction and Cairns; -The availability of specialist independent retailers as alternate avenues for wholesale distribution by rival wholesalers; and -The presence of alternate wholesalers of surf lifestyle apparel, accessories and hardware, including well-recognised brands, that would prevent any foreclosure of rival retailers' access to wholesale supply. Accordingly, on 3 November 2010, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

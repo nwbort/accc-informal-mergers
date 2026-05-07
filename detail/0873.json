@@ -1,0 +1,64 @@
+{
+  "id": "0873",
+  "title": "Adelaide Brighton Ltd - completed acquisition of Hanson Building Products Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adelaide-brighton-ltd-completed-acquisition-of-hanson-building-products-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32909",
+  "industries": [
+    "Concrete masonry products and cement"
+  ],
+  "date_completed": "26 August 2008",
+  "date_completed_iso": "2008-08-26T12:00:00Z",
+  "date_commenced": "2 July 2008",
+  "date_commenced_iso": "2008-07-02T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Adelaide Brighton Limited"
+  ],
+  "targets": [
+    "Hanson Building Products Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jul 2008",
+      "date_iso": "2008-07-01T12:00:00Z",
+      "event": "Adelaide Brighton Ltd acquired Hanson Building Products Pty Ltd."
+    },
+    {
+      "date": "2 Jul 2008",
+      "date_iso": "2008-07-02T12:00:00Z",
+      "event": "ACCC became aware of the acquisition and commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Jul 2008",
+      "date_iso": "2008-07-02T12:00:00Z",
+      "event": "ACCC requested further information from Adelaide Brighton Ltd. ACCC timeline suspended."
+    },
+    {
+      "date": "10 Jul 2008",
+      "date_iso": "2008-07-10T12:00:00Z",
+      "event": "ACCC received further information from Adelaide Brighton Ltd. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 Jul 2008",
+      "date_iso": "2008-07-16T12:00:00Z",
+      "event": "ACCC requested further information from Adelaide Brighton Ltd. ACCC timeline suspended."
+    },
+    {
+      "date": "23 Jul 2008",
+      "date_iso": "2008-07-23T12:00:00Z",
+      "event": "ACCC received further information from Adelaide Brighton Ltd. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 Aug 2008",
+      "date_iso": "2008-08-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Adelaide Brighton Ltd acquired Hanson Building Products Pty Ltd (a subsidiary of Hanson Australia Pty Ltd)",
+    "Market definition": "The ACCC considered the acquisition in the context of: - regional markets for the supply of concrete masonry products in Queensland, Tasmania and New South Wales/the ACT - the market for the supply of cement in Eastern and Southern Australia.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the acquisition resulted in little or no increase in market concentration in the relevant markets because there was minimal overlap between the operations of the parties - to the extent that there was any overlap, the merged entity would be constrained by existing competitors and potential new entrants - the acquisition would not provide Adelaide Brighton Ltd with the ability or incentive to foreclose competitors in the relevant markets by restricting or limiting supply of cement in the foreseeable future."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1686",
+  "title": "Acquirer: Manildra Group; Target: starch business of George Weston Foods Ltd (Tip Top Bakeries)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-manildra-group-target-starch-business-of-george-weston-foods-ltd-tip-top-bakeries",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "12774",
+  "industries": [],
+  "date_completed": "12 February 2002",
+  "date_completed_iso": "2002-02-12T12:00:00Z",
+  "date_commenced": "5 October 2000",
+  "date_commenced_iso": "2000-10-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Manildra Group"
+  ],
+  "targets": [
+    "starch business of George Weston Foods Ltd (Tip Top Bakeries)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Manildra Group proposes to acquire the business and certain assets of Weston Bioproducts and the Narrandera Flour Mill from George Weston Foods Ltd",
+    "Market definition": "The proposed acquisition was considered in the context of the following markets: Supply of gluten in Australia; Supply of starch in Australia; Supply of starch sugars in Australia; and Supply of flour in south-eastern Australia.",
+    "Competition analysis": "The Commission conducted market enquiries and examined submissions from the parties, and considered that it appeared that the proposed acquisition would have led to a substantial lessening of competition in the markets for starch and starch sugars in Australia. The main reasons for this were the Commission's concerns that the remaining alternative domestic supplier had limited manufacturing capacity; and that import competition was not expected to provide an effective constraint on starch and starch sugar prices in the foreseeable future. The Commission therefore decided to oppose the proposed acquisition on the basis that it was likely to substantially lessen competition in breach of section 50. Manildra then offered an enforceable Undertaking to address the Commission's competition concerns. This Undertaking requires Manildra to divest the Queensland and Western Australian plants of Weston Bioproducts in good working order and to provide the Commission with six monthly reports by an independent auditor on the starch and starch sugar industries including changes in Manildra's prices and costs for a period of 36 months. The Commission considered that this Undertaking would address its competition concerns and decided not to oppose the acquisition.",
+    "Resolution": "Undertakings",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2151"
+  }
+}

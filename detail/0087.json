@@ -1,0 +1,49 @@
+{
+  "id": "0087",
+  "title": "Innovation Holdings Australia Pty Ltd - iSelect Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/innovation-holdings-australia-pty-ltd-iselect-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Comparison services"
+  ],
+  "date_completed": "2 December 2022",
+  "date_completed_iso": "2022-12-02T12:00:00Z",
+  "date_commenced": "27 September 2022",
+  "date_commenced_iso": "2022-09-27T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Innovation Holdings Australia Pty Ltd"
+  ],
+  "targets": [
+    "iSelect Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 Sep 2022",
+      "date_iso": "2022-09-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Oct 2022",
+      "date_iso": "2022-10-11T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Dec 2022",
+      "date_iso": "2022-12-01T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (8 December 2022) brought forward."
+    },
+    {
+      "date": "2 Dec 2022",
+      "date_iso": "2022-12-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Innovation Holdings Australia Pty Ltd (Innovation Holdings) proposes to acquire the remaining shares in iSelect Limited (iSelect). Innovation Holdings owns approximately 26% of the shares in iSelect. Innovation Holdings is a subsidiary of a group of companies comprising Reef Holdings Limited, Theseus (Monaco) SARL and several associated entities (IHA Group). IHA Group owns Compare The Market Pty Ltd. A subsidiary of IHA Group, Auto & General, underwrites and distributes home, motor and travel insurance in Australia, primarily under the brand ‘Budget Direct’. iSelect and Innovation Holdings (including Compare The Market) both offer services to consumers that compare a range of products, including insurance, energy and home loans.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in possible markets in Australia for the supply of: comparison services to consumers for distinct product or service categories, including private health insurance and motor insurance comparison services to retailers of distinct products or services, including private health insurance and motor insurance motor, home, pet, travel and life insurance, in separate markets. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition of these markets as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any market in Australia. Comparison services for retailers While many comparison websites offer variations of a ‘comparison only’ service, CTM and iSelect provide an ‘end-to-end’ service where consumers can finalise the purchase online or through a call centre. Market feedback indicated that for some retailers, ‘comparison only’ services are not a viable alternative to an ‘end-to-end’ service to attract customers. Market feedback indicated that CTM and iSelect were close competitors in some product categories. Nevertheless, in this dynamic industry the ACCC concluded there would be sufficient competitive constraint to prevent a substantial lessening of competition. Relevant competitive constraints include other comparison service providers, the threat of entry or expansion and alternative routes to market for retailers and customers. Many retailers, in particular medium to large retailers, can bypass the merger parties by marketing and supplying directly to consumers. In each product category, there are existing competitors with the capacity to expand and barriers to new entry are unlikely to be insurmountable. The ACCC considered that the need for competitors to establish comparable brand strength to that of CTM and iSelect was unlikely to present a substantial barrier to entry or expansion. As comparison services are two sided markets, competition on the consumer-facing side of the market also provides some constraint on the value proposition that a comparison service provides to retailers. Comparison service providers must ensure their service is attractive to consumers, including by comparing offerings from a wide range of retailers. Comparison services for consumers The ACCC considered the potential for CTM and iSelect to reduce service offerings to consumers and concluded this was unlikely. There are a number of comparison service providers in each product category, including government operated services in private health and energy, for example. For consumers as a whole, CTM and iSelect also account for a relatively small proportion of consumer purchases. Most consumers acquire products directly from retailers. Foreclosure of competing comparators The ACCC also considered whether the merged firm may have the ability and incentive to deny access to Auto & General products for competing comparison sites, thereby foreclosing competition in comparison services for relevant product categories. The ACCC concluded Innovation Holdings was unlikely to have such an ability or incentive. It was not clear any benefits to CTM and iSelect from ceasing offering its products via other comparators would outweigh the cost of sales Auto & General would lose from those comparators. The ACCC also considered that any such conduct was unlikely to result in a substantial lessening of competition given the presence of a number of other insurance providers with no vertical relationship with comparators. Foreclosure of competing retailers The ACCC considered the possibility that the proposed acquisition might increase CTM’s incentive to preference Auto & General insurance products at the expense of other, non-affiliated insurance providers who list on CTM and iSelect. Such conduct risks diminishing the service offering to consumers. The ACCC considered that competition between comparison service providers on the consumer side of the market would likely mean that CTM would not have such an incentive. The ACCC also considered even if such conduct were to occur, it would be unlikely to foreclose competition in any market. Auto & General’s competitors have other distribution channels by which to attract consumers, including direct marketing."
+  }
+}

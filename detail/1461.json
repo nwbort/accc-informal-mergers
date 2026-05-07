@@ -1,0 +1,31 @@
+{
+  "id": "1461",
+  "title": "Acquirer: Colgate Palmolive Pty Ltd; Target: Campbell Brothers",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-colgate-palmolive-pty-ltd-target-campbell-brothers",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19751",
+  "industries": [],
+  "date_completed": "17 September 2004",
+  "date_completed_iso": "2004-09-17T12:00:00Z",
+  "date_commenced": "7 June 2004",
+  "date_commenced_iso": "2004-06-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Colgate Palmolive Pty Ltd"
+  ],
+  "targets": [
+    "Campbell Brothers"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Colgate Palmolive proposed to acquire brands and assets from Campbell Brothers relating to laundry, detergent, dishwashing and cleaner products.",
+    "Market definition": "For competition assessment purposes, the acquisition was considered in terms of the national markets for the manufacturing and supply of laundry detergent; fabric conditioner; dishwashing detergent; and household cleaners.",
+    "Competition analysis": "The Commission decided not to oppose the acquisition and in reaching its decision took account of:  actual and potential capacity for supply side substitution;  recent and potential entry into the relevant markets through acquisitions and brand initiatives; countervailing power of the supermarket chains as buyers, supporters of new entrants and suppliers of house brands;  buying patterns of consumers in terms of discretionary purchasing, brand switching and price sensitivity; and the continued presence of Campbell Brothers in the markets as a manufacturer of third party brands.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2545"
+  }
+}

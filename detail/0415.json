@@ -1,0 +1,59 @@
+{
+  "id": "0415",
+  "title": "GrainCorp Limited - completed acquisition of Goodman Fielder Limited's edible fats and oils business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/graincorp-limited-completed-acquisition-of-goodman-fielder-limiteds-edible-fats-and-oils-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49579",
+  "industries": [
+    "Food manufacturing"
+  ],
+  "date_completed": "23 October 2012",
+  "date_completed_iso": "2012-10-23T12:00:00Z",
+  "date_commenced": "29 August 2012",
+  "date_commenced_iso": "2012-08-29T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "GrainCorp Limited"
+  ],
+  "targets": [
+    "Goodman Fielder Limited's edible fats and oils business"
+  ],
+  "timeline": [
+    {
+      "date": "29 Aug 2012",
+      "date_iso": "2012-08-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Sep 2012",
+      "date_iso": "2012-09-13T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 25 October 2012 delayed pending receipt of information from the parties."
+    },
+    {
+      "date": "20 Sep 2012",
+      "date_iso": "2012-09-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Sep 2012",
+      "date_iso": "2012-09-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Oct 2012",
+      "date_iso": "2012-10-02T12:00:00Z",
+      "event": "GrainCorp announced that it had completed the acquisition of Integro Foods."
+    },
+    {
+      "date": "23 Oct 2012",
+      "date_iso": "2012-10-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC considered the completed acquisition of Goodman Fielder Limited's edible fats and oils business in the context of GrainCorp Limited's acquisition of Gardner Smith (Holdings) Pty Limited. Both acquisitions were completed on 2 October 2012 and reviewed concurrently by the ACCC.",
+    "Market definition": "The ACCC focused its assessment on the following markets: - the acquisition of canola seed in NSW and Victoria; - the national supply of: - bulk 'refined, bleached, deodorised' (RBD) canola oil; - bulk RBD high oleic canola oil; - bulk crude canola oil; - bulk crude high oleic canola oil; and - bulk vegetable oil storage and handling at the Port of Melbourne. The ACCC also considered the effect of the acquisitions on the supply of crude and refined sunflower, coconut and palm oils, but did not consider it necessary to form a definitive view regarding market definition in these areas of competition as the acquisitions were unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC determined that the acquisitions did not remove a competitor at any level of the vegetable oil supply chain, but instead represented vertical integration along the supply chain. The ACCC therefore focused on the ability and incentive of GrainCorp and Cargill - now the two major integrated players in the supply of crude and RBD canola oil - to coordinate to significantly foreclose supply of crude canola oil to downstream rivals, and how any such foreclosure would be likely to affect competition. The ACCC was satisfied that GrainCorp and Cargill would be unlikely to coordinate to significantly foreclose supply of crude canola oil to downstream rivals at competitive prices for the following reasons: - GrainCorp and Cargill would have strong incentives to continue to compete to supply crude canola oil to downstream rivals due to the significant profit premium that domestic supply attracts over exports; and - there are other suppliers that would likely provide a viable source of crude canola oil, in particular the pending new entrant Riverina Oils and Bio Energy, Windermere Oilseeds and potentially MSM Milling. The ACCC was also satisfied that the acquisitions did not give rise to coordinated effects between GrainCorp and Cargill in the supply of RBD canola oil. Both have excess refining capacities, and face effective competition from rival suppliers. The ACCC also considered the ability of GrainCorp to restrict access to imported sunflower, coconut and palm oils through either shipping arrangements or the provision of bulk vegetable oil storage and handling services at the Port of Melbourne. The ACCC was satisfied that there existed viable alternative storage operators at the Port of Melbourne and also took into account that the acquisitions would not increase GrainCorp's ability or incentive to foreclose competition by a rival supplier of oils. A very limited level of horizontal overlap existed between Grain Corp and Gardner Smith in the acquisition of canola seed. The ACCC determined that oilseed growers would continue to have numerous potential buyers in the form of other oilseed crushers and traders. Accordingly, on 23 October the ACCC decided not to oppose the acquisitions."
+  }
+}

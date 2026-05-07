@@ -1,0 +1,953 @@
+ 
+Public Competition Assessment 
+14 January 2010 
+Woolworths Limited/Lowe’s Companies Inc - proposed 
+acquisition of Danks Holdings Limited  
+ 
+Introduction 
+ 
+1. 
+On 11 November 2009, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of Danks 
+Holdings Limited (Danks) by a joint venture between Woolworths Limited 
+(Woolworths) and Lowe’s Companies Inc (Lowe’s) (the proposed acquisition), 
+subject to section 87B undertakings offered by Woolworths and Carboxy Pty 
+Limited (Carboxy) and accepted by the ACCC on 11 November 2009 (the 
+undertakings). The ACCC decided that the proposed acquisition, when 
+considered in light of the undertakings, would be unlikely to have the effect of 
+substantially lessening competition in any relevant market in contravention of 
+section 50 of Trade Practices Act 1974 (the Act). 
+2. 
+The ACCC made its decision on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+ 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition is subject to enforceable undertakings and is considered to raise issues 
+
+
+ 
+of interest to the public. 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC's analysis of various markets and 
+the associated merger and competition issues. It also alerts the public to the 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own merits.  
+7. 
+Many of the ACCC’s decisions will involve consideration of both non-
+confidential and confidential information provided by the merger parties and 
+market participants. In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources. While the ACCC aims to provide an appropriately 
+detailed explanation of the basis for the ACCC’s decision, where this is not 
+possible, maintaining confidentiality will be the ACCC’s paramount concern, and 
+accordingly a Public Competition Assessment may not definitively explain all 
+issues and the ACCC’s analysis of such issues. 
+The parties 
+ 
+The acquirer 
+ 
+8. Woolworths and Lowe’s proposed to acquire Danks through an incorporated joint 
+venture bid vehicle, Carboxy, which is owned two thirds by Woolworths and one 
+third by Lowe’s.  
+Woolworths  
+9. 
+Woolworths is a large Australian retailer whose businesses include the Big W 
+chain of discount department stores, Woolworths and Safeway supermarkets, and 
+electronics, liquor and petrol retailing chains.  
+10. 
+Woolworths currently has a limited presence in the hardware and home 
+improvement sector; it supplies a range of hardware products in its Big W 
+discount department stores and a smaller range in its supermarkets.  
+Lowe’s   
+11. 
+Lowe’s is a large, US-based hardware and home improvement retailer. Lowe’s 
+-2- 
+
+
+ 
+operates over 1,600 ‘big box’1 home improvement stores throughout the United 
+States and Canada; Lowe’s has no Australian operations at present.  
+The target 
+Danks  
+12. 
+Danks is an ASX-listed Australian company whose principal business is the 
+wholesale distribution of hardware products and related services to independently 
+owned and operated2 hardware retailers including Danks member stores and other 
+stores not affiliated with Danks.  
+13. 
+Danks’ members operate stores under the banners of “Home Timber and 
+Hardware”, “Thrifty-Link Hardware” and “Plants Plus Garden Centres” 
+(together, member stores); Danks owns each of these brands. In addition to 
+supplying member stores with a wide range of products, Danks provides its 
+members with marketing and promotional services, retail support services and 
+financial benefits (e.g. rebates) which are derived from the group’s buying power 
+with suppliers. Members pay fees to Danks in return for these services. There are 
+over 500 Danks members, accounting for the vast majority of Danks’ wholesale 
+sales (over 90%).  
+14. 
+The remainder of Danks’ sales are to over 900 independent hardware retailers 
+(non-member stores).  
+15. 
+Both the member and non-member stores supplied by Danks are generally small 
+to medium format stores. For example, Thrifty-Link Hardware stores are 
+generally smaller format stores, and Home Timber and Hardware stores are 
+generally medium format stores.  
+16. 
+Danks operates warehouses in Victoria, Western Australia, and New South Wales 
+from which it distributes products to its customers.  
+Other key industry participants 
+Bunnings  
+17. 
+Bunnings is the largest retailer of hardware and home improvement products in 
+Australia. It operates 162 big box stores, 32 small format stores and 23 trade 
+centres across Australia. 
+18. 
+Bunnings is part of the Wesfarmers Group (Wesfarmers), an ASX-listed 
+Australian company with business activities across a range of industries. In 
+addition to hardware and home improvement operations, Wesfarmers operates 
+supermarkets, liquor stores, discount department stores and office supply stores.  
+                                                 
+1 While there is no single definition of what constitutes a ‘big box’ store, they are generally characterised 
+by their large format and range of products. Additionally, they are generally considered to be 
+‘destination’ stores—that is, stores to which customers are prepared to travel specifically to visit.  
+2 There is also one company-owned store in Katoomba, NSW. 
+-3- 
+
+
+ 
+Mitre 10 
+19. 
+Mitre 10 supplies a network of over 400 member stores throughout Australia, all 
+of which are independently owned.3 Mitre 10’s members trade under the banners 
+of “Mitre 10 Mega”, “Mitre 10 Home & Trade”, “Mitre 10 Solutions”, “Mitre 10 
+Handy” and “True Value Hardware” (together, Mitre 10 members). Most of 
+these stores are small to medium format stores with a few big box stores and 
+some smaller convenience-based stores. 
+20. 
+Mitre 10 operates as a wholesaler to its Mitre 10 members in a similar way to 
+Danks, providing associated marketing and promotional services, retail support 
+services and financial benefits in addition to the wholesale supply of hardware 
+and home improvement products. Mitre 10 also supplies approximately 1100 
+non-affiliated hardware retailers. It has four wholesale distribution centres located 
+in Queensland, Victoria, New South Wales and Western Australia. 
+Other smaller chains and independent retailers 
+21. 
+In addition to the above retailers, there are a number of smaller chains of 
+hardware and home improvement stores that tend to be regionally based. 
+Examples include Dahlsens and Magnet Mart. There are also many independent 
+hardware stores which are not members of any banner group. 
+Wholesale buying groups 
+22. 
+Wholesale buying groups are made up of a group of independent hardware 
+retailers and operate to combine the collective buying power of their members to 
+negotiate discounts with suppliers on behalf of their members. Buying groups 
+exist for a particular product (e.g. plasterboard) as well as for hardware supplies 
+more generally. Examples of buying groups are HBT (Hardware and Building 
+Traders) and Natbuild.  
+23. 
+Buying groups differ from other participants operating at the wholesale level such 
+as Danks and Mitre 10 in that the focus of buying groups is generally on buying 
+arrangements. Services such as marketing or warehousing and distribution are not 
+typically provided for members. Some retailers are members of both a buying 
+group (such as Natbuild) and a banner group (such as Mitre 10). 
+The proposed acquisition 
+ 
+24. 
+The proposed acquisition forms part of Woolworths’ broader plans to enter the 
+hardware and home improvement sector in Australia. In addition to the formation 
+of the joint venture with Lowe’s and the acquisition of Danks, Woolworths has 
+announced plans to roll out a network of at least 150 big box home improvement 
+stores.4 This is discussed further at ‘With/without test’ below. 
+                                                 
+3 This follows Mitre 10’s decision to exit corporate-ownership of stores in 2009. 
+4 Woolworths press release, Woolworths to enter $24 billion hardware sector, 25 August 2009.  
+-4- 
+
+
+ 
+ACCC’s review timeline 
+ 
+25. 
+The following table outlines the timeline of key events in the ACCC’s review of 
+this matter. 
+3 September 2009 
+ACCC commenced review under the Merger Review Process Guidelines. 
+24 September 2009 
+Closing date for submissions from interested parties. 
+16 October 2009 
+ACCC published a Statement of Issues outlining preliminary competition 
+concerns. Former proposed date for announcement of ACCC’s findings 
+deferred to allow for submissions relating to Statement of Issues. 
+23 October 2009 
+Closing date for submissions relating to Statement of Issues. 
+11 November 2009 
+ACCC announced it would not oppose the proposed acquisition, subject to 
+a court enforceable undertaking given by Woolworths and its joint venture 
+to the ACCC. 
+Market inquiries 
+ 
+26. 
+The ACCC commenced market inquiries on 8 September 2009. A range of 
+interested parties were consulted including Danks member stores, other retailers, 
+wholesale suppliers of hardware products, manufacturers, buying groups, 
+building industry associations and other interested parties. The ACCC sought 
+submissions in relation to each of the substantive competition issues outlined 
+below. 
+27. 
+Following publication of the ACCC’s Statement of Issues on 16 October 2009, 
+the ACCC conducted further market inquiries focusing on the issues identified in 
+the Statement of Issues and received additional submissions on those issues.  
+Statement of Issues 
+ 
+28. 
+The ACCC published a Statement of Issues on 16 October 2009 identifying a 
+number of competition issues and seeking further comments in relation to those 
+issues. In the Statement of Issues the ACCC stated its preliminary view that the 
+proposed acquisition may be likely to lead to: 
+i. 
+reduced competition at the retail level in some local markets due to a 
+reduction in the number of participants at the wholesale level (this issue 
+was identified as an ‘issue of concern’ or ‘red-light issue’); and 
+ii. 
+discrimination against some Woolworths/Lowe’s wholesale customers 
+who are also its retail competitors (this issue was identified as an ‘issue 
+that may raise concern’ or an ‘amber-light’ issue). 
+29. 
+In relation to the first issue, the ACCC’s preliminary view was that the proposed 
+acquisition may result in a reduction in the level of competition between retailers 
+in some local markets, particularly between Woolworths’ big box stores and 
+retailers supplied by Woolworths / Danks.  In the future with the acquisition 
+Woolworths would be the wholesale supplier to Danks supplied independent 
+retailers, whereas these retailers would be supplied by an independent wholesaler 
+in the future without the acquisition.  The ACCC was concerned that as a result, 
+depending on the number and type of other retailers and wholesalers and their 
+-5- 
+
+
+ 
+competitive response in each local market, consumers may face higher prices 
+and/or lower levels of quality and service in some local markets.   
+30. 
+In relation to the second issue, the ACCC’s preliminary view was that the 
+proposed acquisition may provide Woolworths with the ability and incentive to 
+discriminate against some of its wholesale customers who are also its retail 
+competitors. The ACCC was concerned that such discrimination would limit the 
+ability of these stores to compete as effectively as they would have if Danks had 
+remained independent of Woolworths, and it could potentially even result in their 
+exiting the market(s).  
+31. 
+The ACCC’s ultimate findings in relation to each of these issues are discussed 
+under the heading ‘Competition analysis’ below. 
+32. 
+In its Statement of Issues the ACCC also indicated its preliminary view that 
+Woolworths’ presence in other retail sectors (groceries, liquor and petrol) would 
+not be likely to provide it with advantages which could be leveraged into the 
+hardware and home improvement sector such that it would lead to a substantial 
+lessening of competition in any of the relevant markets. The ACCC did not 
+receive any additional information to change this view after the Statement of 
+Issues was published.  
+33. 
+The Statement of Issues is available on the ACCC website at 
+www.accc.gov.au/mergersregister. 
+With/without test 
+ 
+34. 
+In assessing a merger pursuant to section 50 of the Act, the ACCC must consider 
+the effects of the transaction by comparing the likely competitive environment 
+post-merger if the acquisition proceeds (the “with” position) to the likely future 
+competitive environment if the acquisition does not proceed (the “without” 
+position). 
+35. 
+In this matter it was clear to the ACCC that the likely future state of competition 
+without the merger would not be the same as the state of competition prevailing 
+at the time of the acquisition (i.e. the status quo). Woolworths and Lowe’s do not 
+currently have any significant operations in the Australian hardware sector, 
+meaning there is virtually no overlap between their activities and those of Danks. 
+Having regard to available information, the ACCC considered that this situation 
+would be unlikely to continue without the acquisition, and should therefore not be 
+used as the basis for a comparison with the likely competitive situation if the 
+acquisition proceeds.  
+36. 
+Based on the information provided by the merger parties and other information 
+obtained during market inquiries, the ACCC considered that, in the absence of the 
+proposed acquisition, it was likely that Woolworths would establish its own 
+network of retail hardware stores and would make its own wholesaling 
+arrangements to obtain supply for those stores. Further, the ACCC considered 
+that Woolworths would not be likely to establish itself as a wholesale supplier to 
+independent hardware retailers in the absence of this transaction.  
+37. 
+The ACCC considered that in the absence of the proposed acquisition Danks 
+-6- 
+
+
+ 
+would continue as a wholesaler and a retail marketing group.  
+Timeframe over which competitive effects are assessed 
+38. 
+As discussed above, in assessing a merger pursuant to section 50, the ACCC must 
+consider the effects of the transaction by comparing the likely competitive 
+situation with the proposed acquisition to that which would be likely to prevail 
+without the proposed transaction. This requires a forward looking analysis into 
+the effects or likely effects of a merger. In undertaking such an analysis, the 
+ACCC will focus on the foreseeable future when considering market definition 
+and each of the merger factors to determine whether a substantial lessening of 
+competition is likely to arise.  
+39. 
+If the particular characteristics of a market are such that any anti-competitive 
+effects may be delayed until some time in the future, the ACCC will focus its 
+assessment on the time from which the anti-competitive effects are likely to 
+occur.  
+40. 
+Having regard to the information available to it, including information 
+concerning the future business plans and investment decisions of the merger 
+parties, the ACCC considered that any competition concerns would be unlikely to 
+occur immediately (given the lack of overlap in the operations of the acquirer and 
+target) and instead would arise following the commencement of Woolworths’ big 
+box retail hardware operations. Accordingly, it is on this period that the ACCC’s 
+competition analysis focused.  
+Market definition 
+ 
+Retail markets 
+ 
+41. 
+The ACCC considered the competitive effects of the proposed acquisition in local 
+markets for the retail sale of hardware and home improvement products in the 
+context of the following product categories: 
+i. tools and hardware 
+ii. bathroom and kitchen materials 
+iii. plumbing supplies 
+iv. paint and decoration 
+v. garden supplies 
+vi. timber and building supplies 
+vii. lighting and electrical 
+viii. outdoor living 
+ix. flooring and  
+x. storage and organisation. 
+Distribution channels 
+42. 
+Hardware and home improvement products within these product categories are 
+-7- 
+
+
+ 
+supplied through a number of retail distribution channels including: 
+ multi-category hardware and home improvement retailers of various sizes 
+such as Bunnings, Mitre 10 and Home Timber and Hardware 
+ category specialists, which tend to cover a single or select range of product 
+categories such as plumbing supplies, e.g. Reece and Tradelink 
+ discount department / variety stores such as Big W, Kmart and The Reject 
+Shop. 
+ 
+43. 
+The ACCC recognised that it is not the case that each retailer selling products 
+from a given category imposes an equally strong competitive constraint on all 
+other retailers of those products. In particular, a competitor’s location, price, 
+product range, service and format are important factors in determining the 
+closeness of competition between different retailers within a market.  
+44. 
+Having said that, the ACCC considered it appropriate to include the various retail 
+formats within the same market and then consider the effectiveness of the 
+constraints imposed by particular retail formats in assessing the competitive 
+impact of the proposed acquisition. This is discussed further under the heading 
+‘Competition analysis’ below.  
+Geographic dimension 
+ 
+45. 
+The ACCC considered the relevant retail markets for the sale of hardware and 
+home improvement products to be local geographic markets. The ACCC 
+considered each market on a case-by-case basis, closely examining competition 
+within 5km of a proposed big box store, and including participants up to 10km 
+away where local circumstances meant this was appropriate.  
+46. 
+Relevant factors taken into account in determining the precise size of the 
+geographic market in any local area included travel times and the road network, 
+any geographic barriers such as rivers, as well as the distance customers are 
+willing to travel in order to shop at, and switch between, alternative stores. For 
+instance, customers are often willing to travel further to a big box destination 
+store than to a smaller convenience-based store. 
+Wholesale markets 
+47. 
+The ACCC also considered the competitive effects of the proposed acquisition in 
+regional markets for the wholesale supply of hardware and home improvement 
+products to retailers.  
+48. 
+The ACCC’s inquiries indicated that retailers obtain their products from a 
+combination of sources including wholesalers (via warehouses and direct from 
+manufacturers through the use of ‘chargeback’ facilities5), buying groups and 
+directly from manufacturers. Accordingly, wholesale supply was taken to include 
+supply via each of these methods.  
+                                                 
+5  
+‘Chargeback’ facilities allow retailers to source products directly from manufacturers while being 
+invoiced for these products through a wholesaler such as Danks. 
+-8- 
+
+
+ 
+49. 
+Stores usually obtain direct supply for products which are more efficiently 
+delivered direct to store because they are difficult to handle (e.g. large or 
+hazardous products) or because they are required in sufficient volumes to justify 
+direct delivery.  
+50. 
+The ACCC considered that vertically integrated wholesalers who also operate 
+retail stores (e.g. Bunnings) form part of this market, as do independent 
+wholesalers with no retail stores. While vertically integrated wholesalers / 
+retailers like Bunnings do not compete to supply independent retailers, the prices 
+charged by wholesalers like Danks and Mitre 10 to independent retailers are still 
+constrained indirectly by the retail prices charged by Bunnings.  To the extent 
+that Bunnings competes with the independent retailers who are customers of 
+these wholesalers, this puts pressure on the independent wholesalers to offer 
+competitive prices in order to ensure that the retailers they supply do not lose 
+sales to Bunnings. 
+Geographic dimension 
+51. 
+The ACCC considered that markets for the wholesale supply of hardware and 
+home improvement products to retailers exist on a regional scale, where these 
+regions sometimes cross state borders or encompass more than one state or 
+territory. Transit times and transport costs were the most significant factors in 
+determining the geographic dimension of these markets. 
+Competition analysis 
+ 
+Background 
+52. 
+As discussed above, the ACCC considered that there existed a degree of 
+differentiation within the relevant retail and wholesale markets—this is discussed 
+below.  
+Competition within retail markets 
+53. 
+While there are various retail formats; the extent of competition between retailers 
+of hardware and home improvement products varies.  
+54. 
+The ACCC found that big box stores are generally each other’s closest 
+competitors given the similarity of their formats: i.e., large, one-stop-shop 
+destination stores with a wide range of products.  Medium format stores are the 
+next closest competitors to big box hardware stores due to their wide product 
+range (albeit smaller than that of a big box store) and generally competitive 
+prices, followed by small format hardware stores which tend to have a smaller 
+product range and a greater focus on convenience and service than price.  
+55. 
+The ACCC found that, with some exceptions such as supplying certain trade 
+customers, specialist retailers are not generally considered to be close competitive 
+alternatives to multi-category or big box retailers, particularly for those customers 
+who value the ability to shop for a range of products from multiple categories in 
+one store.  
+-9- 
+
+
+ 
+56. 
+In addition to hardware-focused retail stores, some discount department / variety 
+retailers offer hardware products as part of a broader retail offering. Market 
+inquiries suggested that while they provide a degree of competition by selling a 
+limited range of entry-level products at low prices, such stores provide only a 
+limited competitive constraint on hardware-focused multi-category or specialist 
+retailers. 
+Competition within wholesale markets 
+57. 
+Similarly, with respect to the relevant wholesale market, there are a range of 
+supply options available to retailers from which to source their supply of 
+hardware and home improvement products. The ACCC’s inquiries demonstrated 
+that the closeness of competition between wholesalers also varies based on their 
+products and service offering. 
+58. 
+While there are a variety of wholesale supply options for retailers and many 
+retailers use some of these options (such as direct supply and buying groups) to 
+complement wholesale supply from Danks or Mitre 10, the ACCC’s market 
+inquiries indicated that because of similarities in their product and service 
+offering, Danks and Mitre 10 compete most closely with each other rather than 
+with these other sources of supply.  
+59. 
+The ACCC found that the extent to which other sources of supply, such as supply 
+direct from manufacturers and buying groups, are close competitive alternatives 
+to using a wholesaler such as Danks depends to some extent on the profile of the 
+customer. The ACCC’s market inquiries with retailers indicated that larger 
+format retail stores, groups of stores with a common owner and those stores with 
+an emphasis on trade sales are more easily able to obtain supply from alternative 
+wholesale sources. This is due to the nature of the products being sourced and 
+these retailers’ ability to manage relationships with, and deliveries from, several 
+suppliers.  
+60. 
+For other retailers such as smaller, DIY-focused stores, these alternative sources 
+of supply could not readily be used instead of wholesale supply from Danks or 
+Mitre 10, partly because of the difficulty, cost and inconvenience of obtaining 
+small quantities of products from a large number of suppliers, and partly because 
+these retailers depend on the other services provided by these wholesalers.  
+61. 
+Vertically integrated wholesale suppliers, e.g. Bunnings, while not competing 
+directly with Danks and Mitre 10, provide an indirect competitive constraint on 
+wholesalers via retail competition.  As discussed under the heading ‘Market 
+Definition’, to the extent that vertically integrated retailers compete in the same 
+product and geographic retail markets as the independent retail customers of 
+wholesalers of hardware and home improvement products, retailers and therefore 
+wholesalers will lose customers to the vertically integrated suppliers if they are 
+not competitive. 
+Importance of a wholesaler to retailers 
+62. 
+While the ACCC’s inquiries indicated that most retailers obtain products from a 
+combination of sources, wholesalers provide customers with a range of services 
+-10- 
+
+
+ 
+and benefits which are not readily available elsewhere and which assist them to 
+compete. These include negotiation with suppliers, central billing or chargeback 
+facilities for a wide range of products, warehousing, store branding and other 
+marketing services.  
+63. 
+Market inquiries indicated that the independent stores which obtain most of their 
+products direct from manufacturers or through buying groups (i.e. stores that 
+make little or no use of a wholesaler such as Danks or Mitre 10) are 
+predominantly trade-focused stores. For these stores, buying groups represent an 
+attractive alternative to wholesalers for their primary supply as they tend to 
+require larger volumes of a smaller range of mainly trade-focused products—
+often products which are more efficiently supplied direct to retail stores (for 
+example, timber, cement and flooring). 
+64. 
+The ACCC’s inquiries further indicated that wholesalers are valued by some 
+stores due to the range of products on offer via the warehouse or chargeback 
+system. It would be difficult for such retailers, in particular those DIY-focused 
+stores, to obtain competitive access to a similar range of products without access 
+to a wholesaler such as Danks or Mitre 10. For example, the use of buying groups 
+such as Natbuild and HBT would be likely to provide access to a more limited 
+range of products from a more limited range of suppliers. This is consistent with 
+buying groups being considered stronger wholesale substitutes for trade-focused 
+stores than for DIY-focused stores. 
+65. 
+The effect of minimum order requirements on small retailers was another factor 
+supporting the importance of wholesalers for these stores. The ACCC noted that 
+smaller stores have limited financial and storage capacity to meet the minimum 
+order requirements of suppliers, which effectively lock smaller stores into either 
+purchasing minimum volumes or paying a fee in the event that volumes below 
+this minimum level are purchased. 
+66. 
+While the ACCC’s inquiries obtained a range of comments from market 
+participants on the degree to which the services offered by a wholesaler such as 
+Danks are valued by its customers, it is clear that some stores—in particular 
+smaller retailers with a focus on retailing DIY-type products—not only value 
+access to competitively supplied products but also value the additional services 
+offered by a wholesaler. 
+67. 
+The ACCC considered that such stores would be likely to face difficulties 
+attempting to independently replicate these benefits; for example, individual 
+stores are unlikely to be able to replicate the marketing and promotional support 
+provided across the network of Home Timber and Hardware stores, including 
+television advertising and catalogues with deeply discounted products to attract 
+customers.  
+Reduced competition at the retail level due to a reduction in the number of 
+participants at the wholesale level  
+ 
+68. 
+As noted above, one of the issues identified by the ACCC in its Statement of 
+Issues was whether a reduction in the number of wholesale competitors would 
+-11- 
+
+
+ 
+lead to a reduction in the level of retail competition in some local markets.  
+69. 
+While the ACCC recognised it was unlikely that Woolworths would have 
+operated as a wholesale supplier to independent hardware stores in the absence of 
+this transaction, it considered that the acquisition of Danks’ wholesale business 
+would reduce the number of wholesale suppliers compared with the situation 
+without this acquisition (where Woolworths and Danks would have both operated 
+as wholesale suppliers to retailers, albeit that Woolworths’ only wholesale 
+customer could be its own stores). 
+70. 
+Notwithstanding that Woolworths was unlikely to supply independent hardware 
+stores in the absence of the proposed acquisition, the ACCC considered that the 
+prices charged by wholesalers such as Danks and Mitre 10 are indirectly 
+constrained by vertically integrated retailers with their own wholesale operations, 
+such as Bunnings and Woolworths’ big box stores. The mechanism by which this 
+constraint occurs was described at paragraph 50 above.  
+71. 
+In the factual world with the acquisition, Woolworths will set both the retail 
+prices in its big box stores and the wholesale prices to its independent retail 
+customers and would have the incentive to set those prices at levels that would 
+maximise its overall profits, while taking into account the extent of competition 
+from other retailers and wholesalers.  The ACCC considered whether 
+Woolworths’ dual role as a wholesaler and a retailer was likely to result in a 
+reduced level of competition at the retail level, both on a broad ‘network-wide’ 
+basis and more particularly in those local areas where Woolworths supplies an 
+independent retailer in close proximity to one of its new big box stores 
+72. 
+The ACCC considered whether the common ownership and control of 
+Woolworths’ retail stores and its wholesale supply business for Danks member 
+stores may result in prices being higher than they would have been if these 
+businesses were separately owned and had an incentive to compete with each 
+other.  
+73. 
+In particular, the ACCC examined: 
+(i) 
+the possibility that such price increases (or the absence of price decreases) 
+may occur on a unilateral basis, with Woolworths setting its big box retail 
+prices and its wholesale prices to Danks customers at levels higher than they 
+would have been if Danks were not owned by Woolworths; and  
+(ii) 
+the possibility that the acquisition may increase the likelihood of higher 
+prices occurring on a coordinated basis. This concern could arise if other 
+competitors in the relevant markets were to accommodate less vigorous 
+competition by Woolworths/Danks by also keeping their prices above 
+competitive levels, rather than setting competitive prices and seeking to win 
+customers away from Woolworths/Danks. The ACCC examined whether 
+the acquisition of Danks would make such coordination more likely by 
+reducing the ability of Danks members to compete vigorously and disrupt 
+any attempted coordination. 
+74. 
+In addition to examining the risk that the proposed acquisition may lead to prices 
+-12- 
+
+
+ 
+being higher than they would otherwise have been, the ACCC also considered 
+whether it may result in a reduction in the range of products offered for sale, less 
+competition on store opening hours and/or a reduction in the level of in-store 
+customer service. 
+75. 
+In order to determine whether Woolworths would have an incentive to set higher 
+prices or otherwise reduce the competitive offer of its big box stores and Danks 
+wholesale business, the ACCC examined whether it would likely be profitable for 
+Woolworths to engage in this behaviour.  
+76. 
+Relevant factors for this assessment included the closeness of competition 
+between Woolworths’ big box stores and Danks supplied retailers, in both 
+product and geographic space; the extent of competition from other retailers; the 
+importance of a wholesaler to Danks’ customers; the extent of competition from 
+other wholesalers; and barriers to the entry and expansion of new wholesalers. 
+77. 
+In examining the impact of the proposed acquisition on competition in the 
+relevant retail and wholesale markets, the ACCC considered the closeness of 
+competition between various retail formats. As discussed in paragraph 54, the 
+ACCC’s inquiries indicated that while there is competition between different 
+format hardware stores, big box stores are each other’s closest competitors. 
+Information provided to the ACCC confirmed that Woolworths’ big box stores 
+are likely to be positioned to compete most directly with Bunnings (and other big 
+box stores) and that Bunnings is likely to represent strong competition to 
+Woolworths’ big box stores and to react competitively to the entry of 
+Woolworths’ big box stores. 
+78. 
+Further, the ACCC considered that Mitre 10 and other small to medium format 
+retailers in each of the relevant local markets may disrupt any attempted 
+unilateral or coordinated increase in prices by offering competitive prices and 
+services to customers. While the ACCC received a range of comments from 
+market participants on the extent to which Mitre 10 represents a viable alternative 
+wholesaler to Danks, Mitre 10 retailers were generally considered to be vigorous 
+competitors in the local markets considered, and were most similar to Danks 
+member stores in terms of their formats and overall offer. 
+79. 
+While Danks supplied retailers may compete most closely with other small and 
+medium sized hardware retailers, their prices and service offerings are still 
+constrained by the big box stores and they offer consumers a competitive 
+alternative to those stores, albeit a differentiated one.  In considering whether 
+Woolworths’ dual role as a wholesaler and a retailer was likely to result in a 
+reduced level of competition at the retail level in the future with the acquisition as 
+compared to the future without the acquisition, it was therefore important to 
+consider the role and importance of a wholesale supplier for Danks customers, 
+the extent to which Danks would be likely to assist those customers in providing 
+a competitive response as a group to Woolworths’ entry into big box hardware 
+retailing if it remained independently owned and the alternative sources of 
+wholesale services which would likely be available to those retailers if the 
+acquisition proceeded.  
+-13- 
+
+
+ 
+80. 
+The ACCC’s inquiries indicated that through the provision of a range of services, 
+a wholesaler such as Danks influences its members’ ability to compete, including 
+through its wholesale pricing, product range, timely delivery of products, group 
+advertising and promotions and providing strategic advice to stores on how to 
+compete. The ACCC found that the proposed acquisition would remove the 
+incentive for Woolworths to provide support to Danks members directed at 
+assisting them to compete with Woolworths’ big box stores—an incentive which, 
+in the absence of the proposed acquisition, Danks would have had.  
+81. 
+However, as discussed above, it is generally the small retailers with a focus on 
+retailing DIY-type products who most value the wholesale services provided by 
+Danks and who would be most dependent on Woolworths/Danks rather than 
+having alternative options.  The importance of these stores for competition with 
+big box retailers is limited compared to the larger retailers who would likely be 
+less dependent on Danks to assist their competitive response to Woolworths 
+entry. 
+82. 
+As to the larger format Danks member stores, which are likely to compete more 
+closely with Woolworths’ big box stores because of their wider ranges and 
+generally more competitive prices, information provided to the ACCC indicated 
+that these stores are more easily able to obtain supply from alternative wholesale 
+sources, as discussed at paragraph 59 above. 
+83. 
+The ACCC received a range of comments on the importance of scale economies 
+and the height of barriers to entry into the relevant wholesale markets. While the 
+ACCC considered that entry of a new wholesaler or expansion of an existing 
+market participant (such as Natbuild or HBT) to fully replicate the offer of goods 
+and services previously supplied by Danks is unlikely, there was evidence that 
+buying groups and emerging smaller wholesalers would have the ability to satisfy 
+some customers’ needs, and that some retailers and small chains operate their 
+own wholesale operations (i.e. without using Danks or Mitre 10). These 
+wholesale options will continue to exert a degree of competitive pressure on 
+Woolworths as a wholesaler.  
+84. 
+The undertakings offered by Woolworths (discussed under the heading 
+‘Undertakings’ below) remove barriers to any Danks store obtaining supply from 
+other sources or exiting the group entirely. The ACCC considered that the 
+undertakings would enable Danks members to support alternative wholesalers 
+(and vice versa), thereby also lowering barriers to entry by new wholesalers or 
+expansion by existing small wholesalers. 
+85. 
+The ACCC also received a range of comments on whether Mitre 10, Danks’ 
+closest wholesale competitor, would be a viable alternative to Danks. A large 
+number of member and non-member stores did not consider it a viable alternative 
+for a range of reasons including its smaller range of available products, 
+differences in its membership structure, pricing and the particular services offered 
+to members. However, other interested parties considered Mitre 10 to be an 
+adequate alternative to Danks and that it had the potential to improve its 
+operations.  The ACCC considered that Mitre 10’s assets were likely to remain in 
+the market and have the potential to provide an improved competitive offer to 
+-14- 
+
+
+ 
+Danks retail customers in the future. 
+86. 
+While the ACCC found that the ability of Danks members to compete is 
+influenced by their wholesale supplier, they are free to make their own decisions 
+about the products offered for sale6 and the prices at which those products are 
+sold, not all products are obtained from Danks and other supply options exist. 
+The independent ownership and operation of Danks member stores7 further 
+supports the limited ability or incentive for Woolworths to induce these stores to 
+coordinate their behaviour with Woolworths’ big box stores in a manner which 
+would lessen competition.  
+87. 
+When combined with the undertakings offered by Woolworths, these factors led 
+the ACCC to form the view that common ownership and control of Woolworths 
+retail stores and the Danks wholesale business was unlikely to result in a 
+substantial lessening of competition through higher prices or a reduction in non-
+price competition relative to the situation without the proposed acquisition.  
+Discrimination against wholesale customers who are also retail competitors 
+ 
+88. 
+As noted above, another issue identified by the ACCC in its Statement of Issues 
+was whether Woolworths’ dual role as a wholesaler and a retail competitor to 
+Danks member stores may provide Woolworths with the ability and incentive to 
+discriminate against or foreclose supply to Danks member stores in some local 
+markets, and whether such behaviour may lead to a reduction in the level of retail 
+competition in those local markets.  
+89. 
+If implemented, such foreclosure strategies may substantially lessen competition 
+by limiting the ability of those stores to compete as effectively in local retail 
+markets as they would have without the proposed acquisition. This, in turn, may 
+result in the closure of some stores or discourage new entrants to the market, 
+thereby denying consumers the benefits that additional competition would bring. 
+Woolworths’ incentive to discriminate against or foreclose certain wholesale customers 
+90. 
+In the future with the proposed acquisition, Woolworths would have an incentive 
+to discriminate against a store which is its wholesale customer (e.g. a Home 
+Timber and Hardware store) only if this would increase its overall profits. In 
+order for this to be the case, the additional profit earned by the Woolworths big 
+box store as a result of customers switching their purchases from the Home 
+Timber and Hardware store to the Woolworths store would need to outweigh the 
+profits Woolworths would lose as a result of the reduction in its wholesale sales 
+to the Home Timber and Hardware store.  
+91. 
+Whether or not this is the case will depend on a number of factors, including the 
+relative size of the profit margins Woolworths earns on retail versus wholesale 
+sales, and the strength of competition Woolworths faces in each local retail 
+market.  
+                                                 
+6 Except in limited circumstances including requiring promotional items be stocked. 
+7 There is one company-owned store in Katoomba, NSW 
+-15- 
+
+
+ 
+92. 
+If Woolworths raises its wholesale prices to a wholesale customer (e.g. a Home 
+Timber and Hardware store) which in turn is forced to raise its retail prices and 
+therefore loses some customers, Woolworths’ big box would gain some of those 
+customers. However, if Woolworths faces a number of other strong competitors 
+in the local retail market, it is likely that those competitors will gain a significant 
+share of the sales lost by the Home Timber and Hardware store in question. 
+Accordingly, the stronger the competition that Woolworths faces in a local retail 
+market, the less likely it is that such a foreclosure or discrimination strategy 
+would be profitable for Woolworths. 
+93. 
+The ACCC noted that Woolworths may have varying incentives in the short term 
+versus the long term. In the short term, while Woolworths is still establishing its 
+big box network, it is likely to have an incentive to support the existing Danks 
+wholesale business to the best of its ability and to maintain buying volumes, 
+relationships with suppliers, obtain industry knowledge and other benefits from 
+the wholesale operation. In the longer term, once Woolworths’ retail network has 
+reached sufficient scale, Woolworths’ incentives may change as the value of 
+supplying Danks customers becomes relatively less important compared with the 
+growing value of retail sales through its own big box network. 
+Woolworths’ ability to discriminate against or foreclose certain wholesale customers 
+94. 
+A strategy by Woolworths to discriminate against or foreclose wholesale 
+customers would most likely be successful if Woolworths is able to differentiate 
+between customers and engage in such a strategy for particular customers in local 
+areas where the competitive conditions are suitable.  
+95. 
+If Woolworths is unable to differentiate between stores, then any discrimination 
+or foreclosure strategy would have to either be applied to all stores supplied by 
+Danks, or none. The ACCC found that discrimination against all stores would be 
+unlikely to be profitable, as Woolworths would be likely to lose a higher 
+proportion of sales in geographic areas where it faces strong competition and 
+areas where no Woolworths big box stores exist, and that these losses would be 
+likely to outweigh any gains from discrimination or foreclosure.  
+96. 
+For this reason it was important for the ACCC to investigate whether Woolworths 
+would have the ability to differentiate between Danks members in different areas. 
+97. 
+The ACCC’s inquiries indicated that Danks supplies different groups of 
+customers (e.g. Home Timber and Hardware members, Thrifty-Link members 
+and non-member customers) under different trading terms and, in particular, 
+different rebate structures. The ACCC considered that while it would not be 
+costless, there would be little difficulty in differentiating trading terms between 
+customers if Woolworths decided to do so. 
+98. 
+However, while the ACCC concluded that Woolworths would be in a position to 
+offer different terms to different wholesale customers, the success of any attempt 
+to use such a strategy to discriminate against or foreclose supply to wholesale 
+customers would be undermined if these customers have strong alternative 
+options for supply or if new competitive entry is possible. 
+-16- 
+
+
+ 
+99. 
+As described above, while some hardware retailers do not need a wholesale 
+warehouse as a source of supply, there are a number of retailers for whom a 
+wholesaler is the most viable supplier of a range of products and other associated 
+services. The ACCC’s inquiries indicated that, without a wholesaler such as 
+Danks, it would be difficult for these customers to viably replicate the services 
+provided by Danks. 
+100. As discussed at paragraph 83 above, the ACCC’s inquiries revealed a range of 
+comments as to the ability of a new wholesaler to enter, or an existing market 
+participant to expand, and effectively compete with Danks in the relevant 
+wholesale markets.  
+101. The ACCC also received information indicating that the competitive constraint 
+imposed by other wholesale suppliers would be strengthened if certain barriers to 
+Danks members buying from parties other than Danks—or leaving the Danks 
+group altogether—were removed.  The ACCC considered that the undertakings 
+offered by Woolworths and Carboxy would enable Danks members to support 
+alternative wholesalers (and vice versa), thereby lowering barriers to entry by 
+new wholesalers or expansion by existing small wholesalers. 
+102. In conclusion, the ACCC considered that, if faced with certain local market 
+conditions following the roll out of a sufficient number of retail stores, 
+particularly in areas where there are few competitors to Woolworths’ big box 
+stores and Danks member stores or where a Danks member store is a particularly 
+close competitor to a Woolworths big box store, Woolworths may be likely to 
+have an incentive to discriminate or foreclose supply.  
+103. However, the ACCC found that the Danks member stores that will have the 
+largest competitive constraint on Woolworths’ big box retail hardware offering 
+(namely, the larger ‘medium format’ stores with large ranges and competitive 
+prices), are also the stores that Woolworths is likely to be least able to 
+discriminate against or foreclose.  
+Conclusion  
+104. The ACCC was concerned that the proposed acquisition would be likely to result 
+in a substantial lessening of competition in some local retail markets as a result 
+of: 
+ The common ownership and control of Woolworths’ retail stores and its 
+wholesale supply business to Danks member stores resulting in higher prices, 
+or a reduction in non-price competition, as compared with the situation if 
+these businesses were separately owned.   
+ 
+ Possible discrimination or foreclosure of supply to Danks member stores by 
+Woolworths.  
+ 
+The degree to which competition would be likely to be lessened would depend on 
+the specific characteristics of each local market and the alternative sources of 
+supply for Danks member(s) in those local markets. 
+-17- 
+
+
+ 
+ 
+105. Woolworths and Carboxy offered undertakings to address these concerns. The 
+ACCC considered that, having regard to the undertakings offered by Woolworths 
+and Carboxy, the proposed acquisition would be unlikely to result in a substantial 
+lessening of competition in any local market. The impact of the undertakings is 
+described further below. 
+Undertakings 
+ 
+106. As noted above, on 11 November 2009 the ACCC accepted court enforceable 
+undertakings offered by Woolworths and Carboxy (the parties) pursuant to 
+section 87B of the Act. The undertakings were offered to address the ACCC’s 
+competition concerns arising from the proposed acquisition.  
+107. In summary, the parties have undertaken, for the next 10 years: 
+ not to require any Danks member to purchase products via the parties’ 
+warehouse or chargeback facility as part of a standard agreement;8 
+ not to prevent or hinder an existing Danks member from terminating the 
+membership agreement;  
+ not to require an existing Danks member who wishes to terminate the 
+membership agreement to reimburse the costs of painting, signage and certain 
+building works if Woolworths has announced an intention to open a big box 
+store within 5km from the existing Danks member’s store;  
+ not to provide less favourable terms and conditions of supply of goods or 
+services to any store located within a 5km radius of a Woolworths big box 
+store than the terms and conditions enjoyed by similar stores supplied by the 
+parties elsewhere; 
+ to ensure that the undertaking and its obligations are, on an ongoing basis, 
+brought to the attention of the parties’ hardware staff, and to provide a copy 
+of the undertaking and a plain English summary to Danks members and all 
+acquirers of product from Danks; and 
+ to engage an independent auditor approved by the ACCC to monitor and 
+report on compliance with the terms of the undertaking. 
+108. A copy of the undertaking is available on the ACCC’s website at the 
+undertakings register (www.accc.gov.au following the link to public registers). 
+109. The undertakings offered by Woolworths and Carboxy and accepted by the 
+ACCC aim to remove barriers to any Danks store obtaining supply from other 
+sources while remaining a Danks member, as well as removing barriers that 
+might prevent a Danks store exiting the group entirely. The undertakings thereby 
+reduce the reliance of Danks member stores on Danks as a wholesale supplier. 
+                                                 
+8  
+A Danks member may, however, elect to enter into a variation of the standard contract that includes 
+a provision requiring certain purchases from the parties. There are also limited circumstances 
+whereby members must purchase certain products from Danks including where promotional items 
+are required to be stocked. 
+-18- 
+
+
+ 
+110. The ACCC considers that the ability of Danks members to use and/or switch to 
+other wholesale supply options, which is strengthened by the undertaking, 
+reduces the risk of unilateral or coordinated price increases occurring as a result 
+of the proposed acquisition.  In the event that Danks members consider that their 
+ability to compete is compromised by Woolworths’ dual role as a wholesaler and 
+a retailer, they will be free to obtain supply from alternative sources or exit the 
+Danks group and join another wholesale supply group to enable them to compete 
+more effectively.   
+111. The undertakings also remedy the ACCC’s concern that the proposed acquisition 
+would be likely to give Woolworths the ability and incentive to discriminate 
+against some of its wholesale customers who are also its retail competitors, 
+enabling these stores to compete as effectively in local markets as they would 
+have without the acquisition.  
+Conclusion 
+ 
+112. On the basis of the above, including taking into account the proposed 
+undertakings, the ACCC formed the view that the proposed acquisition would not 
+be likely to result in a substantial lessening of competition in any relevant market 
+in contravention of section 50 of the Act. 
+-19- 

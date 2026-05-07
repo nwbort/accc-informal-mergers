@@ -1,0 +1,44 @@
+{
+  "id": "0427",
+  "title": "Coca-Cola Amatil - proposed acquisition of Foster's Non-Alcoholic Beverage Assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coca-cola-amatil-proposed-acquisition-of-fosters-non-alcoholic-beverage-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49058",
+  "industries": [
+    "Beverages"
+  ],
+  "date_completed": "14 August 2012",
+  "date_completed_iso": "2012-08-14T12:00:00Z",
+  "date_commenced": "3 July 2012",
+  "date_commenced_iso": "2012-07-03T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Coca-Cola Amatil (Aust) Pty Ltd"
+  ],
+  "targets": [
+    "Foster's Non-Alcoholic Beverage Assets"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2012",
+      "date_iso": "2012-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2012",
+      "date_iso": "2012-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Aug 2012",
+      "date_iso": "2012-08-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC has decided not to oppose the proposed acquisition by Coca-Cola Amatil Pty Ltd of the non-alcoholic beverages business of Foster's Group Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following relevant markets: a)\tthe national market for the production and wholesale supply of carbonated soft drinks (CSDs); b)\tthe national market for the production and wholesale supply of bottled water; c)\tthe national market for the production and wholesale supply of fruit beverages; and d)\tthe national market for the production and wholesale supply of cordial. The ACCC considered the carbonated fruit beverages category did not constitute a separate market. Rather, it was a small portion (around 6 per cent of sales) of the fruit beverages market.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: a)\tin all the relevant markets, CCA was not significantly increasing its market share, as FGL's share in each market was less than 2 per cent, both in the grocery and non-grocery channels; b)\talthough CCA was increasing its share in the carbonated fruit beverages category, this did not lead to a significant change in market shares in the fruit beverages market; and c)\tthe proposed acquisition was unlikely to significantly increase the incentive and ability of CCA to leverage its market power (in particular in CSDs) across complementary products, through a foreclosure strategy, because: -\tthe acquired brands had a small presence in non-alcoholic beverages as a whole, and in each relevant market, both in the grocery and non-grocery channels; -\tCCA was not acquiring additional production or distribution infrastructure, or significantly increasing its refrigeration capacity; and -\tCCA would continue to be constrained by relevant brands of different competitors, including rivals with a range of products that would compete with CCA's increased portfolio."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0101",
+  "title": "Pact Group Holdings Ltd  - Synergy Packaging Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-holdings-ltd-synergy-packaging-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Packaging products"
+  ],
+  "date_completed": "20 May 2022",
+  "date_completed_iso": "2022-05-20T12:00:00Z",
+  "date_commenced": "1 April 2022",
+  "date_commenced_iso": "2022-04-01T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Pact Group Holdings Ltd"
+  ],
+  "targets": [
+    "Synergy Packaging Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Apr 2022",
+      "date_iso": "2022-04-01T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Apr 2022",
+      "date_iso": "2022-04-21T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "18 May 2022",
+      "date_iso": "2022-05-18T12:00:00Z",
+      "event": "Former proposed decision date (23 June) brought forward."
+    },
+    {
+      "date": "20 May 2022",
+      "date_iso": "2022-05-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group Holdings Ltd ( Pact ) proposes to acquire Synergy Packaging Pty Ltd ( Synergy ). Pact manufactures and supplies a wide range of plastic packaging products throughout Australia, including non-beverage polyethylene terephthalate (more commonly known as PET) containers. Pact is also involved in the supply of recycled PET raw materials, with interests in the joint ventures Australian Recycled Plastic Pty Ltd, and Circular Plastics Australia (PET) Pty Ltd. Synergy manufactures and supplies plastic packaging products from its facility in Tullamarine, Victoria. It primarily supplies non-beverage PET containers to customers in the beauty, cosmetics, pharmaceutical and food industries.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in markets for The supply of non-beverage rigid PET (NBRP) containers, and The upstream supply of rPET resin to downstream PET manufacturers. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise product and geographic scope of these markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Pact and Synergy overlap in the supply of NBRP containers. However, Pact and Synergy are not close competitors. Pact targets large customers and has high minimum orders, whereas Synergy targets small to medium customers. Furthermore, post-acquisition, the merged entity would continue to be constrained by a number of close competitors. Some customers of Synergy expressed a concern that Pact may shift Synergy’s strategy to service larger customers at the expense of customers requiring lower volumes. The ACCC concluded that it was unlikely that Pact would have an incentive to stop supplying smaller customers because Synergy’s equipment is primarily suitable for customers with lower volumes. In any event, the ACCC considered that alternative suppliers would remain for these customers. Pact also has an interest in joint ventures which recycle PET containers. The ACCC considered whether the proposed acquisition would increase Pact’s ability and/or incentive to foreclose rival PET manufacturers from access to recycled PET resin (an input in the manufacture of recycled PET containers). However, the ACCC concluded that: Pact does not have this ability due to the availability of rPET from other sources including imports, and The proposed acquisition would not materially increase its incentive to engage in such a foreclosure strategy, because of Synergy’s comparatively low rPET usage."
+  }
+}

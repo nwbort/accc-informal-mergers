@@ -1,0 +1,49 @@
+{
+  "id": "0925",
+  "title": "P&O Trans Australia (WA) Pty Ltd - proposed acquisition of container park businesses from Baguley Containers Pty Ltd and Baguley Hire/Sales Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/po-trans-australia-wa-pty-ltd-proposed-acquisition-of-container-park-businesses-from-baguley-containers-pty-ltd-and-baguley-hiresales-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31445",
+  "industries": [
+    "Container park operation"
+  ],
+  "date_completed": "9 May 2008",
+  "date_completed_iso": "2008-05-09T12:00:00Z",
+  "date_commenced": "13 March 2008",
+  "date_commenced_iso": "2008-03-13T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "P&O Trans Australia (WA) Pty Ltd"
+  ],
+  "targets": [
+    "Baguley Containers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Mar 2008",
+      "date_iso": "2008-03-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Apr 2008",
+      "date_iso": "2008-04-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 May 2008",
+      "date_iso": "2008-05-08T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    },
+    {
+      "date": "9 May 2008",
+      "date_iso": "2008-05-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "P&O Trans Australia (WA) Pty Limited (POTA (WA)), a subsidiary of POTA Holdings Pty Limited proposal to acquire the container park businesses of Baguley Containers Pty Limited and Baguley Containers Hire/Sales Pty Limited (together, Baguley).",
+    "Market definition": "The ACCC considered the relevant market for the supply of storage, handling and associated services for empty containers in Perth.",
+    "Competition analysis": "On 9 May 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included: -  that the off-port container park, Intermodal Link Services, would be an effective constraint on the merged firm and has the capacity for increased demand in its services should the merged firm attempt to use any perceived market power; -  low barriers to entry, and -  the bargaining power of shipping lines in their ability to switch suppliers and/or sponsor new entry into the relevant market."
+  }
+}

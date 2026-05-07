@@ -1,0 +1,45 @@
+{
+  "id": "0904",
+  "title": "Fonterra Co-operative Group Ltd - proposed acquisition of Australian Co-operative Foods Limited (Dairy Farmers)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fonterra-co-operative-group-ltd-proposed-acquisition-of-australian-co-operative-foods-limited-dairy-farmers",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31905",
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "30 June 2008",
+  "date_completed_iso": "2008-06-30T12:00:00Z",
+  "date_commenced": "12 May 2008",
+  "date_commenced_iso": "2008-05-12T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Fonterra Co-operative Group Ltd"
+  ],
+  "targets": [
+    "Australian Co-operative Foods Limited (Dairy Farmers)"
+  ],
+  "timeline": [
+    {
+      "date": "12 May 2008",
+      "date_iso": "2008-05-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 May 2008",
+      "date_iso": "2008-05-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jun 2008",
+      "date_iso": "2008-06-13T12:00:00Z",
+      "event": "Timeline suspended - awaiting information that the parties wish to put to the ACCC."
+    },
+    {
+      "date": "30 Jun 2008",
+      "date_iso": "2008-06-30T12:00:00Z",
+      "event": "Application for ACCC clearance withdrawn."
+    }
+  ],
+  "body_sections": {}
+}

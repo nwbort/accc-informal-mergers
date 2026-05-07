@@ -1,0 +1,47 @@
+{
+  "id": "0638",
+  "title": "Queensland Sugar Limited - completed acquisition of a 9.75% interest in Tully Sugar Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/queensland-sugar-limited-completed-acquisition-of-a-975-interest-in-tully-sugar-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40650",
+  "industries": [
+    "Sugar"
+  ],
+  "date_completed": "21 April 2010",
+  "date_completed_iso": "2010-04-21T12:00:00Z",
+  "date_commenced": "12 February 2010",
+  "date_commenced_iso": "2010-02-12T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "Queensland Sugar Limited"
+  ],
+  "targets": [
+    "Tully Sugar Limited"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jan 2010",
+      "date_iso": "2010-01-07T12:00:00Z",
+      "event": "Queensland Sugar Limited acquired a 9.75% interest in Tully Sugar Limited."
+    },
+    {
+      "date": "12 Feb 2010",
+      "date_iso": "2010-02-12T12:00:00Z",
+      "event": "ACCC commenced a public review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Apr 2010",
+      "date_iso": "2010-04-21T12:00:00Z",
+      "event": "Review terminated because Maryborough Sugar will not be proceeding with its takeover bid for Tully Sugar."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 7 January 2010, Queensland Sugar Limited (Queensland Sugar) acquired a 9.75% interest in Tully Sugar Limited (Tully Sugar) (the acquisition). Queensland Sugar provides marketing and logistics services for bulk raw sugar exports on behalf of seven milling companies who together account for approximately 95% of bulk raw sugar exports from Queensland. Queensland Sugar also undertakes the export marketing activities on behalf of over 90% of all Australian raw sugar exports. Tully Sugar's principal activity is the milling of sugar cane to produce raw sugar for export, from its mill in Tully, Queensland. On 12 February 2010, the ACCC commenced a public review of the acquisition following reports in the media which suggested that the acquisition may be intended to hinder or prevent a pro-competitive acquisition by Maryborough Sugar Factory Limited (Maryborough Sugar). Maryborough Sugar announced on 19 April 2010 that it would not be able to proceed with its takeover offer for Tully and that the offer would lapse at the end of April 2010.  Accordingly, on 21 April 2010, the ACCC terminated its review."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0984",
+  "title": "ACP Magazines Ltd - completed joint venture with Northern & Shell Plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acp-magazines-ltd-completed-joint-venture-with-northern-shell-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30125",
+  "industries": [
+    "Magazines and Publications"
+  ],
+  "date_completed": "20 December 2007",
+  "date_completed_iso": "2007-12-20T12:00:00Z",
+  "date_commenced": "30 November 2007",
+  "date_commenced_iso": "2007-11-30T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "ACP Magazines Ltd"
+  ],
+  "targets": [
+    "Northern & Shell Plc"
+  ],
+  "timeline": [
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "ACP Magazines Ltd and Northern & Shell Plc publicly announce the joint venture arrangement."
+    },
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Dec 2007",
+      "date_iso": "2007-12-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Dec 2007",
+      "date_iso": "2007-12-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australian Consolidated Press Magazines Limited entered into a 50/50 joint venture arrangement with Northern & Shell Plc in relation to the publication of 'OK! Magazine' in Australia",
+    "Market definition": "A conclusive view on market definition was not required as the outcome of the competition analysis would not have been materially affected were a broader market definition adopted.",
+    "Competition analysis": "On 20 December 2007 the ACCC formed the view after conducting market inquiries that the completed joint venture was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the merged firm would continue to face effective competition from domestic publishers and imported magazines; - the actual and potential launch of new titles by new and existing competitors in the relevant magazine markets was likely to constrain any attempted exercise of market power; and - a rival publisher had publicly stated it intended to expand its magazine business."
+  }
+}

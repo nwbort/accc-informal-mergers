@@ -1,0 +1,31 @@
+{
+  "id": "1442",
+  "title": "Acquirer: WPP Global; Target: Grey Global Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-wpp-global-target-grey-global-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20452",
+  "industries": [],
+  "date_completed": "23 November 2004",
+  "date_completed_iso": "2004-11-23T12:00:00Z",
+  "date_commenced": "29 September 2004",
+  "date_commenced_iso": "2004-09-29T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "WPP Global"
+  ],
+  "targets": [
+    "Grey Global Group"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed merger between WPP Group plc and Grey Global Group Inc",
+    "Market definition": "The relevant markets were considered to be: 1.\tThe national market for marketing communications services including advertising agency and related services; and 2.\tThe national market for media buying services.",
+    "Competition analysis": "The ACCC decided not to oppose the merger between WPP Group plc and Grey Global Group Inc on the grounds that: 1.\tMarket concentration levels are not likely to exceed the Commission's thresholds; 2.\tBarriers to entry to the markets appear to be low; 3.\tThe merged entity will be constrained from raising prices by the countervailing and bargaining power which advertisers and media companies possess; and 4.\tThe market is characterised by strong competition between agencies, including agencies owned by a single parent group.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7851"
+  }
+}

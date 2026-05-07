@@ -1,0 +1,54 @@
+{
+  "id": "0423",
+  "title": "SAP AG - proposed acquisition of Ariba Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sap-ag-proposed-acquisition-of-ariba-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49298",
+  "industries": [
+    "Supply Chain Management Software"
+  ],
+  "date_completed": "18 September 2012",
+  "date_completed_iso": "2012-09-18T12:00:00Z",
+  "date_commenced": "24 July 2012",
+  "date_commenced_iso": "2012-07-24T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "SAP AG"
+  ],
+  "targets": [
+    "Ariba Inc"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jul 2012",
+      "date_iso": "2012-07-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Aug 2012",
+      "date_iso": "2012-08-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Aug 2012",
+      "date_iso": "2012-08-15T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 6 September 2012 delayed pending receipt of information from the parties."
+    },
+    {
+      "date": "31 Aug 2012",
+      "date_iso": "2012-08-31T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Sep 2012",
+      "date_iso": "2012-09-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "SAP AG proposes to acquire Ariba, Inc.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: -  Supply of Supply Chain Management (SCM) products -  Supply of Enterprise Application Software (EAS) products -  Supply of Business to Business (B2B) networks The industry players and competitive dynamics in the markets identified above are largely global, but the competition assessment was limited to effects on Australian consumers.",
+    "Competition analysis": "In relation to the horizontal consolidation arising from the merger parties' supply of SCM products, the ACCC concluded that the proposed acquisition would not substantially lessen competition.  Factors informing this view included the presence of other significant suppliers in Australia and globally, and opportunities for entry and expansion in a fast growing market. In relation to the vertical effects theory arising from the proposed acquisition, the ACCC concluded that any potential foreclosure of interoperability of Ariba's B2B Network with rival EAS products is unlikely to substantially lessen competition.  In particular, partial foreclosure of this interoperability, such as withholding product upgrades, appears unlikely to foreclose effective competition in the EAS market from Microsoft, IBM, Oracle and others.  Factors informing this view included: 1.  Ariba's B2B Network does not have market power that could be leveraged into the market for supply of EAS products; i.  Ariba is the global leader for B2B Network products, but network effects appear unlikely to create a single player with market power; ii.  Ariba faces competition from other best-of-breed suppliers and, more widely, from many suppliers of supply chain management software; iii.  B2B Network functionality does not drive sales of EAS products and any attempted foreclosure of interoperability would not therefore significantly influence customers' EAS purchasing decisions; iv.  the market is in an emerging stage and is very fast growing.  Other global suppliers are expanding rapidly and customers can readily switch network suppliers; v.  In Australia, Ariba has a very small presence for supply of its B2B Network product and does not currently benefit from any network effects; and 2.  the merged firm would not have the incentive to significantly foreclose interoperability of the Ariba B2B Network because of the sales and profits that would be lost. Accordingly, on 18 September 2012, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

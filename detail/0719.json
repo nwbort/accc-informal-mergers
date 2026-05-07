@@ -1,0 +1,49 @@
+{
+  "id": "0719",
+  "title": "Carsales.com.au Limited - completed acquisition of Red Book",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/carsalescomau-limited-completed-acquisition-of-red-book",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37402",
+  "industries": [
+    "Online car sales"
+  ],
+  "date_completed": "13 August 2009",
+  "date_completed_iso": "2009-08-13T12:00:00Z",
+  "date_commenced": "5 May 2009",
+  "date_commenced_iso": "2009-05-05T12:00:00Z",
+  "total_review_days": 72,
+  "acquirers": [
+    "Carsales.com.au Limited"
+  ],
+  "targets": [
+    "Automotive Data Services t/a Red Book"
+  ],
+  "timeline": [
+    {
+      "date": "31 Aug 2007",
+      "date_iso": "2007-08-31T12:00:00Z",
+      "event": "Carsales.com.au Limited completed its acquisition of Automotive Data Services trading as Red Book."
+    },
+    {
+      "date": "5 May 2009",
+      "date_iso": "2009-05-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jul 2009",
+      "date_iso": "2009-07-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Aug 2009",
+      "date_iso": "2009-08-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 31 August 2007, Carsales.com.au Limited acquired Automotive Data Services (trading as Red Book). Carsales' principal business involved placing online classified advertisements for new and used cars for which it operated a network of websites; including carsales.com.au, carpoint.com.au, and discountnewcars.com.au. Red Book was a supplier of new and used car specification and valuation information ('vehicle information'). Red Book provided vehicle specification information (including basic vehicle information such as make, model and year in addition to advanced information such as standard and optional features) for new and used cars. Red Book also provided valuation estimates for used cars based on dealer advertised prices.",
+    "Market definition": "Information provided by Red Book was commonly used in online advertisements for the sales of new and used cars. Therefore, the ACCC considered potential competition issues arising from the vertical integration of the Carsales websites and Red Book's vehicle information. The completed acquisition was considered in the context of national markets for: - the supply of vehicle specification and valuation information; and - the supply of online automotive classified advertisements. However, the ACCC did not consider it necessary to reach a definitive view on market definition.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to have resulted in a substantial lessening of competition in the relevant markets. With regard to the supply of vehicle specification and valuation information, the ACCC considered whether Carsales had an incentive to foreclose advertisements on the Carsales website which incorporate vehicle information supplied by competitors of Red Book. Based on market inquiries, the ACCC concluded that Carsales had an incentive to maximise advertisements on its website by supporting different sources of vehicle data. This was supported by Carsales' conduct in the two years since the completed acquisition. In forming its view regarding the supply of online automotive classified advertisements, the ACCC considered that Carsales had an incentive to continue to supply the relevant Red Book code which allows third parties to list cars for sale on competing websites as well as on Carsales' own websites. The ACCC found that since the completed acquisition, Carsales has continued to supply the Red Book code in this manner."
+  }
+}

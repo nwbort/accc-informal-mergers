@@ -1,0 +1,44 @@
+{
+  "id": "0104",
+  "title": "EBOS Group Limited - Pacific Health Supplies TopCo1 Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ebos-group-limited-pacific-health-supplies-topco1-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Medical devices"
+  ],
+  "date_completed": "24 March 2022",
+  "date_completed_iso": "2022-03-24T12:00:00Z",
+  "date_commenced": "23 December 2021",
+  "date_commenced_iso": "2021-12-23T12:00:00Z",
+  "total_review_days": 61,
+  "acquirers": [
+    "EBOS Group Limited"
+  ],
+  "targets": [
+    "Pacific Health Supplies TopCo1 Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "23 Dec 2021",
+      "date_iso": "2021-12-23T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "31 Jan 2022",
+      "date_iso": "2022-01-31T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "24 Mar 2022",
+      "date_iso": "2022-03-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "EBOS Group Limited ( EBOS ), through its wholly owned subsidiary EBOS Medical Devices Australia Pty Limited, proposes to acquire Australian Pacific Health Supplies TopCo1 Pty Limited and its subsidiaries ( Pacific Health Group ). EBOS is an ASX and NZX listed Australasian marketer, wholesaler and distributor of medical products. Pacific Health Group comprises interests in two businesses that have a presence in Australia, being LifeHealthcare and Australian Biotechnologies and is a manufacturer and distributor of allografts and distributor of medical devices. Both parties distribute medical devices in Australia .",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in Australian markets for the supply of medical devices to hospitals and clinicians, including cervical replacement disc devices and devices used as bone alternatives to promote bone formation and healing, such as human tissue allografts and synthetic biologics. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition of these markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. The ACCC considered the potential competitive effects of the acquisition on the supply of cervical discs and devices used as bone alternatives to promote bone formation and healing, including synthetic biologics and allografts. The ACCC found that there are a range of suppliers of both cervical discs and synthetic biologics that will continue to supply hospitals and clinicians. Individual clinicians are currently able to choose the medical devices they consider most appropriate for each patient and procedure, and this choice was unlikely to change significantly. The ACCC also found that many agreements to supply are negotiated by large customers, such as public and private hospitals, with a significant degree of bargaining power. The ACCC also considered the potential for the acquisition to increase the incentive and ability of the combined EBOS / Pacific Health Group to engage in anti-competitive bundling of products to foreclose rival suppliers. Due to the factors outlined above, the ACCC found that the proposed acquisition was unlikely to enable a combined EBOS / Pacific Health Group to alter its behaviour and foreclose competing suppliers through tying or bundling behaviour."
+  }
+}

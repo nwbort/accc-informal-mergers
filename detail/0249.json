@@ -1,0 +1,68 @@
+{
+  "id": "0249",
+  "title": "Paper Australia Pty Ltd - proposed acquisition of copy paper assets of BJ Ball Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/paper-australia-pty-ltd-proposed-acquisition-of-copy-paper-assets-of-bj-ball-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60174",
+  "industries": [
+    "Copy paper and stationery"
+  ],
+  "date_completed": "21 October 2016",
+  "date_completed_iso": "2016-10-21T12:00:00Z",
+  "date_commenced": "6 September 2016",
+  "date_commenced_iso": "2016-09-06T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Paper Australia Pty Ltd"
+  ],
+  "targets": [
+    "BJ Ball Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Sep 2016",
+      "date_iso": "2016-09-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "12 Sep 2016",
+      "date_iso": "2016-09-12T12:00:00Z",
+      "event": "ACCC requested further information from merger parties."
+    },
+    {
+      "date": "20 Sep 2016",
+      "date_iso": "2016-09-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "23 Sep 2016",
+      "date_iso": "2016-09-23T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "13 Oct 2016",
+      "date_iso": "2016-10-13T12:00:00Z",
+      "event": "ACCC requested further information from Australian Paper."
+    },
+    {
+      "date": "18 Oct 2016",
+      "date_iso": "2016-10-18T12:00:00Z",
+      "event": "ACCC received further information from Australian Paper."
+    },
+    {
+      "date": "19 Oct 2016",
+      "date_iso": "2016-10-19T12:00:00Z",
+      "event": "Former proposed decision date of 20 October 2016 delayed to allow the ACCC to consider new information."
+    },
+    {
+      "date": "21 Oct 2016",
+      "date_iso": "2016-10-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition in the market(s) for the supply of wholesale copy paper into Australia. The ACCC did not consider it necessary to reach a final position on whether the geographic dimension of the market is national or state-based, as the conclusion from the competition analysis would be the same on either market definition.",
+    "Competition analysis": "Australian Paper is the only Australian manufacturer of copy paper and is the largest supplier of copy paper in Australia.  More than half of Australia's copy paper is currently imported and distributed by Australian Paper's competitors, including the Edwards Dunlop Office Products division (EDOP) of BJ Ball. The proposed acquisition would result in the removal of a key distributor of imported copy paper. The ACCC considered the ability for customers to import copy paper directly if Australian Paper increased prices following the proposed acquisition. The ACCC concluded that customers who purchased larger volumes of copy paper are likely to be able to import copy paper directly at competitive prices, but this may not be a viable option for customers purchasing smaller volumes. However, the ACCC determined that there is a sufficient likelihood of new entry, expansion, or re-entry into the supply of copy paper by other distributors and importers post-acquisition. Based on market feedback, copy paper is considered a commodity product and global manufacturing capacity exceeds demand. It is possible to establish distribution channels within a relatively short timeframe and a number of suppliers have been or are considering establishing these arrangements. Australian Paper has also committed not to include any exclusivity restriction in any proposed contract with EDOP's largest copy paper customer group, which should further facilitate competition. The ACCC noted concerns about the potential impact of Australian Paper's anti-dumping applications on customers' ability to establish importation arrangements. However, based on market feedback, the ACCC considered that imports would continue to represent a significant alternative for the supply of wholesale copy paper into Australia. The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in the market(s) for the supply of wholesale copy paper into Australia."
+  }
+}

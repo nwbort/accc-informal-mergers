@@ -1,0 +1,40 @@
+{
+  "id": "0521",
+  "title": "Air New Zealand Limited - completed acquisition of 14.9% interest in Virgin Blue Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/air-new-zealand-limited-completed-acquisition-of-149-interest-in-virgin-blue-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42685",
+  "industries": [
+    "Airlines"
+  ],
+  "date_completed": "12 May 2011",
+  "date_completed_iso": "2011-05-12T12:00:00Z",
+  "date_commenced": "21 January 2011",
+  "date_commenced_iso": "2011-01-21T12:00:00Z",
+  "total_review_days": 80,
+  "acquirers": [
+    "Air New Zealand Limited"
+  ],
+  "targets": [
+    "Virgin Blue Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jan 2011",
+      "date_iso": "2011-01-21T12:00:00Z",
+      "event": "ACCC commenced a public review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Feb 2011",
+      "date_iso": "2011-02-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 May 2011",
+      "date_iso": "2011-05-12T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC will however continue to monitor the effect of the acquisition on competition in the relevant markets."
+    }
+  ],
+  "body_sections": {}
+}

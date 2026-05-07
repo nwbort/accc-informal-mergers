@@ -1,0 +1,68 @@
+{
+  "id": "0379",
+  "title": "Woolworths Ltd - proposed acquisition of Supermarket in Hawker ACT",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-proposed-acquisition-of-supermarket-in-hawker-act",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49259",
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "4 July 2013",
+  "date_completed_iso": "2013-07-04T12:00:00Z",
+  "date_commenced": "15 October 2012",
+  "date_commenced_iso": "2012-10-15T12:00:00Z",
+  "total_review_days": 131,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "Supermarket in Hawker ACT"
+  ],
+  "timeline": [
+    {
+      "date": "15 Oct 2012",
+      "date_iso": "2012-10-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Nov 2012",
+      "date_iso": "2012-11-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Dec 2012",
+      "date_iso": "2012-12-06T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "17 Jan 2013",
+      "date_iso": "2013-01-17T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "18 Jan 2013",
+      "date_iso": "2013-01-18T12:00:00Z",
+      "event": "ACCC timeline suspended after Woolworths requested more time to respond to the Statement of Issues and an information request issued on 19 December 2012. Former proposed decision date of 7 February 2013 delayed pending receipt of the information."
+    },
+    {
+      "date": "28 Feb 2013",
+      "date_iso": "2013-02-28T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 May 2013",
+      "date_iso": "2013-05-10T12:00:00Z",
+      "event": "Former proposed decision date of 23 May 2013 delayed to allow the ACCC to complete additional market consultation before finalising its assessment."
+    },
+    {
+      "date": "4 Jul 2013",
+      "date_iso": "2013-07-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to the Public Compeition Assessment",
+    "Competition analysis": "Please refer to the Public Competition Assessment"
+  }
+}

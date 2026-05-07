@@ -1,0 +1,43 @@
+{
+  "id": "1108",
+  "title": "Luxottica Retail Australia Pty Ltd - proposed acquisition of 16 optical dispensing stores from Merringtons Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/luxottica-retail-australia-pty-ltd-proposed-acquisition-of-16-optical-dispensing-stores-from-merringtons-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27775",
+  "industries": [
+    "Eyecare and optical dispensing"
+  ],
+  "date_completed": "8 May 2007",
+  "date_completed_iso": "2007-05-08T12:00:00Z",
+  "date_commenced": "4 April 2007",
+  "date_commenced_iso": "2007-04-04T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Luxottica Retail Australia Pty Ltd"
+  ],
+  "targets": [
+    "Merringtons Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Apr 2007",
+      "date_iso": "2007-04-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "18 Apr 2007",
+      "date_iso": "2007-04-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 May 2007",
+      "date_iso": "2007-05-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Local markets for the retail supply of optical dispensing services and the wholesale supply of prescription frames in Australia were considered.",
+    "Competition analysis": "On 8 May 2007, the ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition.  Factors informing this conclusion include: - the availability of independent optical dispensing stores for consumers in nearly all of the local areas relevant to the proposed acquisition; - the relatively low barriers to entry and expansion in terms of sunk costs and the availability of retail space in strips or shopping centres; and - the ability of independent stores to purchase supplies from non-Luxottica wholesalers and buying groups."
+  }
+}

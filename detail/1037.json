@@ -1,0 +1,74 @@
+{
+  "id": "1037",
+  "title": "Fairfax Media Limited - acquisition of Riverina Media Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fairfax-media-limited-acquisition-of-riverina-media-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28129",
+  "industries": [
+    "Media - newspapers and printing"
+  ],
+  "date_completed": "18 September 2007",
+  "date_completed_iso": "2007-09-18T12:00:00Z",
+  "date_commenced": "7 May 2007",
+  "date_commenced_iso": "2007-05-07T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "Fairfax Media Limited"
+  ],
+  "targets": [
+    "Riverina Media Group"
+  ],
+  "timeline": [
+    {
+      "date": "2 May 2007",
+      "date_iso": "2007-05-02T12:00:00Z",
+      "event": "Rural Press Limited acquired Riverina Media Group."
+    },
+    {
+      "date": "7 May 2007",
+      "date_iso": "2007-05-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 May 2007",
+      "date_iso": "2007-05-09T12:00:00Z",
+      "event": "Fairfax Media Limited acquired Rural Press Limited, including Riverina Media Group."
+    },
+    {
+      "date": "21 May 2007",
+      "date_iso": "2007-05-21T12:00:00Z",
+      "event": "Closing date for submissions relating to the acquisition."
+    },
+    {
+      "date": "25 May 2007",
+      "date_iso": "2007-05-25T12:00:00Z",
+      "event": "ACCC requested further information from merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "9 Jul 2007",
+      "date_iso": "2007-07-09T12:00:00Z",
+      "event": "Further information received. Timeline recommenced."
+    },
+    {
+      "date": "15 Aug 2007",
+      "date_iso": "2007-08-15T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Aug 2007",
+      "date_iso": "2007-08-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "18 Sep 2007",
+      "date_iso": "2007-09-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fairfax/Rural Press has acquired Riverina Media Group",
+    "Market definition": "The acquisition was considered in the context of separate markets for supply of advertising to businesses, supply of content to consumers and the acquisition of content. The geographic extent of the advertising market was considered to be the greater Riverina southern-NSW region.  The ACCC considered that the product market from the perspective of advertisers was likely to be wider that just agri-business newspaper inserts, and would include other forms of print advertising.  The ACCC did not reach a conclusive view on whether the market included non-print forms of advertising.",
+    "Competition analysis": "The ACCC issued a Statement of Issues on 15 August 2007.  The ACCC conducted extensive market inquiries both prior and after issuing the Statement of Issues.  In particular, the ACCC contacted many of the advertisers in the relevant publications.  On 18 September 2007 the ACCC formed the view, after taking into consideration all information received from the parties and from market inquiries, that the acquisition is unlikely to substantially lessen competition in the relevant markets. The ACCC had regard to constraints on the advertising rates of the combined entity, in particular the possibility of expansion of existing players and the possibility of advertising in a combination of the smaller independent publications in the relevant area."
+  }
+}

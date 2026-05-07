@@ -1,0 +1,46 @@
+{
+  "id": "0016",
+  "title": "Ellerslie Free Range Farms Pty Ltd - LPC Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ellerslie-free-range-farms-pty-ltd-lpc-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Poultry feed",
+    "Agriculture",
+    "Egg Production"
+  ],
+  "date_completed": "12 August 2025",
+  "date_completed_iso": "2025-08-12T12:00:00Z",
+  "date_commenced": "24 July 2025",
+  "date_commenced_iso": "2025-07-24T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Ellerslie Free Range Farms Pty Ltd"
+  ],
+  "targets": [
+    "LPC Group"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jul 2025",
+      "date_iso": "2025-07-24T12:00:00Z",
+      "event": "ACCC commences informal review under the informal Merger Review Process Guidelines"
+    },
+    {
+      "date": "5 Aug 2025",
+      "date_iso": "2025-08-05T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Aug 2025",
+      "date_iso": "2025-08-12T12:00:00Z",
+      "event": "Former provision date for announcement of findings (4 September 2025) brought forward to 12 August 2025. ACCC announced it would not oppose the Proposed Acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ellerslie Free Range Farms Pty Ltd ( Ellerslie ) proposes to acquire 70% of the LPC Group ( LPC ) as well as specified property, plant, equipment and vehicles used in the business of the LPC Group (the Proposed Acquisition ). Both Ellerslie and LPC are vertically integrated at various levels of the egg production supply chain. Both parties supply the following to third parties: shell eggs poultry feed. Ellerslie is a Queensland based agricultural business in the egg farming and production sector. Ellerslie layer farms produce caged, cage free, free range, pasture raised and organic shell eggs. Ellerslie sells graded shell eggs to wholesalers or distributors including Sunny Queen, who distribute shell eggs to retailers, foodservice customers, and other customers. Ellerslie has three rearing sites, five layer farms, a feedmill complex, and grading, processing and warehousing facilities across Queensland. Ellerslie's feedmill includes an organic and conventional mill. Ellerslie has a 50% interest in Sunny Queen, with the other 50% held by the McLean family (through Alpair Pty Ltd). Sunny Queen has three processing facilities in Queensland, and one grading site in Victoria. It also has warehouses in NSW and Victoria. LPC is a NSW based shell egg production business that supplies shell eggs and poultry feed. LPC operates in the Riverine and Southwest Slopes region of NSW where it has two pullet rearing facilities, three layer farms (plus one in development), one feedmill, and a transport division. LPC supplies feed (for both poultry and pigs) and ungraded shell eggs to third parties from its facilities in NSW.",
+    "Market definition": "The ACCC considered the likely effect of the Proposed Acquisition on competition in markets for the: supply of shell eggs on the East Coast of Australia supply of poultry feed on the East Coast of Australia, or a more localised basis. For the purpose of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the Proposed Acquisition is not likely to substantially lessen competition in any market in Australia. The ACCC’s investigation focused on the impact of the Proposed Acquisition on the supply of shell eggs and poultry feed. The ACCC found that the Proposed Acquisition is unlikely to materially increase market concentration in the supply of shell eggs on the East Coast of Australia. Post-acquisition, Ellerslie would likely be competitively constrained by other large and medium-sized shell egg suppliers. The ACCC also found that Ellerslie and LPC are not particularly close competitors in poultry feed and that post-acquisition, Ellerslie would likely be competitively constrained by other suppliers of poultry feed on the East Coast of Australia."
+  }
+}

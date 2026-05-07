@@ -1,0 +1,44 @@
+{
+  "id": "1250",
+  "title": "Visy Paper Pty Ltd - proposed acquisition of Cleanaway",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/visy-paper-pty-ltd-proposed-acquisition-of-cleanaway",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24275",
+  "industries": [
+    "Waste management and recycling"
+  ],
+  "date_completed": "8 August 2006",
+  "date_completed_iso": "2006-08-08T12:00:00Z",
+  "date_commenced": "28 June 2006",
+  "date_commenced_iso": "2006-06-28T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Visy Paper Pty Ltd"
+  ],
+  "targets": [
+    "Cleanaway"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jun 2006",
+      "date_iso": "2006-06-28T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "14 Jul 2006",
+      "date_iso": "2006-07-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "8 Aug 2006",
+      "date_iso": "2006-08-08T12:00:00Z",
+      "event": "ACCC announces its decision not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Visy has acquired contracts with the Gold Coast City, Maroochy Shire and Logan Shire Councils for recyclable material processing and material recycling facilities where recyclable material is sorted (MRFs) at the Gold Coast and Logan from Cleanaway. Visy and Cleanaway provide waste management services to both councils and commercial customers.",
+    "Market definition": "The ACCC considered the following markets in its review of Visy's acquisitions: - A South East Queensland market for the receipt, handling, processing and disposal of dry recyclable material, including paper, plastics and glass (DRM). - A South East Queensland (or Queensland) market for colour sorting small glass particles (glass particles smaller than 60 millimetres). - A Queensland market for the supply of all sized colour sorted glass particles to end users in the manufacture of glass packaging. - A Queensland market for the supply of recyclable paper for end-use in recycled paper products.",
+    "Competition analysis": "The ACCC considers that Visy faces sufficient competitive constraints post-acquisition and that the acquisition is unlikely to have caused a substantial lessening of competition in any of the relevant markets. This conclusion is informed by the following factors: - Significant countervailing power on the part of the councils and, to a lesser extent, end-users of recyclable glass. - Availability of substitutes for recyclable glass and recyclable paper. - A number of other waste management service providers who can provide recyclable material processing and operation of MRF services. - Moderate barriers for entry into the market for the receipt, handling, processing and disposal of DRM."
+  }
+}

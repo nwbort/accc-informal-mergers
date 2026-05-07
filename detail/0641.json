@@ -1,0 +1,40 @@
+{
+  "id": "0641",
+  "title": "Tully Sugar Ltd - proposed acquisition of Bundaberg Sugar Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tully-sugar-ltd-proposed-acquisition-of-bundaberg-sugar-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41433",
+  "industries": [
+    "Sugar"
+  ],
+  "date_completed": "19 April 2010",
+  "date_completed_iso": "2010-04-19T12:00:00Z",
+  "date_commenced": "1 April 2010",
+  "date_commenced_iso": "2010-04-01T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Tully Sugar Ltd"
+  ],
+  "targets": [
+    "Bundaberg Sugar Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Apr 2010",
+      "date_iso": "2010-04-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Apr 2010",
+      "date_iso": "2010-04-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Apr 2010",
+      "date_iso": "2010-04-19T12:00:00Z",
+      "event": "The ACCC ceased its review of the proposed acquisition, following Tully Sugar Ltd's advice that negotiations with Bundaberg Sugar Ltd had discontinued."
+    }
+  ],
+  "body_sections": {}
+}

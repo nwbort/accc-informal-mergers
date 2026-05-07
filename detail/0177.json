@@ -1,0 +1,49 @@
+{
+  "id": "0177",
+  "title": "Wesfarmers Limited proposed acquisition of Catch Group Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/wesfarmers-limited-proposed-acquisition-of-catch-group-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Retail"
+  ],
+  "date_completed": "5 August 2019",
+  "date_completed_iso": "2019-08-05T12:00:00Z",
+  "date_commenced": "14 June 2019",
+  "date_commenced_iso": "2019-06-14T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Wesfarmers Limited"
+  ],
+  "targets": [
+    "Catch Group Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jun 2019",
+      "date_iso": "2019-06-14T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Jul 2019",
+      "date_iso": "2019-07-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Aug 2019",
+      "date_iso": "2019-08-02T12:00:00Z",
+      "event": "Former provisional decision date of 15 August 2019 brought forward to 5 August 2019."
+    },
+    {
+      "date": "5 Aug 2019",
+      "date_iso": "2019-08-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Wesfarmers Limited (Wesfarmers) proposes to acquire Catch Group Holdings Limited (Catch). Wesfarmers and Catch both retail supply a variety of product categories in Australia.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in Australia for the: retail supply of various product categories supply of online marketplace services to third party sellers, and wholesale supply of various product categories. The various product categories included womenswear, menswear, children’s wear, homewares, toys, general merchandise, beauty, sports and outdoors, ambient grocery, pet products and electronics. The ACCC did not reach a concluded view on market definition as it was not necessary for our competition assessment.",
+    "Competition analysis": "The ACCC assessed whether the size of Wesfarmers’ retail operations may give it a unique position in the retail supply of various product categories online, and in supplying online marketplace services in competition with other providers. Based on the results from its market inquiries and other information available to it, the ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any of the relevant markets because: Wesfarmers and Catch are not close competitors, as Catch is an online retailer that offers out-of-season, clearance or overrun branded products and operates an online marketplace, while Kmart and Target are predominately bricks and mortar stores. There has been significant growth and new entry into online marketplaces over the past few years in Australia, including by Kogan and Amazon. The combined Wesfarmers-Catch is likely to be effectively constrained in its dealings with third party sellers. The proposed acquisition will not reduce online marketplace options for third party sellers as Wesfarmers will be a new entrant and Wesfarmers-Catch will compete with other online marketplaces."
+  }
+}

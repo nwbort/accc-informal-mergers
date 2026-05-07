@@ -1,0 +1,44 @@
+{
+  "id": "0492",
+  "title": "DIC Australia Pty Limited - proposed acquisition of Pacific Inks (Australia) Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dic-australia-pty-limited-proposed-acquisition-of-pacific-inks-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46706",
+  "industries": [
+    "Ink"
+  ],
+  "date_completed": "29 September 2011",
+  "date_completed_iso": "2011-09-29T12:00:00Z",
+  "date_commenced": "18 August 2011",
+  "date_commenced_iso": "2011-08-18T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "DIC Australia Pty Limited"
+  ],
+  "targets": [
+    "Pacific Inks (Australia) Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Aug 2011",
+      "date_iso": "2011-08-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Sep 2011",
+      "date_iso": "2011-09-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Sep 2011",
+      "date_iso": "2011-09-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "DIC Australia Pty Limited (DIC Australia) proposed to acquire the business assets, inventory and goodwill of Pacific Inks Australia Pty Limited (Pacific Inks) (the proposed acquisition).",
+    "Market definition": "The parties overlap in the manufacture and supply of water-based liquid inks.  The ACCC considered the competitive effects of the proposed acquisition in the national market for the manufacture and supply of water-based liquid ink.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market. In forming this view, the ACCC had regard to the following factors: -  the competitive constraint imposed by other local suppliers of water-based liquid inks, -  the countervailing power exercised by large packaging customers; -  the low barriers to entry and expansion; and -  the competitive constraint imposed by imported water-based inks in terms of providing a substitutable product, potentially enabling customers to import water-based inks directly and the competitive constraint this is likely to impose on the merged entity."
+  }
+}

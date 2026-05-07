@@ -1,0 +1,63 @@
+{
+  "id": "0360",
+  "title": "NBN Co Limited - proposed acquisition of TransACT's fibre to the premises networks",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nbn-co-limited-proposed-acquisition-of-transacts-fibre-to-the-premises-networks",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51395",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "14 November 2013",
+  "date_completed_iso": "2013-11-14T12:00:00Z",
+  "date_commenced": "27 June 2013",
+  "date_commenced_iso": "2013-06-27T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "NBN Co Limited"
+  ],
+  "targets": [
+    "TransACT's fibre to the premises networks"
+  ],
+  "timeline": [
+    {
+      "date": "27 Jun 2013",
+      "date_iso": "2013-06-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "12 Jul 2013",
+      "date_iso": "2013-07-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Jul 2013",
+      "date_iso": "2013-07-26T12:00:00Z",
+      "event": "ACCC requested further information from TransACT. ACCC timeline suspended. Former proposed decision date of 15 August 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "22 Aug 2013",
+      "date_iso": "2013-08-22T12:00:00Z",
+      "event": "ACCC received further information from TransACT. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Sep 2013",
+      "date_iso": "2013-09-24T12:00:00Z",
+      "event": "ACCC timeline suspended to allow the ACCC to make further inquiries. Former proposed decision date of 26 September 2013 delayed."
+    },
+    {
+      "date": "8 Nov 2013",
+      "date_iso": "2013-11-08T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "14 Nov 2013",
+      "date_iso": "2013-11-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition, the ACCC primarily considered the effects of the proposed acquisition in the context of: - the wholesale market for the supply of fixed line broadband services in the areas passed by the fibre to the premises (FTTP) assets of TransACT in the ACT (TransACT FTTP network); and - the retail markets relevant to the supply of services over the TransACT FTTP network.",
+    "Competition analysis": "The ACCC concluded the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In reaching its decision, the ACCC formed the view that in this instance it was highly unlikely that NBN Co would overbuild the TransACT FTTP network. The ACCC therefore considered the proposed acquisition represented a bare transfer of assets and wholesale market share from TransACT to NBN Co. It would also remove TransACT's vertical integration in the areas passed by the TransACT FTTP network, potentially opening these areas to increased retail competition. The proposed acquisition did not result in horizontal aggregation at the retail level (NBN Co is not a retailer) - TransACT would continue to retail with or without the proposed acquisition."
+  }
+}

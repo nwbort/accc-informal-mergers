@@ -1,0 +1,59 @@
+{
+  "id": "0761",
+  "title": "Fulton Hogan Pty Ltd - proposed acquisition of Pioneer Road Services Pty Ltd and certain assets from Hanson Construction Materials Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fulton-hogan-pty-ltd-proposed-acquisition-of-pioneer-road-services-pty-ltd-and-certain-assets-from-hanson-construction-materials-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36971",
+  "industries": [
+    "Asphalt products & bitumen sealing and transport"
+  ],
+  "date_completed": "1 May 2009",
+  "date_completed_iso": "2009-05-01T12:00:00Z",
+  "date_commenced": "20 March 2009",
+  "date_commenced_iso": "2009-03-20T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Fulton Hogan Pty Ltd"
+  ],
+  "targets": [
+    "Hanson Construction Materials Pty Ltd<br/> Pioneer Road Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Mar 2009",
+      "date_iso": "2009-03-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Apr 2009",
+      "date_iso": "2009-04-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Apr 2009",
+      "date_iso": "2009-04-07T12:00:00Z",
+      "event": "ACCC requested further information from Fulton Hogan. ACCC timeline suspended."
+    },
+    {
+      "date": "14 Apr 2009",
+      "date_iso": "2009-04-14T12:00:00Z",
+      "event": "ACCC received further information from Fulton Hogan. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Apr 2009",
+      "date_iso": "2009-04-29T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for consideration of additional information received from Fulton Hogan on 29 April 2009."
+    },
+    {
+      "date": "1 May 2009",
+      "date_iso": "2009-05-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fulton Hogan Pty Ltd proposed to acquire 50% of Pioneer Road Services Pty Ltd and certain assets from Hanson Construction Materials Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of: - state-based markets for the supply and laying of asphalt; and - state-based markets for the supply and laying of bitumen spray seal. The outcome of the analysis would have been unchanged had narrower regional markets been adopted.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. The ACCC identified a number of alternative suppliers and layers of asphalt and bitumen spray seal, and considered their presence sufficient to ensure the merged entity would not have the ability and incentive to impose a unilateral increase in price above competitive levels or reduce the quality of its service. The ACCC considered that the merged entity was unlikely to engage in coordinated conduct with  its competitors. In forming this view, the ACCC had regard to the number of alternative suppliers in the relevant markets as well as the fact that many customers (such as local governments) have a degree of countervailing power due to their ability to provide some of the relevant services in-house if necessary."
+  }
+}

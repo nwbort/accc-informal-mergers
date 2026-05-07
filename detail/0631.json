@@ -1,0 +1,45 @@
+{
+  "id": "0631",
+  "title": "PerthRadClinic Ltd and Perth Radiological Clinic Partnership - proposed acquisition of certain assets of Uniradiology Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/perthradclinic-ltd-and-perth-radiological-clinic-partnership-proposed-acquisition-of-certain-assets-of-uniradiology-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41659",
+  "industries": [
+    "Radiology"
+  ],
+  "date_completed": "1 June 2010",
+  "date_completed_iso": "2010-06-01T12:00:00Z",
+  "date_commenced": "22 April 2010",
+  "date_commenced_iso": "2010-04-22T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "PerthRadClinic Ltd",
+    "Perth Radiological Clinic Partnership"
+  ],
+  "targets": [
+    "certain assets of Uniradiology Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "22 Apr 2010",
+      "date_iso": "2010-04-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 May 2010",
+      "date_iso": "2010-05-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Jun 2010",
+      "date_iso": "2010-06-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PerthRadClinic Ltd (a wholly owned subsidiary of I-Med Network Limited) and Perth Radiological Clinic Partnership propose to form a joint venture company to acquire certain assets of Uniradiology Pty Ltd in Perth, Western Australia.",
+    "Market definition": "The ACCC did not consider it necessary to form a definitive view in relation to market definition in this review, since competition concerns were unlikely to arise irrespective of the market definition adopted. For the purpose of its assessment, the ACCC considered the proposed acquisition in the context of both local markets and a broader Perth metropolitan market for the supply of diagnostic imaging services (excluding nuclear medicine and MRI modalities, and excluding all hospital inpatients).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market due to: -  the limited constraint Uniradiology would appear to exert on the acquirer in the absence of the proposed acquisition; and -  alternatives in each relevant market, which would continue to provide an effective competitive constraint on the merged firm."
+  }
+}

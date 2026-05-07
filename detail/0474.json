@@ -1,0 +1,63 @@
+{
+  "id": "0474",
+  "title": "Woolworths Limited - completed acquisition of Greystanes shopping centre NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-completed-acquisition-of-greystanes-shopping-centre-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46620",
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "7 December 2011",
+  "date_completed_iso": "2011-12-07T12:00:00Z",
+  "date_commenced": "5 September 2011",
+  "date_commenced_iso": "2011-09-05T12:00:00Z",
+  "total_review_days": 68,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Greystanes shopping centre NSW"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jun 2011",
+      "date_iso": "2011-06-06T12:00:00Z",
+      "event": "Woolworths through its subsidiary Fabcot Pty Ltd, acquired the Greystanes Shopping Centre."
+    },
+    {
+      "date": "1 Aug 2011",
+      "date_iso": "2011-08-01T12:00:00Z",
+      "event": "The ACCC becomes aware of the acquisition."
+    },
+    {
+      "date": "17 Aug 2011",
+      "date_iso": "2011-08-17T12:00:00Z",
+      "event": "The ACCC will commence a review on receipt of information requested from Woolworths."
+    },
+    {
+      "date": "2 Sep 2011",
+      "date_iso": "2011-09-02T12:00:00Z",
+      "event": "The ACCC received Woolworths' response to the information request of 17 August 2011."
+    },
+    {
+      "date": "5 Sep 2011",
+      "date_iso": "2011-09-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Sep 2011",
+      "date_iso": "2011-09-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Dec 2011",
+      "date_iso": "2011-12-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following retail markets: - the local retail supermarket market; and - the local retail supply of takeaway packaged liquor.",
+    "Competition analysis": "The ACCC reviewed the completed acquisition of the Greystanes Shopping Centre by Woolworths Limited.  At the time of the acquisition the Greystanes Shopping Centre included supermarket tenants Woolworths and Franklins and 29 specialty stores. The ACCC considered the likely impact of the completed acquisition on the market for the local retail supply of takeaway packaged liquor because the completed acquisition may provide Woolworths with the ability to establish a bottle shop within the shopping centre. The geographic dimension of these local markets was considered to be the suburb of Greystanes and proximate surrounding areas, extending up to 5 kilometres from the Greystanes Shopping Centre. The ACCC had regard to natural geographic features and other relevant factors, but considered that a different geographic market would not necessarily alter the outcome of the competition assessment. The ACCC also considered the impact of the completed acquisition on relevant wholesale procurement and supply markets, including packaged groceries and packaged liquor, in New South Wales. The ACCC concluded that the completed acquisition was unlikely to substantially lessen competition in any market. In considering the extent of competition between local retail supermarkets, the ACCC was satisfied that a potential reduction in the number of competing supermarkets at the Greystanes Shopping Centre would not significantly alter the level of competition.  This potential reduction existed due to Woolworths' power to determine the tenants within Greystanes Shopping Centre, of which Franklins was a tenant. The ACCC found that competing supermarkets, including supermarkets based in alternative shopping centres, would act to constrain Woolworths. In terms of the retail supply of takeaway packaged liquor, the ACCC found that if Woolworths was to establish a liquor store within the Greystanes Shopping Centre, it would face competition from a number of competing liquor operators based on price, range and levels of service. With respect to the relevant wholesale markets, the ACCC considered that the completed acquisition would be unlikely to significantly alter the volume of Woolworths' purchases in terms of supermarket products or packaged liquor."
+  }
+}

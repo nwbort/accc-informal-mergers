@@ -1,0 +1,54 @@
+{
+  "id": "0223",
+  "title": "The Borg Group - proposed acquisition of CHH Pinepanels Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-borg-group-proposed-acquisition-of-chh-pinepanels-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62033",
+  "industries": [
+    "Particleboard"
+  ],
+  "date_completed": "26 October 2017",
+  "date_completed_iso": "2017-10-26T12:00:00Z",
+  "date_commenced": "31 July 2017",
+  "date_commenced_iso": "2017-07-31T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "The Borg Group"
+  ],
+  "targets": [
+    "CHH Pinepanels Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2017",
+      "date_iso": "2017-07-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Aug 2017",
+      "date_iso": "2017-08-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Sep 2017",
+      "date_iso": "2017-09-21T12:00:00Z",
+      "event": "ACCC requested further information from Borg. Former provisional date for announcement of findings (5th October) delayed."
+    },
+    {
+      "date": "3 Oct 2017",
+      "date_iso": "2017-10-03T12:00:00Z",
+      "event": "ACCC received information from Borg."
+    },
+    {
+      "date": "26 Oct 2017",
+      "date_iso": "2017-10-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Borg Group (Borg) proposes to acquire certain manufacturing assets of Carter Holt Harvey Pinepanels Pty Ltd (CHH Panels). Borg is a manufacturer and supplier of value-added particleboard products from its plants in New South Wales. CHH Panels is an Australian based manufacturer of raw particleboard, particleboard flooring and value-added particleboard products from its plants in Mount Gambier (SA), Tumut (NSW), Gympie (QLD) and Oberon (NSW). Borg proposes to acquire CHH Panels' plants at Mt Gambier and Oberon, and assets associated with those plants.",
+    "Market definition": "The ACCC considered the proposed acquisition in relation to the following markets: - a national market for the manufacture and supply of raw particleboard - a national market for the manufacture and supply of value added particleboard (comprising the various types of commodity and decorative particleboard) - a national market for the manufacture and supply of particleboard flooring The ACCC considered that each of the relevant markets were national, comprising supply from both local producers and imports.",
+    "Competition analysis": "The ACCC concluded that Borg's proposed acquisition of CHH Panels' particleboard plants at Mount Gambier and Oberon is unlikely to substantially lessen competition in any relevant market. Borg currently supplies value added particleboard. It does not supply raw particleboard or particleboard flooring. However, regardless of the proposed acquisition, Borg intends to build a new raw particleboard plant in Oberon, NSW. CHH Panels is a significant supplier of raw particleboard and value-added particleboard. Of particular note, CHH Panels supplies competitors to Borg, including various downstream manufacturers, distributors and wholesalers of particleboard products. The primary concerns considered by the ACCC were whether the proposed acquisition would give Borg the ability and incentive to: - foreclose supply of raw particleboard to competing downstream manufacturers of value added particleboard in order to increase its share in the downstream value added particleboard market, or - foreclose supply of particleboard products to wholesalers and distributors that compete with Borg's Polytec division in markets for the supply of raw particleboard and value added particleboard. The ACCC considered that Borg is unlikely to have the ability and incentive to act in this manner, as it is likely to continue to be constrained by other domestic suppliers of particleboard products, including Laminex and CHH Panels, and the availability of imports from various overseas suppliers. The ACCC also considered the likely existence of economies of scale in the manufacture of particleboard products, which mean that Borg will likely be incentivised to maximise its output of raw particleboard and continue to supply downstream manufacturers, distributors and wholesalers. The ACCC also took into account the potential for new entry into the supply of raw particleboard, most notably the feasibility study that OneFortyOne Plantations is undertaking for a new particleboard mill in the 'Green Triangle' region of south east South Australia. CHH Panels is also currently the largest supplier of particleboard flooring in Australia. The proposed acquisition involved Borg purchasing most of CHH's particleboard flooring production capacity, and its STRUCTAflor brand. Borg does not currently supply particleboard flooring and submitted that, in the absence of the proposed acquisition, it would not manufacture particleboard flooring at its proposed new plant at Oberon. The ACCC considered that while Borg would become the leading supplier of particleboard flooring as a result of the proposed acquisition, there was unlikely to be a substantial lessening of competition due to Borg not currently being a competitor in that market and due to the constraints from other suppliers, including from imported products, in the future."
+  }
+}

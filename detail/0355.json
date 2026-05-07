@@ -1,0 +1,43 @@
+{
+  "id": "0355",
+  "title": "Essilor International SA - proposed acquisition of PPG Industries interests in Transitions Optical",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/essilor-international-sa-proposed-acquisition-of-ppg-industries-interests-in-transitions-optical",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52270",
+  "industries": [
+    "Photochromic treatments for opthalmic lenses"
+  ],
+  "date_completed": "19 December 2013",
+  "date_completed_iso": "2013-12-19T12:00:00Z",
+  "date_commenced": "28 October 2013",
+  "date_commenced_iso": "2013-10-28T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Essilor International SA"
+  ],
+  "targets": [
+    "PPG Industries interests in Transitions Optical"
+  ],
+  "timeline": [
+    {
+      "date": "28 Oct 2013",
+      "date_iso": "2013-10-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Nov 2013",
+      "date_iso": "2013-11-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "19 Dec 2013",
+      "date_iso": "2013-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC assessed the competition effects of the proposed acquisition in the following markets: -  the national market for the supply of ophthalmic lenses; and -  the national market for the supply of photochromic lenses (including photochromic treatments).",
+    "Competition analysis": "The proposed acquisition involved increased vertical integration; Essilor manufactured ophthalmic lenses. It proposed to acquire the 51 per cent of the Transitions business that it did not already own. Transitions supplied photochromic treatments to Essilor and other lens manufacturers. A lens with a photochromic treatment darkens when exposed to ultraviolet (UV) light and fades back to clear when it is removed from UV light. As part of its assessment the ACCC considered whether Transitions, under the ownership of Essilor, would no longer have the incentive to provide rival ophthalmic lens manufacturers with access to Transitions' photochromic treatments on competitive terms. That is, would the merged entity foreclose supply of Transitions' treatments to third parties in order to increase sales of lenses by Essilor. The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market. In forming this view, the ACCC considered it was unlikely that Essilor would have the incentive to foreclose the supply of photochromic treatments to third parties as a result of the proposed acquisition. In particular, it was unlikely that Essilor would gain sufficient lens sales to offset the lost revenue from lower sales of Transitions' treatments to third parties given the threat that Essilor's vertically integrated competitors, which already have or are developing their own photochromic lens treatments, would seek to increase their sales at the expense of Essilor."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "0516",
+  "title": "InvoCare Limited - proposed acquisition of Bledisloe Group Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invocare-limited-proposed-acquisition-of-bledisloe-group-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41950",
+  "industries": [
+    "Funeral services"
+  ],
+  "date_completed": "9 June 2011",
+  "date_completed_iso": "2011-06-09T12:00:00Z",
+  "date_commenced": "19 November 2010",
+  "date_commenced_iso": "2010-11-19T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "InvoCare Limited"
+  ],
+  "targets": [
+    "Bledisloe Group Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Nov 2010",
+      "date_iso": "2010-11-19T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Nov 2010",
+      "date_iso": "2010-11-30T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "9 Dec 2010",
+      "date_iso": "2010-12-09T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Dec 2010",
+      "date_iso": "2010-12-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Dec 2010",
+      "date_iso": "2010-12-20T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "4 Jan 2011",
+      "date_iso": "2011-01-04T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Jan 2011",
+      "date_iso": "2011-01-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "4 Feb 2011",
+      "date_iso": "2011-02-04T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "17 Feb 2011",
+      "date_iso": "2011-02-17T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. Former proposed decision date of 3 March 2011 delayed. ACCC timeline suspended pending receipt. ACCC will announce a new proposed decision date upon receipt of further information from the parties."
+    },
+    {
+      "date": "25 Mar 2011",
+      "date_iso": "2011-03-25T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Apr 2011",
+      "date_iso": "2011-04-15T12:00:00Z",
+      "event": "Former proposed decision date for announcement of ACCC's findings of 21 April 2011 suspended at the request of InvoCare to allow the merger parties to provide further information."
+    },
+    {
+      "date": "3 Jun 2011",
+      "date_iso": "2011-06-03T12:00:00Z",
+      "event": "ACCC received further information from InvoCare. ACCC timeline recommenced."
+    },
+    {
+      "date": "8 Jun 2011",
+      "date_iso": "2011-06-08T12:00:00Z",
+      "event": "87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "9 Jun 2011",
+      "date_iso": "2011-06-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "16 Nov 2011",
+      "date_iso": "2011-11-16T12:00:00Z",
+      "event": "Variation to s87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "InvoCare Limited proposed to acquire 100% of the shares in Bledisloe Group Holdings Pty Ltd. InvoCare was the largest provider of funeral services in Australia and the largest operator of private cemeteries and crematoria. Bledisloe was one of the leading providers of funeral services in Australia and also operated private cemeteries and crematoria in Queensland.",
+    "Competition analysis": "Please see Public Competition Assessment below."
+  }
+}

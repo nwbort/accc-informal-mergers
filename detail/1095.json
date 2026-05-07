@@ -1,0 +1,45 @@
+{
+  "id": "1095",
+  "title": "Bundaberg Sugar Ltd and Mulgrave Mill - proposed merger of certain milling assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bundaberg-sugar-ltd-and-mulgrave-mill-proposed-merger-of-certain-milling-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27572",
+  "industries": [
+    "Cane crushing and sugar production"
+  ],
+  "date_completed": "8 June 2007",
+  "date_completed_iso": "2007-06-08T12:00:00Z",
+  "date_commenced": "3 May 2007",
+  "date_commenced_iso": "2007-05-03T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Mulgrave Mill",
+    "Bundaberg Sugar Ltd"
+  ],
+  "targets": [
+    "Not Applicable"
+  ],
+  "timeline": [
+    {
+      "date": "3 May 2007",
+      "date_iso": "2007-05-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "21 May 2007",
+      "date_iso": "2007-05-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "8 Jun 2007",
+      "date_iso": "2007-06-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bundaberg Sugar Limited and The Mulgrave Central Mill Company Limited - proposed merger of sugar milling assets in far north Queensland.",
+    "Market definition": "This proposed merger was considered within the context of the following markets: 1) A Tableland market for the acquisition of cane and supply of cane crushing services to growers within an approximate 50 kilometre radius of the Tableland mill; 2) A South Johnstone market for the acquisition of cane and supply of cane crushing services to growers within an approximate 50 kilometre radius of the South Johnstone mill; 3) A Mulgrave/Babinda market for the acquisition of cane and supply of cane crushing services to growers within an approximate 50 kilometre radius of the Mulgrave and Babinda mills; 4) A Queensland market for the acquisition of sugar exporting and marketing services; 5) A national market for the supply of molasses; and 6) A global market for the supply of raw sugar.",
+    "Competition analysis": "In relation to markets 1 and 2, the ACCC considered that there has been very little, if any, actual competition between mills in these markets in the period since deregulation due to time, geographic and logistical limitations. Accordingly, the ACCC concluded that the proposed merger would result in a bare transfer of market share to the merged entity in these markets. In relation to market 3, the ACCC considered that to the extent that there is any effect on competition in the contestable areas in this market, it will not result in any substantial lessening of competition. In particular, the ACCC considered that the mutual requirement on growers and mills to maintain good complementary working relationships, the growers' ability to switch to alternative crops and to some extent their ability to collectively bargain with mills will all act as constraints on any attempt by the merged entity to arbitrarily decrease growers' prices or reduce its quality of services. In relation to market 4, given there is presently only limited competition in this market and deregulation has not yet made its impact felt in any significant way, the ACCC concluded that the proposed merger is unlikely to result in a substantial lessening of competition. In relation to market 5, having regard to the insignificant amount of molasses produced by the merged entity post acquisition, the ACCC concluded that the proposed merger is unlikely to result in a substantial lessening of competition. In relation to market 6, because of the size and the fragmented and highly competitive nature of this market, and the merged entity's relatively limited role in the market, the ACCC considered that the proposed merger is unlikely to result in a substantial lessening of competition. The ACCC's conclusions were supported by market inquiries, which indicated that market participants are generally not concerned about the proposed merger, and rather consider that it is a necessary step towards making the Australian sugar industry viable and sustainable and competitive in the global raw sugar market."
+  }
+}

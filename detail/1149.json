@@ -1,0 +1,44 @@
+{
+  "id": "1149",
+  "title": "BP Australasia - acquisition of Mobil Fuel terminals assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bp-australasia-acquisition-of-mobil-fuel-terminals-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26943",
+  "industries": [
+    "Petroleum"
+  ],
+  "date_completed": "19 February 2007",
+  "date_completed_iso": "2007-02-19T12:00:00Z",
+  "date_commenced": "15 January 2007",
+  "date_commenced_iso": "2007-01-15T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "BP Australasia"
+  ],
+  "targets": [
+    "Mobil Fuel terminal assets"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jan 2007",
+      "date_iso": "2007-01-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "5 Feb 2007",
+      "date_iso": "2007-02-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "19 Feb 2007",
+      "date_iso": "2007-02-19T12:00:00Z",
+      "event": "ACCC anounced its decision not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "BP Australasia's acquisition of Mobil's interest in petrol and diesel fuel terminal assets previously jointly owned by BP and Mobil in Mackay, Hobart, Burnie, Townsville and Cairns.",
+    "Market definition": "For the purpose of this competition assessment, the relevant markets were considered, at their narrowest, to be state markets for fuel storage.",
+    "Competition analysis": "The matter involves the acquisition by BP of Mobil's share in fuel terminals owned jointly with BP in Mackay, Hobart, Burnie, Townsville and Cairns. The terminals are used by both BP and Mobil.  The terminals have historically provided little third party hosting. The acquisition is unlikely to change BP's incentives in regard to third party hosting, and the ACCC understands that the limited third party storage provided at the teminal will continue following this transaction. Mobil will continue to store fuel in the terminals under a hosting agreement.  Therefore, the ability of Mobil and others to compete at the wholesale level is likely to be unchanged and the acquisition appears unlikely to lead to a substantial lessening of competition."
+  }
+}

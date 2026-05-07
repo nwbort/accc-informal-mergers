@@ -1,0 +1,31 @@
+{
+  "id": "1655",
+  "title": "Acquirer: Keystone Solutions Group PLC; Target: Solution 6 Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-keystone-solutions-group-plc-target-solution-6-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15454",
+  "industries": [],
+  "date_completed": "30 April 2002",
+  "date_completed_iso": "2002-04-30T12:00:00Z",
+  "date_commenced": "31 January 2002",
+  "date_commenced_iso": "2002-01-31T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Keystone Solutions Group PLC"
+  ],
+  "targets": [
+    "Solution 6 Holdings Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 18 March 2002, Solution 6 announced that it was proposing to acquire the entire issued share capital of Keystone Solutions.",
+    "Market definition": "Market for practice management software for large law firms.",
+    "Competition analysis": "On 30 April 2002 the Commission decided that it would not oppose the proposed acquisition of Keystone Solutions by Solution 6. On 18 March 2002, Solution 6 announced that it was making a takeover offer to acquire the entire issued share capital of Keystone Solutions.  The major area of competitive overlap between Keystone Solutions and Solution 6 is in the area of practice management software for large law firms. The Commission conducted market inquiries, consulting with customers, potential customers and competitors of the merged entity. The proposed acquisition will result in the creation of a merged entity that will have a market share in excess of the Commission's concentration threshold for the exercise of unilateral market power.  However, the Commission found that the level of market share did not adequately reflect the intense level of competition in the market place.  In addition, the Commission believes that customers are in the position to exercise considerable countervailing power against the merged entity and its competitors, thereby constraining any attempt to exercise market power.  On this basis, the Commission concluded that the proposed acquisition is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2430"
+  }
+}

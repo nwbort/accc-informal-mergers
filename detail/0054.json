@@ -1,0 +1,65 @@
+{
+  "id": "0054",
+  "title": "Louis Dreyfus Company Melbourne Holdings Pty Ltd - Namoi Cotton Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/louis-dreyfus-company-melbourne-holdings-pty-ltd-namoi-cotton-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Cotton marketing",
+    "Cotton ginning"
+  ],
+  "date_completed": "1 August 2024",
+  "date_completed_iso": "2024-08-01T12:00:00Z",
+  "date_commenced": "19 February 2024",
+  "date_commenced_iso": "2024-02-19T12:00:00Z",
+  "total_review_days": 100,
+  "acquirers": [
+    "Louis Dreyfus Company Melbourne Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Namoi Cotton Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Feb 2024",
+      "date_iso": "2024-02-19T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Mar 2024",
+      "date_iso": "2024-03-04T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "16 May 2024",
+      "date_iso": "2024-05-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. ACCC also commenced market consultation on draft proposed s87B undertaking."
+    },
+    {
+      "date": "30 May 2024",
+      "date_iso": "2024-05-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues and draft proposed s87B undertaking."
+    },
+    {
+      "date": "13 Jun 2024",
+      "date_iso": "2024-06-13T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (11 July) delayed.  ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "3 Jul 2024",
+      "date_iso": "2024-07-03T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "1 Aug 2024",
+      "date_iso": "2024-08-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 19 January 2024, Louis Dreyfus Company Asia Pte. Ltd. ( LDC Asia ) announced it was proposing to acquire all of the remaining ordinary shares of Namoi Cotton Limited ( Namoi ) through a Scheme Implementation Agreement. LDC Asia is a wholly owned subsidiary of Louis Dreyfus Company B.V. (which together with its subsidiaries is the LDC Group ). The LDC Group already holds approximately 17% of the shareholding in Namoi. On 29 April 2024, Louis Dreyfus Company Melbourne Holdings Pty Ltd announced its intention to make an off-market takeover offer to acquire all of the fully paid ordinary shares in Namoi which the LDC Group does not already own or control. The LDC Group and Namoi agreed to terminate the Scheme Implementation Agreement dated 19 January 2024. In Australia, the LDC Group operates in the sourcing, ginning, storage, shipment and trading/marketing of cotton lint and cottonseed. It also sources and trades grains and oilseeds. Namoi’s business comprises cotton ginning, cottonseed marketing, and cotton lint classing as well as warehousing and logistics services (through the Namoi Cotton Alliance joint venture with the Louis Dreyfus Company Melbourne JVP Pty Ltd ( LDC JVP ), part of the LDC Group) and exclusively sourcing cotton lint for the Namoi Cotton Marketing Alliance (a joint venture between Namoi and the LDC JVP) as part of its cotton marketing activities. On 16 May 2024, the ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition and commenced market consultation on a draft proposed section 87B undertaking. On 1 August 2024, the ACCC decided not to oppose Louis Dreyfus Company Melbourne Holdings Pty Ltd’s proposed acquisition of Namoi, subject to the ACCC accepting a court-enforceable undertaking from the LDC Group to: divest its shares in ProClass Pty Ltd, and terminate its joint venture with WANT Cotton Pty Ltd.",
+    "Market definition": "Refer to the Public Competition Assessment.",
+    "Competition analysis": "Refer to the Public Competition Assessment."
+  }
+}

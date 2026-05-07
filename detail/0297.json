@@ -1,0 +1,59 @@
+{
+  "id": "0297",
+  "title": "Denki Kagaku Kogyo Kabushiki Kaisha and Mitsui & Co Ltd - proposed acquisition of chloroprene rubber business of E.I. du Pont de Nemours and Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/denki-kagaku-kogyo-kabushiki-kaisha-and-mitsui-co-ltd-proposed-acquisition-of-chloroprene-rubber-business-of-ei-du-pont-de-nemours-and-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56728",
+  "industries": [
+    "Chloroprene rubber"
+  ],
+  "date_completed": "23 March 2015",
+  "date_completed_iso": "2015-03-23T12:00:00Z",
+  "date_commenced": "28 January 2015",
+  "date_commenced_iso": "2015-01-28T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Denki Kagaku Kogyo Kabushiki Kaisha and Mitsui & Co Ltd"
+  ],
+  "targets": [
+    "chloroprene rubber business of E.I. du Pont de Nemours and Company"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jan 2015",
+      "date_iso": "2015-01-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "11 Feb 2015",
+      "date_iso": "2015-02-11T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "18 Feb 2015",
+      "date_iso": "2015-02-18T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "19 Feb 2015",
+      "date_iso": "2015-02-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Mar 2015",
+      "date_iso": "2015-03-17T12:00:00Z",
+      "event": "The ACCC amended the former provisional decision date of 26 March for announcement of findings."
+    },
+    {
+      "date": "23 Mar 2015",
+      "date_iso": "2015-03-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Denka Performance Elastomer LLC, a joint venture being formed between Denki Kagaku Kogyo Kabushiki Kaisha and Mitsui & Co Ltd, proposes to acquire the chloroprene rubber business of E.I. du Pont de Nemours and Co.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on the supply of chloroprene rubber in Australia. While chloroprene rubber is a globally traded product and all chloroprene rubber used in Australia is imported, the ACCC's review focussed on the impact on Australian customers.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included the following: - Denki Kagaku Kogyo Kabushiki Kaisha (also known as Denka) would continue to face competition from several other established producers of chloroprene rubber currently supplying Australian customers. - Barriers to other existing international competitors increasing sales to Australia are low. - Many of the larger Australian customers have the option of purchasing chloroprene rubber at prices negotiated on a global basis by their international affiliates."
+  }
+}

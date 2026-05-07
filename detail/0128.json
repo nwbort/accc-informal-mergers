@@ -1,0 +1,64 @@
+{
+  "id": "0128",
+  "title": "New Forests Asset Management Pty Ltd - Green Triangle softwood plantation assets of Global Forest Partners LP",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/new-forests-asset-management-pty-ltd-green-triangle-softwood-plantation-assets-of-global-forest-partners-lp",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Forest plantation"
+  ],
+  "date_completed": "20 May 2021",
+  "date_completed_iso": "2021-05-20T12:00:00Z",
+  "date_commenced": "8 December 2020",
+  "date_commenced_iso": "2020-12-08T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "Investment trust managed by New Forests Asset Management Pty Ltd"
+  ],
+  "targets": [
+    "Green Triangle softwood plantation assets managed by Global Forest Partners LP"
+  ],
+  "timeline": [
+    {
+      "date": "8 Dec 2020",
+      "date_iso": "2020-12-08T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jan 2021",
+      "date_iso": "2021-01-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "15 Feb 2021",
+      "date_iso": "2021-02-15T12:00:00Z",
+      "event": "ACCC requested further information from New Forests. Former provisional date for announcement of findings (04/03/2021) has been delayed."
+    },
+    {
+      "date": "8 Mar 2021",
+      "date_iso": "2021-03-08T12:00:00Z",
+      "event": "ACCC received further information from New Forests."
+    },
+    {
+      "date": "8 Apr 2021",
+      "date_iso": "2021-04-08T12:00:00Z",
+      "event": "Parties requested more time to provide further information. Former provisional date for announcement of findings (15/04 /2021) is delayed."
+    },
+    {
+      "date": "18 May 2021",
+      "date_iso": "2021-05-18T12:00:00Z",
+      "event": "ACCC received further information from New Forests."
+    },
+    {
+      "date": "20 May 2021",
+      "date_iso": "2021-05-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Third Australian New Zealand Forest Fund ( ANZFF3 )*, a forestry investment fund managed by New Forests Asset Management Pty Ltd ( New Forests ), proposes to acquire the softwood plantation assets of Global Forest Partners LP ( GFP ) in the Green Triangle region of Victoria and South Australia. *New Forests subsequently advised the ACCC that the proposed acquirer had changed, from the ANZFF3 fund to a trust representing investors who have no investment in the Timberlink Tarpeena sawmill or Penola Plantations. It would no longer include the ANZFF3 fund or any other fund currently managed by New Forests.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the supply and acquisition of the following types of logs, sourced from the Green Triangle region that straddles the South Australian-Victorian border: structural sawlogs, for such uses as house frames non-structural sawlogs, for such uses as packaging and landscaping and roundwood, for such uses as farm fencing.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any market. The ACCC noted that the relevant markets are already highly concentrated. The ACCC investigated: bargaining dynamics in the markets; concerns that New Forests could favour supplying the New Forests-associated Tarpeena mill; and alternative sources of supply. The ACCC determined that, following the proposed acquisition, it is unlikely that there would be any significant change to the competitive dynamics between participants in the markets for log supply. This is largely due to the industry’s contracting practices and long-term supply cycles. In addition, forestry company OneFortyOne has the largest share of plantation area in the region and will remain a large source of alternative supply in all product markets."
+  }
+}

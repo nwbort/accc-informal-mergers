@@ -1,0 +1,31 @@
+{
+  "id": "1649",
+  "title": "Acquirer: GE Capital Australia; Target: AGC Finance Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ge-capital-australia-target-agc-finance-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15113",
+  "industries": [],
+  "date_completed": "8 May 2002",
+  "date_completed_iso": "2002-05-08T12:00:00Z",
+  "date_commenced": "27 November 2001",
+  "date_commenced_iso": "2001-11-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "GE Capital Australia"
+  ],
+  "targets": [
+    "AGC Finance Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Westpac first foreshadowed the possible sale of AGC to GE Capital in November 2001.",
+    "Market definition": "Business finance, vehicle finance, consumer finance.",
+    "Competition analysis": "On 8 May 2002 the Commission announced that it would not oppose GE Capital's proposed acquisition of AGC. GE Capital is a diversified financial services company providing insurance, business finance, vehicle finance, and in-store credit to retailers.  AGC is currently a fully owned subsidiary of Westpac.  AGC provides business finance, vehicle finance and in-store credit to retailers and consumers. The possible sale of AGC to GE Capital was first announced by Westpac in November 2001. The Commission conducted extensive market inquiries into this proposed acquisition, consulting with customers, competitors and consumer organisations. No issues of concern arose in relation to business finance and vehicle finance. The Commission found that the proposed acquisition was likely to have little effect on the state of competition in these markets. In regard to the provision of in-store credit, some retailers did express their concern to the Commission with respect to the competitive consequences of this merger.  However, it is the view of the Commission that the provision of in-store credit is just one of a number of payment options available to consumers. After extensive investigation, the Commission has concluded that the provision of in-store credit does not have features which sufficiently set it apart from other credit facilities for it to occupy its own distinct product market.  Under these circumstances, any attempt by the merged entity to raise its prices would be constrained by retailers and their customers switching to other payment options. On this basis, the Commission concluded that the proposed acquisition was not likely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "7330"
+  }
+}

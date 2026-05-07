@@ -1,0 +1,44 @@
+{
+  "id": "0111",
+  "title": "Woodside Petroleum Ltd - BHP Petroleum International Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woodside-petroleum-ltd-bhp-petroleum-international-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Gas and Oil Production"
+  ],
+  "date_completed": "16 December 2021",
+  "date_completed_iso": "2021-12-16T12:00:00Z",
+  "date_commenced": "18 October 2021",
+  "date_commenced_iso": "2021-10-18T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Woodside Petroleum Ltd"
+  ],
+  "targets": [
+    "BHP Petroleum International Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Oct 2021",
+      "date_iso": "2021-10-18T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Oct 2021",
+      "date_iso": "2021-10-29T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "16 Dec 2021",
+      "date_iso": "2021-12-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woodside Petroleum Limited ( Woodside ) proposes to acquire BHP Petroleum International Pty Ltd ( BHPP ). Woodside and BHPP primarily overlap in the supply of domestic gas, and assets relating to domestic gas, in Western Australia. Both also own export-facing assets that produce oil, condensate, Liquefied Natural Gas ( LNG ) and Liquefied Petroleum Gas ( LPG ) products.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition in the supply of natural gas to customers in WA ( domgas ).",
+    "Competition analysis": "The ACCC concluded that the transaction would not substantially lessen competition, for the following key reasons. There will be enough alternative suppliers to constrain the consolidated Woodside-BHPP The ACCC concluded that customers have viable alternative options for suppliers, both in volume available and number of sellers, for both long and short-term supply. The options range from major suppliers Chevron and Santos to suppliers of medium and smaller volumes such as Shell, ExxonMobil, Beach and Mitsui. The ACCC estimated that suppliers other than Woodside or BHPP were likely to be supplying the majority of marketable volumes in coming years. The ACCC took into account data which indicated that there will be material amounts of supply in coming years that is not yet contracted. The ACCC also noted that there are currently minimal arrangements in the marketplace where smaller sellers have surrendered their gas to larger partners to sell. The ACCC concluded that a combined Woodside-BHPP will remain sufficiently constrained by other suppliers of domgas, such that any attempt by a combined Woodside-BHPP to leverage its newly increased market share to increase prices or reduce services will likely result in it losing share to other suppliers. There are no unique market dynamics to justify a greater level of concern about competition The ACCC concluded that Woodside and BHPP have not been particularly close competitors with each other; and that direct competition between the two, or from BHPP, has not significantly impacted wider competition. Therefore their consolidation is not likely to have any additional impact on competition beyond that suggested by the aggregation of their market shares. Woodside-BHPP is unlikely to have an incentive to reduce domgas supply The ACCC concluded that Woodside-BHPP’s incentives to export are likely to lessen any possible incentives to manipulate domgas supply. The ACCC took into account the WA Government’s Domestic Gas Policy, under which the WA Government enters arrangements with LNG-export projects generally requiring them to reserve for WA customers an amount of domgas that is the equivalent of 15% of export production (exact requirements can differ between agreements and may instead be a commitment of fixed volumes). Much of a combined Woodside-BHPP’s production of domgas will be as an adjunct to its operations exporting LNG. The ACCC concluded that WA’s LNG exporters are not likely to have incentives to exercise market power by restricting supply in WA domgas if this means they must produce and export less LNG. If restricting domestic supply would involve a significant reduction in export revenue, the revenue loss on exports could not realistically be recouped domestically. The ACCC took into account that operators of export projects may seek to delay fulfilling their Domestic Gas Policy commitments. The ACCC concluded that this problem is lessened by oversight from the WA Government. The ACCC also considered whether Woodside acquiring BHPP would harm competition due to Woodside reducing the amount of domgas supplied by, specifically, former BHPP assets. The ACCC concluded that a combined Woodside-BHPP is unlikely to have significantly different incentives to previous owner BHPP in operating those assets. In particular, the ACCC concluded that it is unlikely that reducing production at the domestic-only Macedon plant will increase domgas prices enough to make that profitable for a combined Woodside-BHPP, given the number of remaining alternative domgas suppliers."
+  }
+}

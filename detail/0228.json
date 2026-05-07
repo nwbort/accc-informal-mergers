@@ -1,0 +1,70 @@
+{
+  "id": "0228",
+  "title": "Australian Grain Technologies Pty Ltd - proposed acquisition of InterGrain Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-grain-technologies-pty-ltd-proposed-acquisition-of-intergrain-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61272",
+  "industries": [
+    "Agriculture"
+  ],
+  "date_completed": "26 July 2017",
+  "date_completed_iso": "2017-07-26T12:00:00Z",
+  "date_commenced": "10 January 2017",
+  "date_commenced_iso": "2017-01-10T12:00:00Z",
+  "total_review_days": 66,
+  "acquirers": [
+    "Australian Grain Technologies Pty Ltd"
+  ],
+  "targets": [
+    "InterGrain Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jan 2017",
+      "date_iso": "2017-01-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "31 Jan 2017",
+      "date_iso": "2017-01-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "6 Mar 2017",
+      "date_iso": "2017-03-06T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (9 March 2017) delayed to allow the parties time to provide the additional information."
+    },
+    {
+      "date": "29 Mar 2017",
+      "date_iso": "2017-03-29T12:00:00Z",
+      "event": "ACCC waiting on information from vendor. Former provisional date for announcement of findings (30 March 2017) delayed."
+    },
+    {
+      "date": "31 Mar 2017",
+      "date_iso": "2017-03-31T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "19 Apr 2017",
+      "date_iso": "2017-04-19T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "10 May 2017",
+      "date_iso": "2017-05-10T12:00:00Z",
+      "event": "Timeline suspended pending provision of information from the parties."
+    },
+    {
+      "date": "19 May 2017",
+      "date_iso": "2017-05-19T12:00:00Z",
+      "event": "Review suspended following public announcement by the WAAA and GRDC re the cessation of negotiations in relation to the proposed acquisition. Review may recommence at a later date."
+    },
+    {
+      "date": "26 Jul 2017",
+      "date_iso": "2017-07-26T12:00:00Z",
+      "event": "Review discontinued. A new review will be commenced if negotiations in relation to the proposed acquisition are recommenced."
+    }
+  ],
+  "body_sections": {}
+}

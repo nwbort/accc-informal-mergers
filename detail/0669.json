@@ -1,0 +1,44 @@
+{
+  "id": "0669",
+  "title": "Woolworths Limited - proposed acquisition of liquor licence in Orange NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-in-orange-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40174",
+  "industries": [
+    "Packaged liquor licence"
+  ],
+  "date_completed": "20 January 2010",
+  "date_completed_iso": "2010-01-20T12:00:00Z",
+  "date_commenced": "24 December 2009",
+  "date_commenced_iso": "2009-12-24T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "liquor licence in Orange NSW"
+  ],
+  "timeline": [
+    {
+      "date": "24 Dec 2009",
+      "date_iso": "2009-12-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jan 2010",
+      "date_iso": "2010-01-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Jan 2010",
+      "date_iso": "2010-01-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire a takeaway packaged liquor licence in Orange NSW from Franklins Pty Limited. Until mid-March 2009 the licence traded as 'Liquor Legends Orange'.",
+    "Market definition": "The ACCC considered that the relevant markets for the purpose of the proposed acquisition were likely to be: - the local market for the retail sale of liquor for off-premises consumption within a 3-5km radius of the location of the target site in Orange, NSW; and - a NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - in the local retail market, Woolworths did not operate a liquor licence for off-premises consumption prior to the proposed acquistion, and there were a number of other retail liquor outlets that would continue to compete; and - in the NSW wholesale market, the proposed acquisition was unlikely to significantly increase the buying power of Woolworths, nor diminish the buying power of competing wholesale purchasers."
+  }
+}

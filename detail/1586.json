@@ -1,0 +1,31 @@
+{
+  "id": "1586",
+  "title": "Acquirer: QBE Insurance (Australia) Ltd; Target: Gerling Australia Insurance Company Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-qbe-insurance-australia-ltd-target-gerling-australia-insurance-company-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17149",
+  "industries": [],
+  "date_completed": "23 December 2002",
+  "date_completed_iso": "2002-12-23T12:00:00Z",
+  "date_commenced": "16 December 2002",
+  "date_commenced_iso": "2002-12-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "QBE Insurance (Australia) Ltd"
+  ],
+  "targets": [
+    "Gerling Australia Insurance Company Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Gerling wishes to exit most of the commercial insurance lines business.  QBE intends to complete a transaction involving renewal services, ie upon expiry QBE will offer to renew the Gerling policies that are the subject of this transaction.",
+    "Market definition": "In previous matters the Commission has considered the national market for general insurance as well as narrower geographic and product markets. Regardless of the market definition adopted in the present matter, no substantial lessening of competition appears likely.",
+    "Competition analysis": "In reaching this conclusion the Commission noted this transaction does not involve QBE taking over any of Gerling's existing insurance contracts; it only confers on QBE the right to offer to renew the policies of Gerling's customers when their policies expire. On this basis no substantial lessening of competition appears likely and the Commission does not intend to oppose the proposed transaction.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7422"
+  }
+}

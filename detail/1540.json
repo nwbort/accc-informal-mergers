@@ -1,0 +1,31 @@
+{
+  "id": "1540",
+  "title": "Acquirer: Crane Group Limited; Target: Milnes Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-crane-group-limited-target-milnes-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19115",
+  "industries": [],
+  "date_completed": "10 July 2003",
+  "date_completed_iso": "2003-07-10T12:00:00Z",
+  "date_commenced": "22 May 2003",
+  "date_commenced_iso": "2003-05-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Crane Group Limited"
+  ],
+  "targets": [
+    "Milnes Holdings Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Crane Group Limited (\"Crane\"), through its subsidiary Iplex Pipelines Australia Pty Ltd (\"Iplex\"), proposes to acquire Milnes Holdings Limited (\"Milnes\") (\"the proposed acquisition\").",
+    "Market definition": "The national market for the manufacture and supply of plastic pipes and fittings.",
+    "Competition analysis": "Based solely on Milnes' market share data, the Commission considered  that Crane/Milnes would have 51% of the relevant market, with the next largest competitor, Vinidex, holding 34%, and a large number of smaller competitors sharing the remaining 14%. Barriers to entry: The Commission considered that barriers are low, as access to the technology required to produce most types of plastic pipe is widely available, initial capital expenditure is relatively low, and the raw material, plastic resin, is widely obtainable. It did not appear that brand loyalty was strong in the market, given the homogeneity of the product, though price and quality remain factors. Low entry barriers are confirmed by the presence of about 14 plastic pipe and fittings manufacturers, each with annual revenue under $10 million. Actual and potential Imports \tIt was estimated that imports of plastic fittings are worth about $17 million annually, or 14% of all such fittings sold in Australia. Availability of substitutes  \tThere are a significant number of alternative domestic suppliers of plastic pipe and fittings and a large number of current and potential overseas suppliers. Likely increases in prices or profits \tOn the grounds that barriers to entry are low and there are a significant number of alternative manufacturers and suppliers, it was considered that the proposed acquisition would not permit the merged entity to significantly increase its prices without losing market share to competitors in the relevant market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4122"
+  }
+}

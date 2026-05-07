@@ -1,0 +1,751 @@
+ 
+Public Competition Assessment 
+14 June 2012 
+FOXTEL - proposed acquisition of Austar United Communications 
+Limited 
+ 
+Introduction 
+1. 
+On 10 April 2012, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of Austar 
+United Communications Limited (Austar) by FOXTEL Management Pty Ltd 
+(FOXTEL) (the proposed acquisition), subject to undertakings accepted by the 
+ACCC on 9 April 2012 (the undertakings) pursuant to section 87B of the 
+Competition and Consumer Act 2010 (Cth) (the Act). The ACCC decided that the 
+proposed acquisition, in conjunction with the undertakings, would be unlikely to 
+have the effect of substantially lessening competition in any market in 
+contravention of section 50 of the Act. . 
+2. 
+The ACCC made its decision based on the information provided by the merger 
+parties and information arising from its market inquiries. This Public Competition 
+Assessment outlines the basis on which the ACCC reached its decision on the 
+proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because FOXTEL’s 
+
+
+ 
+-2- 
+proposed acquisition of Austar United Communications Limited is subject to 
+court enforceable undertakings. 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets and 
+the associated merger and competition issues. It also alerts the public to 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own facts.  
+7. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition at the time the decision was made. As 
+such Public Competition Assessments may not definitively identify and explain 
+all issues that the ACCC considers arise from a proposed acquisition. Further, the 
+ACCC’s decisions generally involve consideration of both non-confidential and 
+confidential information provided by the merger parties and market participants. 
+In order to maintain the confidentiality of particular information, Public 
+Competition Assessments do not contain any confidential information or its 
+sources. 
+The Parties 
+FOXTEL 
+8. 
+FOXTEL is owned by Telstra Corporation Ltd (50%), News Corporation Ltd 
+(25%), and Consolidated Media Holdings Limited (25%). The ownership 
+structure of FOXTEL is depicted in Figure 1, below.
+
+
+ 
+-3- 
+ 
+Figure 1 
+ 
+ 
+ 
+9. 
+FOXTEL is Australia’s largest subscription television provider delivering 
+audiovisual content to  more than 1.6 million residential subscribers in 
+metropolitan Australia.  
+10. 
+FOXTEL delivers more than 200 channels, including high definition (HD) 
+content, covering news, sport, general entertainment, movies, documentaries, 
+music and children’s programming.  
+11. 
+Other FOXTEL services include: 
+ services delivered through Telstra Mobile 
+ live broadcasts on Virgin Australia aircraft 
+ delivery of content via subscribers’ personal computers 
+ delivery of content via Microsoft Xbox 
+ on demand programming via the internet. 
+12. 
+FOXTEL had revenue of $2.1 billion in 2010-11.  
+Austar United Communications Limited 
+13. 
+Prior to its acquisition by Foxtel, Austar was listed on the Australian Securities 
+Exchange. Liberty Global, an international media company based in the United 
+Kingdom, owned a 54.2% indirect majority interest in Austar as at 31 March 
+2011. The remainder of the issued capital were publicly held. 
+
+
+ 
+-4- 
+14. 
+Austar had more than 750,000 subscribers. Austar’s coverage area was 
+approximately 2.4 million homes in regional and rural Australia, as well as the 
+Gold Coast, Darwin and Hobart. 
+15. 
+Austar provided over 180 “premier” channels and 13 HD Channels. 
+16. 
+Austar had a 50% stake in XYZnetworks (a 50/50 joint venture with FOXTEL). 
+XYZnetworks was the exclusive owner and/or distributor of twelve key channels 
+including Arena, a number of Lifestyle-branded channels and VH1. 
+Other Industry Participants 
+Content producers, owners and suppliers 
+17. 
+Content suppliers provide audiovisual content rights in a number of different 
+formats, including stand alone programs or series of programs (e.g. drama 
+programming and sports events) to broadcasters. Content is supplied to 
+subscription television providers as channels or channel groups. Content suppliers 
+source both domestic and international content from rights holders such as movie 
+studios, sporting bodies (eg. the AFL and NRL), as well as from local production 
+companies and commercial broadcasters producing content ‘in-house’.  
+18. 
+FOXTEL is also a wholesale supplier of original programming and aggregates its 
+own linear channels using programs produced by or for FOXTEL as well as 
+acquired from other content suppliers. Channels produced by FOXTEL in this 
+way include FOX8 and the Comedy Channel. 
+Suppliers of content to consumers 
+19. 
+Content is supplied to end consumers in a number of ways: 
+ through subscription television services supplied over cable and satellite 
+(FOXTEL and Austar)  
+ by digital terrestrial signals produced by commercial and national free-to-air 
+(FTA) broadcasters (including ABC, SBS, Seven, Nine and Ten)1 
+ through over the top subscription television services supplied via internet 
+protocol (IPTV) (such as Fetch TV and FOXTEL on T-Box) 
+                                                 
+1 These broadcasters also offer ‘catch-up’ services where consumers can view certain programs over the 
+internet after they have been broadcast through the terrestrial signal. 
+
+
+ 
+-5- 
+ through linear channels, catch-up and streaming content supplied over the 
+internet to various devices including computers, smartphones and tablets 
+(e.g., iTunes, Apple TV, Google, YouTube, internet ready TVs, Sony 
+Playstation). This includes video on demand services streamed or downloaded 
+over the internet to various devices, on both a transactional (TVOD) or 
+subscription (SVOD) basis. 
+ streaming or downloads of content to mobile devices including smart phones 
+and an array of new ‘pad’ and ‘tablet’ style devices which can access 
+audiovisual content based on pay-per-view and subscription models (e.g., 
+Telstra’s mobile FOXTEL, Vodafone/3) 
+ rentals and sale of digital video discs. 
+Telecommunications providers 
+20. 
+There are a number of telecommunications providers in Australia, such as 
+Telstra, Optus, iiNet and TPG, which provide telecommunications services such 
+as fixed line telephony, broadband and related services. Many of these providers 
+also offer some form of audiovisual content to their customers. 
+21. 
+Telstra is a 50% shareholder in FOXTEL and  is the major wholesale and retail 
+supplier of telecommunications services in Australia, including: 
+ local, national, long-distance, international and mobile telephony 
+ broadband access and content 
+ data and internet services (including through Telstra BigPond) 
+ wholesale services to other carriers, carriage service providers and ISPs 
+ advertising, search and information services (through Sensis); and 
+ subscription TV. 
+22. 
+In addition to the above services, FOXTEL and Telstra agreed in 2011 to provide 
+FOXTEL content on the Telstra T-Box by way of IPTV to end consumers in 
+metropolitan areas of Australia. The T-Box is a digital set top box which connects 
+a television to a broadband service in order to provide internet delivered and free-
+to-air entertainment. A range of FOXTEL packages are available for Telstra 
+customers to acquire through the T-Box. 
+Timing 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+
+
+ 
+-6- 
+26-May-11 
+ACCC commenced review under the Merger Review Process Guidelines. 
+16-Jun-11 
+Closing date for submissions from interested parties. 
+22-Jul-11 
+ACCC published a Statement of Issues outlining its preliminary competition 
+concerns. 
+11-Aug-11 
+Closing date for submissions relating to Statement of Issues. 
+19-Aug-11 
+ACCC requested further information from the merger parties. ACCC timeline  
+suspended pending receipt.  
+14-Oct-11 
+ACCC received further information from the merger parties. ACCC timeline 
+recommenced. New decision date of 30 November 2011 indicated 
+28-Nov-11 
+ACCC timeline suspended at the request of FOXTEL to allow it to make 
+further submissions.  
+7-Mar-12 
+ACCC commenced market inquiries on a draft s.87B undertaking proffered 
+by the parties. ACCC timeline recommenced with an indicative decision date 
+of 29 March 2012. 
+20-Mar-12 
+Closing date for submissions relating to draft s.87B undertaking. 
+27-Mar-12 
+ACCC timeline suspended to allow FOXTEL and the ACCC to continue 
+negotiations on the draft s.87B undertaking.  
+5-Apr-12 
+ACCC timeline recommenced providing an indicative decision date of 10 
+April 2012 
+9-Apr-12 
+87B undertaking accepted by ACCC. 
+10-Apr-12 
+ACCC announced it would not oppose the proposed acquisition with the 
+undertaking. 
+ 
+Market inquiries 
+23. 
+The ACCC consulted widely with industry participants including subscription 
+television providers, FTA television operators, content owners, 
+telecommunications companies, internet service providers (ISPs), other current 
+and potential suppliers of content to consumers and industry groups. 
+Statement of Issues 
+24. 
+The ACCC published a Statement of Issues on 22 July 2011 identifying a number 
+of potential competition concerns. In the Statement of Issues the ACCC stated its 
+preliminary view that the proposed acquisition would likely lead to a substantial 
+lessening of competition in the following markets: 
+ the national market for the supply of subscription television services; 
+ the national market for the acquisition of audiovisual content; and 
+ a number of markets for the supply of telecommunications products.  
+With/without test 
+25. 
+In assessing a merger pursuant to section 50 of the Act, the ACCC  considers the 
+effects of the merger by comparing the likely competitive environment post-
+merger if the merger proceeds (the “with” position) to the likely future 
+
+
+ 
+-7- 
+competitive environment if the merger does not proceed (the “without” position). 
+26. 
+During its assessment of the proposed acquisition, the ACCC took into account a 
+number of potential future scenarios. Where relevant, these are discussed in the 
+analysis below. 
+Market definition 
+27. 
+The ACCC considered that the following two markets were most relevant to the 
+assessment of the competitive impact of the proposed acquisition: 
+ the national market for the retail supply of subscription television services; 
+and 
+ a number of regional markets for the supply of fixed broadband and fixed 
+voice telephony products. 
+28. 
+The ACCC also considered the impact of the proposed acquisition in content 
+acquisition markets and in the supply of subscription television services to 
+consumers on the Gold Coast. 
+National market for the supply of subscription television services  
+29. 
+The ACCC formed the view that there was a national market for the supply of 
+subscription television services. Other sources of supply of audiovisual content to 
+end consumers including FTA television, mobile TV and audiovisual content 
+delivered on a transactional basis, including over the internet, were not 
+sufficiently close substitutes to be considered in the same market as subscription 
+television services. 
+Characteristics of subscription television services 
+30. 
+Subscription television providers typically deliver a package of multiple linear 
+television channels, each of which generally conforms to a particular genre or 
+subject (such as children’s television or sport). Subscription television usually 
+includes niche programming and often repeat programming at different times and 
+dates. 
+31. 
+Subscription television is provided to subscribers for a fee and is delivered to 
+subscribers’ televisions, traditionally via cable or satellite distribution systems. 
+However, based on information available to the ACCC, IPTV appeared to be 
+emerging as a potentially significant alternative delivery mechanism through 
+which subscription television could be provided to end consumers.  
+
+
+ 
+-8- 
+Subscription video on demand services 
+32. 
+The ACCC also considered that SVOD services were likely to become closer 
+substitutes for traditional subscription television, particularly for certain types of 
+content such as movies. SVOD exhibits many of the same characteristics as 
+subscription television. SVOD typically involves the consumer paying a regular 
+fixed fee for a selection of aggregated content. The most significant difference 
+from other subscription television services is that the consumer has a significant 
+degree of freedom to determine the scheduling and precise composition of 
+programming.  
+FTA television services 
+33. 
+The ACCC recognised that FTA television operators compete to some extent 
+with subscription television providers for the supply of audiovisual content to end 
+consumers.  
+34. 
+The ACCC formed the view that FTA television was not a sufficiently close 
+substitute to be considered in the relevant market for the purposes of this 
+competition analysis. The ACCC considered that the availability of FTA 
+television, in combination with other sources of audiovisual content, would be 
+likely to provide an ultimate competitive constraint to subscription television, but 
+that other subscription television services were closer substitutes. If there was a 
+market with multiple subscription television service providers, the competition 
+between those providers would be significantly closer and more vigorous than 
+between the subscription television providers and FTA television broadcasters. 
+Other audiovisual content delivery services 
+35. 
+The ACCC considered that mobile television services were unlikely to be close 
+substitutes for subscription television services. However, the ability for a 
+subscription television service provider to be able to offer a roaming service (on 
+tablet devices or mobile phones) in conjunction with or as an adjunct to their 
+main television service, was considered to be of increasing importance in the 
+marketplace and may improve the attractiveness of those subscription television 
+services. 
+36. 
+The ACCC also considered that there was limited substitution between 
+subscription television services and audiovisual content acquired by consumers 
+on a transactional basis, including physical movie rental and online TVOD. On 
+the basis of the available information, the ACCC considered that these types of 
+services were more complementary to other types of audiovisual content delivery 
+
+
+ 
+-9- 
+services than substitutes for them, either being utilised at different times or places 
+than those services, or as a supplement to those audiovisual content delivery 
+services. Like mobile content services, TVOD services were considered to be 
+important services to be offered in conjunction or as an adjunct to the core 
+subscription television offer. 
+Conclusion 
+37. 
+In conclusion, the ACCC considered there was a national market for the supply of 
+subscription television services, delivered by any distribution method including 
+cable, satellite and IPTV. The ACCC considered that SVOD was likely to 
+become a closer substitute for subscription television over time, particularly in 
+relation to certain types of content such as movies. Based on available 
+information, the ACCC considered that other sources of supply of audiovisual 
+content to end consumers including FTA television, mobile TV and audiovisual 
+content delivered on a transactional basis, including over the internet, were not 
+sufficiently close substitutes to be considered in the same market as subscription 
+television services. 
+National market for the acquisition of audiovisual content 
+38. 
+The ACCC formed the view that there was a national market for the acquisition 
+of audiovisual content.  
+39. 
+The ACCC recognised that in this market, the closeness of competition between 
+subscription television and FTA providers varied. For certain types of content, for 
+example individual entertainment programs and some sporting events, 
+subscription television providers and FTA television operators compete. 
+However, for other types of content such as complete linear channels, FTA 
+television provided little or no constraint on subscription television. 
+40. 
+The ACCC did not consider it necessary to decide whether there were separate 
+markets for the acquisition of particular content, such as the major sporting rights. 
+Regional markets for the supply of telecommunications services 
+41. 
+The ACCC considered that it was also relevant to assess the competitive impact 
+of the proposed acquisition in a number of relevant telecommunications product 
+markets in regional areas, in particular, in relation to the supply of broadband, 
+fixed voice telephony and mobile telephony.  However, for the purposes of this 
+review, it was not necessary for the ACCC to precisely define the product or 
+geographic dimensions of these markets. 
+
+
+ 
+-10- 
+Barriers to Entry 
+ 
+42. 
+The ACCC assessed the nature and extent of any barriers to entry or expansion in 
+the market for the supply of subscription television services to end consumers.  
+The ACCC also considered whether barriers to entry or expansion in this market 
+would increase as a result of the proposed acquisition. 
+43. 
+The ACCC considered that the most significant barriers to entry and expansion in 
+this market were related to: 
+ infrastructure; and 
+ access to content. 
+44. 
+The ACCC also considered that issues relating to having access to an established 
+customer base were relevant to access to content barriers. 
+Barriers to entry: Infrastructure 
+45. 
+The ACCC considered that the sunk costs related to the infrastructure required to 
+establish a subscription television service distributed, by either a cable or 
+satellite, were very high and likely to be considered insurmountable. As a result, 
+the ACCC considered that new entry to this market via cable or satellite would be 
+highly unlikely.  
+46. 
+However, the ACCC considered that there were a number of technological 
+developments which were likely to facilitate the roll out of subscription television 
+services using IPTV. The ACCC considered that these developments had the 
+potential to lower the infrastructure barriers to entry for subscription television 
+service providers. In this regard, the ACCC noted the entry of FetchTV as well as 
+other competitors. 
+47. 
+Accordingly, the ACCC considered that while the infrastructure barriers to entry 
+in the subscription television market were previously very high, particularly over 
+traditional networks, they were reducing over time and would continue to break 
+down in line with technological developments. 
+Barriers to entry: Compelling content 
+48. 
+The ACCC considered that the most significant barrier to entry in the market for 
+the supply of subscription television to consumers was the acquisition of certain 
+audiovisual content including on an exclusive basis.  
+
+
+ 
+-11- 
+49. 
+The ACCC consulted widely on this issue to ascertain the nature and extent of the 
+barriers to entry and expansion arising from content exclusivity. Market 
+participants identified an inability to access compelling content as the most 
+significant barrier to entry in the market for the supply of subscription television.  
+50. 
+The ACCC also formed the view that, even in the absence of the proposed 
+acquisition, the acquisition of certain audiovisual content rights on an exclusive 
+basis was a significant barrier to entry in the market for the supply of subscription 
+television. Through the acquisition of content on an exclusive basis, FOXTEL 
+and Austar had been able to attract large numbers of end consumers, which in 
+turn increased the attractiveness of their platforms to content rights holders. This 
+further enhanced their ability to obtain content on an exclusive basis and attract 
+additional subscribers. 
+51. 
+Moreover, the ACCC considered that the increased scale of the merged firm 
+would, to some extent, further increase the ability of the merged firm to obtain 
+some content on an exclusive basis, particularly content for which FOXTEL and 
+Austar bid independently. This may have had the effect of further increasing 
+barriers to entry.  
+Competition Analysis 
+52. 
+The ACCC considered that, in the absence of the undertaking, the proposed 
+acquisition would have the effect, or be likely to have the effect, of substantially 
+lessening competition in: 
+ the national market for the retail supply of subscription television services; 
+and 
+ a number of regional markets for the supply of fixed broadband and fixed 
+voice telephony products. 
+53. 
+The foundation of the ACCC’s concern was that the proposed acquisition would:  
+ bring together the two market participants in Australia who had a substantial 
+customer base in subscription television and access to compelling content; 
+and 
+ extend Telstra’s 50% ownership from one of those key players (i.e. 
+FOXTEL), to both of them (i.e. FOXTEL and Austar).  
+54. 
+Based on information obtained during the course of its review of the proposed 
+acquisition, the ACCC considered that three primary structural issues were 
+
+
+ 
+-12- 
+generally relevant to competition in telecommunications and audiovisual markets 
+in the context of the proposed acquisition: 
+ access to content delivery infrastructure;  
+ access to compelling content; and 
+ an established substantial subscription television customer base.  
+55. 
+The ACCC considered that Austar had a distinct and established substantial 
+customer base; actual or potential independent access to compelling content; and 
+access to satellite content delivery infrastructure. The proposed acquisition would 
+consolidate these three core structural underpinnings in FOXTEL. 
+56. 
+Without the proposed acquisition, there would have been greater potential for 
+competition between Austar and FOXTEL and Telstra in the subscription 
+television and telecommunications markets. That potential competition could 
+have unfolded in a number of ways. The ACCC considered that the two most 
+likely scenarios were: 
+ Austar independently entering into telecommunications markets by offering 
+consumers bundles comprising subscription television content and 
+telecommunications services or entering alliances with ISPs to offer such 
+bundles; and/or 
+ the breaking down of historical geographic broadcast rights demarcation 
+between FOXTEL and Austar, particularly through the emergence of national 
+content delivery competition using IPTV.  
+Telecommunications markets 
+57. 
+The ACCC considered that if the proposed acquisition proceeded: 
+ Telstra’s ownership of 50% of a combined FOXTEL-Austar would be likely 
+to limit the development of competition in markets for the supply of fixed 
+broadband and fixed voice services; and 
+ Telstra, by virtue of its shareholder relationship with FOXTEL, would be 
+likely to obtain preferential access to audiovisual content from FOXTEL and 
+the proposed acquisition would have extended this advantage to the distinct 
+geographic areas serviced by Austar.  
+58. 
+Further, as telecommunications networks and IPTV continued to develop, the 
+ACCC considered that it would be likely that it would become increasingly 
+important for retail telecommunications service providers to be able to offer 
+
+
+ 
+-13- 
+consumers bundles comprised of  subscription television content with fixed voice 
+and broadband services in order to be able to compete effectively with other retail 
+telecommunications service providers. The increasing importance and value of 
+bundling compounded the ACCC’s competition concerns arising from the 
+proposed acquisition because: 
+ entry by Austar into telecommunications markets would become both more 
+likely to occur and more likely to have a significant competitive impact 
+absent the acquisition, given Austar’s ability to offer compelling subscription 
+television content; and 
+ the competitive advantage enjoyed by Telstra by virtue of its shareholder 
+relationship with FOXTEL and consequently, the detrimental effect of 
+extending this relationship to Austar, would be likely to increase. 
+Subscription television market 
+59. 
+Without the proposed acquisition, the ACCC considered that as 
+telecommunications networks and content delivery platforms developed and 
+improved, FOXTEL and/or Austar would have been likely to develop IPTV 
+services that were differentiated from their existing satellite and cable 
+subscription television services.  
+60. 
+Additionally, the ACCC considered that FOXTEL and Austar were likely to have 
+an incentive to supply their differentiated IPTV services on a national basis. Over 
+time, this would make it increasingly likely that the historical geographic 
+demarcation of broadcast rights between FOXTEL and Austar would have broken 
+down. For this differentiated competition to be effective, FOXTEL and/or Austar 
+would not have needed to replicate all of their satellite broadcast content  in an 
+IPTV service, and the content on those services could have continued to be 
+developed over time.  
+61. 
+The ACCC considered that FOXTEL and Austar would have been in the best 
+position to access the necessary rights to develop strong competitive national 
+IPTV products, either directly or in partnership with other parties such as Telstra 
+or other telecommunications service providers, given their existing relationships 
+with content suppliers arising from access to an existing substantial subscription 
+television customer base. 
+Conclusion 
+62. 
+The ACCC was concerned that the proposed acquisition would have: 
+
+
+ 
+-14- 
+ foreclosed potential future competition between FOXTEL and Austar in the 
+supply of  subscription television services, particularly by way of IPTV 
+delivery;  
+ foreclosed potential future competition between Telstra and Austar in the 
+supply of telecommunications services; and 
+ allowed the merged entity to leverage its substantial customer base in the 
+national market for the retail supply of subscription television services to 
+acquire IPTV rights on an exclusive basis and consequently constrain 
+competitive entry or expansion by other parties. 
+Other issues 
+Content acquisition 
+63. 
+The ACCC also considered whether the proposed acquisition was likely to result 
+in a substantial lessening of competition in the national market for the acquisition 
+of audiovisual content.  
+64. 
+The ACCC noted that FOXTEL and Austar previously submitted joint bids or 
+otherwise aggregated their buying power for particular content, particularly many 
+sports rights. In instances where FOXTEL and Austar were jointly bidding or 
+aggregating their buying power, the ACCC considered that the proposed 
+acquisition was unlikely to substantially change the competitive dynamic in 
+relation to the acquisition of audiovisual content, particularly for cable and 
+satellite distribution rights. 
+65. 
+The ACCC considered that to the extent that competition in the market for the 
+acquisition of audiovisual content was likely to be impacted by the proposed 
+acquisition, any such effect was further limited as a result of the undertaking. As 
+outlined below, the undertaking precludes FOXTEL from acquiring certain 
+audiovisual content for distribution on IPTV on an exclusive basis. The 
+undertaking is intended to limit the ability of FOXTEL to take advantage of its 
+increased subscriber base arising from the proposed acquisition, to achieve 
+favourable contract terms. This gives new competitors the opportunity to acquire 
+certain content and compete with FOXTEL in the market for the supply of 
+subscription television services. The ACCC notes that much of the content for 
+which FOXTEL and Austar did not submit joint bids or aggregate their buying 
+power is subject to the non-exclusivity prohibition in the undertaking. 
+
+
+ 
+-15- 
+Supply of subscription television to consumers on the Gold Coast   
+66. 
+While FOXTEL and Austar otherwise supplied subscription television services in 
+different geographic markets, they overlapped in the supply of subscription 
+television services to residential and commercial customers in the Gold Coast 
+region. FOXTEL and Austar each standardised many elements of their respective 
+subscription television offerings on a national basis (including the pricing of 
+packages). The ACCC’s investigations found that there were some differences 
+between the offerings of FOXTEL and Austar to customers on the Gold Coast 
+(which generally reflected differences in the national offers of the two 
+companies), but did not consider that the differences were meaningful enough 
+that the removal of this choice to customers on the Gold Coast would constitute a 
+substantial lessening of competition for the purposes of the Act. 
+67. 
+The ACCC also considered that the undertaking had the potential to increase 
+competition in subscription television markets, which could be of benefit to 
+customers on the Gold Coast. 
+Undertaking 
+68. 
+On 9 April 2012, the ACCC accepted a court enforceable undertaking from 
+FOXTEL, pursuant to section 87B of the Act. 
+Key elements of the undertaking 
+69. 
+The core element of the undertaking is an obligation on FOXTEL not to acquire 
+certain distribution rights to certain independent content on an exclusive basis. 
+These distribution rights include IPTV and some mobile distribution rights, but 
+exclude most satellite and cable distribution rights. The undertaking also prevents 
+FOXTEL from acquiring those same rights from anyone if an ultimate 
+shareholder, or related entity of an ultimate shareholder, acquires those rights on 
+an exclusive basis. 
+70. 
+The content protected by the undertaking includes linear channels offered by 
+independent content suppliers, subscription video on demand (SVOD) rights from 
+independent content suppliers for programs that are under licence for their linear 
+channel, linear movie rights and current SVOD movie rights from 50% of the 
+major movie studios and 50% of eight named independent studios, movie TVOD 
+rights and library SVOD movie rights. The undertaking also prevents FOXTEL 
+from preventing a party which acquires any of the above rights from offering a 
+‘companion’ mobile service using that content. 
+
+
+ 
+-16- 
+71. 
+As the ACCC’s competition concerns primarily related to competition using 
+IPTV technology, FOXTEL will retain the ability to acquire exclusive rights for 
+the distribution of content by cable, satellite and mobile networks to mobile 
+devices (other than ‘companion’ mobile rights). 
+72. 
+In addition, the  undertaking aims to further lower barriers to entry by providing 
+necessary signal access to linear channels distributed by independent content 
+suppliers (and which FOXTEL itself distributes to its subscribers) to third parties. 
+73. 
+The undertaking also extends FOXTEL’s Special Access Undertaking,2 so that 
+content providers can access Austar subscribers as well as the existing 
+arrangements for FOXTEL subscribers. The Special Access Undertaking 
+provides terms on which content providers are able to access FOXTEL set top 
+boxes for the purpose of providing services to FOXTEL’s customers. 
+Objective of the undertaking 
+74. 
+The objective of the undertaking is to address the ACCC’s concerns about 
+competitive detriment that would otherwise arise as a result of the proposed 
+acquisition. 
+75. 
+As outlined above, the ACCC considered that as markets and content delivery 
+technologies developed, IPTV was likely to be a critical area of potential 
+competition between FOXTEL and Austar. In addition, as IPTV was a 
+developing content delivery mechanism, it exhibited dynamic characteristics 
+which created the potential for new entrants into the market, provided that the 
+merged entity was unable to act to prevent this emerging competition. 
+76. 
+Thus, the undertaking aims to address the ACCC’s concerns by preventing 
+FOXTEL from entering into arrangements with certain content suppliers to 
+acquire content on an exclusive basis so as to enable competing content 
+aggregators and/or telecommunications service providers to bid to acquire rights 
+to content which can be provided as part of an IPTV service. Such exclusive 
+arrangements would have had the potential to stifle new entry in the IPTV sector 
+before new entrants were able to achieve sufficient scale in the market to 
+effectively compete with incumbent providers for access to that content. 
+                                                 
+2 Special Access Undertaking to the Australian Competition and Consumer Commission under 
+Subdivision B of Division 5 of Part XIC of the Trade Practices Act 1974 (Cth) executed by FOXTEL 
+Management Pty Ltd for and on behalf of the FOXTEL Partnership and FOXTEL Cable Television Pty 
+Ltd on 1 December 2006 
+
+
+ 
+-17- 
+77. 
+ By reducing exclusive rights to content, the undertaking aims to lower barriers to 
+entry and allow new or enhanced competition in telecommunications and 
+subscription television markets. The undertaking aims to make available 
+sufficient attractive content to emerging competitors to enable them to develop 
+competitive and sustainable IPTV offers.  
+78. 
+The undertaking is directed at reducing FOXTEL’s ability, directly or indirectly, 
+to take advantage of its substantial subscriber base to obtain exclusive rights to 
+attractive content. This in turn is intended to present opportunities for smaller 
+competitors or new entrants to develop attractive content services and grow a 
+sufficient subscriber base to be able to maintain and continue to develop 
+competitive IPTV offers after the undertaking has expired. The ACCC considers 
+that this approach is most likely to reduce barriers to entry without dampening 
+incentives for content suppliers or subscription television operators to be 
+innovative and competitive.  
+79. 
+The undertaking does not prevent FOXTEL from acquiring exclusive rights in 
+relation to individual sports. The ACCC considered that to the extent that 
+FOXTEL's (and its shareholders’) ownership of exclusive sports rights may raise 
+competition concerns, these concerns existed independently of the proposed 
+acquisition.  
+Ultimate shareholders and the undertaking 
+80. 
+While the undertaking contains some provisions to prevent FOXTEL’s ultimate 
+shareholders acting to circumvent FOXTEL’s obligations in the undertaking, the 
+ACCC did not consider that it was necessary for any of FOXTEL’s ultimate 
+shareholders to be a party to the undertaking in order to address the ACCC’s 
+competition concerns.  
+81. 
+The ACCC considered that there is a meaningful difference in incentives between 
+FOXTEL’s ultimate shareholders in relation to content acquisition and supply. In 
+particular, the non-Telstra shareholders may have an incentive to allow FOXTEL 
+to acquire IPTV rights and supply content to a broad range of parties, including 
+competitors or potential competitors of Telstra.  
+82. 
+The ACCC also considered that the incentive of each ultimate shareholder to 
+undertake costly exclusive content acquisitions which may have defensive 
+benefits to FOXTEL is muted by virtue of them only having a partial 
+shareholding in FOXTEL. 
+
+
+ 
+-18- 
+83. 
+The undertaking also prohibits FOXTEL from bidding jointly or in concert with 
+any of its ultimate shareholders for exclusive rights for any of the content that 
+FOXTEL is prohibited from acquiring exclusively by the undertaking. This 
+prohibition is intended to prevent FOXTEL’s ultimate shareholders from taking 
+advantage of any increase in content buying power that FOXTEL gains from the 
+acquisition of Austar’s customer base. 
+ Duration of the undertaking 
+84. 
+The term of the undertaking is 8 years from the date on which the undertaking 
+commenced (8 April 2012). The ACCC considered that this was an appropriate 
+length of time for the undertaking to be in force for two main reasons. 
+85. 
+Firstly, all of the exclusive content supply agreements between FOXTEL and 
+independent content suppliers in existence at the date of the undertaking will have 
+expired by 2016, meaning that third parties should have a number of years after 
+this date to negotiate content supply arrangements without FOXTEL having the 
+ability to acquire the relevant rights on an exclusive basis.  
+86. 
+Secondly, the ACCC considered that this period of time should be sufficient to 
+give new entrants the ability to enter the market, or for existing players to expand, 
+and achieve sufficient scale to be able to compete in the market without the 
+protections given by the undertaking. 
+Conclusion 
+87. 
+On the basis of the above, and taking into account the undertakings proposed by 
+FOXTEL and accepted by the ACCC, the ACCC formed the view that the 
+proposed acquisition of Austar United Communications Limited by FOXTEL 
+would not be likely to have the effect or be likely to have the effect of 
+substantially lessening competition in any market in contravention of section 50 
+of the Act. 
+ 
+ 
+ 

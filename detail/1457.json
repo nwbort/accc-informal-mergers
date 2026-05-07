@@ -1,0 +1,31 @@
+{
+  "id": "1457",
+  "title": "Acquirer: Sumitomo Corporation; Target: Australian Bulk Alliance Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sumitomo-corporation-target-australian-bulk-alliance-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20506",
+  "industries": [],
+  "date_completed": "5 October 2004",
+  "date_completed_iso": "2004-10-05T12:00:00Z",
+  "date_commenced": "27 September 2004",
+  "date_commenced_iso": "2004-09-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sumitomo Corporation"
+  ],
+  "targets": [
+    "Australian Bulk Alliance Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Sumitomo Corporation to acquire half share in ABA Pty Ltd.",
+    "Market definition": "For competition assessment purposes the relevant market was considered to be the market for storage and handling of grain.  As market concentration was not changed by the acquisition, the question of whether the geographic scope of the market is national or state based was left open.",
+    "Competition analysis": "Sumitomo Corporation is a new entrant in the storage and handling market in Australia and as such there is no change in market concentration.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "6701"
+  }
+}

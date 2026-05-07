@@ -1,0 +1,44 @@
+{
+  "id": "1082",
+  "title": "WIN Television Network Pty Ltd - proposed acquisition of Channel 9 South Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/win-television-network-pty-ltd-proposed-acquisition-of-channel-9-south-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28486",
+  "industries": [
+    "Media - television"
+  ],
+  "date_completed": "2 July 2007",
+  "date_completed_iso": "2007-07-02T12:00:00Z",
+  "date_commenced": "4 June 2007",
+  "date_commenced_iso": "2007-06-04T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "WIN Television Network Pty Ltd"
+  ],
+  "targets": [
+    "Channel 9 South Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jun 2007",
+      "date_iso": "2007-06-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jun 2007",
+      "date_iso": "2007-06-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "2 Jul 2007",
+      "date_iso": "2007-07-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 29 May 2007, WIN Corporation (WIN) made a binding offer to acquire 100% of the issued capital in Channel 9 South Australia (NWS). Southern Cross Broadcasting (Australia) Limited, the parent company of Channel 9 South Australia Pty Ltd/NWS, accepted that offer. NWS is the holder of a commercial television broadcasting licence for the Adelaide TV1 commercial television broadcast area. WIN holds commercial television broadcasting licences in the Mount Gambier and Riverland Commercial TV licence areas in South Australia. WIN also comprises companies involved in film and television production, pay television broadcasting, online movie subscriptions, broadcast transmission management and maintenance services, internet, radio broadcasting, telecommunications, and media sales, across Australia. WIN does not have radio operations in South Australia.",
+    "Market definition": "The ACCC considered the relevant market to include the supply of content to consumers in the greater-Adelaide area. The ACCC proceeded on the basis that if there were no competition concerns in this narrower market, they were unlikely to arise in a wider market. However, the ACCC considers it not necessary to form a definitive view of market definition for the purposes of this acquisition.",
+    "Competition analysis": "The ACCC considered that the acquisition of Channel 9 South Australia/NWS was unlikely to give rise to a substantial lessening of competition in the relevant market as there was little overlap between WIN's existing operations in South Australia and NWS's television broadcasting operations in the greater-Adelaide area. In forming its conclusion, the ACCC also noted the competition provided by other content suppliers in the greater-Adelaide area."
+  }
+}

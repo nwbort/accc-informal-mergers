@@ -1,0 +1,44 @@
+{
+  "id": "0913",
+  "title": "Woolworths Limited - proposed acquisition of Rivervale Western Cellars",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-rivervale-western-cellars",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31956",
+  "industries": [
+    "Retail Liquor Store Licence"
+  ],
+  "date_completed": "26 May 2008",
+  "date_completed_iso": "2008-05-26T12:00:00Z",
+  "date_commenced": "6 May 2008",
+  "date_commenced_iso": "2008-05-06T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Rivervale Western Cellars"
+  ],
+  "timeline": [
+    {
+      "date": "6 May 2008",
+      "date_iso": "2008-05-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 May 2008",
+      "date_iso": "2008-05-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 May 2008",
+      "date_iso": "2008-05-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposes to acquire a retail liquor store licence which currently trades as \"Rivervale Western Cellars\" located at 109-111 Great Eastern Highway, Rivervale, Western Australia.",
+    "Market definition": "The proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is, at its narrowest, a 3km radius surrounding the target retail liquor business; and 2. the Western Australian market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "On 26 May 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. in relation to Market 1, Woolworths owned no liquor outlets (either takeaway packaged liquor outlets or hotels) within the market. Accordingly, the proposed acquisition represented a bare transfer of market share; and 2. in relation to Market 2, the ACCC considered that the proposed acquisition of one liquor licence was unlikely to significantly change the market dynamics between Woolworths and other liquor wholesalers."
+  }
+}

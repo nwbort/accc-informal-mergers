@@ -1,0 +1,49 @@
+{
+  "id": "1041",
+  "title": "Fairfax Media Limited - proposed acquisition of certain assets of Southern Cross Broadcasting (Australia) Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fairfax-media-limited-proposed-acquisition-of-certain-assets-of-southern-cross-broadcasting-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28967",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "13 September 2007",
+  "date_completed_iso": "2007-09-13T12:00:00Z",
+  "date_commenced": "6 August 2007",
+  "date_commenced_iso": "2007-08-06T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Fairfax Media Limited"
+  ],
+  "targets": [
+    "Southern Cross Broadcasting (Australia) Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2007",
+      "date_iso": "2007-07-03T12:00:00Z",
+      "event": "ACCC awaits information from Fairfax before commencing its informal review."
+    },
+    {
+      "date": "6 Aug 2007",
+      "date_iso": "2007-08-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Aug 2007",
+      "date_iso": "2007-08-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Sep 2007",
+      "date_iso": "2007-09-13T12:00:00Z",
+      "event": "ACCC announced decision to not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Immediately following Macquarie Media Group's proposed acquisition of Southern Cross Broadcasting, Fairfax proposes to acquire from Macquarie, the following assets: - Metropolitan radio stations - 3AW and Magic (Melbourne), 2UE (Sydney), 96FM and 6PR (Perth), 4BC and 4BH (Brisbane) - Southern Star - Satellite Music Australia.",
+    "Market definition": "Either separate or joint radio and newspaper advertising markets. As the ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market, it was not necessary to form a definitive view of market definition for the purposes of this acquisition.",
+    "Competition analysis": "On any market definition, the ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition due to the presence of other radio and newspaper operators in all Sydney and Melbourne - the only regions where overlap would occur."
+  }
+}

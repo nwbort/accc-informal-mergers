@@ -1,0 +1,31 @@
+{
+  "id": "1693",
+  "title": "Acquirer: Enex Resources Ltd; Target: Glencore International AG",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-enex-resources-ltd-target-glencore-international-ag",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15241",
+  "industries": [],
+  "date_completed": "29 January 2002",
+  "date_completed_iso": "2002-01-29T12:00:00Z",
+  "date_commenced": "27 December 2001",
+  "date_commenced_iso": "2001-12-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Enex Resources Ltd"
+  ],
+  "targets": [
+    "Glencore International AG"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed Acquisition by Enex Resources Limited of the Ravensworth and Narama coal operations from CNA Resources Limited and Coal and Allied Operations Limited (both of whom are subsidiaries of Rio Tinto Limited).",
+    "Market definition": "The Commission considered that the relevant market is the national market for the supply of thermal coal.",
+    "Competition analysis": "The Commission considered that the Proposed Acquisition may exceed the merger guideline thresholds, however it was considered that the Proposed Acquisition is unlikely to substantially lessen competition in the relevant market due to: - The large volume of exports from domestic suppliers, including both Parties, indicates that Australian coal is priced at internationally competitive levels.  Suppliers are likely to be able to divert supply from export markets to defeat a rise in domestic prices; - The presence of available substitutes; and - Countervailing power appears to be present among some major customers of the Parties.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "1101"
+  }
+}

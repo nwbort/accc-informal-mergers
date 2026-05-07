@@ -1,0 +1,31 @@
+{
+  "id": "1615",
+  "title": "Acquirer: IBM Australia Ltd; Target: PriceWaterhouseCoopers",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ibm-australia-ltd-target-pricewaterhousecoopers",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16557",
+  "industries": [],
+  "date_completed": "24 September 2002",
+  "date_completed_iso": "2002-09-24T12:00:00Z",
+  "date_commenced": "27 August 2002",
+  "date_commenced_iso": "2002-08-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "IBM Australia Ltd"
+  ],
+  "targets": [
+    "PriceWaterhouseCoopers"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "IBM intends to acquire the Price Waterhouse Coopers' (PwC) global business consulting and technology service unit, PwC Consulting.",
+    "Market definition": "While the relevant market could potentially be defined narrowly (the areas of overlap) or broadly (IT services or professional services), a precise market definition is not critical to the current analysis given that neither a narrow nor broad market definition resulted in the Commission's concentration threshold being crossed.",
+    "Competition analysis": "Whether the Commission adopts either a broad or narrow market definition, the Commission's concentration threshold is not crossed. There does not appear to be any dominant firm/s in the market with a dominant market share as the market appears fragmented with a number of providers of IT and consulting services. Niche providers of IT services, whether domestic or international companies,  are able to enter the market and establish operations. Further, there are a number of competitors in the IT and consulting field, ranging from global firms offering a range of services to  niche providers of IT and consulting services, which will provide competitive constaints on the merged entity. After the merger, there still will remain competition and choice between competitors. The Commission concluded that the proposed acquisition is unlikely to amount to a substantial lessening of competition under section 50 of the Trade Practices Act 1974 and did not oppose the proposed acquisition.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "7855"
+  }
+}

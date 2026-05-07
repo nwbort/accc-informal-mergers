@@ -1,0 +1,44 @@
+{
+  "id": "1062",
+  "title": "FRH Group Pty Ltd - proposed acquisition of Frimokar (Aust) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/frh-group-pty-ltd-proposed-acquisition-of-frimokar-aust-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28965",
+  "industries": [
+    "Road maintenance and cleaning"
+  ],
+  "date_completed": "8 August 2007",
+  "date_completed_iso": "2007-08-08T12:00:00Z",
+  "date_commenced": "16 July 2007",
+  "date_commenced_iso": "2007-07-16T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "FRH Group Pty Ltd"
+  ],
+  "targets": [
+    "Frimokar (Aust) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jul 2007",
+      "date_iso": "2007-07-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Aug 2007",
+      "date_iso": "2007-08-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Aug 2007",
+      "date_iso": "2007-08-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "FRH Group proposes to acquire the assets of Frimokar that are used to retexturise and clean road surfaces using high pressure water sprays.",
+    "Market definition": "This proposed acquisition was assessed within the context of the market for road and runway cleaning and re-texturising using high pressure water sprays. The ACCC's conclusion would have been unchanged if a broader market were adopted. The geographic market is unclear but is likely to be at least the east coast of Australia.",
+    "Competition analysis": "On 8 August 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market.  Factors informing this conclusion included: -the likelihood that FRH would continue to be constrained by current and potential new entrants, due to relatively low barriers to entry; and -FRH's and Frimokar's customers run sophisticated tender processes through which they can facilitate new entry in the event of any attempt by the merged entity to increase prices."
+  }
+}

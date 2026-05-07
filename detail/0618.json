@@ -1,0 +1,44 @@
+{
+  "id": "0618",
+  "title": "Maryborough Sugar Factory Limited and Bundaberg Sugar Ltd - proposed joint venture in Queensland sugar milling operations",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/maryborough-sugar-factory-limited-and-bundaberg-sugar-ltd-proposed-joint-venture-in-queensland-sugar-milling-operations",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41684",
+  "industries": [
+    "Sugar milling"
+  ],
+  "date_completed": "18 June 2010",
+  "date_completed_iso": "2010-06-18T12:00:00Z",
+  "date_commenced": "6 May 2010",
+  "date_commenced_iso": "2010-05-06T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Maryborough Sugar Factory Limited"
+  ],
+  "targets": [
+    "Bundaberg Sugar Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 May 2010",
+      "date_iso": "2010-05-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 May 2010",
+      "date_iso": "2010-05-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jun 2010",
+      "date_iso": "2010-06-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Maryborough Sugar Factory Limited and Bundaberg Sugar Ltd propose to form a joint venture for the milling of sugar in Queensland.",
+    "Market definition": "The ACCC considered the proposed joint venture in the context of the following markets: - a Mulgrave/Babinda market for the acquisition of cane and supply of cane crushing services to growers within a 50 kilometre radius of the Mulgrave and Babinda mills; - a Queensland market for the acquisition of sugar exporting and marketing services; - a national market for the supply of molasses; and - a global market for the supply of raw sugar.",
+    "Competition analysis": "The ACCC considered that the proposed joint venture was unlikely to lead to a substantial lessening of competition due to: a. the only mills with any potential for overlap are the Babinda (owned by Bundaberg) and Mulgrave (owned by Maryborough) mills but even in this case the current lack of any effective competition between the two mills is expected to continue in the foreseeable future. b. in the remaining markets, Maryborough has only a small or negligible share of the markets and the joint venture will lead to only very small changes in market concentrations."
+  }
+}

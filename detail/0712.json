@@ -1,0 +1,44 @@
+{
+  "id": "0712",
+  "title": "POTA NSW Pty Ltd - proposed acquisition of Maritime Container Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pota-nsw-pty-ltd-proposed-acquisition-of-maritime-container-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38350",
+  "industries": [
+    "Port logistics"
+  ],
+  "date_completed": "26 August 2009",
+  "date_completed_iso": "2009-08-26T12:00:00Z",
+  "date_commenced": "3 August 2009",
+  "date_commenced_iso": "2009-08-03T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "POTA NSW Pty Ltd"
+  ],
+  "targets": [
+    "Maritime Container Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Aug 2009",
+      "date_iso": "2009-08-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Aug 2009",
+      "date_iso": "2009-08-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Aug 2009",
+      "date_iso": "2009-08-26T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "POTA NSW Pty Ltd, a subsidiary of POTA Holdings Pty Ltd, proposed to acquire the container park business and the container transport business of Maritime Container Services Pty Ltd.",
+    "Market definition": "Please refer to the Public Competition Assessment below.",
+    "Competition analysis": "Please refer to the Public Competition Assessment below."
+  }
+}

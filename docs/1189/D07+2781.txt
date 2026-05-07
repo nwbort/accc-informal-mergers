@@ -1,0 +1,490 @@
+1
+Public Competition Assessment
+9 January 2007
+Alinta AGL merger proposals and the acquisition of APT by Alinta
+Introduction
+1.
+On 21 February 2006, Alinta announced to the ASX its proposal to merge with
+AGL via a shareholder scheme of arrangement. On 13 March 2006, AGL rejected
+Alinta’s merger offer and announced its intention to make its own takeover offer to
+acquire 100% of Alinta’s ordinary shares. On 20 March 2006, Alinta subsequently
+announced its intention to make a takeover offer for all ordinary shares in AGL.
+2.
+On 26 April 2006, Alinta and AGL signed a Heads of Agreement to merge the two
+companies (‘the Alinta-AGL Joint Merger Proposal’). The Merger
+Implementation Agreement (‘MIA’) formalising the Heads of Agreement was
+subsequently executed on 1 June 2006.
+3.
+Despite the signing of the MIA, AGL and Alinta both requested that the Australian
+Competition and Consumer Commission (‘ACCC’) continue its assessment of
+their separate individual acquisition proposals.
+4.
+AGL held a 30% stake in Australian Pipeline Trust (‘APT’) at the time the various
+merger proposals were announced. Alinta subsequently acquired a further stake in
+APT and raised the possibility of continuing to increase that stake.
+5.
+In effect, the ACCC considered four inter-related, but separate matters:
+Alinta’s acquisition of AGL;
+AGL’s acquisition of Alinta;
+The Alinta-AGL Joint Merger Proposal (a descriptor chosen by the ACCC);
+Alinta’s subsequent proposal to retain an interest in APT and subsequently
+increase its interest in APT.
+6.
+The first two matters listed above did not proceed.
+
+
+2
+Public Competition Assessments
+7.
+To provide an enhanced level of transparency and procedural fairness in its
+decision making process, the ACCC issues a Public Competition Assessment for
+all transaction proposals where:
+a merger is rejected;
+a merger is subject to enforceable undertakings;
+the merger parties seek such disclosure; or
+a merger is approved but raises important issues that the ACCC considers
+should be made public.
+8.
+This Public Competition Assessment has been issued because the ACCC has
+accepted section 87B court enforceable undertakings, as noted above, in relation to
+AGL’s acquisition of Alinta, the Alinta-AGL Joint Merger Proposal and has also
+subsequently accepted a revised undertaking that related to the Alinta-AGL Joint
+Merger Proposal and Alinta’s subsequent proposal to retain an interest in APT.
+9.
+By issuing Public Competition Assessments, the ACCC aims to provide the market
+with a better understanding of the ACCC’s analysis of various markets and the
+associated merger and competition issues. It also alerts the market to the
+circumstances where the ACCC’s assessment of the competition conditions in
+particular markets is changing, or likely to change, because of developments.
+10.
+Each Public Competition Assessment is specific to the particular transaction under
+review by the ACCC. While some transaction proposals may involve the same or
+related markets, it should not be assumed that the analysis and decision outlined in
+one Public Competition Assessment will be conclusive of the ACCC’s view in
+respect of other transaction proposals, as each matter will be considered on its own
+merits.
+11.
+Many of the ACCC’s decisions will involve consideration of both non-confidential
+and confidential information provided by the merger parties and market
+participants. In order to maintain the confidentiality of particular information,
+Public Competition Assessments do not contain any confidential information or its
+sources. While the ACCC aims to provide an appropriately detailed explanation of
+the basis for the views it forms, where this is not possible, maintaining
+confidentiality will be the ACCC’s paramount concern, and accordingly a Public
+Competition Assessment may not definitively explain all issues and the ACCC’s
+analysis of such issues.
+
+
+3
+The Parties
+AGL
+12.
+AGL is a publicly listed company with a market capitalisation of approximately $8
+billion at the time of the ACCC’s assessment. The business of AGL encompasses
+interests in the following operations and assets:
+gas transmission pipelines;
+gas distribution networks;
+gas wholesale supply;
+gas and electricity retail supply;
+electricity generation;
+electricity distribution networks; and
+supply of asset management and infrastructure services.
+13.
+AGL is the incumbent supplier for retail gas in NSW. It also provides significant
+gas and electricity retail supply services in Victoria, South Australia and the ACT.
+AGL has approximately 1.5 million electricity customers and 2.8 million gas
+customers nationally.
+14.
+AGL held a 30% interest in APT, and a 50% interest in the responsible entity of
+APT, Australian Pipeline Limited (‘APL’). APT is a publicly listed infrastructure
+trust, which has interests in a number of gas transmission pipelines throughout
+Australia. These assets include the Moomba to Sydney Pipeline (‘MSP’), the
+Parmelia Gas Pipeline (‘Parmelia pipeline’) which supplies Perth, and an 88.2%
+interest in the Goldfield Gas Transmission Pipeline (‘Goldfields’) in Western
+Australia. During the assessment of these matters, APT also acquired GasNet, the
+Victorian gas transmission company, and Allgas, a gas distribution operation
+covering half of greater Brisbane.
+15.
+AGL’s asset management company subsidiary, Agility Pty Ltd (‘Agility’),
+managed the operation of the MSP, the Parmelia pipeline, and the Goldfields
+through the provision of a range of services, in accordance with management
+agreements. Agility also provided services to the other infrastructure assets in
+which AGL had a direct or indirect interest, as well as actively seeking to provide
+services to unrelated third party customers.
+Alinta
+16.
+Alinta is a publicly listed company with a market capitalisation of approximately
+$2.8 billion at the time of the ACCC’s assessment. The business of Alinta
+encompasses operations and assets in the following areas of the energy industry:
+gas transmission pipelines;
+gas distribution networks;
+
+
+4
+gas wholesale supply;
+gas and electricity retail supply;
+electricity generation;
+electricity distribution networks; and,
+supply of asset management and infrastructure services.
+17.
+Alinta has approximately 1000 electricity customers and 532,000 retail gas
+customers nationally.
+18.
+Alinta further holds a 20% interest in Alinta Infrastructure Holdings (‘AIH’), a
+publicly listed infrastructure trust, which itself has interests in a number of
+significant gas transmission infrastructure assets throughout Australia. These
+assets include the Eastern Gas Pipeline (‘EGP’) which supplies Sydney from gas
+fields off the coast of Victoria. In addition to the gas transmission pipelines held
+through AIH, Alinta also has a 20% direct interest in the Dampier to Bunbury
+Natural Gas Pipeline (‘DBNGP’) in Western Australia, which supplies gas to the
+greater Perth region.
+19.
+Alinta’s asset management subsidiary, Alinta Asset Management Pty Ltd
+(‘AAM’), manages the operation of the EGP and the DBNGP by providing a
+comprehensive range of services, in accordance with the long-term and exclusive
+management agreements currently in place. AAM also provides a comprehensive
+range of services to other infrastructure assets in which Alinta has a direct or
+indirect interest.
+Market definition
+20.
+The ACCC considered a number of relevant markets in assessing the proposals.
+21.
+The key markets in which concerns arose were:
+the market for supply of wholesale gas to greater Sydney (including the south-
+eastern region of NSW); and
+the market for the supply of wholesale gas to the Perth region.
+22.
+In assessing the effects on competition in these markets, the ACCC considered
+control of gas transmission pipelines to be a very important factor.
+Overview of Competition Issues relevant to each of the matters
+23.
+The key competition issues in each of the matters raised in this Public Competition
+Assessment all related to the same assets. The key issues in all of the matters
+were:
+Effects in the market for supply of wholesale gas to greater Sydney, due to the
+aggregation of:
+
+
+5
+o
+Alinta’s interests in the EGP. Alinta’s interest in the EGP arose via two
+means: first, via Alinta’s interest in AIH, which owns the EGP; and
+secondly, via Alinta’s subsidiary, AAM, controlling the management and
+operational contracts for the EGP; and
+o
+any interest in the MSP. Interests in the MSP arose via three means: first,
+via AGL’s interest in APT, the owner of the MSP; secondly, via AGL’s
+subsidiary, Agility, controlling the management and operational contracts
+for the MSP; and finally, by Alinta acquiring a direct stake in APT.
+Effects in the market for the supply of wholesale gas to the Perth region, due
+to aggregation of:
+o
+Alinta’s interests in the DBNGP. Alinta’s interest in the DBNGP arose
+via two means: first, Alinta’s direct 20% stake in the DBNGP; and
+secondly, via Alinta’s subsidiary, AAM, controlling the management and
+operational contracts for the DBNGP; and
+o
+any interest in the Parmelia pipeline. Interests in the Parmelia pipeline
+arose via the same three means outlined above for the MSP, excepting for
+the fact that APT’s interest in the Parmelia is 88.2%, not 100%.
+24.
+The ACCC’s competition assessment concluded that the full independence of the
+key pipelines supplying Sydney (the MSP and EGP) and Perth (the DBNGP and
+Parmelia pipeline) was critical, and that any aspect of a transaction that lessened
+the independence of the pipelines would be likely to substantially lessen
+competition in the relevant wholesale gas markets (greater Sydney and greater
+Perth respectively).
+25.
+The ACCC did not consider that the aggregation of the other AGL or APT assets
+with Alinta’s assets was likely to raise competition concerns.
+AGL proposed acquisition of Alinta
+26.
+The following table outlines the key events in relation to AGL’s proposed
+acquisition of Alinta.
+24 Mar 2006
+AGL made a submission to ACCC on competition issues
+29 Mar 2006
+ACCC commenced market inquiries following public release of AGL’s
+proposed undertakings
+28 Apr 2006
+Closing date for submissions from interested parties
+29 May 2006
+Proposed announcement of ACCC findings
+15 May 2006
+Announcement of ACCC findings deferred to this date to allow market
+inquiries and assessment of joint merger proposal
+16 Jun 2006
+ACCC accepted undertakings from AGL
+
+
+6
+27.
+On 16 June 2006, the ACCC issued a media release announcing that it had
+accepted undertakings offered by AGL pursuant to section 87B of the Trade
+Practices Act 1974 in relation to AGL’s proposed acquisition of Alinta.
+28.
+The undertakings provided that AGL would do the following:
+complete a proposed demerger in accordance with the structures and asset
+allocations as described in its submission (subject to AGL shareholder
+approval). The demerger structure involved the structural separation of
+interests in the EGP and the MSP, as well as the structural separation of
+interests in the Parmelia pipeline from the DBNGP;
+ensure that two demerged corporate structures are ultimately established post-
+acquisition: an Infrastructure Company (‘Infrastructure Co’) and an Energy
+Company (‘Energy Co’).
+ensure there are no cross-shareholdings between the proposed Infrastructure
+Co and Energy Co;
+constitute Infrastructure Co and Energy Co as separately listed entities on the
+ASX with separate Boards and management; and
+put in place hold separate arrangements for the period prior to the demerger in
+order to ensure the separation of AGL’s interest in APT and Alinta’s interests
+in the EGP and DBNGP.
+29.
+The undertakings also provided that in the event that the demerger did not occur,
+AGL would divest its interest in APT and APL and the Agility contracts associated
+with the MSP and Parmelia pipelines and sufficient assets and capability from
+Agility to operate and service these contracts. AGL was also required to divest
+some other specified contracts. Detailed clauses set out the specifics of the
+divestment process.
+30.
+The undertakings ensured that all of the key competition issues were addressed. In
+particular, it ensured that there would be ownership and control separation of the
+pipelines suppling common areas. In particular, the undertakings would ensure
+complete separation of the EGP from the MSP and the Parmelia pipeline from the
+DBNGP. Further information regarding the competition analysis of aggregation of
+the various interests is available in the description of the other matters below.
+31.
+The undertakings are available on the ACCC website. The acquisition did not
+proceed.
+Alinta proposed acquisition of AGL
+32.
+The following table outlines the key events in relation to Alinta’s proposed
+acquisition of AGL.
+
+
+7
+29 Mar 2006
+Alinta provided draft s87B undertakings for public consultation
+30 Mar 2006
+Alinta provided a substantial submission on competition issues
+28 Apr 2006
+Market inquiries were completed
+31 May 2006
+Alinta formally offered revised undertakings
+16 Jun 2006
+ACCC released a Statement of Issues
+3 Jul 2006
+Market inquiries in relation to the Statement of Issues were completed
+3 Aug 2006
+Matter suspended from consideration, pending further information from
+Alinta
+33.
+The 16 June 2006 Statement of Issues also related to the Alinta-AGL Joint Merger
+Proposal. Details regarding the Statement of Issues and the key competition issues
+is supplied in the discussion of the Alinta-AGL Joint Merger Proposal below.
+34.
+This matter was withdrawn by Alinta and closed by the ACCC on 21 September
+2006. The acquisition did not proceed.
+Alinta-AGL Joint Merger Proposal
+35.
+Unlike AGL’s proposal to acquire Alinta and Alinta’s proposal to acquire AGL,
+the Alinta-AGL Joint Merger Proposal did proceed.
+36.
+The following table outlines the key events in relation to the Alinta AGL Joint
+Merger Proposal.
+04 May 2006
+Alinta submission on competition issues sent to ACCC
+24 May 2006
+Alinta offered revised draft s87B undertaking to ACCC
+24 May 2006
+ACCC commenced market inquiries in relation to revised draft s87B
+undertaking
+16 Jun 2006
+ACCC Issued Statement of Issues - market inquiries commenced
+03 Jul 2006
+Market inquiries in relation to Statement of Issues completed
+03 Aug 2006
+ACCC accepted undertakings from Alinta
+37.
+The following two diagrams show the proposed structure after the Alinta-AGL
+Joint Merger Proposal.
+
+
+8
+
+
+9
+38.
+In its Statement of Issues on 16 June 2006, the ACCC identified the following
+competition issues:
+Issues of concern
+common ownership of substantial interest in the entities which own the EGP
+and MSP with the aggregation of Agility and AAM as service providers for
+those pipelines;
+Issues that may raise concerns
+Aggregation of interests in the DBNGP, Parmelia pipeline and Goldfields
+pipelines, combined with the aggregation of Agility and AAM as service
+providers for those pipelines;
+Issues unlikely to pose concerns
+aggregation of asset management and infrastructure service provider
+companies (Agility and AAM);
+aggregation of interests in gas transmission pipelines in Queensland;
+aggregation of interest in electricity distribution networks in Victoria;
+aggregation of retail interests;
+aggregation of interests in electricity generation.
+39.
+On 3 August 2006, the ACCC issued a media release announcing that it had
+accepted undertakings offered by Alinta pursuant to section 87B of the TPA in
+relation to the Alinta-AGL Joint Merger Proposal. The undertakings alleviated the
+ACCC’s concerns as articulated in the Statement of Issues.
+40.
+In summary, the undertakings provided by Alinta in relation to the Alinta-AGL
+Joint Merger Proposal require:
+that Alinta divest any interest that it has in APT and APL by a specified
+confidential date;
+that Alinta divest the Agility contracts (Agility is currently a subsidiary of
+AGL) that involve supplying management and operational services to the
+MSP and Parmelia pipeline if required by the ACCC. Subsequently, on 29
+September 2006, the ACCC indicated that it would not relieve Alinta of the
+undertaking to divest the Agility contracts as it became apparent that the
+contracts would offer considerable scope for Alinta to control the pipelines.
+that Alinta abide by various hold separate and ring fencing commitments in
+relation to the MSP and Parmelia pipeline for the specific transitional period
+
+
+10
+during which the abovementioned divestments are required to occur, including
+a commitment by Alinta not to nominate or vote on APL board appointments.
+41.
+Market inquiries in relation to the Statement of Issues had confirmed that the
+issues listed in the 16 June 2006 Statement of Issues as issues unlikely to pose
+concerns, did not in fact raise significant competition issues. The ACCC noted
+that there would be likely to be infrastructure services providers other than Agility
+and AAM to compete to be the service providers for new gas and electricity
+infrastructure projects. The ACCC noted the aggregation of the interests in the
+transmission pipelines in Queensland did not remove any competitive dynamic,
+although regardless, Alinta’s commitment to divest APT removed any aggregation.
+The ACCC noted the natural monopoly characteristics of the Victorian electricity
+transmission businesses and the lack of a competitive dynamic prior to the
+acquisition.
+42.
+In relation to the retail interests, the ACCC noted the existence of other significant
+retail players along the eastern seaboard. In Western Australia, the ACCC noted
+AGL’s limited operations in that sphere. In relation to electricity generation, the
+ACCC noted that the acquisition did not appear to raise any significant horizontal
+aggregation issues or significant vertical competition issues that did not already
+exist prior to the acquisition.
+43.
+The ACCC did not consider that the aggregation of interests in the Goldfields
+pipeline and the DBNGP would substantially lessen competition in downstream
+gas and electricity markets. In particular, the ACCC noted the distance between
+the two pipelines and the relatively limited competitive dynamic created by
+generators in the south-west interconnected electricity system which are powered
+by gas from the Goldfields pipeline. The ACCC noted that Alinta offered to divest
+the interest in APT, which owned the majority of the Goldfields pipeline.
+However, Alinta intended to retain the Agility contract for the provision of
+operational and maintenance services to the Goldfields pipeline.
+Alinta’s subsequent proposal to retain an interest in APT and increase its interest in
+APT
+44.
+In August 2006, Alinta commenced acquiring APT shares. On 21 August 2006,
+Alinta lodged a Notice of Substantial Shareholder to the ASX, and by 22 August
+2006 had acquired a 10.25% unit-holding in APT. An application was made by
+APT to the Takeovers Panel in relation to this acquisition by Alinta.
+45.
+The ACCC did not need to take any action at this time, due to the existence of the
+signed 3 August 2006 undertakings from Alinta that committed Alinta to divesting
+any interest that it has in APT and APL by a specified confidential date.
+
+
+11
+46.
+The following table outlines the key events in relation to the Alinta AGL joint
+merger proposal.
+17 August 2006
+Alinta announced that it had acquired units in APT
+8 September 2006
+Draft 87B undertakings proffered by Alinta to replace the 3 August
+2006 undertakings. ACCC commenced market inquiries in relation to
+new undertakings.
+6 October 2006
+ACCC announced that it would not accept the 8 September offer of
+revised undertakings from Alinta. The 3 August 2006 undertakings
+therefore remained in force.
+6 November 2006
+ACCC commenced market inquiries in relation to new offer of
+revised undertakings by Alinta
+9 November 2006
+Market inquiries were completed in relation to 6 November offer of
+revised undertakings
+22 November 2006 Expected announcement of the ACCC's findings in relation to
+Alinta's 6 November offer of undertakings was delayed.
+27 November 2006 ACCC announced that it accepted replacement undertakings. The 27
+November 2006 undertakings replace the 3 August 2006
+undertakings.
+47.
+On 27 November 2006, the ACCC accepted new section 87B undertakings
+proposed by Alinta, to replace the Alinta-AGC Joint Merger Proposal undertakings
+(accepted on 3 August 2006). The new undertakings were materially similar to the
+previous undertaking given by Alinta on 3 August 2006, with the following key
+differentiating points:
+in the event that APT ceases to have any interest in the MSP, Parmelia
+pipeline and GasNet, Alinta’s commitment to divest APT falls away; and
+Alinta is permitted to vote on the appointment of new independent directors to
+the Board of the governing body of APT, APL. The undertakings specified in
+detail the definition of “independent director.”
+48.
+The ACCC accepted the revised undertakings recognising that the key competition
+issues arising from Alinta having an interest in APT arose only due to APT’s
+ownership of the MSP, Parmelia pipeline and GasNet, and not APT’s other assets.
+Therefore, the ACCC considered that if APT divested MSP, Parmelia pipeline and
+GasNet, then Alinta could retain any interest in APT. However, the ACCC was
+highly concerned about any influence that Alinta may have over APT in the period
+prior to any divestment. In particular, the ACCC was concerned about effects in
+the market for supply of wholesale gas to greater Sydney, due to the aggregation of
+Alinta’s interest in the EGP and APT’s interest in the MSP. The EGP and the
+MSP are the two key sources of gas for greater Sydney. The ACCC was also
+concerned about the effects in the market for the supply of wholesale gas to the
+Perth region, given the aggregation of interests in the DBNGP and the Parmelia
+
+
+12
+pipeline, the two key pipelines supplying greater Perth. Therefore, the final
+undertaking only permitted Alinta to appoint independent board members.
+49.
+In respect of APT’s intended interest in GasNet, the ACCC did consider that Alinta
+obtaining any interest in GasNet would raise competition concerns. The ACCC
+noted the competitive dynamic created by the interconnect between the GasNet
+system and APT’s MSP pipeline and associated laterals, which acts as route for gas
+from Gippsland to greater Sydney, and therefore creates a direct competitive
+dynamic for the EGP.
+50.
+After extensive market inquiries, the ACCC did not consider that Alinta obtaining
+a direct interest in APT’s other interests raised significant competition concerns.
+51.
+In respect of APT’s interest in the Goldfields pipeline, as stated above, the ACCC
+did not consider that the aggregation of interests in the Goldfields pipeline and the
+DBNGP would substantially lessen competition in downstream gas and electricity
+markets. In particular, the ACCC noted the distance between the two pipelines and
+the relatively limited competitive dynamic created by generators in the south-west
+interconnected electricity system which are powered by gas from the Goldfields
+pipeline. In relation to the northern WA regions where the Goldfields pipeline and
+DBNGP are proximately located and where Alinta has other interests, the ACCC
+noted the potential threat of new entry through the building of a new pipeline to
+significant customers in the area and the countervailing power of existing and
+potential new customers in that area.
+CONCLUSION
+52.
+The Alinta-AGL Joint Merger Proposal occurred on 25 October 2006, causing
+among other things, AGL’s interest in APT to move to Alinta.
+53.
+Alinta’s acquisition of AGL and AGL’s acquisition of Alinta did not proceed.
+54.
+Alinta acquired a further interest in APT, beyond the interest it acquired from
+AGL. Various legal disputes (not involving the ACCC) remain in relation to this
+interest.
+55.
+The 27 September 2006 undertaking applies to Alinta in relation to any interest
+that it has in APT. At the time of writing, it is unclear whether APT will divest
+MSP, the Parmelia pipeline and GasNet, and therefore it is still unclear whether
+Alinta will have to divest its interest in APT and APL.

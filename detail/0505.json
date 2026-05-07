@@ -1,0 +1,84 @@
+{
+  "id": "0505",
+  "title": "Wesfarmers Ltd - proposed acquisition of interests in Burrup Holdings Ltd and/or Burrup Fertilisers Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/wesfarmers-ltd-proposed-acquisition-of-interests-in-burrup-holdings-ltd-andor-burrup-fertilisers-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44579",
+  "industries": [
+    "Ammonia, Ammonium Nitrate"
+  ],
+  "date_completed": "27 July 2011",
+  "date_completed_iso": "2011-07-27T12:00:00Z",
+  "date_commenced": "15 February 2011",
+  "date_commenced_iso": "2011-02-15T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "Wesfarmers Ltd"
+  ],
+  "targets": [
+    "Burrup Fertilisers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Feb 2011",
+      "date_iso": "2011-02-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Mar 2011",
+      "date_iso": "2011-03-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Mar 2011",
+      "date_iso": "2011-03-09T12:00:00Z",
+      "event": "ACCC requested further information from Wesfarmers. Former proposed date for announcement of ACCC's findings of 14 April 2011, amended to allow for provision of further information."
+    },
+    {
+      "date": "21 Mar 2011",
+      "date_iso": "2011-03-21T12:00:00Z",
+      "event": "ACCC received further information from Wesfarmers. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Apr 2011",
+      "date_iso": "2011-04-07T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information requested from Burrup Holdings. Former proposed date of 28 April 2011 delayed to allow provision of information."
+    },
+    {
+      "date": "18 Apr 2011",
+      "date_iso": "2011-04-18T12:00:00Z",
+      "event": "ACCC received further information from Burrup Holdings. ACCC timeline recommenced."
+    },
+    {
+      "date": "11 May 2011",
+      "date_iso": "2011-05-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "20 May 2011",
+      "date_iso": "2011-05-20T12:00:00Z",
+      "event": "ACCC requested further information from Wesfarmers. Former proposed decision date of 23 June 2011 delayed. ACCC timeline suspended pending receipt of information requested."
+    },
+    {
+      "date": "30 May 2011",
+      "date_iso": "2011-05-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "4 Jul 2011",
+      "date_iso": "2011-07-04T12:00:00Z",
+      "event": "ACCC received further information from Wesfarmers. ACCC timeline recommenced."
+    },
+    {
+      "date": "27 Jul 2011",
+      "date_iso": "2011-07-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 17 December 2010, receivers were apppointed to Burrup Fertilisers Pty Ltd and certain shareholdings of its holding company, Burrup Holdings Ltd. Wesfarmers proposed to acquire all or part of Burrup Fertilisers Pty Ltd, its assets or the shares in Burrup Holdings Ltd.",
+    "Market definition": "Please see Public Competition Assessment.",
+    "Competition analysis": "Please see Public Competition Assessment."
+  }
+}

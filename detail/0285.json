@@ -1,0 +1,79 @@
+{
+  "id": "0285",
+  "title": "TPG Telecom Limited - proposed acquisition of iiNet Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tpg-telecom-limited-proposed-acquisition-of-iinet-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57015",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "20 August 2015",
+  "date_completed_iso": "2015-08-20T12:00:00Z",
+  "date_commenced": "2 April 2015",
+  "date_commenced_iso": "2015-04-02T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "TPG Telecom Limited"
+  ],
+  "targets": [
+    "iiNet Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Apr 2015",
+      "date_iso": "2015-04-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "23 Apr 2015",
+      "date_iso": "2015-04-23T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "30 Apr 2015",
+      "date_iso": "2015-04-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 May 2015",
+      "date_iso": "2015-05-08T12:00:00Z",
+      "event": "Former proposed decision date of 4 June 2015 delayed to give the merger parties more time to respond to the ACCC's information request."
+    },
+    {
+      "date": "11 May 2015",
+      "date_iso": "2015-05-11T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "11 Jun 2015",
+      "date_iso": "2015-06-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "2 Jul 2015",
+      "date_iso": "2015-07-02T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "8 Jul 2015",
+      "date_iso": "2015-07-08T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "24 Jul 2015",
+      "date_iso": "2015-07-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "20 Aug 2015",
+      "date_iso": "2015-08-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "TPG Telecom Limited proposed to acquire iiNet Limited.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

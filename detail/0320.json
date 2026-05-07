@@ -1,0 +1,58 @@
+{
+  "id": "0320",
+  "title": "Reckitt Benckiser Brands Limited - proposed acquisition of K-Y brand from Johnson & Johnson",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/reckitt-benckiser-brands-limited-proposed-acquisition-of-k-y-brand-from-johnson-johnson",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54656",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "2 October 2014",
+  "date_completed_iso": "2014-10-02T12:00:00Z",
+  "date_commenced": "22 May 2014",
+  "date_commenced_iso": "2014-05-22T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Reckitt Benckiser Brands Limited"
+  ],
+  "targets": [
+    "K-Y brand from Johnson & Johnson"
+  ],
+  "timeline": [
+    {
+      "date": "22 May 2014",
+      "date_iso": "2014-05-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "12 Jun 2014",
+      "date_iso": "2014-06-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "27 Jun 2014",
+      "date_iso": "2014-06-27T12:00:00Z",
+      "event": "Former proposed decision date of 17 July 2014 delayed to allow provision of requested information from Reckitt Benckiser and Johnson & Johnson."
+    },
+    {
+      "date": "15 Aug 2014",
+      "date_iso": "2014-08-15T12:00:00Z",
+      "event": "Review suspended as Reckitt Benckiser requested more time to provide additional information to the ACCC (including information requested by the ACCC on 27 June 2014)."
+    },
+    {
+      "date": "11 Sep 2014",
+      "date_iso": "2014-09-11T12:00:00Z",
+      "event": "ACCC received further information from Reckitt Benckiser."
+    },
+    {
+      "date": "2 Oct 2014",
+      "date_iso": "2014-10-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a national market for the supply of personal lubricant products. The ACCC's review focussed on the competition effects of the proposed acquisition on the supply of personal lubricant products to the grocery (e.g. supermarket) and pharmacy channels. Reckitt Benckiser's Durex range of personal lubricant products and the K-Y range of personal lubricant products are predominantly sold via these channels. Given the ACCC's findings on the alternative options and competitive constraints which would apply to the supply of personal lubricant products via these channels, it was not necessary for the ACCC to determine whether the supply of personal lubricant products to the grocery/pharmacy channels constitute a separate market or whether sales via these channels fell within a broader market encompassing the supply of personal lubricant products via all channels (including online and adult stores).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the supply of personal lubricant products. Post-acquisition Reckitt Benckiser, through the Durex and K-Y brands, would have a large share of personal lubricant product sales via the grocery and pharmacy channels. However, the ACCC concluded that there would continue to be alternative suppliers, such as Ansell and Four Seasons, available to customers. Information provided by market participants also indicated that supermarkets and pharmacies stock a range of brands and have demonstrated a willingness to stock new product lines, including products supplied by smaller suppliers such as Wet Stuff and Sylk. In assessing the competitive overlap between Durex and K-Y in the grocery and pharmacy channels, the ACCC also concluded that the Durex and K-Y product lines were not particularly close competitors due to differences in packaging, marketing and target customers. Market feedback indicated that Ansell was a closer competitor to K-Y and that the products supplied by smaller suppliers, which are also stocked in major supermarkets and pharmacies, were also considered likely to provide an important competitive constraint on Reckitt Benckiser. The ACCC also examined whether the proposed acquisition would raise any conglomerate concerns as a result of the addition of the K-Y brand to Reckitt Benckiser's large portfolio of well-known consumer brands (including Nurofen and Dettol). However, the ACCC determined that the proposed acquisition was unlikely to raise any competition concerns as a result of the addition of K-Y to Reckitt Benckiser's portfolio."
+  }
+}

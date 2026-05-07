@@ -1,0 +1,74 @@
+{
+  "id": "0420",
+  "title": "Woolworths Limited and Lowe's Companies Inc (Joint Venture) - proposed acquisition of G Gay & Co hardware stores",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-and-lowes-companies-inc-joint-venture-proposed-acquisition-of-g-gay-co-hardware-stores",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47851",
+  "industries": [
+    "Hardware retailing"
+  ],
+  "date_completed": "4 October 2012",
+  "date_completed_iso": "2012-10-04T12:00:00Z",
+  "date_commenced": "13 February 2012",
+  "date_commenced_iso": "2012-02-13T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "Woolworths Limited and Lowe's Companies Inc (Joint Venture)"
+  ],
+  "targets": [
+    "G Gay & Co"
+  ],
+  "timeline": [
+    {
+      "date": "13 Feb 2012",
+      "date_iso": "2012-02-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Feb 2012",
+      "date_iso": "2012-02-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Mar 2012",
+      "date_iso": "2012-03-09T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 22 March 2012 delayed."
+    },
+    {
+      "date": "3 May 2012",
+      "date_iso": "2012-05-03T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 May 2012",
+      "date_iso": "2012-05-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "1 Jun 2012",
+      "date_iso": "2012-06-01T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "22 Jun 2012",
+      "date_iso": "2012-06-22T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "19 Sep 2012",
+      "date_iso": "2012-09-19T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "4 Oct 2012",
+      "date_iso": "2012-10-04T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In February 2012, Woolworths Limited informed the ACCC that Woolworths Limited and Lowe's Companies Inc through HTH Stores Pty Limited proposed to acquire from G Gay & Co all the business assets and certain liabilities associated with the businesses of Home Hardware Ballarat, Home Hardware Wendouree and Ballarat Building Suppliers. Following a public review, on 4 October 2012 the ACCC announced that it would oppose the acquisition.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

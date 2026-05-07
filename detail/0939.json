@@ -1,0 +1,45 @@
+{
+  "id": "0939",
+  "title": "Illyria Pty Limited and Consolidated Press Holdings Limited - proposed acquisition of Consolidated Media Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/illyria-pty-limited-and-consolidated-press-holdings-limited-proposed-acquisition-of-consolidated-media-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30941",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "7 April 2008",
+  "date_completed_iso": "2008-04-07T12:00:00Z",
+  "date_commenced": "15 February 2008",
+  "date_commenced_iso": "2008-02-15T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Illyria Pty Limited and Consolidated Press Holdings Limited"
+  ],
+  "targets": [
+    "Consolidated Media Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2008",
+      "date_iso": "2008-01-22T12:00:00Z",
+      "event": "The ACCC began monitoring the proposal while awaiting a submission from the parties."
+    },
+    {
+      "date": "15 Feb 2008",
+      "date_iso": "2008-02-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Mar 2008",
+      "date_iso": "2008-03-07T12:00:00Z",
+      "event": "Following the announcement to the ASX made by CMH on 6 March 2008, the ACCC has paused its assessment of the proposal pending receipt of further information regarding the status of the proposal."
+    },
+    {
+      "date": "7 Apr 2008",
+      "date_iso": "2008-04-07T12:00:00Z",
+      "event": "CMH announced to the ASX that the proposal had been withdrawn. ACCC review concluded with no decision made."
+    }
+  ],
+  "body_sections": {}
+}

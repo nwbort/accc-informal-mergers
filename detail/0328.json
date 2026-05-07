@@ -1,0 +1,74 @@
+{
+  "id": "0328",
+  "title": "Hertz Global Holdings Inc - acquisition of Dollar Thrifty Automotive Group Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hertz-global-holdings-inc-acquisition-of-dollar-thrifty-automotive-group-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49737",
+  "industries": [
+    "Car rental"
+  ],
+  "date_completed": "8 August 2014",
+  "date_completed_iso": "2014-08-08T12:00:00Z",
+  "date_commenced": "14 September 2012",
+  "date_commenced_iso": "2012-09-14T12:00:00Z",
+  "total_review_days": 457,
+  "acquirers": [
+    "Hertz Global Holdings Inc"
+  ],
+  "targets": [
+    "Dollar Thrifty Automotive Group Inc"
+  ],
+  "timeline": [
+    {
+      "date": "14 Sep 2012",
+      "date_iso": "2012-09-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Oct 2012",
+      "date_iso": "2012-10-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Oct 2012",
+      "date_iso": "2012-10-19T12:00:00Z",
+      "event": "ACCC requested further information from Hertz. ACCC timeline suspended. Former proposed decision date of 1 November 2012 delayed pending receipt of information requested."
+    },
+    {
+      "date": "29 Oct 2012",
+      "date_iso": "2012-10-29T12:00:00Z",
+      "event": "ACCC received further information from the merger parties following the ACCC's request for information on 19 October 2012."
+    },
+    {
+      "date": "1 Nov 2012",
+      "date_iso": "2012-11-01T12:00:00Z",
+      "event": "ACCC requested further information from Hertz. ACCC timeline remains suspended. Former proposed decision date of 1 November 2012 delayed pending receipt of information requested."
+    },
+    {
+      "date": "9 Nov 2012",
+      "date_iso": "2012-11-09T12:00:00Z",
+      "event": "ACCC received further information from Hertz following the ACCC's request for further information on 1 November 2012."
+    },
+    {
+      "date": "20 Nov 2012",
+      "date_iso": "2012-11-20T12:00:00Z",
+      "event": "Hertz completed the acquisition."
+    },
+    {
+      "date": "16 Dec 2012",
+      "date_iso": "2012-12-16T12:00:00Z",
+      "event": "Hertz and ACCC commenced negotiations on draft s87B undertaking and amendments to Licence Agreement offered by Hertz."
+    },
+    {
+      "date": "8 Aug 2014",
+      "date_iso": "2014-08-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition, subject to undertakings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 20 November 2012, Hertz Global Holdings Inc acquired Dollar Thrifty Automotive Group Inc. In Australia, Dollar Thrifty licences the 'Thrifty' brand to Kingmill Pty Ltd, a wholly owned subsidiary of NRMA Motoring and Services Group, under a licence agreement. The ACCC assessed the impact on competition on the basis of the original licence agreement, which provided Hertz with the ability to exercise influence or a degree of control over the Thrifty brand in Australia and have access to commercially competitively sensitive information about the operation of the Thrifty brand in Australia.",
+    "Market definition": "The ACCC considered the competitive effects of the acquisition in the context of: -   the market(s) for on-airport passenger vehicle rentals; and -   the market(s) for off-airport passenger vehicle rentals. The ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "In relation to the market for off-airport passenger vehicle rentals, the ACCC considered that competition concerns were unlikely to materialise as Hertz would continue to be competitively constrained by a number of major national companies and many local car rental companies. In relation to the market(s) for on-airport passenger vehicle rentals, the ACCC considered that the acquisition raised a number of competition concerns. The ACCC noted that market participants raised a variety of competition concerns should the acquisition provide Hertz with the ability to influence control over Thrifty in Australia. The ACCC found that barriers to entry for establishing on-airport operations were high, in particular given the existence of network effects, difficulties in accessing parking sites and well established incumbent operators at on-airport locations. The ACCC considered that the acquisition would likely reduce the competitive tension between Hertz and Thrifty and potentially result in Thrifty ceasing to be an independent competitor of Hertz. The ACCC also identified that the acquisition could potentially provide Hertz with a competitive advantage through access to commercially sensitive information about Thrifty through the licence agreement, particularly in relation to Thrifty's pricing structures and marketing strategies. The ACCC also considered that the significant market share that Hertz would have post-acquisition may increase its bargaining power with airports to allow it to secure superior terms in comparison to its rivals, including by exerting pressure on airports to reduce the number of spaces available to other rental companies of potential new entrants. Finally, the ACCC considered that the removal of Thrifty as an independent competitor would increase the potential for coordinated conduct between Hertz and Thrifty, and the market more generally. In order to address these concerns, Hertz offered the ACCC a section 87B undertaking and proposed amendments to the Licence Agreement that governs the relationship between it and the existing Australian Thrifty licensee (Kingmill). The ACCC was satisfied that the section 87B undertaking provided by Hertz and the Licence Agreement amendments would remedy the potential competition concerns identified in the market(s) for on-airport passenger vehicle rentals by preserving the pre-existing independence of the Thrifty licensee in Australia for the foreseeable future. The ACCC considered that this would maintain competitive dynamics in the relevant markets that existed prior to the acquisition. On 29 July 2014, the ACCC accepted the 87B undertaking offered by Hertz and announced that it would not oppose the acquisition. The amendments to the Licence Agreement had been previously agreed between Hertz and Kingmill on 2 June 2014."
+  }
+}

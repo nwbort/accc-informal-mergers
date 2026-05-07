@@ -1,0 +1,74 @@
+{
+  "id": "0438",
+  "title": "FrameCad - acquisition of Quik Series",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/framecad-acquisition-of-quik-series",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47469",
+  "industries": [
+    "Software"
+  ],
+  "date_completed": "4 July 2012",
+  "date_completed_iso": "2012-07-04T12:00:00Z",
+  "date_commenced": "5 March 2012",
+  "date_commenced_iso": "2012-03-05T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "FrameCad"
+  ],
+  "targets": [
+    "Quik Series"
+  ],
+  "timeline": [
+    {
+      "date": "5 Mar 2012",
+      "date_iso": "2012-03-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Mar 2012",
+      "date_iso": "2012-03-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Apr 2012",
+      "date_iso": "2012-04-13T12:00:00Z",
+      "event": "ACCC has requested further information from the merger parties."
+    },
+    {
+      "date": "3 May 2012",
+      "date_iso": "2012-05-03T12:00:00Z",
+      "event": "ACCC received further information from the vendor."
+    },
+    {
+      "date": "8 May 2012",
+      "date_iso": "2012-05-08T12:00:00Z",
+      "event": "ACCC received further information from Framecad."
+    },
+    {
+      "date": "15 May 2012",
+      "date_iso": "2012-05-15T12:00:00Z",
+      "event": "ACCC has requested further information from the merger parties."
+    },
+    {
+      "date": "1 Jun 2012",
+      "date_iso": "2012-06-01T12:00:00Z",
+      "event": "ACCC received further information from Framecad."
+    },
+    {
+      "date": "18 Jun 2012",
+      "date_iso": "2012-06-18T12:00:00Z",
+      "event": "ACCC received further information from the vendor."
+    },
+    {
+      "date": "4 Jul 2012",
+      "date_iso": "2012-07-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The completed acquisition involved software know as Quik Series, which is used with roll-form machinery to manufacture light gauge steel framing and related products (steel frames) for housing.",
+    "Market definition": "The ACCC considered the competition effects of the completed acquisition in the following markets: - the national market for the supply of software that incorporates design and engineering functions (as opposed to design only software), for steel frame manufacturing; - the national market for the manufacture and supply of roll-form machinery for steel frame manufacturing; and - local or regional markets for the manufacture and supply of steel frames.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to substantially lessen competition in any of the relevant markets. In relation to the market for the supply of software, the ACCC considered that Framecad and Quik Series were not competing closely to sell unbundled software to customers purchasing unbundled roll-form machines, nor were they competing closely to sell bundled products. Accordingly, the ACCC considered that there were unlikely to be any significant horizontal effects resulting from the completed acquisition that would substantially lessen competition in the software market. The ACCC also considered whether Framecad would have the ability and incentive to increase prices or withhold supply of the Quik Series software to customers or rivals in the market for the manufacture and supply of roll-form machinery and the markets for the manufacture and supply of steel frames. The ACCC found that Framecad would not have market power in the software market, and this would prevent it from implementing a foreclosure strategy in either downstream market. In particular, the ACCC concluded that Framecad was unlikely to have the ability and incentive to implement a foreclosure strategy for the following reasons: - barriers to entry and expansion in the software market were sufficiently low that Framecad would be constrained effectively by actual new entry, or the credible threat of new entry, for the supply of unbundled software; - existing users of the Quik Series software would continue to have a number of alternative options, including other providers of software and roll-form machinery; - some manufacturers of roll-form machinery and large manufacturers of steel frames were vertically integrated and had developed (or had the ability to develop) their own software in-house; and - most parties that were not users of the Quik Series software would be unaffected by the completed acquisition as they often relied upon alternatives to the software. In light of the above constraints, the ACCC decided not to oppose the completed acquisition."
+  }
+}

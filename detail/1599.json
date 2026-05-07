@@ -1,0 +1,30 @@
+{
+  "id": "1599",
+  "title": "Acquirer: eBet Ltd; Target: Turbo Bonus",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ebet-ltd-target-turbo-bonus",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16860",
+  "industries": [],
+  "date_completed": "4 November 2002",
+  "date_completed_iso": "2002-11-04T12:00:00Z",
+  "date_commenced": "21 October 2002",
+  "date_commenced_iso": "2002-10-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "eBet Ltd"
+  ],
+  "targets": [
+    "Turbo Bonus"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of Turbo Bonus by eBet Limited",
+    "Market definition": "State based markets for in-venue gaming and promotional management systems",
+    "Competition analysis": "On 4 November 2002 the Commission considered that the proposed acquisition is unlikely to substantially lessen competition in any relevant market for the following reasons: the availability of alternative products; the demonstrated ability of smaller competitors in the market to outbid or win customers from larger competitors; the scope for international firms to penetrate the market; and the degree of countervailing power possessed by purchasers of in-venue gaming and promotional management services.",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2849"
+  }
+}

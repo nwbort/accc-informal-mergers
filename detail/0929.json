@@ -1,0 +1,44 @@
+{
+  "id": "0929",
+  "title": "Transpacific Industries Group Ltd - completed acquisition of Hunter Waste",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-completed-acquisition-of-hunter-waste",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31663",
+  "industries": [
+    "Waste services"
+  ],
+  "date_completed": "29 April 2008",
+  "date_completed_iso": "2008-04-29T12:00:00Z",
+  "date_commenced": "8 April 2008",
+  "date_commenced_iso": "2008-04-08T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Hunter Waste"
+  ],
+  "timeline": [
+    {
+      "date": "8 Apr 2008",
+      "date_iso": "2008-04-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Apr 2008",
+      "date_iso": "2008-04-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Apr 2008",
+      "date_iso": "2008-04-29T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific has acquired from Ron J Hunter & Sons Pty Ltd the businesses trading as Hunter's Septic Tank Cleaning, Hunter Waste, Leongatha Septic Tank Cleaning Services and Traralgon Septic Cleaning.",
+    "Market definition": "The ACCC considered the competitive effects of the completed acquisition in the context of markets for non-hazardous liquid waste collection in the South Gippsland region of Victoria.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in the relevant markets since Transpacific had not been actively servicing the geographic area."
+  }
+}

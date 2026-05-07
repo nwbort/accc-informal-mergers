@@ -1,0 +1,48 @@
+{
+  "id": "1248",
+  "title": "Adelaide Brighton Ltd - proposed acquisition of Loongana Lime Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adelaide-brighton-ltd-proposed-acquisition-of-loongana-lime-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24779",
+  "industries": [
+    "Limestone and quicklime"
+  ],
+  "date_completed": "8 August 2006",
+  "date_completed_iso": "2006-08-08T12:00:00Z",
+  "date_commenced": "13 June 2006",
+  "date_commenced_iso": "2006-06-13T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Adelaide Brighton Ltd"
+  ],
+  "targets": [
+    "Loongana Lime Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Jun 2006",
+      "date_iso": "2006-06-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "14 Jul 2006",
+      "date_iso": "2006-07-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "28 Jul 2006",
+      "date_iso": "2006-07-28T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings.  Decision delayed to allow further market inquiries to be conducted."
+    },
+    {
+      "date": "8 Aug 2006",
+      "date_iso": "2006-08-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the acquisition in the context of the market for crushed limestone in the Kalgoorlie region and the market for quicklime in Western Australia.",
+    "Competition analysis": "ABL sought to acquire Loongana's limestone quarry assets. It did not seek to acquire Loongana's quicklime facilities.  Market enquiries indicated that the closure of Loongana's quicklime facilities occurred independently of ABL's proposed acquisition. As part of its investigation into the proposed acquisition, the ACCC contacted a number of market participants in the industry including customers, competitors and potential competitors to assess the impact of the proposed acquisition. The ACCC determined that the acquisition was not likely to substantially lessen competition in relation to the relevant market for crushed limestone, as market inquiries indicated that ABL was not a significant competitor to Loongana in this area of activity. In relation to the market for quicklime in Western Australia, market inquiries indicated that absent the acquisition, Loongana's limestone quarry assets were not likely to have been utilised to create a strong and vigorous competitor to ABL and accordingly, the acquisition was unlikely to cause a substantial lessening of competition."
+  }
+}

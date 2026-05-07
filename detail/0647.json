@@ -1,0 +1,44 @@
+{
+  "id": "0647",
+  "title": "Valmont Group Pty Limited - proposed acquisition of Delta plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/valmont-group-pty-limited-proposed-acquisition-of-delta-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41158",
+  "industries": [
+    "Electricity transmission support structures"
+  ],
+  "date_completed": "13 April 2010",
+  "date_completed_iso": "2010-04-13T12:00:00Z",
+  "date_commenced": "12 March 2010",
+  "date_commenced_iso": "2010-03-12T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Valmont Group Pty Limited"
+  ],
+  "targets": [
+    "Delta plc"
+  ],
+  "timeline": [
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Apr 2010",
+      "date_iso": "2010-04-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Apr 2010",
+      "date_iso": "2010-04-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Valmont Group Pty Ltd made a cash offer for all of the outstanding shares of Delta plc.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. However, for the purpose of conducting this review, the ACCC considered the proposed acquisition in the context of the national market for the supply of transmission support structures.",
+    "Competition analysis": "The ACCC considered that post acquisition there would be alternative international steel monopole suppliers which would likely offer a direct constraint on the merged entity. Additionally, the ACCC noted that concrete monopoles and steel lattices would also be likely to impose some degree of competitive constraint on the merged entity post acquisition. The ACCC therefore formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market."
+  }
+}

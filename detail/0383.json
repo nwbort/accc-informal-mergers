@@ -1,0 +1,84 @@
+{
+  "id": "0383",
+  "title": "H J Heinz Company Australia Limited - proposed acquisition of Rafferty's Garden Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/h-j-heinz-company-australia-limited-proposed-acquisition-of-raffertys-garden-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49980",
+  "industries": [
+    "Infant food"
+  ],
+  "date_completed": "5 June 2013",
+  "date_completed_iso": "2013-06-05T12:00:00Z",
+  "date_commenced": "29 October 2012",
+  "date_commenced_iso": "2012-10-29T12:00:00Z",
+  "total_review_days": 101,
+  "acquirers": [
+    "H J Heinz Company Australia Limited"
+  ],
+  "targets": [
+    "Rafferty's Garden Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Oct 2012",
+      "date_iso": "2012-10-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Nov 2012",
+      "date_iso": "2012-11-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Nov 2012",
+      "date_iso": "2012-11-22T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended and the former proposed decision date of 6 December 2012 delayed pending receipt of the information."
+    },
+    {
+      "date": "20 Dec 2012",
+      "date_iso": "2012-12-20T12:00:00Z",
+      "event": "ACCC received further information from the merger parties following ACCC's request for information on 22 November 2012. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Feb 2013",
+      "date_iso": "2013-02-07T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "28 Feb 2013",
+      "date_iso": "2013-02-28T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "28 Feb 2013",
+      "date_iso": "2013-02-28T12:00:00Z",
+      "event": "Former proposed decision date of 21 March 2013 delayed at the request of Heinz to allow the merger parties to provide further information."
+    },
+    {
+      "date": "14 Mar 2013",
+      "date_iso": "2013-03-14T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced. Former proposed decision date of 21 March 2013 postponed to allow the ACCC time to consider the further information."
+    },
+    {
+      "date": "17 May 2013",
+      "date_iso": "2013-05-17T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of Heinz to allow it to provide further information. Former proposed decision date of 23 May 2013 delayed."
+    },
+    {
+      "date": "28 May 2013",
+      "date_iso": "2013-05-28T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of Rafferty's Garden to allow it to provide further information. Former proposed decision date of 30 May 2013 delayed."
+    },
+    {
+      "date": "6 Jun 2013",
+      "date_iso": "2013-06-06T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "H J Heinz Company Australia Limited proposed to acquire Rafferty's Garden Pty Ltd. Following a public review, on 6 June 2013, the ACCC announced that it would oppose the proposed acquisition.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

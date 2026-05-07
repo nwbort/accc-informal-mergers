@@ -1,0 +1,42 @@
+{
+  "id": "0136",
+  "title": "Ampelite Australia Pty Ltd - FGW Corporation Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ampelite-australia-pty-ltd-fgw-corporation-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Construction material"
+  ],
+  "date_completed": "19 November 2020",
+  "date_completed_iso": "2020-11-19T12:00:00Z",
+  "date_commenced": "6 October 2020",
+  "date_commenced_iso": "2020-10-06T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Ampelite Australia Pty Ltd"
+  ],
+  "targets": [
+    "FGW Corporation Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Oct 2020",
+      "date_iso": "2020-10-06T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Oct 2020",
+      "date_iso": "2020-10-20T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "19 Nov 2020",
+      "date_iso": "2020-11-19T12:00:00Z",
+      "event": "ACCC discontinued its public review after Ampelite and FGW withdrew their application for informal merger clearance."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ampelite Australia Pty Ltd (Ampelite) proposes to merge with FGW Corporation Pty Ltd (FGW), by creating a new entity to acquire and operate the Ampelite WA business and the FGW business. The parties overlap in the supply of fibreglass and polycarbonate roof sheeting products in Western Australia."
+  }
+}

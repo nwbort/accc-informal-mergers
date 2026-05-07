@@ -1,0 +1,32 @@
+{
+  "id": "1463",
+  "title": "Acquirer: Macquarie Bank Limited; Target: DMG Regional Radio Pty Ltd, RG Capital Radio Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-macquarie-bank-limited-target-dmg-regional-radio-pty-ltd-rg-capital-radio-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20148",
+  "industries": [],
+  "date_completed": "9 September 2004",
+  "date_completed_iso": "2004-09-09T12:00:00Z",
+  "date_commenced": "9 August 2004",
+  "date_commenced_iso": "2004-08-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Macquarie Bank Limited"
+  ],
+  "targets": [
+    "DMG Regional Radio Pty Ltd, RG Capital Radio Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of RG Capital Radio and DMG Regional Radio by Macquarie Bank Ltd.",
+    "Market definition": "The Commission considered the acquisition was likely to involve the (separate) local markets for advertising on commercial broadcast radio within each of radio licence areas of: \" Albury; \" Cairns; \" Mackay; \" Rockhampton; and \" Townsville",
+    "Competition analysis": "The Commission decided that the acquisitions of RG Capital Radio Limited and DMG Regional Radio Pty Ltd by MBL would have the effect, or be likely to have the effect, of substantially lessening competition in the local markets for advertising on commercial broadcast radio within each of  the Albury, Cairns, Mackay, Rockhampton and Townsville radio licence areas. However, following the acceptance of court enforceable undertakings from MBL for the divestiture of one commercial broadcasting radio station in each of Albury, Cairns and Mackay and two radio stations in each of Rockhampton and Townsville the Commission decided not to oppose the acquisitions pursuant to Section 50 of the Trade Practices Act 1974. See Public Competition Assessment for further competition analysis.",
+    "Resolution": "Undertakings",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "9121"
+  }
+}

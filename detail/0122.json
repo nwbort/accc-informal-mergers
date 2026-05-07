@@ -1,0 +1,54 @@
+{
+  "id": "0122",
+  "title": "Bunnings Group Limited  - R J Beaumont & Co Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bunnings-group-limited-r-j-beaumont-co-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Building construction - Tiles"
+  ],
+  "date_completed": "30 September 2021",
+  "date_completed_iso": "2021-09-30T12:00:00Z",
+  "date_commenced": "19 May 2021",
+  "date_commenced_iso": "2021-05-19T12:00:00Z",
+  "total_review_days": 51,
+  "acquirers": [
+    "Bunnings Group Limited"
+  ],
+  "targets": [
+    "R J Beaumont & Co Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 May 2021",
+      "date_iso": "2021-05-19T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Jun 2021",
+      "date_iso": "2021-06-04T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Jul 2021",
+      "date_iso": "2021-07-01T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former proposed decision date of 5 August 2021 delayed. ACCC timeline suspended in the interim."
+    },
+    {
+      "date": "1 Sep 2021",
+      "date_iso": "2021-09-01T12:00:00Z",
+      "event": "ACCC timeline recommenced. Proposed decision date set for 30 September 2021."
+    },
+    {
+      "date": "30 Sep 2021",
+      "date_iso": "2021-09-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bunnings Group Limited's ( Bunnings ) proposed acquisition of R J Beaumont & Co Pty Limited ( Beaumont Tiles ). Bunnings is a retailer of home improvement and outdoor living products. Beaumont Tiles is a specialist tile retailer and franchise operator, with a commercial sales business.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in markets for the retail supply of tiles and tiling ancillaries (such as glues, grouts, sealants and tools). The ACCC considered competition at national, regional and local levels. The ACCC did not reach concluded views on the precise definitions of the markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that Bunnings’ proposed acquisition of Beaumont Tiles is not likely to substantially lessen competition. Horizontal effects Beaumont Tiles is Australia’s largest tile retailer and Bunnings is large nationally. However, there are significant differences between the offerings of specialist retailers and Bunnings, meaning that specialist tile retailers, like Beaumont Tiles, compete most closely with each other and are more important to competition in tile retailing. While Bunnings’ aggregated sales of tiles are significant, its sales on a per-store basis tend to be quite small and mainly to Do-It-Yourself and similar customers ‘off the shelf’. In comparison, Beaumont Tiles and other specialist tile retailers offer a much more extensive range exhibited through dedicated tile showrooms, and they offer additional important services, such as design advice and referral to tilers. They generally also deliver tiles to customers. Some specialist retailers also have stronger relationships with larger builders, particularly residential builders, which typically involves delivering tiles directly to work sites. Post-acquisition, other significant competitors, as well as smaller competitors, will remain in most urban areas and will continue to compete with a combined Bunnings/Beaumont Tiles. This includes larger chains like National Tiles, regional-level chains in some states, large single-site retailers in some state capitals, online retailers and a large number of small individual retailers. Conglomerate and other foreclosure effects The ACCC also considered whether, over the long term, a combined Bunnings/Beaumont Tiles may frustrate or hinder rivals from readily accessing some inputs or a significant group of customers, for example through bundling products, potentially leading to a reduction in competition. The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in relation to inputs, as there is a range of alternative manufacturers and suppliers of tiles globally and most tiles sold in Australia are imported. In relation to the potential for competitors to be frustrated or hindered from accessing customers, the ACCC noted that there is a very diverse customer base for tiles in Australia, including customers who do not require any hardware or building products beyond tiles and tiling ancillaries. This means that, even if a bundling strategy was adopted, there will remain a large proportion of customers who are not interested in a bundled offer, limiting any potential anti-competitive effect."
+  }
+}

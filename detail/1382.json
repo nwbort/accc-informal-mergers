@@ -1,0 +1,25 @@
+{
+  "id": "1382",
+  "title": "Lufthansa - proposed acquisition of Swiss International Air Lines",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lufthansa-proposed-acquisition-of-swiss-international-air-lines",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21969",
+  "industries": [
+    "International air transport"
+  ],
+  "date_completed": "5 July 2005",
+  "date_completed_iso": "2005-07-05T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Lufthansa proposed to acquire all of the issued shares of Swiss International Air Lines and sought informal clearance from the ACCC in relation to the acquisition. The matter was also considered by the European Commission.",
+    "Market definition": "The Commission considered the relevant market to be the markets for international air travel and international air freight between Asia and Australia and Europe and Australia.",
+    "Competition analysis": "Swiss Air and Lufthansa have code share arrangements with other carriers on flights between Australia and each of Bangkok, Frankfurt and Singapore. On each of these routes the merged entity would have a market share of between one and ten per cent post-acquisition and there are several other large international carriers including Qantas Airways, Singapore Airlines and Thai International who fly these routes. On this basis the ACCC considered that the acquisition would be unlikely to raise competition concerns.",
+    "Initiation": "Parties"
+  }
+}

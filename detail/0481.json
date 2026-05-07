@@ -1,0 +1,44 @@
+{
+  "id": "0481",
+  "title": "Woolworths Limited and Lowe's Companies Inc (Joint Venture) - proposed acquisition of Tait Timber and Hardware Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-and-lowes-companies-inc-joint-venture-proposed-acquisition-of-tait-timber-and-hardware-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47183",
+  "industries": [
+    "Hardware"
+  ],
+  "date_completed": "15 November 2011",
+  "date_completed_iso": "2011-11-15T12:00:00Z",
+  "date_commenced": "20 October 2011",
+  "date_commenced_iso": "2011-10-20T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Woolworths Limited and Lowe's Companies Inc (Joint Venture)"
+  ],
+  "targets": [
+    "Tait Timber and Hardware Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2011",
+      "date_iso": "2011-10-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Nov 2011",
+      "date_iso": "2011-11-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Nov 2011",
+      "date_iso": "2011-11-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited and Lowe's Companies Inc through Blue Mountains Hardware Pty Ltd (the joint venture) proposed to acquire all interests and assets associated with the business of Tait Timber and Hardware Pty Ltd (Tait Timber). Tait Timber operated two retail hardware and home improvement stores in Glen Iris and Somerville, that traded under the Home Hardware banner. The joint venture's interests included: -\tDanks, a wholesale distributor of hardware products and related services; and -\tMasters, a retail big box home improvement offering.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the retail sale of hardware and home improvement products in various product categories in the following local markets: -\tGlen Iris -\tSomerville. The joint venture proposed to construct three Masters stores within the Glen Iris market and owned the Flatman's Timber and Hardware store at Mt Waverley operated under the Home Hardware banner. The joint venture did not own, or propose to construct, any stores in the Somerville market.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: There was no overlap between the joint venture and Tait Timber's operations in the Somerville local market. In relation to the Glen Iris market the ACCC found that: - It was unlikely that Tait Timber would be a close competitor to the proposed Masters big box stores due to the different product and customer focus of the stores. The proposed Masters big box stores targeted do-it-yourself customers while Tait Timber's operations were largely trade focused specialising in timber and flooring. - There were a number of competing retailers supplying hardware and home improvement products in the Glen Iris market."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0716",
+  "title": "Nufarm Limited - completed acquisition of AH Marks Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nufarm-limited-completed-acquisition-of-ah-marks-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32660",
+  "industries": [
+    "Herbicide chemicals"
+  ],
+  "date_completed": "19 August 2009",
+  "date_completed_iso": "2009-08-19T12:00:00Z",
+  "date_commenced": "12 June 2008",
+  "date_commenced_iso": "2008-06-12T12:00:00Z",
+  "total_review_days": 164,
+  "acquirers": [
+    "Nufarm Limited"
+  ],
+  "targets": [
+    "AH Marks Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Mar 2008",
+      "date_iso": "2008-03-05T12:00:00Z",
+      "event": "Nufarm Limited acquired all shares in AH Marks Holdings Limited."
+    },
+    {
+      "date": "12 Jun 2008",
+      "date_iso": "2008-06-12T12:00:00Z",
+      "event": "ACCC became aware of the completed acquisition. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Aug 2009",
+      "date_iso": "2009-08-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC requested further information from Nufarm on 5 occasions during this review, resulting in the timeline being suspended for 135 business days."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 5 March 2008 Nufarm Limited (Nufarm) acquired all shares in AH Marks Holdings Limited (AH Marks), a UK based manufacturer and supplier of phenoxy herbicides. Pre-acquisition AH Marks supplied phenoxy herbicides to Australia under chemical registrations held by its Australian subsidiary AH Marks Australia Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the completed acquisition in the context of the national markets for the manufacture and supply of: - MCPA active ingredients (including MCPA technical acid and MCPA 2-ethylhexyl ester); - 2,4-D active ingredients; and - straight MCPA formulated products.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in the relevant markets. MCPA active ingredients Although the completed acquisition resulted in Nufarm increasing its already high market share, the ACCC considered that the merged entity would be constrained by actual and potential import competition. In reaching its conclusion the ACCC noted imports of MCPA active ingredients from Asia and Europe as well as recent entry by a new supplier of MCPA active ingredients, and the strong likelihood of entry by other suppliers in the foreseeable future. 2,4-D active ingredients The ACCC considered that the completed acquisition was unlikely to raise competition concerns in this market due to the limited overlap between the merger parties and the existence of a number of other competitors which would constrain the merged entity. Straight MCPA formulated products Given its conclusion that no substantial lessening of competition was likely in the (closely related) upstream MCPA active ingredient market, the ACCC considered that the completed acquisition was also unlikely to raise competition concerns in this market. The ACCC noted the existence of a number of other competitors and the potential for new entry, which it considered would constrain the merged entity."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0578",
+  "title": "Proposed merger of Acergy SA and Subsea 7 Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-of-acergy-sa-and-subsea-7-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43613",
+  "industries": [
+    "Offshore engineering, oil & gas industry"
+  ],
+  "date_completed": "4 November 2010",
+  "date_completed_iso": "2010-11-04T12:00:00Z",
+  "date_commenced": "30 September 2010",
+  "date_commenced_iso": "2010-09-30T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Acergy SA"
+  ],
+  "targets": [
+    "Subsea 7 Inc."
+  ],
+  "timeline": [
+    {
+      "date": "30 Sep 2010",
+      "date_iso": "2010-09-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Oct 2010",
+      "date_iso": "2010-10-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Nov 2010",
+      "date_iso": "2010-11-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Acergy S.A. and Subsea 7 propose to merge their global operations.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: - The market for the supply of offshore, engineering, construction and maintenance (OECM) services in the Asia Pacific region.",
+    "Competition analysis": "OECM services to the oil and gas industry comprise of project management, procurement, fabrication, installation, construction, commissioning and maintenance of fixed and subsea production facilities, offshore pipelines and associated infrastructure. In reaching its conclusion not to oppose Acergy's proposed acquisition of Subsea 7 the ACCC considered, amongst other factors: - that the combined entity will have a relatively small market share of OECM services and that remaining competitors would continue to impose a competitive constraint on Acergy's ability to increase its prices or offer lower quality OECM services; - an absence of substantial barriers to entry or expansion; - that customers of OECM services possess significant countervailing power and can easily switch between suppliers Accordingly, on 04 November 2010, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

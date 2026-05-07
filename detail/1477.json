@@ -1,0 +1,31 @@
+{
+  "id": "1477",
+  "title": "Acquirer: Sargent Enterprises Pty Ltd; Target: GEL Enterprises Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sargent-enterprises-pty-ltd-target-gel-enterprises-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19231",
+  "industries": [],
+  "date_completed": "17 June 2004",
+  "date_completed_iso": "2004-06-17T12:00:00Z",
+  "date_commenced": "8 March 2004",
+  "date_commenced_iso": "2004-03-08T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sargent Enterprises Pty Ltd"
+  ],
+  "targets": [
+    "GEL Enterprises Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Sargent propose to acquire the assets of GEL.  Both parties operate coin-operated rides for children in shopping centres.  Sargent operates in all states except WA.  GEL operates in Victoria only.",
+    "Market definition": "Supply of coin-operated kiddie rides within individual shopping centres.  Consideration was also given to the impact on the manufacture of kiddie rides.",
+    "Competition analysis": "Market share figures were not available.  However, based on the information available, it was considered that the Commission's thresholds were unlikely to be crossed. Given the low barriers to entry, potential for imports, limited price discretion and the availability of substitutes, it was concluded that the proposed acquisitions were not likely to substantially lessen competition in this market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "9330"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "1100",
+  "title": "Transpacific Industries Group Ltd - acquisition of Twigg Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-twigg-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27875",
+  "industries": [
+    "Civil earthworks and Waste management services"
+  ],
+  "date_completed": "29 May 2007",
+  "date_completed_iso": "2007-05-29T12:00:00Z",
+  "date_commenced": "2 April 2007",
+  "date_commenced_iso": "2007-04-02T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Twigg Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Apr 2007",
+      "date_iso": "2007-04-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "13 Apr 2007",
+      "date_iso": "2007-04-13T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. ACCC timeline suspended"
+    },
+    {
+      "date": "20 Apr 2007",
+      "date_iso": "2007-04-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Apr 2007",
+      "date_iso": "2007-04-20T12:00:00Z",
+      "event": "ACCC received further information from Transpacific. ACCC timeline recommenced"
+    },
+    {
+      "date": "29 May 2007",
+      "date_iso": "2007-05-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group Ltd - acquisition of Twigg Group Limited",
+    "Market definition": "The ACCC examined this matter within the context of the market for landfills within 25 km of three south-eastern council areas: 1.\tthe north east (Bayside, Glen Eira, Stonnington, Whitehorse, Boroondara, Manningham and Maroondah Council areas); 2.\tthe central-east (Kingston, Monash, Knox, Frankston, Greater Dandenong, and City of Casey Council areas); and 3.\tthe south (Mornington Peninsula Council area). For south-eastern Melbourne customers with access to transfer stations, landfills in the north and west of Melbourne are good substitutes.  Therefore, transfer stations extend the geographic area range of consideration to around 50km in these areas.",
+    "Competition analysis": "Transpacific will own 3 solid inert waste landfills in the Clayton area following the acquisition. 1. The north east council areas The large number of landfill alternatives available to customers in this area (particularly customers with access to transfer stations) means that the acquisition is unlikely to cause competition concerns in these areas. 2. The central east council areas Even if suitable sites are available, the entry of a new competing landfill is unlikely given the Victorian Environmental Protection Authority's restrictions on licences for landfills. However, the ACCC's inquiries found that even at current (pre-acquisition) prices, some large customers and landfill operators from other areas may soon find it cost-effective to build a large transfer station to transfer waste to the north-west or elsewhere rather than continuing to use the landfills at Clayton. The ACCC considers that this threat of likely competitive entry imposes a constraint on Transpacific's pricing; if Transpacific attempts to raise its prices, it will increase the incentive for customers and potential competitors to build a waste transfer station in competition with its Clayton landfills. Once a transfer station is built, users in these council areas will be able to use the transfer station to access at least three other solid-inert landfills. 3. The southern council area At present, users in the Mornington Peninsula Council area do not apper to make significant use of the Clayton area landfills, although the ACCC's market inquiries suggested that prices at the Devil's Bend landfill on the Mornington Peninsula are influenced by prices in the Clayton area. However, given the above analysis, namely that any attempt by Transpacific to increase prices at Clayton landfills is likely to result in new competitive entry, it appears unlikely that there will be any significant secondary pricing effect at Mornington Peninsula landfills. The Devil's Bend landfill is expected to last another 20 years, provided the EPA licences a larger area of the quarry area as a solid inert landfill site.  Therefore, it appears unlikely that the acquisition has led to a substantial lessening of competition affecting this Council area."
+  }
+}

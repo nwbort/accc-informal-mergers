@@ -1,0 +1,44 @@
+{
+  "id": "0560",
+  "title": "Sims Metal Management Ltd - proposed acquisition of Commercial Metal Recycling Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sims-metal-management-ltd-proposed-acquisition-of-commercial-metal-recycling-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43914",
+  "industries": [
+    "Metal recycling"
+  ],
+  "date_completed": "14 December 2010",
+  "date_completed_iso": "2010-12-14T12:00:00Z",
+  "date_commenced": "29 October 2010",
+  "date_commenced_iso": "2010-10-29T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Sims Metal Management Ltd"
+  ],
+  "targets": [
+    "Commercial Metal Recycling Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Oct 2010",
+      "date_iso": "2010-10-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Nov 2010",
+      "date_iso": "2010-11-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Dec 2010",
+      "date_iso": "2010-12-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sims Metal Management Ltd proposed to acquire Commercial Metal Recycling Services Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed merger within the context of: - regional markets for the acquisition of ferrous scrap from scrap originators, scrap collectors and scrap dealers in Queensland; - regional markets for the acquisition of non-ferrous scrap from scrap originators, scrap collectors and scrap dealers in Queensland; -the markets for the supply of ferrous scrap metal to end users such as metal manufacturers, smelters and foundries in Queensland; and -the market for the supply of non-ferrous scrap metal to end users such as metal manufacturers, smelters and foundries Australia. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC considered that the proposed merger was unlikely to result in a substantial lessening of competition in the relevant markets. Key factors informing this conclusion included: - In relation to both ferrous and non-ferrous scrap, there would remain a number of scrap dealers post acquisition that would compete to acquire scrap; and - In relation to both ferrous and non-ferrous scrap, there would remain a number of scrap dealers post acquisition that would compete to supply scrap."
+  }
+}

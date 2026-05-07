@@ -1,0 +1,59 @@
+{
+  "id": "0011",
+  "title": "CAR Group Limited - Machines4U",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/car-group-limited-machines4u",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Industrial Machinery"
+  ],
+  "date_completed": "2 October 2025",
+  "date_completed_iso": "2025-10-02T12:00:00Z",
+  "date_commenced": "31 July 2025",
+  "date_commenced_iso": "2025-07-31T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "CAR Group Limited"
+  ],
+  "targets": [
+    "Mojo Holdco Pty Ltd, the holding company for Machines4U"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2025",
+      "date_iso": "2025-07-31T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Aug 2025",
+      "date_iso": "2025-08-14T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Sep 2025",
+      "date_iso": "2025-09-01T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (25 September 2025) delayed"
+    },
+    {
+      "date": "16 Sep 2025",
+      "date_iso": "2025-09-16T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. Timeline recommenced."
+    },
+    {
+      "date": "1 Oct 2025",
+      "date_iso": "2025-10-01T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (16 October 2025) brought forward to 2 October 2025."
+    },
+    {
+      "date": "2 Oct 2025",
+      "date_iso": "2025-10-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CAR Group Limited ( CAR Group ), through its wholly-owned subsidiary, carsales.com.au Pty Ltd, proposes to acquire 100% of the shares in Mojo Holdco Pty Ltd, the holding company for Machines4U Pty Ltd (together, Machines4U ) (the Proposed Acquisition ). CAR Group is an ASX-listed online listings company operating in Australia, the United States, South Korea, Chile and Brazil. In Australia, CAR Group’s business is focused on carsales.com.au, an online listings portal for new and used cars. Relevant to the Proposed Acquisition, CAR Group also operates online listings portals for new and used industrial machinery through constructionsales.com.au, farmmachinerysales.com.au and trucksales.com.au Machines4U is an Australian online listings portal specialising in new and used industrial machinery, which operates machines4u.com.au. Machines4U also publishes a free digital magazine on its website, which provides content related to its industrial machinery listings business. In addition to supplying online listings services to buyers and sellers of new and used industrial machinery, both CAR Group and Machines4U also supply online display advertising in Australia.",
+    "Market definition": "The ACCC considered the likely effect of the Proposed Acquisition on competition in markets for: the national supply of online listings services to buyers and sellers of industrial machinery, the national supply of online listings services to buyers and sellers of farming machinery, construction machinery, and trucks and trailers (as separate markets). For the purpose of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any market in Australia. The ACCC found that a merged CAR/Machines4U would be sufficiently constrained by alternative suppliers of online listings of industrial machinery, including other online listings platforms, general online marketplaces, auction houses, and original equipment manufacturer/dealer websites."
+  }
+}

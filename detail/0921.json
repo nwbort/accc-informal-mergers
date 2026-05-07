@@ -1,0 +1,44 @@
+{
+  "id": "0921",
+  "title": "Woolworths Limited - proposed acquisition of Roleystone Trades",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-roleystone-trades",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31824",
+  "industries": [
+    "Retail Liquor Store Licence"
+  ],
+  "date_completed": "13 May 2008",
+  "date_completed_iso": "2008-05-13T12:00:00Z",
+  "date_commenced": "23 April 2008",
+  "date_commenced_iso": "2008-04-23T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Roleystone Trades"
+  ],
+  "timeline": [
+    {
+      "date": "23 Apr 2008",
+      "date_iso": "2008-04-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 May 2008",
+      "date_iso": "2008-05-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 May 2008",
+      "date_iso": "2008-05-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposes to acquire a retail liquor store licence which currently trades as \"Cellarbrations at Roleystone\" located at Roleystone Shopping Centre, 21 Jarrah Road, Roleystone, WA.",
+    "Market definition": "The proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is, at its narrowest, a 3-5km radius surrounding the target retail liquor business; and 2. the Western Australian market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: 1. Woolworths would be a new entrant in the local retail market and therefore Woolworths is not likely to be able to exert any influence on prices as a result of the acquisition; and 2. The acquisition of one retail licence is unlikely to significantly increase Woolworths' market share (or buying power) or substantially diminish the buying power of any competitor."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0482",
+  "title": "Otis Elevator Company Pty Ltd - proposed acquisition of Independent Lifting Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/otis-elevator-company-pty-ltd-proposed-acquisition-of-independent-lifting-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47018",
+  "industries": [
+    "Elevators and escalators"
+  ],
+  "date_completed": "9 November 2011",
+  "date_completed_iso": "2011-11-09T12:00:00Z",
+  "date_commenced": "30 September 2011",
+  "date_commenced_iso": "2011-09-30T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Otis Elevator Company Pty Ltd"
+  ],
+  "targets": [
+    "Independent Lifting Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Sep 2011",
+      "date_iso": "2011-09-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Oct 2011",
+      "date_iso": "2011-10-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Nov 2011",
+      "date_iso": "2011-11-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: -  the provision of lift installation and modernisation services; and -  the provision of lift maintenance services. The ACCC did not consider it necessary to form a definitive view in regard to the geographical dimension of the market, particularly in relation to whether the market concerned was a national or state-based market, as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets.  Factors informing this conclusion included: - there were a number of alternative suppliers which would continue to compete with Otis in the provision of lift installation and modernisation services and the provision of lift maintenance services; - the increase in Otis's market share as a result of the proposed acquisition would be minimal and ILS and Otis were not each other's closest competitors; and - the barriers to entry were relatively low  particularly for the supply of installation and maintenance services to small-medium sized buildings, where ILS activities were principally focussed."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1320",
+  "title": "Elders Ltd - proposed acquisition of EG Green & Sons Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/elders-ltd-proposed-acquisition-of-eg-green-sons-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22413",
+  "industries": [
+    "Meat Processing"
+  ],
+  "date_completed": "20 December 2005",
+  "date_completed_iso": "2005-12-20T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Elders Ltd and T&R Pastoral Ltd - proposed acquisition of EG Green.  Elders is a livestock agent and EG Green operates the largest abattoir in Western Australia.  As such, the issue is whether this vertical integration raises competition concerns.",
+    "Market definition": "Agency Market Elders operates in the Western Australian market for the supply of the livestock agency services. Cattle Acquisition Markets High quality cattle are generally acquired by export abattoirs.  Medium quality cattle are generally acquired by domestic abattoirs.  Lower quality cattle are generally acquired by export abattoirs (for processing into manufacturing meat) and live cattle exporters. A cattle acquirer would exercise market power by lowering the prices it offers cattle farmers. On the supply-side, the issue is whether cattle farmers selling one quality of cattle could avoid such a price decrease by switching to supplying another quality of cattle.  The ACCC was satisfied that this was unlikely as cattle farmers would need to switch breeds (or lines of breeds) of cattle and then breed and raise the cattle for around 18 months before they could be sold. On the demand side, the issue is whether cattle farmers could switch to supplying other abattoirs or live exporters.  The ACCC was satisfied that: .   abattoirs acquiring low and medium quality cattle could not quickly switch to acquiring high quality cattle because of the need to obtain export licences to sell the processed cattle; .  abattoirs acquiring medium and high quality cattle could not switch to acquiring low quality cattle because of the need to obtain export licences to sell the processed cattle (different licences being required to sell high and low quality processed cattle, as they largely go to different overseas markets); and .  abattoirs acquiring high and low quality cattle could quickly switch to acquiring medium quality cattle bound for the domestic market. Consequently, the ACCC considered three cattle acquisition markets: (i) for the acquisition of high quality beef cattle; (ii) for the acquisition of high, medium and low quality beef cattle; and (iii) the acquisition of low quality beef cattle.",
+    "Competition analysis": "The ACCC decided not to oppose the proposed acquisition of EG Green by Elders. Agency market Given the vertical nature of the proposed acquisition, the threshold issue was whether Elders possessed market power in the agency market, which would allow it post-acquisition to require cattle farmers to have their cattle slaughtered at EG Green if they wished to use Elders as an agent.  The ACCC noted that, in practice, such a requirement would have been enforced during Autumn and Winter (when relatively few cattle are processed, as opposed to Spring and into Summer when substantial numbers of cattle are slaughtered).  However, the ACCC was satisfied that Elders was constrained from imposing such a requirement by the potential for farmers to respond by switching to other agents, or by not using an agent at all. Cattle acquisition markets Again, given the vertical nature of the proposed acquisition, the threshold issue was whether EG Green possessed market power in any cattle acquisition market, which could be used post-acquisition to require cattle farmers to use Elders as an agent if they wished to have their cattle processed at EG Green. The ACCC noted that, in practice, this was potentially likely to occur during Spring and into Summer.   However, the ACCC was satisfied that E G Green was constrained from imposing such a requirement by the potential for farmers to respond by switching to other purchasers. In particular, EG Green faced competition from other abattoirs in the 'high, medium and low' and 'high' quality cattle acquisition markets.  EG Green faced competition from live exporters in the 'low' quality cattle acquisition market.",
+    "Initiation": "Complaint"
+  }
+}

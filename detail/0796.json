@@ -1,0 +1,59 @@
+{
+  "id": "0796",
+  "title": "Medibank Private Limited proposed merger with Health Services Australia Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/medibank-private-limited-proposed-merger-with-health-services-australia-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34725",
+  "industries": [
+    "Health Services"
+  ],
+  "date_completed": "24 February 2009",
+  "date_completed_iso": "2009-02-24T12:00:00Z",
+  "date_commenced": "9 December 2008",
+  "date_commenced_iso": "2008-12-09T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Medibank Private Limited"
+  ],
+  "targets": [
+    "Health Services Australia Group"
+  ],
+  "timeline": [
+    {
+      "date": "9 Dec 2008",
+      "date_iso": "2008-12-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Jan 2009",
+      "date_iso": "2009-01-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Jan 2009",
+      "date_iso": "2009-01-29T12:00:00Z",
+      "event": "ACCC requested further information from Medibank Private. ACCC timeline suspended."
+    },
+    {
+      "date": "4 Feb 2009",
+      "date_iso": "2009-02-04T12:00:00Z",
+      "event": "ACCC received further information from Medibank Private. ACCC timeline recommenced."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, extended to allow for consideration of further information from Medibank Private and from market inquiries."
+    },
+    {
+      "date": "24 Feb 2009",
+      "date_iso": "2009-02-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Commonwealth Government's proposed amalgamation of two Government Business Enterprises - Health Services Australia Group and Medibank Private Limited.",
+    "Market definition": "The ACCC considered the relevant markets to be: 1. the state or territory markets for the supply of private health insurance to consumers, and 2. the market for the supply of health management services to consumers. HSA provides services Australia-wide. The ACCC considered this market on a national basis, but its conclusions would be unchanged if the market were instead considered on a regional basis given the large number of regional providers.",
+    "Competition analysis": "The ACCC examined various theories of competitive harm (that is, means by which the proposed transaction may theoretically lessen competition) and concluded that the proposed transaction is not likely to result in a substantial lessening of competition in any relevant market. In relation to health management services, the ACCC considered the proposed acquisition would not substantially lessen competition in this market, nor would it provide Medibank with an increased ability or incentive to foreclose competition in private health insurance (PHI) consumer markets by restricting or limiting the supply of health management services. In particular: - the extent to which PHI providers are currently utilising health management services is limited, and HSA does not currently provide these services to other PHI providers; - a significant number of providers of health management services remain available to PHI providers, and barriers to entry or expansion appear relatively low; and - PHI providers competing with Medibank have established various health management services throughout Australia and are likely to be able to further develop those services. The ACCC also considered whether HSA's provision of onshore health check services, which it provides to people applying to live, work, or study in Australia, or its provision of various services to certain Australian employees, would allow Medibank to lessen competition by influencing these patients decisions with respect to purchasing PHI from Medibank rather than competing providers. The ACCC concluded that this was unlikely given that: - HSA is not the sole provider of these health check services; - international students and new migrants have a choice of PHI providers and it appears they are generally more likely to be influenced in their choice of PHI by their educational institutions and migration agents than by the provider of their initial health check on arrival; and - Australian residents have many other PHI options and sources of information about those options available to them."
+  }
+}

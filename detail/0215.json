@@ -1,0 +1,57 @@
+{
+  "id": "0215",
+  "title": "Cell Care Australia Pty Ltd - proposed acquisition of cord blood and tissue banking assets of Cryosite Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cell-care-australia-pty-ltd-proposed-acquisition-of-cord-blood-and-tissue-banking-assets-of-cryosite-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62682",
+  "industries": [
+    "Biological storage and management"
+  ],
+  "date_completed": "21 December 2017",
+  "date_completed_iso": "2017-12-21T12:00:00Z",
+  "date_commenced": "18 September 2017",
+  "date_commenced_iso": "2017-09-18T12:00:00Z",
+  "total_review_days": 67,
+  "acquirers": [
+    "Cell Care Australia Pty Ltd"
+  ],
+  "targets": [
+    "Cryosite Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Sep 2017",
+      "date_iso": "2017-09-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "13 Oct 2017",
+      "date_iso": "2017-10-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2017",
+      "date_iso": "2017-10-24T12:00:00Z",
+      "event": "ACCC requested further information from Cryosite Limited."
+    },
+    {
+      "date": "1 Nov 2017",
+      "date_iso": "2017-11-01T12:00:00Z",
+      "event": "ACCC received further information from Cell Care Australia Pty Ltd."
+    },
+    {
+      "date": "3 Nov 2017",
+      "date_iso": "2017-11-03T12:00:00Z",
+      "event": "ACCC is awaiting information from Cryosite Limited and Cell Care Australia Pty Ltd. Former provisional date for announcement of ACCC's findings (16 November) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "21 Dec 2017",
+      "date_iso": "2017-12-21T12:00:00Z",
+      "event": "After considering the information available to it, the ACCC has decided that it will not make a decision on whether to grant clearance for the proposed acquisition under section 50 of the Competition and Consumer Act (CCA), and will discontinue its public review of the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC has decided that it will not make a decision on whether to grant clearance for the proposed acquisition under section 50 of the Competition and Consumer Act (CCA), and will discontinue its public review of the proposed acquisition. The ACCC is continuing to investigate the circumstances surrounding entry into the agreement and the closing of Cryosite?s cord blood and tissue collection operations"
+  }
+}

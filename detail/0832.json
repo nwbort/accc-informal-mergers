@@ -1,0 +1,43 @@
+{
+  "id": "0832",
+  "title": "HJ Heinz Company Australia Ltd - proposed acquisition of Golden Circle Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hj-heinz-company-australia-ltd-proposed-acquisition-of-golden-circle-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34594",
+  "industries": [
+    "Foods"
+  ],
+  "date_completed": "20 November 2008",
+  "date_completed_iso": "2008-11-20T12:00:00Z",
+  "date_commenced": "10 October 2008",
+  "date_commenced_iso": "2008-10-10T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "HJ Heinz Company Australia Ltd"
+  ],
+  "targets": [
+    "Golden Circle Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Oct 2008",
+      "date_iso": "2008-10-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Nov 2008",
+      "date_iso": "2008-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The acquisition was assessed within the following markets: 1) National market for the manufacture and wholesale supply of jams. 2) National market for the manufacture and wholesale supply of shelf stable fruit products. 3) National market for the manufacture and wholesale supply of infant food and beverages. (If separate markets for infant food and infant beverages were adopted, there would be no overlap between the merger parties). 4) National market for the acquisition of deciduous fruit (excluding fruit that will be on sold as fresh fruit).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. The ACCC considered a number of factors in reaching this decision including: - the minimal level of product overlap between the parties in each of the relevant markets - the competitive constraint provided by other firms in each of the relevant markets - in relation to jams and shelf stable fruit, the threat of imports was likely to act as a further constraint on the merged firm."
+  }
+}

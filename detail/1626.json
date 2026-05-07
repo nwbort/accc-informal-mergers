@@ -1,0 +1,31 @@
+{
+  "id": "1626",
+  "title": "Acquirer: AXA Asia Pacific Holdings Limited; Target: IPAC Securities Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-axa-asia-pacific-holdings-limited-target-ipac-securities-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16387",
+  "industries": [],
+  "date_completed": "23 July 2002",
+  "date_completed_iso": "2002-07-23T12:00:00Z",
+  "date_commenced": "10 July 2002",
+  "date_commenced_iso": "2002-07-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "AXA Asia Pacific Holdings Limited"
+  ],
+  "targets": [
+    "IPAC Securities Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of IPAC Securities by AXA Asia Pacific Holdings.",
+    "Market definition": "Retail assets under management.",
+    "Competition analysis": "The proposed acquisition will not cross any of the Commission's concentration thresholds for the exercise of market power.  On this basis, it was concluded that the proposed acquisition was unlikely to constitute a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "FIRB",
+    "ANZSIC code": "7340"
+  }
+}

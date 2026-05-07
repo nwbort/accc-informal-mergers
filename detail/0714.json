@@ -1,0 +1,58 @@
+{
+  "id": "0714",
+  "title": "Holcim Limited - proposed acquisition of Cemex Australia Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/holcim-limited-proposed-acquisition-of-cemex-australia-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37769",
+  "industries": [
+    "Concrete, cement and related products"
+  ],
+  "date_completed": "25 August 2009",
+  "date_completed_iso": "2009-08-25T12:00:00Z",
+  "date_commenced": "30 June 2009",
+  "date_commenced_iso": "2009-06-30T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Holcim Limited"
+  ],
+  "targets": [
+    "Cemex Australia Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jun 2009",
+      "date_iso": "2009-06-16T12:00:00Z",
+      "event": "Holcim Limited announced that it had reached an agreement to acquire Cemex Australia Holdings Pty Ltd."
+    },
+    {
+      "date": "30 Jun 2009",
+      "date_iso": "2009-06-30T12:00:00Z",
+      "event": "Upon receipt of a submission from the merger parties, the ACCC commenced a review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jul 2009",
+      "date_iso": "2009-07-21T12:00:00Z",
+      "event": "Former closing date for submissions from interested parties, amended to allow for further market inquiries."
+    },
+    {
+      "date": "29 Jul 2009",
+      "date_iso": "2009-07-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Aug 2009",
+      "date_iso": "2009-08-12T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further market inquiries."
+    },
+    {
+      "date": "25 Aug 2009",
+      "date_iso": "2009-08-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not consider it necessary to come to a definitive view with respect to market definition for the purposes of its assessment of the proposed acquisition.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any relevant markets. In reaching this view, the ACCC noted that: - the merged entity would continue to be competitively constrained by existing competitors, including Boral and Adelaide Brighton; and - the merged entity's incentives would not be significantly altered as a result of the proposed acquisition."
+  }
+}

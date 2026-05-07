@@ -1,0 +1,31 @@
+{
+  "id": "1492",
+  "title": "Acquirer: Smith & Nephew plc; Target: Midland Medical Technologies Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-smith-nephew-plc-target-midland-medical-technologies-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18984",
+  "industries": [],
+  "date_completed": "19 March 2004",
+  "date_completed_iso": "2004-03-19T12:00:00Z",
+  "date_commenced": "28 January 2004",
+  "date_commenced_iso": "2004-01-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Smith & Nephew plc"
+  ],
+  "targets": [
+    "Midland Medical Technologies Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Smith & Nephew, a global advanced medical devices company, proposes to acquire Midland Medical Technologies, a leader in metal-on-metal hip resurfacing products.",
+    "Market definition": "Supply of surgical hip orthopaedic implants in Australia.",
+    "Competition analysis": "The principal area of overlap between the parties is in relation to the supply of hip orthopaedic implants.  The proposed acquisition will cross the Commission's concentration thresholds for the supply of hip orthopaedic implants on a national basis (merger party will have 15% share and the CR4 increases from 84% to 89%). Some concern exists over the continuing aggregation of the hip orthopaedic implant market in Australia.  However, it is apparent that a number of alternative suppliers remain post-acquisition, and these suppliers are large multinationals. Accordingly, it was concluded the proposed acquisition is unlikely to result in a substantial lessening of competition in the surgical hip orthopaedic implant market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2832"
+  }
+}

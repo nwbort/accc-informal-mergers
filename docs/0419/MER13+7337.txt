@@ -1,0 +1,845 @@
+Page 1 of 17 
+ 
+Public Competition Assessment 
+28 August 2013 
+Sonic Healthcare Limited - proposed acquisition of 
+pathology businesses of Healthscope Limited in 
+Queensland, Western Australia and the Australian Capital 
+Territory (including the Southern Tablelands region of New 
+South Wales) 
+Introduction 
+1. On 11 October 2012, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision:  
+ 
+to oppose the proposed acquisition by Sonic Healthcare Limited (Sonic) of 
+the pathology business of Healthscope Limited (Healthscope) in 
+Queensland (the Queensland proposed acquisition), since it would be 
+likely to have the effect of substantially lessening competition in the market 
+for the supply of community pathology services in Queensland, in 
+contravention of section 50 of the Competition and Consumer Act 2010 
+(the Act); and  
+ 
+to not oppose Sonic’s proposed acquisition of the pathology business of 
+Healthscope in Western Australia (the WA proposed acquisition), since it 
+would not be likely to have the effect of substantially lessening competition 
+in any relevant market.  
+2. Subsequent to its decision regarding the Queensland and WA proposed 
+acquisitions, Sonic provided a submission seeking informal clearance of its 
+proposal to acquire the pathology business of Healthscope in the Australian 
+Capital Territory (the ACT) and the Southern Tablelands region of New South 
+Wales (the ACT proposed acquisition). On 31 January 2013, the ACCC 
+announced its decision to not oppose the ACT proposed acquisition, since it would 
+not be likely to have the effect of substantially lessening competition in any 
+relevant market. 
+3. The ACCC made its decision on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC reached its 
+
+
+ 
+Page 2 of 17 
+decisions in relation to the proposed acquisitions, subject to confidentiality 
+considerations. 
+Public Competition Assessment 
+4. To provide an enhanced level of transparency in its decision making process, the 
+ACCC issues a Public Competition Assessment for all proposals where: 
+ 
+an acquisition is opposed; 
+ 
+an acquisition is subject to enforceable undertakings; 
+ 
+the parties to the acquisition seek such disclosure; or 
+ 
+an acquisition is not opposed but raises important issues that the ACCC 
+considers should be made public. 
+5. This Public Competition Assessment has been issued because the Queensland 
+proposed acquisition was opposed by the ACCC. 
+6. By issuing Public Competition Assessments, the ACCC aims to provide the public 
+with a better understanding of the ACCC's analysis of various markets and the 
+associated merger and competition issues. It also alerts the public to 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change. 
+7. Each Public Competition Assessment is specific to the particular transaction under 
+review by the ACCC. While some transaction proposals may involve the same or 
+related markets, it should not be assumed that the analysis and decision outlined 
+in one Public Competition Assessment will be conclusive of the ACCC’s view in 
+respect of other transaction proposals, as each matter will be considered on a 
+case-by-case basis. 
+8. Public Competition Assessments outline the ACCC’s principal reasons for forming 
+views on a proposed acquisition at the time the decision was made. As such, 
+Public Competition Assessments may not definitively identify and explain all issues 
+that the ACCC considers arise from a proposed acquisition. Further, the ACCC’s 
+decisions generally involve consideration of both non-confidential and confidential 
+information provided by the parties and market participants. In order to maintain 
+the confidentiality of particular information, Public Competition Assessments do not 
+contain any confidential information or its sources. 
+The parties 
+The acquirer: Sonic Healthcare Limited 
+9. Sonic provides pathology and radiology services in Australia and overseas. It also 
+offers medical centre management services in Australia through its subsidiary 
+company Independent Practitioners Network. In the 2012 financial year, Sonic had 
+revenue of $3.4 billion from its worldwide business, $1 billion (or 30%) of this was 
+contributed by its Australian pathology business. Sonic is listed on the Australian 
+Securities Exchange. 
+
+
+ 
+Page 3 of 17 
+10. Sonic operates the following pathology businesses in Australia: 
+ 
+Queensland: Sullivan Nicolaides Pathology. 
+ 
+Western Australia: Clinipath/Bunbury Pathology. 
+ 
+Australian Capital Territory: Capital Pathology. 
+ 
+Victoria: Melbourne Pathology. 
+ 
+New South Wales: Douglass Hanly Moir Pathology (including Barratt & 
+Smith Pathology), Southern Pathology and Sullivan Nicolaides Pathology. 
+ 
+South Australia: Clinpath Laboratories. 
+ 
+Tasmania: Launceston Pathology, Hobart Pathology and North West 
+Pathology. 
+The target: Healthscope Limited 
+11. Healthscope operates private hospitals, medical centres and pathology businesses 
+in most states of Australia as well as pathology businesses in New Zealand, 
+Singapore, Malaysia and Vietnam.  
+12. Healthscope was previously a public company listed on the Australian Securities 
+Exchange. In October 2010, Healthscope was acquired by Asia Pacific Healthcare 
+Group Pty Ltd, a company owned by funds advised and managed by The Carlyle 
+Group and TPG Capital. 
+13. Healthscope's pathology operations generally use the brand name ‘Healthscope 
+Pathology’, but are still known amongst some industry participants as ‘Gribbles’, 
+which was Healthscope’s former brand name in some states.  
+Industry background 
+Pathology testing 
+14. Pathology is the branch of clinical medicine concerned with studying the nature, 
+diagnosis and causes of diseases. Pathology testing involves the analysis of 
+medical samples, for example blood cell counts, which are collected from patients.  
+15. Pathology testing can be divided into the following four broad categories and 
+relevant sub-specialties:  
+ 
+biochemistry (chemical pathology, immunology and infertility and 
+pregnancy tests); 
+ 
+haematology;  
+ 
+microbiology; and 
+ 
+histopathology and cytopathology (sometimes referred to as histology and 
+cytology). 
+
+
+ 
+Page 4 of 17 
+16. Some pathology providers also perform genetic testing. 
+17. The testing for different sub-specialties is automated to varying degrees. 
+Microbiology, biochemistry and haematology (sometimes collectively described as 
+‘clinical pathology’) tend to be more highly automated and generate the highest 
+pathology test volumes. Consequently, there are significant economies of scale 
+associated with performing these tests. Histology and cytology tend to require 
+greater manual preparation of samples, analysis and interpretation of test results.  
+Pathology collection  
+18. Pathology samples are collected from patients via various channels, including at 
+Approved Collection Centres (ACCs), by doctors (including specialists) at medical 
+practices (‘doctor collects’), at hospitals and at patients’ homes. 
+19. Although obtaining pathology samples solely from doctor collects may be a viable 
+option for a niche pathology provider focussing on fields such as histology and 
+cytology, having ACCs is a critical part of any full service pathology provider’s 
+business. This is because a significant proportion of pathology test volumes are 
+generated at ACCs. ACCs can be ‘co-located’ at medical practices (by sub-leasing 
+part of a medical practice) or ‘standalone’ at an independent site. 
+Pathology funding 
+20. Most pathology testing is funded in one or more of the following ways: 
+ 
+Commonwealth government – the Commonwealth Government 
+(Government) funds the majority of pathology tests through Medicare 
+rebates on a fee-for-service basis, in some cases supplemented by out-of-
+pocket expenses paid by patients (see further below). 
+ 
+Health funds – for private in-patients with private health insurance, a 
+private health fund will cover the gap (see further below) for privately billed 
+patients. For this purpose, private health funds seek to enter into Medical 
+Provider Purchase Agreements (MPPAs) with pathology providers. 
+ 
+State governments – the pathology expenses of public in-patients at 
+public hospitals are generally covered by a State-based funding system 
+covering all services provided during a hospital stay. 
+21. The mechanism for billing pathology tests, except for public in-patients covered by 
+a State-based funding system, is described below. 
+22. A pathology provider can choose whether to receive only the applicable Medicare 
+rebates for services it provides (‘bulk bill’) or to impose an additional charge to 
+patients, known as an ‘out of pocket’ expense or ‘gap’ (‘privately bill’). This 
+decision is influenced by a range of factors, including whether the patient is a 
+concession card holder, the preference of the doctor as expressed on the referral 
+form, the billing policy of competing pathology providers and the complexity of the 
+test. The pathology pricing is implemented through the billing policy of each 
+pathology provider. 
+23. When a pathology provider chooses to bulk bill its patients, the pathology provider 
+obtains payment directly from the Government. The result is that the services are 
+
+
+ 
+Page 5 of 17 
+effectively free to the patient and the pathology provider is exposed to minimal 
+credit risk. 
+24. When a pathology provider chooses to privately bill, the patient may pay the whole 
+amount charged by the pathology provider and obtain reimbursement of the 
+applicable Medicare rebate from the Government. Alternatively, the patient may 
+pay only the ‘gap’ to the pathology provider, in which case the patient must obtain 
+a cheque from the Government for the applicable Medicare rebate and forward it to 
+the pathology provider. In effect, when a pathology provider chooses to privately 
+bill, the Government and the patient share the cost of the patient’s pathology tests.  
+25. A pathology provider may be able to obtain substantially greater revenue if it 
+privately bills patients, who must then pay out of pocket expenses. However there 
+is a materially greater credit risk associated with invoicing and seeking payment 
+from out-patients relative to seeking payment directly from Medicare, as it relies on 
+the patient paying the out-of-pocket expense and may also require the patient to 
+pass on the applicable Medicare rebate to the pathology provider.1 The size of the 
+out-of-pocket expense is generally set at a level that is sufficient to mitigate this 
+risk. 
+26. In this Public Competition Assessment, references to ‘price increases’ should be 
+read as including both or either of:  
+ 
+a decision to privately bill for the supply of pathology services that would 
+previously have been bulk billed; and/or 
+ 
+an increase in the gap for privately billed pathology services. 
+27. A patient must obtain a referral from a medical practitioner for a pathology test. 
+Pathology providers provide branded referral forms to medical practitioners, which 
+patients then take with them to an ACC. Since 11 December 2010, patients have 
+been free to take these forms to any pathology provider, regardless of the branding 
+on the form, unless a particular provider is specified by the referring medical 
+practitioner on clinical grounds. The medical practitioner may express a preference 
+on the referral form for the patient either to be bulk billed or privately billed; 
+however, a pathology provider can choose to disregard such a request. 
+Industry participants 
+28. Sonic, Primary Healthcare Limited (Primary) and Healthscope together process 
+the vast majority of the pathology specimens in Australia, and are sometimes 
+referred to as the ‘corporate’ pathology providers. Each of these pathology 
+providers operates in all mainland states and territories of Australia. The corporate 
+pathology providers operate ‘hub and spoke’ business models. This consists of at 
+least one large ‘central’ laboratory and a network of regionally located laboratories. 
+29. Primary trades as Laverty Pathology in NSW and the ACT, QML Pathology in 
+Queensland and Western Diagnostic Pathology in WA. 
+                                                 
+1 There is relatively little credit risk involved with privately billing insured in-patients who are 
+covered by health insurance.  
+
+
+ 
+Page 6 of 17 
+30. St John of God Pathology (SJOG) is a significant pathology provider with multiple 
+laboratories and ACCs in Western Australia and Victoria. It is a not-for-profit 
+company.  
+31. There are a number of smaller, full service pathology providers who operate in just 
+one state in Australia, typically with one laboratory. Their ACCs tend to be 
+concentrated in metropolitan areas. There are also several very small pathology 
+providers who either have limited ACC networks and/or operate laboratories which 
+focus on providing pathology services in specific categories (‘niche’ providers). 
+32. Public pathology providers have laboratories based in public hospitals which are 
+their primary source of demand. These providers are required to provide the full 
+range of pathology services on a 24 hours, 7 days a week basis, including complex 
+tests. Public pathology providers generally also provide pathology services to 
+patients referred by GPs and specialists, with some having ACCs in the general 
+community, usually in the area surrounding the public hospital. 
+Competition in the supply of pathology services 
+33. The ACCC found that competition between pathology providers may be manifested 
+in one or more of the following ways:   
+ 
+Bulk billing levels: The proportion of patients being bulk billed, which 
+depends on a pathology provider’s billing policy.  
+ 
+Prices to privately billed patients: The amount of the gap set by 
+pathology providers for privately billed patients. 
+ 
+Health funds: The rates negotiated under MPPAs between pathology 
+providers and private health funds. These rates are reflected in insurance 
+premiums. 
+ 
+Service levels: Non-price aspects of pathology services. The ACCC 
+considered that while pathology providers must comply with minimum 
+standards imposed by the National Association of Testing Authorities 
+(NATA), the authority for accrediting laboratories in Australia, pathology 
+providers compete on a number of other service-related aspects, such as 
+the number and convenience of ACC locations, opening hours of ACCs, 
+range of tests and customer service. 
+The proposed transaction 
+34. Sonic initially proposed in May 2012 to acquire the pathology businesses of 
+Healthscope in New South Wales (including the ACT), Western Australia and 
+Queensland. The ACCC commenced a public review of these three proposed 
+acquisitions. However on 17 September 2012, Sonic announced that it no longer 
+intended to acquire Healthscope’s pathology businesses in New South Wales, so 
+the ACCC did not proceed to a decision regarding the NSW proposed acquisition. 
+35. Sonic subsequently advised the ACCC that it proposed to acquire the pathology 
+business of Healthscope in the ACT and the Southern Tablelands region of New 
+South Wales. The ACCC commenced a public review of that proposed acquisition 
+on 2 January 2013, drawing on information and documents gathered during the 
+earlier review. 
+
+
+ 
+Page 7 of 17 
+Review timeline 
+36. The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+Queensland, WA and NSW proposed acquisitions  
+16 May 2012 
+ 
+ACCC commenced review under the Merger Review Process 
+Guidelines. 
+6 June 2012 
+Closing date for submissions from interested parties. 
+3 July 2012 
+ACCC requested further information from the merger parties. 
+ACCC timeline suspended.  
+27 July 2012 
+ 
+ACCC received submissions from the merger parties. ACCC 
+timeline recommenced. 
+2 August 2012 
+ACCC published a Statement of Issues outlining preliminary 
+competition concerns. 
+16 August 2012 
+Closing date for submissions relating to Statement of Issues. 
+27 August 2012 
+ 
+ACCC requested further information from the merger parties. 
+ACCC timeline suspended.  
+14 September 2012 
+ 
+ACCC received further information from the merger parties. 
+ACCC timeline recommenced. 
+17 September 2012 
+ 
+Sonic announced that it no longer proposed to acquire 
+Healthscope's pathology businesses in New South Wales. 
+11 October 2012 
+ 
+ACCC announced it would oppose the Queensland proposed 
+acquisition and would not oppose the WA proposed acquisition. 
+ACT and Southern Tablelands region of NSW proposed acquisition 
+2 January 2013 
+ACCC commenced review under the Merger Process 
+Guidelines. 
+31 January 2013 
+ACCC announced it would not oppose the ACT proposed 
+acquisition. 
+Market inquiries 
+37. The ACCC conducted market inquiries with a range of interested parties, including 
+other pathology providers, referring practitioners, private health funds and industry 
+associations. 
+With/without test 
+38. Section 50 of the Act prohibits mergers or acquisitions that would have the effect or 
+be likely to have the effect of substantially lessening competition in any market. In 
+assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to the 
+likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+
+
+ 
+Page 8 of 17 
+39. As regards the Queensland and WA proposed acquisitions, the ACCC considered 
+that the likely future competitive environment absent the proposed acquisition 
+would be the status quo, that is, Healthscope would continue to operate as an 
+independent, viable and effective competitor. As regards the proposed acquisition 
+in the ACT and Southern Tablelands region of NSW, the ACCC considered that 
+Healthscope was likely to provide a weaker competitive constraint in the future 
+absent the proposed acquisition. 
+Market definition 
+40. The relevant markets were considered to be: 
+ 
+the market for the supply of community pathology services in Western 
+Australia;  
+ 
+the market for the supply of community pathology services in Queensland; 
+and 
+ 
+the market for the supply of community pathology services in New South 
+Wales / ACT.  
+Product dimension 
+41. Pathology services consist of a number of integrated services, including collecting 
+pathology samples, transporting them to an Accredited Pathology Laboratory 
+(APL), processing (testing) the samples, generating and delivering reports and 
+discussing with the referring medical practitioner, where necessary. 
+42. Since these activities are integrated, and the ACCC is not aware of companies 
+active in only one component,2 the ACCC considers it appropriate to regard them 
+as forming part of an overall product of providing pathology services. 
+43. There are three key sources of demand for pathology services:  
+ 
+out-patients referred by general practitioners and specialists;  
+ 
+private in-patients at public and private hospitals; and  
+ 
+public in-patients at public hospitals.  
+44. Pathology services provided to the first two sources of demand attract a Medicare 
+rebate and are described as ‘community pathology’.  
+45. Pathology services provided to public in-patients are covered by a State-based 
+funding system and are described as ‘public hospital pathology’. Public hospital 
+pathology services are generally carried out either in-house or by private sector 
+pathology providers who have been appointed on a long term contract. Public in-
+patients are not contestable to pathology providers operating outside of these 
+arrangements.  
+                                                 
+2 The ACCC recognises that there is some scope for third parties such as courier companies to 
+be engaged to provide transportation. However this does not appear to occur on any material 
+scale. 
+
+
+ 
+Page 9 of 17 
+46. Private and public pathology providers do compete in relation to the supply of 
+community pathology services.3 Some pathology laboratories of public hospitals are 
+used to provide community pathology testing services and several of these have 
+established ACCs in the community. 
+47. The ACCC’s view, therefore, is that the supply of pathology services to public in-
+patients does not fall within the supply of community pathology services. However, 
+public pathology providers should be included as actual or potential competitors in 
+relation to the supply of community pathology services to out-patients.  
+48. Pathology providers also compete to provide pathology services to corporate and 
+government customers (corporate and government pathology services), 
+typically to perform tests on current and potential employees. Whilst some 
+corporate customers might require or prefer to engage a pathology provider with a 
+national presence, market inquiries have indicated that a national presence is not 
+required in most cases. In addition, in some specialised areas of testing, pathology 
+providers may compete with a range of potential suppliers that are not active in the 
+wider community pathology markets. Nonetheless, corporate and government 
+pathology services may be regarded as forming part of the same market as 
+community pathology services. 
+49. In light of the above, the ACCC’s view is that the product dimension of the relevant 
+markets is the supply of community pathology services. 
+Geographic dimension 
+50. Market inquiries indicated that it is often necessary for a pathology specimen to be 
+tested within approximately four hours of being collected from a patient. This time 
+constraint means that APLs are typically located close to population centres and 
+specimens are generally tested in the same state or territory in which they are 
+collected. The ACCC is aware of exceptions to this, for example specimens 
+collected on the north coast of New South Wales may be tested in Brisbane.  
+51. For the purposes of its review of the proposed acquisitions, the ACCC treated each 
+of Western Australia, New South Wales (including the ACT) and Queensland as 
+separate markets. However, the ACCC noted that the geographic dimension of 
+these markets may not exactly mirror state boundaries, reflecting efficiencies in 
+collection coverage and testing locations, and that there is the potential for more 
+localised effects. 
+Statement of Issues 
+52. The ACCC published a Statement of Issues on 2 August 2012 identifying a number 
+of competition issues relating to the WA proposed acquisition and the Queensland 
+proposed acquisition. The ACCC stated its preliminary view that these proposed 
+acquisitions may raise competition concerns in the relevant community pathology 
+services markets.  
+                                                 
+3 Public pathology providers may provide pathology services to private in-patients in public 
+hospitals on a non-contestable basis under authorised or notified exclusive dealing 
+arrangements. For instance, pathology services for private in-patients in NSW public hospitals 
+must be provided by pathology providers appointed by NSW public health organisations, unless 
+it is not in the patient’s best interest. This arrangement is subject to exclusive dealing 
+notifications lodged with the ACCC in 2009.  
+ 
+
+
+ 
+Page 10 of 17 
+53. The ACCC identified the following key issues of concern: 
+ 
+Whilst Sonic’s closest competitor appears to be Primary, Healthscope is the 
+next largest pathology provider in Queensland, and is the fourth largest 
+behind SJOG in Western Australia. Other pathology providers did not 
+appear to be as close competitors as Sonic, Primary, Healthscope and 
+SJOG (the latter in Western Australia only). 
+ 
+Healthscope’s ownership of hospitals and medical centres in Western 
+Australia and Queensland and its strong position in other pathology 
+markets including in Victoria, South Australia and New South Wales are 
+likely to make it a particularly vigorous and effective competitor in the 
+relevant markets. 
+54. The ACCC stated that competition concerns were unlikely to arise in relation to the 
+supply of pathology services to corporate and government customers. 
+Competition analysis 
+55. The ACCC found that the competition analysis applying to each of the proposed 
+acquisitions shared a number of common features relating to the closeness of 
+competition between the corporate pathology providers (i.e. Sonic, Primary and 
+Healthscope), the significance of barriers to entry and expansion and the potential 
+for localised competition effects. Those common features are therefore discussed 
+first, followed by competition analysis relating to each of the proposed acquisitions. 
+56. The ACCC obtained a range of data relating to pathology providers’ testing 
+activities to assess their respective positions in the relevant markets. This data 
+cannot be disclosed since it is confidential. However, Medicare publishes statistics 
+relating to the number of ACCs owned by each pathology provider. These are used 
+in the discussion below, to provide an approximation of their market shares. The 
+number of ACCs reflects a pathology provider’s collection capacity relating to out-
+patients – i.e. not including doctor collects and not accounting for the actual 
+volume of specimens collected.  
+Closeness of competition between corporate pathology providers 
+57. The ACCC found that the corporate pathology providers generally constitute each 
+other’s closest competitive constraint in most states and territories of Australia. 
+This is because they have established: 
+ 
+wide coverage of their ACCs; 
+ 
+wide coverage of their courier networks;  
+ 
+a full range of pathology testing capability;  
+ 
+networks of laboratories, including in regional centres; and 
+ 
+widespread recognition of their brands. 
+
+
+ 
+Page 11 of 17 
+Barriers to entry and expansion 
+58. The ACCC considered whether, following the proposed acquisitions, another 
+pathology provider might be capable of entering and expanding its presence to 
+replicate the competitive constraint currently imposed by Healthscope. The ACCC 
+considered whether such entry or expansion would be likely, timely and sufficient 
+to deter any potential price or non-price effects that might otherwise result from the 
+proposed acquisitions. 
+59. The ACCC found that there are material sunk costs associated with establishing 
+and expanding a referral base and testing capacity and that there are economies 
+of scale, both in collecting and processing specimens. This deters small scale 
+entry, except on a ‘niche’ basis, as described at paragraph 31. In addition, the 
+ACCC found that pathology providers face substantial impediments to timely 
+expansion of their referral base, which is necessary for any investment in 
+pathology collecting and testing capacity to be viable. 
+60. The ACCC identified four main categories of obstacles relating to pathology 
+providers expanding their referral base: 
+ 
+Misalignment of incentives – the person receiving the pathology services, 
+the person selecting the pathology provider and the person paying for the 
+pathology services are often not the same. This means that there may be 
+some misalignment of incentives between them, resulting in dampened 
+sensitivity to changes in price and/or service levels. 
+ 
+Switching costs – although medical practitioners (and therefore patients) 
+do not make any formal commitment to a pathology provider that they will 
+use their services, there were costs associated with switching between 
+pathology providers, including uncertainty in the quality of service provided 
+by an alternative pathology provider and dependence on, or familiarity with, 
+a pathology provider’s software, IT systems or reporting format. 
+ 
+Establishing reputation and relationships – significant time and effort 
+needs to be expended over a substantial period of time to establish a 
+reputation and personal relationships with referring medical practitioners, 
+which assist with retaining and broadening a referral base. Therefore 
+incumbent pathology providers may hold an advantage over new entrants 
+seeking referrals or pathology providers seeking to expand their referral 
+base, who must contest strong, established relationships between existing 
+pathology providers and medical practitioners. As a result, expansion of a 
+referral base tends to be gradual and incremental. 
+ 
+Collection centres – pathology providers that do not rely on doctor collects 
+need to establish ACCs in locations that are convenient for patients and 
+likely to deliver sufficient referral volumes, taking into account rental levels. 
+Following the removal of regulations limiting the number of ACCs that could 
+be operated by a given pathology provider on 1 July 2010, there was a 
+rapid increase in the number of ACCs. The ACCC found that most of the 
+new ACCs that were established at that time were ‘defensive’ – i.e. 
+established to support an existing referral base rather than to capture 
+additional volume. The ACCC therefore considered that the rapid 
+expansion of ACCs that occurred immediately following deregulation was 
+
+
+ 
+Page 12 of 17 
+not likely to be repeated and that the viability of establishing new ACCs in 
+future was likely to be far more marginal.  
+61. The gradual and incremental nature of the expansion of pathology providers’ 
+referral base has an impact on their geographic coverage. Pathology providers 
+other than the corporate pathology providers cover only certain regions within the 
+relevant state or territory. As they expand, they tend to do so by incrementally 
+expanding around their existing geographic coverage. In other words, a pathology 
+provider would be far more likely to start servicing an area that is adjacent to the 
+areas that it already services than an area hundreds of kilometres away. This 
+means that some pathology providers that are active in a certain market (i.e. a 
+certain state) do not pose an immediate competitive constraint in some regions of 
+that market and may not be sufficiently likely to expand into those regions in a 
+sufficiently timely manner to be relevant to the competitive process there. 
+62. The ACCC found that a new entrant or existing pathology provider seeking to 
+expand may be able to gain referrals relatively rapidly as a result of a change of 
+billing policy by a rival pathology provider or by offering bulk billing to patients that 
+are currently privately billed. However, in these circumstances a smaller pathology 
+provider may be deterred from incurring the costs associated with establishing or 
+expanding its collection and testing capacity due to the prospect of rapidly losing 
+any additional referral base that it gains through these means. This is because an 
+incumbent could utilise its established collection and testing capacity, reputation 
+and professional relationships to regain its lost customer base rapidly, and at little 
+cost, by reversing such a change in policy or by responding on a targeted basis, for 
+example by altering its billing policy at relevant ACCs. Such a change of billing 
+policy, including a subsequent reversal, occurred in Queensland in 2009. This 
+event is described in the competition analysis section for Queensland below.  
+Localised competition effects 
+63. The ACCC considered that competition effects may arise on a localised basis 
+within a given market (i.e. within a given state). This is because patients are willing 
+to travel only a limited distance to visit an ACC. Notwithstanding the presence of 
+multiple pathology providers in a given state, there are areas covered only by a 
+subset of those pathology providers (i.e. areas where only some pathology 
+providers have ACCs and/or provide doctor collects). This may facilitate localised 
+competition effects arising from an acquisition.  
+64. The ACCC identified several geographic areas where Sonic and Healthscope were 
+the only pathology providers with an ACC. In those areas, the number of corporate 
+pathology providers with ACCs would decrease from two to one following the 
+proposed acquisitions. However, the ACCC considered that Primary would be 
+likely to establish a local ACC relatively quickly if Sonic were to increase prices or 
+decrease service levels in those areas, given Primary’s presence across the 
+relevant states and established reputation in the relevant markets.  
+65. The ACCC therefore primarily considered whether the aggregation of two of the 
+three corporate pathology providers in each of the relevant markets would result in 
+a substantial lessening of competition, taking into account:  
+ 
+the level and significance of the competition provided by Healthscope in the 
+relevant markets for community pathology that would be lost post-
+acquisition; and 
+
+
+ 
+Page 13 of 17 
+ 
+whether the competition provided by Healthscope in each market could be 
+replaced by another existing or potential pathology provider post-acquisition 
+in a timely way. 
+66. In particular, given the on-going competitive constraint provided by Primary in the 
+relevant markets, the ACCC considered whether any coordinated effects were 
+likely to arise from the proposed acquisitions. 
+Competition analysis – Queensland 
+67. The Medicare figures relating to the number of ACCs held by each pathology 
+provider in Queensland were as follows: 
+Pathology provider 
+Share of ACCs (21 May 2012) 
+Primary (QML Pathology) 
+~50% 
+Sonic (Sullivan Nicolaides Pathology) ~35% 
+Healthscope 
+~10% 
+Mater Pathology 
+~4% 
+Coastal Pathology 
+~1% 
+Pathology Queensland 
+~1% 
+Other 
+~1% 
+Competitive constraint imposed by Healthscope 
+68. Information and documents obtained by the ACCC following publication of its 
+Statement of Issues indicated that, although Sonic and Primary are likely to be the 
+closest competitors of each other in Queensland, there was evidence of a 
+substantial degree of rivalry between Sonic, Primary and Healthscope. 
+69. Despite Healthscope’s relatively small market share, the ACCC reached the view 
+that it provides an appreciably stronger level of competition relative to other 
+pathology providers in the Queensland market other than Sonic and Primary. In 
+particular: 
+ 
+Healthscope’s ACCs are located across multiple regions within Queensland 
+and it has more than double the number of ACCs in Queensland compared 
+to the next largest competitor, Mater Pathology. Healthscope’s ACCs are 
+located across Queensland rather than being concentrated in a particular 
+region; 
+ 
+Healthscope runs a hub and spoke laboratory network in Queensland, 
+which allows it to maximise the efficiency of its pathology testing, unlike the 
+smaller pathology providers; 
+ 
+Healthscope has been steadily growing its pathology referral volumes; and 
+
+
+ 
+Page 14 of 17 
+ 
+while Healthscope must compete to obtain referrals by tendering or leasing 
+sites for ACCs within medical centres owned by third parties, its ownership 
+of several medical centres and private hospitals in Queensland provides it 
+with access to convenient locations from which to compete for referrals 
+without having to incur the high costs of renting space for ACCs. 
+The 2009 Queensland event 
+70. The ACCC considered an event in 2009 relating to Sonic’s billing policy in 
+Queensland to be particularly relevant to its assessment of the likely effect of the 
+Queensland proposed acquisition. 
+71. In 2009, each of the corporate pathology providers sent a series of letters to 
+medical practitioners informing them that it was not sustainable for pathology 
+services to continue to be bulk billed and encouraging them only to request bulk 
+billing for financially disadvantaged patients. In July 2009, Sonic changed its billing 
+policy in Queensland so that it would privately bill a much greater proportion of 
+patients. As a consequence, Sonic rapidly lost referrals until it reversed this 
+change of billing policy in early 2010. Sonic then rapidly regained much of its lost 
+referral volumes. This appeared to be due to its established relationships and 
+reputations, and the short period in which the policy change was in place. 
+72. The ACCC obtained documents and information from the merger parties and third 
+parties relating to the 2009 Queensland event. Due to confidentiality restrictions, 
+the ACCC cannot provide any detail regarding those documents and information. 
+However, based on these, the ACCC concluded that Healthscope had played a 
+significant role in disrupting a potentially broader move by Sonic and Primary to 
+privately bill a larger proportion of patients in Queensland. 
+Significance of other pathology providers 
+73. As outlined above, the ACCC considered that smaller pathology providers face 
+significant hurdles to expanding their presence. The ACCC concluded that none of 
+the remaining pathology providers in Queensland were likely – in a timely manner 
+– to replicate the competitive constraint currently provided by Healthscope. In 
+particular, the ACCC noted: 
+ 
+Mater Pathology is a not-for-profit pathology provider affiliated with the 
+Mater Hospitals in Brisbane. It does not have the same commercial drivers 
+as a private pathology provider. It has less than half the market share of 
+Healthscope and does not appear likely to expand its presence very 
+substantially in the short to medium-term. 
+ 
+Coastal Pathology has a very small market share and is focussed on 
+providing a local service on the Sunshine Coast. 
+ 
+Pathology Queensland is a public pathology provider, currently 
+experiencing cuts to its budget. It is focussed on providing pathology 
+services to in-patients and has only two ACCs in the community. 
+74. The ACCC therefore concluded that the remaining pathology providers in 
+Queensland (or potential new entrants) were not likely to provide a comparable 
+level of competitive constraint to Healthscope in a timely manner, post-acquisition. 
+
+
+ 
+Page 15 of 17 
+Conclusion 
+75. The ACCC concluded that the Queensland proposed acquisition would result in the 
+removal of a significant competitive constraint in the Queensland market that was 
+not likely to be replicated by any existing or new pathology providers post-
+acquisition, and therefore would be likely to result in a substantial lessening of 
+competition. 
+76. The ACCC considered that the events surrounding Sonic’s change of billing policy 
+in Queensland in 2009 were a strong indication of the level of inter-dependence of 
+the billing policies of the corporate pathology providers in Queensland. The ACCC 
+therefore considered that the Queensland proposed acquisition was likely to 
+increase the prospect that a change of billing policy by either Sonic or Primary 
+would be accommodated by the other and not disrupted by any existing or new 
+pathology provider, resulting in more patients being privately billed.  
+77. The ACCC further considered that a substantial lessening of competition in the 
+Queensland market may also be manifested in aspects of pathology providers’ 
+price and service offering other than their bulk billing policies. 
+Competition analysis – Western Australia 
+78. The Medicare figures relating to the number of ACCs held by each pathology 
+provider in WA were as follows: 
+Pathology provider 
+Share of ACCs (21 May 2012) 
+Primary (Western Diagnostic Pathology) ~28% 
+Sonic (Clinipath/Bunbury Pathology) 
+~25% 
+SJOG 
+~15% 
+Healthscope 
+~13% 
+Perth Pathology 
+~10% 
+PathWest 
+~7% 
+Other 
+~1% 
+Competitive constraint imposed by Healthscope 
+79. The ACCC considered that Healthscope’s presence in the WA market imposed a 
+material competitive constraint on the other pathology providers in terms of price 
+and service offerings for community pathology. In this regard, the ACCC noted: 
+ 
+Healthscope had considerably expanded its ACC network and had the 
+testing and collection capacity to take significant volumes of referrals from 
+its rivals. 
+ 
+Market inquiries indicated that Healthscope was aggressively competing for 
+co-located ACCs at medical centres by paying high levels of rent. 
+
+
+ 
+Page 16 of 17 
+ 
+Healthscope’s ownership of medical centres and the Mount Hospital 
+provided a strong pathology referral stream. 
+Significance of other pathology providers 
+80. The ACCC considered whether the remaining pathology providers in WA would 
+provide a level of competition post-acquisition that was comparable to 
+Healthscope. 
+81. Market inquiries indicated that the market shares in WA are more evenly 
+distributed among a larger number of full service pathology providers with 
+significant geographic coverage of WA. In particular, PathWest and SJOG have a 
+greater presence than Healthscope in WA. Market inquiries with medical practices 
+indicated that there are a number of alternative pathology providers available if the 
+merged firm were to privately bill or change its service offering. 
+Conclusion 
+82. The ACCC therefore considered that, although the WA proposed acquisition was 
+likely to remove a significant player, it was not likely to substantially lessen 
+competition in the WA market, given that: 
+ 
+a number of pathology providers would remain in the WA market that would 
+continue to provide a comparable level of competition; and 
+ 
+although Healthscope appeared to be a strong competitor winning market 
+share from Sonic, Primary and others, the competitive constraint offered by 
+Healthscope, and likely to be offered by Healthscope in the future without 
+the proposed acquisition, did not appear to be significantly different or 
+superior to that of other competitors in the WA market, such as SJOG and 
+PathWest. 
+Competition analysis – ACT and Southern Tablelands 
+83. The ACCC considered the ACT proposed acquisition in the context of the market 
+for the supply of community pathology services in New South Wales / ACT. The 
+ACCC found that pathology providers not servicing the ACT or Southern 
+Tablelands region provided very little competitive constraint in relation to the 
+Healthscope pathology business that Sonic proposed to acquire. As such, and 
+given that the Southern Tablelands region is immediately adjacent, the ACCC 
+assessed the competitive effects of the proposed acquisition primarily in the ACT. 
+84. The Medicare figures relating to the number of ACCs held by each pathology 
+provider in the ACT were as follows: 
+Pathology provider 
+Share of ACCs (21 May 2012) 
+Sonic (Capital Pathology)  
+~41% 
+Primary (Laverty Pathology) ~25% 
+Healthscope 
+~18% 
+ACT Pathology 
+~16% 
+
+
+ 
+Page 17 of 17 
+Competitive constraint imposed by Healthscope 
+85. Market inquiries indicated that while Healthscope was competitive in the ACT, it did 
+not appear to be a particularly significant competitor. 
+86. The ACCC also formed the view that Healthscope was likely to impose a weaker 
+competitive constraint in the ACT in the event that the ACT proposed acquisition 
+did not proceed. 
+Significance of other pathology providers 
+87. The ACCC found that two other full-service pathology providers would remain in 
+the ACT market to constrain Sonic post-acquisition: Primary and ACT Pathology. 
+ 
+ACT Pathology is a public pathology provider with a significant presence in 
+the ACT and has a policy always to bulk bill. The ACCC considered ACT 
+Pathology to be a viable alternative to Sonic but noted the limitations on 
+ACT Pathology’s ability to expand and take on substantial referral volumes. 
+ 
+Primary has a smaller presence in the ACT than in other states but market 
+inquiries indicated that Primary is well-placed to expand its presence in the 
+ACT to constrain Sonic, particularly if Sonic were to increase prices or 
+decrease service levels post-acquisition. 
+Conclusion 
+88. The ACCC concluded that the ACT proposed acquisition was not likely to 
+substantially lessen competition in the ACT, given that: 
+ 
+Sonic would continue to be constrained by Primary and the public provider, 
+ACT Pathology; and 
+ 
+Healthscope did not appear to be a particularly strong competitor and was 
+likely to impose a weaker competitive constraint in the ACT in the event 
+that the proposed acquisition did not proceed. 
+Conclusion 
+89. On the basis of the above, the ACCC formed the view that:  
+ 
+the Queensland proposed acquisition would be likely to result in a 
+substantial lessening of competition in the market for the supply of 
+community pathology services in Queensland in contravention of section 50 
+of the Act; 
+ 
+the WA proposed acquisition would not be likely to result in a substantial 
+lessening of competition in the market for the supply of community 
+pathology services in WA; and 
+ 
+the ACT proposed acquisition would not be likely to result in a substantial 
+lessening of competition in the market for the supply of community 
+pathology services in New South Wales (including the ACT). 

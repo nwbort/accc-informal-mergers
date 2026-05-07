@@ -1,0 +1,84 @@
+{
+  "id": "0834",
+  "title": "Ramsay Health Care Limited - completed acquisition of Cairns Day Surgery",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ramsay-health-care-limited-completed-acquisition-of-cairns-day-surgery",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30170",
+  "industries": [
+    "Health Care"
+  ],
+  "date_completed": "18 November 2008",
+  "date_completed_iso": "2008-11-18T12:00:00Z",
+  "date_commenced": "1 November 2007",
+  "date_commenced_iso": "2007-11-01T12:00:00Z",
+  "total_review_days": 209,
+  "acquirers": [
+    "Ramsay Health Care Limited"
+  ],
+  "targets": [
+    "Cairns Day Surgery"
+  ],
+  "timeline": [
+    {
+      "date": "31 Aug 2007",
+      "date_iso": "2007-08-31T12:00:00Z",
+      "event": "Ramsay Health Care Limited acquired Cairns Day Surgery."
+    },
+    {
+      "date": "1 Nov 2007",
+      "date_iso": "2007-11-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Nov 2007",
+      "date_iso": "2007-11-01T12:00:00Z",
+      "event": "ACCC requested information from Ramsay Health Care Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "20 Nov 2007",
+      "date_iso": "2007-11-20T12:00:00Z",
+      "event": "ACCC received information from Ramsay Health Care Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Nov 2007",
+      "date_iso": "2007-11-28T12:00:00Z",
+      "event": "ACCC commenced market inquiries."
+    },
+    {
+      "date": "10 Dec 2007",
+      "date_iso": "2007-12-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Jan 2008",
+      "date_iso": "2008-01-09T12:00:00Z",
+      "event": "ACCC requested further information from Ramsay Health Care Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "25 Jan 2008",
+      "date_iso": "2008-01-25T12:00:00Z",
+      "event": "ACCC received further information from Ramsay Health Care Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 May 2008",
+      "date_iso": "2008-05-07T12:00:00Z",
+      "event": "ACCC requested further information from Ramsay Health Care Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "24 Jun 2008",
+      "date_iso": "2008-06-24T12:00:00Z",
+      "event": "ACCC received further information from Ramsay Health Care Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Nov 2008",
+      "date_iso": "2008-11-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ramsay Health Care Limited (Ramsay) acquired the Cairns Day Surgery on 31 August 2007. It also owns the Cairns Private Hospital.",
+    "Market definition": "This completed acquisition was assessed within the context of the following markets: 1. The market for the supply of private day surgery services to health funds and the Department of Veterans Affairs (DVA) in Cairns and the surrounding region. 2. The market for the supply of private day surgery services to patients (with specialists acting as agents) in Cairns and the surrounding region.",
+    "Competition analysis": "The ACCC's assessment considered whether the acquisition led to a substantial lessening of competition, which may lead to one or more of the following outcomes: 1. Private health funds and the DVA having a significantly weakened bargaining position in their negotiations with Ramsay (particularly in Cairns), resulting in worse bargaining outcomes for health funds and insured patients; 2. Higher prices for uninsured patients; 3. A reduced incentive for Ramsay to operate above the minimum regulatory standard and provide optimal patient care in terms of quality and service levels. On 18 November 2008, the ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. The evidence before the ACCC indicated that the acquisition had not substantially strengthened Ramsay's bargaining power in negotiations with health funds and the DVA in relation to day surgery. In particular, negotiations depend largely on factors beyond the degree of concentration of day surgery providers in Cairns, and rate increases are, to a large extent, determined on a state-wide basis. 2. While barriers to entry are generally high for the provision of day surgery services, there was evidence of planned entry of a new private day surgery facility which will compete with Ramsay in a number of day surgery procedures. There was also evidence suggesting that if Ramsay attempted to reduce quality or service levels below optimal levels, there was a possibility of further entry. 3. On a price and quality basis, there was evidence that competition between the Cairns Day Surgery and the Cairns Private Hospital prior to the acquisition was less close than would likely have been the case between two specialist day surgeries or two hospitals. This partly reflects different cost bases at the two facilities, with hospitals having higher overheads than stand-alone day surgeries. As a result, while there was competition between the facilities, the competitive constraint that the Cairns Private Hospital was able to impose on the Cairns Day Surgery was somewhat limited. 4. There was no evidence to suggest that since the acquisition, prices at the Cairns Day Surgery had risen by any more than increases that applied to the operations of the Ramsay Group as a whole (either in Queensland or nationally). Similarly, there was no evidence that quality or service levels had declined since the acquisition. However, the ACCC placed less weight on this fact than on other evidence, given that the period since the acquisition largely coincides with the period during which the ACCC undertook its review, so Ramsay has had an incentive to keep prices, quality and service at competitive levels over this period."
+  }
+}

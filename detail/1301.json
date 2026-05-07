@@ -1,0 +1,25 @@
+{
+  "id": "1301",
+  "title": "Cabcharge Australia Ltd - proposed acquisition of Arrow Taxi Services Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cabcharge-australia-ltd-proposed-acquisition-of-arrow-taxi-services-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23720",
+  "industries": [
+    "Taxi services"
+  ],
+  "date_completed": "21 March 2006",
+  "date_completed_iso": "2006-03-21T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Cabcharge Australia Ltd (Cabcharge) principally supplies the Cabcharge account facility for the payment of taxi fares. In Melbourne, Cabcharge also owns Black Cabs Combined (BCC) which, among other things, operates a taxi depot for its members, who operate in the Melbourne metropolitan taxi-cab zone (as defined by government regulation). BCC also supplies automated taxi booking and dispatch network services. Arrow Taxi Services Ltd (Arrow) operates a taxi depot and provides administrative services to its members, who also operate principally in the Melbourne metropolitan zone. Arrow currently outsources its taxi booking and dispatch services to BCC.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on the markets for: - the provision of taxi depot services to taxi operators in the Melbourne metropolitan taxi-cab zone; and - the provision of taxi services to the public in the Melbourne metropolitan taxi-cab zone.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in either market given that it involves only a small increase in market concentration. Accordingly, the ACCC decided not to intervene.",
+    "Initiation": "Parties"
+  }
+}

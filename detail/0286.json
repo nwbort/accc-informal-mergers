@@ -1,0 +1,44 @@
+{
+  "id": "0286",
+  "title": "Pfizer Inc - proposed acquisition of Hospira Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pfizer-inc-proposed-acquisition-of-hospira-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57422",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "13 August 2015",
+  "date_completed_iso": "2015-08-13T12:00:00Z",
+  "date_commenced": "26 May 2015",
+  "date_commenced_iso": "2015-05-26T12:00:00Z",
+  "total_review_days": 57,
+  "acquirers": [
+    "Pfizer Inc"
+  ],
+  "targets": [
+    "Hospira Inc"
+  ],
+  "timeline": [
+    {
+      "date": "26 May 2015",
+      "date_iso": "2015-05-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "23 Jun 2015",
+      "date_iso": "2015-06-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "13 Aug 2015",
+      "date_iso": "2015-08-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pfizer Inc proposed to acquire Hospira Inc in a global merger valued at approximately $US17 billion.",
+    "Market definition": "The merger parties overlapped, or had the potential to overlap, for the supply of a number of small molecule drugs and had the potential to overlap for the supply of six biological pharmaceutical molecules and their biosimilars in the future. In relation to small molecule drugs, the ACCC assessed the competitive effects of the proposed acquisition in the context of national markets for the supply of each drug, identified by the active ingredient and presentation of that drug, however the ACCC did not reach a concluded view in relation to the market definition of small molecule drugs. In relation to biopharmaceuticals and biosimilars, the ACCC assessed the competitive effects of the proposed acquisition in the context of national markets for the development, marketing and supply of the following biological pharmaceutical molecules and their biosimilars: - adalimumab - bevacizumab - etanercept - infliximab - rituximab - trastuzumab The ACCC did not consider it necessary to reach a concluded view as to the extent of substitutability of biological pharmaceutical molecules and their biosimilars as it did not have an effect on the competition analysis for this merger.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Factors informing this view in relation to small molecule drugs included: - The merged firm would continue to be competitively constrained by a number of alternative suppliers in the majority of the relevant national markets (including markets for doxorubicin IV, epirubicin IV, irinotecan IV, methotrexate IV, azithromycin IV, piperacillin + tazobactam IV). - There was little to no current competitive overlap between the merger parties in some markets and there was unlikely to be any increase in competitive tension in the foreseeable future without the merger (including markets for etoposide IV, fluorouracil IV, cisplatin IV, methotrexate tablets, paclitaxel IV, metronidazole IV, gentamicin IV). - Parties with an active ARTG listing are likely to exert some competitive constraint on the merged entity through either the threat of entry or actual entry (including markets for aciclovir IV, clindamycin IV, tranexamic acid IV). - Some of the small molecules are old, low value, well known drugs that have been subject to generic competition for some time and where competition has been 'for the market', resulting in one or two suppliers of the product (including markets for tobramycin IV, gentamicin IV, vincristine IV, calcium folinate IV, carboplatin IV, cytarabine IV). - Although Pfizer and Hospira were the only suppliers of heparin IV, they supplied different presentations that had unique clinical applications and therefore there was limited demand-side substitutability between these presentations. Significant barriers also existed for the commencement of supply of alternative versions of heparin which suggested that the merger parties were not currently and were unlikely in future to exert competitive pressure on one another through the threat of supply side substitution. - Although no parties other than the merger parties have an ARTG registration for voriconazole IV, market inquiries indicated that other suppliers will be likely to register their generic versions of the drug closer to the expiry date of the patent. - For small molecule drugs listed on the Pharmaceutical Benefits Scheme (PBS), market participants considered that the PBS would provide some constraint on the pricing of the merged entity. Factors informing this view in relation to biological pharmaceutical molecules and their biosimilars included: - There was significant uncertainty in relation to the regulatory framework, and the likelihood of success and timeframes for eventual market launch in Australia for the pipeline products of the merger parties and competitors (most of the products in question are still in development and are not yet available). - The ACCC focused on overlaps between the parties'  biosimilar products in Phase III of clinical developments as there was a significant risk that a product at Phase II and below may not be developed successfully. Therefore, competition concerns were unlikely in markets for the supply of adalimumab, bevacizumab and etanercept. - A number of well-established competitors were at Phase III for the development of biosimilars for infliximab, rituximab and trastuzumab and would be likely to continue to develop these biosimilars post-acquisition, meaning that by the time the merger parties have brought their products to market there would likely be sufficient competitors (who will by then have also completed product development) to constrain the merged entity."
+  }
+}

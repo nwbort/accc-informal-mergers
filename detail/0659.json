@@ -1,0 +1,44 @@
+{
+  "id": "0659",
+  "title": "ZM Australia Pty Ltd - proposed acquisition of Tatiara Meat Company Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/zm-australia-pty-ltd-proposed-acquisition-of-tatiara-meat-company-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39759",
+  "industries": [
+    "Meat processing"
+  ],
+  "date_completed": "17 February 2010",
+  "date_completed_iso": "2010-02-17T12:00:00Z",
+  "date_commenced": "18 December 2009",
+  "date_commenced_iso": "2009-12-18T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "ZM Australia Pty Ltd"
+  ],
+  "targets": [
+    "Tatiara Meat Company Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Dec 2009",
+      "date_iso": "2009-12-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jan 2010",
+      "date_iso": "2010-01-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Feb 2010",
+      "date_iso": "2010-02-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ZM Australia Pty Ltd proposed to acquire Tatiara Meat Company Pty Ltd.",
+    "Market definition": "In its evaluation of the proposed acquisition, the ACCC considered markets comprising both lamb and sheep and markets comprising only lamb, within the context of: - the acquisition market within South Australia, New South Wales and Victoria; and - the national market for the sale of processed meat. For the purposes of its competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition irrespective of the market definition adopted. Factors informing this decision included: - the presence of a number of competing businesses in the relevant markets; and - that the proposed acquisition would result in a small aggregation of market share in each of the                      relevant markets."
+  }
+}

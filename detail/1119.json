@@ -1,0 +1,49 @@
+{
+  "id": "1119",
+  "title": "Pacific Brands Ltd - proposed acquisition of Yakka (Aust) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-brands-ltd-proposed-acquisition-of-yakka-aust-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26918",
+  "industries": [
+    "Clothing"
+  ],
+  "date_completed": "17 April 2007",
+  "date_completed_iso": "2007-04-17T12:00:00Z",
+  "date_commenced": "21 February 2007",
+  "date_commenced_iso": "2007-02-21T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Pacific Brands Ltd"
+  ],
+  "targets": [
+    "Yakka (Aust) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Feb 2007",
+      "date_iso": "2007-02-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "13 Mar 2007",
+      "date_iso": "2007-03-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Apr 2007",
+      "date_iso": "2007-04-04T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further inquiries."
+    },
+    {
+      "date": "17 Apr 2007",
+      "date_iso": "2007-04-17T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The transaction saw Pacific Brands acquiring the Yakka Group of companies which includes a range of workwear brands including: Yakka, Hard Yakka, Legends Workwear, Can't Tear Em, Yakka Generation Y, Hard Yakka Koolgear and Stylecorp Corporate Wear. Yakka also owns and manages various other everyday outerwear brands including: Weekenders, Mustang, Faberge, Wrangler Jeans, Lee Jeans, Riders by Lee Jeans and Golf Punk.   Pacific Brands also owns and manages a range of brands including workwear brands KingGee and Stubbies.",
+    "Market definition": "On the information provided, for the purposes of this competition assessment the relevant markets were considered to be: 1) the supply of industrial workwear at the wholesale level to retailers and at the retail level to business end customers (Market 1); 2) the supply of corporate workwear at the wholesale level to retailers and at the retail level to business end customers (ie. corporate uniforms) (Market 2).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets for the following reasons: 1) In relation to Market 1, while Pacific Brands and Yakka can be considered the two closest rivals in terms of product range, strategy and brand significance, the market is characterised by a large number of market participants (albeit with small market shares) and high levels of imports, particularly from Asian sources. Barriers to entry and expansion do not appear to be significant other than to the extent that brand names and brand loyalty are important.  Branding in the market reinforces an individual customer's views as to quality and functionality, but market enquiries indicated that it does not prevent customers, particularly corporate customers, from considering non-branded product as an alternative.  Further, the ability of major customers (including department stores and retail chains) to import directly provides a degree of constraint on the merged entity's ability to raise prices. 2) In relation to Market 2, the merged entity will continue to face competition from a number of wholesalers and retailers, and barriers to entry and expansion appear to be relatively low given branding is not as significant in the supply of corporate workwear."
+  }
+}

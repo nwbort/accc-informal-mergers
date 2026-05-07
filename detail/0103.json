@@ -1,0 +1,67 @@
+{
+  "id": "0103",
+  "title": "Cargotec Corporation - Konecranes Plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cargotec-corporation-konecranes-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Container handling products and related services"
+  ],
+  "date_completed": "30 March 2022",
+  "date_completed_iso": "2022-03-30T12:00:00Z",
+  "date_commenced": "5 August 2021",
+  "date_commenced_iso": "2021-08-05T12:00:00Z",
+  "total_review_days": 159,
+  "acquirers": [
+    "Cargotec Corporation"
+  ],
+  "targets": [
+    "Konecranes Plc"
+  ],
+  "timeline": [
+    {
+      "date": "5 Aug 2021",
+      "date_iso": "2021-08-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "27 Aug 2021",
+      "date_iso": "2021-08-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "28 Oct 2021",
+      "date_iso": "2021-10-28T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "19 Nov 2021",
+      "date_iso": "2021-11-19T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "15 Feb 2022",
+      "date_iso": "2022-02-15T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of findings (17 February 2022) is delayed."
+    },
+    {
+      "date": "24 Feb 2022",
+      "date_iso": "2022-02-24T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertakings."
+    },
+    {
+      "date": "10 Mar 2022",
+      "date_iso": "2022-03-10T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed divestment undertaking."
+    },
+    {
+      "date": "30 Mar 2022",
+      "date_iso": "2022-03-30T12:00:00Z",
+      "event": "ACCC discontinued its public review after Cargotec and Konecranes withdrew their application for informal merger clearance."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cargotec Corporation ( Cargotec ) proposed to merge with Konecranes Plc ( Konecranes ). In Australia, Cargotec’s Kalmar business and Konecranes’ Port Solutions business both supply container handling products and services (including cranes, horizontal transport equipment, mobile equipment, aftersales services and terminal consultancy services) to terminal operators."
+  }
+}

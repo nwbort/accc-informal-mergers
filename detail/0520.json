@@ -1,0 +1,74 @@
+{
+  "id": "0520",
+  "title": "Caltex Australia Petroleum Pty Ltd - proposed acquisition of the Mobil assets at the Caltex-Mobil joint fuel terminal in Gladstone",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caltex-australia-petroleum-pty-ltd-proposed-acquisition-of-the-mobil-assets-at-the-caltex-mobil-joint-fuel-terminal-in-gladstone",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43768",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "26 May 2011",
+  "date_completed_iso": "2011-05-26T12:00:00Z",
+  "date_commenced": "15 October 2010",
+  "date_commenced_iso": "2010-10-15T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "Caltex Australia Petroleum Pty Ltd"
+  ],
+  "targets": [
+    "The Mobil assets at the Caltex-Mobil joint fuel terminal in Gladstone"
+  ],
+  "timeline": [
+    {
+      "date": "15 Oct 2010",
+      "date_iso": "2010-10-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Nov 2010",
+      "date_iso": "2010-11-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Nov 2010",
+      "date_iso": "2010-11-15T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "18 Nov 2010",
+      "date_iso": "2010-11-18T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Dec 2010",
+      "date_iso": "2010-12-02T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "23 Dec 2010",
+      "date_iso": "2010-12-23T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "7 Jan 2011",
+      "date_iso": "2011-01-07T12:00:00Z",
+      "event": "ACCC timeline suspended to allow merger parties to provide further information."
+    },
+    {
+      "date": "29 Apr 2011",
+      "date_iso": "2011-04-29T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 May 2011",
+      "date_iso": "2011-05-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Caltex proposed to acquire the Mobil assets at the Gladstone fuel terminal, which was operating as a joint fuel terminal by Caltex and Mobil.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the supply of liquid petrol and diesel hosting services in the Gladstone region. Competition in this market will have an effect on markets for the wholesale and retail supply of petrol and diesel in the Gladstone region.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in the relevant market. The ACCC considered that the possible counterfactual of an independent fuel supplier acquiring the Mobil assets was not likely to be substantially more competitive than the proposed acquisition. In forming this view, the ACCC had regard to: - The low likelihood that an independent fuel supplier could acquire the assets and operate them on a 'stand-alone' basis (i.e. without entering into joint terminal arrangements with Caltex) and in a manner that would be competitive with incumbents in the market. In this regard, the ACCC noted that Mobil will require a hosting agreement for a significant volume of fuel regardless of who acquires the assets, limiting the alternative uses of the assets especially if they were operated on a stand-alone basis. To enter into a joint terminal agreement with Caltex would have required any independent buyer to enter into a separate agreement with Caltex in addition to an agreement with Mobil to acquire the assets and there is uncertainty as to whether such an agreement could be reached. - The likelihood of future expansion and development at Port Alma (including the potential for petrol imports) which could result in more efficient importation through that port and competitive wholesale supply by independents to the Gladstone region. - The growth of the Gladstone region (in terms of population and industry) which is likely to result in significant increases in fuel demand which may create future opportunities for supply or expansion by independent fuel suppliers, particularly at the nearby port of Port Alma."
+  }
+}

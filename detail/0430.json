@@ -1,0 +1,54 @@
+{
+  "id": "0430",
+  "title": "Coles Supermarkets Australia Pty Ltd - proposed acquisition of Progressive Supa IGA supermarkets in Whitford City and Cockburn Gateway WA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-supermarkets-australia-pty-ltd-proposed-acquisition-of-progressive-supa-iga-supermarkets-in-whitford-city-and-cockburn-gateway-wa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48579",
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "31 July 2012",
+  "date_completed_iso": "2012-07-31T12:00:00Z",
+  "date_commenced": "30 May 2012",
+  "date_commenced_iso": "2012-05-30T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Coles Supermarkets Australia Pty Ltd"
+  ],
+  "targets": [
+    "Progressive Supa IGA in Whitford City and Cockburn Gateway WA"
+  ],
+  "timeline": [
+    {
+      "date": "30 May 2012",
+      "date_iso": "2012-05-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Jun 2012",
+      "date_iso": "2012-06-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Jul 2012",
+      "date_iso": "2012-07-02T12:00:00Z",
+      "event": "ACCC requested further information from Coles and Progressive Supa IGA. ACCC timeline suspended. Former proposed decision date of 12 July 2012 delayed to allow provision of requested information."
+    },
+    {
+      "date": "23 Jul 2012",
+      "date_iso": "2012-07-23T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Jul 2012",
+      "date_iso": "2012-07-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles Supermarkets proposed to acquire two Progressive Supa IGA supermarkets in Whitford City and Cockburn Gateway, Western Australia.",
+    "Market definition": "The ACCC considered the effects of the acquisition in the context of local retail supermarket competition in each of Whitford City and Cockburn Gateway, taking into account conditions unique to each area. The ACCC also took into account any likely impact in other relevant markets, including the broader retail market and wholesale procurement and supply markets.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in local retail markets. In relation to the acquisition of Progressive Supa IGA Whitford, the ACCC considered that the presence of other IGA supermarkets in the Whitford region would provide a service offering similar to that of the target post-acquisition. In relation to the acquisition of Progressive Supa IGA Cockburn, the ACCC considered that there was limited overlap between the operations of the target Supa IGA store and existing Coles supermarkets. In relation to the broader retail market and wholesale markets, the ACCC considered that the acquisition of two Supa IGA stores would not materially impact the volumes of supermarket products acquired and supplied by Coles or other wholesalers and therefore the proposed acquisition was unlikely to raise competition concerns in these markets."
+  }
+}

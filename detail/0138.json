@@ -1,0 +1,57 @@
+{
+  "id": "0138",
+  "title": "Alsco Pty Ltd - Spotless' garment business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alsco-pty-ltd-spotless-garment-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Garments rental business"
+  ],
+  "date_completed": "22 October 2020",
+  "date_completed_iso": "2020-10-22T12:00:00Z",
+  "date_commenced": "9 June 2020",
+  "date_commenced_iso": "2020-06-09T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Alsco Pty Ltd"
+  ],
+  "targets": [
+    "Spotless' garment business"
+  ],
+  "timeline": [
+    {
+      "date": "9 Jun 2020",
+      "date_iso": "2020-06-09T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jun 2020",
+      "date_iso": "2020-06-25T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "7 Aug 2020",
+      "date_iso": "2020-08-07T12:00:00Z",
+      "event": "ACCC is awaiting information from Alsco, and the former provisional date for the announcement of findings (27 August 2020) is delayed."
+    },
+    {
+      "date": "30 Sep 2020",
+      "date_iso": "2020-09-30T12:00:00Z",
+      "event": "ACCC received further information from Alsco."
+    },
+    {
+      "date": "8 Oct 2020",
+      "date_iso": "2020-10-08T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "22 Oct 2020",
+      "date_iso": "2020-10-22T12:00:00Z",
+      "event": "ACCC discontinued its public review after Alsco informed of its intention to withdraw its proposed acquisition of Spotless garment's business."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Alsco Pty Ltd ( Alsco ) proposed to acquire the garment laundry and rental business of Spotless Group Holdings Limited ( Spotless' garment business ) . Alsco Pty Ltd is wholly owned by Alsco Inc., a company based in the United States. Spotless Group Holdings Limited is wholly owned by Downer EDI Limited. Both parties provide garment laundry and work wear rental services in Australia."
+  }
+}

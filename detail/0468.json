@@ -1,0 +1,44 @@
+{
+  "id": "0468",
+  "title": "Woolworths Limited - proposed acquisition of Mittagong Home Hardware and Home Mittagong Timber & Trade",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-mittagong-home-hardware-and-home-mittagong-timber-trade",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47492",
+  "industries": [
+    "Hardware"
+  ],
+  "date_completed": "17 January 2012",
+  "date_completed_iso": "2012-01-17T12:00:00Z",
+  "date_commenced": "29 November 2011",
+  "date_commenced_iso": "2011-11-29T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Woolworths Limited and Lowe's Companies Inc Joint Venture"
+  ],
+  "targets": [
+    "Mittagong Home Hardware and Home Mittagong Timber & Trade"
+  ],
+  "timeline": [
+    {
+      "date": "29 Nov 2011",
+      "date_iso": "2011-11-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Dec 2011",
+      "date_iso": "2011-12-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Jan 2012",
+      "date_iso": "2012-01-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited and Lowe's Companies Inc through Blue Mountains Hardware Pty Ltd (the Joint Venture) proposed to acquire all interests and assets associated with the business of Mittagong Home Hardware and Home Mittagong Timber & Trade (together, Mittagong Home). Mittagong Home was a privately owned and operated domestic hardware and home improvement business consisting of two outlets in the southern highlands region of NSW as follows: \"\tMittagong Home Hardware, a hardware and home improvement store located at the corner of Princess Street and Bowral Road, Mittagong, NSW; and \"\tHome Mittagong Timber and Trade, a store which focused on trade sales of truss, timber and building materials, located at 13 Cavendish Street, Mittagong, NSW. The Joint Venture operated one hardware and home improvement store within the Mittagong local market - a Magnet Mart located on Bundaroo Street, Bowral, NSW.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of local markets for the retail sale of hardware and home improvement products on a product category basis.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: -\tpost-acquisition, the Joint Venture was likely to be constrained by Bunnings which was located in                 close proximity to Mittagong Home; and -\tconsumers in the Mittagong area could also switch to buying certain categories of hardware                          products from several specialty suppliers in the local market."
+  }
+}

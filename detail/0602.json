@@ -1,0 +1,44 @@
+{
+  "id": "0602",
+  "title": "Bureau Veritas - proposed acquisition of Inspectorate",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bureau-veritas-proposed-acquisition-of-inspectorate",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42658",
+  "industries": [
+    "Geochemical testing of minerals"
+  ],
+  "date_completed": "13 August 2010",
+  "date_completed_iso": "2010-08-13T12:00:00Z",
+  "date_commenced": "2 July 2010",
+  "date_commenced_iso": "2010-07-02T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Bureau Veritas International SAS"
+  ],
+  "targets": [
+    "Inspectorate Group Holdings Ltd and Inspectorate Pledgeco Inc"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jul 2010",
+      "date_iso": "2010-07-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Jul 2010",
+      "date_iso": "2010-07-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Aug 2010",
+      "date_iso": "2010-08-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bureau Veritas proposed to acquire Inspectorate Group Holdings Ltd and Inspectorate Pledgeco Inc from Inspicio Ltd. The parties both provide mineral testing services.",
+    "Market definition": "For the purpose of this competition assessment, the ACCC considered the competitive effects of the proposed acquisition in the context of the market for the supply of geochemical mineral testing services in Western Australia.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. In forming this view, the ACCC had regard to the following factors: - the presence of other well-established competitive suppliers in the market, notably ALS, Intertek and SGS, that are global competitors with significant and diverse Australian operations; - limited competition between Bureau Veritas and Inspectorate given that Inspectorate is a relatively small supplier and focuses on testing gold samples; - the excess capacity in the market and relatively low barriers to expansion; - relatively low barriers to entry; and - no significant barriers to customers switching providers."
+  }
+}

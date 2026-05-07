@@ -1,0 +1,802 @@
+ 
+Public Competition Assessment 
+6 July 2012 
+AGL Energy Limited – proposed acquisition of Great Energy 
+Alliance Corporation Pty Limited (owner of the Loy Yang A power 
+station) 
+Introduction 
+1. 
+On 24 May 2012, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition by AGL 
+Energy Limited (AGL) of the remaining interest in Great Energy Alliance 
+Corporation Pty Limited (GEAC) (the proposed acquisition). AGL already had 
+a 32.54 per cent shareholding in GEAC. GEAC owns the Loy Yang Power 
+business (LYP), owner of the Loy Yang A power station. The ACCC formed the 
+view that the proposed acquisition was not likely to have the effect of 
+substantially lessening competition in any market in contravention of section 50 
+of the Competition and Consumer Act 2010 (the Act). 
+2. 
+The ACCC formed its view on the basis of the information provided by the 
+merger parties, information arising from its market inquiries and other information 
+available to the ACCC and Australian Energy Regulator (AER). This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition was not opposed by the ACCC but raised important issues that the 
+ACCC considers should be made public.   
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets 
+and the associated merger and competition issues. It also alerts the public to 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+2 
+circumstances where developments in particular markets have led, or are likely 
+to lead, to changes in the ACCC’s assessment of competition conditions in those 
+markets.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and 
+decision outlined in one Public Competition Assessment will be conclusive of the 
+ACCC’s view in respect of other transaction proposals, as each matter will be 
+considered on its own merits.  
+7. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition at the time the decision was made. As 
+such, Public Competition Assessments may not definitively identify and explain 
+all issues that the ACCC considers arise from a proposed acquisition. Further, 
+the ACCC’s decisions generally involve consideration of both non-confidential 
+and confidential information provided by the merger parties and market 
+participants. In order to maintain the confidentiality of particular information, 
+Public Competition Assessments do not contain any confidential information or 
+its sources. 
+The parties 
+AGL Energy Limited 
+8. 
+AGL is an energy company listed on the ASX. AGL has a range of retail and 
+wholesale gas and electricity interests: 
+ Victoria: Gas and electricity retail operations, the Somerton power station 
+(registered capacity: 160 MW, summer capacity: 134 MW) (peaking plant), 
+and hydro generation assets (~700 MW). Prior to the proposed acquisition, 
+AGL already held a 32.54 per cent interest in the Loy Yang A power station 
+through its shareholding in GEAC.  
+ South Australia: Gas and electricity retail operations and the Torrens Island 
+Power Station (TIPS) (registered capacity: 1,280 MW, summer capacity: 
+1,252 MW). AGL is also involved in the development and operation of wind 
+powered generation assets. 
+ New South Wales: Gas and electricity retail operations, hydro generation 
+assets and coal seam methane production and exploration interests. 
+ Queensland: Gas and electricity retail operations, a 50 per cent interest in the 
+Moranbah coal seam methane project and associated power station, and a 
+50 per cent interest in the former Enertrade gas merchant business. 
+Additionally, AGL has upstream gas interests. 
+9. 
+Most relevant to the proposed acquisition were AGL’s electricity retail operations, 
+peaking plant and hydro generation assets in Victoria and TIPS in South 
+Australia.  
+10. AGL’s shares of generation capacity in the Victorian and South Australian 
+regions of the National Electricity Market (NEM) (excluding wind energy, small-
+scale renewable plants and regional interconnectors) prior to the proposed 
+acquisition were as follows: 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+3 
+ Victoria: ~8 per cent   
+ South Australia: ~36 per cent 
+ Victoria/South Australia: ~14 per cent   
+11. AGL had a significant presence in electricity retailing in Victoria, with more than 
+20% of residential and small business customers in Victoria and over 20% of 
+overall retail load in Victoria in 2011.  
+Loy Yang Power 
+12. The Loy Yang Power Partnership manages the Loy Yang A power station in 
+Victoria (registered capacity: 2,210 MW, summer capacity: 2,190 MW) and the 
+adjacent brown coal open cut mine. 
+13. Loy Yang A is the largest base load power station in the Victorian region of the 
+NEM. LYP’s shares of generation capacity in the Victorian and South Australian 
+regions of the NEM (excluding wind energy, small-scale renewable plants and 
+regional interconnectors) are as follows: 
+ Victoria: ~20 per cent   
+ Victoria/South Australia: ~15 per cent   
+14. The proposed acquisition would therefore lead both to the horizontal aggregation 
+of generation assets and increased vertical integration between generation and 
+retail markets. The ACCC considered the likely competitive effects of the 
+proposed acquisition under these two broad headings. 
+15. The Loy Yang Power Partnership is owned by GEAC. GEAC shareholders 
+included AGL (~32.5 per cent), the Tokyo Electric Power Company, Inc. 
+(TEPCO) (~32.5 per cent), Ratch Australia (~14 per cent), MTAA Super (~13 per 
+cent), Westscheme (~5.7 per cent) and Statewide Super (~2.5 per cent). 
+16. In 2003, AGL successfully sought a declaration from the Federal Court that the 
+acquisition of an interest of up to 35 per cent of the Loy Yang A power station 
+would not breach section 50 of the Act, subject to an undertaking given by AGL 
+to the Federal Court. AGL also provided an undertaking to the ACCC under 
+section 87B of the Act, which contained mechanical provisions to enable the 
+ACCC to monitor compliance with the court undertaking. The Federal Court 
+undertaking prevented AGL from acquiring more than a 35 per cent interest in 
+the Loy Yang A power station and prevented it from being involved in the 
+contracting, dispatch or bidding of electricity produced from the Loy Yang A 
+power station. 
+17. Due to these undertakings, Loy Yang Marketing Management Company Pty Ltd 
+(LYMMCo), wholly owned by Loy Yang Marketing Holdings Pty Ltd, managed 
+the contracting, marketing and dispatch of electricity from the Loy Yang A power 
+station. LYMMCo was owned by the GEAC shareholders other than AGL. 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+4 
+Industry background 
+Electricity 
+18. There are approximately 200 electricity generators of varying sizes operating in 
+the NEM (excluding smaller imbedded generation). Generators are commonly 
+characterised in terms of their capacity (which is the maximum amount of 
+electricity that may be produced at a given time, usually measured in megawatts 
+(MW)) and energy (which is the volume of electricity produced over a period of 
+time, usually measured in megawatt hours (MWh) or gigawatt hours (GWh)). 
+19. Electricity produced by generators is transported at high voltage on a 
+transmission system which connects regions of the NEM. Distribution networks 
+then carry electricity from points on the transmission networks and deliver it at 
+lower voltages to consumers through electricity connections at residential and 
+commercial locations. The AER regulates the revenue received by the owners of 
+the transmission and distribution networks.  
+20. Electricity retailers do not physically supply electricity to consumers. Rather, they 
+pay for electricity consumed by their customers, including the transmission and 
+distribution costs, and then bill their customers and provide them with related 
+services. While most jurisdictions allow consumers to choose their energy 
+retailer, jurisdictions other than Victoria apply some form of electricity retail price 
+regulation.  
+21. The NEM is the wholesale spot market through which generators and retailers 
+trade electricity. The NEM is operated by the Australian Energy Market Operator 
+(AEMO), which acts as an intermediary between generators and retailers. 
+Retailers pay AEMO for electricity consumed by their customers and AEMO 
+pays generators for electricity they supply. 
+22. There are five regions of the NEM: Victoria, New South Wales, Queensland, 
+South Australia and Tasmania, so a reference to a region of the NEM is 
+equivalent to a reference to one of these states. These regions are physically 
+linked by an interconnected transmission network (referred to as ‘regional 
+interconnectors’). In 2007, the Snowy region of the NEM was abolished, and 
+Snowy Hydro now has scheduled generation units with 2,112 MW total 
+registered capacity in Victoria (summer capacity: 2,082 MW) and 2,246 MW total 
+registered capacity in New South Wales (summer capacity: 2,564 MW).  
+23. A spot price in each region of the NEM (referred to as the ‘regional reference 
+price’) is calculated based on the bid of the most expensive generator required 
+(‘dispatched’) to meet regional demand. The spot price may vary from region to 
+region as a result of transmission losses incurred when electricity is transported 
+across the network from where it is produced to where it is to be consumed and 
+constraints experienced on interconnectors. Interconnector constraints, 
+particularly when they influence the operation of interconnectors into a region, 
+can lead to electricity prices for that region being set independently from the 
+other adjoining regions of the NEM. 
+Risk management in the NEM  
+ 
+24. Wholesale spot electricity prices are volatile, reflecting varying demand levels 
+and the availability and costs of different types of generation. However retailers 
+generally offer fixed electricity rates to their customers, and are therefore 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+5 
+exposed to the risk that the costs of purchasing wholesale electricity from the 
+spot market will exceed the revenues they earn from their customers, described 
+here as ‘price risk’.  
+25. From the opposite perspective, generators also face a level of price risk, 
+particularly since their financing and investment decisions may be based on 
+projected spot prices which they anticipate will deliver an expected rate of return.  
+26. Generators and retailers seek to manage risk associated with the wholesale 
+electricity spot price volatility by entering into financial derivative contracts. 
+These contracts are commonly known as ‘hedge contracts’ (for the purposes of 
+describing the relevant markets, they are referred to as ‘financial (hedge) 
+contracts’). There are two main types of hedge contracts: 
+ Over-the-counter hedge contracts (OTCs) where two parties (typically a 
+generator and a retailer) enter into a bilateral contract (either directly 
+between the counterparties or assisted by a broker). OTCs may be in 
+standard form or tailored to the particular needs of the parties. 
+ Exchange traded hedge contracts (ETCs), also known as electricity futures 
+products, which are traded on the Sydney Futures Exchange. 
+27. In its simplest form, a hedge contract specifies an agreed ‘strike price’ and the 
+counterparties will pay one another according to the difference between the spot 
+price (i.e. the spot price in one region of the NEM) and the strike price. The two 
+most common types of hedge contracts are swaps and caps: 
+ Swaps: A generator sells a contract under which – in relation to an agreed 
+volume of electricity – the generator must pay the retailer the difference 
+between the spot price and the strike price during times that the spot price is 
+higher than the strike price, and the retailer will pay the difference to the 
+generator during times that the spot price is lower than the strike price. This 
+means that a generator is effectively ‘committed’ to generate the contracted 
+volume of electricity, unless it chooses to bear this spot price risk itself or 
+enters into another swap to cover its liability. 
+ Caps: A generator sells a contract under which – in relation to any electricity 
+consumed by the retailers’ customers at a time when the actual spot price 
+exceeds the strike price – the generator will pay the difference to the retailer. 
+The retailer will pay a premium to reflect the fact that the generator would be 
+foregoing revenue that it would otherwise receive when the spot price 
+exceeds the strike price. 
+28. As retailers have no choice as to the amount of electricity that they must 
+purchase on the spot market on behalf of their customers – since there is no 
+certainty as to the volume of electricity that will be consumed by a retailer’s end 
+user customers in a given trading period – this means retailers are also exposed 
+to the risk that their customers’ use may exceed the volumes covered by hedge 
+contracts, described here as ‘volume risk’. 
+29. Increasingly, generators and retailers are managing their price and volume risk 
+by vertically integrating. The more that a party is vertically integrated, the less it 
+will need to trade hedge contracts to manage this risk. Therefore the extent of 
+vertical integration may have implications for other parties who need to enter into 
+hedge contracts to manage their price and volume risk. 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+6 
+ACCC review timeline 
+30. The timeline of key events in this matter is as follows: 
+ACCC review timeline 
+Date 
+Event 
+24 February 
+2012 
+ACCC commenced review under the Merger Review Process Guidelines. 
+16 March 2012 
+Closing date for submissions from interested parties. 
+3 April 2012 
+ACCC requested further information from the merger parties. ACCC timeline 
+suspended. 
+26 April 2012 
+ACCC received further information from the merger parties. ACCC timeline 
+recommenced. 
+9 May 2012 
+Former proposed date for announcement of ACCC’s findings (17 May 2012) 
+amended to allow merger parties to provide further information. 
+24 May 2012 
+ACCC announced it would not oppose the proposed acquisition. 
+Market inquiries 
+31. The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, prospective new entrants, customers, industry bodies, 
+financial intermediaries and other interested parties. Submissions were sought in 
+relation to the substantive competition issues. 
+Market definition 
+32. The ACCC considered the proposed acquisition in the context of markets for: 
+ the wholesale supply of electricity in Victoria and in a combined Victoria and 
+South Australia, in both cases taking into account interconnector flows; 
+ the supply of financial (hedge) contracts under which payment is based on 
+the regional reference price in Victoria; and 
+ the retail supply of electricity in Victoria. 
+Wholesale supply of electricity / supply of financial (hedge) contracts 
+Product dimension 
+33. In defining the relevant markets for the purposes of examining the proposed 
+acquisition, the ACCC considered whether the wholesale supply of electricity 
+and the supply of financial (hedge) contracts should be included in the same 
+market. 
+34. The ACCC considered that, from a demand and supply side perspective, 
+financial (hedge) contracts are complementary to, rather than a substitute for, 
+the wholesale supply of electricity. That is, financial (hedge) contracts are not 
+contracts for the supply of physical electricity – they are a type of risk 
+management instrument.  
+35. While the ACCC is aware of instances in which generators or retailers may carry 
+on business without financial (hedge) contracts in place, the ACCC took the view 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+7 
+that financial (hedge) contracts are an essential input to sustainably participating, 
+on a material scale, in the wholesale and retail electricity markets.  
+36. Accordingly, the ACCC took the view that the supply of financial (hedge) 
+contracts should not be considered to be in the same market as the wholesale 
+supply of electricity, whilst recognising the close connection between the 
+markets.  
+Geographic dimension (wholesale supply of electricity) 
+37. The ACCC did not consider it necessary to reach a definitive view on the scope 
+of the geographic dimension of the relevant market for the wholesale supply of 
+electricity. Either or both a Victorian or combined Victorian/South Australian 
+market may be relevant. There are degrees of substitution and constraint within 
+and between regions which make it relevant to consider both a narrow and a 
+broader market. Regardless of the geographic dimension considered, the ACCC 
+takes into account ‘imports’ of electricity via regional interconnectors in its 
+assessment.  
+38. The ACCC considers that the degree of competitive constraint resulting from 
+electricity imported from another region of the NEM (i.e. another state) varies 
+depending on the circumstances. For instance, electricity imports from 
+generators in an adjoining region typically act as a very limited competitive 
+constraint at times of high demand (and hence high prices) since this is when 
+interconnectors between regions are more likely to have reached the limit of their 
+capacity, preventing imports of electricity from that adjoining region. Moreover, 
+the AER has observed that, due to the phenomenon of ‘disorderly bidding’ and 
+intraregional transmission congestion, interconnector flows may actually be 
+lower at times of high demand (and hence high prices) in a region. 
+39. The ACCC therefore focussed on the potential competitive impact of the 
+proposed acquisition in:  
+ the Victorian region of the NEM, since this is where the Loy Yang A power 
+station is located; and 
+ a combination of the Victorian and South Australian regions of the NEM, 
+since there is some correlation in demand patterns in these regions and AGL 
+has significant generation assets in South Australia (TIPS). 
+40. Having found that the proposed acquisition was not likely to result in a 
+substantial lessening of competition on the basis of these geographic 
+dimensions, it was unnecessary to consider the possibility that the geographic 
+scope of the market might be broader. 
+Geographic dimension (supply of financial (hedge) contracts) 
+41. In relation to the supply of financial (hedge) contracts, the ACCC considered the 
+proposed acquisition on the basis of a geographic dimension corresponding to 
+the Victorian region of the NEM. The ACCC formed the view that this geographic 
+dimension is appropriate having regard to the fact that payments under a 
+financial (hedge) contract are based on differences between the strike price and 
+the regional reference price in a particular region of the NEM. 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+8 
+42. Market inquiries indicated that a retailer seeking to manage price risk associated 
+with its customer load in one region of the NEM will very rarely (if ever) enter into 
+a financial (hedge) contract under which payments are calculated by reference to 
+the spot price in a different region of the NEM, since this is not an effective way 
+to manage price risk. This primarily reflects the fact that at times of high demand 
+in a NEM region (and hence a high regional reference price), there is often a 
+significant divergence from the spot price in other NEM regions.  
+43. Market inquiries indicated that, for similar reasons, a generator will rarely enter 
+into a financial (hedge) contract under which payments are calculated by 
+reference to the spot price in a region of the NEM in which it does not have 
+generation assets with sufficient capacity available.  
+44. Generators and retailers may participate in AEMO auctions for “inter-regional 
+settlement residues” (IRSR). These residues arise because there is a surplus to 
+AEMO when selling electricity across an interconnector and there is a difference 
+between the regional reference prices on either side of the interconnector. When 
+this occurs, generators in the exporting region are paid the lower price for the 
+exported electricity but the retailer in the importing region pays for that electricity 
+at the higher regional price. Settlement Residue Auctions (SRAs) allow market 
+participants to bid for entitlements to a proportion of the total IRSR, which to 
+some extent can mitigate the effects of price divergences between regions of the 
+NEM. However, market inquiries indicated that SRAs are only used to a limited 
+extent and do not provide sufficient protection such that they facilitate entering 
+into financial (hedge) contracts under which payments are calculated by 
+reference to the spot price in a different region of the NEM. IRSRs appear only 
+able to be used in such a way by larger market participants that have operations 
+in both of the relevant adjoining regions of the NEM. 
+45. The ACCC therefore formed the view that the relevant geographic dimension in 
+which to consider the impact of the proposed acquisition upon the supply of 
+financial (hedge) contracts is the Victorian region of the NEM. 
+Retail supply of electricity  
+Product dimension 
+46. Consistent with previous reviews, the ACCC considered it appropriate to assess 
+the proposed acquisition in the context of the retail supply of electricity, rather 
+than the combined retail supply of electricity and gas. 
+47. The ACCC considers that the retail supply of electricity can be distinguished 
+between two broad categories of customers, being: 
+ residential and small business customers who typically consume up to 
+160MWh of electricity per annum; and 
+ industrial and commercial customers who typically consume in excess of 
+160MWh of electricity per annum. 
+48. Market inquiries suggested that the requirements of these categories of 
+customers differ significantly, with a particular impact on the level and type of risk 
+management required by retailers to service these categories of customers. 
+Those differences mean that some retailers focus on only one category. For 
+example, these differences include: 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+9 
+ the volume of electricity supplied per customer – due to their more significant 
+electricity requirements, commercial and industrial customers may negotiate 
+arrangements with a retailer or establish a competitive tender process, 
+whereas residential and small business customers will be offered a standard 
+product and retailers seek to maximise the number of customers they have 
+rather than target customers with greater electricity requirements; 
+ customer management – due to the greater number of their customers, 
+retailers supplying residential and small business customers generally need 
+to expend a greater proportion of their revenue on customer service;  
+ demand-side management – commercial and industrial customers may have 
+the ability to reduce their level of demand or consumption, allowing a retailer 
+to reduce its exposure to the spot price at times of high price; and 
+ the levels of demand during the day – commercial and industrial customers’ 
+use tends to be relatively steady during business hours, and therefore 
+predictable, whereas residential customers’ consumption peaks in the 
+morning and evening on weekdays and can vary much more on different 
+days, particularly when there are very high or low temperatures. 
+49. The ACCC did not consider it necessary to reach a definitive view on whether 
+there was a single retail market or separate markets for these retail customer 
+groups. The ACCC recognised that the competitive effects of the proposed 
+acquisition may differ between retailers that primarily supply one of these 
+customer groups, in particular, with regard to the risk management requirements 
+of such retailers. 
+Geographic dimension 
+50. The ACCC observed that some electricity retailers operate across more than one 
+NEM region. However, it is necessary for a retailer to also secure a number of 
+inputs specific to a region. In particular, a retailer would need to acquire a retail 
+licence and negotiate financial (hedge) contracts with generators located within 
+that region. Therefore, a retailer of electricity in one region cannot switch its 
+operations quickly and without significant investment to supply another region.     
+51. In light of the above factors, the ACCC considered the competitive effects of the 
+proposed acquisition in Victoria only, whilst recognising that competitive effects 
+on a wider geographic basis may be relevant for other acquisitions.  
+With and without test 
+52. In assessing a merger or acquisition pursuant to section 50 of the Act, the ACCC 
+must consider the effects of the transaction by comparing the likely competitive 
+environment if the transaction proceeds (the “with” or “factual” position) to the 
+likely competitive environment if the transaction does not proceed (the “without” 
+or “counterfactual” position).  
+53. In the absence of the proposed acquisition, the ACCC considered that the status 
+quo was the relevant competitive environment against which to assess the 
+proposed acquisition, i.e. it was likely that LYP would continue to operate as a 
+standalone generator.  
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+10 
+54. In assessing the likely competitive environment without the transaction, the 
+ACCC had regard to certain issues associated with the financial position and 
+creditworthiness of LYP and the extent to which these issues may impact upon 
+its ability to enter into appropriate risk management arrangements in the 
+foreseeable future.  
+55. The ACCC considered that, if the proposed acquisition did not proceed, there 
+was a risk that LYP would be limited in its ability to enter into hedge contracts. 
+The extent of such limitations was largely dependent on whether counterparties 
+would be willing to enter into hedge contracts with LYP.  
+56. The ACCC was not in a position to determine the precise impact of the financial 
+position and creditworthiness of LYP upon its ability, in the absence of the 
+proposed acquisition, to enter into hedge contracts in the foreseeable future. 
+57. On balance, the ACCC took the view that LYP was likely to continue to face 
+financial difficulties and therefore to face some level of constraint on its ability – 
+but no impact on its incentive – to supply hedge contracts during the period over 
+which the impacts of the acquisition were to be considered.  
+58. In relation to the market for the wholesale supply of electricity, on the other hand, 
+the ACCC considered that there was little prospect of LYP ceasing to generate 
+and supply electricity due to its financial position and that it would continue to be 
+an active participant in the market for the wholesale supply of electricity with or 
+without the proposed acquisition. 
+Competition analysis 
+Horizontal aggregation of generation capacity  
+59. The ACCC considered whether the aggregation of LYP’s generation capacity 
+with AGL’s existing generation capacity which would result from the proposed 
+acquisition would be likely to have the effect of substantially lessening 
+competition in the market for the wholesale supply of electricity in Victoria or a 
+combined Victoria and South Australia. 
+Economic withholding 
+60. It is relevant to set out in some detail the mechanism by which wholesale spot 
+market prices are set in each region, and how individual generators can 
+influence price by a strategy known as ‘economic withholding’. 
+61. Generators offer their output for sale in the wholesale (spot) market by ‘bidding’ 
+portions of their capacity into price categories known as price bands. Generators 
+are dispatched on an economic basis (the least expensive generators are 
+dispatched first) subject to transmission constraints and the “ramp rates” of 
+generators (i.e. the speed with which they can raise/lower output). 
+62. The maximum bid that a generator can submit is $12,500/MWh. Subject to 
+certain regulatory rules, a generator is able to re-bid its capacity by shifting 
+capacity from one price band to another. Different circumstances in the relevant 
+regional wholesale market will create different incentives for how a generator 
+might re-bid its capacity.  
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+11 
+63. The main way that generators can increase spot prices is to economically 
+withhold output. This is done by withdrawing some of their generating capacity 
+from lower price bands and submitting it into higher price bands. This is 
+distinguished from ‘physical withholding’, where a generator removes capacity 
+entirely from the market (for example, by announcing that several units are off-
+line). A strategy to economically withhold capacity will usually occur at times of 
+high demand, particularly when a generator must be dispatched to meet total 
+market demand in a particular region. At such times, a generator would be in a 
+position to materially influence prices in the relevant spot market. A generator’s 
+ability to influence prices in this way will be greater when interregional 
+interconnectors are constrained and adjoining regions are unable to ‘export’ 
+additional electricity into the relevant region.  
+64. A generator will only be successful in an economic withholding strategy if it is not 
+subject to competitive pressure from other generators. If there is competitive 
+pressure in the market, the generator faces the risk that the output it has 
+withdrawn and bid at a high price will be replaced by the output of other 
+generators at lower prices and as a result the spot price does not materially 
+increase.  
+65. In addition, a generator must have sufficient generation capacity available to 
+engage in such a strategy. In particular, it will have a reduced incentive to 
+engage in such a strategy to the extent that it needs to supply electricity to 
+support its hedge contract commitments – i.e. it will not benefit from a high spot 
+price to the extent that the spot price exceeds the strike prices under its hedge 
+contracts as the generator must pay the counterparty the difference between the 
+spot price and the strike price during times that the spot price is higher than the 
+strike price. 
+Generation capacity 
+66. The ACCC noted that, post-acquisition, the generation capacity of the merged 
+firm would increase as follows (excluding wind energy, small-scale renewable 
+plants and regional interconnectors): 
+ Victoria: AGL would increase its share of capacity from ~8 per cent to ~27 
+per cent; 
+ Victoria/South Australia: AGL would increase its share of capacity from ~14 
+per cent to ~29 per cent. 
+67. The ACCC recognised that market shares of the merger parties can be of less 
+use in analysing the potential competitive impact of the proposed acquisition, 
+since generators have different marginal costs and flexibility of output and their 
+behaviour will depend on a range of factors, including the extent of their hedge 
+contract commitments.  
+68. In its analysis, the ACCC also took into account:  
+ the role of regional interconnectors, noting that they often operate well below 
+their nominal capacity during peak periods; 
+ wind energy, noting the difficulties associated with predicting the level of 
+output from wind plant; and 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+12 
+ planned new generation capacity in Victoria and South Australia and the 
+potential for construction to be brought forward in response to price signals in 
+the NEM. AEMO provided the ACCC with relevant information on planned 
+new generation. Given the lead times involved, the ACCC focussed on 
+committed projects which have development approvals in place. 
+69. The ACCC considered that, importantly, post-acquisition, there would remain at 
+least five key participants in either Victoria or a combined Victoria/South 
+Australia: AGL, TRUenergy, International Power, Snowy Hydro and Origin 
+(currently expanding its generation capacity at the recently commissioned 
+Mortlake plant). 
+Contract position 
+70. The ACCC considered the extent to which, following the proposed acquisition, 
+AGL would be net ‘long’ in generation – i.e. would have available more 
+generation capacity than would be required to support its retail load – and may 
+therefore have an increased incentive to engage in economic withholding (as 
+described above). The extent of any net long position following the proposed 
+acquisition would primarily depend on the extent to which the capacity of AGL’s 
+generation assets combined with the capacity of LYP would exceed the 
+generation required to support its retail load. However, it would also depend on 
+the extent to which AGL’s generation is effectively committed to third parties 
+under hedge contracts (serving to reduce its long position) and, conversely, the 
+extent to which AGL enters into hedge contracts with third parties to support its 
+retail load (serving to increase its long position). 
+71. The ACCC was able to forecast the net position of AGL in the period 
+immediately following the proposed acquisition (if it were to proceed) based on 
+the contract position of AGL and LYP prior to the proposed acquisition. However 
+the ACCC recognised that the net position of AGL is subject to change at short 
+notice and ultimately would depend on its commercial strategy both in the market 
+for the supply of hedge contracts and in the market for the wholesale supply of 
+electricity. AGL’s strategy would depend on a number of factors, including the 
+forecast supply and demand conditions in the market. 
+72. Due to confidentiality, the ACCC is not able to comment on the current net 
+position of AGL or LYP. However, it is in the public domain that LYP has entered 
+into a hedge contract directly with a major industrial consumer of electricity, 
+Alcoa of Australia, which will effectively commit LYP to supply approximately 820 
+MW of its generation capacity from 2016 which, with future expansion options, 
+could represent more than half of LYP’s generation output.1  
+Conclusion 
+73. Taking into account the considerations described above, the ACCC used a 
+range of modelling techniques to assist with identifying likely price impacts in the 
+market for the wholesale supply of electricity in Victoria or a combined Victoria 
+and South Australia.  
+74. After reviewing all of the evidence available to it, the ACCC concluded on 
+balance that the aggregation of generation capacity arising from the proposed 
+acquisition would not be likely to substantially lessen competition in the market 
+                                                 
+1  
+Alcoa of Australia Limited and Loy Yang Power, Joint Media Statement, 1 March 2010. 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+13 
+for the wholesale supply of electricity in Victoria or in a combined Victoria and 
+South Australia. A decisive factor in forming this view was the competitive 
+constraints provided by existing players and the potential for investment in new 
+generation – importantly, post-acquisition, there would remain at least five key 
+participants in either Victoria or a combined Victoria/South Australia. In addition, 
+the Alcoa contract will effectively commit a significant proportion of LYP’s 
+generation capacity and therefore decrease AGL’s ability and incentive to 
+engage in economic withholding from 2016. 
+Vertical integration of generation and retail activities 
+75. Given AGL’s significant presence in the retail supply of electricity in Victoria and 
+relatively limited generation capacity in Victoria prior to the proposed acquisition, 
+the proposed acquisition would result in increased vertical integration of AGL’s 
+position in Victorian retail and wholesale electricity markets. In addition, the 
+proposed acquisition would result in the removal of LYP as a stand-alone 
+generator in Victoria. 
+76. The ACCC considered the impact of this increased vertical integration on the 
+supply of hedge contracts in Victoria. As a result of the balancing between AGL’s 
+generation capacity and retail load, post-acquisition AGL would have a 
+significantly greater ‘natural hedge’. Since generation assets benefit from high 
+spot prices and a retail business benefits from low spot prices, having a 
+balanced portfolio of generation capacity and retail load substantially reduces the 
+overall level of price risk borne in the electricity wholesale supply market and 
+therefore reduces the need to enter into hedge contracts with third parties. 
+77. As a general proposition, to the extent that AGL would have a natural hedge 
+following the proposed acquisition, this would – relative to LYP remaining as a 
+stand-alone generator – reduce its need to purchase hedge contracts to cover its 
+retail load and reduce its need to sell hedge contracts backed by LYP’s 
+generation capacity. 
+78. The ACCC therefore considered whether the proposed acquisition would have 
+detrimental impacts on competition due to a reduction in liquidity in the financial 
+(hedge) contract market. In particular, the ACCC considered whether the 
+proposed acquisition was likely to impact on the availability of hedge contracts 
+for non-vertically integrated third parties and any potential for the proposed 
+acquisition to increase barriers to entry or expansion in the markets for 
+wholesale or retail supply of electricity. 
+Liquidity of financial (hedge) contract market 
+79. The ACCC considered that, to a large extent, the proposed acquisition would 
+result in AGL reducing the hedge contracts purchased from third parties to 
+support its retail load and reducing the hedge contracts sold to third parties 
+backed by LYP’s generation. This was likely to reduce the number of distinct 
+possible counterparties to hedge contracts. The ACCC considered that this could 
+reduce the overall liquidity of the financial (hedge) contract market, however the 
+ACCC did not consider that this alone was likely to give rise to a substantial 
+lessening of competition in the relevant markets. In particular, Snowy Hydro and 
+International Power would continue to have significantly more generation 
+capacity available than they required to support their retail load. 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+14 
+80. The ACCC also considered specifically whether the reduced availability of AGL 
+or the removal of LYP as a counterparty to hedge contracts could have a 
+detrimental impact on competition. Such an impact would be based on the 
+significance of hedge contracts provided by AGL or LYP to participants in 
+wholesale and retail electricity markets and the extent to which this reduction or 
+removal may increase barriers to entry or expansion in those markets.  
+Barriers to entry (retail supply of electricity) 
+81. The ACCC found that the key requirements for entering a retail electricity market 
+are obtaining a retail licence, the ability to purchase hedge contracts that 
+sufficiently manage price and volume risk, the financial capability to meet 
+AEMO’s prudential requirements for participating in the NEM, and the 
+establishment of marketing, customer service and billing capabilities.  
+82. The ACCC considered whether the removal of LYP as a standalone generator in 
+Victoria would be likely to significantly raise barriers to entry for new retail 
+entrants into Victoria. 
+LYP’s incentives to facilitate new entry and expansion in retail markets 
+83. The ACCC noted that LYP was the only major generator in Victoria without a 
+presence in retail markets. The ACCC considered that LYP was unlikely to 
+become vertically integrated by expanding into retail activities so long as GEAC’s 
+ownership structure remained as it was prior to the proposed acquisition, since 
+AGL would not support such expansion.  
+84. However, the ACCC noted that LYP remained independent of AGL in relation to 
+its contracting, dispatch and bidding activities due to the undertakings AGL gave 
+previously to the Federal Court and ACCC. Market inquiries indicated that those 
+undertakings had been highly effective in this regard. In circumstances where 
+LYP was not likely to establish a retail business, the ACCC therefore considered 
+that LYP had the ability and incentive to promote new entry into electricity 
+retailing and to support the expansion of retailers without their own generation 
+assets (‘standalone retailers’), partly because this would serve to reduce the 
+dependence of LYP on counterparties with their own generation. This incentive 
+was considered likely to remain in the foreseeable future if the proposed 
+acquisition did not proceed. 
+85. By comparison, a generator with its own retail business (including AGL following 
+the proposed acquisition) would have a reduced incentive to support new retail 
+entry and expansion of the retail base of competing ‘standalone’ retailers since 
+that would risk cannibalising its own retail business. 
+86. The ACCC considered the extent to which standalone generators had supported 
+– and would be likely to continue to support – new retail entry and expansion, 
+including by providing customised hedge products to standalone retailers.  
+Customised hedge products 
+87. Customised hedge products enable the effective management of price and 
+volume risk by having either or both of the following two attributes (which are not 
+generally available through standard OTC contracts or ETCs): 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+15 
+ Load following arrangement, where the generator bears all of the financial 
+risk associated with fluctuations in the retailer’s customer load – for which a 
+premium is paid by the retailer. The arrangement essentially shifts volume 
+risk to the generator and requires the generator to manage this risk on behalf 
+of the retailer. The volume hedged under a load following hedge is at a pre-
+determined price, therefore removing spot price risk, and reflects the retailer’s 
+actual customer loads during the period covered by the product. This 
+provides the retailer with certainty when pricing its retail offering.  
+ Reallocation arrangement, which reduces the retailer’s exposure to AEMO 
+and therefore the level of prudential requirements that the retailer must 
+satisfy. This is achieved by reducing the amount that the retailer must pay to 
+AEMO for the supply of electricity by the amount that the generator would 
+have paid the retailer under the hedge contract. 
+88. Market inquiries indicated that:  
+ customised hedge products have particularly supported new entry and 
+expansion of standalone retailers with residential and small business 
+customers in Victoria, by allowing them to effectively manage price and 
+volume risk associated with their retail load until they achieve sufficient scale 
+to be able to rely solely on standard OTC contracts and ETCs; 
+ other retailers with residential and small business customers in Victoria have 
+been less dependent on customised hedge contracts since they have existing 
+businesses and therefore substantial capital backing, previous experience in 
+electricity retailing and/or existing generation assets in Victoria. These 
+retailers are described here as ‘large’ new entrants; and 
+ due to different characteristics of commercial and industrial customers, 
+customised hedge products are less critical for new entry and expansion of 
+retailers targeting these customers. 
+89. The ACCC considered that the removal of LYP as a standalone generator with 
+the incentive to support new entry and expansion of standalone retailers would 
+be likely to have some impact on the availability of customised hedge products 
+for standalone retailers or the terms on which those products were offered to 
+standalone retailers. The ACCC therefore considered that the proposed 
+acquisition was likely to have some impact on barriers to entry and expansion for 
+standalone retailers targeting residential and small business customers in 
+Victoria. 
+Retail supply of electricity to residential and small business customers 
+90. Given the likely impact on barriers to entry and expansion for standalone 
+retailers targeting residential and small business customers in Victoria, the 
+ACCC considered whether such an impact was likely to result in a substantial 
+lessening of competition in this market having regard to existing levels of 
+competition and the range of competitors currently active in this market. 
+91. The ACCC noted that there were 12 retailers supplying electricity to residential 
+and small business customers in Victoria. In 2007, the AEMC found that 
+competition in the Victorian retail market was effective and noted evidence of 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+16 
+strong rivalry between retailers.2 More recently, in 2011, the Essential Services 
+Commission of Victoria found that first tier retailers are pricing less aggressively 
+than previously and that second tier electricity retailers are primarily the price 
+leaders and discounters when supplying residential and small business 
+customers.3   
+92. The ACCC considered that several of the second tier retailers in Victoria were 
+likely to be capable of adequately managing their price and volume risk using 
+standard OTC contracts and ETCs. Accordingly, a significant number of second 
+tier retailers were not considered to be dependent on customised hedge 
+products to support their expansion. The ACCC also noted that new retail entry 
+had occurred in Victoria by players relying on standard OTC and ETC hedge 
+contracts. In this context, and given the continued threat of ‘large’ new entry, the 
+ACCC considered that the proposed acquisition was not likely to result in a 
+substantial lessening of competition in the electricity retail market in Victoria. 
+Barriers to entry (wholesale supply of electricity) 
+93. The ACCC recognised that the proposed acquisition may have had impacts not 
+only on barriers to entry for retailers, but also for generators (i.e. in the market for 
+the wholesale supply of electricity). The ACCC noted that, given the very 
+significant investment required for new generation capacity, a key consideration 
+for a market participant considering entry or expansion in the market for the 
+wholesale supply of electricity is the likely future prices for the wholesale supply 
+of electricity and strike prices in hedge contracts. In many cases, a party without 
+significant retail operations will only build new generation with a supporting long-
+term hedge contract in place.  
+94. Given the number of retailers that would remain available as counterparties to 
+hedge contracts following the proposed acquisition, and the associated volume 
+of retail load that would not be subject to a natural hedge associated with 
+vertically integrated participants, the ACCC did not consider that barriers to entry 
+and expansion in the market for the wholesale supply of electricity were likely to 
+be raised sufficiently by the proposed acquisition to give rise to a substantial 
+lessening of competition in that market. 
+Conclusion 
+95. The ACCC formed the view on balance that the aggregation of AGL and LYP’s 
+generation assets would not be likely to result in a substantial lessening of 
+competition in markets for the wholesale supply of electricity due to competitive 
+constraints provided by at least five key generators and the potential for 
+investment in new generation. In addition, the Alcoa contract will effectively 
+commit a significant proportion of LYP’s generation capacity and therefore 
+decrease AGL’s ability and incentive to engage in economic withholding from 
+2016. 
+96. The ACCC formed the view that the increased vertical integration that would 
+result from the proposed acquisition (and consequent ‘natural hedge’ of AGL’s 
+generation and retail operations) would not be likely to have the effect of 
+                                                 
+2  
+Australian Energy Market Commission, ‘Review of the Effectiveness of Competition in Electricity 
+and Gas Retail Markets in Victoria’, 19 December 2007. 
+3  
+Essential Services Commission, ‘Victorian Retail Energy Market Overview, 2010-11’, December 
+2011. 
+
+
+AGL Energy Limited – proposed acquisition of Great Energy Alliance Corporation Pty Limited 
+17 
+substantially lessening competition in the relevant markets, having regard to 
+existing levels of competition in generation and retailing in Victoria. In particular, 
+Snowy Hydro and International Power would continue to have significantly more 
+generation capacity available than they required to support their retail load. 
+97. The ACCC formed the view that the removal of LYP as a standalone generator 
+in Victoria was unlikely to result in a substantial lessening of competition in the 
+retail market for supply of electricity in Victoria. Although LYP would not have the 
+same incentive to support new retail entry and expansion following the proposed 
+acquisition, the ACCC took into account the number of existing retailers in 
+Victoria which do not depend on customised hedge products and the continued 
+threat of ‘large’ new entry. 
+98. On the basis of the above, the ACCC formed the view on balance that the 
+proposed acquisition was not likely to substantially lessen competition in a 
+relevant market and would therefore not contravene section 50 of the Act. 
+Federal Court undertaking 
+99. To proceed with the proposed acquisition of the remaining 67.46 per cent of 
+GEAC, it was necessary for AGL to seek an order from the Federal Court 
+discharging the undertaking which limited its economic interest in LYP to 35 per 
+cent and its involvement in, and knowledge of, the dispatch and marketing 
+activities of LYP.  
+100. Following the ACCC’s decision not to oppose the proposed acquisition, AGL filed 
+an application seeking this discharge. The application was heard on 30 May 
+2012 and the undertaking was discharged, taking effect from 22 June 2012. The 
+ACCC did not object to the making of this order. 

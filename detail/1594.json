@@ -1,0 +1,31 @@
+{
+  "id": "1594",
+  "title": "Acquirer: Australian Cement Holdings Pty Ltd; Target: Kimbolton Coal Company Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-cement-holdings-pty-ltd-target-kimbolton-coal-company-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16968",
+  "industries": [],
+  "date_completed": "26 November 2002",
+  "date_completed_iso": "2002-11-26T12:00:00Z",
+  "date_commenced": "11 November 2002",
+  "date_commenced_iso": "2002-11-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Cement Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Kimbolton Coal Company Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Kimbolton Coal Company by Australian Cement Holdings Pty Ltd.",
+    "Market definition": "A market for thermal coal in Tasmania and nationally were both considered.",
+    "Competition analysis": "ACH's wholly owned subsidiary, The Cornwall Coal Company No Liability (Cornwall) is Tasmania's only operating thermal coal supplier. Kimbolton coal has only one substantial asset, a mining lease over a deposit of approximately 600 kt of thermal coal, which would be exhausted within four to six years of reasonable production. Due to the quality of coal sourced from the deposit and the infrastructure requirements, Kimbolton have not been able to successfully operate the mine. Due to importation costs it is likely that a geographic dimension of Tasmania alone applies for thermal coal. Under this market definition ACH would currently have 100% market share. Market inquiries indicated that no party other than ACH would be able to profitably operate the mine. On this basis the Panel decided that the acquisition does not seem likely to substantially lessen competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "1101"
+  }
+}

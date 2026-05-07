@@ -1,0 +1,44 @@
+{
+  "id": "0006",
+  "title": "Southern Cross Media Limited- Seven West Media Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/southern-cross-media-limited-seven-west-media-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "13 November 2025",
+  "date_completed_iso": "2025-11-13T12:00:00Z",
+  "date_commenced": "15 October 2025",
+  "date_commenced_iso": "2025-10-15T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Southern Cross Media Limited"
+  ],
+  "targets": [
+    "Seven West Media Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Oct 2025",
+      "date_iso": "2025-10-15T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Oct 2025",
+      "date_iso": "2025-10-29T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "13 Nov 2025",
+      "date_iso": "2025-11-13T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (18 December 2025) brought forward to 13 November 2025. ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Southern Cross Media Limited ( Southern Cross ) proposes to acquire 100% of the issued share capital in Seven West Media Limited ( Seven ) by way of a scheme of arrangement ( proposed acquisition ). Under the proposed acquisition, Southern Cross shareholders will own 50.1% of the combined entity with Seven shareholders owning the remaining 49.9%. Southern Cross is an ASX-listed Australian broadcast radio and digital audio provider (ASX: SXL). It is the parent company of Southern Cross Austereo and operates the Triple M, HIT and LiSTNR brands. Southern Cross also provides national sales representation to regional radio stations through affiliation agreements with seven radio networks and a joint venture. Seven is an ASX-listed Australian media and entertainment company (ASX: SWM). Seven owns and operates the free-to-air TV broadcaster the Seven Network, including its affiliate channels, the 7plus online platform and the online news publication 7NEWS.com.au. Seven also operates West Australian Newspapers, which publishes print newspapers The West Australian and The Sunday Times, online newspapers The Nightly, PerthNow, thewest.com.au, 11 suburban newspapers and 19 regional publications, and offers digital platforms including sports tipping platform The Game and sports streaming platform Streamer.com.au. Southern Cross and Seven overlap in the supply of: content to consumers (listeners/readers/viewers), which includes audio content, audiovisual content, and news and current affairs content, and advertising opportunities to advertisers (including businesses that advertise directly). Southern Cross and Seven also overlap in the acquisition of content from content providers. These overlaps occur nationally, in each state and in certain local areas within each state.",
+    "Market definition": "The ACCC considered the proposed acquisition from a multi-sided platform perspective and had regard to: the supply of advertising opportunities to advertisers, the supply of news and other media content to consumers, and the acquisition of news and other media content from producers. The ACCC assessed competitive dynamics in both a broad, Australia-wide geographic market as well as several small local markets in regional Western Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any market in Australia. The ACCC found that Southern Cross’ radio and podcast offerings do not compete closely with Seven’s print newspaper and television offerings as they are different mediums and supply different types of content to consumers. Southern Cross is more focused on non-news content such as entertainment and music. Southern Cross employs a small number of broadcast journalists and produces a small amount of radio news content, compared with Seven’s substantial news offerings across print and television. The ACCC considered the impact of changing preferences for how media content is consumed in Australia. This includes a growing shift in consumer engagement and associated advertising spend away from traditional media, towards digital media including streaming platforms, social media, and online search. The ACCC considered the likely impact of the proposed acquisition on various local markets in regional Western Australia where Southern Cross and Seven are two of few regionally focused, traditional media outlets. In particular, the ACCC considered whether the proposed acquisition would significantly reduce competition for advertising opportunities for local advertisers. The ACCC concluded that Southern Cross and Seven’s media outlets in these regions will continue to face strong competition from other marketing options available to local businesses, including social media, digital advertising, and search engine optimisation."
+  }
+}

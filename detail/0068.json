@@ -1,0 +1,44 @@
+{
+  "id": "0068",
+  "title": "Bunge Limited - Viterra Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bunge-limited-viterra-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Grain, Storage and Handling Services, Port Terminals"
+  ],
+  "date_completed": "21 December 2023",
+  "date_completed_iso": "2023-12-21T12:00:00Z",
+  "date_commenced": "23 October 2023",
+  "date_commenced_iso": "2023-10-23T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Bunge Limited"
+  ],
+  "targets": [
+    "Viterra Limited"
+  ],
+  "timeline": [
+    {
+      "date": "23 Oct 2023",
+      "date_iso": "2023-10-23T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Nov 2023",
+      "date_iso": "2023-11-10T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "21 Dec 2023",
+      "date_iso": "2023-12-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bunge Limited ( Bunge ) proposes to acquire 100% of the issued and outstanding share capital of Viterra Limited ( Viterra ). As part of the proposed transaction, Viterra’s three main shareholders, Glencore PLC (49.99%), the Canada Pension Plan Investment Board (39.99%) and the British Columbia Investment Management Corporation (9.99%) would acquire an interest in Bunge. Bunge is a global agribusiness and food company, headquartered in the USA. In Australia, Bunge is active in grain trading. Bunge originates grains (barley, wheat and oilseeds (rapeseed/canola)) primarily from Western Australia and markets corn flour and lecithin and vegetable oil (sunflower oil) in various states. Bunge also provides storage and handling services and port terminal services in Western Australia. Viterra is an agribusiness company headquartered in the Netherlands. In Australia, Viterra originates grains (barley, wheat, durum wheat, sorghum and oilseeds (rapeseed/canola)), pulses and cotton. Viterra markets grains (barley, wheat, sorghum and oilseeds (rapeseed/canola)), vegetable oil (sunflower oil), non-grain feed ingredients (soybean meal and soybean hull), pulses and cotton. Viterra has 50 operational upcountry storage and handling facilities, with 48 located in South Australia and two in Victoria. Viterra also offers transportation services for grain by road and rail, as well as port terminal services with six bulk grain loading facilities located in South Australia.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on markets for: 1.    grain trading, primarily in South Australia and Western Australia 2.    the supply of vegetable (sunflower) oil 3.    the supply of up-country storage and handling services for grain in South Australia and Western Australia 4.    the supply of port terminal services for the shipment of grain in South Australia and Western Australia It was not necessary for the ACCC to form a concluded view in relation to the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. In relation to competition for grain trading, the ACCC considered the transaction would not materially increase either party's market share in any market and that a number of alternative grain traders would remain post-acquisition. This would ensure that grain growers had other options to whom they could sell their grain. In particular, the ACCC noted that Bunge’s presence in Australia is focused on Western Australia. In Western Australia, the ACCC considered Bunge (and Viterra) face significant competition from CBH, as well as competition from other traders. Outside of Western Australia, Bunge is not a major originator and it tends not to acquire grain directly from growers but from other traders in order to export. In relation to competition for the supply of vegetable (sunflower) oil, the ACCC considered that Bunge is a minor supplier, and the combined entity would continue to be constrained by a number of other suppliers post-acquisition. The ACCC noted that the parties do not compete in the supply of storage and handling services as they service different regions and considered they were unlikely to be competitors in the foreseeable future. Similarly, the ACCC noted that the parties do not compete in the supply of port terminal services as they service different regions."
+  }
+}

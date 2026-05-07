@@ -1,0 +1,30 @@
+{
+  "id": "1498",
+  "title": "Acquirer: Rural Press Ltd; Target: Harris & Company Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-rural-press-ltd-target-harris-company-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18281",
+  "industries": [],
+  "date_completed": "12 February 2004",
+  "date_completed_iso": "2004-02-12T12:00:00Z",
+  "date_commenced": "1 September 2003",
+  "date_commenced_iso": "2003-09-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Rural Press Ltd"
+  ],
+  "targets": [
+    "Harris & Company Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Rural Press Ltd seeks to acquire Harris and Company Ltd.",
+    "Market definition": "The Commission defines the relevant markets as the Tasmanian markets for the: Supply of regional newspapers; Provision of newspaper advertising services; and Provision of heat-set web, cold-set web and sheet fed printing services.",
+    "Competition analysis": "The Commission does not believe that the proposed acquisition will result in a substantial lessening of competition in any relevant market. This conclusion was reached as a consequence of a number of considerations including: The limited overlap/circulation area of the two newspapers in question (The Advocate and The Examiner) and therefore the limited degree of competition between the two papers currently; the competitive pressure able to be exerted by other players in the advertising market such as the Trading Post or Roberts Ltd real estate; and that no concerns about consolidation of cold-set printing operations in Tasmania were expressed by major customers for these services such as The Trading Post. It should also be noted that Rural Press and Harris and Company already jointly own the Launceston Examiner.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2421"
+  }
+}

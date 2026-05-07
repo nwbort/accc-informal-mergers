@@ -1,0 +1,31 @@
+{
+  "id": "1496",
+  "title": "Acquirer: Broadway & Frame Premix Pty Ltd, Readymix Holdings Pty Ltd; Target: Broadway & Frame Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-broadway-frame-premix-pty-ltd-readymix-holdings-pty-ltd-target-broadway-frame-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18607",
+  "industries": [],
+  "date_completed": "17 February 2004",
+  "date_completed_iso": "2004-02-17T12:00:00Z",
+  "date_commenced": "12 November 2003",
+  "date_commenced_iso": "2003-11-12T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Broadway & Frame Premix Pty Ltd, Readymix Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Broadway & Frame Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "B&F Premix, a subsidiary of Readymix Holdings, intends to acquire the Melbourne premixed concrete business of the Broadway & Frame group.",
+    "Market definition": "Production and distribution of premix concrete in greater metropolitan Melbourne.",
+    "Competition analysis": "The merger would result in Readymix Holdings having approximately a 21% share of the premix concrete market in metropolitan Melbourne, making it the second largest operator ahead of Pioneer and just behind Boral. The premix concrete, cement and related product industries have undertaken significant restructuring in recent years, primarily through acquisitions, mergers and tolling arrangements.  In the main, these transactions have been approved by the Commission due to their incremental nature and the existence of large independent operators at both the raw material and premix concrete stages of the supply chain.  However, increasing vertical integration and the decline in independent operators alters the competitive dynamic, such that an alternative decision may be made in the future depending on the individual circumstances. In the case of the acquisition being considered here, there is little or no direct impact on the raw material sectors.  There is an increase in concentration in the supply of premix concrete, but a number of larger vertically integrated, as well as numerous small independent, competitors remain.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2633"
+  }
+}

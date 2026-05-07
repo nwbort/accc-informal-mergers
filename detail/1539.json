@@ -1,0 +1,31 @@
+{
+  "id": "1539",
+  "title": "Acquirer: Bundaberg Sugar Ltd; Target: Walkers Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-bundaberg-sugar-ltd-target-walkers-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17927",
+  "industries": [],
+  "date_completed": "15 July 2003",
+  "date_completed_iso": "2003-07-15T12:00:00Z",
+  "date_commenced": "10 June 2003",
+  "date_commenced_iso": "2003-06-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Bundaberg Sugar Ltd"
+  ],
+  "targets": [
+    "Walkers Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Bundaberg Foundry Engineers Limited (a wholly owned subsidiary of Bundaberg Sugar Ltd) proposes to acquire the sugar milling equipment and spare parts business of Walkers Limited.",
+    "Market definition": "For the purposes of the present competition assessment the relevant markets were considered to be the national markets for the supply of sugar mills, shredders, and mill rollers and shells.",
+    "Competition analysis": "The Commission determined that no SLC was likely given the potential for imports, low barriers to entry, and countervailing power of customers.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2863"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0959",
+  "title": "QBE Insurance (Australia) Limited - proposed acquisition of Compusure Pty Limited's travel insurance distribution network",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qbe-insurance-australia-limited-proposed-acquisition-of-compusure-pty-limiteds-travel-insurance-distribution-network",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29580",
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "25 February 2008",
+  "date_completed_iso": "2008-02-25T12:00:00Z",
+  "date_commenced": "8 February 2008",
+  "date_commenced_iso": "2008-02-08T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "QBE Insurance (Australia) Limited"
+  ],
+  "targets": [
+    "Compusure Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Feb 2008",
+      "date_iso": "2008-02-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Feb 2008",
+      "date_iso": "2008-02-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "QBE Insurance (Australia) Ltd proposes to acquire the travel insurance distribution assets of Compusure Pty Ltd",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the supply of general travel insurance.",
+    "Competition analysis": "On 25 February 2008, the ACCC formed the view that the proposed acquisition would be unlikely to result in a substantial lessening of competition. Factors informing this conclusion included that barriers to entry appear to be relatively low and there are a high number of substitute suppliers which offer comparable substitutes to the merged entity."
+  }
+}

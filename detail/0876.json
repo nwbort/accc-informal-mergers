@@ -1,0 +1,43 @@
+{
+  "id": "0876",
+  "title": "The Boeing Company - proposed acquisition of Insitu Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-boeing-company-proposed-acquisition-of-insitu-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33398",
+  "industries": [
+    "Unmanned aerial systems"
+  ],
+  "date_completed": "25 August 2008",
+  "date_completed_iso": "2008-08-25T12:00:00Z",
+  "date_commenced": "4 August 2008",
+  "date_commenced_iso": "2008-08-04T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "The Boeing Company"
+  ],
+  "targets": [
+    "Insitu Inc"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2008",
+      "date_iso": "2008-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Aug 2008",
+      "date_iso": "2008-08-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Aug 2008",
+      "date_iso": "2008-08-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the acquisition in the context of global markets for Unmanned Aerial Systems classified according to the size, endurance and altitude of system capabilities.  It was not necessary for the ACCC to reach a conclusive view on market definition as the outcome of the competition assessment would not have been affected.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition due to the lack of direct competitive overlap in the parties' supply of unmanned aerial systems and the alternative competitors that would be likely to constrain the merged firm."
+  }
+}

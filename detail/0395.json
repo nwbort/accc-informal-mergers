@@ -1,0 +1,64 @@
+{
+  "id": "0395",
+  "title": "Sensis Pty Ltd - proposed acquisition of Australian Local Search Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sensis-pty-ltd-proposed-acquisition-of-australian-local-search-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50572",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "27 March 2013",
+  "date_completed_iso": "2013-03-27T12:00:00Z",
+  "date_commenced": "23 January 2013",
+  "date_commenced_iso": "2013-01-23T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Sensis Pty Ltd"
+  ],
+  "targets": [
+    "Australian Local Search Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jan 2013",
+      "date_iso": "2013-01-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Feb 2013",
+      "date_iso": "2013-02-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Feb 2013",
+      "date_iso": "2013-02-14T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 14 March 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "22 Feb 2013",
+      "date_iso": "2013-02-22T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Mar 2013",
+      "date_iso": "2013-03-01T12:00:00Z",
+      "event": "ACCC timeline suspended and former proposed decision date of 14 March 2013 delayed to allow the merger parties to provide additional information."
+    },
+    {
+      "date": "19 Mar 2013",
+      "date_iso": "2013-03-19T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "27 Mar 2013",
+      "date_iso": "2013-03-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sensis Pty Ltd, a wholly owned subsidiary of Telstra Corporation Ltd, proposes to acquire Australian Local Search Pty Ltd, trading as TrueLocal.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the national market for the supply of online business listings. A focus of the ACCC's assessment was the degree to which advertising and business listing products offered by search engines represented close alternatives to the online business listing services offered by Sensis and TrueLocal. The ACCC concluded that these products increasingly replicate the services offered by the merger parties and are likely to form part of the market for online business listings. The ACCC also considered the overlap between the parties in the supply of business listings datasets. The ACCC noted that there is a degree of differentiation between the available business listing dataset products based on the nature of the data and the frequency with which it is provided. The ACCC did not form a concluded view of the appropriate market definition, as irrespective of the market definition adopted, there are unlikely to be competition concerns.",
+    "Competition analysis": "The ACCC determined that the proposed acquisition would be unlikely to raise competition concerns in relation to the supply of online business listings. This is due to: - the continued availability of credible, sophisticated and innovative alternative suppliers of online business listings. In particular, the merged firm would likely be strongly constrained by Google and its myriad of products that are increasingly replicating the online business directory listing model. The constraint imposed by Google is being driven by technological change and consumers' increasing preference to obtain business information through Google in the first instance; and - the weak competitive constraint provided by TrueLocal for the supply of online business listing services. The ACCC also determined that the proposed acquisition would be unlikely to raise competition concerns in relation to the supply of business listings datasets due to the continued presence of credible alternative providers of such services. Accordingly, on 27 March 2013 the ACCC decided not to oppose the proposed acquisition."
+  }
+}

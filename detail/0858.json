@@ -1,0 +1,44 @@
+{
+  "id": "0858",
+  "title": "Commonwealth Bank of Australia - proposed acquisition of a 33 per cent share in AHL Investments Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/commonwealth-bank-of-australia-proposed-acquisition-of-a-33-per-cent-share-in-ahl-investments-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33933",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "30 September 2008",
+  "date_completed_iso": "2008-09-30T12:00:00Z",
+  "date_commenced": "11 September 2008",
+  "date_commenced_iso": "2008-09-11T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Commonwealth Bank of Australia"
+  ],
+  "targets": [
+    "AHL Investments Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "11 Sep 2008",
+      "date_iso": "2008-09-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Sep 2008",
+      "date_iso": "2008-09-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Sep 2008",
+      "date_iso": "2008-09-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Commonwealth Bank of Australia (CBA) proposes to acquire a 33 per cent share in Aussie Home Loans (AHL) Investments Pty Ltd.",
+    "Market definition": "The ACCC considered the relevant markets to be: - the national market for home loan products; - the national market for personal loan products; and - the national market for credit cards.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the transaction would result in limited aggregation in the relevant markets; and - the remaining competitors will pose a constraint on the pricing behaviour of the merged firm post acquisition."
+  }
+}

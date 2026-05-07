@@ -1,0 +1,49 @@
+{
+  "id": "0139",
+  "title": "Danfoss A/S - Eaton Hydraulics",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/danfoss-as-eaton-hydraulics",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Hydraulics"
+  ],
+  "date_completed": "15 October 2020",
+  "date_completed_iso": "2020-10-15T12:00:00Z",
+  "date_commenced": "16 July 2020",
+  "date_commenced_iso": "2020-07-16T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "Danfoss A/S"
+  ],
+  "targets": [
+    "Eaton Hydraulics"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jul 2020",
+      "date_iso": "2020-07-16T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2020",
+      "date_iso": "2020-08-06T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "11 Sep 2020",
+      "date_iso": "2020-09-11T12:00:00Z",
+      "event": "Review timeline extended by three weeks so the ACCC can undertake further investigation steps and consider information provided by Danfoss. The previous proposed decision date was 24 September 2020."
+    },
+    {
+      "date": "15 Oct 2020",
+      "date_iso": "2020-10-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Danfoss A/S (Danfoss) proposes to acquire the hydraulics business of Eaton Corporation plc (Eaton Hydraulics). Danfoss and Eaton Hydraulics operate globally and overlap in the supply of various hydraulic components to distributors and original equipment manufacturers. In particular, both supply hydraulic valves, motors, steering units and other hydraulic products for use in mobile machines and vehicles designed for mechanised tasks.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on the supply of various hydraulic components for use in mobile machines and vehicles in Australia, including the supply of: hydraulic valves orbital motors, and hydraulic steering units. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not be likely to substantially lessen competition in any of the relevant markets because: Following the proposed acquisition, Danfoss and Eaton would continue to face strong competition from Bosch Rexroth, Parker Hannifin, M+S and other overseas suppliers. All hydraulics systems and components are imported into Australia. Market participants did not identify any products for which other imports are not readily available. Feedback from the market generally identified that customers were unconcerned with the proposed acquisition."
+  }
+}

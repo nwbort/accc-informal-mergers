@@ -1,0 +1,44 @@
+{
+  "id": "0648",
+  "title": "Diagnostica Stago SAS - proposed acquisition of Trinity Biotech's haemostasis business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/diagnostica-stago-sas-proposed-acquisition-of-trinity-biotechs-haemostasis-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40957",
+  "industries": [
+    "Haemostasis reagents and instruments"
+  ],
+  "date_completed": "1 April 2010",
+  "date_completed_iso": "2010-04-01T12:00:00Z",
+  "date_commenced": "15 March 2010",
+  "date_commenced_iso": "2010-03-15T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Diagnostica Stago SAS"
+  ],
+  "targets": [
+    "Trinity Biotech's haemostasis business"
+  ],
+  "timeline": [
+    {
+      "date": "15 Mar 2010",
+      "date_iso": "2010-03-15T12:00:00Z",
+      "event": "ACCC commenced a review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Mar 2010",
+      "date_iso": "2010-03-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Apr 2010",
+      "date_iso": "2010-04-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Diagnostica Stago SAS - proposed acquisition of Trinity Biotech's haemostasis business",
+    "Market definition": "It was not considered necessary to form a definitive view on the relevant market definition.  However, the acquisition was considered in relation to the Australian market for haemostasis reagents and instruments.",
+    "Competition analysis": "It was considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any market, including because it appears: - the merged firm is likely to continue to face strong competition from substitute suppliers, notably Siemens Healthcare Diagnostics and Beckman Coulter; and - the proposed acquisition is unlikely to result in the removal of a vigorous and effective competitor."
+  }
+}

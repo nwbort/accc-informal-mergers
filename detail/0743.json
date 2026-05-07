@@ -1,0 +1,44 @@
+{
+  "id": "0743",
+  "title": "Nestle Australia Ltd - proposed acquisition of part of Fonterra Co-operative Group Limited's ice cream business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nestle-australia-ltd-proposed-acquisition-of-part-of-fonterra-co-operative-group-limiteds-ice-cream-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37400",
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "24 June 2009",
+  "date_completed_iso": "2009-06-24T12:00:00Z",
+  "date_commenced": "25 May 2009",
+  "date_commenced_iso": "2009-05-25T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Nestle Australia Ltd"
+  ],
+  "targets": [
+    "Fonterra Co-operative Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 May 2009",
+      "date_iso": "2009-05-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Jun 2009",
+      "date_iso": "2009-06-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jun 2009",
+      "date_iso": "2009-06-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fonterra has entered into an agreeement with Nestle to sell part of its Australian ice cream business. Under the agreement, Nestle will acquire: - a variety of minor national single serve and multi-pack ice cream and ice confection brands; - the Peters brand in Western Australia (Nestle already owns the brand in all other states); and - the Connoisseur premium ice cream tub brand nationally. In addition to the intellectual property, Nestle will also acquire Peters branded freezers including around 7,250 located in the route trade in Western Australia, and some sealing and lidding equipment used to manufacture Fonterra's Connoisseur ice cream products.",
+    "Market definition": "The ACCC considered national markets for the wholesale supply of ice cream, ice confection and frozen yoghurt products.",
+    "Competition analysis": "The ACCC found that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching its conclusion the ACCC noted that the merged entity would not have the ability and incentive to impose a unilateral price rise above competitive levels as it would be constrained by existing effective competitor, and possible sponsorship of new entry by supermarkets. The ACCC found that barriers to entry into the route trade were relatively high due to the domination of freezer space in route stores by a limited number of existing manufacturers. However, the proposed acquisition is unlikely to significantly affect this situation as it more closely resembles a transfer of Fonterra's strong position to Nestle, which is not currently a significant owner of freezers in Western Australia."
+  }
+}

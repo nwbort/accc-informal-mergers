@@ -1,0 +1,44 @@
+{
+  "id": "0774",
+  "title": "Nippon Paper Group, Inc - proposed acquisition of certain assets of Paper Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nippon-paper-group-inc-proposed-acquisition-of-certain-assets-of-paper-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36357",
+  "industries": [
+    "Paper manufacturing"
+  ],
+  "date_completed": "19 March 2009",
+  "date_completed_iso": "2009-03-19T12:00:00Z",
+  "date_commenced": "19 February 2009",
+  "date_commenced_iso": "2009-02-19T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Nippon Paper Group Inc"
+  ],
+  "targets": [
+    "Paper Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Feb 2009",
+      "date_iso": "2009-02-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Mar 2009",
+      "date_iso": "2009-03-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Mar 2009",
+      "date_iso": "2009-03-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nippon Paper Group Inc proposes to acquire Paper Australia Pty Ltd (the pulp and paper manufacturing arm of PaperlinX Limited), with the exception of Paper Australia's two Tasmanian mills at Burnie and Wesley Vale.",
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition in this matter, the ACCC considered the transaction in the context of national markets for the manufacture and/or supply of: - uncoated woodfree paper, - coated mechanical paper, and - coated woodfree paper.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching this conclusion the ACCC noted that the proposed transaction was unlikely to lead to a significant change in market concentration in any of the relevant markets. The ACCC also had regard to the high levels of imports in each market."
+  }
+}

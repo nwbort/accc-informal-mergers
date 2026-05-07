@@ -1,0 +1,44 @@
+{
+  "id": "0452",
+  "title": "Singtel Optus Pty Ltd - proposed acquisition of Vividwireless Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/singtel-optus-pty-ltd-proposed-acquisition-of-vividwireless-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48301",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "16 April 2012",
+  "date_completed_iso": "2012-04-16T12:00:00Z",
+  "date_commenced": "28 February 2012",
+  "date_commenced_iso": "2012-02-28T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Singtel Optus Pty Ltd"
+  ],
+  "targets": [
+    "Vividwireless Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "28 Feb 2012",
+      "date_iso": "2012-02-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Mar 2012",
+      "date_iso": "2012-03-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Apr 2012",
+      "date_iso": "2012-04-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vividwireless (\"Vivid\") is a Western Australia-based provider of wireless broadband services to consumers using WiMAX technology. Vivid's network covers parts of Adelaide, Brisbane, Canberra, Melbourne, Perth and Sydney. The ultimate holding company of Vivid is Seven Group Holdings Limited. Vivid supplies retail mobile telecommunications services to consumers in the form of mobile broadband and Voice over Internet Protocol (VoIP) technology. It holds the rights to use up to 98MHz of spectrum in the 2.3 GHz and 3.5 GHz bands in capital cities. These spectrum rights cover around 60% of the population. Optus supplies a comprehensive range of telecommunications services, including mobile and fixed line telephony services, broadband and dial-up internet services, pay TV services and satellite services. Optus proposed to acquire all of the issued shares in Vivid from Seven Group Holdings.",
+    "Market definition": "The primary area of overlap between the parties was in the supply of mobile broadband services to consumers. The ACCC assessed the impact of the proposed acquisition on the national market for the retail supply of mobile telecommunications services (the relevant market).This included a consideration of the impact of Optus' proposed acquisition of Vivid's spectrum assets on competition in the mobile services market.",
+    "Competition analysis": "The ACCC decided that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. In reaching this conclusion, the ACCC noted that the proposed acquisition would result in limited horizontal aggregation in the relevant market. The ACCC also considered that Optus' proposed acquisition of Vivid's spectrum assets would not be likely to significantly impact the ability of existing competitors to compete in the relevant market and that high barriers to entry in the relevant market meant that the spectrum was unlikely to be utilised by a future competitor."
+  }
+}

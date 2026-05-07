@@ -1,0 +1,31 @@
+{
+  "id": "1546",
+  "title": "Acquirer: Baxter Group Ltd; Target: Pioneer Australia Waste Management Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-baxter-group-ltd-target-pioneer-australia-waste-management-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18010",
+  "industries": [],
+  "date_completed": "30 June 2003",
+  "date_completed_iso": "2003-06-30T12:00:00Z",
+  "date_commenced": "6 June 2003",
+  "date_commenced_iso": "2003-06-06T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Baxter Group Ltd"
+  ],
+  "targets": [
+    "Pioneer Australia Waste Management Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "It is proposed that the Baxter Group purchase the Pioneer Clayton landfill site as a going business. The purchase includes the plant and equipment owned by Pioneer Waste as well as land and tipping space.",
+    "Market definition": "This merger was assessed under 3 separate markets definitions for the \"disposal of waste\": 1) The disposal of municipal waste (residential, self-haul), within a 7.5 km radius from the Clayton site. 2) The disposal of municipal waste (residential, council collected) from Truganina in Melbourne's west extending to Frankston and Casey City councils in the south of Melbourne. 3) The disposal of commercial and industrial waste in the Melbourne metropolitan area.",
+    "Competition analysis": "The acquisition is unlikely to cross merger concentration thresholds for any relevant market. The acquisition is likely to create extra dumping capacity (airspace) in Melbourne's south east as the Baxter Group is able to remove \"slimes\" from the surface of the Pioneer site, which will extend the life of the landfill.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "9634"
+  }
+}

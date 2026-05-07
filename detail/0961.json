@@ -1,0 +1,59 @@
+{
+  "id": "0961",
+  "title": "P&O Automotive and General Stevedoring Pty Ltd - proposed joint venture with Tasports",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/po-automotive-and-general-stevedoring-pty-ltd-proposed-joint-venture-with-tasports",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30121",
+  "industries": [
+    "Stevedoring"
+  ],
+  "date_completed": "19 February 2008",
+  "date_completed_iso": "2008-02-19T12:00:00Z",
+  "date_commenced": "30 October 2007",
+  "date_commenced_iso": "2007-10-30T12:00:00Z",
+  "total_review_days": 62,
+  "acquirers": [
+    "P&O Automotive and General Stevedoring Pty Ltd"
+  ],
+  "targets": [
+    "Tasports"
+  ],
+  "timeline": [
+    {
+      "date": "30 Oct 2007",
+      "date_iso": "2007-10-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Nov 2007",
+      "date_iso": "2007-11-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Dec 2007",
+      "date_iso": "2007-12-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "18 Jan 2008",
+      "date_iso": "2008-01-18T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues. Parties requested two week extension to provide submission on Statement of Issues. ACCC timeline suspended."
+    },
+    {
+      "date": "1 Feb 2008",
+      "date_iso": "2008-02-01T12:00:00Z",
+      "event": "ACCC received further information from parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Feb 2008",
+      "date_iso": "2008-02-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "P&O Automotive & General Stevedoring Pty Limited (POAGS) and Tasports, the Tasmanian port operator, proposed to enter a joint venture for the provision of stevedoring services in Tasmania and South Australia.",
+    "Market definition": "The ACCC did not form a concluded view on market definition, but noted that, within the context of Tasmania, there was scope for defining geographically narrow markets at each port, and for defining product markets for general and bulk stevedoring and for container stevedoring.",
+    "Competition analysis": "The ACCC considered that the vertical integration component of the proposed joint venture had the potential to give rise to competition issues. Having regard to information from market participants, however, the ACCC considered it was not able to establish that such potential issues were likely to amount to a substantial lessening of competition for the purposes of section 50."
+  }
+}

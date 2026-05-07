@@ -1,0 +1,43 @@
+{
+  "id": "0836",
+  "title": "AGL Energy Limited - agreement to acquire certain assets of BG Group Plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-agreement-to-acquire-certain-assets-of-bg-group-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34983",
+  "industries": [
+    "Gas exploration and electricity generation"
+  ],
+  "date_completed": "14 November 2008",
+  "date_completed_iso": "2008-11-14T12:00:00Z",
+  "date_commenced": "28 October 2008",
+  "date_commenced_iso": "2008-10-28T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "BG Group Plc"
+  ],
+  "timeline": [
+    {
+      "date": "28 Oct 2008",
+      "date_iso": "2008-10-28T12:00:00Z",
+      "event": "ACCC commenced review under the Mergers Review Process Guidelines."
+    },
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Nov 2008",
+      "date_iso": "2008-11-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the agreement."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the agreement in the context of: - the market for the production and marketing of wholesale gas in the southern Queensland region connected by pipeline infrastructure (including Brisbane, Gladstone and Mt Isa); - the market for the production and marketing of wholesale gas in the southern states (NSW, VIC and SA); - the market for the wholesale generation of electricity in Queensland; - the market for the retailing of electricity in Queensland; and - the market for the retailing of gas in Queensland.",
+    "Competition analysis": "On 14 November 2008, the ACCC formed the view that the agreement would be unlikely to result in a substantial lessening of competition in the relevant markets were AGL to exercise its options under the agreement. Factors informing this conclusion included: - the relatively limited gas reserves which would be held by AGL and the existence of a number of competitors with significant gas reserves; - the relatively limited power generation assets which would be held by AGL and the existence of a number of competitors with significant power generation capacity; - that as a result of AGL's relatively limited position in gas reserves and power generation, AGL would be unlikely to have the ability and incentive to foreclose competition in the retailing of gas and the retailing of electricity in Queensland."
+  }
+}

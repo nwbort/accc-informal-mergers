@@ -1,0 +1,23 @@
+{
+  "id": "1268",
+  "title": "Kohlberg Kravis Roberts & Co - acquisition of Cleanaway Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/kohlberg-kravis-roberts-co-acquisition-of-cleanaway-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24692",
+  "industries": [
+    "Waste management"
+  ],
+  "date_completed": "22 June 2006",
+  "date_completed_iso": "2006-06-22T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 19 June 2006, Kohlberg Kravis Roberts & Co purchased Brambles Industries' waste management business, Cleanaway Australia.",
+    "Competition analysis": "KKR is a private equity firm. KKR has not previously invested in any relevant Australian assets. As such, the ACCC considers that the acquisition is unlikely to cause substantial lessening of competition in any relevant market."
+  }
+}

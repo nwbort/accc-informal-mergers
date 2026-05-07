@@ -1,0 +1,49 @@
+{
+  "id": "0652",
+  "title": "Pact Group Pty Ltd - proposed acquisition of Brickwood Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-brickwood-holdings-pty-ltd-1",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40747",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "23 March 2010",
+  "date_completed_iso": "2010-03-23T12:00:00Z",
+  "date_commenced": "9 February 2010",
+  "date_commenced_iso": "2010-02-09T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Brickwood Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "9 Feb 2010",
+      "date_iso": "2010-02-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Feb 2010",
+      "date_iso": "2010-02-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Mar 2010",
+      "date_iso": "2010-03-03T12:00:00Z",
+      "event": "ACCC requested further information from Pact Group Pty Ltd. Former proposed date for announcement of ACCC's findings of 10 March 2010 amended to allow Pact Group Pty Ltd to respond to the ACCC's information request."
+    },
+    {
+      "date": "23 Mar 2010",
+      "date_iso": "2010-03-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC was informed that Pact had made an approach to acquire Brickwood.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - the state markets for the manufacture and supply of PET bottles in Queensland, New South Wales, and Victoria. - the state markets for the supply of HDPE bottles in Queensland, New South Wales and Victoria. The ACCC also considered the effect of the proposed acquisition on the supply of PET preforms, plastic closures, and PET and HDPE resin. However, as the ACCC formed the view that no competition concerns were likely to arise in relation to the supply of these products, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC reviewed an equivalent acquisition proposal in 2008. At that time, the ACCC formed the view that the proposed acquisition was unlikely to give rise to a substantial lessening of competition in any of the relevant markets. For the reasons underlying that review, please refer to the Public Competition Assessment relating to that matter available on the ACCC's mergers register. The ACCC considered that market conditions are broadly similar to those that existed in 2008. To the extent that conditions have changed, these changes are discussed in summary below. PET bottles Consistent with the ACCC's 2008 decision, the ACCC found that the acquisition would result in the removal of a significant competitor from the market. However, the ACCC remained of the view that large beverage manufacturers were likely to constrain the merged entity from raising prices significantly due to their scale and an ability to source bottles from alternative sources, including from in-house manufacturing. Further, the ACCC noted that: - Hollywood Plastics had expanded since 2008 and was likely to be in a stronger position to constrain the merged entity post-acquisition than it was in 2008. The ACCC also noted the importance of Viscount as a competitor to the merged entity in Western Australia. - Certain technological developments may make it more cost-effective for some large beverage customers to commence in-house manufacturing of PET bottles in the future. The ACCC therefore considered that the proposed acquisition was unlikely to give rise to a substantial lessening of competition in relation to PET bottle markets. HDPE bottles Consistent with the 2008 review, the ACCC considered that there are a number of alternative suppliers of HDPE bottles in each state and a proven ability for customers to commence in-house production of HDPE bottles or enter into joint ventures with HDPE bottle suppliers. The ACCC formed the view that these factors were likely to constrain the merged entity post-acquisition. The ACCC therefore considered that the proposed acquisition was unlikely to give rise to a substantial lessening of competition in relation to HDPE bottle markets."
+  }
+}

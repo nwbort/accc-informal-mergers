@@ -1,0 +1,49 @@
+{
+  "id": "0539",
+  "title": "PagePack (AU) Pty Limited - proposed acquisition of CPI Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pagepack-au-pty-limited-proposed-acquisition-of-cpi-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44771",
+  "industries": [
+    "Fine paper distribution"
+  ],
+  "date_completed": "9 March 2011",
+  "date_completed_iso": "2011-03-09T12:00:00Z",
+  "date_commenced": "20 January 2011",
+  "date_commenced_iso": "2011-01-20T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "PagePack (AU) Pty Ltd"
+  ],
+  "targets": [
+    "CPI Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jan 2011",
+      "date_iso": "2011-01-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Feb 2011",
+      "date_iso": "2011-02-01T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "8 Feb 2011",
+      "date_iso": "2011-02-08T12:00:00Z",
+      "event": "Closing date for submissions relating to market inquiries. ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "9 Mar 2011",
+      "date_iso": "2011-03-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PagePack (AU) Pty Ltd Limited proposed to acquire 100% of the shares in CPI Group Limited. PagePack and CPI Group Limited were distributors of fine paper, packaging paper and paperboard in Australia.",
+    "Market definition": "The proposed acquisition was considered in the context of state markets for the supply of fine paper (including copy paper) by merchants. However, the ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the state based markets for the supply of fine paper (including copy paper) by merchants because of the following factors: - post acquisition, there would remain a number of paper merchants in the relevant markets and customers would be  able to switch to alternative fine paper merchants; and - the barriers to entry and expansion do not appear significant. In particular, smaller paper merchants appear likely to act as an effective competitive constraint on the merged entity due to the low barriers to expansion."
+  }
+}

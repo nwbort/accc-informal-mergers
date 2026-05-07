@@ -1,0 +1,64 @@
+{
+  "id": "0335",
+  "title": "Peregrine Corporation - proposed acquisition of 25 BP Australia petrol retail sites in South Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/peregrine-corporation-proposed-acquisition-of-25-bp-australia-petrol-retail-sites-in-south-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49285",
+  "industries": [
+    "Fuel retailing"
+  ],
+  "date_completed": "8 May 2014",
+  "date_completed_iso": "2014-05-08T12:00:00Z",
+  "date_commenced": "15 May 2013",
+  "date_commenced_iso": "2013-05-15T12:00:00Z",
+  "total_review_days": 95,
+  "acquirers": [
+    "Peregrine Corporation"
+  ],
+  "targets": [
+    "25 BP Australia petrol retail sites in South Australia"
+  ],
+  "timeline": [
+    {
+      "date": "15 May 2013",
+      "date_iso": "2013-05-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "20 Jun 2013",
+      "date_iso": "2013-06-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Sep 2013",
+      "date_iso": "2013-09-24T12:00:00Z",
+      "event": "ACCC timeline suspended to allow the merger parties to provide further information. Former proposed decision date of 26 September 2013 delayed."
+    },
+    {
+      "date": "6 Dec 2013",
+      "date_iso": "2013-12-06T12:00:00Z",
+      "event": "ACCC timeline recommenced following receipt of further information from merger parties."
+    },
+    {
+      "date": "13 Dec 2013",
+      "date_iso": "2013-12-13T12:00:00Z",
+      "event": "Former proposed decision date of 19 December 2013 delayed at merger parties' request to allow them to provide further information to ACCC."
+    },
+    {
+      "date": "2 May 2014",
+      "date_iso": "2014-05-02T12:00:00Z",
+      "event": "Further information received. ACCC timeline recommenced."
+    },
+    {
+      "date": "8 May 2014",
+      "date_iso": "2014-05-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition subject to a section 87B undertaking accepted by ACCC. However, ACCC decided to oppose the related acquisition of Caltex Fullarton by Peregrine."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Peregrine proposed to acquire 25 of BP's company owned and operated retail petrol station sites in South Australia, comprising all 16 of BP's sites in Adelaide and nine sites in regional South Australia. As part of the arrangements to address the competition concerns, Peregrine proposed to swap sites with other retailers. One of the sites Peregrine sought to acquire was Caltex Fullarton. The ACCC decided to oppose Peregrine's proposed acquisition of Caltex Fullarton.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

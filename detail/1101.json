@@ -1,0 +1,37 @@
+{
+  "id": "1101",
+  "title": "Acquos Masterbatch - recent acquisition of Clariant Masterbatch",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquos-masterbatch-recent-acquisition-of-clariant-masterbatch",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26740",
+  "industries": [
+    "Plastics - additives"
+  ],
+  "date_completed": "24 May 2007",
+  "date_completed_iso": "2007-05-24T12:00:00Z",
+  "date_commenced": "3 May 2007",
+  "date_commenced_iso": "2007-05-03T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Acquos Masterbatch"
+  ],
+  "targets": [
+    "Clariant Masterbatch"
+  ],
+  "timeline": [
+    {
+      "date": "3 May 2007",
+      "date_iso": "2007-05-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 May 2007",
+      "date_iso": "2007-05-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to result in a substantial lessening of competition due to: - the relative low market share of the merged firm; - the relative low barriers to entry for the manufacture and supply of masterbatch; and - the potential for imports to act as a competitive constraint."
+  }
+}

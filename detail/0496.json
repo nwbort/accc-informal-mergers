@@ -1,0 +1,44 @@
+{
+  "id": "0496",
+  "title": "Ameropa Holding AG - proposed acquisition of Hi-Fert Pty Ltd (Administrators Appointed)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ameropa-holding-ag-proposed-acquisition-of-hi-fert-pty-ltd-administrators-appointed",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46691",
+  "industries": [
+    "Fertilisers"
+  ],
+  "date_completed": "8 September 2011",
+  "date_completed_iso": "2011-09-08T12:00:00Z",
+  "date_commenced": "10 August 2011",
+  "date_commenced_iso": "2011-08-10T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Ameropa Holding AG"
+  ],
+  "targets": [
+    "Hi-Fert Pty Ltd (Administrators Appointed)"
+  ],
+  "timeline": [
+    {
+      "date": "10 Aug 2011",
+      "date_iso": "2011-08-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Aug 2011",
+      "date_iso": "2011-08-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Sep 2011",
+      "date_iso": "2011-09-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ameropa Holding AG (through its subsidiaries Impact Fertilisers Pty Ltd and Impact Fertilisers Australia Pty Ltd) proposed to acquire the assets of Hi-Fert Pty Ltd (Receivers Appointed) (Receivers and Managers Appointed) (Administrators Appointed)",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market or markets for the distribution of fertilisers in the eastern states of Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any of the relevant markets. Factors informing this conclusion are outlined below. Post acquisition, the ACCC considered that Impact would continue to be constrained by competition from several other fertiliser distributors in the eastern states of Australia. The ACCC also found that a number of new participants had entered the relevant markets in the previous three years. These entrants were successfully able to secure access to non-specialised logistical infrastructure (port and storage facilities) to support their distribution businesses. Larger customers of the merger parties may import fertilisers directly should domestic prices increase above import parity for a sustained period. There were no significant difficulties or barriers associated with the importation of fertiliser products into Australia, other than those that occurred in the ordinary course of business for bulk commodity imports; and the pricing of fertiliser in the eastern Australian states was closely correlated with international pricing. The operations of the merger parties did not overlap to a significant extent given the different geographic, customer and product focus of their respective businesses."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1640",
+  "title": "Acquirer: OneSteel Ltd; Target: Adelaide Steel Processing Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-onesteel-ltd-target-adelaide-steel-processing-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15958",
+  "industries": [],
+  "date_completed": "24 June 2002",
+  "date_completed_iso": "2002-06-24T12:00:00Z",
+  "date_commenced": "10 May 2002",
+  "date_commenced_iso": "2002-05-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "OneSteel Ltd"
+  ],
+  "targets": [
+    "Adelaide Steel Processing Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "OneSteel Ltd proposes to acquire Adelaide Steel Processing.",
+    "Market definition": "The Commission did not consider it necessary to define a market in the current matter as on any definition the proposed acquisition is unlikely to substantially lessen competition.",
+    "Competition analysis": "The Commission decided not to oppose the acquisition on the basis that OneSteel's operations are complementary to rather than competitive with Adelaide Steel Processing's operations.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2759"
+  }
+}

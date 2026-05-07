@@ -1,0 +1,84 @@
+{
+  "id": "0279",
+  "title": "Royal Dutch Shell plc - proposed acquisition of BG Group plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/royal-dutch-shell-plc-proposed-acquisition-of-bg-group-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57343",
+  "industries": [
+    "Oil and Gas"
+  ],
+  "date_completed": "19 November 2015",
+  "date_completed_iso": "2015-11-19T12:00:00Z",
+  "date_commenced": "11 June 2015",
+  "date_commenced_iso": "2015-06-11T12:00:00Z",
+  "total_review_days": 93,
+  "acquirers": [
+    "Royal Dutch Shell plc"
+  ],
+  "targets": [
+    "BG Group plc"
+  ],
+  "timeline": [
+    {
+      "date": "11 Jun 2015",
+      "date_iso": "2015-06-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 Jul 2015",
+      "date_iso": "2015-07-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Jul 2015",
+      "date_iso": "2015-07-16T12:00:00Z",
+      "event": "ACCC requested further information from Shell."
+    },
+    {
+      "date": "31 Jul 2015",
+      "date_iso": "2015-07-31T12:00:00Z",
+      "event": "ACCC received further information from Shell."
+    },
+    {
+      "date": "7 Aug 2015",
+      "date_iso": "2015-08-07T12:00:00Z",
+      "event": "ACCC requested further information from Shell and BG."
+    },
+    {
+      "date": "21 Aug 2015",
+      "date_iso": "2015-08-21T12:00:00Z",
+      "event": "ACCC received further information from Shell and BG."
+    },
+    {
+      "date": "3 Sep 2015",
+      "date_iso": "2015-09-03T12:00:00Z",
+      "event": "Former proposed decision date of 3 September 2015 delayed by ACCC to allow additional time to consider the proposed acquisition."
+    },
+    {
+      "date": "17 Sep 2015",
+      "date_iso": "2015-09-17T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "8 Oct 2015",
+      "date_iso": "2015-10-08T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "22 Oct 2015",
+      "date_iso": "2015-10-22T12:00:00Z",
+      "event": "Former proposed decision date of 12 November delayed by ACCC to allow additional time to consider the proposed acquisition."
+    },
+    {
+      "date": "19 Nov 2015",
+      "date_iso": "2015-11-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Royal Dutch Shell plc (Shell) proposed to acquire BG Group plc (BG). Both Shell and BG produce oil and gas globally, including gas in Australia.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

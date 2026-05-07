@@ -1,0 +1,44 @@
+{
+  "id": "0158",
+  "title": "Paper Australia Pty Ltd proposed acquisition of Orora Limited’s Australian paper and recycling, fibre packaging and sacks and bags businesses",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/paper-australia-pty-ltd-proposed-acquisition-of-orora-limited%E2%80%99s-australian-paper-and-recycling-fibre-packaging-and-sacks-and-bags-businesses",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Paper manufacturing"
+  ],
+  "date_completed": "27 February 2020",
+  "date_completed_iso": "2020-02-27T12:00:00Z",
+  "date_commenced": "27 November 2019",
+  "date_commenced_iso": "2019-11-27T12:00:00Z",
+  "total_review_days": 64,
+  "acquirers": [
+    "Opal Packaging Australia Pty Ltd, a wholly owned subsidiary of Paper Australia Pty Ltd"
+  ],
+  "targets": [
+    "Orora Limited’s Australian paper and recycling, fibre packaging and sacks and bags businesses."
+  ],
+  "timeline": [
+    {
+      "date": "2 Dec 2019",
+      "date_iso": "2019-12-02T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Dec 2019",
+      "date_iso": "2019-12-16T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "27 Feb 2020",
+      "date_iso": "2020-02-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Opal Packaging Australia Pty Ltd, a wholly owned subsidiary of Paper Australia Pty Ltd (Australian Paper), proposes to acquire all issued shares in: PP New Pty Ltd, which owns AP Chase Pty Ltd; Rota Die International Pty Ltd; and Specialty Packaging Group Pty Ltd. Australian Paper also proposes to acquire certain assets owned by Orora Limited and Orora Packaging Australia Pty Ltd. The proposed acquisition covers Orora Limited’s Australian paper and recycling, fibre packaging and sacks and bags businesses.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the market for the wholesale supply of kraft linerboard in Australia.",
+    "Competition analysis": "Any potential harm arising from the transaction would be as the result of potential foreclosure of supply to other purchasers of kraft linerboard in Australia. Some purchasers of kraft linerboard compete against Orora in the downstream market for supply of corrugated boxes. There are other competitors present in this downstream market, including Oji and Visy (both vertically integrated with their own supply of kraft packaging paper). The ACCC considers that foreclosure is unlikely as: one of Australian Paper, Oji, and Visy are likely to have excess production capacity and be incentivised to continue to compete to supply downstream converters, and imports are likely to be an option, with significant overseas mill capacity coming online in the near future. This form of paper is regularly globally traded in standard containers. Therefore the ACCC considers that a substantial lessening of competition is unlikely."
+  }
+}

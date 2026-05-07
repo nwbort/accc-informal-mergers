@@ -1,0 +1,59 @@
+{
+  "id": "0303",
+  "title": "Novartis AG - proposed acquisition of oncology products from GlaxoSmithKline plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/novartis-ag-proposed-acquisition-of-oncology-products-from-glaxosmithkline-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55722",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "20 February 2015",
+  "date_completed_iso": "2015-02-20T12:00:00Z",
+  "date_commenced": "1 October 2014",
+  "date_commenced_iso": "2014-10-01T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Novartis AG"
+  ],
+  "targets": [
+    "oncology products from GlaxoSmithKline plc"
+  ],
+  "timeline": [
+    {
+      "date": "1 Oct 2014",
+      "date_iso": "2014-10-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "24 Oct 2014",
+      "date_iso": "2014-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Nov 2014",
+      "date_iso": "2014-11-20T12:00:00Z",
+      "event": "Former proposed decision date of 27 November delayed at the request of the parties to allow them to provide further information to the ACCC."
+    },
+    {
+      "date": "29 Jan 2015",
+      "date_iso": "2015-01-29T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "3 Feb 2015",
+      "date_iso": "2015-02-03T12:00:00Z",
+      "event": "Former proposed decision date of 5 February 2015 delayed to allow the parties to provide further information to the ACCC."
+    },
+    {
+      "date": "20 Feb 2015",
+      "date_iso": "2015-02-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Novartis AG proposed to purchase certain oncology products from GlaxoSmithKline Plc (GSK). Of the products which Novartis will acquire from GSK there are: - five molecular targeted therapies currently marketed in Australia that are on-patent: Revolade, Mekinist, Tafinlar, Tykerb and Votrient; - one molecular targeted therapy that is approved in Australia, but is not currently marketed: Arzerra; -one traditional chemotherapy agent which is currently marketed in Australia but is no longer on-patent: Hycamtin; and -two molecular targeted therapies currently in early-stage clinical development, Afuresertib and Uprosertib, which are not marketed in Australia. The oncology products of the two parties overlap in relation to the treatment of advanced renal cell carcinoma, advanced melanoma and HER2 + Breast Cancer treatment products.",
+    "Market definition": "The ACCC considered the competitive effects of the acquisition in the context of the market(s) for the supply of products to treat advanced renal cell carcinomas; advanced melanomas and HER2+ breast cancer in Australia. The ACCC did not consider it necessary to form a definitive view regarding market definition in any of these treatment areas.",
+    "Competition analysis": "Consistent with previous decisions in the pharmaceuticals sector, the ACCC has taken the view that a full assessment of the competitive effect of the proposed acquisition required an analysis of products that are not yet on the market but are at an advanced stage of development. In relation to advanced renal cell carcinoma and HER2+ breast cancer treatments market feedback indicated that the Novartis and GSK products were not considered to be substitutes, taking into account their indications for use, the mechanisms of action and the line of treatment they are indicated for. In relation to advanced melanoma treatments GSK's Tafinlar product and Novartis' pipeline product LGX818 both share the same mechanism of action. Market feedback indicated that these products would be direct substitutes rather than complements in the treatment of advanced melanoma. Similarly the combination of Novartis' pipeline products MEK162 and LGX818 are likely to compete with GSK's existing combination of Tafinlar and Mekinist. The ACCC notes that Novartis has provided commitments to the European Commission to divest the pipeline advanced melanoma products MEK162 and LGX818. These commitments remove the overlap between Novartis and GSK in relation to the supply of advanced melanoma products, including in Australia. For these reasons the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market."
+  }
+}

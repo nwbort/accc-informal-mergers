@@ -1,0 +1,69 @@
+{
+  "id": "0178",
+  "title": "GFG Alliance Australia / Liberty House Group- Steelforce Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gfg-alliance-australia-liberty-house-group-steelforce-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Steel Distribution"
+  ],
+  "date_completed": "13 June 2019",
+  "date_completed_iso": "2019-06-13T12:00:00Z",
+  "date_commenced": "13 February 2019",
+  "date_commenced_iso": "2019-02-13T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "GFG Alliance Australia / Liberty House Group"
+  ],
+  "targets": [
+    "Steelforce Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Feb 2019",
+      "date_iso": "2019-02-13T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Feb 2019",
+      "date_iso": "2019-02-27T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "5 Mar 2019",
+      "date_iso": "2019-03-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Mar 2019",
+      "date_iso": "2019-03-14T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (2 May) is delayed to allow merger parties to provide additional information."
+    },
+    {
+      "date": "26 Mar 2019",
+      "date_iso": "2019-03-26T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "18 Apr 2019",
+      "date_iso": "2019-04-18T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (16 May) delayed."
+    },
+    {
+      "date": "17 May 2019",
+      "date_iso": "2019-05-17T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "13 Jun 2019",
+      "date_iso": "2019-06-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Steelforce Holdings Pty Ltd ( Steelforce ) by GFG Alliance Australia/Liberty House Group ( Liberty ). Liberty and Steelforce manufacture and supply long steel products to distributors in Australia. Liberty and Steelforce are also distributors of long steel products in Australia.",
+    "Market definition": "The ACCC’s review focused on the wholesale supply and distribution of three types of long steel products: hollows, structurals and merchant bars. Liberty and Steelforce overlap in: the manufacture of hollows (through Liberty’s domestic manufacturing assets and Steelforce’s mill in Dalian, China); and the distribution of three types of long steel products - hollows, structurals and merchant bars - in each of New South Wales, Victoria, Queensland and Western Australia. In light of the overlap between the parties, the ACCC considered the potential effects of the proposed acquisition on competition in: a national market for the wholesale supply of hollows, and state markets for the distribution of long steel products in each of New South Wales, Victoria, Queensland and Western Australia. The ACCC did not consider it necessary to reach a concluded view about whether there are separate distribution markets for each category of long steel product, because this would not have led to a different view about the likely competition effects of the proposed acquisition.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market. National market for the wholesale supply of hollows At the wholesale level, the ACCC considered: Whether the combination of Liberty’s existing domestic manufacturing assets and Steelforce’s hollows mill in Dalian, China, would provide Liberty with the unilateral ability and incentive to increase wholesale prices for hollows. Whether the combination of Liberty and Steelforce’s wholesale businesses, together with the addition of Steelforce’s distribution business to Liberty’s existing distribution business, would strengthen Liberty’s incentive to foreclose competing distributors. The ACCC considered that Liberty would continue to be constrained by the wholesale supply of hollows from other sources. Market inquiries suggested that imported hollows are a viable alternative to domestically manufactured product, and that numerous overseas supply options exist. Imports have constituted over 25 per cent of total wholesale supply of hollows in Australia for many years, and quantities of imports have responded to changes in domestic prices. The ACCC also took into account that Bluescope remains as a competing domestic manufacturer and wholesale supplier of hollows. Distribution of long steel products The ACCC considered whether, as a result of the combination of the Liberty and Steelforce distribution businesses, Liberty would have an ability to unilaterally increase prices and/or decrease service levels in the distribution of long steel products in one or more of the four relevant states. Despite the acquisition leading to Liberty having a substantial market share in each state, the ACCC considered that the continuing presence of a number of competing distributors in each state, and the ability of these distributors to expand their operations, would act as a constraint on Liberty post-acquisition. In reaching this conclusion, the ACCC had regard to the fact that most customers regularly seek quotes from multiple distributors, and that there are limited barriers to customers switching between distributors."
+  }
+}

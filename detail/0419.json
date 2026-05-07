@@ -1,0 +1,79 @@
+{
+  "id": "0419",
+  "title": "Sonic Healthcare Limited - proposed acquisition of pathology businesses of Healthscope Limited in Queensland and Western Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sonic-healthcare-limited-proposed-acquisition-of-pathology-businesses-of-healthscope-limited-in-queensland-and-western-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48190",
+  "industries": [
+    "Pathology"
+  ],
+  "date_completed": "11 October 2012",
+  "date_completed_iso": "2012-10-11T12:00:00Z",
+  "date_commenced": "16 May 2012",
+  "date_commenced_iso": "2012-05-16T12:00:00Z",
+  "total_review_days": 72,
+  "acquirers": [
+    "Sonic Healthcare Limited"
+  ],
+  "targets": [
+    "Healthscope Limited"
+  ],
+  "timeline": [
+    {
+      "date": "16 May 2012",
+      "date_iso": "2012-05-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Jun 2012",
+      "date_iso": "2012-06-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Jul 2012",
+      "date_iso": "2012-07-03T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 12 July 2012 delayed pending receipt of information requested."
+    },
+    {
+      "date": "27 Jul 2012",
+      "date_iso": "2012-07-27T12:00:00Z",
+      "event": "ACCC received submissions from the merger parties following ACCC's request for information on 3 July 2012. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Aug 2012",
+      "date_iso": "2012-08-02T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "16 Aug 2012",
+      "date_iso": "2012-08-16T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "27 Aug 2012",
+      "date_iso": "2012-08-27T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 30 August 2012 delayed pending receipt of information from the parties. ACCC will announce a new proposed decision date in due course."
+    },
+    {
+      "date": "14 Sep 2012",
+      "date_iso": "2012-09-14T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "17 Sep 2012",
+      "date_iso": "2012-09-17T12:00:00Z",
+      "event": "Sonic announced that it no longer proposes to acquire Healthscope's pathology businesses in New South Wales and the ACT."
+    },
+    {
+      "date": "11 Oct 2012",
+      "date_iso": "2012-10-11T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition in Queensland but would not oppose the proposed acquisition in Western Australia."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sonic Healthcare Limited proposed to acquire the pathology businesses of Healthscope Limited in the states of Queensland and Western Australia. On 11 October 2012, the ACCC announced that it would oppose the proposed acquisition in Queensland but would  not oppose the proposed acquisition in Western Australia. Reasons for the ACCC's decision in relation to the proposed acquisition are provided in the Public Competition Assessment.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

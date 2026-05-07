@@ -1,0 +1,54 @@
+{
+  "id": "0357",
+  "title": "BlueScope Steel Ltd - proposed acquisition of Orrcon Steel",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bluescope-steel-ltd-proposed-acquisition-of-orrcon-steel",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52066",
+  "industries": [
+    "Manufacture of steel products"
+  ],
+  "date_completed": "5 December 2013",
+  "date_completed_iso": "2013-12-05T12:00:00Z",
+  "date_commenced": "4 September 2013",
+  "date_commenced_iso": "2013-09-04T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "BlueScope Steel Ltd"
+  ],
+  "targets": [
+    "Orrcon Steel"
+  ],
+  "timeline": [
+    {
+      "date": "4 Sep 2013",
+      "date_iso": "2013-09-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "25 Sep 2013",
+      "date_iso": "2013-09-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Oct 2013",
+      "date_iso": "2013-10-15T12:00:00Z",
+      "event": "Former proposed decision date of 31 October 2013 delayed pending receipt of further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "11 Nov 2013",
+      "date_iso": "2013-11-11T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "5 Dec 2013",
+      "date_iso": "2013-12-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BlueScope Steel Ltd proposed to acquire Orrcon Steel from Hills Holding Limited.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1237",
+  "title": "Venture Holdings BV - acquisition of DMG Industries Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/venture-holdings-bv-acquisition-of-dmg-industries-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24035",
+  "industries": [
+    "Plastic injection moulding"
+  ],
+  "date_completed": "22 August 2006",
+  "date_completed_iso": "2006-08-22T12:00:00Z",
+  "date_commenced": "3 August 2006",
+  "date_commenced_iso": "2006-08-03T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Venture Holdings BV"
+  ],
+  "targets": [
+    "DMG Industries Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Aug 2006",
+      "date_iso": "2006-08-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "21 Aug 2006",
+      "date_iso": "2006-08-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Venture Holdings BV acquired DMG Industries Pty Ltd.",
+    "Market definition": "The ACCC did not reach a conclusive view in relation to market definition as it did not consider it was a critical issue, but used the following definitions for consideration of the acquisition: a national market for the production and supply of plastic automotive parts; and a national market for the production and supply of the tools required to make those parts.",
+    "Competition analysis": "The ACCC took into consideration the views of market participants in reaching the conclusion that the acquisition was unlikely to substantially lessen competition.  Imports were considered a significant constraint in both markets as well as in downstream markets.  Furthermore, many large customers were considered to have considerable countervailing power."
+  }
+}

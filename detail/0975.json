@@ -1,0 +1,49 @@
+{
+  "id": "0975",
+  "title": "Arc Energy - proposed acquisition of Anzon Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/arc-energy-proposed-acquisition-of-anzon-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30084",
+  "industries": [
+    "Oil and gas"
+  ],
+  "date_completed": "23 January 2008",
+  "date_completed_iso": "2008-01-23T12:00:00Z",
+  "date_commenced": "19 December 2007",
+  "date_commenced_iso": "2007-12-19T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Arc Energy"
+  ],
+  "targets": [
+    "Anzon Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Dec 2007",
+      "date_iso": "2007-12-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Jan 2008",
+      "date_iso": "2008-01-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Jan 2008",
+      "date_iso": "2008-01-16T12:00:00Z",
+      "event": "Announcement of ACCC's findings delayed by one week to allow merger parties to provide additional information sought by the ACCC."
+    },
+    {
+      "date": "23 Jan 2008",
+      "date_iso": "2008-01-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Arc Energy propose to acquire Anzon Australia Limited",
+    "Market definition": "The ACCC did not consider it necessary to form a view in relation to market definition",
+    "Competition analysis": "The ACCC noted that the merged entity's production and reserves would be much smaller than rival firms in the region. Primarily for this reason, the ACCC considered that a substantial lessening of competition was unlikely in any market as a result of the acquisition."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0143",
+  "title": "Metcash - majority interest in Total Tools Holdings",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metcash-majority-interest-in-total-tools-holdings",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Tools - hardware"
+  ],
+  "date_completed": "20 August 2020",
+  "date_completed_iso": "2020-08-20T12:00:00Z",
+  "date_commenced": "29 June 2020",
+  "date_commenced_iso": "2020-06-29T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Metcash"
+  ],
+  "targets": [
+    "Majority interest in Total Tools Holdings"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jun 2020",
+      "date_iso": "2020-06-29T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jul 2020",
+      "date_iso": "2020-07-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "19 Aug 2020",
+      "date_iso": "2020-08-19T12:00:00Z",
+      "event": "Former proposed decision date (27 August 2020) brought forward to 20 August 2020."
+    },
+    {
+      "date": "20 Aug 2020",
+      "date_iso": "2020-08-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Metcash Limited is proposing to acquire a 70% stake in Total Tools Holdings Pty Ltd. Through its Independent Hardware Group (IHG) division, Metcash is a wholesaler and retailer of hardware and home improvement products. IHG’s brands include Mitre 10, Home Timber & Hardware, Thrifty-Link Hardware, True Value Hardware and Hardings. Total Tools Holdings is the franchisor of the Total Tools network, a specialist tool retailer.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on markets for: the retail supply of tools and equipment in Australia and in local markets, and the wholesale supply of tools and equipment in Australia. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "Overview IHG and Total Tools stores overlap in the retail supply of tools and equipment. The ACCC considered the impact of the proposed acquisition and concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Retail supply of tools and equipment The ACCC considers that IHG stores compete more closely with Bunnings and other multi-category hardware stores, while Total Tools competes closely with other tool specialists such as Sydney Tools, as well as Bunnings. The ACCC considered that tool specialists mainly attract trade customers due to their wide range of trade quality products and specialised staff. In comparison, multi-category hardware stores attract DIY customers (for tools), as they carry a smaller and less sophisticated tool range when compared to total specialists. The ACCC considers that, at a national level, a combined IHG and Total Tools would still face strong competition from Bunnings, as well as from other suppliers. The ACCC also assessed competition for the retail supply of tools and equipment in relevant local areas with overlapping IHG and Total Tools stores. The ACCC concluded that in all relevant locations, there will continue to be a number of strong and effective competitors. Wholesale supply of tools and equipment As Metcash is present in the wholesale market for tools and equipment, the ACCC considered the nature and extent of vertical integration, in particular whether Metcash may be incentivised to foreclose rivals. The ACCC concluded that the proposed acquisition was unlikely to result in any vertical competition issues of concern."
+  }
+}

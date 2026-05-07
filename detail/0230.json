@@ -1,0 +1,54 @@
+{
+  "id": "0230",
+  "title": "General Electric Company - proposed acquisition of Baker Hughes Incorporated",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/general-electric-company-proposed-acquisition-of-baker-hughes-incorporated",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61147",
+  "industries": [
+    "Oilfield services, technology and systems"
+  ],
+  "date_completed": "13 June 2017",
+  "date_completed_iso": "2017-06-13T12:00:00Z",
+  "date_commenced": "22 February 2017",
+  "date_commenced_iso": "2017-02-22T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "General Electric Company"
+  ],
+  "targets": [
+    "Baker Hughes Incorporated"
+  ],
+  "timeline": [
+    {
+      "date": "22 Feb 2017",
+      "date_iso": "2017-02-22T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Mar 2017",
+      "date_iso": "2017-03-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "24 Apr 2017",
+      "date_iso": "2017-04-24T12:00:00Z",
+      "event": "Former proposed decision date of 4 May 2017 delayed while the ACCC awaits further information about the proposed sale of GE Water & Process Technologies. ACCC timeline suspended in the interim."
+    },
+    {
+      "date": "12 Jun 2017",
+      "date_iso": "2017-06-12T12:00:00Z",
+      "event": "The US Department of Justice announced it has filed a consent decree requiring GE sell its GE Water & Process Technologies business to Suez as a condition of the proposed acquisition."
+    },
+    {
+      "date": "13 Jun 2017",
+      "date_iso": "2017-06-13T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition taking into account the US Department of Justice's announcement."
+    }
+  ],
+  "body_sections": {
+    "Summary": "General Electric Company (GE) and Baker Hughes Incorporated (Baker Hughes) have agreed to combine GE's oil and gas business (GE Oil & Gas) and Baker Hughes. Both companies provide products and services to the oil and natural gas industries in many countries, including Australia.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view on the relevant markets as competition concerns were unlikely to arise for the reasons outlined in the Competition Analysis below. The ACCC considered the effect of the proposed acquisition on markets for the supply of downstream chemicals and inline inspection and integrity services in Australia.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not be likely to substantially lessen competition in any market. The proposed acquisition was likely to lead to high concentration in downstream chemicals, particularly with respect to refinery process chemicals supplied to the petrochemical and refinery industry. However, the global sale of GE Water (which overlaps with Baker Hughes' chemicals business) to Suez resolved any potential competition concerns. The ACCC found that overseas suppliers of inline inspection and integrity services would likely provide sufficient competitive constraint on the merged firm to prevent a substantial lessening of competition occurring in Australia."
+  }
+}

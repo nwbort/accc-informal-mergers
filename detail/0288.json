@@ -1,0 +1,60 @@
+{
+  "id": "0288",
+  "title": "Health Care Corporation Pty Ltd (Ramsay) - proposed acquisition of Wollongong Day Surgery",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/health-care-corporation-pty-ltd-ramsay-proposed-acquisition-of-wollongong-day-surgery",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56672",
+  "industries": [
+    "Medical centre"
+  ],
+  "date_completed": "6 August 2015",
+  "date_completed_iso": "2015-08-06T12:00:00Z",
+  "date_commenced": "16 March 2015",
+  "date_commenced_iso": "2015-03-16T12:00:00Z",
+  "total_review_days": 85,
+  "acquirers": [
+    "Health Care Corporation Pty Ltd"
+  ],
+  "targets": [
+    "Wollongong Day Surgery"
+  ],
+  "timeline": [
+    {
+      "date": "16 Mar 2015",
+      "date_iso": "2015-03-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Apr 2015",
+      "date_iso": "2015-04-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Apr 2015",
+      "date_iso": "2015-04-23T12:00:00Z",
+      "event": "Former proposed decision date of 7 May delayed to allow receipt of further information from Ramsay and WDS."
+    },
+    {
+      "date": "13 May 2015",
+      "date_iso": "2015-05-13T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "11 Jun 2015",
+      "date_iso": "2015-06-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "2 Jul 2015",
+      "date_iso": "2015-07-02T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "6 Aug 2015",
+      "date_iso": "2015-08-06T12:00:00Z",
+      "event": "Ramsay withdrew its request for an informal merger review. Consequently, the ACCC discontinued its review without making a final decision. The former proposed decision date of the review was 27 August 2015."
+    }
+  ],
+  "body_sections": {}
+}

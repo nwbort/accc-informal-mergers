@@ -1,0 +1,53 @@
+{
+  "id": "0477",
+  "title": "Arrow Energy Holdings Pty Ltd - proposed acquisition of Bow Energy Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/arrow-energy-holdings-pty-ltd-proposed-acquisition-of-bow-energy-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47093",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "1 December 2011",
+  "date_completed_iso": "2011-12-01T12:00:00Z",
+  "date_commenced": "14 October 2011",
+  "date_commenced_iso": "2011-10-14T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Arrow Energy Holdings"
+  ],
+  "targets": [
+    "Bow Energy Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Oct 2011",
+      "date_iso": "2011-10-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Nov 2011",
+      "date_iso": "2011-11-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Nov 2011",
+      "date_iso": "2011-11-11T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended and former proposed decision date for announcement of ACCC's findings of 24 November 2011 delayed."
+    },
+    {
+      "date": "16 Nov 2011",
+      "date_iso": "2011-11-16T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Dec 2011",
+      "date_iso": "2011-12-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following alternative markets: -  the southern Queensland market for the supply and marketing of wholesale gas; and -  the eastern Australian market for the supply and marketing of wholesale gas. The ACCC, in considering the appropriate market definition, recognised that gas from southern Queensland may be an alternative for customers in southern states but gas produced in southern states may not be an alternative for customers in southern Queensland.  The ACCC did not consider it necessary to form a definitive view of the geographic dimension of the market as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. The increase in both Arrow's proven and probable (2P) reserves and its proven, probable and possible (3P) reserves as a result of the acquisition would not be significant and Arrow would be unlikely to be in a position to increase prices for wholesale gas supply to domestic users. The ACCC, in conducting its assessment, recognised the concerns of domestic gas users in southern Queensland regarding the availability of long term gas contracts in the short to medium term. While the ACCC recognises that prices to domestic users may rise as a result of the export opportunities available to domestic gas producers following the development of LNG facilities at Gladstone, the ACCC considers that this process is unlikely to be affected by the proposed acquisition.. The ACCC considered that absent the proposed acquisition Bow Energy is likely to have explored a number of options for the development of its reserves, including production of the gas for LNG export, and would be expected to have entered into a supply contract with the purchaser willing to pay the highest price. In particular, the ACCC considered that Bow was unlikely to have developed the reserves for domestic supply if the price received for domestic supply was lower than the effective equivalent price for LNG export.  Market inquiries suggested that with or without the proposed acquisition Arrow was unlikely to enter into new contracts to supply gas to domestic users in the short to medium term and would be focused on the development of its gas reserves to be supplied to its proposed LNG project at Gladstone."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "0076",
+  "title": "Microsoft Corporation - Activision Blizzard Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/microsoft-corporation-activision-blizzard-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Video gaming"
+  ],
+  "date_completed": "16 October 2023",
+  "date_completed_iso": "2023-10-16T12:00:00Z",
+  "date_commenced": "20 June 2022",
+  "date_commenced_iso": "2022-06-20T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Microsoft Corporation"
+  ],
+  "targets": [
+    "Activision Blizzard Inc."
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2022",
+      "date_iso": "2022-06-20T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Jul 2022",
+      "date_iso": "2022-07-11T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "8 Sep 2022",
+      "date_iso": "2022-09-08T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information."
+    },
+    {
+      "date": "2 Feb 2023",
+      "date_iso": "2023-02-02T12:00:00Z",
+      "event": "ACCC engaging with overseas regulators. Timeline remains suspended."
+    },
+    {
+      "date": "16 Oct 2023",
+      "date_iso": "2023-10-16T12:00:00Z",
+      "event": "After considering the status and outcomes of other international regulators’ reviews and changes to the transaction structure, including related agreements with third parties, the ACCC discontinued its review of the acquisition and does not intend to take any further action."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Microsoft Corporation ( Microsoft ) proposes to acquire Activision Blizzard, Inc ( Activision Blizzard ). Microsoft and Activision Blizzard overlap in the development and publication of video games (including games for PC, console and smartphone), digital distribution of video games for PC and console, supply of online display advertising services and supply and licensing of video game-related merchandise."
+  }
+}

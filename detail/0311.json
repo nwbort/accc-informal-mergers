@@ -1,0 +1,45 @@
+{
+  "id": "0311",
+  "title": "Adelaide Brighton Limited - acquisition of Direct Mix Concrete and Southern Quarries",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adelaide-brighton-limited-acquisition-of-direct-mix-concrete-and-southern-quarries",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55576",
+  "industries": [
+    "Aggregates, cement and concrete products"
+  ],
+  "date_completed": "4 December 2014",
+  "date_completed_iso": "2014-12-04T12:00:00Z",
+  "date_commenced": "3 September 2014",
+  "date_commenced_iso": "2014-09-03T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "Adelaide Brighton Limited"
+  ],
+  "targets": [
+    "Direct Mix Concrete and Southern Quarries"
+  ],
+  "timeline": [
+    {
+      "date": "3 Sep 2014",
+      "date_iso": "2014-09-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Sep 2014",
+      "date_iso": "2014-09-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Sep 2014",
+      "date_iso": "2014-09-30T12:00:00Z",
+      "event": "The merger parties completed the acquisition."
+    },
+    {
+      "date": "4 Dec 2014",
+      "date_iso": "2014-12-04T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available, it would discontinue its investigation into the completed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

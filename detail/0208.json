@@ -1,0 +1,69 @@
+{
+  "id": "0208",
+  "title": "Moly-Cop - proposed acquisition of Donhad",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/moly-cop-proposed-acquisition-of-donhad",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62142",
+  "industries": [
+    "Steel grinding media"
+  ],
+  "date_completed": "29 March 2018",
+  "date_completed_iso": "2018-03-29T12:00:00Z",
+  "date_commenced": "15 September 2017",
+  "date_commenced_iso": "2017-09-15T12:00:00Z",
+  "total_review_days": 88,
+  "acquirers": [
+    "Moly-Cop"
+  ],
+  "targets": [
+    "Donhad"
+  ],
+  "timeline": [
+    {
+      "date": "15 Sep 2017",
+      "date_iso": "2017-09-15T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Oct 2017",
+      "date_iso": "2017-10-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Nov 2017",
+      "date_iso": "2017-11-17T12:00:00Z",
+      "event": "Former provisional decision date of 23 November 2017 delayed to allow more time to consider information provided by the parties and market participants."
+    },
+    {
+      "date": "30 Nov 2017",
+      "date_iso": "2017-11-30T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "21 Dec 2017",
+      "date_iso": "2017-12-21T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "24 Jan 2018",
+      "date_iso": "2018-01-24T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. Former proposed date for announcement of ACCC's findings (1 March 2018) delayed."
+    },
+    {
+      "date": "15 Feb 2018",
+      "date_iso": "2018-02-15T12:00:00Z",
+      "event": "ACCC received information from the merger parties."
+    },
+    {
+      "date": "29 Mar 2018",
+      "date_iso": "2018-03-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Moly-Cop's parent company American Industrial Partners proposed to acquire 100% of Donhad. Donhad is currently owned by Valmont Industries, Inc.",
+    "Market definition": "The ACCC's review focused on the supply of steel grinding media in Australia. The term 'steel grinding media' includes forged steel grinding media and cast steel (high chrome) grinding media. The merger parties both supply forged steel grinding media. The ACCC considered whether high chrome grinding media is a sufficiently close substitute to forged steel grinding media such that it should be considered as part of the market. Forged steel grinding media and high chrome grinding media serve the same functional purpose. But the extent to which high chrome grinding media is substitutable for forged steel grinding media depends on the application, in particular on the type of grinding mill and the characteristics of the ore being ground. The ACCC also considered whether large forged steel grinding media (which are used in semi-autogenous grinding (SAG) mills) could be in a separate market to forged steel grinding media of other sizes that are used in ball mills. Although the products are not substitutable from a demand-side perspective, as they are used in different types of grinding mills, the ACCC considered that there is supply-side substitution between various sizes of forged steel grinding media and noted that nearly all forged steel producers produce a range of different sizes of grinding media. The ACCC did not reach a definitive view on the exact boundaries of the market, as it did not consider that this issue impacted on the outcomes of the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was likely to lessen competition in the supply of steel grinding media in Australia. However, it was not satisfied that the reduction in competition was likely to be substantial. Moly-Cop and Donhad are the only two domestic manufacturers of grinding media in Australia and compete closely with each other. While Donhad is the second largest grinding media supplier in Australia, its position and market share in the supply of grinding media in Australia has been declining in recent years. Although the proposed acquisition will combine the two largest suppliers of steel grinding media in Australia, the ACCC considered that import competition was likely to provide sufficient competitive constraint on the merged entity to prevent a substantial lessening of competition. In reaching its conclusion, the ACCC's review took into account the following factors in particular: - Australia represents a small proportion of total global demand for grinding media, and spare international capacity is many multiples the size of Australian grinding media requirements, - imports of grinding media have been growing and represent approximately 40% of the supply of steel grinding media in Australia in FY2017, and - overseas manufacturers are winning a range of different size and types of contracts from Moly-Cop and Donhad, suggesting that customers consider importers as viable alternative suppliers of grinding media."
+  }
+}

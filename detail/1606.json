@@ -1,0 +1,31 @@
+{
+  "id": "1606",
+  "title": "Acquirer: Smorgon Steel Pty Ltd; Target: Albion Steel Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-smorgon-steel-pty-ltd-target-albion-steel-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16728",
+  "industries": [],
+  "date_completed": "16 October 2002",
+  "date_completed_iso": "2002-10-16T12:00:00Z",
+  "date_commenced": "24 September 2002",
+  "date_commenced_iso": "2002-09-24T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Smorgon Steel Pty Ltd"
+  ],
+  "targets": [
+    "Albion Steel Pty Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The acquisition of Albion Steel by Smorgon Steel.",
+    "Market definition": "The NSW and QLD markets for reinforcing bar and welded mesh products.",
+    "Competition analysis": "The acquisition raises the level of concentration in the relevant markets, however consideration of other merger guideline factors indentify a number of constraints on Smorgon Steel post acquisition.  These constraints include the excess production capacity of several existing players, as well as the ability to import steel feedstock.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2711"
+  }
+}

@@ -1,0 +1,190 @@
+ 
+ 
+ 
+Land of the Ngunnawal people
+23 Marcus Clarke Street
+Canberra ACT 2601
+GPO Box 3131
+Canberra ACT 2601
+Tel 02 6243 1111 
+Fax 02 6243 1199
+www.accc.gov.au
+Our ref: 
+IM-72639 
+12 July 2024 
+ 
+Dear Interested Party, 
+Re: ACCC seeking your views:  Optus and TPG’s proposed network and spectrum 
+sharing in regional Australia  
+The Australian Competition and Consumer Commission (ACCC) is seeking your views on 
+the proposed network and spectrum sharing arrangement in regional Australia by Optus 
+Mobile Pty Ltd (Optus) and TPG Telecom Limited (TPG) (the Parties). 
+The Parties have entered into three interrelated agreements in respect of a Multi-Operator 
+Core Network (MOCN) commercial arrangement: a MOCN Services Agreement, a Spectrum 
+Authorisation Agreement and a Site Transfer Agreement (the Proposed Arrangement) (see 
+Attachment A for further detail). The MOCN Services Agreement is for a period of 11 years, 
+with a five-year option for TPG to extend the term. 
+The legal test the ACCC applies when assessing mergers and acquisitions is in section 50 of 
+the Competition and Consumer Act 2010 (Cth) (the CCA). Section 50 prohibits acquisitions 
+that would have or are likely to have the effect of substantially lessening competition in a 
+market.  
+The Parties have sought clearance by the ACCC of two acquisitions that are integral to the 
+Proposed Arrangement: 
+ 
+a) an authorisation by TPG for Optus to use certain TPG spectrum in defined regional 
+areas in the 700 MHz, 1800 MHz, 3600 MHz and 3700 MHz bands, which is deemed 
+by s 68A of the Radiocommunications Act 1992 (Cth) to be an acquisition for the 
+purposes of s 50 of the CCA, and 
+ 
+b) the transfer to Optus by TPG of certain leases and / or licences over, and equipment 
+attached to, a number of regional mobile network sites, in the defined regional areas 
+to be used for the MOCN 
+(together, the Proposed Acquisitions). 
+In considering the Proposed Arrangement, the ACCC will focus on the likely effects on 
+competition of the Proposed Acquisitions but will have regard to all aspects of the Proposed 
+Arrangement that affect that analysis. 
+
+
+ 
+ 
+ 
+The ACCC is seeking submissions on: 
+1. how mobile service providers currently compete in the mobile services market and 
+other relevant markets, including whether they seek to differentiate on price, network 
+coverage and quality, product and service offerings and inclusions, and whether the 
+Proposed Arrangement will impact on this competition; 
+2. the likely impact of the Proposed Arrangement on price competition for mobile 
+services; 
+3. the likely impact of the Proposed Arrangement on non-price aspects of competition, 
+including network coverage, speed, network capacity, customer service, types of 
+product and service offerings, bundling options, and contracts; 
+4. how closely Optus and TPG currently compete, or would be likely to compete in the 
+future, absent the Proposed Arrangement; 
+5. the likelihood of other competitors expanding their network coverage and quality to 
+compete with the services provided by Optus and TPG under the Proposed 
+Arrangement; and  
+6. any other competition issues relevant to the ACCC’s consideration of the Proposed 
+Arrangement. 
+How to share your views 
+Please provide your response by 4pm, 26 July 2024 via email to mergers@accc.gov.au 
+with the title: [your company name]: Submission re: Optus and TPG’s proposed network and 
+spectrum sharing arrangement. If you require more time to respond, please let us know. 
+If you would like to arrange a time to discuss the matter with ACCC officers, or have any 
+questions about this letter, please contact mergers@accc.gov.au. 
+This matter is public and you can forward this letter to anybody who may be interested. 
+Updates regarding the ACCC’s investigation will be available on the ACCC’s Public Mergers 
+Register at (ACCC mergers register). 
+Confidentiality of submissions 
+The ACCC will not publish submissions regarding the proposed acquisition. We will not 
+disclose submissions to third parties (except our advisors/consultants) unless compelled by 
+law (for example, under freedom of information legislation or during court proceedings) or in 
+accordance with s155AAA of the CCA. Where the ACCC is required to disclose confidential 
+information, the ACCC will notify you in advance where possible so that you may have an 
+opportunity to be heard. Therefore, if the information provided to the ACCC is of a 
+confidential nature, please indicate as such. Our Informal Merger Review Process 
+Guidelines contain more information on confidentiality 
+ 
+Yours sincerely 
+ 
+Aggie Marek 
+Acting General Manager  
+Merger Investigations 
+
+
+ 
+ 
+ 
+Attachment A 
+Optus  
+Optus Mobile Pty Ltd (Optus) is Australia’s second-largest mobile network operator (MNO). 
+Optus is not listed in Australia. Optus has the second-largest number of mobile subscribers, 
+and its network covers 98.5% of the population. The Proposed Arrangement covers 81.6% 
+to 98.4% of the population (the Coverage Area), where Optus operates around 2,500 
+mobile base stations. 
+TPG 
+TPG Telecom Limited (TPG) is Australia's third-largest MNO by number of subscribers. TPG 
+became the third-largest MNO following the merger of TPG and Vodafone Hutchison 
+Australia in 2020. Several brands fall under TPG in Australia, which include Vodafone, TPG, 
+iiNet, Lebara and felix. 
+TPG operates more than 5,600 mobile base stations nationally, and currently operates 755 
+mobile base stations in the Coverage Area. TPG’s current network covers around 95.4% of 
+the population and is extended under a roaming agreement with Optus. 
+The Proposed Arrangement 
+On 29 April 2024, TPG and Optus announced a new agreement for a MOCN agreement, 
+whereby Optus will provide TPG Telecom with access to its regional radio access network 
+and they will share certain spectrum in regional Australia. Under the agreements, which are 
+further described below, Optus and TPG will operate their own core networks and will also 
+continue to operate their own 4G and 5G Radio Access Networks (RANs) in metropolitan 
+areas: 
+MOCN Services Agreement 
+• 
+Pursuant to the MOCN Services Agreement, Optus will share its Radio Access 
+Network with TPG and supply 4G and 5G services in exchange for service charges. 
+The agreement is for 11 years, with one option for TPG to extend the agreement by a 
+further five years. 
+• 
+TPG will gain access to the coverage provided by around 2,444 Optus mobile sites, 
+improving its depth of coverage in regional Australia and increasing its coverage in 
+the Coverage Area from around 400,000 km2 (95.4% of the population) to around 
+1,000,000km2 (98.4% of the population).  
+• 
+The MOCN Services Agreement will cover voice, data, SMS, fixed wireless, 
+Narrowband Internet of Things for consumer and enterprise customers, and NBN 
+wireless backup services. TPG will have the ability to resupply the MOCN services to 
+its retail and wholesale customers, and once implemented, TPG’s retail and 
+wholesale customers will use Optus' 4G and 5G regional network. 
+• 
+Under the Proposed Arrangement, Optus will not be allowed to delay TPG’s access 
+to 5G sites on the MOCN Network.  
+Spectrum Authorisation Agreement 
+• 
+Pursuant to the Spectrum Authorisation Agreement, TPG will authorise Optus to use 
+parts of the spectrum it holds licences for in 700MHz, 1800MHz, 3600MHz and 
+3700Mhz bands in the Coverage Area in exchange for authorisation fees. 
+
+
+ 
+ 
+ 
+• 
+This spectrum will be pooled with Optus’s spectrum and made available to both 
+parties in the Coverage Area, pursuant to the MOCN Services Agreement. 
+• 
+The Spectrum Authorisation Agreement does not authorise Optus to use all TPG 
+spectrum within the Coverage Area. TPG will retain certain spectrum bands within 
+the Coverage Area, as well as the right to use this spectrum beyond the Coverage 
+Area. 
+• 
+The Spectrum Authorisation Agreement is deemed by s 68A of the 
+Radiocommunications Act 1992 (Cth) to be an acquisition for the purposes of s 50 of 
+the Competition and Consumer Act 2020 (Cth). 
+Site Transfer Agreement 
+• 
+Pursuant to the Site Transfer Agreement, TPG will transfer a number of TPG mobile 
+sites inside the Coverage Area to Optus. The number of sites remains subject to due 
+diligence, however an initial list of 129 TPG sites have been identified for transfer. 
+TPG intends to decommission its remaining sites in the Coverage Area. 
+• 
+TPG will transfer Optus, or Optus will enter into, the relevant leases and/or licence 
+rights for each identified TPG site. TPG will retain rights to seek re-occupancy of 
+these sites on expiry or termination of the MOCN Services Agreement. 
+Background – Telstra and TPG’s application for merger authorisation 
+On 23 May 2022, Telstra Corporation Limited (Telstra) and TPG (together, the Applicants) 
+applied for merger authorisation for the sharing of spectrum and active network infrastructure 
+in certain regional and urban fringe areas of Australia (the Telstra/TPG proposed 
+transaction)  
+The Telstra/TPG proposed transaction was similar in nature to the Proposed Arrangement. 
+Broadly, the Telstra/TPG proposed transaction involved TPG authorising Telstra to use 
+spectrum held by TPG, and Telstra providing TPG with active mobile network infrastructure 
+services in an area which approximately 17% of Australian’s reside (the Regional Coverage 
+Zone). TPG intended to transfer up to 169 of its existing mobile sites to Telstra and 
+decommission the remainder. The agreements underpinning this deal had a possible 
+duration of 20 years. 
+On 21 December 2022 the ACCC released a determination deciding not to grant 
+authorisation for the Telstra/TPG proposed transaction. A copy of the ACCC’s Reasons for 
+determination is available on the ACCC’s merger authorisation public register here. 
+On 23 December 2022, the Applicants lodged an application for review of the ACCC’s 
+decision in the Australian Competition Tribunal (Tribunal). 
+On 21 June 2023 the Tribunal affirmed the ACCC’s determination dismissing the application 
+for merger authorisation lodged by Telstra and TPG. A copy of the Tribunal’s Reasons for 
+Determination are available on the Tribunal’s website here. 

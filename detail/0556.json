@@ -1,0 +1,43 @@
+{
+  "id": "0556",
+  "title": "Thermo Fisher Scientific Australia Pty Limited - proposed acquisition of Lomb Scientific (Aust) Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/thermo-fisher-scientific-australia-pty-limited-proposed-acquisition-of-lomb-scientific-aust-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44238",
+  "industries": [
+    "Laboratory chemicals and equipment"
+  ],
+  "date_completed": "21 December 2010",
+  "date_completed_iso": "2010-12-21T12:00:00Z",
+  "date_commenced": "2 December 2010",
+  "date_commenced_iso": "2010-12-02T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Thermo Fisher Scientific Australia Pty Limited"
+  ],
+  "targets": [
+    "Lomb Scientific (Aust) Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Dec 2010",
+      "date_iso": "2010-12-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Dec 2010",
+      "date_iso": "2010-12-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Dec 2010",
+      "date_iso": "2010-12-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the likely competitive effect of the proposed acquisition on separate national markets for the manufacture and distribution of certain types of laboratory equipment. The ACCC also considered the likely competitive effect of the proposed acquisition on the supply of chemicals in Australia, however,  the ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC considered the proposed acquisition was unlikely to substantially lessen competition as Thermo and Lomb were not close competitors in the supply of chemicals or the supply of laboratory equipment and several alternative competitors would continue to competitively constrain the merged firm, including vertically integrated and non-integrated suppliers of these products."
+  }
+}

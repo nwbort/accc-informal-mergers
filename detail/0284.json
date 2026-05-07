@@ -1,0 +1,49 @@
+{
+  "id": "0284",
+  "title": "NBN Co Limited - proposed acquisition of Certain HFC assets of Singtel Optus Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nbn-co-limited-proposed-acquisition-of-certain-hfc-assets-of-singtel-optus-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56850",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "28 August 2015",
+  "date_completed_iso": "2015-08-28T12:00:00Z",
+  "date_commenced": "12 February 2015",
+  "date_commenced_iso": "2015-02-12T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "NBN Co Limited"
+  ],
+  "targets": [
+    "Certain HFC assets of Singtel Optus Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Feb 2015",
+      "date_iso": "2015-02-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "13 Mar 2015",
+      "date_iso": "2015-03-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Aug 2015",
+      "date_iso": "2015-08-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC delayed its decision in relation to its assessment of the proposed acquisition to align with its decision in relation to NBN Co's authorisation application, resulting in the merger review timeline being suspended for 116 business days."
+    }
+  ],
+  "body_sections": {
+    "Summary": "NBN Co proposed to acquire from Optus parts (but not all) of the Optus Hybrid fibre-coaxial (HFC) network. These network elements will be integrated into the NBN. The agreement between the parties did not identify the specific network elements that NBN Co will acquire from Optus, but instead it provided a process for NBN Co to select the network elements that it wished to progressively acquire from Optus. Any infrastructure that NBN does not acquire from Optus will be either decommissioned or deactivated by Optus. Due to the uncertainty over the specific assets that will be acquired, and the fact that assets which are not acquired are intended to be decommissioned or deactivated, the ACCC adopted a conservative approach and analysed the acquisition as if it involved NBN Co acquiring all of the HFC assets owned by Optus. Separately, the parties applied for authorisation to give effect to contractual arrangements involving the migration of Optus customers to the NBN, for Optus to cease supplying HFC services and for Optus to decommission or deactivate parts of the HFC network not transferred to NBN Co. The ACCC granted authorisation for this conduct on 28 August 2015. More information, including a copy of the determination, can be found on the authorisation register .",
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition, the ACCC primarily considered the effects of the proposed acquisition in the context of: - the wholesale market for the supply of fixed line broadband services in the areas serviced by the Optus HFC; and - the retail markets relevant to the supply of services over the Optus HFC.",
+    "Competition analysis": "The ACCC considered that in the future without the proposed acquisition the parties would continue to operate in accordance with the Original Subscriber Agreement, as authorised by the ACCC in 2012. Under the Original Subscriber Agreement, Optus would continue to progressively migrate its customers to the NBN, only use the NBN to provide fixed line services in relevant areas, and once the migration process is completed, decommission its entire HFC network. On this basis the ACCC considered that, with or without the proposed acquisition, Optus would cease to be a network competitor in the future, and accordingly the proposed acquisition is not likely to substantially lessen competition in any relevant market."
+  }
+}

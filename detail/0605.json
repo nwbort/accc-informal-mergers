@@ -1,0 +1,44 @@
+{
+  "id": "0605",
+  "title": "APA Group - acquisition of Hastings Diversified Utilities Fund securities",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/apa-group-acquisition-of-hastings-diversified-utilities-fund-securities",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38779",
+  "industries": [
+    "Gas pipelines"
+  ],
+  "date_completed": "28 July 2010",
+  "date_completed_iso": "2010-07-28T12:00:00Z",
+  "date_commenced": "14 April 2010",
+  "date_commenced_iso": "2010-04-14T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "APA Group"
+  ],
+  "targets": [
+    "Hastings Diversified Utilities Fund"
+  ],
+  "timeline": [
+    {
+      "date": "14 Apr 2010",
+      "date_iso": "2010-04-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 May 2010",
+      "date_iso": "2010-05-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Jul 2010",
+      "date_iso": "2010-07-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "APA acquired securities in Hastings Diversified Utilities Fund (HDF) on a number of occasions resulting in it taking its interest in HDF to 16.8%. The ACCC reviewed these completed partial acquisitions.",
+    "Market definition": "The ACCC did not form a concluded view in relation to market definition. However, the ACCC considered the likely impact of the acquisition on the transportation of gas to and from various locations in Australia, including into Adelaide, out of Moomba and along various pipelines between South East Queensland and Southern Australia.",
+    "Competition analysis": "The ACCC's approach to the review was twofold: 1. to consider whether a hypothetical acquisition by APA of 100% of HDF was likely to raise competition concerns; and 2. to consider whether any competition concerns that would arise with respect to a full acquisition would also arise with respect to the smaller, completed acquisition. The ACCC identified a number of issues that may arise with respect to a hypothetical acquisition by APA of 100% of HDF, relating to competition for transportation of gas. However, the ACCC did not need to form a concluded view in relation to these issues during this review, as APA had indicated that it had no current intention to make a takeover offer for HDF. The ACCC was able to determine that the issues that may arise with respect to a hypothetical 100% acquisition of HDF or the acquisition of an interest which gave APA control of HDF would not be likely to arise with respect to APA's current shareholding. Accordingly, the ACCC formed the view that the completed acquisition of shares in HDF by APA was unlikely to substantially lessen competition."
+  }
+}

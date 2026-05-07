@@ -1,0 +1,44 @@
+{
+  "id": "0253",
+  "title": "Vocus Communications Ltd - proposed acquisition of Nextgen Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/vocus-communications-ltd-proposed-acquisition-of-nextgen-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60345",
+  "industries": [
+    "telecommunications"
+  ],
+  "date_completed": "22 September 2016",
+  "date_completed_iso": "2016-09-22T12:00:00Z",
+  "date_commenced": "25 July 2016",
+  "date_commenced_iso": "2016-07-25T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Vocus Communications Ltd"
+  ],
+  "targets": [
+    "Nextgen Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jul 2016",
+      "date_iso": "2016-07-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "12 Aug 2016",
+      "date_iso": "2016-08-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "22 Sep 2016",
+      "date_iso": "2016-09-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Vocus Communications Limited (Vocus) proposes to acquire Nextgen Group Pty Ltd and two development projects; the Australian Singapore Cable and the North West Cable System (together Nextgen). Nextgen's data centre business, Metronode, is not part of the transaction.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition in the context of separate national markets for the supply of: - wholesale transmission services; - network services; - retail fixed broadband services; and - wholesale fixed broadband services.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market. Vocus and Nextgen operate largely complementary businesses. Vocus historically has focused on supplying communication services to small-to-medium sized enterprises in metropolitan areas. Following its acquisition of the M2 Group in February 2016, it is also a significant supplier of residential broadband services through brands such as Primus and Dodo. In contrast, Nextgen's business is primarily focused on supplying inter-city wholesale transmission services. The proposed acquisition results in some horizontal aggregation in relation to the supply of transmission services; network services; sub-sea transmission cables and broadband. However, the ACCC concluded  that given the limited overlap, and the fact that Vocus and Nextgen do not compete closely in the areas in which they do overlap, it is unlikely that the proposed acquisition will substantially lessen competition in relation to the supply of any of these services. The proposed acquisition also increases the level of vertical integration in the industry. It removes a significant non-vertically integrated supplier of wholesale transmission services. The ACCC concluded this increased vertical integration was unlikely to substantially lessen competition taking into account Nextgen's product offerings, the presence of excess capacity in the wholesale transmission market and the competitive constraints imposed by other wholesale suppliers."
+  }
+}

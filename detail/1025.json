@@ -1,0 +1,63 @@
+{
+  "id": "1025",
+  "title": "Macquarie Media Group - proposed acquisition of certain regional radio assets owned by Fairfax Media Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macquarie-media-group-proposed-acquisition-of-certain-regional-radio-assets-owned-by-fairfax-media-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28968",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "17 October 2007",
+  "date_completed_iso": "2007-10-17T12:00:00Z",
+  "date_commenced": "23 July 2007",
+  "date_commenced_iso": "2007-07-23T12:00:00Z",
+  "total_review_days": 62,
+  "acquirers": [
+    "Macquarie Media Group"
+  ],
+  "targets": [
+    "Fairfax Media Limited"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jul 2007",
+      "date_iso": "2007-07-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Aug 2007",
+      "date_iso": "2007-08-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Sep 2007",
+      "date_iso": "2007-09-13T12:00:00Z",
+      "event": "ACCC released Statement of Issues in relation to proposed acquisition."
+    },
+    {
+      "date": "26 Sep 2007",
+      "date_iso": "2007-09-26T12:00:00Z",
+      "event": "Closing date for submissions in response to Statement of Issues."
+    },
+    {
+      "date": "5 Oct 2007",
+      "date_iso": "2007-10-05T12:00:00Z",
+      "event": "Draft undertakings put forward by Macquarie Media. Former proposed date of 10 October 2007 for announcement of ACCC's findings amended to 18 October 2007 to allow for market consultation."
+    },
+    {
+      "date": "11 Oct 2007",
+      "date_iso": "2007-10-11T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft 87B undertakings."
+    },
+    {
+      "date": "17 Oct 2007",
+      "date_iso": "2007-10-17T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed transaction subject to the acceptance of court-enforceable undertakings."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to the detailed Public Competition Assessment below.",
+    "Competition analysis": "Please refer to the detailed Public Competition Assessment below."
+  }
+}

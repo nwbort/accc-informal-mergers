@@ -1,0 +1,35 @@
+{
+  "id": "0451",
+  "title": "Coca-Cola Amatil (Aust) Pty Ltd - proposed acquisition of certain assets of Cooroy Mountain Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coca-cola-amatil-aust-pty-ltd-proposed-acquisition-of-certain-assets-of-cooroy-mountain-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48156",
+  "industries": [
+    "Beverages"
+  ],
+  "date_completed": "19 April 2012",
+  "date_completed_iso": "2012-04-19T12:00:00Z",
+  "date_commenced": "13 April 2012",
+  "date_commenced_iso": "2012-04-13T12:00:00Z",
+  "total_review_days": 5,
+  "acquirers": [
+    "Coca-Cola Amatil (Aust) Pty Ltd"
+  ],
+  "targets": [
+    "Cooroy Mountain Group"
+  ],
+  "timeline": [
+    {
+      "date": "13 Apr 2012",
+      "date_iso": "2012-04-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Apr 2012",
+      "date_iso": "2012-04-19T12:00:00Z",
+      "event": "ACCC terminated public review after CCA advised that the proposed acquisition would not be proceeding. CCA withdrew its request for ACCC approval."
+    }
+  ],
+  "body_sections": {}
+}

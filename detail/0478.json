@@ -1,0 +1,44 @@
+{
+  "id": "0478",
+  "title": "ComfortDelGro Cabcharge Pty Ltd - proposed acquisition of Grenda Transit Management",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/comfortdelgro-cabcharge-pty-ltd-proposed-acquisition-of-grenda-transit-management",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47074",
+  "industries": [
+    "Bus services"
+  ],
+  "date_completed": "23 November 2011",
+  "date_completed_iso": "2011-11-23T12:00:00Z",
+  "date_commenced": "21 October 2011",
+  "date_commenced_iso": "2011-10-21T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "ComfortDelGro Cabcharge Pty Ltd"
+  ],
+  "targets": [
+    "Grenda Transit Management"
+  ],
+  "timeline": [
+    {
+      "date": "21 Oct 2011",
+      "date_iso": "2011-10-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Nov 2011",
+      "date_iso": "2011-11-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Nov 2011",
+      "date_iso": "2011-11-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ComfortDelGro Cabcharge Pty Ltd proposes to acquire Grenda Transit Management.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the Melbourne metropolitan market for bus services. Within this market, the ACCC considered the likely effect of the proposed acquisition on the following segments: i.\tMBSCs (Melbourne Bus Service Contracts); ii.\tOrbital metropolitan bus service contracts; iii.\tNBC (National Bus Company) and MBL (Melbourne Bus Link) contracts; iv.\tNightRider bus contracts; v.\tGovernment school bus contracts (public school and special school); vi.\tPrivate school bus contracts; vii.\tRail replacement bus contracts; and viii.\tOther private bus charter arrangements. It was not necessary to form a definitive view on whether these segments constituted separate markets as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition of Grenda Transit Management by ComfortDelGro Cabcharge Pty Ltd would be unlikely to substantially lessen competition in any relevant market. Factors informing this conclusion included: - Ticket prices for public bus services in Victoria are regulated and subject to long term contracts between bus operators and the Victorian government. Many metropolitan bus service contracts are not subject to competition and are unlikely to be competitively tendered in the foreseeable future. - In relation to contracts that are likely to be tendered in the foreseeable future, several bus operators, both local and interstate, are likely to compete with the merged firm for these contracts. - Private school bus service and private charter service segments are characterised by low concentration and low barriers to entry."
+  }
+}

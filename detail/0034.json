@@ -1,0 +1,49 @@
+{
+  "id": "0034",
+  "title": "International Business Machines Corporation - HashiCorp, Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/international-business-machines-corporation-hashicorp-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Infrastructure cloud services"
+  ],
+  "date_completed": "27 February 2025",
+  "date_completed_iso": "2025-02-27T12:00:00Z",
+  "date_commenced": "21 January 2025",
+  "date_commenced_iso": "2025-01-21T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "International Business Machines Corporation"
+  ],
+  "targets": [
+    "HashiCorp, Inc."
+  ],
+  "timeline": [
+    {
+      "date": "21 Jan 2025",
+      "date_iso": "2025-01-21T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Feb 2025",
+      "date_iso": "2025-02-04T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "25 Feb 2025",
+      "date_iso": "2025-02-25T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (20 March 2025) brought forward to 27 February 2025."
+    },
+    {
+      "date": "27 Feb 2025",
+      "date_iso": "2025-02-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 24 April 2024 International Business Machines Corporation ( IBM ) entered into a share sale agreement to acquire HashiCorp, Inc. ( HashiCorp ) (the Proposed Acquisition ). IBM is a publicly listed, US-based global information technology ( IT ) company. IBM is active in the development, production, and marketing of a wide variety of IT solutions. This includes enterprise IT software and systems (such as servers, storage systems, cloud, and cognitive offerings) and IT implementation services (such as business consulting and IT infrastructure services). In Australia, IBM offers IT infrastructure automation software through IBM Australia Limited and/or through its wholly-owned subsidiary Red Hat. Red Hat is an enterprise software company with an open source development model which has a number of infrastructure automation solutions. HashiCorp is a publicly listed, US-based global software supplier that provides a variety of software products for provisioning, securing and connecting cloud-native infrastructure resources to support development and operations on public clouds, private data centres and hybrid environments, (through both an open source and paid model). IBM and HashiCorp are both active in the supply of: IT infrastructure automation software through their products Ansible (IBM) and Terraform (HashiCorp) IT security software through their products IBM Cloud Secrets Manager and Verify Privilege (IBM) and Vault (HashiCorp).",
+    "Market definition": "The ACCC considered the effect of the Proposed Acquisition on competition in the markets for: IT infrastructure automation software; and IT security software. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definitions of each market.",
+    "Competition analysis": "The ACCC concluded that the Proposed Acquisition is not likely to substantially lessen competition in any relevant market in Australia. The ACCC found that although Terraform and Ansible have some overlapping functionality, they are mainly used to perform different functions. The ACCC considered that post-acquisition IBM would likely be constrained by open source and commercial IT infrastructure automation software from independent software vendors and from large cloud service providers. The ACCC also found that there is limited overlap between Vault and IBM Cloud Secrets Manager in the supply of IT security software."
+  }
+}

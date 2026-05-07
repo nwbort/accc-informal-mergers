@@ -1,0 +1,44 @@
+{
+  "id": "1043",
+  "title": "OneSteel Limited - acquisition of Fagersta Steels Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-limited-acquisition-of-fagersta-steels-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29324",
+  "industries": [
+    "Stainless steel distribution"
+  ],
+  "date_completed": "10 September 2007",
+  "date_completed_iso": "2007-09-10T12:00:00Z",
+  "date_commenced": "20 August 2007",
+  "date_commenced_iso": "2007-08-20T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "OneSteel Limited"
+  ],
+  "targets": [
+    "Fagersta Steels Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Aug 2007",
+      "date_iso": "2007-08-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Sep 2007",
+      "date_iso": "2007-09-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Sep 2007",
+      "date_iso": "2007-09-10T12:00:00Z",
+      "event": "ACCC decided to not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "OneSteel acquired Fagersta Steels Pty Ltd - a distributor of stainless steel products",
+    "Market definition": "Stainless steel distribution",
+    "Competition analysis": "The ACCC did not consider the acquisition was likely to substantially lessen competition in the relevant market due to the presence of several other significantly sized stainless steel distributors."
+  }
+}

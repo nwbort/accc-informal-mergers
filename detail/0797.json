@@ -1,0 +1,44 @@
+{
+  "id": "0797",
+  "title": "Aussie Home Loans - proposed acquisition of Wizard Home Loans Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aussie-home-loans-proposed-acquisition-of-wizard-home-loans-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36059",
+  "industries": [
+    "Banking/Home Loans"
+  ],
+  "date_completed": "24 February 2009",
+  "date_completed_iso": "2009-02-24T12:00:00Z",
+  "date_commenced": "27 January 2009",
+  "date_commenced_iso": "2009-01-27T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Aussie Home Loans"
+  ],
+  "targets": [
+    "Wizard Home Loans Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 Jan 2009",
+      "date_iso": "2009-01-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Feb 2009",
+      "date_iso": "2009-02-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Feb 2009",
+      "date_iso": "2009-02-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The sale of Wizard's Home Loan business comprises two transactions: 1. The proposed acquisition of the Wizard mortgage distribution business by AHL Investments Pty Ltd (Aussie Home Loans). 2. The proposed acquisition of a portion of the GE loan book by the Commonwealth Bank of Australia - comprising up to $4 billion of Wizard home loan receivables.",
+    "Market definition": "The ACCC considered both transactions in the context of the national market for the supply of home loans.",
+    "Competition analysis": "The ACCC concluded that the first transaction, the proposed acquisition of Wizard's mortgage distribution business, was unlikely to result in a substantial lessening of competition for the following reasons: - the proposed acquisition would not result in a significant aggregation of market concentration and therefore it was unlikely that Aussie Home Loans would gain any market power in the supply of home loans; - there are sufficient alternative suppliers of home loan services which would be likely to continue to competitively constrain Aussie Home Loans; and - barriers to entry in the mortgage broking sector are sufficiently low so as not to significantly impede new entrants or existing competitors from expanding. The ACCC considered that the second transaction, the proposed acquisition of a portion of GE's loan book by the Commonwealth Bank of Australia, would not lead to a significant change in market concentration and was unlikely to result in a substantial lessening of competition."
+  }
+}

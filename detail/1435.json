@@ -1,0 +1,26 @@
+{
+  "id": "1435",
+  "title": "Woolworths Ltd - proposed acquisition of liquor licence owned by W Kellett & Sons",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-proposed-acquisition-of-liquor-licence-owned-by-w-kellett-sons",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20710",
+  "industries": [
+    "Liquor retailing"
+  ],
+  "date_completed": "21 December 2004",
+  "date_completed_iso": "2004-12-21T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire a dormant liquor licence in Mudgee, New South Wales and establish a BWS liquor outlet.",
+    "Market definition": "The retail market for packaged liquor for off-premises consumption in Mudgee.",
+    "Competition analysis": "While the proposed acquisition was likely to result in a small increase in Woolworths' market share in Mudgee, the Commission was not satisfied that this would significantly increase Woolworths' ability to exercise market power.  In addition, market inquiries suggested that new entry into the Mudgee market was possible even if a second Woolworths' outlet opened, despite some uncertainty about the impact of the new statutory process for obtaining liquor licences.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "0651",
+  "title": "Link Market Services Limited - proposed acquisition of Newreg Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/link-market-services-limited-proposed-acquisition-of-newreg-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38778",
+  "industries": [
+    "Securities registration sector"
+  ],
+  "date_completed": "24 March 2010",
+  "date_completed_iso": "2010-03-24T12:00:00Z",
+  "date_commenced": "22 December 2009",
+  "date_commenced_iso": "2009-12-22T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Link Market Services Limited"
+  ],
+  "targets": [
+    "Newreg Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Dec 2009",
+      "date_iso": "2009-12-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jan 2010",
+      "date_iso": "2010-01-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2010",
+      "date_iso": "2010-01-27T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings. Decision delayed to allow the ACCC to conduct further inquiries."
+    },
+    {
+      "date": "2 Feb 2010",
+      "date_iso": "2010-02-02T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "16 Feb 2010",
+      "date_iso": "2010-02-16T12:00:00Z",
+      "event": "ACCC requested information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "18 Feb 2010",
+      "date_iso": "2010-02-18T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "19 Feb 2010",
+      "date_iso": "2010-02-19T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "24 Feb 2010",
+      "date_iso": "2010-02-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties in response to the ACCC's request of 16 February 2010. ACCC timeline remains suspended, pending receipt of the merger parties' response to the ACCC's information request of 18 February 2010."
+    },
+    {
+      "date": "26 Feb 2010",
+      "date_iso": "2010-02-26T12:00:00Z",
+      "event": "ACCC received further information from the merger parties, in response to the ACCC's request of 18 February 2010. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Mar 2010",
+      "date_iso": "2010-03-10T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 12 March 2010, amended to allow the ACCC to conduct further inquiries."
+    },
+    {
+      "date": "24 Mar 2010",
+      "date_iso": "2010-03-24T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1104",
+  "title": "Nestle Australia Ltd - proposed acquisition of Novartis Australia's medical nutrition business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nestle-australia-ltd-proposed-acquisition-of-novartis-australias-medical-nutrition-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28055",
+  "industries": [
+    "Nutrition"
+  ],
+  "date_completed": "17 May 2007",
+  "date_completed_iso": "2007-05-17T12:00:00Z",
+  "date_commenced": "19 April 2007",
+  "date_commenced_iso": "2007-04-19T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Nestle Australia Ltd"
+  ],
+  "targets": [
+    "Novartis Australia's medical nutrition business"
+  ],
+  "timeline": [
+    {
+      "date": "19 Apr 2007",
+      "date_iso": "2007-04-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 May 2007",
+      "date_iso": "2007-05-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 May 2007",
+      "date_iso": "2007-05-17T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nestle Australia Ltd proposes to acquire Novartis Australia's medical nutrition business.",
+    "Competition analysis": "On the information available to the ACCC, there appeared to be no significant overlap between the products supplied by Nestle and Novartis in Australia.  Even if a national market for the supply of milk modifiers was adopted, the proposed acquisition was unlikely to substantially lessen competition particularly given the small increase in Nestle Australia's market share post-acquisition."
+  }
+}

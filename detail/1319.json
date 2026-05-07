@@ -1,0 +1,26 @@
+{
+  "id": "1319",
+  "title": "Woolworths Limited - acquisition of Eli Waters Foodworks Supermarket, Hervey Bay, Queensland.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-acquisition-of-eli-waters-foodworks-supermarket-hervey-bay-queensland",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23234",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "21 December 2005",
+  "date_completed_iso": "2005-12-21T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Woolworths Limited acquisition of Eli Waters supermarket, Hervey Bay, Queensland.",
+    "Market definition": "The transaction was examined for its impact in a number of markets, including the local retail supermarket market, Queensland supply and national wholesale markets.",
+    "Competition analysis": "The transfer of market share was not sufficiently large to cause a substantial lessening of competition in either the supply or wholesale markets. In the local retail market, Woolworths will continue to face competition from Coles and Action supermarkets nearby, as well as a number of independent supermarkets. Aldi is also opening a supermarket within 3km of the target, and other sites are being advertised for sale as potential supermarket sites. In these circumstances, the Commission considered that the transaction was unlikely to substantially lessen competition in any market.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

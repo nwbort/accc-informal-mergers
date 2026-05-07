@@ -1,0 +1,64 @@
+{
+  "id": "0649",
+  "title": "Cargill Australia Ltd - proposed acquisition of Goodman Fielder's commercial fats and oils business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cargill-australia-ltd-proposed-acquisition-of-goodman-fielders-commercial-fats-and-oils-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39691",
+  "industries": [
+    "Food manufacturing - edible oils"
+  ],
+  "date_completed": "31 March 2010",
+  "date_completed_iso": "2010-03-31T12:00:00Z",
+  "date_commenced": "10 December 2009",
+  "date_commenced_iso": "2009-12-10T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "Cargill Australia Ltd"
+  ],
+  "targets": [
+    "Goodman Fielder's commercial fats and oils business"
+  ],
+  "timeline": [
+    {
+      "date": "10 Dec 2009",
+      "date_iso": "2009-12-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Jan 2010",
+      "date_iso": "2010-01-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Feb 2010",
+      "date_iso": "2010-02-18T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "24 Feb 2010",
+      "date_iso": "2010-02-24T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for Statement of Issues."
+    },
+    {
+      "date": "4 Mar 2010",
+      "date_iso": "2010-03-04T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Mar 2010",
+      "date_iso": "2010-03-11T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 18 March 2010 amended to allow for consideration of further information provided by the merger parties and market participants and allow for any necessary additional inquiries."
+    },
+    {
+      "date": "31 Mar 2010",
+      "date_iso": "2010-03-31T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cargill proposed to acquire Goodman Fielder's commercial edible fats and oils business. The proposed acquisition included four refining facilities for fats and oils, and a long term supply agreement under which Cargill would supply refined fats and oils products to Goodman Fielder.",
+    "Market definition": "Please see attached Public Competition Assessment",
+    "Competition analysis": "Please see attached Public Competition Assessment"
+  }
+}

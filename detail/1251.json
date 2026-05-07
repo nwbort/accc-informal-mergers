@@ -1,0 +1,59 @@
+{
+  "id": "1251",
+  "title": "Alinta-AGL Joint Merger Proposal",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alinta-agl-joint-merger-proposal",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24306",
+  "industries": [
+    "Gas, Electricity"
+  ],
+  "date_completed": "3 August 2006",
+  "date_completed_iso": "2006-08-03T12:00:00Z",
+  "date_commenced": "4 May 2006",
+  "date_commenced_iso": "2006-05-04T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "Alinta Ltd"
+  ],
+  "targets": [
+    "The Australian Gas Light Company"
+  ],
+  "timeline": [
+    {
+      "date": "4 May 2006",
+      "date_iso": "2006-05-04T12:00:00Z",
+      "event": "Alinta submission on competition issues sent to ACCC"
+    },
+    {
+      "date": "24 May 2006",
+      "date_iso": "2006-05-24T12:00:00Z",
+      "event": "Alinta offered revised draft s87B undertaking to ACCC"
+    },
+    {
+      "date": "24 May 2006",
+      "date_iso": "2006-05-24T12:00:00Z",
+      "event": "ACCC commenced market inquiries in relation to revised draft s87B undertaking"
+    },
+    {
+      "date": "16 Jun 2006",
+      "date_iso": "2006-06-16T12:00:00Z",
+      "event": "ACCC Issues Statement of Issues - market inquiries commenced"
+    },
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "Market inquiries in relation to Statement of Issues to be completed"
+    },
+    {
+      "date": "3 Aug 2006",
+      "date_iso": "2006-08-03T12:00:00Z",
+      "event": "ACCC accepted Undertakings from Alinta."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Alinta/AGL Joint Merger Proposal reflecting the Mergers Implementation Agreement (MIA) signed between the parties.  On 3rd August 2006, the ACCC accepted undertakings from Alinta in relation to this proposal. As part of the processes under the undertakings, the ACCC subsequently assessed whether it was necessary for Alinta to divest the Agility contracts associated with the Moomba to Sydney and Parmelia Gas Pipelines. On 26 September 2006 the ACCC determined that it was necessary for Alinta to divest the Agility contracts.",
+    "Market definition": "Please refer to Public Competition Assessment.",
+    "Competition analysis": "Please refer to Public Competition Assessment."
+  }
+}

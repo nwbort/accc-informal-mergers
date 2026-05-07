@@ -1,0 +1,59 @@
+{
+  "id": "0608",
+  "title": "Peregrine Corporation - proposed acquisition of retail assets of Mobil Oil Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/peregrine-corporation-proposed-acquisition-of-retail-assets-of-mobil-oil-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40972",
+  "industries": [
+    "Fuel retailing"
+  ],
+  "date_completed": "22 July 2010",
+  "date_completed_iso": "2010-07-22T12:00:00Z",
+  "date_commenced": "27 May 2010",
+  "date_commenced_iso": "2010-05-27T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Peregrine Corporation"
+  ],
+  "targets": [
+    "Mobil Oil Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 May 2010",
+      "date_iso": "2010-05-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jun 2010",
+      "date_iso": "2010-06-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Jul 2010",
+      "date_iso": "2010-07-07T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 8 July 2010 amended to allow ACCC to consider further information provided by Peregrine and to conduct further analysis."
+    },
+    {
+      "date": "22 Jul 2010",
+      "date_iso": "2010-07-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the receipt of divestiture undertakings from Peregrine."
+    },
+    {
+      "date": "1 Oct 2010",
+      "date_iso": "2010-10-01T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    },
+    {
+      "date": "16 Feb 2011",
+      "date_iso": "2011-02-16T12:00:00Z",
+      "event": "ACCC confirmed that the s87B Undertaking had terminated on the basis that the sale of the divestiture businesses had completed and any obligations to procure the transfer, grant, or provision of licences, permits, approvals, third party consents and transitional services necessary for the operation of the divestiture businesses had been fulfilled."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see Public Competition Assessment below.",
+    "Competition analysis": "Please see Public Competition Assessment below.",
+    "Undertakings": "Final 87B Undertakings - \n\nOn 16 February 2011 the ACCC confirmed that the s87B Undertaking had terminated on the basis that the sale of the divestiture businesses has completed and any obligations to procure the transfer, grant, or provision of licences, permits, approvals, third party consents and transitional services necessary for the operation of the divestiture businesses has been fulfilled."
+  }
+}

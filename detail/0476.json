@@ -1,0 +1,84 @@
+{
+  "id": "0476",
+  "title": "Transit Systems Pty Ltd - proposed acquisition of Stradbroke Ferries Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transit-systems-pty-ltd-proposed-acquisition-of-stradbroke-ferries-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43669",
+  "industries": [
+    "Passenger and vehicle ferry services"
+  ],
+  "date_completed": "1 December 2011",
+  "date_completed_iso": "2011-12-01T12:00:00Z",
+  "date_commenced": "5 April 2011",
+  "date_commenced_iso": "2011-04-05T12:00:00Z",
+  "total_review_days": 67,
+  "acquirers": [
+    "Transit Systems Pty Ltd"
+  ],
+  "targets": [
+    "Stradbroke Ferries Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Apr 2011",
+      "date_iso": "2011-04-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Apr 2011",
+      "date_iso": "2011-04-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 May 2011",
+      "date_iso": "2011-05-19T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed date for announcement of ACCC findings of 2 June 2011 delayed."
+    },
+    {
+      "date": "23 Jun 2011",
+      "date_iso": "2011-06-23T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "5 Jul 2011",
+      "date_iso": "2011-07-05T12:00:00Z",
+      "event": "Former proposed decision date for announcement of ACCC's findings of 14 July 2011 delayed. ACCC timeline suspended at the request of Transit to allow the merger parties to provide further information."
+    },
+    {
+      "date": "26 Sep 2011",
+      "date_iso": "2011-09-26T12:00:00Z",
+      "event": "Draft section 87B undertaking proffered by Transit. ACCC commenced market inquiries. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Oct 2011",
+      "date_iso": "2011-10-07T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "26 Oct 2011",
+      "date_iso": "2011-10-26T12:00:00Z",
+      "event": "ACCC timeline suspended pending further information on the draft 87B undertaking."
+    },
+    {
+      "date": "24 Nov 2011",
+      "date_iso": "2011-11-24T12:00:00Z",
+      "event": "ACCC received further information on draft section 87B undertaking. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 Nov 2011",
+      "date_iso": "2011-11-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "1 Dec 2011",
+      "date_iso": "2011-12-01T12:00:00Z",
+      "event": "The ACCC executed the section 87B undertaking."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 5 April 2011, the ACCC commenced a review of the proposed acquisition of Stradbroke Ferries Limited by Transit Systems Pty Ltd. Transit and Stradbroke Ferries are transport companies that each operate vehicle ferry services between Brisbane (Cleveland) and North Stradbroke Island (Dunwich).",
+    "Market definition": "The ACCC considered this matter within the context of the market for the supply of vehicle ferry services on the Brisbane (Cleveland) and North Stradbroke Island (Dunwich) route.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would have the effect, or be likely to have the effect, of substantially lessening competition in the market for the supply of vehicle ferry services on the Brisbane (Cleveland) and North Stradbroke Island (Dunwich) route. To address these competition concerns, Transit offered a court enforceable undertaking that will reduce barriers to entry for a new entrant in the market. Subject to the 87B undertaking, the ACCC concluded that the proposed transaction was unlikely to result in a substantial lessening of competition in the market. On 30 November 2011, the ACCC accepted the 87B undertaking offered by Transit and announced that it would not oppose the proposed acquisition."
+  }
+}

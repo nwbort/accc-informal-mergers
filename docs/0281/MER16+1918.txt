@@ -1,0 +1,884 @@
+Page 1 of 18 
+ 
+Public Competition Assessment 
+2 March 2016 
+Foxtel Management Pty Ltd and Ten Network Holdings Ltd 
+- proposed acquisitions 
+The ACCC’s decision 
+1. 
+On 22 October 2015, the ACCC announced its decision not to oppose certain 
+proposed acquisitions by Foxtel Management Pty Ltd (Foxtel) and Ten Network 
+Holdings Ltd (Ten).  
+2. 
+The proposed acquisitions by Foxtel and Ten comprise: 
+ 
+Foxtel’s proposed acquisition of up to 15% of Ten 
+ 
+Ten’s proposed acquisition of 24.99% in Multi Channel Network Pty Ltd 
+(MCN) 
+ 
+The proposed granting of an option to Ten by Presto TV Pty Ltd (Presto) to 
+acquire 10% of Presto. 
+3. 
+The ACCC decided that the proposed acquisitions would be unlikely to have the 
+effect of substantially lessening competition in contravention of section 50 of the 
+Competition and Consumer Act 2010 (the Act). Section 50 prohibits acquisitions 
+that would have the effect, or be likely to have the effect, of substantially 
+lessening competition in any market. 
+4. 
+The ACCC considered the competitive effects of the proposed acquisitions in the 
+following markets: 
+ 
+the national market(s) for the acquisition of television content (including 
+possible markets, or sub-markets, for the acquisition of sports content and 
+premium Australian original content)  
+ 
+the national market for the supply of free-to-air (FTA) television services 
+ 
+the national market for the supply of subscription television (STV) services 
+ 
+a broader national market for the supply of television viewing services 
+encompassing (at least) both FTA and STV services 
+ 
+the national market for the supply of subscription video on demand (SVOD) 
+services 
+ 
+the national market for the supply of television advertising services. 
+
+
+ 
+Page 2 of 18 
+5. 
+The ACCC concluded that: 
+ 
+Although the proposed acquisitions will lead to a greater alignment of the 
+interests of Foxtel and Ten, and will increase the degree of influence Foxtel 
+has over Ten, the proposed acquisitions, on their own, are unlikely to result 
+in a substantial lessening of competition. 
+ 
+The proposed acquisitions are minority shareholdings and there are 
+limitations on the extent to which Foxtel will be able to influence Ten as a 
+result of holding a 15% shareholding in Ten.  
+ 
+The other FTA networks, STV providers and streaming service providers 
+(including SVOD providers) will continue to have sufficient alternatives to 
+allow them to obtain content that is attractive to viewers. 
+ 
+Foxtel and Ten will continue to face competition from the remaining FTA 
+networks, and streaming services are also likely to become an increasingly 
+competitive alternative for viewers, including for access to sports content. 
+ 
+Advertisers will continue to have alternatives to Foxtel and Ten for television 
+advertising in the event that MCN attempted to increase advertising rates or 
+engage in anticompetitive bundling practices post-acquisition. 
+6. 
+As the proposed acquisitions raise important issues, the ACCC is issuing this 
+Public Competition Assessment to outline reasons for its decision. 
+7. 
+Please note that this and other public competition assessments are subject to 
+the following qualifications: 
+(a)  the ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily reflect 
+the ACCC’s view of another transaction even where that other transaction 
+may involve the same or a related market; and 
+(b) as assessments are brief and also do not refer to confidential information 
+provided by the merger parties or other market participants, assessments do 
+not set out all of the issues and information considered by the ACCC, nor all 
+of the analysis and reasons of the ACCC. 
+
+
+ 
+Page 3 of 18 
+Review timeline 
+8. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+25 June 2015 
+ACCC commenced review under the Merger Process 
+Guidelines. 
+24 July 2015 
+Closing date for submissions from interested parties. 
+19 August 2015 
+ACCC requested further information from the merger 
+parties. 
+3 September 2015 
+ACCC received further information from the merger 
+parties. 
+9 September 2015 
+Former proposed decision date of 10 September 2015 
+delayed by ACCC to allow additional time to consider the 
+proposed acquisitions. 
+14 September 2015 
+ACCC published a Statement of Issues outlining 
+preliminary competition concerns. 
+28 September 2015 
+Closing date for submissions relating to Statement of 
+Issues. 
+22 October 2015 
+ACCC announced it would not oppose the proposed 
+acquisitions. 
+9. 
+The total elapsed time from start to finish was approximately four months. The 
+total period net of time taken by the parties to submit information or documents 
+was 74 business days. 
+Market inquiries 
+10. Submissions were received from, and market inquiries were conducted with, a 
+wide range of industry participants, including competitors, potential competitors, 
+advertising agencies, audio-visual content producers, other regulatory agencies 
+and other interested parties during the course of the investigation. 
+Statement of Issues 
+11. The ACCC published a Statement of Issues on 14 September 2015. In the 
+Statement of Issues, the ACCC expressed the preliminary view that the 
+proposed acquisition had the potential to substantially lessen competition for the 
+supply of FTA television services in Australia, particularly in the broadcasting of 
+sports content, and reduce or even eliminate competition between Foxtel and 
+Ten for the supply of advertising services. 
+12. The ACCC also expressed the preliminary view that the proposed acquisition 
+was unlikely to result in a substantial lessening of competition in the supply of 
+SVOD services to consumers. 
+
+
+ 
+Page 4 of 18 
+The parties  
+Foxtel 
+13. Foxtel is agent for (and manager of) the Foxtel Partnership. The partners in the 
+Foxtel Partnership are Telstra Media Pty Limited (a wholly owned subsidiary of 
+Telstra Corporation Limited) (Telstra) and Sky Cable Pty Limited (which is 
+indirectly a wholly owned subsidiary of News Corporation) (News Corp). 
+14. Foxtel is Australia’s largest STV provider. It delivers television content to over 
+2.6 million Australian subscribers. It also operates the Foxtel Play multiplatform 
+subscription audio-visual content service (which allows subscribers to view 
+Foxtel’s television stations online via a tablet or smartphone device) and the 
+Presto SVOD service (see below). 
+15. News Corp and Telstra each have the right to appoint one-half of the board of 
+directors of Foxtel. In addition, News Corp has the right to appoint the Chief 
+Executive Officer and Chief Financial Officer of Foxtel; Telstra has the right to 
+terminate these officers.1 
+16. Foxtel stated that the proposed acquisitions will deliver synergies and improved 
+advertiser access through the MCN arrangement, and “represents the best long-
+term solution for a revitalised, competitive and profitable Ten”. 
+Ten 
+17. Ten is an ASX-listed commercial broadcaster that operates three FTA television 
+channels in Australia (Ten, Eleven and One). It also operates Tenplay, a 
+multiplatform online catch-up service. Ten’s five largest shareholders and their 
+shareholdings at 16 October 20142 were: 
+ 
+Birketu Pty Ltd (a company controlled by Bruce Gordon) 12.62%, with a 
+further 1.82% held by Birketu Investments Pty Ltd (also controlled by Bruce 
+Gordon) 
+ 
+Hanrine Investments Pty Ltd (a company controlled by Gina Rinehart) 
+9.45% 
+ 
+HSBC Custody Nominees (Australia) 9.40% 
+ 
+Illyria Nominees Television Pty Limited (Illyria) (a company controlled by 
+Lachlan Murdoch) 8.52% 
+ 
+Aidem Holdings Pty Limited (a company controlled by James Packer) 
+8.52%. 
+Multi Channel Network (MCN) 
+18. MCN is an advertising business that sells advertising services across a number 
+of subscription television channel suppliers whose channels appear on the 
+Foxtel platform and on other subscription platforms (e.g. Fetch TV). It also sells 
+on-line advertising space for Telstra Media Pty Ltd. 
+                                                 
+1  
+New Corp Annual Report (Form 10K) filed 13 August 2015. 
+2  
+According to Ten’s 2014 Annual Review.  
+
+
+ 
+Page 5 of 18 
+19. Foxtel holds 75% of the shares in MCN and the remaining 25% are held by Fox 
+Sports Australia Pty Ltd (owned by News Corporation). As part of the proposed 
+acquisitions, Ten will acquire a 24.99% interest in MCN. 
+20. On 1 September 2015, MCN commenced acting as Ten's advertising sales 
+representative pursuant to a sales representation agreement entered into by Ten 
+and MCN in June 2015.3 
+Presto TV Pty Ltd (Presto) 
+21. Presto is an SVOD service that enables subscribers to stream audio-visual 
+content from an online library via the internet when purchased with a monthly 
+subscription. This content can be streamed on a range of devices, including 
+televisions, tablets and smartphones. 
+22. Presto is a joint venture between Seven West Media Limited (Seven) and Foxtel. 
+23. The ACCC notes that Ten had entered into a supply arrangement with Presto. 
+This arrangement is not subject to section 50, but may be subject to other 
+provisions of Part IV of the Act. 
+Other industry participants 
+News Corporation (News Corp) 
+24. News Corp is the ultimate parent company of News Corp Australia Pty Limited 
+(formerly News Limited), which is the owner of The Australian, The Herald Sun, 
+and numerous other newspapers. 
+25. News Corp is one of the owners of Foxtel through its indirect ownership of Sky 
+Cable Pty Limited. 
+26. News Corp is also the owner of Fox Sports Australia Pty Limited (Fox Sports), 
+which supplies an Australian group of sports channels that is broadcast on 
+Foxtel. 
+27. Rupert Murdoch is the Executive Chairman and Lachlan Murdoch is the 
+Executive Co-Chairman of News Corp. The Murdoch Family Trust holds 38.4% 
+of the voting B class common stock in News Corporation (with Rupert Murdoch 
+holding a further 1% interest).4  
+Fox Sports Australia (Fox Sports) 
+28. Fox Sports compiles and produces the FOX SPORTS 1, FOX SPORTS 2, FOX 
+SPORTS 3, FOX SPORTS 4, FOX SPORTS 5, FOX FOOTY and FOX SPORTS 
+NEWS STV channels, available via the Foxtel platform. It also produces sporting 
+coverage and broadcasts sporting content on Foxtel’s internet TV service Foxtel 
+Play, Foxtel on T-box, and Foxtel Go App. 
+                                                 
+3  
+This agreement is not subject to section 50 of the Act. 
+4  
+News Corp Proxy Statement, 1 September 2015. 
+
+
+ 
+Page 6 of 18 
+Nine Network 
+29. The Nine Network (Nine), owned by the ASX-listed Nine Entertainment Co, 
+operates three FTA television channels (Nine, GO! and GEM) and distributes 
+content through its online catch-up service, 9Jumpin (rebranded ‘9Now’ in 
+January 2016). Nine also owns 50% of Stan, an SVOD service. 
+ABC 
+30. The Australian Broadcasting Corporation (ABC) is Australia’s national public 
+broadcaster. It operates several FTA channels (ABC1, ABC2, ABC3, ABC 4 Kids 
+and ABC News 24) and also distributes content via its online video-on-demand 
+and catch-up service, ABC iView. Some of the content available on ABC iView 
+has not previously been broadcast on ABC’s FTA network. 
+SBS 
+31. The Special Broadcasting Service (SBS) is a national public broadcaster that 
+operates under the Special Broadcasting Services Act 1991 (Cth). It has a 
+mandate to reflect the multicultural nature of Australian society. It operates three 
+FTA channels (SBS ONE, SBS TWO and NITV) and also distributes content 
+online through its website, SBS On Demand. 
+Fetch TV 
+32. Fetch TV is an Australian internet protocol television (IPTV) subscription 
+television service that combines FTA television viewing with video recording 
+functions, a movie-on-demand service, and other channels including ESPN, 
+MTV, National Geographic, Animal Planet, BBC World News and CCTV News. 
+Netflix 
+33. Netflix is a US SVOD service provider. It has a library of content which it 
+acquires or produces. Netflix launched in Australia in March 2015 and is 
+currently the largest SVOD service provider. 
+Stan 
+34. Stan is an Australian SVOD service provider. It is a joint venture between Nine 
+and Fairfax Media Ltd (Fairfax). Stan launched in Australia in January 2015. 
+Fairfax 
+35. Fairfax is an Australian media company with an integrated print, radio and online 
+digital presence in metropolitan, rural and regional areas of Australia. Fairfax’s 
+digital and metropolitan print publications include The Sydney Morning Herald, 
+The Age, The Australian Financial Review and numerous regional and 
+community newspapers across Australia. 
+Endemol Shine 
+36. Endemol Shine Group (Endemol Shine), a 50:50 joint venture between 21st 
+Century Fox and Apollo Management, is a global content creator, producer and 
+
+
+ 
+Page 7 of 18 
+distributor with over 600 scripted and non-scripted formats5 across operations 
+spanning more than 30 countries.6 
+37. Its Australian division, Endemol Shine Australia, is Australia’s largest television 
+production house with formats including MasterChef, The Voice, Big Brother, 
+The Bachelor and The Biggest Loser. 
+Industry background 
+The changing media landscape 
+38. Significant technological developments in the media industry have led to rapid 
+changes in how audio-visual content is consumed. Greater take-up of broadband 
+services in Australia, with large or no data limits, has facilitated significant growth 
+in the amount of audio-visual content consumed online on multiple devices, 
+including smartphones, smart TVs and tablets. 
+39. Internet-based content delivery services allow consumers to view content when, 
+where and how they want it. SVOD services such as Presto, Netflix and Stan 
+have been successful in attracting customers and are continuing to grow their 
+subscriber bases. FTA and STV providers have recently changed the way they 
+deliver services, either increasing the amount of their content available online or, 
+in the case of STV, reducing the prices for their services. 
+40. As a result of structural changes in the media industry and changes to 
+consumers’ viewing patterns, traditional audio-visual broadcasters are offering a 
+mix of both linear and on-demand content distribution to maintain their 
+audiences. Importantly, broadcasters are increasingly offering content that 
+consumers prefer to watch live in order to maintain their audience share and 
+advertising revenue. This type of content, which is known as ‘appointment 
+viewing’ or ‘water cooler programs’, includes live sport, Australian-produced 
+reality TV shows and news. 
+Market definition 
+41. The ACCC considered the competitive effects of the proposed acquisitions in the 
+following markets: 
+ 
+the national market(s) for the acquisition of television content (including 
+possible markets, or sub-markets, for the acquisition of sports content and 
+premium Australian original content) 
+ 
+the national market for the supply of FTA television services 
+ 
+the national market for the supply of STV services 
+ 
+a broader national market for the supply of television viewing services 
+encompassing (at least) both FTA and STV services 
+                                                 
+5  
+‘Format’ refers to the overall concept and branding of a copyrighted television program. 
+6  
+21st Century Fox was formed following the 2013 separation of the old News Corporation into 21St 
+Century Fox and the new News Corporation (described in paragraphs 24-27 above). Rupert Murdoch 
+and Lachlan Murdoch are Co-Chairmen of 21st Century Fox and James Murdoch is its Chief 
+Executive Officer. According to 21st Century Fox’s Proxy Statement of 29 September 2015, the 
+Murdoch Family Trust holds 38.4% of the voting B class common stock in 21st Century.   
+
+
+ 
+Page 8 of 18 
+ 
+the national market for the supply of SVOD services 
+ 
+the national market for the supply of television advertising services. 
+42. The ACCC did not consider it necessary to reach a concluded view in relation to 
+the precise boundaries of the relevant markets, and considered the broader 
+competitive dynamics in each market and the potential for these dynamics to 
+change in the foreseeable future. 
+43. However, the ACCC considered that differences in pricing models,7 the type of 
+content delivered on different platforms, and the equipment, devices and 
+complementary services needed to view content on different platforms would be 
+likely to limit the degree of substitutability of FTA, STV, SVOD and direct 
+streaming services for many viewers (and potential viewers). In addition, 
+substitutability between platforms differs for particular types of content. For 
+example, the ACCC considered there was greater substitutability between FTA 
+and STV services for sports content than between these services and SVOD 
+services, as there was a very limited amount of sports content currently 
+broadcast on SVOD services. By contrast, direct streaming of sports content is 
+likely to be viewed by viewers as a closer substitute. 
+44. The ACCC considered that it was also relevant to assess the potential 
+competitive effects of the proposed acquisitions in a broader market for 
+television services that encompasses (at least) both FTA and STV services, in 
+addition to separate markets for these services. While FTA services are each 
+other’s closest substitutes, the ACCC considered that STV was likely to be the 
+next closest substitute. 
+45.  Advertisers typically seek to advertise across a range of platforms (including 
+television, online, radio and print) to maximise their reach and target specific 
+types of viewers. Television is an important medium for advertising because it 
+combines visual imagery, sound and movement, and it has the ability to reach 
+large audiences. The ACCC considered that it was relevant to assess the 
+proposed acquisitions in a national market for television advertising services. 
+Competition analysis 
+With/without 
+46. Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to 
+the likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+47. The ACCC considered that the likely competition effects of the proposed 
+acquisitions were most appropriately assessed against a future without the 
+                                                 
+7  
+For example, SVOD providers and Foxtel have different subscription charging models (with Foxtel 
+also carrying some advertising), whereas FTA providers do not charge viewers a subscription fee but 
+effectively ‘charge’ viewers by providing programming content bundled with advertising. 
+
+
+ 
+Page 9 of 18 
+acquisitions in which Ten, MCN and Presto continue their current operations 
+under their current ownership (the status quo). 
+48. Although Ten’s ratings and financial performance are weaker than they have 
+been in the past, the ACCC was not satisfied that Ten’s performance would 
+decline significantly without the proposed acquisitions. In fact, Ten’s ratings had 
+slowly improved in the months leading up to the ACCC’s decision and it was 
+expected that this would continue to have a positive effect on its advertising 
+revenue in the future without the proposed acquisitions. Therefore, the ACCC 
+considered the most likely future without the acquisitions was the status quo, 
+where Ten continues to exert at least the same competitive constraint on its 
+rivals as it did prior to the announcement of the proposed acquisitions. 
+Ability and incentive to exert control or influence 
+49. As the proposed acquisitions involve minority acquisitions, the ACCC’s 
+competition assessment considered the extent to which the proposed 
+acquisitions would result in the ability of Foxtel to influence Ten’s decision 
+making or in an alignment of incentives between Foxtel, Ten, MCN and Presto. 
+50. The ACCC considers that Foxtel’s acquisition of up to 15% of the issued share 
+capital in Ten will enable Foxtel to exercise an increased degree of influence 
+over Ten.  That increased influence may arise from a range of factors including: 
+ 
+the significance of Foxtel’s investment in Ten 
+ 
+the right for Foxtel to have one of six seats on the Ten board (taking into 
+consideration the additional sway that board member may have as a result 
+of Foxtel’s extensive industry experience) 
+ 
+the possibility that Lachlan Murdoch8, who will also have a representative on 
+Ten’s board), may have an incentive to align with Foxtel in some situations 
+given his and the Murdoch Family Trust’s interests in News Corp, and 
+indirectly, Foxtel. 
+51. Significantly, the ACCC recognised that there will be limitations on the extent to 
+which Foxtel would be able to exert influence over Ten in circumstances where 
+the interests of Foxtel and Ten were not aligned, including: 
+ 
+the four remaining members of the Ten board will comprise two independent 
+directors and representatives of other major shareholders, including Birketu 
+(owned by Bruce Gordon). These board members do not have relationships 
+with or direct or indirect interests in Foxtel or News Corp 
+ 
+all directors on the Ten board – no matter whose interests they represent – 
+are required to act in the best interests of Ten in accordance with their 
+statutory and fiduciary duties, and with any board protocols which may be in 
+place. 
+                                                 
+8  
+The ACCC notes the relationship between Mr Murdoch and Foxtel (through News Corp). Mr 
+Murdoch’s Illyria has an 8.52% interest in Ten and will have a board representative (giving the News 
+Corp-aligned interests two of six board representatives). 
+
+
+ 
+Page 10 of 18 
+Markets for the acquisition of television content 
+52. The ACCC investigated whether the proposed acquisitions, by more closely 
+aligning the interests of Ten and Foxtel, may have the effect of limiting the ability 
+of other FTA providers to compete: 
+ 
+for the acquisition of sports content 
+ 
+for the acquisition of non-sport content. 
+53. Each of these potential effects in the relevant market is analysed below. 
+Acquisition of sports content 
+Background 
+54. The ACCC investigated whether the proposed acquisitions and subsequent 
+alignment of Foxtel, Fox Sports and Ten’s incentives to enter into joint bids, 
+commercial arrangements or bid exclusively with each other would reduce or 
+foreclose the ability of other FTA networks to compete for sports rights. 
+55. Sports content, in particular premium sports content9, is an extremely important 
+part of an FTA network’s program offering due to the high ratings it achieves. 
+Viewer interest in major sports is generally consistent over many years, whereas 
+interest in other programs or formats (for example, reality television programs) 
+can fluctuate more rapidly over time. 
+56. The consistent ratings of major sports allow FTA networks to implement cross 
+promotions and ‘lead-in’ strategies10 around these major events, leading to a 
+ratings ‘halo’ effect that increases the network’s ratings overall. The benefits 
+from sports content lead FTA networks to generally spend a significant 
+proportion of their programming budgets on the acquisition of premium sports 
+rights. Sports content is also very important to Foxtel’s ability to attract 
+subscribers. 
+57. The ACCC considers that the benefits to FTA networks and STV providers of 
+having the rights to premium sporting events are unlikely to decrease in the 
+foreseeable future.  
+Uncertainty about future broadcasting of premium sports rights 
+58. The ACCC took into account in its consideration of the proposed acquisitions the 
+fact that rights to the most popular premium sports will not become available for 
+some years. 
+59. Seven and Nine have obtained the FTA rights to content for the top four 
+premium sports for the next 4-8 years. This includes the AFL, NRL, Australian 
+Open tennis and international cricket played in Australia (including T20, one-day 
+internationals and test matches). The rights to the domestic Big Bash League 
+are currently held by Ten until 2018. During the course of the ACCC’s 
+investigation, the AFL (all rights) and NRL (FTA and digital rights only) 
+                                                 
+9  
+The ACCC considers that premium sport content encompasses the AFL, NRL, Australian Tennis 
+Open and International cricket played in Australia, and potentially the Big Bash League.  
+10  Lead-in strategies relate to programs retaining a significant proportion of the audience of the program 
+scheduled immediately before it.  
+
+
+ 
+Page 11 of 18 
+completed negotiations for the broadcast of their content, with agreements 
+entered into until 2022 for each code. 
+60. Given this, the ACCC took into account the uncertainty about the likely 
+competitive dynamics when sporting bodies, including the AFL and NRL, will 
+commence the next round of negotiations to license their rights. The ACCC 
+considered that there may be potential, in the next five years or so, for significant 
+growth in SVOD and other streaming services, such as direct streaming of live 
+sports content. Such developments would potentially increase competition for 
+sports rights, in particular non-premium sports rights, in the future. 
+Bargaining and countervailing power of sporting bodies 
+61. The ACCC found that some sporting bodies have a degree of bargaining power 
+when negotiating the sale of premium sports rights, as their content is extremely 
+valuable to both FTA networks and Foxtel, and this power may increase in the 
+future if sporting bodies are able to use direct streaming as an alternative. 
+62. The ACCC found that sporting bodies, when negotiating the sale of sports 
+viewing rights, seek to optimise the overall returns they obtain by balancing 
+audience reach and revenue considerations. Foxtel has historically been the 
+highest bidder for these rights because it can recoup the cost through 
+subscription revenue. However, Foxtel cannot deliver the same level of audience 
+reach as the FTA networks as its penetration rate is only approximately one third 
+of Australian households. Consequently (and in combination with the functioning 
+of the anti-siphoning regime discussed from paragraph 87), it is common to see 
+the highest-rating games or events broadcast on FTA (and in many cases 
+simulcast on Foxtel) and the remaining less popular games or events shown 
+exclusively on Foxtel.11 This gives the sporting body the desired balance 
+between reach and revenue. 
+63. Sporting bodies also aim to balance short-term with longer-term considerations. 
+In the short-term, sporting bodies may forgo some revenue (by selling games or 
+events to a FTA network rather than exclusively to Foxtel) in order to expand the 
+reach of their sport and thereby build (or maintain) the broad popularity of the 
+sport over time. Over the longer-term, greater popularity will lead to higher 
+ratings and future revenues for their rights. For example, Netball Australia chose 
+Ten to televise some matches from its domestic competition (the ANZ 
+Championship) and Netball World Cup to increase exposure to the sport as this 
+was expected to build interest, audiences and its fan base. To achieve this, 
+Netball Australia did not charge Ten for these rights; in fact, Netball Australia’s 
+sponsors paid Ten for making the air time available. 
+64. Options to provide direct streaming of sports content through apps, gaming 
+consoles, AppleTV or through websites are also increasingly available to 
+sporting bodies in Australia, following similar developments in the United States 
+and Europe.12 At the time of the ACCC’s decision, there were several examples 
+of live streaming of sport in Australia: 
+                                                 
+11  Examples of this include the AFL, NRL, and V8 Supercars and Formula 1 motor racing. 
+12  If a sporting body were to decide to stream its own content, it would not need to replicate Foxtel’s 
+existing infrastructure (set-top boxes and access to satellite/HFC) in order to reach consumers. 
+Streaming services use existing platforms in consumers’ homes (such as Apple TV, Xbox, tablets and 
+mobile telephones).   
+
+
+ 
+Page 12 of 18 
+ 
+The AFL digital pass broadcasts every game live through its app, operated 
+by Telstra, on mobile and tablet devices for an annual fee of $89.99. The 
+app includes advanced statistics and full replays on demand. 
+ 
+The NRL digital pass has similar features as the AFL digital pass and is also 
+operated by Telstra. It costs $89.99 per year. 
+ 
+The Cricket Australia Live Pass provides live streaming and match highlights 
+of all cricket (domestic and international matches) played in Australia on its 
+website and mobile devices. The pass costs $29.99 for a year or $4.99 for 
+24 hour access. 
+ 
+Cricket Australia has recently launched a channel on Apple TV which 
+featured interviews, skill tutorials and highlights, and additional content 
+created by Nine. 
+ 
+Seven created a website and app to stream its live FTA coverage of tennis 
+content on a computer or mobile device, including Wimbledon, the Davis 
+Cup and the Australian Tennis Open in 2016. 
+ 
+SBS simulcasts its FTA coverage of live cycling races (e.g. the Tour de 
+France, World Championships) on its Cycling Central website. SBS also has 
+an app for the Tour de France enabling users to stream live coverage. The 
+app also provides information about the stage, riders and teams. 
+65. These options are expected to grow as customer viewing trends change and as 
+home internet functionality increases, and they would give sporting bodies the 
+choice of streaming their own content or selling to streaming providers, in 
+addition to their current options of selling their rights to FTAs or Foxtel. Foxtel 
+has also responded to the potential of streaming services to compete with STV 
+broadcasts of sports by offering its own streaming services for sport through its 
+Foxtel Play and Foxtel Go services. 
+66. However, the potential for SVOD services and other streaming services (e.g. 
+YouTube, Google) to provide a viable alternative to FTA or STV networks is 
+dependent on these services being able to monetise their content, for example 
+through advertising, pay-per-view fees or various types of subscriptions There 
+remains, therefore, some uncertainty as to the likely constraint of these 
+alternative services on FTA and STV providers. 
+67. The ACCC concluded that Foxtel will ultimately continue to exercise 
+considerable market power when negotiating to acquire sports rights. This is 
+particularly so for premium sports, given its ability to pay significant sums to 
+sporting bodies for these rights compared to alternative acquirers. 
+The importance of partnering with Foxtel to acquire sports rights 
+68. The ACCC has in the past found that there were substantial potential 
+commercial benefits to be gained by both Foxtel and an FTA network from joint 
+bids or other commercial arrangements. This was found to be the case for a 
+significant proportion of the premium sporting rights that were likely to be 
+attractive to a FTA television network.13 
+                                                 
+13  See for example paragraph 41 of the ACCC’s Public Competition Assessment for Seven Group 
+Holdings Limited - proposed acquisition of remaining shares in Consolidated Media Holdings Limited, 
+published 15 February 2013.  
+
+
+ 
+Page 13 of 18 
+69. The ACCC considers that although entering into joint bidding and other 
+commercial arrangements with Foxtel remain advantageous in some contexts, 
+such arrangements may not be as important as they were in the past. The ACCC 
+found that it is not always necessary for FTAs to partner or enter into commercial 
+arrangements with Foxtel or Fox Sports to acquire premium sports rights. 
+70. The introduction of the FTA multi-channels has increased the ability and 
+incentive of FTA networks to acquire sports content packages in full, including 
+sports content that has in the past been acquired by Foxtel (in particular, non-
+premium sports and the less popular games for premium sports). In addition, the 
+multi-channels give FTA broadcasters greater flexibility in broadcasting sport 
+content to avoid conflicts with other programming.  Some events that were 
+previously broadcast on both Foxtel and a FTA network can now be acquired 
+and shown exclusively by a FTA broadcaster. Less valuable content that 
+previously would have been shown on Foxtel (e.g. the outside courts at the 
+Australian Open Tennis) can now be shown on FTA multi channels and FTA 
+digital platforms. 
+71. For example, the following sports rights were sold to an FTA broadcaster without 
+a partnership with Foxtel: 
+ 
+The AFL separately sold FTA rights to Seven, STV rights to News Corp and 
+mobile rights to Telstra. 
+ 
+The NRL sold its FTA and digital rights without involvement from Fox Sports 
+or Foxtel, and its STV and other digital rights were to be dealt with 
+separately at a later date. 
+ 
+Rights to the Australian Open Tennis, Summer Olympics, Winter Olympics, 
+the Australian Open Golf, The Australian PGA Championship and all 
+Swimming Australia events were all purchased solely by Seven. 
+ 
+Rights to the International cricket matches played in Australia (i.e. Test 
+matches, one day internationals and international T20 matches) were 
+purchased solely by Nine. 
+ 
+Rights to the Big Bash League were purchased solely by Ten. 
+ 
+Rights to the Football World Cup (soccer) were purchased solely by SBS. 
+72. The ACCC considered, however, that there may remain circumstances in which 
+it is advantageous for an FTA network to partner or enter into commercial 
+arrangements to acquire both premium and non-premium sports rights with 
+Foxtel. This includes content that would not be profitable for an FTA network to 
+acquire, for example the least popular AFL or NRL games. It may also include 
+significant high profile events, where a higher premium can be extracted by a 
+sporting body through coordination and division of rights between Foxtel and an 
+FTA or SVOD service. 
+73. In considering whether the proposed acquisition may result in Foxtel exclusively 
+partnering with Ten for the acquisition of sports rights, the ACCC reached the 
+conclusion that Foxtel would not have the ability or incentive to require sporting 
+bodies to only deal with Foxtel and Ten in partnership. Sports rights are of 
+significant value to Foxtel and while it may favour a partnership with Ten, it is 
+unlikely to forego rights in order to partner exclusively with a company in which it 
+only has a 15% equity interest.  
+
+
+ 
+Page 14 of 18 
+Acquisition of non-sport content 
+Background 
+74. During the course of its investigation, market participants submitted that 
+premium Australian content is increasingly important for FTA networks to attract 
+audiences and, in the case of Foxtel, subscribers. This type of content, such as 
+Australian-produced reality TV shows, is characterised as ‘water cooler 
+programming’ (which viewers discuss with friends and colleagues the next day) 
+and as ‘appointment viewing’ (which viewers prefer to watch live rather than on 
+catch-up or online). This has resulted in broadcasters acquiring and producing 
+more of this type of content in recent years. 
+Foreclosure of competition for non-sport content 
+75. The ACCC investigated whether the proposed acquisitions would give Foxtel, 
+Ten or Presto the incentive and ability to agree to acquire the rights to certain 
+non-sport content across all platforms (i.e. STV, FTA and SVOD) on an 
+exclusive basis and to control release windows14 for that content. In this 
+scenario, competitors to Foxtel, Ten and Presto may have a limited ability to 
+compete for this content as they do not have a presence across all of these 
+platforms. 
+76. The ACCC considered that there are some types of content where there may be 
+advantages to acquiring it across all platforms. For example, drama and 
+documentary programs that can attract new and repeat viewers over an 
+extended period could be broadcast on Foxtel, Ten and potentially Presto. 
+However, the ACCC also understands that STV, FTA and SVOD providers have 
+different preferences for content. For example, competitive reality TV shows 
+(such as The Block, MasterChef, and The Bachelor), which are designed to be 
+appointment viewing and have limited repeat value, are generally not suitable for 
+broadcasting on STV networks where many programs are repeated daily. 
+77. The ACCC understands that the control of release windows applies more to 
+movies than television content and that competition for non-sport content 
+generally focusses on competition by FTAs for first release rights. FTA networks 
+can already acquire non-sport content in conjunction with STV or SVOD 
+providers. For example, Seven (50% owner of Presto) and Nine (50% owner of 
+Stan) already acquire SVOD rights along with FTA rights for some content. FTA 
+networks, STV and SVOD providers can also seek to control the time period 
+before the content can be broadcast on other platforms by acquiring holdback 
+rights, thereby giving them exclusivity over that content for a defined period. For 
+example, Foxtel acquired holdback rights for the television series Game of 
+Thrones to ensure the series was exclusive to its platform. 
+78. Given the information above, it is unlikely that the proposed acquisitions will 
+provide Foxtel, Ten or Presto with a significant competitive advantage over its 
+competitors as the content utilised by each platform to attract the majority of its 
+viewers, and how that content is consumed, are different. The ACCC therefore 
+concluded that Foxtel, Ten and Presto would not, as a result of the proposed 
+acquisitions, have a significantly greater incentive or ability to acquire content on 
+an exclusive basis, or with holdback rights. 
+                                                 
+14  ‘Release windows’ – the time period in which content is shown on a particular platform, such as first-
+run rights, second-run rights, and so on. 
+
+
+ 
+Page 15 of 18 
+79. The ACCC also considered concerns raised by market participants that the 
+proposed acquisitions would result in Ten gaining an advantage in the 
+acquisition of premium prime-time original Australian content from Endemol 
+Shine, given the Murdoch family interests in each of Endemol Shine and Foxtel. 
+Endemol Shine is Australia’s largest television production house and owns the 
+rights to the formats for high-quality, high-rating Australian programming. Given 
+the increasing importance of premium Australian original content to FTA 
+networks and Foxtel in attracting audiences and subscribers respectively, any 
+advantage Ten would obtain through the proposed acquisitions in acquiring this 
+content could give it a significant competitive advantage against its FTA rivals. 
+80. The ACCC considered that, although access to Endemol Shine content is 
+important, even if it could be said that Endemol Shine would favour Ten, there 
+would remain alternative options for the acquisition of premium prime-time 
+original Australian content post-acquisition. The ACCC is aware that FTA 
+networks can and do produce their own premium non-sport content. For 
+example, Seven has in-house production capacity and produces programs such 
+as My Kitchen Rules, Packed to the Rafters, Home and Away, Winners and 
+Losers, and Million Dollar Minute. 
+81. In addition, a number of production companies produce premium prime-time 
+original content in Australia, including Fremantle Media, Cavalier Productions, 
+ITV, Matchbox, Zapruder and Essential Media. The ACCC did not receive 
+information indicating significant barriers to these production companies 
+expanding their production of such content should there be an incentive for them 
+to do so. These companies compete to supply this content to FTA networks, 
+STV providers and SVOD providers. 
+Conclusion – markets for the acquisition of television content 
+82. The ACCC concluded that the proposed acquisitions would be unlikely to result 
+in a substantial lessening of competition in the markets for the acquisition of 
+television content. 
+The national markets for the supply of FTA services and supply of 
+television viewing services encompassing (at least) both FTA and STV 
+services 
+83. The ACCC’s preliminary view was that the proposed acquisitions may raise 
+competition concerns in the market for the supply of FTA services and a broader 
+market that includes both FTA and STV services. This view was based on the 
+potential for the proposed acquisitions to reduce the ability of FTAs to compete 
+effectively for viewers and advertisers against a more closely aligned Ten and 
+Foxtel, potentially leading to a reduction in the quality or choice of FTA television 
+programming available to viewers. 
+84. As discussed above, premium sports content is important to both FTA networks 
+and Foxtel as it provides more consistent ratings than other content, can have a 
+‘halo’ effect of increasing overall ratings, allows networks to cross promote and, 
+in the case of Foxtel, is critical to attracting subscribers. 
+85. The ACCC investigated whether the proposed acquisitions and potential 
+alignment of Foxtel, Fox Sports and Ten’s incentives would result in Foxtel and 
+
+
+ 
+Page 16 of 18 
+Ten obtaining a significantly increased proportion of the rights to premium sports, 
+primarily through Foxtel and Ten partnering with each other exclusively when 
+bidding for these rights. The ACCC concluded, for a range of reasons including 
+those set out above, that this was unlikely to occur. In addition to the reasons set 
+out above as to why Foxtel and Ten would not have the ability and incentive to 
+exclusively partner for the acquisition of sports rights, there are limits on how 
+much sport content a single FTA network could acquire, even in combination 
+with Foxtel, due to: 
+ 
+the high cost of premium sports rights 
+ 
+the likelihood of scheduling clashes on the main channel and the reluctance 
+of premium sports rights holders to agree to their most popular games being 
+shown on multi-channels or STV, and 
+ 
+the likelihood that an FTA network could not satisfy a sporting body that it 
+would be able to promote its sport effectively if it held the rights to a major 
+competing sport (such as the AFL and NRL). 
+86. The ACCC also investigated whether the proposed acquisitions would result in a 
+reduction in the quality and quantity of games broadcast on FTA in instances 
+where Foxtel and Ten jointly acquire the rights to a sport. For example, this may 
+occur through Foxtel seeking to secure rights to a greater share of premium 
+sports content to increase its subscription base, with Ten retaining the less 
+popular sports content. 
+87. The ACCC considered that Ten would only agree to do so if it was also in Ten’s 
+best interests. The ACCC also considered that the anti-siphoning regime, as well 
+as some bargaining power of sporting bodies (discussed above), and 
+competition from independent FTA networks and SVOD providers, would be 
+likely to constrain any attempt by Foxtel to work with Ten to shift the most 
+popular sporting events to Foxtel. 
+88. The anti-siphoning regime states that pay TV broadcasters are prohibited from 
+acquiring the rights to televise an event on the anti-siphoning list unless: 
+ 
+the rights are held by commercial television licensees who have the right to 
+televise the event to more than 50 per cent of the Australian population 
+ 
+the rights are held by either the ABC or SBS, or 
+ 
+national or commercial television broadcasters have not obtained these 
+rights by 12 weeks before the start of the event. 
+89. In relation to non-sport content, the ACCC concluded that Ten may in some 
+cases, as a result of the proposed acquisitions, be able to compete more 
+effectively for high-rating proven content and Foxtel and Ten may be able to 
+compete more effectively for content that can be shown (concurrently or at 
+different times) on STV and FTA channels. However, as noted above, the ACCC 
+found that a large amount of this content is available. Ten and Foxtel would not 
+be able to acquire a large enough proportion of this content to create an 
+inadequate supply to other FTA networks. 
+90. Taking these factors into account, and the fact that Foxtel will have only a 
+minority shareholding in Ten, the ACCC concluded that the proposed 
+acquisitions would be unlikely to result in a substantial lessening of competition 
+
+
+ 
+Page 17 of 18 
+in either the market for the supply of FTA services or a broader market that 
+includes FTA and STV services. 
+The national market for the supply of television advertising services 
+91. The ACCC investigated whether the proposed acquisitions may give Foxtel and 
+Ten an ability and incentive to coordinate (through MCN) their offers to 
+advertisers and whether this would lessen competition in the supply of television 
+advertising services, including by reducing the number of independent 
+competitors available to advertisers. 
+92. The ACCC considered that the proposed acquisitions, and in particular Ten’s 
+acquisition of a 24.99% interest in MCN, could increase the ability and incentive 
+for Ten and Foxtel to offer bundled advertising packages across their platforms, 
+and to integrate their advertising strategies. The ability of MCN to offer packages 
+of advertising opportunities across multiple platforms is likely to increase the 
+attractiveness of Ten to advertisers and strengthen its ability to compete against 
+Seven and Nine. The addition of Ten to MCN will enable it to market directly to 
+advertisers who previously would not have considered Foxtel due to its small 
+audience share compared to FTA networks. 
+93. However, the ACCC considers that advertisers will continue to be able to access 
+alternative television advertising services to MCN. Seven and Nine are likely to 
+continue to offer attractive advertising opportunities (based on continued access 
+to compelling sports and non-sport content) and to have the resources and 
+ability to acquire or innovate to develop even more attractive advertising 
+opportunities in the future. 
+94. The ACCC concluded that the proposed acquisitions would be unlikely to 
+substantially lessen competition in the national market for the supply of television 
+advertising services. In reaching this conclusion the ACCC also considered that 
+as the proposed acquisitions are minority acquisitions, Foxtel and Ten will be 
+subject to provisions of the Act other than section 50 which would apply to any 
+agreements between them to coordinate or bundle advertising packages. 
+The national market for the supply of subscription-video-on-demand 
+(SVOD) services 
+95. The ACCC considered whether the proposed acquisitions, and in particular 
+Ten’s option to acquire a 10% interest in Presto, would raise competition 
+concerns by limiting the ability of other SVOD providers to acquire the content 
+necessary to compete with Presto. Specifically, the ACCC considered whether 
+by bidding jointly for content, Foxtel, Ten and Presto could limit other SVOD 
+providers from accessing content necessary to make them effective competitors. 
+96. Several new entrants commenced supply of SVOD services in Australia in 2015. 
+There has been strong take-up of these services, particularly Netflix, which has 
+over one million subscribers in Australia (although some of these subscribers are 
+on free trial offers). 
+97. These SVOD providers do not currently broadcast sport content, which has most 
+value when viewed live. There is a large back catalogue of non-sport content 
+available from a range of producers globally, and this currently forms the majority 
+
+
+ 
+Page 18 of 18 
+of content shown on SVOD platforms. As SVOD providers charge a low monthly 
+fee, they typically do not commission a large volume of original content or 
+acquire a significant volume of first-run content unless, like Netflix, they have 
+global scale which allows them to spread the costs of such content over a large 
+subscriber base. 
+98. The proposed acquisitions are unlikely to prevent these and other SVOD 
+competitors of Presto from being able to acquire enough content to attract a 
+sufficient subscriber base to be commercially viable. 
+99. The ACCC concluded that the proposed acquisitions would be unlikely to result 
+in a substantial lessening of competition in the market for the supply of SVOD 
+services. 
+Conclusion 
+100. The ACCC formed the view that the proposed acquisitions would be unlikely to 
+have the effect of substantially lessening competition in any relevant market.  
+The ACCC’s decision does not extend to MCN’s arrangement with Ten in 
+relation to managing Ten’s advertising sales and supply agreement with Presto, 
+which is not subject to the merger provisions of the Act. 
+101. The ACCC, however, will closely examine any future acquisitions by the merger 
+parties, including where increases in shareholdings are made possible through 
+changes to the existing media diversity and control rules. 
+102. Unlike most acquisitions reviewed by the ACCC, which result in the target 
+coming under the control of the acquirer, the proposed acquisitions involve 
+minority interests with limited associated rights, meaning that the merger parties 
+will remain separate entities and therefore competitors post acquisition. 
+Accordingly, any arrangements between Foxtel, Ten and Presto following the 
+proposed acquisitions will be subject to the competition provisions of the Act. 
+The ACCC will closely examine any arrangements between Foxtel, Ten and 
+Presto which may raise competition concerns. 

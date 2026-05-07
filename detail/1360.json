@@ -1,0 +1,26 @@
+{
+  "id": "1360",
+  "title": "Snowy Hydro proposed acquisition of Valley Power",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/snowy-hydro-proposed-acquisition-of-valley-power",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22407",
+  "industries": [
+    "Electricity generation"
+  ],
+  "date_completed": "6 September 2005",
+  "date_completed_iso": "2005-09-06T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Snowy Hydro proposed acquisition of Valley Power",
+    "Market definition": "Whether the market was NEM wide, SA and Vic combined or just Vic was not determined as a significant lessening of competition did not seem likely on any of these definitions.",
+    "Competition analysis": "Valley Power is a 300MW gas fired generator based in the Victorian region of the National Electricity Market (NEM). Valley Power is being sold by International Power pursuant to the Undertaking it made to the ACCC in relation to its 2004 acquisition of Edison Mission which involved the acquisition of both Valley Power and the 1000MW baseload generator Loy Yang B. In making its decision the ACCC took into account the size and age of the Valley Power plant and the significance of other generators in the Victorian region of the NEM.",
+    "Merger type": "Horizontal",
+    "Initiation": "Press"
+  }
+}

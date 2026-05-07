@@ -1,0 +1,31 @@
+{
+  "id": "1524",
+  "title": "Acquirer: Boral Resources (Vic) Pty Ltd; Target: FRH Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-boral-resources-vic-pty-ltd-target-frh-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17972",
+  "industries": [],
+  "date_completed": "19 September 2003",
+  "date_completed_iso": "2003-09-19T12:00:00Z",
+  "date_commenced": "10 June 2003",
+  "date_commenced_iso": "2003-06-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Boral Resources (Vic) Pty Ltd"
+  ],
+  "targets": [
+    "FRH Group Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Boral Resources (Vic) Pty Ltd and FRH Group Pty Ltd propose to form a joint venture company to construct and operate a new asphalt plant in Pakenham, Melbourne.",
+    "Market definition": "Market for manufacturing of asphalt in metropolitan Melbourne",
+    "Competition analysis": "Market inquiries indicated that asphalt production in Melbourne is highly competitive with six companies currently supplying the market.  The joint venture will result in a new company entering the market to operate a plant in the south-eastern region.  The joint venture parties will continue to operate their other Melbourne plants. The Commission concluded that the proposed joint venture would be unlikely to substantially lessen competition in breach of either s.45 or s.50.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2520"
+  }
+}

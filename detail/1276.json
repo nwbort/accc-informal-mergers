@@ -1,0 +1,26 @@
+{
+  "id": "1276",
+  "title": "Espreon Limited - proposed acquisition of Lawpoint Proprietary Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/espreon-limited-proposed-acquisition-of-lawpoint-proprietary-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24308",
+  "industries": [
+    "Information Brokerage Services"
+  ],
+  "date_completed": "6 June 2006",
+  "date_completed_iso": "2006-06-06T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Espreon and Lawpoint provide information brokerage and property services to banks, law firms, conveyancing firms and other organisations.",
+    "Market definition": "The proposed acquisition involved: - the market for property and information services to large customers such as banks on a national basis; - the national market for information services; and - the local market for property services.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would not result in a substantial lessening of competition in a market due to barriers to entry being moderate to low, customers having countervailing power, the presence of other competitors and the possibility that information brokerage may be imported in the future as services become increasingly online.",
+    "Merger type": "Horizontal",
+    "Initiation": "Complaint"
+  }
+}

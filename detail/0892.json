@@ -1,0 +1,43 @@
+{
+  "id": "0892",
+  "title": "Macmahon Holdings Limited - proposed acquisition of Ausdrill Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macmahon-holdings-limited-proposed-acquisition-of-ausdrill-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32406",
+  "industries": [
+    "Mining, Construction"
+  ],
+  "date_completed": "23 July 2008",
+  "date_completed_iso": "2008-07-23T12:00:00Z",
+  "date_commenced": "10 July 2008",
+  "date_commenced_iso": "2008-07-10T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "MacMahon Holdings Limited"
+  ],
+  "targets": [
+    "Ausdrill Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jul 2008",
+      "date_iso": "2008-07-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2008",
+      "date_iso": "2008-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jul 2008",
+      "date_iso": "2008-07-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For the purposes of this competition assessment, the relevant markets considered were: - the market for the supply of mining services for larger scale projects (tier 1); and - the market for the supply of mining services for smaller scale projects (tier 2 and tier 3). These markets were considered on a national basis.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets as there was limited overlap between the operations of Macmahon and Ausdrill. The merged firm would also continue to be competitively constrained by existing mining service firms."
+  }
+}

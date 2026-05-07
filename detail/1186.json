@@ -1,0 +1,44 @@
+{
+  "id": "1186",
+  "title": "News Limited - proposed acquisition of FPC Magazine Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/news-limited-proposed-acquisition-of-fpc-magazine-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25402",
+  "industries": [
+    "Publishing"
+  ],
+  "date_completed": "28 November 2006",
+  "date_completed_iso": "2006-11-28T12:00:00Z",
+  "date_commenced": "6 November 2006",
+  "date_commenced_iso": "2006-11-06T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "News Limited"
+  ],
+  "targets": [
+    "FPC Magazines"
+  ],
+  "timeline": [
+    {
+      "date": "6 Nov 2006",
+      "date_iso": "2006-11-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "14 Nov 2006",
+      "date_iso": "2006-11-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "28 Nov 2006",
+      "date_iso": "2006-11-28T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Weekend Australian reported on 4 November 2006 that News Ltd was bidding for FPC Magazine Group. The ACCC investigated whether this possible acquisition might raise competition concerns.  FPC announced on 15 November 2006 that the acquisition was proceeding.",
+    "Market definition": "The ACCC concluded that, for this particular magazine acquisition, the relevant markets were: .  the market for the supply of magazines to consumers; .  the market for the supply of magazine advertising to advertisers. Other magazine acquisitions may generate different market definitions.",
+    "Competition analysis": "The ACCC concluded that News Ltd's acquisition of FPC Magazines is unlikely to substantially lessen competition in the relevant markets because: - post-acquisition, News will still have a relatively small market share; and - in the food magazine sub-sector, where News and FPC Magazines overlap, it is unlikely that News would be able to exercise market power, particularly because of the potential for new food magazines to be established."
+  }
+}

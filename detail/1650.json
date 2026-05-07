@@ -1,0 +1,30 @@
+{
+  "id": "1650",
+  "title": "Acquirer: Nufarm Ltd; Target: Monsanto Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-nufarm-ltd-target-monsanto-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15529",
+  "industries": [],
+  "date_completed": "3 May 2002",
+  "date_completed_iso": "2002-05-03T12:00:00Z",
+  "date_commenced": "15 February 2002",
+  "date_commenced_iso": "2002-02-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Nufarm Ltd"
+  ],
+  "targets": [
+    "Monsanto Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Nufarm Australia Limited and Monsanto Company propose to enter into an agreement for the appointment of Nufarm as Monsanto's exclusive distributor in Australia for Monsanto's glyphosate based, end-use, non-selective herbicides (marketed under the brand name \"Roundup\").",
+    "Market definition": "The Commission considered the relevant market to be the national market for the manufacture and wholesaling of commercial-use, glyphosate-based herbicides.",
+    "Competition analysis": "In the national market for the manufacture and wholesaling of commercial-use, glyphosate-based herbicides Nufarm would possess over 85% market share with a CR4 of 94%. Whilst the Commission considered that actual and potential imports did appear to provide a significant constraint upon the parties, the Commission was concerned that the uncertainty about a review or appeal of the Minister for Customs decision ('the Minister's decision) not to impose a dumping duty on glyphosate imported from the People's Republic of China, and the ability of Monsanto and/or Nufarm to pursue or threaten to pursue a new dumping action against imported glyphosate in the future, significantly undermined the credibility of the competitive constraint arising from independent imports of glyphosate. The Commission's market inquiries revealed that the anti-dumping application had already had a negative effect on import competition and that any review of the Minister's decision would be likely to cause further disruption to competition, especially given the length of the review process. Monsanto and Nufarm then offered section 87B Undertakings to alleviate any competition concerns that the Commission might have in relation to the proposed agreement. The Undertakings prevent Nufarm and Monsanto from making an application for a review of the Minister for Customs' decision in February 2002 to not impose a dumping duty on glyphosate imported from China. For the next three years Nufarm and Monsanto must also obtain an opinion from an independent adviser regarding the prospect of success of any proposed glyphosate anti-dumping application prior to lodging such an application.  The Undertakings also stipulate that the independent adviser must certify that the proposed anti-dumping application is made bona fide and not frivolously or vexatiously.  The independent adviser must be approved by the ACCC and consult with the ACCC in forming their opinion. Nufarm has additionally undertaken: *not to supply Roundup or other glyphosate products on the condition that its customers not acquire glyphosate from Nufarm's competitors; and *not to withhold supply of Roundup or other glyphosate products for the reason that its customers acquire glyphosate from Nufarm's competitors. Monsanto has additionally undertaken: *not to supply its Roundup Ready crop seeds, or allocate licences for their use, on condition that customers acquire Roundup or other glyphosate supplied by Monsanto or Nufarm; *not to supply its Roundup Ready crop seeds, or allocate licences for their use, on condition that customers not acquire glyphosate from a competitor of Monsanto or Nufarm; *not to withhold supply of its Roundup Ready crop seeds, or withhold allocation of licences for their use, on condition that customers did not acquire Roundup or other glyphosate supplied by Monsanto or Nufarm; and *not to withhold supply of its Roundup Ready crop seeds, or withhold allocation of licences for their use, on condition that customers acquired glyphosate from a competitor of Monsanto or Nufarm. Further, Monsanto and Nufarm have also undertaken to develop compliance programs with the aim of training relevant sales, marketing and management staff on adherence to their respective Undertakings.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1644",
+  "title": "Acquirer: Bayer Ag Germany; Target: Aventis CropScience Holding SA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-bayer-ag-germany-target-aventis-cropscience-holding-sa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15599",
+  "industries": [],
+  "date_completed": "29 May 2002",
+  "date_completed_iso": "2002-05-29T12:00:00Z",
+  "date_commenced": "1 March 2002",
+  "date_commenced_iso": "2002-03-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Bayer Ag Germany"
+  ],
+  "targets": [
+    "Aventis CropScience Holding SA"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission formed the view that the acquisition is unlikely to result in a substantial lessening of competition in the relevant market and therefore no further action should be taken.",
+    "Market definition": "The manufacture and supply of crop protection products as a whole throughout Australia.",
+    "Competition analysis": "The combined market share post-merger is estimated at 20 per cent, with an estimated CR4 of 64 per cent.  This extremely dynamic market enjoys intense competition, low barriers to entry and a high level of substitutability.  The majority of active chemical ingredients are imported into Australia.  As the principal sources of competitive constraint will not be adversely affected by the acquistion and the degree of market concentration falls below the Commission's thresholds, these factors were considered important in reaching the Commission's conclusion.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "0169"
+  }
+}

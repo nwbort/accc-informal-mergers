@@ -1,0 +1,64 @@
+{
+  "id": "0179",
+  "title": "APLNG's proposed acquisition of Origin's Ironbark gas project",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aplngs-proposed-acquisition-of-origins-ironbark-gas-project",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "22 May 2019",
+  "date_completed_iso": "2019-05-22T12:00:00Z",
+  "date_commenced": "1 March 2019",
+  "date_commenced_iso": "2019-03-01T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Australia Pacific LNG Pty Limited"
+  ],
+  "targets": [
+    "Origin Energy ATP 788P Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "1 Mar 2019",
+      "date_iso": "2019-03-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Mar 2019",
+      "date_iso": "2019-03-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Apr 2019",
+      "date_iso": "2019-04-04T12:00:00Z",
+      "event": "ACCC requested further information from APLNG. Former provisional date for announcement of findings (2 May) delayed."
+    },
+    {
+      "date": "6 May 2019",
+      "date_iso": "2019-05-06T12:00:00Z",
+      "event": "ACCC received further information from APLNG."
+    },
+    {
+      "date": "21 May 2019",
+      "date_iso": "2019-05-21T12:00:00Z",
+      "event": "Former provisional decision date of 6 June 2019 brought forward to 22 May 2019."
+    },
+    {
+      "date": "22 May 2019",
+      "date_iso": "2019-05-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Origin Energy ATP 788P Pty Ltd ( Ironbark ) by Australia Pacific LNG Pty Limited ( APLNG ). Ironbark is a wholly Origin-owned proposed coal seam gas project located in the Surat Basin.",
+    "Market definition": "The ACCC considered the potential effects of the proposed acquisition on competition in markets for: the wholesale supply of natural gas in eastern Australia, or the wholesale supply of natural gas in Queensland. The ACCC did not consider it necessary to reach a concluded view in relation to the geographic dimension of the relevant market because this would not have led to a different view about the likely competition effects of the acquisition.",
+    "Competition analysis": "The ACCC concluded that in the absence of the proposed acquisition, Origin would either sell Ironbark to someone else or develop Ironbark itself. The ACCC considered whether the proposed acquisition would result in APLNG preventing additional gas flowing into domestic gas markets (thereby tightening domestic supply) by: delaying the development of Ironbark, developing Ironbark and supplying some or all of gas from Ironbark into the domestic market but reducing supply of gas into the domestic market from other gas projects, or exporting the gas from Ironbark rather than supplying it domestically. as compared to an alternative purchaser or Origin retaining ownership of Ironbark. The ACCC considered Ironbark’s size and the potential impact that it could have on the domestic gas market. Ironbark is a small gas reserve, with an estimated 129 PJ of 2P reserves. Ironbark’s reserves make up approximately 0.34% of total eastern Australian reserves. Ironbark is also a relatively expensive field to develop, with an estimated $6.80/GJ production cost, and is not located near the majority of domestic eastern gas users. Ironbark is unlikely to be a source of low cost gas to domestic gas users. The ACCC considered that the Ironbark’s small size and characteristics meant that it was unlikely that the alternatives of the proposed acquisition would result in a substantial increase in supply for domestic gas users compared to the acquisition by APLNG. Also, the ACCC considered that in any alternative to the proposed acquisition by APLNG, there would be no guarantee that the gas would be supplied into the domestic gas market and not to APLNG or another LNG operator pursuant to a gas supply agreement."
+  }
+}

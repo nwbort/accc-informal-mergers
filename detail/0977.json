@@ -1,0 +1,44 @@
+{
+  "id": "0977",
+  "title": "Woolworths Limited - proposed acquisition of Liquor Barons Dianella",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-barons-dianella",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30697",
+  "industries": [
+    "Liquor licence"
+  ],
+  "date_completed": "22 January 2008",
+  "date_completed_iso": "2008-01-22T12:00:00Z",
+  "date_commenced": "8 January 2008",
+  "date_commenced_iso": "2008-01-08T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor Barons Dianella"
+  ],
+  "timeline": [
+    {
+      "date": "8 Jan 2008",
+      "date_iso": "2008-01-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Jan 2008",
+      "date_iso": "2008-01-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jan 2008",
+      "date_iso": "2008-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire a takeaway packaged liquor licence and business which currently trades as Liquor Barons Dianella and is located at Shop 4, Dianella Plaza Shopping Centre, Dianella, Western Australia.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is a 3-5km radius surrounding the target retail liquor business (Market 1); 2. the Western Australian market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 2).",
+    "Competition analysis": "On 22 January 2008, the ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. in relation to Market 1, the ACCC concluded that post-acquisition, Woolworths will be constrained by competition from Coles and a substantial number of independent bottle shops in the local area; and 2. in relation to Market 2, the ACCC considered that the relatively small increase in market share of Woolworths, as a result of the acquisition, was unlikely to significantly increase the buying power of Woolworths or substantially weaken any competing wholesaler by diminishing its buyer power."
+  }
+}

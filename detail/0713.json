@@ -1,0 +1,44 @@
+{
+  "id": "0713",
+  "title": "Oracle Corporation - proposed acquisition of Sun Microsystems Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/oracle-corporation-proposed-acquisition-of-sun-microsystems-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37667",
+  "industries": [
+    "Information Technology"
+  ],
+  "date_completed": "25 August 2009",
+  "date_completed_iso": "2009-08-25T12:00:00Z",
+  "date_commenced": "10 July 2009",
+  "date_commenced_iso": "2009-07-10T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Oracle Corporation"
+  ],
+  "targets": [
+    "Sun Microsystems Inc"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jul 2009",
+      "date_iso": "2009-07-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines, following receipt of a submission from the merger parties."
+    },
+    {
+      "date": "31 Jul 2009",
+      "date_iso": "2009-07-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Aug 2009",
+      "date_iso": "2009-08-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 19 April 2009 Oracle Corporation announced its intention to acquire Sun Microsystems Inc",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the supply of relational database management software (RDBMS). The ACCC also considered the competitive effects of the proposed acquisition in relation to a number of additional product areas, including programming languages, middleware, hardware, operating systems and IT services. The ACCC did not consider it necessary to define the exact scope of the markets in relation to these product areas, since the results of the competition analysis would remain unchanged regardless of the precise market definition adopted.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In reaching this view the ACCC noted that Oracle would not have the ability and incentive to impose unilateral price rises, decrease service levels or engage in anti-competitive bundling/tying conduct as it would be likely to be competitively constrained by: - existing large integrated competitors; - vigorous and effective independent competitors for specific components at each relevant layer of the technology stack; and - Oracle's incentive to maintain the availability of the merged firm's open source and open standards based products."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1072",
+  "title": "Andrew Wright Holdings Pty Ltd - potential acquisition of 50% Queensland Bulk Handling Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/andrew-wright-holdings-pty-ltd-potential-acquisition-of-50-queensland-bulk-handling-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28532",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "17 July 2007",
+  "date_completed_iso": "2007-07-17T12:00:00Z",
+  "date_commenced": "13 June 2007",
+  "date_commenced_iso": "2007-06-13T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Andrew Wright Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Queensland Bulk Handling Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Jun 2007",
+      "date_iso": "2007-06-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jun 2007",
+      "date_iso": "2007-06-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Jul 2007",
+      "date_iso": "2007-07-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Holyman Pty Limited, a subsidiary of Asciano Limited, offered its 50% share in Queensland Bulk Handling Pty Ltd (QBH) to Andrew Wright Holdings Pty Ltd, a subsidiary of New Hope Corporation, and the owner of the remaining 50% share of QBH. QBH holds the lease and licence to operate the coal loading facility at the Port of Brisbane and provides coal handling services to coal producers exporting coal from the Moreton and Surat basins. New Hope Corporation owns, among other assets, coal mines in the Moreton basin and engages QBH when exporting coal produced at those mines.",
+    "Market definition": "The ACCC considered whether the potential acquisition would impact any of the following markets: 1) the market for the supply of coal of an exportable quality (market 1); 2) the market for the acquisition, development and expansion of coal deposits in the Surat and Moreton basins (market 2); and 3) the market for the acquisition of freight rail services between the Surat and Moreton basins and the Port of Brisbane (market 3).",
+    "Competition analysis": "The ACCC concluded that the potential acquisition would be unlikely to result in a substantial lessening of competition in any of the markets considered. The ACCC considered it unlikely that the potential acquisition would give New Hope the ability and incentive to cause QBH to vertically foreclose New Hope's competitors in the supply of coal, acquisition, development and expansion of coal deposits in the Surat and Moreton basins, or the acquisition of freight rail services between the Surat and Moreton basins and the Port of Brisbane. In particular, the ACCC noted: a) in relation to market 1, the price of coal of an exportable quality is set by international supply and demand, and any change in the volume of coal supplied from the Port of Brisbane, or the number of coal producers exporting from the Port of Brisbane, will not affect the price paid for coal of an exportable quality by customers; b) in relation to market 2, the ACCC considered that competition is already restricted in the absence of the acquisition by a number of factors, most significantly by limited rail capacity from coal mine to port, and the potential acquisition will not affect those restrictions; c) in relation to market 3, the ACCC considered that the potential acquisition was unlikely to substantially lessen competition due to the existence of other non coal related entities which seek access to both above and below rail freight services and will compete with the merged entity for the acquisition of rail freight services. Further, the rail provider, Queensland Rail, is subject to an access regime with respect to below rail freight services under which prices are set."
+  }
+}

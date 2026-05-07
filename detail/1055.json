@@ -1,0 +1,111 @@
+{
+  "id": "1055",
+  "title": "Healthscope Limited, Ironbridge Capital and Archer Capital - proposed acquisition of Symbion Health Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/healthscope-limited-ironbridge-capital-and-archer-capital-proposed-acquisition-of-symbion-health-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28124",
+  "industries": [
+    "Health, pathology"
+  ],
+  "date_completed": "15 August 2007",
+  "date_completed_iso": "2007-08-15T12:00:00Z",
+  "date_commenced": "1 May 2007",
+  "date_commenced_iso": "2007-05-01T12:00:00Z",
+  "total_review_days": 69,
+  "acquirers": [
+    "Healthscope Limited",
+    "Ironbridge Capital",
+    "Archer Capital"
+  ],
+  "targets": [
+    "Symbion Health Limited"
+  ],
+  "timeline": [
+    {
+      "date": "1 May 2007",
+      "date_iso": "2007-05-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 May 2007",
+      "date_iso": "2007-05-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Jun 2007",
+      "date_iso": "2007-06-12T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further market inquiries."
+    },
+    {
+      "date": "20 Jun 2007",
+      "date_iso": "2007-06-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. New round of market inquiries commenced."
+    },
+    {
+      "date": "11 Jul 2007",
+      "date_iso": "2007-07-11T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "12 Jul 2007",
+      "date_iso": "2007-07-12T12:00:00Z",
+      "event": "ACCC requested further information from Healthscope, response expected by 20 July 2007. ACCC expects to announce findings within three weeks of Healthscope's response. ACCC timeline suspended."
+    },
+    {
+      "date": "23 Jul 2007",
+      "date_iso": "2007-07-23T12:00:00Z",
+      "event": "ACCC received further information from Healthscope. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 Jul 2007",
+      "date_iso": "2007-07-26T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by Healthscope. ACCC commenced market inquiries."
+    },
+    {
+      "date": "3 Aug 2007",
+      "date_iso": "2007-08-03T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking proferred by Healthscope on 26 July 2007."
+    },
+    {
+      "date": "15 Aug 2007",
+      "date_iso": "2007-08-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the ACCC accepting the 87B proferred by Healthscope."
+    },
+    {
+      "date": "12 Oct 2007",
+      "date_iso": "2007-10-12T12:00:00Z",
+      "event": "Healthscope submitted a revised 87B undertaking for ACCC consideration."
+    },
+    {
+      "date": "25 Oct 2007",
+      "date_iso": "2007-10-25T12:00:00Z",
+      "event": "ACCC consented to withdrawal by Healthscope of 87B undertaking accepted by the ACCC on 15 August 2007. ACCC accepted replacement 87B undertaking proffered by Healthscope. ACCC also accepted 87B undertaking proferred by Symbion."
+    },
+    {
+      "date": "27 Nov 2007",
+      "date_iso": "2007-11-27T12:00:00Z",
+      "event": "Healthscope announced it had decided not to proceed with the proposed acquisition."
+    },
+    {
+      "date": "31 Mar 2009",
+      "date_iso": "2009-03-31T12:00:00Z",
+      "event": "Healthscope sought consent to withdraw 87B undertaking."
+    },
+    {
+      "date": "4 May 2009",
+      "date_iso": "2009-05-04T12:00:00Z",
+      "event": "Symbion sought consent to withdraw 87B undertaking."
+    },
+    {
+      "date": "20 May 2009",
+      "date_iso": "2009-05-20T12:00:00Z",
+      "event": "ACCC consented to withdrawal by Healthscope and Symbion of 87B undertakings accepted on 25 October 2007."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A consortium comprising Healthscope Limited, Ironbridge Capital and Archer Capital proposed to acquire Symbion Health Limited.  Healthscope proposed to acquire Symbion Health's pathology, medical centres and diagnostic imaging businesses.  Ironbridge Capital and Archer Capital proposed to acquire Symbion Health's pharmacy distribution and consumer businesses.",
+    "Market definition": "Please see detailed Public Competition Assessment below.",
+    "Competition analysis": "Please see detailed Public Competition Assessment below."
+  }
+}

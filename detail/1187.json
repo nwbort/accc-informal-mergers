@@ -1,0 +1,53 @@
+{
+  "id": "1187",
+  "title": "Bendigo Radiology - acquisition of Benson Medical Imaging",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bendigo-radiology-acquisition-of-benson-medical-imaging",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25633",
+  "industries": [
+    "Radiology"
+  ],
+  "date_completed": "28 November 2006",
+  "date_completed_iso": "2006-11-28T12:00:00Z",
+  "date_commenced": "27 October 2006",
+  "date_commenced_iso": "2006-10-27T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Bendigo Radiology"
+  ],
+  "targets": [
+    "Benson Medical Imaging"
+  ],
+  "timeline": [
+    {
+      "date": "27 Oct 2006",
+      "date_iso": "2006-10-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Nov 2006",
+      "date_iso": "2006-11-03T12:00:00Z",
+      "event": "Market inquiries commenced."
+    },
+    {
+      "date": "16 Nov 2006",
+      "date_iso": "2006-11-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "22 Nov 2006",
+      "date_iso": "2006-11-22T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings delayed to allow additional time for interested parties to provide submissions."
+    },
+    {
+      "date": "28 Nov 2006",
+      "date_iso": "2006-11-28T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The market for the provision of diagnostic imaging services (excluding nuclear medicine and MRI) to patients in the Bendigo region (excluding in-patients at public hospitals).",
+    "Competition analysis": "The merged firm will supply all radiology services in the Bendigo region, either directly or indirectly.  However, barriers to entry caused by lack of radiologists do not appear to be particularly high in this region, as demonstrated by Benson Medical Imaging's successful entry in 2000 and Bendigo Radiology Group's success in hiring two radiologists in the last 18 months.  Further, it is likely that in the absence of the acquisition, Benson Medical Imaging would have ceased to exist and Bendigo Radiology Group would remain as the sole supplier of these service.  Therefore, it is unlikely that the merger will lead to a substantial lessening of competition."
+  }
+}

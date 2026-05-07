@@ -1,0 +1,44 @@
+{
+  "id": "0112",
+  "title": "Seven West Media Limited - Prime Media Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-west-media-limited-prime-media-group-limited-0",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "9 December 2021",
+  "date_completed_iso": "2021-12-09T12:00:00Z",
+  "date_commenced": "8 November 2021",
+  "date_commenced_iso": "2021-11-08T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Seven West Media Limited"
+  ],
+  "targets": [
+    "Prime Media Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Nov 2021",
+      "date_iso": "2021-11-08T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Nov 2021",
+      "date_iso": "2021-11-22T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "9 Dec 2021",
+      "date_iso": "2021-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Seven West Media Limited is proposing to acquire 100% of Prime Media's business and related assets. Seven West Media is a national media operator with assets including the Seven Network, print/online media platforms in Western Australia. Prime is an Australian television network with commercial free-to-air television broadcasting licences covering a number of Australian regional areas.",
+    "Market definition": "The ACCC focused its consideration on the likely effects of the proposed acquisition on competition in: the supply of advertising opportunities the supply of media content, including local and regional news and content. The ACCC also considered the likely effects of the proposed acquisition on the acquisition of media content. The ACCC considered the potential effects on a national basis but focused its review on: regional Western Australia as a whole (excluding Perth), where Prime broadcasts television and SWM publishes state-wide newspaper mastheads; or alternatively narrower regional areas in Western Australia, where Prime broadcasts television and SWM publishes various regional newspaper mastheads. For the purposes of this assessment it was not necessary to reach a concluded position on the precise scope of these markets, and the ACCC did not reach a concluded view on whether different advertising and content formats (e.g. television, newspapers, radio, online, etc.) are in the same market or separate markets from the perspective of consumers or advertisers. The ACCC focused on the degree of constraint these different formats exercise on each other.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any market. Consistent with the ACCC’s examination in 2019, the ACCC concluded that SWM and Prime are not particularly close competitors in the supply of advertising opportunities or the supply of media content, and that other competitors would constrain the merged entity. The ACCC considered that advertisers advertising in regional WA will continue to have a number of potential suppliers of advertising opportunities. In relation to the supply of media content, the ACCC considered that SWM and Prime’s broadcasting is already aligned to a large extent due to an existing content supply agreement, and that there is limited competition between the two. Further details of the ACCC’s competition analysis in the previous 2019 review can be found here: Seven West Media Limited – Prime Media Group Limited"
+  }
+}

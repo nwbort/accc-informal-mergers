@@ -1,0 +1,845 @@
+1 
+ 
+ 
+Statement of Issues 
+5 December 2013 
+BlueScope - proposed acquisition of Fielders 
+Introduction 
+1. 
+Outlined below is the Statement of Issues released by the Australian Competition and 
+Consumer Commission (ACCC) on the proposed acquisition of certain assets of the 
+Fielders roll forming manufacturing business from Hills Holdings Limited and other 
+associated entities (Fielders) by BlueScope Steel Ltd (BlueScope) (the proposed 
+acquisition). 
+2. 
+A Statement of Issues published by the ACCC is not a final decision about a proposed 
+acquisition, but provides the ACCC’s preliminary views, drawing attention to particular 
+issues of varying degrees of competition concern, as well as identifying the lines of 
+further inquiry that the ACCC wishes to undertake. 
+3. 
+In line with the ACCC’s Merger Review Process Guidelines (at 
+www.accc.gov.au/processguidelines) the ACCC has established a secondary timeline 
+for further consideration of the issues. The ACCC anticipates completing further 
+market inquiries by 20 December 2013 and anticipates making a final decision on  
+30 January 2014. However, the anticipated timeline can change in line with the 
+Merger Review Process Guidelines. To keep abreast of possible changes in relation to 
+timing and to find relevant documents, market participants should visit the Mergers 
+Register on the ACCC's website at www.accc.gov.au/mergersregister. 
+4. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide the 
+merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+The parties 
+BlueScope 
+5. 
+BlueScope is a large vertically integrated steel manufacturer and distributor listed on 
+the Australian Securities Exchange. 
+6. 
+BlueScope is the only manufacturer in Australia of steel slab through its Port Kembla 
+steelworks. The steelworks has a capacity of 2.6 million tonnes per annum. Through 
+its subsidiary Coated and Industrial Products Australia (CIPA), BlueScope processes 
+steel slab into a range of steel products classified as ‘flat steel’ products. Further 
+information on the flat steel products supply chain is provided below. 
+
+
+2 
+ 
+7. 
+In addition to CIPA, BlueScope has a number of businesses at various levels of the flat 
+steel supply chain, including in steel products distribution and businesses carrying out 
+additional manufacturing functions. 
+Lysaght 
+8. 
+Relevant to the proposed acquisition is the BlueScope subsidiary Lysaght. Lysaght 
+manufactures roll formed products. Further information on roll forming and roll formed 
+products is provided below. Lysaght has approximately 30 manufacturing and sales 
+sites across Australia. 
+Fielders 
+9. 
+Fielders is a subsidiary of Hills Holding Limited (Hills). Fielders manufactures roll 
+formed products. 
+10. 
+Fielders’ main roll forming manufacturing operations are centred at Mile End in South 
+Australia. It also has manufacturing facilities at Wangara in Western Australia, 
+Campbellfield in Victoria and Minto in New South Wales. Fielders also has sales sites 
+located throughout South Australia, Western Australia, and a branch in Darwin. 
+11. 
+Fielders also operates downstream shed building distribution and retail businesses 
+which utilise roll formed products. These are its Endurance Structures and Fielders 
+Centenary businesses. 
+Industry background 
+Flat steel products  
+12. 
+The steel supply chain in Australia is complex with a number of functional levels, 
+numerous types of steel products, multiple inputs into various manufacturing 
+processes and a global dynamic through imports and exports. 
+13. 
+Steel producers use inputs such as iron ore, coal and steel scrap to form raw steel 
+either through using a basic oxygen furnace, or an electric arc furnace. Raw steel is 
+then passed through a casting machine which moulds and solidifies the steel into 
+semi-finished steel products known as ‘slab’, ‘billets’ or ‘blooms’. Steel slab, billets and 
+blooms then undergo further processing to produce a range of ‘flat’ or ‘long’ steel 
+products. It is flat steel products which are relevant to the proposed acquisition. 
+14. 
+To produce flat products steel slab is reheated and passed through a rolling mill to 
+produce Hot Rolled Coil (HRC) or a form of steel plate. HRC may be subject to further 
+processing into either coil plate or Cold Rolled Coil (CRC). In particular, CRC is 
+produced by passing HRC through rolling mills at low temperature to reduce thickness. 
+This process increases the strength of the steel and enables it to be rolled into coil for 
+transport and storage. 
+15. 
+Relevant to the proposed acquisition is the further processing of CRC into either 
+metallic coated coil or painted coil. Metallic coated coil is produced by uncoiling the 
+CRC and applying a metallic coating. The most common coatings are zinc 
+(galvanised) and aluminium zinc. Painted coil is produced by painting either CRC or 
+metallic coated coil. 
+
+
+3 
+ 
+16. 
+As noted above, BlueScope CIPA is the only Australian manufacturer of flat steel 
+products. The other source of flat steel products is via imports, either directly from an 
+overseas steel mill or through an Australian based import trader. 
+17. 
+Figure 1 provides a broad representation of the place of roll forming in the flat steel 
+products supply chain, which is relevant to the proposed acquisition. 
+Figure 1: Flat steel products supply chain 
+ 
+Roll forming 
+18. 
+Roll forming is the manufacturing process where steel coil is fed through contoured 
+roller die machinery to form ‘roll formed’ steel in a particular profile which can then be 
+cut to a particular length. 
+19. 
+The steel inputs used in the roll forming manufacturing process are galvanised coil, 
+aluminium zinc coated coil, and painted coil. Roll formed products include roofing, 
+walling, guttering, fencing and steel formwork. In most cases for each product category 
+specific machinery would be required to produce the relevant products. 
+20. 
+The type of roll formed products supplied, and the end uses they are ultimately 
+suitable for, will depend on: 
+o the gauge (thickness) and width of the steel being roll formed; 
+o the strength grade of the steel; 
+o the complexity of the cross-section required (the greater the complexity, the 
+more rollers required); and 
+o the speed at which the steel is fed through the roll former (the lighter the 
+gauge and the less complex the cross-section, the faster the speed at which 
+the steel can be fed through the machine). 
+
+
+4 
+ 
+21. 
+Roll formed products are used in all types of building structures (residential, 
+commercial and industrial). Customers of roll formers include builders, steel 
+fabricators, form and specialist roof installers, shed manufacturers, fencing 
+contractors, distributors and other resellers such as hardware retailers or specialist 
+shed retailers. Customers often source roll formed products from multiple suppliers 
+with purchases typically being made on a project basis rather than under long term or 
+exclusive supply arrangements. 
+22. 
+Manufacturers of roll formed products are commonly referred to as ‘roll formers’. There 
+are five roll formers that operate nationally: Lysaght, Fielders, Stramit, Stratco and 
+Metroll.  In addition, there are roll formers operating in certain Australian states, such 
+as Revolution Roofing (SA and WA) and Combined Metal Industries (WA). 
+23. 
+Roll formers in Australia source steel coil inputs predominantly from BlueScope CIPA 
+and in some cases through imports. Imports are sourced either via locally based 
+traders or directly from overseas steel mills. 
+24. 
+Figure 2 provides a broad representation of the roll formed products supply chain and 
+the proposed acquisition’s place in the supply chain. 
+Figure 2: Roll formed products supply chain and proposed acquisition 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Other industry participants 
+25. 
+The ACCC’s market inquiries have generally identified five major national roll formers 
+which offer a comparable range of products, and have manufacturing facilities in 
+all/almost all states. In addition to Fielders and Lysaght, these are Stramit, Metroll and 
+Stratco. 
+
+
+5 
+ 
+Stramit 
+26. 
+Stramit is a subsidiary of Fletcher Building Limited. It manufactures roll formed 
+products for a range of applications, including steel formwork. Stramit delivers these 
+products, along with complementary products and services, through a national network 
+of manufacturing and distribution centres. 
+Metroll 
+27. 
+Metroll produces roll formed products for most applications, with manufacturing plants 
+in all states. Metroll does not supply steel formwork. 
+Stratco 
+28. 
+Stratco is a manufacturer of a large range of roll formed products, with plants in all 
+states in Australia (except Tasmania). Stratco also has its own downstream retail 
+outlets for the supply of roll formed products such as sheds. Stratco does not supply 
+steel formwork. 
+Other roll formers 
+29. 
+There are numerous other smaller roll formers, which focus on the supply of a smaller 
+range of products and which do not supply nationally. These include roll formers such 
+as Revolution Roofing, Apex, Ace Gutters and Combined Metal Industries. 
+30. 
+Additionally, there are three roll formers which supply only steel formwork products. 
+These include steel formwork specialists Formdeck Constructions and Formdeck 
+Australia (both based in Victoria), and Big River Timber (which is based in NSW and is 
+primarily a supplier of timber products). 
+The transaction 
+31. 
+On 19 August 2013, BlueScope publicly announced agreements to acquire the 
+Fielders and Orrcon steel businesses from Hills. The proposed acquisition is 
+conditional on ACCC clearance. The ACCC commenced a public review of the 
+proposed acquisition on 4 September 2013. 
+Market inquiries 
+32. 
+On 4 September 2013, the ACCC commenced market inquiries regarding the 
+proposed acquisition. A range of interested parties provided responses, including 
+distributors of steel coil, rival roll formers, customers of roll formed products and 
+industry associations. 
+Future with and without the acquisition  
+33. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect or be 
+likely to have the effect of substantially lessening competition in a market. In assessing 
+a proposed acquisition pursuant to section 50 of the Act, the ACCC considers the 
+effects of the acquisition by comparing the likely future competitive environment post-
+acquisition if the acquisition proceeds (the “with” position) to the likely future 
+competitive environment if the acquisition does not proceed (the “without” position) to 
+determine whether the proposed acquisition is likely to substantially lessen competition 
+in any relevant market. 
+34. 
+For the purposes of this Statement of Issues, the ACCC will at this stage assess the 
+proposed acquisition against the status quo. Fielders has recently been the subject of 
+
+
+6 
+ 
+a sale process. In the event that BlueScope does not acquire Fielders, the current 
+owners may retain the business and continue with their strategic plans or the business 
+may be sold to another party. 
+Areas of overlap 
+35. 
+Lysaght and Fielders overlap is in the manufacture and supply of roll formed products, 
+including steel formwork. As outlined below, this overlap is most relevant in South 
+Australia and Western Australia, where both Lysaght and Fielders have a strong 
+presence.  
+Market definition  
+Supply of steel coil inputs 
+36. 
+The supply of steel coil inputs is relevant in considering the proposed acquisition as 
+BlueScope CIPA is the predominant supplier of these inputs to roll formers, including, 
+Lysaght and Fielders. 
+Product dimension 
+37. 
+The key inputs into the manufacture of roll formed products are: 
+o painted steel coil (painted coil); 
+o steel coil coated with a zinc/aluminium alloy or zinc/aluminium/magnesium 
+alloy (aluminium zinc coil); and 
+o galvanised steel coil (galvanised coil); 
+(collectively steel coil inputs) 
+38. 
+In most cases the potential for demand side substitution by the roll formers between 
+the inputs is limited due to end customer requirements for specific roll formed 
+products. Further, roll formers often require specific grades of each input based on the 
+input’s chemical properties and other specific characteristics (e.g. dimensions). 
+39. 
+Despite these demand side characteristics, the ACCC did not consider it necessary to 
+define narrower markets than the three main inputs utilised by roll formers. This is due 
+to supply side substitution. Suppliers of steel coil inputs, such as BlueScope CIPA and 
+overseas steel mills, supply a large range of steel coil inputs in the specific grades and 
+dimensions required by Australian roll formers 
+Painted coil 
+40. 
+A focus of market inquiries with industry participants was the supply of BlueScope 
+CIPA’s COLORBOND product. COLORBOND is a painted coil input developed by 
+BlueScope, which has significant brand recognition and it is considered important for 
+roll formers to offer COLORBOND roll formed products.   
+41. 
+The ACCC does not consider COLORBOND represents a separate product market to 
+painted coil. Other painted coil products have similar chemical and performance 
+characteristics. However, it appears that COLORBOND grades used in residential 
+products have particular strong brand recognition.  
+
+
+7 
+ 
+Geographic dimension 
+42. 
+The ACCC considers the geographic scope of the steel coil input markets are national. 
+BlueScope CIPA and other suppliers, such as import traders, supply roll formers 
+across Australia. 
+Supply of roll formed products 
+Product dimension 
+43. 
+Key types or categories of roll formed products include: 
+o roofing and walling, including steel sheeting and cladding; 
+o rainwater products, such as downpipes and gutters; 
+o purlins and structural sections, 
+o fencing; and 
+o structural decking/steel formwork (steel formwork). 
+44. 
+The ACCC considers that, from a customer’s perspective, there is little or no scope to 
+substitute a product having one function with another (such as roofing for guttering). 
+Furthermore, with the exception of sales of roofing, walling and rainwater products, 
+only a small proportion of customers purchase more than one product category. 
+Customers include roof fixers, form-workers and fence installers that specialise in 
+installing particular products, and retailers that specialise in selling particular products 
+such as sheds. Only distributors/resellers regularly purchase more than one category 
+of product. 
+45. 
+However, in terms of supply, the ACCC considers that the manufacturing process and 
+expertise is common to almost all products. The merger parties and other main 
+suppliers each produce and supply a wide range of products. Therefore, distinguishing 
+separate markets by product category is unlikely to meaningfully influence the ACCC’s 
+competition assessment. A possible exception in these respects is supply of steel 
+formwork, as discussed below. 
+Substitution with other materials 
+46. 
+The ACCC is also considering the impact of competition from non-steel products on 
+the supply of roll formed products, and the extent to which these are substitutable with 
+the roll formed products supplied by the merged firm. 
+47. 
+For example, roofing and walling is the largest product segment in terms of customer 
+demand for roll formed products. In the ACCC’s market inquiries to date, some market 
+participants have suggested that, in residential roofing, roof tiles are a substitute for 
+steel roofing and that they place some constraint on the price of steel roofing. 
+48. 
+The ACCC is seeking further information from interested parties on any effects that 
+inter-material competition has on the pricing of roll formed products, including roofing 
+and steel formwork. 
+
+
+8 
+ 
+Geographic dimension  
+49. 
+The ACCC understands that roll formers generally operate production facilities close to 
+their customers to meet local demand and that interstate supply of roll formed products 
+is generally limited due to freight costs and short lead times, among other factors. The 
+ACCC’s preliminary view is therefore that the markets for the manufacture and supply 
+of roll formed products are state-based. 
+Supply of steel formwork 
+Product dimension 
+50. 
+The ACCC is also considering the effects of the proposed acquisition specifically on 
+the manufacture and supply of steel formwork. Steel formwork is used in the 
+construction of suspended concrete slabs in buildings - generally multi-storey 
+commercial buildings. Steel formwork is used to create a deck upon which the 
+concrete is poured. 
+51. 
+The ACCC understands that supply side substitution between other roll formed 
+products and steel formwork may be limited due to the investment in specific 
+equipment and timeframes associated with product development as well as technical 
+expertise required to produce steel formwork. The ACCC’s preliminary view is that the 
+manufacture and supply of steel formwork should be considered a distinct product 
+market for the purpose of assessing the proposed acquisition. 
+Substitution with timber 
+52. 
+The merger parties submit that customers, generally construction companies, regularly 
+switch between steel formwork and timber formwork. The ACCC understands that 
+steel formwork has advantages in terms of reduced construction time, fewer support 
+structures (e.g. props) and is less labour intensive. However, it does have a higher 
+upfront cost and is not reusable. Timber formwork on the other hand can be reused 
+although it is more labour intensive and can add to construction time. 
+53. 
+The substitutability between steel and timber formwork will be explored further by the 
+ACCC in market inquiries on this Statement of Issues.  
+Geographic dimension  
+54. 
+The ACCC is considering the feasibility of suppliers transporting steel formwork 
+between states and at this stage is undecided whether the market for the manufacture 
+and supply of steel formwork is national or state-based in scope. Consequently, the 
+ACCC has considered the proposed acquisition’s potential competition effects in 
+respect of steel formwork on the basis of both national and state based markets.  
+Preliminary conclusions - relevant markets 
+55. 
+For the reasons described above, the ACCC at this stage considers that the relevant 
+markets in which to assess the proposed acquisition are: 
+o national markets for the supply of: 
+o painted coil; 
+o aluminium zinc coil;  
+o galvanised coil;  
+
+
+9 
+ 
+o either a national market or state-based markets for the manufacture and 
+supply of steel formwork;  
+o state-based markets for the manufacture and supply of roll formed products 
+(other than steel formwork) in each of: 
+o South Australia/Northern Territory; 
+o Western Australia; 
+o New South Wales/Australian Capital Territory; 
+o Victoria/Tasmania; and 
+o Queensland.   
+The ACCC invites comments from market participants on its proposed definition of the 
+relevant markets. 
+In particular, market participants may wish to comment on: 
+a. 
+whether manufacturers of roll formed products are likely to be able to quickly and 
+profitably switch their production capacity or make additional investments to supply 
+steel formwork in response to a small but significant increase in the price of steel 
+formwork; 
+b. 
+any differences in the supply of steel formwork (for example, longer lead times, limited 
+local production and/or greater quantities sourced for specific projects) compared to 
+other roll formed products, which makes interstate supply more viable; and 
+c. 
+the extent to which customers consider timber formwork to be an alternative for steel 
+formwork and the issues (e.g. cost, timeframe) that customers take into account when 
+selecting between steel and timber.  
+Statement of issues 
+56. 
+For the purposes of a Statement of Issues, the ACCC may identify three categories of 
+issues: ‘issues of concern’, ‘issues that may raise concerns’ and ‘issues unlikely to 
+raise competition concerns’. In this Statement of Issues, the issues have been 
+categorised as 'issues that may raise concerns' and ‘issues unlikely to raise 
+competition concerns’. 
+Issues that may raise concerns 
+57. 
+The ACCC considers that the vertical and horizontal merger issues described below 
+are important to the ACCC’s assessment of the likely competition effects arising from 
+the proposed acquisition. The following section describes the ACCC’s potential 
+concerns and provides details of specific further information that is being sought from 
+interested parties. 
+Foreclosure of rival roll formers’ access to steel coil inputs  
+58. 
+BlueScope CIPA is the only Australian manufacturer of galvanised coil and aluminium 
+zinc coil, and is the primary Australian manufacturer of painted steel coil (there are 
+other smaller domestic manufacturers of painted steel coil with a very limited market 
+
+
+10 
+ 
+presence). BlueScope is already vertically integrated into the downstream supply of 
+roll formed products, via its Lysaght business.  
+59. 
+As a result of the proposed acquisition and the merged firm’s greater roll forming 
+capacity and market share(s), BlueScope may have an increased ability and incentive 
+to foreclose rival roll formers’ access to steel coil inputs, or to supply them on 
+discriminatory terms (in terms of price, service or other terms of supply). Relevant 
+factors the ACCC is considering in relation to this increased vertical integration are: 
+o the merged firm’s ability to foreclose supply of steel coil inputs to rival roll 
+formers and, in this respect, whether BlueScope currently has market power 
+in the supply of steel coil inputs; 
+o the merged firm’s incentive to foreclose supply of steel coil inputs to rival roll 
+formers and, in this respect, the potential gains and losses to the merged firm 
+at each level of the supply chain from foreclosure of supply to rivals; and 
+o the likely competitive effects of any foreclosure of steel coil inputs to rival roll 
+formers, including the potential for any increase in barriers to entry.  
+60. 
+The ACCC’s preliminary view is that the increase in vertical integration arising from 
+BlueScope’s proposed acquisition of Fielders may raise competition concerns. The 
+ACCC considers that BlueScope likely already has market power in the supply of 
+painted coil that it may be able to leverage off in foreclosing or partially foreclosing rival 
+roll formers’ access to steel coil inputs. However, the proposed acquisition may 
+increase their incentive to engage in such a foreclosure strategy. This strategy may 
+increase rival roll formers’ costs and in doing so impact their ability to compete against 
+the merged firm.   
+The merged firm’s ability to foreclose supply of inputs to rival roll formers 
+61. 
+To determine whether the merged firm would have the ability to significantly foreclose 
+rival roll formers’ access to steel coil inputs, the ACCC is considering whether 
+BlueScope would have market power in any upstream market for the supply of 
+relevant steel coil inputs. In doing so the ACCC is examining the extent to which roll 
+formers could source alternative inputs to those manufactured by BlueScope CIPA  
+from overseas steel mills (or through locally based import traders) or through smaller 
+domestic suppliers. 
+62. 
+The ACCC recognises that a significant role is played by import competition in the 
+overall supply of steel products in Australia. However, information provided to the 
+ACCC through market inquiries to date has indicated that the competitive constraint on 
+domestic supply from imports differs markedly between specific steel coil inputs and 
+their end-use application. 
+63. 
+In particular, there appears likely to be the potential for roll formers to substitute 
+between BlueScope CIPA supply and imports of galvanised coil and, to a lesser 
+degree, aluminium zinc coil. The ACCC has received material demonstrating that 
+BlueScope changes its pricing of these products in response to import prices. The 
+ACCC considers that actual and potential import competition may represent a 
+competitive constraint on the merged firm’s supply of these inputs to rival roll formers.  
+64. 
+However, the ACCC’s market inquiries identified that market participants generally 
+consider that alternative painted coil products, including imports, are not a strong 
+substitute for BlueScope’s COLORBOND painted coil products. This is particularly the 
+case for COLORBOND grades used in residential applications. While alternative 
+
+
+11 
+ 
+painted coil products, including imported painted coil, may have similar chemical and 
+quality characteristics, end-use customers of roll formed products, such as builders, 
+often do not accept non-COLORBOND products for residential applications. 
+Furthermore, architects and/or engineers often specify the use of COLORBOND in 
+construction plans. As a consequence, roll formers consider that COLORBOND is a 
+‘must have’ product.  
+65. 
+The ACCC’s preliminary view is that BlueScope has market power in the supply of 
+painted coil products due to its COLORBOND grades of painted coil. COLORBOND is 
+considered by roll formers to be a critical input to their businesses, particularly for the 
+supply of residential roofing, which is a very large market segment. It does not appear 
+that pricing of imported painted coil products influences BlueScope’s pricing of the key 
+COLORBOND grade used is residential applications.  
+66. 
+The ACCC is aware of extensive rebate arrangements in place between BlueScope 
+CIPA and roll formers. The ACCC considers that these arrangements, which require 
+roll formers to source a high overall threshold of steel coil inputs from BlueScope to 
+obtain the rebates, limit the ability of rival roll formers to obtain painted coil and other 
+steel coil inputs from other sources, particularly via imports. As discussed above, 
+COLORBOND is considered a ‘must have’ by many roll formers. The linking of 
+COLORBOND supply to the acquisition of other steel coil inputs as well as the high 
+purchase thresholds to qualify for specific rebates means that were roll formers to 
+attempt to switch to alternatives sources of steel coil inputs they would likely forego 
+significant financial incentives. 
+67. 
+The ACCC understands that the rebates provided by BlueScope to roll formers are 
+crucial to the ongoing viability of their businesses in an industry of low margins and 
+profitability. The ACCC considers that these rebate arrangements on COLORBOND 
+and other BlueScope products are likely to limit the opportunity for rival roll formers to 
+increase their use of imported product in response to, for example, any price 
+discrimination by the merged firm.  
+68. 
+The ACCC notes that this market power and potential ability to foreclose rival roll 
+formers exists now. The focus of the ACCC’s assessment is on whether the proposed 
+acquisition will alter the incentive on BlueScope to exercise this market power.  
+Merged firm’s incentive to foreclose supply of inputs to rival roll formers 
+69. 
+As noted previously, BlueScope is already vertically integrated through Lysaght. No 
+information provided to the ACCC indicates that BlueScope currently discriminates 
+against competitors of Lysaght by offering terms that are materially less favourable 
+than those on which it supplies Lysaght, despite the fact that Lysaght has excess 
+capacity.  
+70. 
+Nonetheless, some market participants have raised concerns that aggregation of 
+Lysaght and Fielders would provide BlueScope with an increased incentive to exercise 
+its market power in the supply of painted coil to significantly or partially foreclose rival 
+roll formers access to steel coil inputs.  
+71. 
+Whether BlueScope would have an incentive to engage in such a foreclosure strategy 
+would depend on whether the higher profits it would generate from its downstream roll 
+forming business exceed the profits it would lose from making fewer sales of painted 
+coil. BlueScope’s higher market share of roll formed product markets after the 
+acquisition may increase its incentive to foreclose its rivals since it would have more 
+sales over which it would enjoy the higher roll forming margins. In this respect, the 
+
+
+12 
+ 
+ACCC estimates that in significant areas of overlap, Western Australia and South 
+Australia, Lysaght would increase its market share by 20 – 25% and 25 – 30% 
+respectively.  
+72. 
+The ACCC understands that BlueScope has a limited ability to reduce its production of 
+flat steel products at its Port Kembla steelworks, without increasing costs. BlueScope 
+provided detailed information supporting its submission that the merged firm would 
+continue to have a strong incentive not to pursue a foreclosure/discrimination strategy 
+due to the significantly higher margins it earns on domestic supply of steel coil 
+products over the next best alternative for its Port Kembla steel output – exports of 
+steel slab.  
+73. 
+The ACCC considers that the incentive for BlueScope to supply steel coil inputs at 
+non-discriminatory prices to downstream rivals is strongly linked to the ability of rival 
+roll formers to bypass BlueScope CIPA through obtaining inputs from alternative 
+sources. The incentive will depend on the extent that alternatives, particularly imports, 
+represent a credible and strong substitute to its supply of steel coil inputs and 
+BlueScope would forego sales in the event it pursued a foreclosure strategy.  
+74. 
+In assessing BlueScope’s incentives, the ACCC is also examining the extent to which 
+BlueScope adopts a national pricing strategy for the supply of steel coil inputs to roll 
+formers. The ACCC understands that BlueScope may adopt a national pricing strategy 
+for steel coil inputs and as a consequence to exploit any increased incentive to 
+foreclose in the states where Lysaght’s market share has increased significantly – 
+South Australia and Western Australia – BlueScope may have to change its pricing 
+strategy.  
+75. 
+The incentive will also depend on the indirect loss of sales by BlueScope through any 
+reduction in sales by its roll former customers. This will depend principally on the 
+extent to which customers of roll formed products are likely to switch to using other 
+products in response to an increase in the relative price of painted steel products (e.g. 
+tiled roofs in place of steel). 
+Downstream competitive effects of foreclosure of inputs 
+76. 
+Some interested parties have raised concerns with the ACCC that BlueScope’s 
+increased vertical integration has the potential to not only affect the competitiveness of 
+individual roll formers but also raise barriers to entry.  
+77. 
+The ACCC notes the low industry wide profitability of roll formers and considers that 
+any foreclosure strategy is likely to have a significant impact on the ability of rival roll 
+formers to constrain the merged firm. The ACCC is examining the potential impact of 
+any foreclosure strategy on barriers to entry.  
+Preliminary conclusion - foreclosure of rival roll formers’ access to steel coil inputs  
+78. 
+The ACCC at this stage considers that BlueScope has market power in the supply of 
+painted coil inputs. The ACCC also considers that BlueScope may have an increased 
+incentive through the proposed acquisition to foreclose rival roll formers’ access to 
+steel coil inputs, or to supply them on discriminatory terms (in terms of price, service or 
+other terms of supply).   
+79. 
+However, the ACCC notes that BlueScope is already vertically integrated and it 
+appears that it does not discriminate against competitors of Lysaght. The ACCC 
+therefore invites objective information from interested parties identifying how the 
+
+
+13 
+ 
+proposed acquisition would materially change BlueScope’s incentive to supply steel 
+coil inputs to rival roll formers. 
+In considering the vertical effects of the proposed acquisition, the ACCC will focus its further 
+inquiries on the extent to which BlueScope’s incentive to foreclose rival roll formers 
+increases as a result of the proposed acquisition. 
+The ACCC invites further submissions from interested parties on the vertical effects of the 
+proposed acquisition. In this respect, market participants may wish to comment on: 
+a. 
+the ability of roll formers to use alternative suppliers of steel coil inputs, particularly in 
+respect of painted coil, and the loss of rebates and sales roll formers would incur 
+through not meeting rebate targets or not offering COLORBOND products; and 
+b. 
+the degree to which higher prices or restricted supply of COLORBOND would lead to 
+roll formers reducing their COLORBOND purchases and obtaining painted coil from 
+other sources. 
+c. 
+the likely effect of an increase in the price of painted coil on roll formers’ prices and 
+sales volumes (including sales that might be at risk from substitution with other 
+materials). 
+Supply of steel formwork 
+80. 
+The ACCC considers that the proposed acquisition may result in a substantial 
+lessening of competition in the supply of steel formwork either on a national or state 
+market basis. This Statement of Issues seeks further information on this issue.  
+Market concentration and closeness of competition 
+81. 
+The merger parties are currently the largest suppliers of steel formwork. Based on 
+market inquiries, the ACCC estimates that the merged firm may account for 
+approximately 50 – 55% of the supply of steel formwork in Australia. In certain states 
+this market share is likely to be substantially higher, particularly in New South Wales, 
+Queensland, Western Australia and South Australia.   
+82. 
+Information provided by market participants and the merger parties indicates that 
+Lysaght and Fielders are each other’s closest competitors in the supply of steel 
+formwork. Lysaght’s Bondek and Fielders’ KingFlor product ranges enjoy strong 
+customer recognition. Both companies produce a wide range of profiles to meet 
+particular customer/construction specifications and both appear to have developed 
+proprietary technology designed to offer customer benefits in terms of construction 
+speed or other factors. 
+Availability of substitutes 
+83. 
+There are fewer suppliers of steel formwork compared to other roll formed products. 
+Only three of the larger roll formers in Australia currently manufacture steel formwork -  
+the merger parties and Stramit. The proposed acquisition would reduce three main 
+suppliers of steel formwork to two. 
+84. 
+Other manufacturers and suppliers of steel formwork, which are based in certain 
+states, include Formdeck Australia, Formdeck Construction and Big River Timber. The 
+ACCC understands that their manufacturing scale is relatively small, and that the 
+geographic areas of their supply are currently relatively limited. Although, the ACCC 
+
+
+14 
+ 
+considers that Formdeck Construction may be a strong alternative supplier of steel 
+formwork in Victoria.  
+85. 
+The ACCC is therefore seeking further information about the ability and incentive for 
+existing alternative suppliers to offer additional steel formwork products/profiles, and 
+whether their manufacturing volumes and/or geographic areas of supply would be 
+substitutable with the merged firm.  
+Likelihood of new entry 
+86. 
+The ACCC is considering whether the merged firm would face a credible threat of new 
+entry to the supply of steel formwork on a scale and within a timeframe that would 
+provide an effective competitive constraint on its pricing and/or service levels.  
+87. 
+The most likely source of new entry to the manufacture and supply of steel formwork in 
+Australia would be an existing roll former, such as Metroll or Stratco. Market feedback 
+to date has been mixed on the ability of roll formers not currently supplying steel 
+formwork to enter. In particular, while the manufacturing equipment for steel formwork 
+generally represents a higher capital cost than other roll formed products it is unclear 
+whether any expertise or specific product development is required prior to entry.  
+88. 
+The primary input into steel formwork is galvanised coil of which the largest supplier is 
+BlueScope CIPA. As a consequence, the ACCC is also considering the likelihood of 
+new entry in the context of BlueScope’s position as the primary source of galvanised 
+coil and also the potential for the proposed acquisition to result in a significant market 
+concentration on both a national and state basis.  
+Constraint provided by timber formwork 
+89. 
+As noted in the market definition section, the ACCC is considering whether timber 
+formwork is a substitute for steel formwork. The ACCC understands that in the overall 
+use of formwork timber is used approximately 75% of the time. Were timber to be 
+considered a strong substitute to steel formwork, then the merged firm would likely be 
+constrained, noting the numerous suppliers of timber formwork, particularly in the form 
+of in-house supply at construction companies.  
+90. 
+However, the ability of steel formwork customers to constrain the merged firm by 
+substituting with timber is unclear, particularly when switching between materials may 
+be limited by engineering and architectural specifications. 
+Preliminary conclusion - supply of steel formwork in Australia 
+91. 
+Irrespective of the whether the appropriate market(s) is national or state based, the 
+ACCC considers that the proposed acquisition may result in a substantial lessening of 
+competition in the supply of steel formwork with the merged firm having the unilateral 
+ability to increase prices and/or decrease service.  
+92. 
+The ACCC is seeking further information addressing, in particular, the substitutability 
+of products supplied by other manufacturers, their ability and incentive to expand 
+supply in response to an attempted price increase by the merged firm, and the 
+potential for other roll formers to commence supply of steel formwork. As addressed 
+earlier in the context of market definition, the ACCC will also consider the role of inter-
+material competition, specifically the substitutability of timber formwork. 
+
+
+15 
+ 
+The ACCC invites comments from market participants on:   
+a. 
+the extent to which Lysaght and Fielders are close competitors in relation to the supply 
+of steel formwork, including examples which demonstrate your views;  
+b. 
+the extent to which other steel formwork suppliers provide a competitive constraint on 
+the merger parties, including whether other suppliers could prevent an increase in 
+price or reduction in service through developing additional steel formwork products 
+and/or supplying steel formwork interstate; 
+c. 
+the ability and incentive of roll formers manufacturing other roll formed products to 
+enter the supply of steel formwork in response to an increase in price or reduction in 
+service from the merged firm. In responding please provide information on the costs of 
+entry, including manufacturing equipment, product development and timeframes for 
+entry; and 
+d. 
+the extent to which customers of steel formwork can switch to using timber formwork in 
+response to an increase in price or reduction in service, including the role played by 
+engineering or architectural specifications.  
+Issues unlikely to raise competition concerns 
+ 
+93. 
+The ACCC’s preliminary view is that the proposed acquisition is unlikely to raise 
+competition concerns in relation to the horizontal and vertical merger issues described 
+below. However, the ACCC will accept submissions from interested parties one these 
+issues and will further consider potential competition concerns if it considers that such 
+an assessment is warranted. 
+Supply of roll formed products in South Australia and Western Australia 
+ 
+94. 
+The ACCC’s preliminary view is that the proposed acquisition is unlikely to raise 
+competition concerns in the markets for the supply of roll formed products (other than 
+steel formwork) in New South Wales/Australian Capital Territory, Victoria/Tasmania 
+and Queensland.   
+95. 
+Based on market inquiries, the ACCC is assessing the potential for the proposed 
+acquisition to result in competition concerns in the supply of roll formed products in 
+South Australia and Western Australia. The factors the ACCC is considering in 
+assessing these markets are: 
+o the extent to which market concentration would increase and the closeness of 
+competition between the merger parties; 
+o the ability of alternative suppliers to expand; and 
+o the likelihood of new entry. 
+Market concentration and closeness of competition  
+96. 
+Fielders is currently the largest roll former in South Australia and one of the largest in 
+Western Australia, in terms of sales. The proposed acquisition would result in an 
+increase in concentration in the supply of roll formed products in these states. Based 
+on market inquiries, the ACCC estimates that the merged firm may account for 
+approximately 35 - 40% of the supply of roll formed products in South Australia and 30 
+- 35% in Western Australia. 
+
+
+16 
+ 
+97. 
+Some customers of roll formed products submitted to the ACCC that Lysaght and 
+Fielders are each other’s closest competitors. Specifically, customers identified that 
+Lysaght and Fielders are the major suppliers of roll formed products for commercial 
+and industrial applications, as distinct from residential applications, in South Australia.  
+98. 
+A number of market participants considered that Fielders generally offers competitive 
+pricing and service. However, no information provided to the ACCC indicates that 
+Fielders is a particularly vigorous and effective competitor above that of other roll 
+formers. In particular, the market inquiries indicated that all roll formers compete 
+strongly for customers due to an environment of excess capacity, weak demand and 
+low switching costs.  
+Availability of substitutes 
+99. 
+The ACCC’s market inquiries to date have identified several competitors at the roll 
+forming level, in both South Australia and Western Australia, that supply the same 
+types of customers and projects as the merger parties. The ACCC’s market inquiries 
+indicate Lysaght and Fielders are among five relatively large roll formers that operate 
+nationally, that offer very similar product ranges and that regularly tender against each 
+other. 
+100. Metroll, Stramit and Revolution Roofing in Western Australia, and Stratco, Metroll, 
+Stramit and Revolution Roofing in South Australia all have market shares that indicate 
+they are viable alternatives to the merged firm. The viability of these alternatives was 
+reflected in market inquiries with most customers, as was the ease with which 
+customers are able to switch suppliers.   
+101. Further, the ACCC understands that most roll formers are currently operating with 
+significant excess capacity and that customers do not face significant costs in 
+switching between suppliers. This ability for competitors to increase production and 
+sales without the need for significant further capital investment, and for customers to 
+switch their demand, would likely prevent an attempted increase in prices of roll 
+formed products by the merged firm. 
+Likelihood of new entry 
+102. The ACCC at this stage considers that new entry, and the threat of new entry, into roll 
+forming markets would be unlikely to constrain the merged firm’s service, pricing and 
+output decisions in the foreseeable future. The ACCC found no support in market 
+inquiries for a view that new entry is likely, or that the merged firm would face a 
+credible threat of such entry. 
+103. The ACCC recognises that the sunk costs associated with market entry are not high in 
+absolute terms. However, as discussed previously, the industry is currently 
+characterised by excess capacity and low profitability, which makes entry on a scale 
+that would constrain the merged firm unlikely. In particular, this excess capacity 
+represents a strategic barrier to entry as it may be deployed by incumbent suppliers 
+against any new entrant.  
+Preliminary conclusion - supply of roll formed products in South Australia and Western 
+Australia 
+104. In relation to supply of roll formed products in South Australia and Western Australia, 
+the ACCC’s preliminary view is that the proposed acquisition appears unlikely to raise 
+competition concerns. The ACCC recognises that customers face low switching costs 
+
+
+17 
+ 
+and the merged firm would continue to face competition from roll formers currently 
+having significant excess capacity, including Stramit, Stratco and Metroll. In addition, it 
+is not apparent that the proposed acquisition would remove a vigorous and effective 
+competitor. 
+Foreclosure of rival steel coil suppliers’ access to distribution 
+105. The ACCC’s market inquiries to date have addressed whether the loss of Fielders as 
+an independent customer or potential customer for steel coil inputs may leave 
+BlueScope’s rivals without sufficient actual or potential economic alternatives to sell 
+their supply. This may reduce rivals’ economies of scale, thereby increasing their costs 
+and potentially reducing competition to BlueScope. 
+106. Fielders is a significant acquirer of steel coil inputs. However, other roll formers are 
+also large users of steel coil. In addition, there are a large range of users of steel coil 
+other than roll formers to which BlueScope’s rivals could seek to direct supply. Also, 
+Fielders already acquires the majority of its steel coil inputs directly from BlueScope, 
+although the ACCC understands that Fielders has acquired higher volumes of these 
+inputs from alternative sources in the past.  
+107. Accordingly, the ACCC at this stage considers that the proposed acquisition would not 
+provide BlueScope with the ability to anti-competitively foreclose access to distribution 
+(customers) by rival suppliers of steel coil inputs. 
+ACCC's future steps 
+108. The ACCC will finalise its view on this matter after it considers market responses 
+invited by this Statement of Issues. 
+109. The ACCC now seeks submissions from interested parties on each of the issues 
+identified in this Statement of Issues and on any other issue that may be relevant to 
+the ACCC's assessment of this matter. 
+110. Submissions are to be received by the ACCC no later than 20 December 2013. The 
+ACCC will consider the submissions received from the market and the merger parties 
+in light of the issues identified above and will, in conjunction with information and 
+submissions already provided by the merger parties, come to a final view in light of the 
+issues raised above. 
+111. The ACCC intends to publicly announce its final view by 30 January 2014. However 
+the anticipated timeline may change in line with the ACCC’s Merger Review Process 
+Guidelines. A Public Competition Assessment for the purpose of explaining the 
+ACCC's final view may be published following the ACCC's public announcement. 

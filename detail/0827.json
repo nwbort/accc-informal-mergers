@@ -1,0 +1,56 @@
+{
+  "id": "0827",
+  "title": "The Infrastructure Fund, Westpac Banking Corporation & Perron Investments - proposed acquisition of Cairns Airport and Mackay Airport",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-infrastructure-fund-westpac-banking-corporation-perron-investments-proposed-acquisition-of-cairns-airport-and-mackay-airport",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35239",
+  "industries": [
+    "Investment (Airport)"
+  ],
+  "date_completed": "2 December 2008",
+  "date_completed_iso": "2008-12-02T12:00:00Z",
+  "date_commenced": "11 November 2008",
+  "date_commenced_iso": "2008-11-11T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Westpac Banking Corporation",
+    "The Infrastructure Fund",
+    "Perron Investments"
+  ],
+  "targets": [
+    "Cairns Airport and Mackay Airport"
+  ],
+  "timeline": [
+    {
+      "date": "11 Nov 2008",
+      "date_iso": "2008-11-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Nov 2008",
+      "date_iso": "2008-11-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Nov 2008",
+      "date_iso": "2008-11-21T12:00:00Z",
+      "event": "Former proposed date of 26 November 2008 for announcement of ACCC's findings, amended to allow for the provision of further information by interested parties."
+    },
+    {
+      "date": "21 Nov 2008",
+      "date_iso": "2008-11-21T12:00:00Z",
+      "event": "Queensland Treasury announced the consortium, with Queensland Airports Limited as a specialist advisor, as the successful bidder for Mackay Airport."
+    },
+    {
+      "date": "2 Dec 2008",
+      "date_iso": "2008-12-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A consortium comprising The Private Capital Group's The Infrastructure Fund (managed by Westpac subsidiary Hastings Funds Management), Westpac Banking Corporation and Perron Investments (the consortium) proposes to acquire the Cairns Airport and the Mackay Airport from the Queensland Government.",
+    "Market definition": "The ACCC considered the proposed acquisitions in the context of a range of broad and narrow geographic markets for the supply of airport services. The ACCC did not consider it necessary to form a definitive view on the geographic scope of the market, given that the proposed acquisitions were unlikely to substantially lessen competition in any of the potential markets considered.",
+    "Competition analysis": "On 2 December the ACCC formed the view that the proposed acquisitions would be unlikely to substantially lessen competition in any airport market. Although the acquirers have interests in a range of airports, including other airports in Queensland, the ACCC considered that there was limited competition between each of the relevant airports. To the limited extent that the relevant airports compete with one another, the ACCC considered it likely that they would also compete with a range of more distant airports. As a consequence, the ACCC considered that the proposed acquisitions were unlikely to alter the existing competitive dynamic in the supply of airport services."
+  }
+}

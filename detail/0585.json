@@ -1,0 +1,64 @@
+{
+  "id": "0585",
+  "title": "Gunns Limited - proposed acquisition of the Bell Bay sawmill business of Forest Enterprises Australia Limited (Receivers and Managers appointed) (Administrators appointed)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gunns-limited-proposed-acquisition-of-the-bell-bay-sawmill-business-of-forest-enterprises-australia-limited-receivers-and-managers-appointed",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43191",
+  "industries": [
+    "Timber"
+  ],
+  "date_completed": "20 October 2010",
+  "date_completed_iso": "2010-10-20T12:00:00Z",
+  "date_commenced": "17 August 2010",
+  "date_commenced_iso": "2010-08-17T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Gunns Limited"
+  ],
+  "targets": [
+    "the Bell Bay sawmill business of Forest Enterprises Australia Ltd (Receivers and Managers appointed)"
+  ],
+  "timeline": [
+    {
+      "date": "17 Aug 2010",
+      "date_iso": "2010-08-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Sep 2010",
+      "date_iso": "2010-09-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Sep 2010",
+      "date_iso": "2010-09-10T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "21 Sep 2010",
+      "date_iso": "2010-09-21T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Sep 2010",
+      "date_iso": "2010-09-28T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former proposed decision date of 30 September 2010 amended to allow for provision of further information. ACCC timeline suspended."
+    },
+    {
+      "date": "18 Oct 2010",
+      "date_iso": "2010-10-18T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Oct 2010",
+      "date_iso": "2010-10-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Gunns Limited proposes to acquire the Bell Bay sawmill from Forest Enterprises Australia Limited (Receivers and Managers appointed) (Administrators appointed).",
+    "Market definition": "The ACCC considered the following markets in the context of the proposed acquisition: - the market for the manufacture and supply of appearance grade and structural grade softwood timber products in Australia; and - the acquisition of softwood sawlog in Tasmania.",
+    "Competition analysis": "The ACCC took into account, amongst other factors: - that the volume of available softwood sawlog in Tasmania is likely to be sufficient to support the continued operation of only one major Tasmanian softwood sawmill operator on a commercial basis; - that Gunns had announced its intentions to close its Scottsdale sawmill regardless of whether it acquired the Bell Bay sawmill; and - that there remain a number of competitors in the national market for the manufacture and supply of appearance grade and structural grade softwood timber products. Accordingly, on 20 October 2010, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "0362",
+  "title": "Patrick Ports & Stevedoring - proposed acquisition of Mountain Industries Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/patrick-ports-stevedoring-proposed-acquisition-of-mountain-industries-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52108",
+  "industries": [
+    "Logistics and transport services"
+  ],
+  "date_completed": "24 October 2013",
+  "date_completed_iso": "2013-10-24T12:00:00Z",
+  "date_commenced": "10 September 2013",
+  "date_commenced_iso": "2013-09-10T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Patrick Auto, Bulk & General Ports Pty Ltd"
+  ],
+  "targets": [
+    "Mountain Industries Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Sep 2013",
+      "date_iso": "2013-09-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "26 Sep 2013",
+      "date_iso": "2013-09-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2013",
+      "date_iso": "2013-10-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC primarily considered the effects of the proposed acquisition on the market for the supply of bulk storage and warehousing at the Port of Newcastle. The ACCC also considered the effects of the proposed acquisition on: - the supply of general and bulk stevedoring services at the Port of the Newcastle; - the supply of bulk rail linehaul to/from the Port of Newcastle; and - the supply of logistics services at the Port of Newcastle. The ACCC did not consider it necessary to form a concluded view in relation to the markets for the supply of bulk rail linehaul and logistics services, noting that the proposed acquisition was unlikely to raise concerns irrespective of the market definition adopted.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the supply of bulk storage and warehouse facilities at the Port of Newcastle.  Factors informing this view included: - a number of alternative storage providers would continue to constrain the merged firm; - there are low switching barriers for customers at the Port of Newcastle; - there was a credible threat of new entry and expansion; and - some customers were able to exercise a degree of countervailing power. Additionally, the ACCC determined that the proposed acquisition did not raise any substantive competition concerns as a result of the increased vertical integration of Asciano's operations at the Port of Newcastle."
+  }
+}

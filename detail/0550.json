@@ -1,0 +1,54 @@
+{
+  "id": "0550",
+  "title": "Fletcher Building Limited - proposed acquisition of Crane Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fletcher-building-limited-proposed-acquisition-of-crane-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44590",
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "10 February 2011",
+  "date_completed_iso": "2011-02-10T12:00:00Z",
+  "date_commenced": "21 December 2010",
+  "date_commenced_iso": "2010-12-21T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Fletcher Building Limited"
+  ],
+  "targets": [
+    "Crane Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Dec 2010",
+      "date_iso": "2010-12-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Jan 2011",
+      "date_iso": "2011-01-05T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "17 Jan 2011",
+      "date_iso": "2011-01-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Jan 2011",
+      "date_iso": "2011-01-19T12:00:00Z",
+      "event": "ACCC received further information from acquirer. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Feb 2011",
+      "date_iso": "2011-02-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fletcher Building proposes to acquire Crane by way of an off-market takeover bid.",
+    "Market definition": "The ACCC considered the proposed acquisition on the basis of largely separate national markets for the supply of plastic and concrete pipes. However, the ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The proposed acquisition was unlikely to result in a substantial lessening of competition as Fletcher and Crane only compete to a very limited extent in relation to small diameter storm water pipeline products and several alternative suppliers of both concrete pipes and plastic pipes would continue to competitively constrain the merged firm."
+  }
+}

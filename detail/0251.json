@@ -1,0 +1,58 @@
+{
+  "id": "0251",
+  "title": "Adstream Holdings Pty Limited - proposed acquisition of Dubsat Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adstream-holdings-pty-limited-proposed-acquisition-of-dubsat-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59772",
+  "industries": [
+    "Advertising content management and delivery"
+  ],
+  "date_completed": "29 September 2016",
+  "date_completed_iso": "2016-09-29T12:00:00Z",
+  "date_commenced": "21 July 2016",
+  "date_commenced_iso": "2016-07-21T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Adstream Holdings Pty Limited"
+  ],
+  "targets": [
+    "Dubsat Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jul 2016",
+      "date_iso": "2016-07-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "4 Aug 2016",
+      "date_iso": "2016-08-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "24 Aug 2016",
+      "date_iso": "2016-08-24T12:00:00Z",
+      "event": "ACCC requested further information from Adstream and Dubsat. Former provisional date for announcement of findings (15 September) delayed."
+    },
+    {
+      "date": "31 Aug 2016",
+      "date_iso": "2016-08-31T12:00:00Z",
+      "event": "ACCC received information from Adstream and Dubsat."
+    },
+    {
+      "date": "13 Sep 2016",
+      "date_iso": "2016-09-13T12:00:00Z",
+      "event": "Former proposed decision date of 22 September 2016 delayed by ACCC to allow additional time to consider the proposed acquisition."
+    },
+    {
+      "date": "29 Sep 2016",
+      "date_iso": "2016-09-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on the supply of third party advertising delivery services for television, print and radio advertising in Australia. The ACCC did not consider it necessary to determine if there are separate product markets for third party delivery services for television, print and radio advertisements, rather than one broad market for delivery of advertisements, as a substantial lessening of competition is unlikely regardless of the market definition adopted.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market/s. The ACCC determined that, following the proposed acquisition, Adstream and Dubsat are likely to be constrained: - for delivery of print advertisements, by the ability for most advertisers and advertising agencies to deliver directly to publishers, particularly through portals developed by major publishers including Fairfax and News Corp Australia and the threat of others, including magazine publishers, developing their own portals using readily available software. The ACCC took into account that the majority of print advertising is already delivered directly to publishers without using the services of Adstream or Dubsat and the declining nature of the print industry which is likely to encourage publishers to be more receptive to direct delivery methods. - for delivery of television and radio advertisements, by the presence of other advertising delivery service providers, the threat of potential new entry including by large overseas players and the ability of advertisers on radio stations to deliver directly. In reaching its conclusions, the ACCC also took into account the ability of advertisers to reach audiences outside of traditional media, including via digital platforms, which don't rely on the services of Adstream and Dubsat. The ACCC also took into account the dynamic nature of the industry where the options for direct delivery are likely to further improve with technological advancements."
+  }
+}

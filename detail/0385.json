@@ -1,0 +1,54 @@
+{
+  "id": "0385",
+  "title": "Ruralco Holdings Limited - proposed acquisition of Elders Rural Services Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ruralco-holdings-limited-proposed-acquisition-of-elders-rural-services-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50798",
+  "industries": [
+    "Agricultural products"
+  ],
+  "date_completed": "30 May 2013",
+  "date_completed_iso": "2013-05-30T12:00:00Z",
+  "date_commenced": "19 March 2013",
+  "date_commenced_iso": "2013-03-19T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Ruralco Holdings Limited"
+  ],
+  "targets": [
+    "Elders Rural Services Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Mar 2013",
+      "date_iso": "2013-03-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "11 Apr 2013",
+      "date_iso": "2013-04-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Apr 2013",
+      "date_iso": "2013-04-17T12:00:00Z",
+      "event": "ACCC requested further information from Ruralco. ACCC timeline suspended. Former proposed decision date of 16 May 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "1 May 2013",
+      "date_iso": "2013-05-01T12:00:00Z",
+      "event": "ACCC received further information from Ruralco. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 May 2013",
+      "date_iso": "2013-05-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Rualco Holdings Limited proposed to acquire Elders Rural Services.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the following markets: i.\tlocal markets for the retail supply of agri-products; ii.\tstate-based markets for livestock sales and trading; iii.\tregional markets for the supply of wool broking services; iv.\tthe supply of water broking and trading services in the southern connected Murray Darling Basin; and v.\tstate-based markets for the supply of real estate agency services. For the purpose of considering this acquisition, the ACCC did not consider it necessary to form a definitive view as to the specific geographic dimension of each local market for the retail supply of agri-products. The ACCC conducted the competition analysis with reference to the existing competitive constraints in the local towns where there was overlap between the merger parties. In considering the appropriate scope of the relevant local markets, the ACCC had regard to the regional and rural location of the retail outlets of the merger parties and the closeness of substitutes located in neighbouring towns and/or on major transit routes in the relevant region. The ACCC did not consider it necessary to reach a concluded view regarding the specific dimensions of the following markets: -\tgeographic dimensions of markets for the supply of wool broking services. The ACCC proceeded on the basis of regional markets, with markets encompassing Southern (Victoria, South Australia, Tasmania), Northern (New South Wales, Queensland) and Western (Western Australia) regions. -\tgeographic dimensions of markets for the supply of real estate agency services, noting that competition concerns were unlikely regardless of the geographic scope of the market. -\tproduct dimensions of markets for the trading of water access entitlements and water allocations, noting that competition concerns were unlikely regardless of whether a broader or separate narrower markets were defined.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In relation to markets for the retail supply of agri-products, the ACCC considered that in the majority of local markets where there was overlap between the retail outlets of the merger parties, the merged entity would be competitively constrained by existing competitors located nearby or in neighbouring towns. The ACCC also considered that where the proposed acquisition did result in significant local concentration, the merged entity would be constrained by the likelihood of entry or expansion by existing or potential retailers in the relevant local markets. The ACCC took into account the competitive constraint arising from the presence of a number of alternative retail suppliers of agri-products, including Landmark, independent CRT and Town & Country retailers, and strong independent wholesale banner groups such as AgLink and AIRR. The ACCC found that independent retailers of agri-products are able to source supply from independent wholesalers on terms which enables them to compete strongly with the major corporate retailers. The ACCC considered that a number of competitors would continue to provide a strong competitive constraint on the merged entity post-acquisition in the relevant markets for the supply of livestock sales and trading, wool broking services, water broking and trading services and real estate agency services."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1044",
+  "title": "Proposed merger between Bendigo Bank Limited and Adelaide Bank Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-between-bendigo-bank-limited-and-adelaide-bank-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29212",
+  "industries": [
+    "Banking and finance"
+  ],
+  "date_completed": "10 September 2007",
+  "date_completed_iso": "2007-09-10T12:00:00Z",
+  "date_commenced": "20 August 2007",
+  "date_commenced_iso": "2007-08-20T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Bendigo Bank Limited"
+  ],
+  "targets": [
+    "Adelaide Bank Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Aug 2007",
+      "date_iso": "2007-08-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Sep 2007",
+      "date_iso": "2007-09-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Sep 2007",
+      "date_iso": "2007-09-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed merger between Bendigo Bank Limited and Adelaide Bank Limited",
+    "Market definition": "For the purposes of this analysis, the ACCC examined the following markets: - the national market for home loans; - South Australian market for personal loans; - the national market for hybrid personal lending products (margin loans); - South Australian market for deposit/term products; - South Australian market for transaction accounts; - South Australian market for small business banking; and - South Australian market for the issue of credit cards. The ACCC notes that the outcome of its analysis would have been unchanged if broader markets had been adopted.",
+    "Competition analysis": "On 10 September 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the parties each have relatively low market shares in each of the markets above; - as a result, in each case, the acquisition will only lead to a small increment in market share as a result of the transaction; and - many much larger competitors will remain in each market. Given these factors and the lack of concern expressed by market participants, the ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "1245",
+  "title": "ThoroughVisioN and Sky Group - proposed joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/thoroughvision-and-sky-group-proposed-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24637",
+  "industries": [
+    "Racing broadcasting"
+  ],
+  "date_completed": "15 August 2006",
+  "date_completed_iso": "2006-08-15T12:00:00Z",
+  "date_commenced": "19 June 2006",
+  "date_commenced_iso": "2006-06-19T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Sky Channel Pty Ltd",
+    "Sky Channel Marketing Pty Ltd"
+  ],
+  "targets": [
+    "ThoroughVisioN Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jun 2006",
+      "date_iso": "2006-06-19T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "14 Jul 2006",
+      "date_iso": "2006-07-14T12:00:00Z",
+      "event": "Deadline for submissions from market participants"
+    },
+    {
+      "date": "15 Aug 2006",
+      "date_iso": "2006-08-15T12:00:00Z",
+      "event": "ACCC announced it would not approve the joint venture"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sky Channel and TVN proposed to enter into joint venture arrangements to share thoroughbred racing vision.",
+    "Market definition": "The key market in this matter was the acquisition of broadcast rights from thoroughbred racing clubs.",
+    "Competition analysis": "The proposed arrangements were in the form of a joint venture, not a merger, and were assessed under section 45 of the Trade Practices Act, not section 50. Section 45 prohibits certain contracts or provisions of contracts that would have the effect, or likely effect, of substantially lessening competition in a market. The proposed joint venture arrangements would have substantially lessened Sky's and TVN's incentives to bid against each other for the thoroughbred racing broadcast rights. Given that Sky and TVN were the only two acquirers of such rights in Australia, this was likely to result in a substantial lessening of competition in the relevant market. Other competition issues were also noted relating to some specific clauses of the arrangements."
+  }
+}

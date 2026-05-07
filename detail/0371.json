@@ -1,0 +1,54 @@
+{
+  "id": "0371",
+  "title": "Air New Zealand Limited - proposed acquisition of an additional 6 per cent of Virgin Australia Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/air-new-zealand-limited-proposed-acquisition-of-an-additional-6-per-cent-of-virgin-australia-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50854",
+  "industries": [
+    "Airline"
+  ],
+  "date_completed": "5 September 2013",
+  "date_completed_iso": "2013-09-05T12:00:00Z",
+  "date_commenced": "6 June 2013",
+  "date_commenced_iso": "2013-06-06T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Air New Zealand Limited"
+  ],
+  "targets": [
+    "Virgin Australia Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jun 2013",
+      "date_iso": "2013-06-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "28 Jun 2013",
+      "date_iso": "2013-06-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Jul 2013",
+      "date_iso": "2013-07-30T12:00:00Z",
+      "event": "ACCC requested further information from Virgin Australia. ACCC timeline suspended. Former proposed decision date of 1 August 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "16 Aug 2013",
+      "date_iso": "2013-08-16T12:00:00Z",
+      "event": "ACCC received further information from Virgin Australia. ACCC timeline recommenced."
+    },
+    {
+      "date": "5 Sep 2013",
+      "date_iso": "2013-09-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Air New Zealand Limited proposed to increase its ownership interest in Virgin Australia Holdings Pty Ltd by up to an addtional 6 per cent up to a total of 25.99 per cent.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: i.\ta trans-Tasman market or markets for air passenger services, having regard to particular routes or 'city pairs'; ii.\tpassenger air transport for leisure travellers between Australia and the United States and passenger air transport for business travellers between Australia and the United States (given the indirect competition provided by Air NZ's services between Los Angeles and Auckland which could be connected to trans-Tasman services); and iii.\ta market or markets for air passenger services between Australia and Pacific Island destinations. For the purposes of considering this proposed acquisition, the ACCC did not consider it necessary to form a definitive view as to the specific geographic dimension of the trans-Tasman and Australia to Pacific Islands air passenger markets.",
+    "Competition analysis": "The ACCC noted that the Determination made by the ACCC on 3 September 2013 regarding the trans-Tasman Alliance between Virgin and Air New Zealand removes any competition between Virgin and Air New Zealand until at least 31 October 2018. Further, it was unclear if and when Virgin and Air New Zealand would return to competition in air passenger services markets on the trans-Tasman following that date and how closely the two airlines would compete if they were to return to competition. The ACCC also noted the limited direct overlap between Virgin and Air New Zealand for air passenger transport services between Australia and the United States and Australia and the Pacific Islands. The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition as: i.\tAir New Zealand was unlikely to obtain control over Virgin as a result of a 25.99 per cent shareholding; ii.\tGiven the composition of the shareholding in Virgin, Air New Zealand was unlikely to have a material ability to influence Virgin in a way that would substantially lessen competition in a relevant market as a result of a 25.99 per cent shareholding; iii.\tAir New Zealand's incentives to unilaterally compete with Virgin were unlikely to be materially affected in any of the relevant markets by the increased shareholding; and iv.\tAir New Zealand and Virgin's ability and incentive to tacitly co-ordinate following the expiration of the trans-Tasman alliance were unlikely to be significantly increased by the proposed acquisition."
+  }
+}

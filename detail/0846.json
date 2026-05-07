@@ -1,0 +1,44 @@
+{
+  "id": "0846",
+  "title": "ABC Learning Centres Limited - proposed acquisition of 123 Careers Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/abc-learning-centres-limited-proposed-acquisition-of-123-careers-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34493",
+  "industries": [
+    "Child care centres"
+  ],
+  "date_completed": "24 October 2008",
+  "date_completed_iso": "2008-10-24T12:00:00Z",
+  "date_commenced": "1 October 2008",
+  "date_commenced_iso": "2008-10-01T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "ABC Learning Centres Limited"
+  ],
+  "targets": [
+    "123 Careers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Oct 2008",
+      "date_iso": "2008-10-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Oct 2008",
+      "date_iso": "2008-10-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ABC Learning Centres Limited proposed to acquire 123 Careers Pty Limited's childcare recruitment business.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following national markets: 1. the supply of child care workers to child care centres (Market 1); and 2. the acquisition of placement services for child care workers (Market 2).",
+    "Competition analysis": "On 24 October 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. As 123 Careers supplies its services almost exclusively to its related companies and ABC, the proposed acquisition is unlikely to lead to the removal of a vigorous and effective competitor in either market; 2. Barriers to entry to the relevant markets are low; and 3. There are a number of competitors to 123 Careers in Market 1."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0706",
+  "title": "Pfizer Inc - proposed merger with Wyeth Corp",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pfizer-inc-proposed-merger-with-wyeth-corp",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36409",
+  "industries": [
+    "Human and Animal Pharmaceuticals"
+  ],
+  "date_completed": "30 September 2009",
+  "date_completed_iso": "2009-09-30T12:00:00Z",
+  "date_commenced": "3 June 2009",
+  "date_commenced_iso": "2009-06-03T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Pfizer Inc"
+  ],
+  "targets": [
+    "Wyeth Corp"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jun 2009",
+      "date_iso": "2009-06-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Jun 2009",
+      "date_iso": "2009-06-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Sep 2009",
+      "date_iso": "2009-09-04T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by Pfizer. ACCC commenced market inquiries."
+    },
+    {
+      "date": "11 Sep 2009",
+      "date_iso": "2009-09-11T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "30 Sep 2009",
+      "date_iso": "2009-09-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to court enforceable undertaking offered by Pfizer."
+    },
+    {
+      "date": "30 Sep 2009",
+      "date_iso": "2009-09-30T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC requested further information from Pfizer during this review, resulting in the timeline being suspended for 36 business days."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 3 June 2009, the ACCC commenced a review of the proposed acquisition of Wyeth Corp by Pfizer Inc. Pfizer and Wyeth are both global pharmaceutical companies that compete in a number of human and animal health markets in Australia. Wyeth conducts its animal health business under the name Fort Dodge. The ACCC concluded that the proposed acquisition would likely result in the substantial lessening of competition in a number of animal health markets. To address these competition concerns, Pfizer offered a court enforceable undertaking that will see Pfizer divest a variety of Fort Dodge assets. The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in any human health markets. On 30 September 2009 the ACCC accepted the 87B undertaking offered by Pfizer and announced that it would not oppose the proposed acquisition.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

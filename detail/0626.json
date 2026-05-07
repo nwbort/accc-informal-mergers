@@ -1,0 +1,48 @@
+{
+  "id": "0626",
+  "title": "Woodbridge Australia Group Pty Ltd - proposed acquisition of Automotive Foam Components Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woodbridge-australia-group-pty-ltd-proposed-acquisition-of-automotive-foam-components-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38358",
+  "industries": [
+    "Automotive Foam Components"
+  ],
+  "date_completed": "7 June 2010",
+  "date_completed_iso": "2010-06-07T12:00:00Z",
+  "date_commenced": "5 May 2010",
+  "date_commenced_iso": "2010-05-05T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Woodbridge Australia Group Pty Ltd"
+  ],
+  "targets": [
+    "Automotive Foam Components Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 May 2010",
+      "date_iso": "2010-05-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 May 2010",
+      "date_iso": "2010-05-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Jun 2010",
+      "date_iso": "2010-06-03T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, of 3 June 2010, amended to allow for further inquiries."
+    },
+    {
+      "date": "7 Jun 2010",
+      "date_iso": "2010-06-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the competitive effect of the proposed acquisition in the context of a national market for the manufacture and supply of automotive original equipment manufacturing (OEM) foam to manufacturers of automotive components.",
+    "Competition analysis": "The ACCC considered the proposed acquisition was unlikely to substantially lessen competition as: - customers of the merger parties (automotive component manufacturers) and motor vehicle producers (MVPs) appeared to have strong countervailing power based on the ability to integrate foam manufacturing into their operations, the existence of a global supply chain and the strong reliance placed on global benchmarking of prices and quality standards within the industry; and - imports, particularly of assembled automotive components, were also likely to constrain the merged firm."
+  }
+}

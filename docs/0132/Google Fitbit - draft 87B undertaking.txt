@@ -1,0 +1,1924 @@
+ 
+49589496_5 
+Public consultation version: 30 November 2020 
+ 
+ 
+ 
+ 
+Undertaking to the Australian 
+Competition and Consumer 
+Commission 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Given under section 87B of the Competition and Consumer 
+Act 2010 (Cth) by Alphabet Inc and Google LLC 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+Index 
+1 
+Person giving the undertaking 
+1 
+2 
+Background 
+1 
+3 
+Commencement of this undertaking 
+2 
+4 
+Duration of Undertaking 
+2 
+5 
+Obligations 
+3 
+6 
+Monitoring Trustee 
+6 
+7 
+Dispute Resolution 
+8 
+8 
+Cessation of ongoing obligations 
+8 
+9 
+Jurisdiction 
+9 
+10 
+General Provisions 
+9 
+11 
+Provision of information to the ACCC 
+9 
+12 
+Disclosure of this Undertaking 
+10 
+13 
+Obligation to procure 
+10 
+14 
+No derogation 
+10 
+15 
+Change of Control 
+11 
+16 
+Costs 
+11 
+17 
+Notices 
+11 
+18 
+Defined terms and interpretation 
+11 
+ 
+Schedule 1 
+Dictionary and Interpretation 
+ 14  
+Schedule 2 
+Data Points Google Will Document With Respect To Individual Access 
+ 24 
+Schedule 3 
+Data Points Google Will Document With Respect to Service-Level Access 
+ 24  
+Schedule 4 
+List of Minimum Audit Points 
+ 24 
+Schedule 5 
+Indicative List of Current Data Types that Can Qualify as Measured Body Data and 
+Health and Fitness Activity Location Data (as of 2 November 2020) 
+ 25  
+Schedule 6 
+Fast Track Dispute Resolution Procedure 
+ 27  
+Schedule 7 
+Indicative List of Supported Measured Body Data (as of 2 November 2020) 
+ 30
+ 
+ 
+ 
+
+
+ 
+ 
+1 
+Person giving the undertaking 
+This undertaking is given to the Australian Competition and Consumer Commission (ACCC) 
+by Alphabet Inc and Google LLC (Google). 
+2 
+Background 
+The parties to the proposed acquisition 
+Google 
+2.1 
+Google is a US-based information technology company. Google is the largest subsidiary of 
+Alphabet Inc., specialising in internet-related services and products. Google’s principal 
+activities include the provision of online search services, advertising and information 
+management technology services, and the provision of marketing and sales support for web 
+search engine services and advertising services. In addition to these core services, Google is 
+also present in: 
+(a) 
+technology hardware, including mobile phones (Pixel), earbuds (Pixel Buds), and 
+Nest smart home devices; 
+(b) 
+operating systems for mobile phones, wearable devices and laptops; 
+(c) 
+other software such as Chrome, Google Maps, Google Calendar and Gmail; and 
+(d) 
+payment systems through Google Pay. 
+Fitbit 
+2.2 
+Fitbit, Inc. (Fitbit) is an American company headquartered in San Francisco, California that 
+develops, manufactures and distributes wearable devices, software, and services in the health 
+and wellness sector under the brand name ‘Fitbit’.  
+2.3 
+Fitbit’s products include fitness trackers, smartwatches, smart scales, and software. Fitbit’s 
+wrist-worn wearable devices are supported by the Fitbit mobile app and Fitbit’s proprietary 
+non-licensed operating systems. 
+The Proposed Acquisition  
+2.4 
+Google proposes to acquire all of the issued and outstanding shares of Fitbit subject to the 
+terms and conditions of a 1 November 2019 Agreement and Plan of Merger between Google, 
+Fitbit and Magnoliophytia Inc. (Proposed Acquisition). The Proposed Acquisition will result 
+in Fitbit becoming a subsidiary of Google. 
+The ACCC’s review  
+2.5 
+On 27 February 2020, the ACCC commenced its public review of the Proposed Acquisition. 
+2.6 
+The ACCC undertook market inquiries and considered information provided by the parties to 
+the Proposed Acquisition, industry participants and others. The purpose of the ACCC’s 
+inquiries was to assess whether the Proposed Acquisition would have the effect, or be likely to 
+have the effect, of substantially lessening competition in any market in Australia in 
+contravention of section 50 of the Act. 
+The ACCC’s competition concerns  
+2.7 
+[ACCC to insert]  
+2.8 
+[ACCC to insert] 
+
+
+ 
+ 
+2 
+2.9 
+Google does not consider that the Proposed Acquisition would have the effect, or be likely to 
+have the effect, of substantially lessening competition in the Relevant Markets. However, to 
+address these concerns, Google has offered this Undertaking pursuant to section 87B of the 
+Act. 
+The Undertaking remedy 
+2.10 
+The objective of this Undertaking is to address the ACCC’s competition concerns as set out 
+above that might potentially otherwise arise as a consequence of the Proposed Acquisition. In 
+summary, the Undertaking aims to achieve this objective by placing obligations on Google: 
+(a) 
+not to use any Measured Body Data or Health and Fitness Activity Location Data in or 
+for Google Ads;  
+(b) 
+to maintain the auditable holding separate of Measured Body Data and Health and 
+Fitness Activity Location Data from any dataset within Google accessible for use in or 
+for Google Ads; 
+(c) 
+to present each Australian User the choice to grant or deny use by Other Google 
+Services of any Measured Body Data stored in their Google Account or Fitbit 
+Account;  
+(d) 
+to maintain access, subject to user consent consistent with applicable laws and 
+without charge for access, to Supported Measured Body Data for API Users; 
+(e) 
+to make the Core Interoperability APIs available, without charge for access, under the 
+same license terms and conditions that apply to other Android APIs that Google 
+makes available as part of AOSP and on a non-discriminatory basis; 
+(f) 
+not to degrade the Core Interoperability APIs by reducing their functionality to Third-
+Party Wrist-Worn Wearable Devices relative to First-Party Wrist-Worn Wearable 
+Devices; and 
+(g) 
+not to discriminate against Wrist-Worn Wearable Device OEMs by withholding, 
+denying, or delaying their access to functionalities of Android APIs that Google makes 
+generally available to other Android Smartphone App Developers for use with an 
+Android App, and not to discriminate between Wrist-Worn Wearable Device OEMs 
+and other Android Smartphone App Developers in relation to changing, replacing, or 
+retiring Android APIs, or in terms of the access it provides to Developer Previews and 
+Developer Documentation, 
+in each case in accordance with, and subject to the conditions set out in, this Undertaking. 
+3 
+Commencement of this Undertaking 
+3.1 
+This Undertaking comes into effect when: 
+(a) 
+this Undertaking is executed by Google; and 
+(b) 
+this Undertaking so executed is accepted by the ACCC. 
+4 
+Duration of Undertaking 
+4.1 
+Subject to clause 4.2, this Undertaking shall remain in effect for ten years from the Control 
+Date. 
+4.2 
+The ACCC may, during the final year of the initial ten year period, decide to extend the 
+duration of clauses 5.1 to 5.4 of this Undertaking (and any associated clauses or definitions 
+that relate to these paragraphs of the Undertaking) by up to an additional ten years if, in the 
+
+
+ 
+ 
+3 
+ACCC’s full discretion, it considers that an extension is necessary to address the issues 
+raised in clauses [2.7 and 2.8] of this Undertaking.  
+5 
+Obligations  
+Google’s obligations in relation to Ads  
+ 
+5.1 
+Google must not use any Measured Body Data or Health and Fitness Activity Location Data in 
+or for Google Ads. 
+5.2 
+Google must maintain Data Separation. 
+5.3 
+Compliance with the obligations set out in clauses 5.1 and 5.2 above is to be achieved 
+through a technical structure for data storage consisting of auditable technical and process 
+controls, reflected in the following approach: 
+(a) 
+Fitbit Account data. To the extent either Measured Body Data or Health and Fitness 
+Activity Location Data is written to a Fitbit Account, and this data is not subsequently 
+transferred to a Google Account following the Control Date, this data will not be 
+available to Google Ads. Google must maintain existing separations that are in place 
+as of the Commencement Date between (i) any data that is not transferred to a 
+Google Account and (ii) any dataset or data storage within Google. For clarity, the 
+foregoing does not prohibit Fitbit’s use of Google solely as a data processor (i.e. a 
+service provider) following the Control Date, pursuant to a customary data controller 
+to processor agreement (i.e. a service provider agreement), as permitted pursuant to 
+applicable law (including the EU General Data Protection Regulation).  
+(b) 
+Maintenance of an Access Restricted Data Store. Google will maintain a strictly 
+permissioned virtual storage environment within Google. Measured Body Data and 
+Health and Fitness Activity Location Data sent to Google (i) as part of any migration 
+from a Fitbit Account to a Google Account, or (ii) having been collected using a 
+Google Account from future First-Party Wrist-Worn Wearable Devices, First-Party 
+Connected Scales or Fitbit Other Devices, will be stored in such an Access Restricted 
+Data Store. Access to the compartment of Google’s backend storage layer housing 
+such an Access Restricted Data Store will be controlled through Access 
+Permissioning. 
+(c) 
+Implementation of Access Permissioning to the Access Restricted Data Store. 
+Google will restrict access to such an Access Restricted Data Store through Access 
+Permissioning. Access Permissioning will apply to both individuals and Google 
+Services and Fitbit Services that seek to access Measured Body Data or Health and 
+Fitness Activity Location Data stored in the Access Restricted Data Store: 
+(i) 
+Individual level access: Google will limit individual-level Access 
+Permissioning to an authorised, restricted group of personnel for engineering, 
+product, and other related business activities, such as product development 
+or improvement, research, and other service provision, maintenance, or 
+enhancement work, excluding any uses in or for Google Ads. Google will 
+require a fully documented compliance review and approval process for the 
+grant of Access Permissioning. Google will log each access session in 
+Individual Level Access Documentation, which will include at least the criteria 
+set out in Schedule 2. 
+(ii) 
+Service level access: Google will limit Access Permissioning to Google 
+Services or Fitbit Services that comply with the Data Protection System, thus 
+excluding any uses in or for Google Ads. Any such access will be 
+documented in Service Level Access Documentation, which will include, at 
+least, the criteria set out in Schedule 3. Google will log each Service that is 
+granted access in Auditable Service Logs.  
+
+
+ 
+ 
+4 
+(d) 
+Implementation of a Data Protection System. To the extent that a Google Service 
+accesses Measured Body Data or Health and Fitness Activity Location Data, Google 
+will apply a Data Protection System to ensure Data Separation of the accessed data, 
+reflected in the following approach: 
+(i) 
+Measured Body Data and Health and Fitness Activity Location Data will 
+either be stored in an Access Restricted Data Store or, if it is stored outside 
+an Access Restricted Data Store, in Temporary Logs and subject to a 
+retention and deletion plan supervised by the Monitoring Trustee. Measured 
+Body Data or Health and Fitness Activity Location Data that a Google Service 
+accesses as a result of an integration between a Google Service and the 
+Fitbit Web API following the Commencement Date is subject to the 
+requirements of Data Separation. 
+(ii) 
+Google will strictly permission these Temporary Logs to enable only access 
+pursuant to clause 5.3(c) above. For the avoidance of doubt, the Temporary 
+Logs will not be accessible to Google Ads.  
+(iii) 
+Google will maintain a Service Level Access Map.  
+5.4 
+The technical means by which Google achieves Data Separation may change over time to 
+reflect evolving technologies and standards. Any changes will be subject to supervision by the 
+Monitoring Trustee. 
+5.5 
+Google must present each Australian User the choice to grant or deny use by Other Google 
+Services of any Measured Body Data stored in their Google Account or Fitbit Account. 
+5.6 
+The obligation set out in clause 5.5 above is without prejudice to, and should not be 
+interpreted based on, any privacy or data protection laws or regulations, and does not come 
+under the jurisdiction or purview of any privacy or data protection regulators. 
+Google’s obligations in relation to Web API Access  
+ 
+5.7 
+Google must maintain access, subject to user consent consistent with applicable laws and 
+without charge for access, to Supported Measured Body Data for API Users subject to the 
+following conditions: 
+(a) 
+API Users’ continued compliance with the Fitbit Platform Terms of Service (where 
+access is made available via the Fitbit Web API) or the Terms of Service and the 
+Services User Data Policy (where access is made available via the Relevant Google 
+API).  
+(b) 
+API Users’ continued compliance with the Privacy and Security Requirements.  
+(c) 
+Google can terminate access for violation of these requirements where Google has 
+established such a violation or temporarily suspend access where Google has a 
+reasonable belief of violation of such requirements. Google will notify the termination 
+or suspension to the Monitoring Trustee within 14 days and indicate the reason for 
+the termination or suspension.  
+5.8 
+Access may be provided through: (i) the existing Fitbit Web API (conditioned on the user 
+whose Supported Measured Body Data are being accessed using a Fitbit Account); or (ii) the 
+Relevant Google API (conditioned on the user whose Supported Measured Body Data are 
+being accessed using a Google Account). 
+5.9 
+Following the Commencement Date and during the term of this Undertaking, Measured Body 
+Data types may be added into the scope of Supported Measured Body Data, as set forth in 
+the Update Mechanism.  
+Google’s obligations in relation to Android APIs  
+
+
+ 
+ 
+5 
+5.10 
+Google must make the Core Interoperability APIs available, without charge for access, under 
+the same license terms and conditions that apply to all other Android APIs that Google makes 
+available as part of AOSP and on a non-discriminatory basis, meaning without differentiating 
+their availability or functionality depending on whether they are accessed by a First-Party 
+Wrist-Worn Wearable Device or Companion App or a Third-Party Wrist-Worn Wearable 
+Device or Companion App. 
+5.11 
+Google must not degrade the Core Interoperability APIs by reducing their functionality to 
+Third-Party Wrist-Worn Wearable Devices relative to First-Party Wrist-Worn Wearable 
+Devices.  
+5.12 
+Google must: 
+(a) 
+Not discriminate against Wrist-Worn Wearable Device OEMs by withholding, denying, 
+or delaying Wrist-Worn Wearable Device OEMs’ access to functionalities of Android 
+APIs that Google makes generally available to other Android Smartphone App 
+Developers for use with an Android App. 
+(b) 
+Not discriminate between Wrist-Worn Wearable Device OEMs and other Android 
+Smartphone App Developers in relation to changing, replacing, or retiring Android 
+APIs. 
+(c) 
+Not discriminate between Wrist-Worn Wearable Device OEMs and other Android 
+Smartphone App Developers in terms of the access it provides to Developer 
+Previews. 
+(d) 
+Not discriminate between Wrist-Worn Wearable Device OEMs and other Android 
+Smartphone App Developers in terms of the access it provides to Developer 
+Documentation. 
+5.13 
+Google must not circumvent these requirements: 
+(a) 
+By discriminating between Wrist-Worn Wearable Device OEMs and other Android 
+Smartphone App Developers in terms of warnings, error messages, or permission 
+requests displayed in Android Apps.  
+(b) 
+Through conditions imposed on access to the Google Play Store by Wrist-Worn 
+Wearable Device OEMs’ Companion Apps (eg regarding the use of data gathered by 
+the Wrist-Worn Wearable Device OEM or the use of Android APIs by the Third-Party 
+Wrist-Worn Wearable Device). 
+5.14 
+For the avoidance of doubt, Google shall be permitted under this Undertaking to: 
+(a) 
+Make available, exclusively for API Development and Testing purposes, in-
+development Android APIs internally within Google, or to certain third parties. 
+(b) 
+Develop features associated with first-party Google products, apps, or services, for 
+use solely with a First-Party Wrist-Worn Wearable Device, or as part of a partnership 
+with a third party, provided that the implementation of such features shall not impede 
+in any way the functioning of Android APIs for Third-Party Wrist-Worn Wearable 
+Devices. For the further avoidance of doubt, any third party shall remain free similarly 
+to develop and make available features associated with their own first-party products, 
+apps, or services, including for use solely on their own first-party Wrist-Worn 
+Wearable Devices in a proprietary software layer. Nothing in this Undertaking shall 
+require Google to license versions of its first-party applications or services for 
+preinstallation or download onto a Third-Party Wrist-Worn Wearable Device. 
+5.15 
+Google shall not be in breach of this Undertaking in the event of any degradation of 
+interoperability between an Android Smartphone and a Third-Party Wrist-Worn Wearable 
+
+
+ 
+ 
+6 
+Device that is solely or primarily attributable to any acts or omissions of an Android OEM, 
+Android Smartphone App Developer, or Wrist-Worn Wearable Device OEM. 
+6 
+Monitoring Trustee 
+Appointment procedure 
+6.1 
+No later than the Control Date, Google must appoint a Monitoring Trustee to carry out the 
+functions specified in this Undertaking for a Monitoring Trustee. 
+6.2 
+The Monitoring Trustee shall: 
+(a) 
+At the time of appointment, be independent of the Parties and each of their Related 
+Bodies Corporate; 
+(b) 
+Possess the necessary experience, competence, and qualifications to carry out its 
+mandate. In particular, the Monitoring Trustee shall possess experience, competence, 
+and qualifications in relation to cybersecurity, data governance, information 
+technology systems (including algorithms), data protection, APIs, and privacy, as 
+applicable, including via the technical expert appointed pursuant to clause 6.12 
+below; and  
+(c) 
+Neither have nor become exposed to a Conflict of Interest.  
+6.3 
+Google must remunerate the Monitoring Trustee in a way that does not impede the 
+independent and effective fulfillment of its mandate. 
+6.4 
+Proposal by Google. At least 15 Business Days before the Control Date, Google must submit 
+the name or names of one or more natural or legal persons whom Google proposes to appoint 
+as the Monitoring Trustee to the ACCC for approval. The proposal shall contain sufficient 
+information for the ACCC to verify that the person or persons proposed as Monitoring Trustee 
+fulfil the requirements set out in clause 6.2 and shall include:  
+(a) 
+The full terms of the proposed mandate, which shall include all provisions necessary 
+to enable the Monitoring Trustee to fulfil its duties under this Undertaking; and 
+(b) 
+The outline of a work plan that describes how the Monitoring Trustee would carry out 
+its duties under this Undertaking.  
+6.5 
+Approval or rejection by the ACCC. The ACCC shall have the discretion to approve or reject 
+the proposed Monitoring Trustee(s) and to approve the proposed mandate subject to any 
+modifications it deems necessary for the Monitoring Trustee to fulfil its obligations in relation 
+to this Undertaking. If only one name is approved, Google shall appoint or cause to be 
+appointed the person or persons concerned as Monitoring Trustee, in accordance with the 
+mandate approved by the ACCC. If more than one name is approved, Google shall be free to 
+choose the Monitoring Trustee to be appointed from among the names approved. Unless 
+agreed by the ACCC in writing, the Monitoring Trustee shall be appointed within one week of 
+the ACCC's approval, in accordance with the mandate approved by the ACCC.  
+6.6 
+New proposal by Google. If all the proposed Monitoring Trustees are rejected, Google shall 
+submit the names of at least two more natural or legal persons within one week of being 
+informed of the rejection, in accordance with clauses 6.2 and 6.4 of this Undertaking.  
+6.7 
+Monitoring Trustee nominated by the ACCC. If all further proposed Monitoring Trustees are 
+rejected by the ACCC, the ACCC shall nominate a Monitoring Trustee, whom Google must 
+appoint, or cause to be appointed, in accordance with a Monitoring Trustee mandate 
+approved by the ACCC.  
+Functions of the Monitoring Trustee 
+
+
+ 
+ 
+7 
+6.8 
+The Monitoring Trustee shall assume its specified duties and obligations in order to ensure 
+compliance with this Undertaking. The ACCC may, on its own initiative or at the request of the 
+Monitoring Trustee or Google, give any orders or instructions to the Monitoring Trustee in 
+order to ensure compliance with this Undertaking. 
+6.9 
+The Monitoring Trustee shall:  
+(a) 
+Monitor the performance of this Undertaking by Google, including by auditing on a 
+semiannual basis the Audit Points detailed in Schedule 4; 
+(b) 
+Assess the technical means through which Google generates access logs and 
+synthesises such logs and access information into Auditable Service Logs and 
+Auditable Individual Logs that are provided to the Monitoring Trustee for review;  
+(c) 
+Propose in its first report to the ACCC a detailed work plan describing how it intends 
+to monitor compliance with this Undertaking; 
+(d) 
+Provide to the ACCC a written report, sending Google a non-confidential copy at the 
+same time, within fifteen working days after the end of each six-month period so that 
+the ACCC can assess whether this Undertaking is being complied with;  
+(e) 
+Propose, as applicable, to Google such measures as the Monitoring Trustee 
+considers necessary to ensure Google’s compliance with this Undertaking; 
+(f) 
+Promptly report in writing to the ACCC, sending Google a non-confidential copy at the 
+same time, if it concludes on reasonable grounds that Google has failed to comply 
+with this Undertaking; 
+(g) 
+Act as a contact point for questions from third parties about the nature and scope of 
+this Undertaking; and 
+(h) 
+Assume the other functions assigned to the Monitoring Trustee under this 
+Undertaking. 
+Duties and obligations of the Parties 
+6.10 
+Google must provide and must cause its advisors to provide the Monitoring Trustee with all 
+such cooperation, assistance and information as the Monitoring Trustee may reasonably 
+require to perform its tasks. The Monitoring Trustee shall have full and complete access to 
+any of Google’s books, records, documents, management or other personnel, facilities, sites 
+and technical information reasonably necessary for fulfilling its duties under this Undertaking 
+and Google shall provide the Monitoring Trustee upon request with copies of any documents 
+except where such disclosure would give rise to a loss of any applicable legal privilege. At any 
+time it plans to start processing data that it reasonably considers qualifies as Measured Body 
+Data or Health and Fitness Activity Location Data, Google shall provide the Monitoring 
+Trustee with a proposed updated Schedule 5.  
+6.11 
+Google must indemnify the Monitoring Trustee and its employees and agents (each an 
+“Indemnified Party”) and hold each Indemnified Party harmless against, and hereby agrees 
+that an Indemnified Party shall have no liability to Google for, any liabilities arising out of the 
+performance of the Monitoring Trustee’s duties under this Undertaking, except to the extent 
+that such liabilities result from the wilful default, recklessness, gross negligence or bad faith of 
+the Monitoring Trustee, its employees, agents or advisors. 
+6.12 
+At the expense of Google, the Monitoring Trustee shall appoint a technical expert and may 
+appoint other advisors, subject to Google’s approval (this approval not to be unreasonably 
+withheld or delayed) if the Monitoring Trustee considers the appointment of such advisors 
+necessary or appropriate for the performance of its duties and obligations under the mandate 
+provided that any fees and other expenses incurred by the Monitoring Trustee are reasonable. 
+Should Google refuse to approve the technical expert and/or advisors proposed by the 
+
+
+ 
+ 
+8 
+Monitoring Trustee the ACCC may approve the appointment of such technical expert and/or 
+advisors instead, after having heard Google. Only the Monitoring Trustee shall be entitled to 
+issue instructions to the technical expert and/or advisors. Clause 6.11 of this Undertaking 
+shall apply mutatis mutandis. 
+6.13 
+Google agrees that the ACCC may share Confidential Information proprietary to Google with 
+the Monitoring Trustee. The Monitoring Trustee shall not disclose Confidential Information 
+received from the ACCC, Google, or Fitbit to any third party other than the ACCC and a 
+technical expert appointed pursuant to clause 6.12.  
+Replacement, discharge and reappointment of the Monitoring Trustee 
+6.14 
+If the Monitoring Trustee ceases to perform its functions under this Undertaking or for any 
+other good cause, including the exposure of the Monitoring Trustee to a Conflict of Interest: 
+(a) 
+The ACCC may, after hearing the Monitoring Trustee and Google, require Google to 
+replace the Monitoring Trustee; or 
+(b) 
+Google may, with the prior approval of the ACCC, replace the Monitoring Trustee. 
+6.15 
+If the Monitoring Trustee is removed according to clause 6.14 of this Undertaking, the 
+Monitoring Trustee may be required to continue its function until a new Monitoring Trustee is 
+in place to whom the Monitoring Trustee has effected a full hand over of all the relevant 
+information. The new Monitoring Trustee shall be appointed in accordance with the procedure 
+referred to in clauses 6.1 to 6.7 of this Undertaking.   
+6.16 
+Unless removed according to clause 6.14 of this Undertaking, the Monitoring Trustee shall 
+cease to act as Monitoring Trustee only after the ACCC has discharged it from its duties after 
+the Undertaking with which the Monitoring Trustee has been entrusted have been 
+implemented.  
+7 
+Dispute Resolution 
+7.1 
+In the event an API User or Wrist-Worn Wearable Device OEM informs Google and the 
+Monitoring Trustee in writing that Google has either denied or revoked its access in violation 
+of Google’s obligations arising from the Web API Access Undertaking or failed to comply with 
+its obligations arising from the Android APIs Undertaking, the Fast-Track Dispute Resolution 
+Procedure described in Schedule 6 shall apply. 
+8 
+ Cessation of ongoing obligations 
+Withdrawal 
+8.1 
+Google may request withdrawal of this Undertaking pursuant to section 87B of the Act at any 
+time. This Undertaking is taken to be withdrawn on the date the ACCC consents in writing to 
+that withdrawal. 
+Revocation 
+8.2 
+The ACCC may, at any time, revoke its acceptance of this Undertaking if the ACCC becomes 
+aware that any information provided to it was incorrect, inaccurate or misleading. 
+Waiver 
+8.3 
+The ACCC may, at any time, expressly waive in writing any of the obligations contained in this 
+Undertaking or extend the date by which any such obligation is to be satisfied. 
+Survival 
+
+
+ 
+ 
+9 
+8.4 
+Unless and until this Undertaking is withdrawn in accordance with clause 8.1, clauses 1, 2, 3, 
+4, 8, 10, 11, 13, 14, 15, 16, 17 and 18 survive completion of the obligations in clauses 5, 6, 7, 
+9 and 12. 
+9 
+Jurisdiction 
+9.1 
+Google irrevocably submits to the jurisdiction of the Federal Court of Australia in relation to 
+this Undertaking. 
+9.2 
+Unless and until notified in writing by Google to the ACCC of the appointment of another 
+person as agent within Australia, Google appoints [ ] as its agent for the purposes of any 
+service process in relation to this Undertaking. 
+10 
+General Provisions 
+10.1 
+Google shall be permitted under this Undertaking to take steps to: (a) meet any applicable 
+law, regulation, legal process, or enforceable governmental request; (b) detect, prevent, or 
+otherwise address fraud, security, or technical issues; (c) improve user privacy or security; or 
+(d) protect against harm to the rights, property, or safety of Google, Google users, or the 
+public as required or permitted by law.  
+11 
+Provision of information to the ACCC 
+11.1 
+Google must notify the ACCC in writing of: 
+(a) 
+the anticipated date of the Control Date, at least five Business Days before that date; 
+and  
+(b) 
+the occurrence of the Control Date, within one Business Day of that date. 
+11.2 
+Google must respond in a timely manner to any questions or requests for information or 
+documents made by the ACCC about this Undertaking. 
+11.3 
+The ACCC may request information from the Monitoring Trustee directly at any time. 
+11.4 
+The ACCC may direct Google in respect of its compliance with this Undertaking to, and 
+Google must: 
+(a) 
+furnish information to the ACCC in the time and in the form requested by the ACCC; 
+(b) 
+produce documents to the ACCC within Google’s custody, power or control in the 
+time and in the form requested by the ACCC; and/or 
+(c) 
+attend the ACCC at a time and place appointed by the ACCC to answer any 
+questions the ACCC (its Commissioners, its staff or its agents) may have. 
+11.5 
+Any direction made by the ACCC under clause 11.4 will be notified to Google, in accordance 
+with clause 17.2. 
+11.6 
+In respect of Google’s compliance with this Undertaking, the ACCC may request the 
+Monitoring Trustee to: 
+(a) 
+furnish information to the ACCC in the time and in the form requested by the ACCC; 
+(b) 
+produce documents and materials to the ACCC that may be within the Monitoring 
+Trustee’s custody, power or control in the time and in the form requested by the 
+ACCC; and/or 
+(c) 
+attend the ACCC at a time and place appointed by the ACCC to answer any 
+questions the ACCC (its Commissioners, its staff or its agents) may have. 
+
+
+ 
+ 
+10 
+11.7 
+Google will use its best endeavours to ensure that the Monitoring Trustee complies with any 
+request from the ACCC in accordance with clauses 11.3 and 11.6. 
+11.8 
+Information furnished, documents and material produced or information given in response to 
+any request or direction from the ACCC under this clause 11 may be used by the ACCC for 
+any purpose consistent with its statutory duties. 
+11.9 
+In respect of Google’s compliance with this Undertaking, the ACCC may in its discretion: 
+(a) 
+advise the Monitoring Trustee of any request made by it under this clause 11; and/or 
+(b) 
+provide copies to the Monitoring Trustee of any information furnished, documents and 
+material produced or information given to it under this clause 11. 
+11.10 
+Nothing in this clause 11 requires the provision of information or documents in respect of 
+which Google has a claim of legal professional privilege. 
+12 
+Disclosure of this Undertaking 
+12.1 
+Google acknowledges that the ACCC may: 
+(a) 
+make this Undertaking publicly available; 
+(b) 
+publish this Undertaking on its Public Section 87B Undertakings Register and Public 
+Mergers Register; and 
+(c) 
+from time to time publicly refer to this Undertaking.  
+12.2 
+Nothing in this clause 12 prevents the ACCC from disclosing such information as is: 
+(a) 
+required by law; 
+(b) 
+permitted by section 155AAA of the Act; 
+(c) 
+necessary for the purpose of enforcement action under section 87B of the Act; or 
+(d) 
+necessary for the purpose of making such market inquiries as the ACCC thinks fit to 
+assess the impact on competition arising in connection with this Undertaking. 
+12.3 
+Nothing in this clause 12 prevents the ACCC from using the information contained in this 
+Undertaking for any purpose consistent with its statutory functions and powers. 
+13 
+Obligation to procure 
+13.1 
+Where the performance of an obligation under this Undertaking requires a Related Body 
+Corporate of Google to take or refrain from taking some action, Google will procure that 
+Related Body Corporate to take or refrain from taking that action. 
+14 
+No derogation 
+14.1 
+This Undertaking does not prevent the ACCC from taking enforcement action at any time 
+whether during or after the period of this Undertaking in respect of any breach by Google of 
+any term of this Undertaking. 
+14.2 
+Nothing in this Undertaking is intended to restrict the right of the ACCC to take action under 
+the Act for penalties or other remedies in the event that Google does not fully implement 
+and/or perform its obligations under this Undertaking or in any other event where the ACCC 
+decides to take action under the Act for penalties or other remedies. 
+
+
+ 
+ 
+11 
+15 
+Change of Control 
+15.1 
+In the event that a Change of Control is reasonably expected to occur, Google must: 
+(a) 
+notify the ACCC of this expectation as soon as practicable; and 
+(b) 
+only implement a Change of Control to another person or entity if that person or entity 
+has given a section 87B undertaking to the ACCC that requires it to comply with the 
+same obligations as are imposed on Google pursuant to this Undertaking, or on terms 
+that are otherwise acceptable to the ACCC, unless the ACCC has notified Google in 
+writing that a section 87B undertaking under this clause is not required. 
+16 
+Costs 
+16.1 
+Google must pay all of its own costs incurred in relation to this Undertaking. 
+17 
+Notices 
+17.1 
+Any notice or communication to the ACCC pursuant to this Undertaking must be sent to: 
+Email address: mergers@accc.gov.au 
+Attention: Executive General Manager 
+Mergers, Exemptions and Digital 
+With a copy sent to:  
+mergersru@accc.gov.au 
+Attention: Director, Remedies Unit 
+Policy, Coordination and Remedies Branch 
+Mergers, Exemptions, and Digital 
+17.2 
+Any notice, direction or communication to Google pursuant to this Undertaking must be sent 
+to: 
+[ 
+] 
+17.3 
+If sent by post, notices are taken to be received three Business Days after posting (or seven 
+Business Days after posting if sent to or from a place outside Australia). 
+17.4 
+If sent by email, notices are taken to be received at the time shown in the email as the time 
+the email was sent. 
+Change of contact details 
+17.5 
+Google must notify the ACCC of a change to its contact details within three Business Days. 
+17.6 
+Any notice or communication will be sent to the most recently advised contact details and 
+subject to clauses 17.3 and 17.4, will be taken to be received. 
+18 
+Defined terms and interpretation 
+Definitions in the Dictionary 
+18.1 
+A term or expression starting with a capital letter: 
+(a) 
+which is defined in the Dictionary in Part 1 of Schedule 1 (Dictionary) has the 
+meaning given to it in the Dictionary; or 
+(b) 
+which is defined in the Corporations Act, but is not defined in the Dictionary, has the 
+meaning given to it in the Corporations Act. 
+
+
+ 
+ 
+12 
+Interpretation 
+18.2 
+Part 2 of Schedule 1 sets out rules of interpretation for this Undertaking. 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+13 
+Executed as an Undertaking 
+ 
+Executed by Alphabet Inc by its authorised signatory 
+…………………………………………………… 
+(Signature) 
+…………………………………………………… 
+(Name and title 
+…………………………………………………… 
+(Date) 
+ 
+Executed by Google LLC by its authorised signatory 
+…………………………………………………… 
+(Signature) 
+…………………………………………………… 
+(Name and title 
+…………………………………………………… 
+(Date) 
+ 
+Accepted by the Australian Competition and Consumer Commission pursuant to section 87B of the 
+Competition and Consumer Act 2010 on: 
+ 
+…………………………………………………………... 
+And signed on behalf of the Commission: 
+…………………………………………………………... 2020 
+Chairman 
+ 
+ 
+Date 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+14 
+Schedule 1: Dictionary and Interpretation 
+Part 1: Dictionary  
+ACCC means the Australian Competition and Consumer Commission. 
+Access Permissioning means the auditable control of access rights to an Access 
+Restricted Data Store. 
+Access Restricted Data Store means a strictly permissioned virtual data storage 
+environment within Google that holds Measured Body Data and Health and Fitness 
+Activity Location Data, separate from any dataset within Google accessible for use in 
+or for Google Ads. If Google creates any dataset that stores Measured Body Data 
+and/or Health and Fitness Activity Location Data together with another Google 
+dataset, that dataset shall be treated either as an Access Restricted Data Store or as 
+Temporary Logs. 
+Act means the Competition and Consumer Act 2010 (Cth). 
+Ads Undertaking means the obligations set out in clauses 5.1 to 5.6 of this 
+Undertaking. 
+Android APIs means the APIs, including any improvements or bug fixes, that Google 
+licenses to Android OEMs without charge for access, either as part of AOSP or GMS, 
+for use by Android Smartphone App Developers with an Android App. 
+Android APIs Undertaking means the obligations set out in clauses 5.10 to 5.15 of 
+this Undertaking. 
+Android App means a mobile application designed to run on a compatible Android 
+Smartphone. 
+Android Compatibility Definition Document means the document published at 
+https://source.android.com/compatibility/cdd (or any successor site). 
+Android OEM means any actual or potential supplier of Android Smartphones, 
+excluding the Parties. 
+Android Smartphone means a handheld device (as defined in the Android 
+Compatibility Definition Document) running AOSP. 
+Android Smartphone App Developer means a third-party developer of an Android 
+App. 
+AOSP means the open-source Android binary code available at 
+https://source.android.com (or any successor site) or any successor open-source 
+smartphone operating system. 
+API Development and Testing means the process by which Google develops and 
+tests new versions of Android APIs, prior to their simultaneous release to Android 
+Smartphone App Developers. For the avoidance of doubt, this may include Google’s 
+use of a lead device to develop and test new software. 
+API User means any third party with a software application distributed or made 
+available to Australian Users that requests access to the Fitbit Web API or the 
+Relevant Google API, meets the Privacy and Security Requirements, and agrees to 
+the Fitbit Platform Terms of Service (where access is made available via the Fitbit 
+Web API) or the Terms of Service and the Services User Data Policy (where access 
+is made available via the Relevant Google API). 
+
+
+ 
+ 
+15 
+Audit Points means the minimum data and information points that the Monitoring 
+Trustee will audit on a regular basis. 
+Auditable Individual Logs means a list of all individuals that have accessed an 
+Access Restricted Data Store or Temporary Logs and the date of that access. 
+Auditable Service Logs means a list of all Google Services that have access to an 
+Access Restricted Data Store or Temporary Logs. 
+Australian User means a user that has during the period of the Undertaking been 
+(i) located in Australia as determined by Google Account information or Fitbit Account 
+information, as applicable, or (ii) located outside of Australia according to Google 
+Account information or Fitbit Account information, as applicable, but whose IP 
+address associated with use of Google or Fitbit Health and Fitness Apps, as 
+applicable, has been located in Australia for more than 30 consecutive days. 
+Benchmark OEMs means the 5 largest suppliers of consumer wrist-worn wearable 
+devices that process the data types that qualify as Measured Body Data and/or 
+Health and Fitness Activity Location Data if processed by Google or Fitbit as 
+measured in the Industry Report, excluding Fitbit, Google, and any Wrist-Worn 
+Wearable Device OEMs using Wear OS and that provide developers with access to 
+their health and wellness data solely through the Fitbit Web API or the Relevant 
+Google API. 
+Business Day means a day other than a Saturday or Sunday on which banks are 
+open for business generally in the Australian Capital Territory.  
+Change of Control means: 
+(i) 
+the assignment or other transfer of the legal or beneficial ownership of some 
+or all of the share capital of Google to any other person or entity that may 
+impact compliance with this Undertaking in its entirety; or 
+(ii) 
+the sale or transfer of any assets necessary, or which may be necessary, to 
+enable Google to continue to comply with this Undertaking in its entirety. 
+Companion App means a mobile app available for an Android Smartphone whose 
+functionality includes but is not limited to pairing, notification bridging, and device 
+management and settings for a Wrist-Worn Wearable Device. 
+Confidential Information means any business secrets, know-how, commercial 
+information, or any other information of a proprietary nature that is not in the public 
+domain. 
+Conflict of Interest means any conflict of interest that impairs the Monitoring 
+Trustee's objectivity and independence in discharging its duties under this 
+Undertaking. 
+Control Date means the date on which the Proposed Acquisition is completed. 
+Commencement Date means the date described in clause 3.1 of this Undertaking. 
+Core Interoperability APIs means Android APIs licensed as part of AOSP offering at 
+least the functionality of Android APIs that currently exist in AOSP, including any 
+improvements of those functionalities as a result of updates or bug fixes, that, when 
+properly implemented by an Android OEM on an Android Smartphone, and with 
+appropriate user consent, provide the means for a Third-Party Wrist-Worn Wearable 
+Device (or, as appropriate, associated Companion App) to: 
+
+
+ 
+ 
+16 
+(i) 
+Connect to the Android Smartphone via Bluetooth (or any successor 
+technology), maintain such a connection, and transfer data between the 
+Wrist-Worn Wearable Device and the Android Smartphone; 
+(ii) 
+Scan for any nearby Wrist-Worn Wearable Devices and/or make the Android 
+Smartphone visible to those devices; 
+(iii) 
+Display and act upon notifications (including phone calls, text messages, and 
+calendar events) from the Android Smartphone on the connected Wrist-Worn 
+Wearable Device; 
+(iv) 
+Read, initiate, and reply to a text message sent to the paired Android 
+Smartphone; 
+(v) 
+Display controls for initiating, answering or declining phone calls on the 
+paired Android Smartphone; 
+(vi) 
+Display, initiate, and edit calendar events on the paired Android Smartphone; 
+(vii) 
+Access and control the camera on the paired Android Smartphone; 
+(viii) 
+Access a geolocation sensor (eg GPS) on the paired Android Smartphone 
+that is capable of providing geolocation coordinates; 
+(ix) 
+Control media playback on the paired Android Smartphone; and 
+(x) 
+View and sync contacts stored on the paired Android Smartphone. 
+Corporations Act means the Corporations Act 2001 (Cth). 
+Data Protection System means the auditable set of requirements supervised by the 
+Monitoring Trustee to ensure that Measured Body Data and Health and Fitness 
+Activity Location Data to which a Google Service gains access is permissioned in a 
+manner that prevents its use in or for Google Ads.  
+Data Separation means the auditable holding separate of Measured Body Data and 
+Health and Fitness Activity Location Data from any dataset within Google accessible 
+for use in or for Google Ads. 
+Developer Documentation means information that Google makes generally 
+available to facilitate the use of Android APIs, of the kind that is currently provided for 
+existing APIs on developer.android.com (or any successor site) and 
+https://developers.google.com/android/ (or any successor site). 
+Developer Previews means a process by which Google makes forthcoming Android 
+software available to Android Smartphone App Developers to facilitate their 
+development of apps for an upcoming Android release. 
+Equivalent Data Type means a commonly defined and standardised consumer 
+health and fitness data type sent to a supplier of consumer wrist-worn wearable 
+devices from sensors on such supplier’s wrist-worn wearable devices or that is 
+manually inputted into such supplier’s apps usable with such devices.  
+First-Party Connected Scale means any consumer connected scale for measuring a 
+user’s weight developed or manufactured by Fitbit or Google, regardless of its 
+branding, that collects or processes Measured Body Data and/or Health and Fitness 
+Activity Location Data. For the avoidance of doubt, this definition does not capture 
+devices that are not sold or otherwise provided to customers for everyday use. 
+
+
+ 
+ 
+17 
+First-Party Wrist-Worn Wearable Device means any consumer wrist-worn wearable 
+device developed or manufactured by Fitbit or Google, regardless of its branding, that 
+collects or processes Measured Body Data and/or Health and Fitness Activity 
+Location Data. For the avoidance of doubt, this definition does not capture devices 
+that are not sold or otherwise provided to customers for everyday use.  
+Fitbit means Fitbit, Inc. or any Related Body Corporate of Fitbit, Inc, or any successor 
+entities. 
+Fitbit Account means a user account subject to the Fitbit Terms of Service and Fitbit 
+Privacy Policy during the term of this Undertaking. 
+Fitbit Other Device means any device developed or in development or manufactured 
+by Fitbit at the Commencement Date that is not a First-Party Wrist-Worn Wearable 
+Device or a First-Party Connected Scale and that collects or processes Measured 
+Body Data and/or Health and Fitness Activity Location Data, such as Fitbit Clips. 
+Fitbit Platform Terms of Service means the terms of service applicable to the Fitbit 
+Platform available at: https://dev.fitbit.com/legal/platform-terms-of-service/, or any 
+successor site, as may be updated from time-to-time, for instance to comply with 
+changes to applicable privacy laws or regulations. Any updates to the Fitbit Platform 
+Terms of Service following the Commencement Date specific to access to the Fitbit 
+Web API will be consistent with the spirit of the Web API Access Undertaking. Google 
+will notify the Monitoring Trustee of changes to these Fitbit Platform Terms of Service 
+ten days prior to their becoming effective, unless the change is urgent in which case 
+Google will notify the Monitoring Trustee as soon as reasonably practicable and no 
+later than five days after such terms become effective.  
+Fitbit Service means any product or service (including algorithms) operated by Fitbit 
+at any time during the term of this Undertaking. 
+Fitbit Web API means Fitbit’s web-based API as described at 
+https://dev.fitbit.com/build/reference/web-api/ or any successor site that enables third-
+party applications and services to access and modify Fitbit users’ Supported 
+Measured Body Data on their behalf subject to the Fitbit Platform Terms of Service. 
+GMS means Google’s proprietary software layer as licensed to OEMs for 
+preinstallation on a compatible Android Smartphone. 
+Google means Google LLC or any Related Body Corporate of Google LLC. 
+Google Account means a user account (as described in account.google.com or any 
+successor site) created subject to the Google Terms of Service and Google Privacy 
+Policy and used during the term of this Undertaking.  
+Google Ads means any current or future Google Service providing search 
+advertising, display advertising, and advertising intermediation, including advertising 
+measurement, regardless of the property on which ads are displayed, including any 
+Google owned and operated properties. For the avoidance of any doubt, any Fitbit 
+Services providing search advertising, display advertising, and advertising 
+intermediation developed, offered, or sold following the Control Date would constitute 
+Google Ads for the purposes of this Undertaking. Google Ads currently includes the 
+following services: Google Ads (includes Google Display Network, Google Search 
+Network, YouTube Ads, Gmail Ads), Google Marketing Platform (includes Display & 
+Video 360, Search Ads 360, Campaign Manager, Google Analytics, Google Tag 
+Manager, Optimize, Data Studio, Google Surveys), AdSense (includes AdSense for 
+Search, AdSense for Shopping, AdSense for Content, AdSense for Games, AdSense 
+for Video, AdSense for Domains), AdMob (includes Open Bidding), Google Ad 
+Manager (includes Open Bidding, Network Bidding, Dynamic Ad Insertion), 
+Authorized Buyers, Ad Connector, Ads Data Hub, Google Hotel Ads, Google 
+
+
+ 
+ 
+18 
+Shopping Ads, Local Inventory Ads, Manufacturer Center, Merchant Center, and 
+Waze Local Ads.  
+Google or Fitbit Health and Fitness App means a Google or Fitbit web, mobile or 
+wearable application used with either a Google Account or a Fitbit Account and 
+designed to enable a registered user to measure, track, and manage their health and 
+fitness using Measured Body Data and/or Health and Fitness Activity Location Data. 
+As of the Commencement Date these consist of the iOS, Android, and WearOS 
+versions of the Google Fit app and the iOS, Android, Amazon, and Windows versions 
+of the Fitbit apps, including the Fitbit Coach and Fitbit Premium services. 
+Google Play Store means Google’s app store for Android Smartphones, available at: 
+https://play.google.com/store, or any successor Google app store for Android 
+Smartphones.  
+Google Service means any product or service (including algorithms) operated by 
+Google at any time during the term of this Undertaking. For the avoidance of any 
+doubt, Google Services include any product or service Google may develop in the 
+future, including via acquisitions, regardless of its branding.  
+Google Smartphone means an Android Smartphone that is developed or 
+manufactured by Google. 
+Health and Fitness Activity Location Data means any data (including processed 
+data and derived data) relating to identified or identifiable (as defined under 
+applicable data protection laws) Australian Users’ geolocation collected by a health 
+and fitness activity tracking feature on Google or Fitbit Health and Fitness Apps (or 
+any replacement or successor Google or Fitbit Health and Fitness Apps), where such 
+geolocation data is collected and sent to Google or Fitbit from the First-Party Wrist-
+Worn Wearable Device, First-Party Connected Scale or Fitbit Other Devices. 
+Schedule 5 lists the data types that can qualify as Health and Fitness Activity 
+Location Data at the Commencement Date. Schedule 5 will be updated on a 
+semiannual basis, with the supervision of the Monitoring Trustee, and at such other 
+times as the Monitoring Trustee may reasonably request, to include other data types 
+meeting the definition of Health and Fitness Activity Location Data introduced during 
+the term of this Undertaking. Health and Fitness Activity Location Data does not 
+include (i) any data (including derived data) relating to identified or identifiable 
+Australian Users’ geolocation collected by any apps or services other than Google or 
+Fitbit Health and Fitness Apps (or any replacement or successor Google or Fitbit 
+Health and Fitness Apps), including background geolocation data; or (ii) data 
+collected from participating Google Accounts or Fitbit Accounts, as the case may be, 
+operated by Google employees or Fitbit employees as part of internal Google 
+Services or Fitbit Services testing or development, including to test compliance with 
+this Undertaking or any other commitment provided to a competition authority in 
+relation to the Proposed Acquisition. 
+Individual Level Access Documentation means a record of Google’s approval 
+process for applying Access Permissioning to individuals.  
+Industry Report means global share of sales (excluding sales in the People’s 
+Republic of China) of wrist-worn wearable devices by volume over the most recent 
+four quarters as measured by the most current IDC Worldwide Quarterly Wearable 
+Device Tracker or, were IDC to suspend publication of this tracker, an equivalent 
+industry report.  
+Measured Body Data means any data (including processed data and derived data) 
+relating to identified or identifiable (as defined under applicable data protection laws) 
+Australian Users that measures and tracks the user’s body functions, physical 
+condition, fitness activities, nutrition or wellness, and similar functions, and that is sent 
+to: 
+
+
+ 
+ 
+19 
+(i) 
+Google or Fitbit, from sensors on First-Party Wrist-Worn Wearable Devices, 
+First-Party Connected Scales, or Fitbit Other Devices; or  
+(ii) 
+Fitbit, having been manually inputted into a Fitbit Account through a Fitbit 
+Health and Fitness App; or  
+(iii) 
+Google, having been manually inputted into a Google Account through a 
+Google Health and Fitness App where such app is usable with First-Party 
+Wrist-Worn Wearable Devices, First-Party Connected Scales, or Fitbit Other 
+Devices. 
+Schedule 5 lists the data types that qualify as Measured Body Data as of 
+November 2, 2020. Schedule 5 will be updated on a semiannual basis, with the 
+supervision of the Monitoring Trustee, and at such other times as the Monitoring 
+Trustee may reasonably request, to include other data types meeting the definition of 
+Measured Body Data introduced during the term of this Undertaking. Measured Body 
+Data does not include data collected from participating Google Accounts or Fitbit 
+Accounts, as the case may be, operated by Google employees or Fitbit employees as 
+part of internal Google Services or Fitbit Services testing or development, including to 
+test compliance with this Undertaking or any other commitment provided to a 
+competition authority in relation to the Proposed Acquisition. For the avoidance of 
+doubt, and to avoid circumvention of the Ads Undertaking, if Google or Fitbit 
+knowingly and intentionally transmits Measured Body Data to a third party for the 
+purpose of receiving such data back to use in or for Google Ads, such received data 
+shall also constitute Measured Body Data.  
+Monitoring Trustee means one or more natural or legal persons who are approved 
+by the ACCC and appointed by Google, and who have the duty to carry out the 
+functions specified in this Undertaking for a Monitoring Trustee. 
+Other Google Services means any Google Service (such as Google Search, Google 
+Maps, Google Assistant, and YouTube) other than:  
+(i) 
+Any Google Service or Fitbit Service whose primary purpose is related to 
+users’ health and fitness or healthcare;  
+(ii) 
+Common or shared Google infrastructure and internal systems, tools, 
+processes, programs, and services (e.g. hosting, network infrastructure, 
+security or any other internal tools (including Google Takeout), platforms and 
+operating systems, backup storage, personnel, or support services (including 
+customer support), payment processing, and fraud prevention, technical 
+engineering support, security, and troubleshooting services);  
+(iii) 
+Sharing with or use by Google of Measured Body Data where reasonably 
+necessary for Google to: (a) meet any applicable law, regulation, legal 
+process, or enforceable governmental request; (b) enforce applicable terms 
+of service, including investigation of potential violations; (c) detect, prevent, 
+or otherwise address fraud, security, or technical issues; or (d) protect 
+against harm to the rights, property or safety of Google, Google users, or the 
+public as required or permitted by law.  
+Parties means Google and Fitbit. 
+Privacy and Security Requirements means: 
+(i) 
+Primary Purpose: The primary purpose for requesting access and use of 
+data must be related to users’ health and fitness or healthcare; 
+
+
+ 
+ 
+20 
+(ii) 
+Minimum and Proportionate Access: The application or service must 
+request only the minimum access to user data necessary to perform the 
+functionality; 
+(iii) 
+User Notice: The application or service must provide adequate notice to the 
+user about their data being accessed and used, prior to such access and 
+use; 
+(iv) 
+Express and Informed User Consent: The application or service must 
+obtain the user’s express and informed consent under applicable data 
+protection laws;  
+(v) 
+Purpose Limitations: The application or service may only use and transfer 
+data for the permitted purposes for which the API User obtained access to 
+the data and only to the extent necessary, for security purposes, to comply 
+with applicable laws, or with express and informed user consent. The 
+application or service may not use or transfer the data for prohibited 
+purposes, such as personalised advertising purposes, to determine credit-
+worthiness, or provide the data to data brokers, advertising platforms, or 
+other information resellers; 
+(vi) 
+Security Requirements: API Users are required to handle data securely in 
+accordance with industry standard security requirements and practices. To 
+ensure compliance with security requirements, Google may require third 
+parties seeking to access Supported Measured Body Data to undergo 
+standardised security assessments, for which API Users may incur a charge 
+to be paid to the third parties conducting the security assessment.  
+Public Mergers Register means the ACCC’s public register of merger clearances, 
+available at www.accc.gov.au  
+Public Section 87B Undertakings Register means the ACCC’s public register of 
+section 87B undertakings, available at www.accc.gov.au 
+Related Bodies Corporate has the meaning given to it by section 50 of the 
+Corporations Act. 
+Relevant Google API means the existing Google Fit APIs, described at: 
+https://developers.google.com/fit, or any successor site, or a successor Google API 
+that enables third-party applications and services to access and modify Measured 
+Body Data subject to Google’s Terms of Service and offering substantially similar or 
+increased functionality as the Fitbit Web API.  
+Relevant Market has the meaning provided in clause 2.7 of this Undertaking. 
+Service Level Access Documentation means a record of Google’s approval 
+process for applying Access Permissioning to Google Services. 
+Service Level Access Map means a record of all of the Google Services with 
+service-level access pursuant to clause 5.3(c)(ii) and the storage locations in Google 
+(eg a Temporary Log) in which those services store Measured Body Data or Health 
+and Fitness Activity Location Data they may have accessed. 
+Services User Data Policy means the user data policies applicable to the use of the 
+Relevant Google API (eg the Google API User Data Policy available at 
+https://developers.google.com/terms/api-services-user-data-policy and the Fit 
+Developer Guidelines available at https://developers.google.com/fit/overview) as may 
+be updated from time-to-time, for instance to comply with changes to applicable 
+privacy laws or regulations. Any updates to the Services User Data Policy following 
+the Commencement Date specific to access to the Relevant Google API must be 
+
+
+ 
+ 
+21 
+consistent with the spirit of the Web API Access Undertaking. Google will provide the 
+Monitoring Trustee on a semiannual basis a list of the changes, if any, that have been 
+made to the Services User Data Policy in the preceding six months. 
+Supported Measured Body Data: as of the Commencement Date, Supported 
+Measured Body Data consists of Measured Body Data collected from any global 
+Google or Fitbit user (and not just from Australian Users) and made available to third 
+parties through the Fitbit Web API under the Fitbit Platform Terms of Service. Such 
+data types are listed in Schedule 7. The types of Measured Body Data that can 
+constitute Supported Measured Body Data shall be updated pursuant to the Update 
+Mechanism.  
+Supported Measured Body Data excludes:  
+(i) 
+Data collected solely for the purpose of product testing or development for 
+Google Services or Fitbit Services (including as part of healthcare partner 
+collaborations or early access end user testing), health-related research 
+efforts (such as clinical research studies), or to test compliance with this 
+Undertaking or any other commitment provided to a competition authority in 
+relation to the Proposed Acquisition; 
+(ii) 
+Data subject to applicable health or privacy laws and regulations that Google 
+or Fitbit may not lawfully make available to third parties under such applicable 
+laws;  
+(iii) 
+Data exclusively made available to users as part of a paid service (such as 
+Fitbit Premium);  
+(iv) 
+Data collected separately by Verily, Calico or other separately operated 
+Alphabet companies as part of their separate business and product activities;  
+(v) 
+Data collected from Google Services or Fitbit Services offered solely outside 
+of Australia. 
+Temporary Logs means a strictly permissioned, time-limited virtual dataset that 
+contains Measured Body Data and/or Health and Fitness Activity Location Data that 
+have been accessed by Google Services.  
+Terms of Service means the terms of service applicable to the use of the Relevant 
+Google API available at: https://developers.google.com/fit, or any successor site, as 
+may be updated from time to time, for instance to comply with changes to applicable 
+privacy laws or regulations. Any updates to the Terms of Service following the 
+Commencement Date specific to access to the Relevant Google API must be 
+consistent with the spirit of the Web API Access Undertaking. Google will notify the 
+Monitoring Trustee of changes to these Terms of Service ten days prior to their 
+becoming effective, unless the change is urgent in which case Google will notify the 
+Monitoring Trustee as soon as reasonably practicable and no later than five days 
+after such terms become effective. 
+Third-Party Wrist-Worn Wearable Device means a Wrist-Worn Wearable Device 
+that is designed by the third party to pair with an Android Smartphone and/or Google 
+Smartphone and that is developed or manufactured by a Wrist-Worn Wearable 
+Device OEM. 
+Undertaking is a reference to all provisions of this document, including its schedules 
+and as varied from time to time under section 87B of the Act. 
+Update Mechanism: following the Commencement Date, Measured Body Data 
+either (i) of a type listed in Schedule 5 as of the Commencement Date; or (ii) of a 
+type newly made available after the Commencement Date to users in a Google or 
+
+
+ 
+ 
+22 
+Fitbit Health and Fitness App, will come to constitute Supported Measured Body Data 
+if: (i) such data meets the conditions of Supported Measured Body Data set forth 
+above; and (ii) an Equivalent Data Type is made available to developers without 
+charge through publicly documented APIs by at least 3 of the 5 Benchmark OEMs. 
+On a quarterly basis following the Commencement Date, Google will report to the 
+Monitoring Trustee if a new data type meets the requirements in the preceding 
+sentence. Such a data type will qualify as Supported Measured Body Data no later 
+than one calendar year from the date of such reporting to the Monitoring Trustee, 
+unless the data type met the requirements of the Update Mechanism within the first 
+calendar year following the Commencement Date, in which case that data type will 
+qualify as Supported Measured Body Data no later than two calendar years from the 
+Commencement Date. Schedule 7 will be updated on a semi-annual basis or at the 
+request of the Monitoring Trustee to include any additional types of Supported 
+Measured Body Data that arose during that period. 
+Web API Access Undertaking means the obligations set out in clauses 5.7 to 5.9 of 
+this Undertaking. 
+Wrist-Worn Wearable Device means any consumer wrist-worn wearable device that 
+is compatible with an Android Smartphone and/or Google Smartphone and that 
+processes data types that would qualify as Measured Body Data and/or Health and 
+Fitness Activity Location Data if processed by Google or Fitbit. For the avoidance of 
+doubt, this definition does not capture devices that are not sold or otherwise provided 
+to customers for everyday use. 
+Wrist-Worn Wearable Device OEM means any actual or potential supplier of Wrist-
+Worn Wearable Devices other than the Parties. 
+Part 2: Interpretation 
+In the interpretation of this Undertaking, the following provisions apply unless the context 
+otherwise requires: 
+(a) 
+a reference to this Undertaking includes all of the provisions of this document 
+including its schedules; 
+(b) 
+headings are inserted for convenience only and do not affect the interpretation of this 
+Undertaking;  
+(c) 
+if the day on which any act, matter or thing is to be done under this Undertaking is not 
+a Business Day, the act, matter or thing must be done on the next Business Day; 
+(d) 
+a reference in this Undertaking to any law, legislation or legislative provision includes 
+any statutory modification, amendment or re-enactment, and any subordinate 
+legislation or regulations issued under that legislation or legislative provision;  
+(e) 
+a reference in this Undertaking to any company includes its Related Bodies 
+Corporate; 
+(f) 
+a reference in this Undertaking to any agreement or document is to that agreement or 
+document as amended, novated, supplemented or replaced; 
+(g) 
+a reference to a clause, part, schedule or attachment is a reference to a clause, part, 
+schedule or attachment of or to this Undertaking; 
+(h) 
+an expression importing a natural person includes any company, trust, partnership, 
+joint venture, association, body corporate or governmental agency; 
+
+
+ 
+ 
+23 
+(i) 
+where a word or phrase is given a defined meaning, another part of speech or other 
+grammatical form in respect of that word or phrase has a corresponding meaning; 
+(j) 
+a word which denotes the singular also denotes the plural, a word which denotes the 
+plural also denotes the singular, and a reference to any gender also denotes the other 
+genders; 
+(k) 
+a reference to the words 'such as’, ‘including’, ‘particularly' and similar expressions is 
+to be construed without limitation; 
+(l) 
+a construction that would promote the purpose - or object - underlying the 
+Undertaking (whether expressly stated or not) will be preferred to a construction that 
+would not promote that purpose or object; 
+(m) 
+material not forming part of this Undertaking may be considered to 
+(i) 
+confirm the meaning of a clause is the ordinary meaning conveyed by the 
+text of the clause, taking into account its context in the Undertaking and the 
+competition concerns intended to be addressed by the Undertaking and the 
+clause in question; or 
+(ii) 
+determine the meaning of the clause when the ordinary meaning conveyed 
+by the text of the clause, taking into account its context in the Undertaking 
+and the purpose or object underlying the Undertaking, leads to a result that 
+does not promote the purpose or object underlying the Undertaking;  
+(n) 
+in determining whether consideration should be given to any material in accordance 
+with paragraph (m), or in considering any weight to be given to any such material, 
+regard must be had, in addition to any other relevant matters, to the: 
+(i) 
+effect that reliance on the ordinary meaning conveyed by the text of the 
+clause would, have (taking into account its context in the Undertaking and 
+whether that meaning promotes the purpose or object of the Undertaking); 
+and 
+(ii) 
+need to ensure that the result of the Undertaking is to completely address 
+any ACCC competition concerns; 
+(o) 
+the ACCC may authorise the ACCC Mergers Review Committee, a member of the 
+ACCC or a member of the ACCC staff, to exercise a decision-making function under 
+this Undertaking on its behalf and that authorisation may be subject to any conditions 
+which the ACCC may impose;  
+(p) 
+in performing its obligations under this Undertaking, Google will do everything 
+reasonably within its power to ensure that its performance of those obligations is done 
+in a manner which is consistent with promoting the purpose and object of this 
+Undertaking;  
+(q) 
+a reference to: 
+(i) 
+a thing (including, but not limited to, a chose in action or other right) includes 
+a part of that thing; 
+(ii) 
+a party includes its successors and permitted assigns; and 
+(iii) 
+a monetary amount is in Australian dollars. 
+ 
+ 
+
+
+ 
+ 
+24 
+Schedule 2 – Data Points Google Will Document With Respect To Individual Access 
+1. 
+Individual’s name 
+2. 
+Individual’s Google ID 
+3. 
+Individual’s role 
+4. 
+Confirmation that individual is not in a reporting line related to Google Ads  
+5. 
+Reason for Individual receiving access  
+6. 
+Date of access 
+Schedule 3 – Data Points Google Will Document With Respect to Service-Level Access 
+1. 
+Name of Google Service receiving access (eg Assistant) 
+2. 
+List of data types from Schedule 5 the Google Service can access from the Access 
+Restricted Data Store 
+3. 
+Reasons for Google Service receiving access 
+4. 
+Start date of access 
+5. 
+The Google Service’s compliance proposal for adhering to the Data Protection System. This 
+proposal will include at a minimum: 
+(a) 
+An explanation of the process through which the Google Service will ensure that 
+accessed Measured Body Data and Health and Fitness Activity Location Data will be 
+stored in an Access Restricted Data Store or, if it is stored outside an Access 
+Restricted Data Store, will be stored in Temporary Logs  
+(b) 
+Type of storage location of such relevant data accessed by such a Google Service 
+(eg in an Access Restricted Data Store, or Temporary Log(s)) 
+(c) 
+An updated version of the Service Level Access Map that accounts for any new 
+storages of Measured Body Data or Health and Fitness Activity Location Data as a 
+result of the new service level access  
+(d) 
+The Google Service’s retention and deletion plan with respect to the accessed 
+Measured Body Data and Health and/or Fitness Activity Location Data 
+(e) 
+If such a service creates Temporary Logs, the documentation will include a link to the 
+Google Service’s individual access documentation for such relevant Temporary Logs 
+Schedule 4 – List of Minimum Audit Points 
+1. 
+All individuals appearing in Auditable Individual Logs appear in Individual Level Access 
+Documentation  
+2. 
+All Individual Level Access Documentation provides a reason for access unrelated to Google 
+Ads 
+3. 
+At the time of access, no individual with a reporting line running into Google Ads appears in 
+Auditable Individual Logs. Google will provide the Monitoring Trustee with the reporting lines 
+up to the Google CEO for all individuals appearing in Auditable Individual Logs drawn directly 
+from Google’s Human Resource systems at the Monitoring Trustee’s request 
+
+
+ 
+ 
+25 
+4. 
+All Google Services appearing in Auditable Service Logs appear in Service Level Access 
+Documentation  
+5. 
+All Service Level Access Documentation provides a reason for the service receiving access 
+that is unrelated to Google Ads  
+6. 
+All Service Level Access Documentation includes an adequate Google Services’ compliance 
+proposal as described in Schedule 3  
+7. 
+No Google Ads service appears in Auditable Service Logs  
+8. 
+Following the Commencement Date, no Google Service has access to the Fitbit Web API or, if 
+a service does, Google has provided to the Monitoring Trustee appropriate Service Level 
+Access Documentation for that service prior to its gaining access. Google will provide the 
+Monitoring Trustee with a list of all services having access to the Fitbit Web API drawn directly 
+from Fitbit’s systems at the Monitoring Trustee’s request 
+Schedule 5 – Indicative List of Current Data Types that Can Qualify as Measured Body Data and 
+Health and Fitness Activity Location Data (as of 2 November 2020)  
+Data Type 
+Measured Body Data 
+Health and 
+Fitness Activity 
+Location Data 
+Heart Rate 
+✔ 
+ 
+Heart Rate Variability 
+✔ 
+ 
+Cardio Fitness Score 
+✔ 
+ 
+Time In Heart Rate Zones 
+✔ 
+ 
+Resting Heart Rate 
+✔ 
+ 
+VO2 Max Values 
+✔ 
+ 
+Electrocardiogram 
+✔ 
+ 
+Breathing Rate 
+✔ 
+ 
+Height 
+✔ 
+ 
+Stride Length 
+✔ 
+✔1 
+Weight2 
+✔ 
+ 
+Body Mass Index 
+✔ 
+ 
+Body Fat Percentage 
+✔ 
+ 
+Steps 
+✔ 
+ 
+Distance 
+✔ 
+✔3 
+Floors 
+✔ 
+ 
+Altitude 
+✔ 
+ 
+Calories 
+✔ 
+ 
+Basal Metabolic Rate (BMR) Calories 
+✔ 
+ 
+Activity Name 
+✔ 
+ 
+Activity Minutes (duration) 
+✔ 
+ 
+Activity Calories 
+✔ 
+ 
+Activity Distance 
+✔ 
+ 
+Activity Steps 
+✔ 
+ 
+                                                     
+1  
+When a Fitbit user tracks a run using Activity GPS, Stride Length is updated automatically. Stride Length thus may be partially 
+derived from Activity GPS, which qualifies as Health and Fitness Activity Location data. 
+2  
+Includes “weight” that is part of the user’s profile information. 
+3  
+“Distance” is calculated by multiplying “steps” by “stride length”, and therefore may include input derived from “activity GPS”, 
+which qualifies as Health and Fitness Activity Location Data. 
+
+
+ 
+ 
+26 
+Data Type 
+Measured Body Data 
+Health and 
+Fitness Activity 
+Location Data 
+Activity Floors 
+✔ 
+ 
+Activity Altitude 
+✔ 
+ 
+Activity Heart Rate 
+✔ 
+ 
+Activity Speed 
+✔ 
+ 
+Activity GPS 
+ 
+✔ 
+Lightly Active Minutes 
+✔ 
+ 
+Moderately Active Minutes 
+✔ 
+ 
+Sedentary Minutes 
+✔ 
+ 
+Very Active Minutes 
+✔ 
+ 
+Active Zone Minutes 
+✔ 
+ 
+Swimming (length, stroke style) 
+✔ 
+ 
+Activity Pace 
+✔ 
+ 
+Menstrual Cycle Log  
+✔ 
+ 
+Menstrual Cycle Dates 
+✔ 
+ 
+Birth Control Log 
+✔ 
+ 
+Average Period Stats 
+✔ 
+ 
+Sleep Log (eg date, duration) 
+✔ 
+ 
+Sleep Efficiency4 
+✔ 
+ 
+Sleep Stages (eg timestamp, length) 
+✔ 
+ 
+Sleep Score 
+✔ 
+ 
+Blood Glucose 
+✔ 
+ 
+Water Intake  
+✔ 
+ 
+Food Log Item 
+✔ 
+ 
+Favorite Foods  
+✔ 
+ 
+Food Log Item Nutritional Information (eg calories, 
+macronutrients) 
+✔ 
+ 
+Estimated Oxygen Variation 
+✔ 
+ 
+Blood Oxygen Saturation (SpO2) 
+✔ 
+ 
+Electrodermal Activity Responses 
+✔ 
+ 
+Body Temperature  
+✔ 
+ 
+Sickness Symptoms Log 
+✔ 
+ 
+Skin Temperature Variation 
+✔ 
+ 
+Meditation Minutes 
+✔ 
+ 
+Mood Reflection 
+✔ 
+ 
+Stress Management Score 
+✔ 
+ 
+Fitbit Coach Workouts (eg Workout Duration, Calories 
+Burned) 
+✔ 
+ 
+Fitbit Coach Achievements 
+✔ 
+ 
+Badges derived from Measured Body Data or Health and 
+Fitness Activity Location Data  
+✔ 
+ 
+Trophies derived from Measured Body Data or Health and 
+Fitness Activity Location Data 
+✔ 
+ 
+ 
+ 
+                                                     
+4  
+Fitbit has not collected Sleep Efficiency since 2017. The Fitbit Web API nevertheless still calculates the data type (based on 
+other sleep data) and it remains available to third parties. 
+
+
+ 
+ 
+27 
+Schedule 6 – Fast Track Dispute Resolution Procedure  
+1 
+An API User or Wrist-Worn Wearable Device OEM that wishes to avail itself of the fast track 
+dispute resolution procedure (the “Requesting Party”) shall inform Google and the Monitoring 
+Trustee in writing, setting out in detail the reasons leading the Requesting Party to believe that 
+Google is failing to comply with the requirements in the Undertaking. The Requesting Party and 
+Google will use commercially reasonable efforts to settle all disputes that may arise through 
+cooperation and consultation within a reasonable period of time not exceeding fifteen working 
+days (such period being extendable by mutual consent of Google and the Requesting Party) 
+(“Consultation Period”) after receipt of the request. 
+2 
+The Monitoring Trustee shall present its own proposal (the “Trustee Proposal”) for resolving 
+the dispute within eight working days, specifying in writing the rationale for the Trustee Proposal, 
+and the action, if any, to be taken by Google in order to ensure compliance with the Undertaking 
+vis-à-vis the Requesting Party.  
+3 
+Should the Requesting Party and Google (together, the “Parties to the Arbitration”) fail to 
+resolve their differences of opinion in the Consultation Period, then the Requesting Party may, 
+within 20 working days after the Consultation Period has expired, serve a notice (the “Notice”), 
+in the sense of a request for arbitration, to the International Chamber of Commerce (the 
+“Arbitral Institution”), with a copy of such Notice and request for arbitration to Google. 
+4 
+The Notice shall set out in detail the dispute, difference or claim (the “Dispute”) and shall 
+contain, inter alia, all issues of both fact and law, including any suggestions as to the procedure, 
+and all documents relied upon shall be attached, e.g., documents, agreements, expert reports, 
+and witness statements. The Notice shall also contain a detailed description of the action to be 
+undertaken by Google and the Trustee Proposal, including a comment as to its appropriateness. 
+5 
+Google shall, within ten working days from receipt of the Notice, submit its answer (the 
+“Answer”), which shall provide detailed reasons for its conduct and set out, inter alia, all issues 
+of both fact and law, including any suggestions as to the procedure, and all documents relied 
+upon, e.g., documents, agreements, expert reports, and witness statements. The Answer shall, 
+if appropriate, contain a detailed description of the action which Google proposes to undertake 
+vis-à-vis the Requesting Party and the Trustee Proposal (if not already submitted), including a 
+comment as to its appropriateness. 
+Appointment of the Arbitrators 
+6 
+The Arbitral Tribunal shall consist of three persons. The Requesting Party shall nominate its 
+arbitrator in the Notice; Google shall nominate its arbitrator in the Answer. The arbitrator 
+nominated by the Requesting Party and by Google shall, within five working days of the 
+nomination of the latter, nominate the chairman, making such nomination known to the parties 
+and the Arbitral Institution which shall forthwith confirm the appointment of all three arbitrators. 
+7 
+Should the Requesting Party wish to have the Dispute decided by a sole arbitrator it shall 
+indicate this in the Notice. In this case, the Requesting Party and Google shall agree on the 
+nomination of a sole arbitrator within five working days from the communication of the Answer, 
+communicating this to the Arbitral Institution. 
+8 
+Should Google fail to nominate an arbitrator, or if the two arbitrators fail to agree on the 
+chairman, or should the Parties to the Arbitration fail to agree on a sole arbitrator, the default 
+appointment(s) shall be made by the Arbitral Institution. 
+9 
+The three-person arbitral tribunal or, as the case may be, the sole arbitrator, are herein referred 
+to as the “Arbitral Tribunal”. 
+
+
+ 
+ 
+28 
+Arbitration Procedure  
+10 
+The Dispute shall be finally resolved by arbitration under the International Chamber of 
+Commerce Rules of Arbitration, with such modifications or adaptations as foreseen herein or 
+necessary under the circumstances (the “Rules”). The arbitration shall be conducted in London, 
+United Kingdom, in the English language. For good cause, any Party may apply to the Arbitral 
+Institution (or Arbitral Tribunal as may be appropriate) for an extension of the timelines provided 
+in this Schedule. 
+11 
+The procedure shall be a fast-track procedure. For this purpose, the Arbitral Tribunal shall 
+shorten all applicable procedural time-limits under the Rules as far as admissible and 
+appropriate in the circumstances. The Parties to the Arbitration shall consent to the use of email 
+for the exchange of documents. 
+12 
+The Arbitral Tribunal shall, as soon as practical after the confirmation of the Arbitral Tribunal, 
+hold an organisational conference to discuss any procedural issues with the Parties to the 
+Arbitration. Terms of Reference shall be drawn up and signed by the Parties to the Arbitration 
+and the Arbitral Tribunal at the organisational meeting or thereafter and a procedural time-table 
+shall be established by the Arbitral Tribunal. An oral hearing shall, as a rule, be established 
+within two months of the confirmation of the Arbitral Tribunal. 
+13 
+In order to enable the Arbitral Tribunal to reach a decision, it shall be entitled to request any 
+relevant information from the Parties to the Arbitration, to appoint experts and to examine them 
+at the bearing, and to establish the facts by all appropriate means. The Arbitral Tribunal is also 
+entitled to ask for assistance by the Monitoring Trustee in all stages of the procedure if the 
+Parties to the Arbitration agree. 
+14 
+The Arbitral Tribunal shall not disclose confidential information. The Arbitral Tribunal may take 
+the measures necessary for protecting confidential information in particular by restricting access 
+to confidential information to the Arbitral Tribunal, the Monitoring Trustee, and outside counsel 
+and experts of the opposing party. 
+15 
+The burden of proof in any dispute under these Rules shall be borne as follows: (i) the 
+Requesting Party must produce evidence of a prima facie case; and (ii) if the Requesting Party 
+produces evidence of a prima facie case, the Arbitral Tribunal must find in favor of the 
+Requesting Party unless Google can produce evidence to the contrary. 
+Involvement of the ACCC  
+16 
+The ACCC shall be allowed and enabled to participate in all stages of the procedure by 
+(a) 
+Receiving all written submissions (including documents and reports, etc.) made by 
+the Parties to the Arbitration; 
+(b) 
+Receiving all orders, interim and final awards and other documents exchanged by the 
+Arbitral Tribunal with the Parties to the Arbitration (including Terms of Reference and 
+procedural time-table); 
+(c) 
+Giving the ACCC the opportunity to file amicus curiae briefs; and 
+(d) 
+Being present at the hearing(s) and with the permission of the Arbitral Tribunal, it may 
+also make oral observations. 
+17 
+The Arbitral Tribunal shall forward, or shall order the Parties to the Arbitration to forward, the 
+documents mentioned to the ACCC without delay. 
+
+
+ 
+ 
+29 
+18 
+In the event of disagreement between the Parties to the Arbitration regarding the interpretation 
+of the Undertaking, the Arbitral Tribunal may seek the ACCC's interpretation of the Undertaking 
+before finding in favour of any Party to the Arbitration and shall be bound by the interpretation 
+in respect of the Undertaking. 
+Decisions of the Arbitral Tribunal 
+19 
+The Arbitral Tribunal shall decide the dispute on the basis of the Undertaking. The Arbitral 
+Tribunal shall take all decisions by majority vote. 
+20 
+Upon request of the Requesting Party, the Arbitral Tribunal may make a preliminary ruling on 
+the Dispute. The preliminary ruling shall be rendered within one month after the confirmation of 
+the Arbitral Tribunal, shall be applicable immediately and, as a rule, remain in force until a final 
+decision is rendered. 
+21 
+The Arbitral Tribunal shall, in the preliminary ruling as well as in the final award, specify the 
+action, if any, to be taken by Google in order to comply with the Undertaking vis-à-vis the 
+Requesting Party (i.e., specify that the Requesting Party gain access to the relevant API). The 
+final award shall be final and binding on the Parties to the Arbitration and shall resolve the 
+Dispute and determine any and all claims, motions or requests submitted to the Arbitral Tribunal. 
+The arbitral award shall also determine the reimbursement of the costs of the successful party 
+and the allocation of the arbitration costs. In case of granting a preliminary ruling or if otherwise 
+appropriate, the Arbitral Tribunal shall specify that terms and conditions determined in the final 
+award apply retroactively. 
+22 
+The final award shall, as a rule, be rendered within six months after the confirmation of the 
+Arbitral Tribunal. The time-frame shall, in any case, be extended by the time the ACCC takes 
+to submit an interpretation of the Undertaking if asked by the Arbitral Tribunal. 
+23 
+The Parties to the Arbitration shall prepare a non-confidential version of the final award, without 
+business secrets. The ACCC may publish the non-confidential version of the award. The Parties 
+to the Arbitration, the Arbitral Tribunal, all other persons participating in the proceedings and all 
+further persons involved, i.e. in the administration of the arbitral proceedings, shall maintain 
+confidentiality towards all persons regarding the conduct of arbitral proceedings. All 
+proceedings will be held in private and remain confidential. 
+24 
+Nothing in the arbitration procedure shall affect the power to the ACCC to take decisions in 
+relation to the Undertaking in accordance with its powers under the Act. 
+ 
+ 
+ 
+
+
+ 
+ 
+30 
+Schedule 7 – Indicative List of Supported Measured Body Data (as of 2 November 2020)  
+Supported Measured Body Data 
+Heart Rate 
+Time In Heart Rate Zones 
+Resting Heart Rate 
+Weight 
+Height 
+Body Mass Index 
+Body Fat Percentage 
+Steps 
+Distance 
+Floors 
+Altitude 
+Basal Metabolic Rate (BMR) Calories 
+Calories 
+Activity Name 
+Activity Minutes (duration) 
+Activity Calories 
+Activity Speed 
+Activity Pace 
+Activity Steps 
+Activity Floors 
+Activity Altitude 
+Activity Heart Rate 
+Activity Distance 
+Lightly Active Minutes 
+Moderately Active Minutes 
+Sedentary Minutes 
+Very Active Minutes 
+Swimming (length, stroke style) 
+Sleep Log (eg date, duration) 
+Sleep Stages (eg timestamp, length) 
+Sleep Efficiency 
+Water Intake 
+Food Log Item 
+Favorite Foods 
+Food Log Item Nutritional Information (eg calories, macronutrients) 
+ 

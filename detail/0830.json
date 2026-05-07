@@ -1,0 +1,49 @@
+{
+  "id": "0830",
+  "title": "CSR Bricks & Roofing (CSR) & Roofmart Pty Limited (Prime) - Joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/csr-bricks-roofing-csr-roofmart-pty-limited-prime-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34713",
+  "industries": [
+    "Building Products - roofing"
+  ],
+  "date_completed": "27 November 2008",
+  "date_completed_iso": "2008-11-27T12:00:00Z",
+  "date_commenced": "14 October 2008",
+  "date_commenced_iso": "2008-10-14T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "CSR Bricks and Roofing"
+  ],
+  "targets": [
+    "Roofmart Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Oct 2008",
+      "date_iso": "2008-10-13T12:00:00Z",
+      "event": "CSR Brick & Roofing and Roofmart Pty Limited informed the ACCC that they had entered into a joint venture on 12 October 2008."
+    },
+    {
+      "date": "14 Oct 2008",
+      "date_iso": "2008-10-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Oct 2008",
+      "date_iso": "2008-10-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Nov 2008",
+      "date_iso": "2008-11-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CSR Bricks & Roofing (a division of CSR Building Products Ltd) and Roofmart Pty Ltd (trading as Prime) have entered into a joint venture which will cover the production, marketing and distribution and fixing of terracotta and concrete roof tiles and the fixing of metal roofing products in Western Australia. The joint venture will have the effect of eliminating competition between CSR and Prime in the production, marketing and distribution and fixing of roof tiles in Western Australia.",
+    "Market definition": "The ACCC considered the joint venture in the context of the markets for: - The manufacture and supply of concrete and terracotta roof tiles in each of Western Australia, South Australia and Victoria; and - The supply of metal roofing in Western Australia.",
+    "Competition analysis": "In relation to the manufacture and supply of roof tiles in Western Australia, South Australia and Victoria, the ACCC concluded that alternative suppliers would be likely to impose a competitive constraint on the operations of the joint venture. In relation to the supply of metal roofing in Western Australia, the ACCC concluded that the joint venture would be likely to be constrained by alternative suppliers including metal roofing manufactures and major builders with metal roofing supply operations."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1021",
+  "title": "Mediherb Pty Ltd - Acquisition of the Phytomedicine and Nutrimedicine brands from Herbworx Corporation Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mediherb-pty-ltd-acquisition-of-the-phytomedicine-and-nutrimedicine-brands-from-herbworx-corporation-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28760",
+  "industries": [
+    "Herbal and Nutritional products"
+  ],
+  "date_completed": "24 October 2007",
+  "date_completed_iso": "2007-10-24T12:00:00Z",
+  "date_commenced": "3 October 2007",
+  "date_commenced_iso": "2007-10-03T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Mediherb Pty Ltd"
+  ],
+  "targets": [
+    "The Phytomedicine and Nutrimedicine brands from Herbworx Corporation Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2007",
+      "date_iso": "2007-07-31T12:00:00Z",
+      "event": "Mediherb acquired the Phytomedicine and Nutrimedicine brands from Herbworx."
+    },
+    {
+      "date": "3 Oct 2007",
+      "date_iso": "2007-10-03T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "17 Oct 2007",
+      "date_iso": "2007-10-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2007",
+      "date_iso": "2007-10-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Mediherb Pty Ltd acquired the trademarks, product formulations and other intellectual property associated with the Phytomedicine and Nutrimedicine brands from Herbworx Corporation Pty Ltd.",
+    "Market definition": "The ACCC considered the acquisition in the context of the individual markets for the wholesale supply of herbal therapeutic products and nutritional therapeutic products to healthcare practitioners in Australia.",
+    "Competition analysis": "On 24 October 2007, the ACCC decided to not intervene in the acquisition. The ACCC concluded that the acquisition was unlikely to substantially lessen competition in the relevant markets because it appeared that Mediherb would continue to be constrainted by import competition, the presence of alternative suppliers of practitioner-only herbal and nutritional therapeutic products in Australia, and actual and potential competition from new entrants."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0457",
+  "title": "Visy Industries Australia Pty Ltd - proposed acquisition of PET and plastic assets of HP entities",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/visy-industries-australia-pty-ltd-proposed-acquisition-of-pet-and-plastic-assets-of-hp-entities",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47806",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "21 March 2012",
+  "date_completed_iso": "2012-03-21T12:00:00Z",
+  "date_commenced": "23 December 2011",
+  "date_commenced_iso": "2011-12-23T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "Visy Industries Australia Pty Ltd"
+  ],
+  "targets": [
+    "PET and plastic assets of HP entities"
+  ],
+  "timeline": [
+    {
+      "date": "23 Dec 2011",
+      "date_iso": "2011-12-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jan 2012",
+      "date_iso": "2012-01-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2012",
+      "date_iso": "2012-01-27T12:00:00Z",
+      "event": "ACCC timeline suspended to allow provision of further information by the merger parties. Former proposed decision date of 16 February 2012 delayed. ACCC will announce a new proposed decision date upon receipt of further information from the merger parties."
+    },
+    {
+      "date": "22 Feb 2012",
+      "date_iso": "2012-02-22T12:00:00Z",
+      "event": "ACCC received further information from Visy and other parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Feb 2012",
+      "date_iso": "2012-02-29T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "15 Mar 2012",
+      "date_iso": "2012-03-15T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "21 Mar 2012",
+      "date_iso": "2012-03-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Visy proposed to acquire the PET and plastics assets of HP entities that have had receivers and managers appointed.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - markets for the manufacture and supply of PET containers (including PET jars, bottles and containers) in each of NSW and Victoria; - markets for the manufacture and supply of non-PET rigid plastic containers (including non-PET jars, bottles and containers) in each of NSW and Victoria; and - markets for the manufacture and supply of small industrial plastic containers in each of NSW and Victoria. However, the ACCC did not consider it necessary to reach a definitive view on the exact boundaries of the markets identified and, in particular, whether there was a single market for the manufacture and supply of PET containers or separate markets for those PET containers manufactured on two-stage equipment (such as PET beverage bottles) and PET containers manufactured on single stage equipment.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. In forming this view the ACCC has had regard to the results of market inquiries and the views held by many customers of the alternative options available to them should the merged firm attempt to increase the price of the relevant containers, or decrease the level of service provided post acquisition. The relationship between Visy and Pact In assessing the competitive effects of the proposed acquisition, the ACCC considered the relationships and links between Visy and Pact Group Pty Ltd (Pact). In the Statement of Issues, the ACCC expressed a preliminary view that Pact Group Ltd may not provide an effective independent constraint on the merged firm post acquisition due to the relationships and links between Visy, Pact and their respective principals. However, for the purposes of the final assessment, the ACCC did not need to reach a concluded view on the likelihood of Pact providing an effective independent constraint on Visy post acquisition. PET containers While the acquisition would result in the removal of a significant competitor in the manufacture and supply of PET containers in NSW and Victoria, the ACCC considered that the merged firm is likely to be constrained by: - the existence of several alternative manufacturers and suppliers of PET containers in each of NSW and Victoria, independent of Pact. While these manufacturers are currently not as large as the merged firm or Pact, informed by market inquiries the ACCC considered that the ability of these manufacturers to expand to meet the requirements of large customers meant that they were likely to provide a constraint on the merged firm; and - the countervailing power held by many customers who would be able to bypass the merged firm by either sponsoring the expansion of smaller manufacturers or commencing in-house PET container production. On this issue, the ACCC had regard to examples of customers of various sizes who presently manufacture some or all of their PET container requirements in-house. Non-PET rigid plastic containers Post acquisition, the merged firm and Pact would be the two largest manufacturers of non-PET rigid plastic container in NSW. However, the ACCC considered that similar to the position in the markets for the manufacture and supply of PET plastic containers, the merged firm is  likely to be constrained by both alternative smaller manufacturers (independent of Pact) who are able to expand and by the countervailing power held by customers who are able to sponsor expansion by smaller manufacturers and/or put in place their own extrusion blow moulding equipment. The ACCC notes that HP does not have a significant presence in the manufacture and supply of non-PET rigid plastic containers in Victoria and accordingly competition concerns are unlikely to arise as a result of the proposed acquisition in this market. Small industrial plastic containers In the markets for the manufacture and supply of small industrial plastic containers in each of NSW and Victoria, the ACCC considers that the presence of other manufacturers and suppliers of small industrial plastic containers (independent of Pact) and the low barriers to expansion are likely to constrain the merged firm post acquisition."
+  }
+}

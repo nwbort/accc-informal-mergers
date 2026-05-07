@@ -1,0 +1,44 @@
+{
+  "id": "0825",
+  "title": "Spectris plc - proposed acquisition of Lochard Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/spectris-plc-proposed-acquisition-of-lochard-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35104",
+  "industries": [
+    "Environmental noise management systems and service"
+  ],
+  "date_completed": "9 December 2008",
+  "date_completed_iso": "2008-12-09T12:00:00Z",
+  "date_commenced": "31 October 2008",
+  "date_commenced_iso": "2008-10-31T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Spectris plc"
+  ],
+  "targets": [
+    "Lochard Limited"
+  ],
+  "timeline": [
+    {
+      "date": "31 Oct 2008",
+      "date_iso": "2008-10-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Nov 2008",
+      "date_iso": "2008-11-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Dec 2008",
+      "date_iso": "2008-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Spectris plc, through its wholly owned subsidiary Spectris Australia Pty Ltd, proposes to acquire Lochard Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the supply of environmental noise monitoring and management products and services.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included: - the availability of existing alternative suppliers for products and services; - the availability of imported supply of products and services; and - the ability of customers to credibly threaten to shift the supply of the relevant service elements to in-house operations, and/or to sponsor new entry or expansion for the supply of the relevant product elements."
+  }
+}

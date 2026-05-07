@@ -1,0 +1,44 @@
+{
+  "id": "0032",
+  "title": "Intellihub Australia Pty Ltd - Powermetric Metering Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/intellihub-australia-pty-ltd-powermetric-metering-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Electricity metering"
+  ],
+  "date_completed": "26 March 2025",
+  "date_completed_iso": "2025-03-26T12:00:00Z",
+  "date_commenced": "7 February 2025",
+  "date_commenced_iso": "2025-02-07T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Intellihub Australia Pty Ltd"
+  ],
+  "targets": [
+    "Powermetric Metering Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 Feb 2025",
+      "date_iso": "2025-02-07T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Feb 2025",
+      "date_iso": "2025-02-24T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "26 Mar 2025",
+      "date_iso": "2025-03-26T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (17 April 2025) brought forward to 26 March 2025. ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Intellihub Australia Pty Ltd ( Intellihub ) proposes to acquire Powermetric Metering Pty Ltd ( Powermetric ) (the Proposed Acquisition ). Intellihub and Powermetric both provide smart metering services in all states in the National Energy Market, and to a small extent, Western Australia. Intellihub Intellihub is an Australia and New Zealand-based utility services company which is 50% owned by each of Brookfield and Pacific Equity Partners. Intellihub provides multi-utility services, including electricity and water metering, asset management, installation, and day-to-day operations of smart utility infrastructure. Intellihub provides smart metering services for mass market (which includes residential and small to medium business), commercial and industrial, and embedded network customers. Powermetric Powermetric is a smart metering provider which is 100% owned by Shell Energy Operations Pty Ltd. Powermetric primarily supplies smart metering services to commercial and industrial customers, and to a more limited extent mass market and embedded network customers.",
+    "Market definition": "The ACCC considered the effect of the Proposed Acquisition on competition in markets for: the supply of smart metering services to commercial and industrial (C&I) customers in the National Electricity Market (NEM); and the supply of smart metering services to mass market and embedded network customers in the NEM. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of each market.",
+    "Competition analysis": "The ACCC concluded that the Proposed Acquisition is not likely to substantially lessen competition in any relevant market in Australia. The ACCC found that the parties predominately overlap in the supply of metering services to C&I customers. The ACCC found that, post-acquisition, the merged entity would likely be competitively constrained by other independent suppliers of smart metering services who operate across the C&I, mass-market and embedded network customer groups."
+  }
+}

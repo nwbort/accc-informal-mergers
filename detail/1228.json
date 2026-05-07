@@ -1,0 +1,44 @@
+{
+  "id": "1228",
+  "title": "Brothers Mee Pty Ltd - acquisition of Limsol Pty Ltd (trading as Queensland Ice Supplies)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brothers-mee-pty-ltd-acquisition-of-limsol-pty-ltd-trading-as-queensland-ice-supplies",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24839",
+  "industries": [
+    "Ice manufacture and supply"
+  ],
+  "date_completed": "30 August 2006",
+  "date_completed_iso": "2006-08-30T12:00:00Z",
+  "date_commenced": "26 July 2006",
+  "date_commenced_iso": "2006-07-26T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Brothers Mee Pty Ltd"
+  ],
+  "targets": [
+    "Limsol Pty Ltd (trading as Queensland Ice Supplies)"
+  ],
+  "timeline": [
+    {
+      "date": "26 Jul 2006",
+      "date_iso": "2006-07-26T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "21 Aug 2006",
+      "date_iso": "2006-08-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "30 Aug 2006",
+      "date_iso": "2006-08-30T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Brothers Mee Pty Ltd acquired Limsol Pty Ltd, an ice manufacture and distribution business.",
+    "Market definition": "The relevant market appears to be the market for the manufacture and distribution of ice in the greater Brisbane area.",
+    "Competition analysis": "This acquisition may have led to increased concentration in the ice manufacture and distribution industry in greater Brisbane. While the ice manufacture and distribution industry is highly concentrated in the greater Brisbane area, it appears to have low barriers to entry. Furthermore, the ability of ice customers (such as restaurants and food manufactures) to manufacture their own ice would appear to provide a competitive constraint on the industry."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0386",
+  "title": "Brambles Industries Limited - completed acquisition of CEVA Limited's Pallecon business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brambles-industries-limited-completed-acquisition-of-ceva-limiteds-pallecon-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50545",
+  "industries": [
+    "Bulk storage / transport products"
+  ],
+  "date_completed": "24 May 2013",
+  "date_completed_iso": "2013-05-24T12:00:00Z",
+  "date_commenced": "19 March 2013",
+  "date_commenced_iso": "2013-03-19T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Brambles Industries Ltd"
+  ],
+  "targets": [
+    "Pallecon t/a CEVA Logistics"
+  ],
+  "timeline": [
+    {
+      "date": "19 Mar 2013",
+      "date_iso": "2013-03-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Apr 2013",
+      "date_iso": "2013-04-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Apr 2013",
+      "date_iso": "2013-04-18T12:00:00Z",
+      "event": "ACCC requested further information from Brambles."
+    },
+    {
+      "date": "29 Apr 2013",
+      "date_iso": "2013-04-29T12:00:00Z",
+      "event": "ACCC received further information from Brambles."
+    },
+    {
+      "date": "24 May 2013",
+      "date_iso": "2013-05-24T12:00:00Z",
+      "event": "ACCC announced it would cease its investigation into the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC principally considered the effects of the completed acquisition on the national market for the supply (by way of sale, hire and lease) of: -collapsible intermediate bulk containers (IBCs); -rigid IBCs (both new and reconditioned); -flexible IBCs; -cardboard IBCs; and -drums (both new and reconditioned). 'the container market'. The merger parties' primary overlap was in the supply of collapsible IBCs through pooling and hire arrangements. IBCs are containers used in manufacturing to store and transport a large variety of goods. The ACCC considered whether the relevant product market was limited to the supply of collapsible IBCs by hire; or whether other types of containers and alternative supply arrangements (e.g. purchase) were substitutes. The ACCC's investigation demonstrated that customers of hire collapsible IBCs could and did switch to the substitutable products listed above. Therefore the ACCC concluded that in this instance the container market, as outlined above, was appropriate for considering the competition effects of the acquisition. The ACCC also considered the effect of the acquisition on the supply of pallets within Australia.  It was not necessary for the ACCC to form a concluded view on this market definition.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to have substantially lessened competition in the principal market.  Factors informing this conclusion included: - being a differentiated market, a large number of alternative suppliers offering a wide variety of substitutes remained post acquisition; - although not all types of containers were perfect substitutes for all types of customers, the ACCC concluded that customers had at least one, and usually several, alternatives to the merged entity; - collapsible IBCs were not the dominant container type used in Australia and therefore the merged entity represented a small share of the market; and - the market was characterised by a degree of customer countervailing power (some customers had bypassed logistics providers and operated their own pool of containers). Although there was no overlap between the merger parties in the supply of pallets, the ACCC considered the potential for anti-competitive conglomerate effects due to Brambles' strong position in the supply of pallets, and the potential links between the pallets and containers markets. Ultimately the ACCC considered that the acquisition is unlikely to have raised serious foreclosure concerns regarding the bundling and/or tying of containers with pallets."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1609",
+  "title": "Acquirer: Credit Union Australia Ltd; Target: Metropolitan Credit Union Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-credit-union-australia-ltd-target-metropolitan-credit-union-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16816",
+  "industries": [],
+  "date_completed": "14 October 2002",
+  "date_completed_iso": "2002-10-14T12:00:00Z",
+  "date_commenced": "4 October 2002",
+  "date_commenced_iso": "2002-10-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Credit Union Australia Ltd"
+  ],
+  "targets": [
+    "Metropolitan Credit Union Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 4 October the Australian Prudential Regulation Authority informed the Commission of the transfer of the entire business of the Metropolitan Credit Union to Credit Union Australia.",
+    "Market definition": "Financial services",
+    "Competition analysis": "Credit unions offer a broad range of financial services.  Credit unions offer a similar range of products to banks and building societies. The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur. There is little if any competitive overlap between the two parties.  The Metropolitan Credit Union is confined in its operations to the Sydney region whereas the closest that Credit Union Australia gets to Sydney is the north coast of New South Wales.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Other",
+    "ANZSIC code": "7329"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "1098",
+  "title": "IRESS Market Technology - acquisition of IWL Limited's Financial Advisory Software business (Visiplan)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/iress-market-technology-acquisition-of-iwl-limiteds-financial-advisory-software-business-visiplan",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27684",
+  "industries": [
+    "Financial Advisory Software"
+  ],
+  "date_completed": "4 June 2007",
+  "date_completed_iso": "2007-06-04T12:00:00Z",
+  "date_commenced": "10 April 2007",
+  "date_commenced_iso": "2007-04-10T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "IRESS Market Technology"
+  ],
+  "targets": [
+    "IWL Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Apr 2007",
+      "date_iso": "2007-04-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "24 Apr 2007",
+      "date_iso": "2007-04-24T12:00:00Z",
+      "event": "Transaction was completed"
+    },
+    {
+      "date": "27 Apr 2007",
+      "date_iso": "2007-04-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "4 Jun 2007",
+      "date_iso": "2007-06-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "IRESS has acquired 100% of shares in IWL Ltd's  Financial Advisory Software Business known as VisiPlan, as announced by the parties in February 2007.",
+    "Market definition": "The acquisition was considered in relation to the supply of financial planning software to financial planners in Australia.",
+    "Competition analysis": "On 4 June 2007 the ACCC formed the view that the acquisition is unlikely to substantially lessen competition in the supply of financial planning software products to financial planners in Australia. Factors informing this conclusion include: - financial planning groups have the option of developing their own tailored in-house financial planning software, as some groups already have; - the market is characterised by growth, technological change and innovation.  The ability and incentive for new or existing providers to develop improved products is likely to ensure the market remains competitive; - COIN is likely to be an increasingly strong competitor and there are also other alternate suppliers of financial planning software to financial planners in Australia; and - wrap providers may increasingly offer financial planning software in the future as the trend towards integrated packages continues."
+  }
+}

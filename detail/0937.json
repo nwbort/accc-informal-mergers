@@ -1,0 +1,49 @@
+{
+  "id": "0937",
+  "title": "InvoCare Limited - acquisition of Chipper Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invocare-limited-acquisition-of-chipper-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29888",
+  "industries": [
+    "Funeral services"
+  ],
+  "date_completed": "8 April 2008",
+  "date_completed_iso": "2008-04-08T12:00:00Z",
+  "date_commenced": "18 March 2008",
+  "date_commenced_iso": "2008-03-18T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "InvoCare Limited"
+  ],
+  "targets": [
+    "Chipper Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Feb 2008",
+      "date_iso": "2008-02-14T12:00:00Z",
+      "event": "InvoCare Limited acquired the business assets of Chipper Pty Ltd."
+    },
+    {
+      "date": "18 Mar 2008",
+      "date_iso": "2008-03-18T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Apr 2008",
+      "date_iso": "2008-04-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Apr 2008",
+      "date_iso": "2008-04-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "InvoCare Limited's acquisition of Chipper Pty Ltd",
+    "Market definition": "The ACCC considered the acquisition in the context of the supply of funeral direction services in the Perth region.",
+    "Competition analysis": "On 8 April 2008, the ACCC formed the view that the acquisition would be unlikely to result in a substantial lessening of competition in funeral direction services in Perth because: -  the acquisition hadn't significantly altered the market dynamic; - there remained a number of alternative suppliers in the industry, including Bowra O'Dea, Prosser Scott and Seasons, which would provide a competitive constraint on the entity; and - no vertical issues arose since all of the cremation and cemetery facilities in WA were owned by the State."
+  }
+}

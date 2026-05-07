@@ -1,0 +1,44 @@
+{
+  "id": "1198",
+  "title": "Woolworths Limited - proposed acquisition of Vic's Liquor, Bossley Park",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-vics-liquor-bossley-park",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26179",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "13 November 2006",
+  "date_completed_iso": "2006-11-13T12:00:00Z",
+  "date_commenced": "2 November 2006",
+  "date_commenced_iso": "2006-11-02T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Vic's Liquor Bossley Park"
+  ],
+  "timeline": [
+    {
+      "date": "2 Nov 2006",
+      "date_iso": "2006-11-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "10 Nov 2006",
+      "date_iso": "2006-11-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "13 Nov 2006",
+      "date_iso": "2006-11-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed acquisition of Vic's Liquor, Bossley Park, NSW.",
+    "Market definition": "The ACCC considered the relevant markets to be: - the local market for the supply of liquor for off-premises consumption; - procurement markets; and - the national wholesale market.",
+    "Competition analysis": "The transaction results in a very small increase of market share to Woolworths in the procurement and wholesale markets.  Following the acquisition there will continue to be a number of independent liquor stores operating in the relevant local area.  For these reasons the acquisition is unlikely to result in a substantial lessening of competition in any market."
+  }
+}

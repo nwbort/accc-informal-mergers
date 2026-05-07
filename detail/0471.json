@@ -1,0 +1,43 @@
+{
+  "id": "0471",
+  "title": "Guala Closures Australia Pty Ltd - proposed acquisition of Metal screwcap assets of ASA-DGS Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/guala-closures-australia-pty-ltd-proposed-acquisition-of-metal-screwcap-assets-of-asa-dgs-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47436",
+  "industries": [
+    "Manufacturing"
+  ],
+  "date_completed": "14 December 2011",
+  "date_completed_iso": "2011-12-14T12:00:00Z",
+  "date_commenced": "11 November 2011",
+  "date_commenced_iso": "2011-11-11T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Guala Closures Australia Pty Ltd"
+  ],
+  "targets": [
+    "Metal screwcap assets of ASA-DGS Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "11 Nov 2011",
+      "date_iso": "2011-11-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Nov 2011",
+      "date_iso": "2011-11-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Dec 2011",
+      "date_iso": "2011-12-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the supply of metal screwcap wine closures.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion included: -\tthe existence of alternative suppliers that would continue to compete with the merged entity, including both independent importers and domestic manufacturers; -\tthe competitive threat of imports was likely to constrain the merged entity as barriers to importing were low and imported metal screwcap wine closures were an effective substitute for the merger parties' products; -\tbarriers to entry and expansion in the supply of metal screwcap wine closures were not insurmountable, as evidenced by the entry of importers and domestic producers since 2000; -\tlarger customers possessed countervailing power, including the ability to sponsor new entry into the market."
+  }
+}

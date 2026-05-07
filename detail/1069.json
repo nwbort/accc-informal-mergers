@@ -1,0 +1,44 @@
+{
+  "id": "1069",
+  "title": "Umicore - proposed acquisition of Delphi Catalyst",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/umicore-proposed-acquisition-of-delphi-catalyst",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28694",
+  "industries": [
+    "Automotive Catalysts"
+  ],
+  "date_completed": "24 July 2007",
+  "date_completed_iso": "2007-07-24T12:00:00Z",
+  "date_commenced": "19 June 2007",
+  "date_commenced_iso": "2007-06-19T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Umicore"
+  ],
+  "targets": [
+    "Delphi Catalyst"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jun 2007",
+      "date_iso": "2007-06-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Jul 2007",
+      "date_iso": "2007-07-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jul 2007",
+      "date_iso": "2007-07-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Umicore is an international materials technology group incorporated in Belgium with four core business areas, one of which is its Precious Metals Products and Catalysts section. In this area, Umicore operates an Automotive Catalyst unit. Delphi is a global supplier of mobile electronics and transportation systems and is incorporated in the USA. Through its subsidiary, DC, Delphi also develops and supplies automotive engine emission catalysts. Umicore intends to acquire Delphi.",
+    "Market definition": "The ACCC's preliminary view is that the relevant market in this matter appears to be the market for the supply of automotive catalysts in Australia.",
+    "Competition analysis": "Umicore and Delphi compete in the supply of automotive catalysts to automotive original equipment manufacturers (OEMs). It is expected that the merged entity will have a very significant portion of the market share of suppliers of automotive catalysts to OEMs in Australia. However, despite the increased concentration of automotive catalyst companies in Australia, it appears that there are a number of other potential international suppliers of automotive catalysts, such as Catalytic Solutions Incorporated, Ecocat (formerly Kemira Metalkat), Johnson Matthey and Sud-Chemie Group. While the proposed transaction will result in high concentration of suppliers of automotive catalysts to OEMs in Australia, the abundance of import potential reduces the proposed transaction's ability to lessen competition. For that reason, the ACCC considered it unlikely that the acquisition would substantially lessen competition in any relevant market."
+  }
+}

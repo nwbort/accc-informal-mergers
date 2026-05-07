@@ -1,0 +1,31 @@
+{
+  "id": "1635",
+  "title": "Acquirer: Cheung Kong Infrastructure Holdings & Hongkong Electric International; Target: Citipower Pty",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cheung-kong-infrastructure-holdings-hongkong-electric-international-target-citipower-pty",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15830",
+  "industries": [],
+  "date_completed": "1 July 2002",
+  "date_completed_iso": "2002-07-01T12:00:00Z",
+  "date_commenced": "15 April 2002",
+  "date_commenced_iso": "2002-04-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Cheung Kong Infrastructure Holdings & Hongkong Electric International"
+  ],
+  "targets": [
+    "Citipower Pty"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Sale of CitiPower by American Electric Power.  Cheung Kong Infrastructure / Hongkong Electric InternationaI acquired CitiPower's electricity distribution business.",
+    "Market definition": "CitiPower's distribution business covers the inner Melbourne region.",
+    "Competition analysis": "CitiPower is one of the five incumbent Victorian electricity retail businesses and also owns one of the five Victorian distribution businesses.  CKI/HEI's existing interests in the Australian electricity industry consisted of one of the five Victorian distribution businesses (being the Powercor distribution business in western Victoria), and ETSA Utilities (the South Australian distribution business).  It is not involved in other activities in the electricity supply industry such as the generation and retail sectors. Although the acquistion involved the aggregation of distribution businesses in Victoria, these are subject to the oversight of the Essential Services Commission both as a regulator and in relation to compliance with their Victorian distribution licenses. Furthermore, market inquiries indicated that competition between distribution businesses is relatively limited and confined to competition for green-fields (or 'inset') sites, and bypass competition along the geographical boundaries of the distribution zones. CitiPower and CKI/HEI's existing distribution businesses do not share common geographical boundaries, and there would still be four remaining incumbent Victorian distribution businesses to bid for future tender projects.  Accordingly, the Commission did not oppose the acquisition.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "3610"
+  }
+}

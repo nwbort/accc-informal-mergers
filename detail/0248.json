@@ -1,0 +1,60 @@
+{
+  "id": "0248",
+  "title": "Aurizon Operations Limited - proposed acquisition of Glencore Rail (NSW) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aurizon-operations-limited-proposed-acquisition-of-glencore-rail-nsw-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "60352",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "21 October 2016",
+  "date_completed_iso": "2016-10-21T12:00:00Z",
+  "date_commenced": "4 August 2016",
+  "date_commenced_iso": "2016-08-04T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Aurizon Operations Limited"
+  ],
+  "targets": [
+    "Glencore Rail (NSW) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2016",
+      "date_iso": "2016-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Aug 2016",
+      "date_iso": "2016-08-18T12:00:00Z",
+      "event": "ACCC requested further information from Aurizon."
+    },
+    {
+      "date": "19 Aug 2016",
+      "date_iso": "2016-08-19T12:00:00Z",
+      "event": "Closing date for submissions. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "29 Aug 2016",
+      "date_iso": "2016-08-29T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (29th September) is delayed pending provision of the information by Aurizon."
+    },
+    {
+      "date": "30 Aug 2016",
+      "date_iso": "2016-08-30T12:00:00Z",
+      "event": "ACCC received information from Aurizon."
+    },
+    {
+      "date": "6 Oct 2016",
+      "date_iso": "2016-10-06T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "21 Oct 2016",
+      "date_iso": "2016-10-21T12:00:00Z",
+      "event": "Following an announcement by Glencore that it had reached an agreement to sell GRail to Genesee & Wyoming Australia, the ACCC discontinued this review."
+    }
+  ],
+  "body_sections": {}
+}

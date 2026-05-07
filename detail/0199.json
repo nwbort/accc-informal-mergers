@@ -1,0 +1,48 @@
+{
+  "id": "0199",
+  "title": "oOh!media Limited - proposed acquisition of Adshel Street Furniture Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/oohmedia-limited-proposed-acquisition-of-adshel-street-furniture-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "64129",
+  "industries": [
+    "Out-of-home advertising"
+  ],
+  "date_completed": "23 August 2018",
+  "date_completed_iso": "2018-08-23T12:00:00Z",
+  "date_commenced": "28 June 2018",
+  "date_commenced_iso": "2018-06-28T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "oOh!media Limited"
+  ],
+  "targets": [
+    "Adshel Street Furniture Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jun 2018",
+      "date_iso": "2018-06-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2018",
+      "date_iso": "2018-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Aug 2018",
+      "date_iso": "2018-08-21T12:00:00Z",
+      "event": "Former proposed decision date of 30 August 2018 brought forward."
+    },
+    {
+      "date": "23 Aug 2018",
+      "date_iso": "2018-08-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not reach concluded views on market definition, but it considered the impact of the proposed acquisition on competition in national markets for: - the supply of out-of-home advertising services; and - the leasing/acquisition of out-of-home advertising sites from landlords. The ACCC also considered the possibility that there may be narrower markets for one or more individual categories of out-of-home advertising or for local/regional areas, but did not consider it necessary to reach a concluded view in that regard.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. The ACCC found that the proposed acquisition would combine two businesses that operate in essentially complementary segments of out-of-home advertising. oOh!media operates principally in large format billboards, airports and retail, whereas Adshel operates primarily in street furniture, a segment in which oOh!media is not present. The ACCC considered that the complementary nature of the merger parties' businesses meant that the proposed acquisition was unlikely to substantially lessen competition. The information before the ACCC, including bidding data for sites, indicated that the merger parties rarely compete head-to-head. The available options for advertisers and site owners would not change significantly as a result of the proposed acquisition. The merged entity would continue to face competitive constraints in each segment. While some parties expressed concerns in relation to the proposed acquisition, in particular about the possible anti-competitive bundling of different out-of-home categories, site owners, the major media agencies and large advertisers did not generally express strong concerns, and the ACCC considered that bundling was unlikely to have a significant impact on competition. The ACCC noted that the major media agencies account for a significant amount of advertising spend in Australia (approximately 80%). In assessing the proposed acquisition, the ACCC took account of the proposed acquisition of APN Outdoor Group Limited by JCDecaux SA, which was being reviewed by the ACCC at the same time. It concluded that the proposed acquisition was unlikely to substantially lessen competition irrespective of whether or not the other acquisition were to proceed."
+  }
+}

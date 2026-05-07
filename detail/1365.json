@@ -1,0 +1,25 @@
+{
+  "id": "1365",
+  "title": "News Ltd - proposed acquisition of remaining shares in realestate.com.au",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/news-ltd-proposed-acquisition-of-remaining-shares-in-realestatecomau",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21758",
+  "industries": [
+    "Real estate advertising"
+  ],
+  "date_completed": "25 August 2005",
+  "date_completed_iso": "2005-08-25T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "News Limited (News) proposed to acquire all of the issued shares of realestate.com.au Limited (REA) it does not already own.",
+    "Market definition": "The relevant market for the purposes of this analysis may be either: - the separate markets for online and print real estate advertising; or - the market for real estate advertising including print and online.",
+    "Competition analysis": "Due to the presence of many competitors to News and REA, the countervailing power held by real estate agents and the low barriers to entry to online real estate advertising, the ACCC concluded that the proposed acquisition is unlikely to result in a substantial lessening of competition in the relevant market.",
+    "Initiation": "FIRB"
+  }
+}

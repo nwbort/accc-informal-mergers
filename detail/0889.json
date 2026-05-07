@@ -1,0 +1,49 @@
+{
+  "id": "0889",
+  "title": "Merial Australia Pty Ltd - acquisition of Ancare Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/merial-australia-pty-ltd-acquisition-of-ancare-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32261",
+  "industries": [
+    "Animal health"
+  ],
+  "date_completed": "28 July 2008",
+  "date_completed_iso": "2008-07-28T12:00:00Z",
+  "date_commenced": "10 July 2008",
+  "date_commenced_iso": "2008-07-10T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Merial Australia Pty Ltd"
+  ],
+  "targets": [
+    "Ancare Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Oct 2007",
+      "date_iso": "2007-10-24T12:00:00Z",
+      "event": "Merial announced that it had acquired Ancare."
+    },
+    {
+      "date": "10 Jul 2008",
+      "date_iso": "2008-07-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jul 2008",
+      "date_iso": "2008-07-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Jul 2008",
+      "date_iso": "2008-07-28T12:00:00Z",
+      "event": "ACCC announced it would not intervene in the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Merial Australia Pty Ltd announced that it had acquired Ancare Australia Pty Ltd on 24 October 2007.",
+    "Market definition": "The ACCC considered the completed acquisition within the context of the national market for sheep drenches.",
+    "Competition analysis": "The ACCC considers that the acquisition is not likely to have resulted in a substantial lessening of competition in the relevant market due to the presence of a number of current and potential future alternative suppliers of sheep drenches within Australia, including suppliers of both single active and combination drenches."
+  }
+}

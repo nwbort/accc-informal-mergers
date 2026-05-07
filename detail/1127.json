@@ -1,0 +1,49 @@
+{
+  "id": "1127",
+  "title": "PBL Media Pty Ltd - proposed acquisition of Swan Television & Radio Broadcasters Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pbl-media-pty-ltd-proposed-acquisition-of-swan-television-radio-broadcasters-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27401",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "20 March 2007",
+  "date_completed_iso": "2007-03-20T12:00:00Z",
+  "date_commenced": "21 February 2007",
+  "date_commenced_iso": "2007-02-21T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "PBL Media Pty Ltd"
+  ],
+  "targets": [
+    "Swan Television & Radio Broadcasters Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Feb 2007",
+      "date_iso": "2007-02-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "9 Mar 2007",
+      "date_iso": "2007-03-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Mar 2007",
+      "date_iso": "2007-03-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties extended to 14 March."
+    },
+    {
+      "date": "20 Mar 2007",
+      "date_iso": "2007-03-20T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PBL Media proposes to acquire Swan Television & Radio Broadcasters Pty Ltd (operators of Channel Nine Perth) from Sunraysia Television Ltd.  PBL Media currently own four television licences throughout Australia operating as The Nine Network.  These licences operate in Sydney, Melbourne, Brisbane and Darwin.  Swan Television and PBL Media are currently parties to a network affiliation agreement whereby PBL Media supplies Swan Television with a majority of its aired content in Perth.",
+    "Market definition": "For the purpose of conducting a competition analysis, the ACCC have examined three broad areas; the provision of content to consumers, the provision of advertising time to advertisers and media parties' interaction with owners of content.  The ACCC did not consider that market definition was a critical issue in this matter, due to the limited geographic overlap, however the focus was on effects in the geographic area of greater Perth.",
+    "Competition analysis": "On 20 March 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market.  This view was informed by the fact that the majority of content being aired on Swan Television will remain unchanged and that no horizontal aggregation will occur in the number of parties able to provide advertising time to local advertisers.   In addition to these factors, PBL's limited operations in Western Australia in any media form, other than via its internet business and its interests in ACP magazines supported the ACCC's conclusion that it is unlikely that the merger would cause a substantially lessening of competition in the relevant markets. Issues arising from the provision of content to consumers: Given that PBL Media does not itself supply any FTA television content in Western Australia (other than to Swan) and Swan Television does not supply any FTA television content outside of Western Australia, the ACCC considered there to be limited geographic overlap.  Due to the high barriers to entry, neither party could be considered a likely potential entrant into the other's geographic region, therefore the ACCC considered a substantial lessening of competition unlikely to occur. The provision of advertising time/space to advertisers. The ACCC considered that, acting independently of commercial relationships with PBL Media (i.e. acting beyond the network affiliation agreement) Swan Television can only provide Perth-specific advertising.  The ACCC noted that there is limited overlap in terms of Perth-specific advertising since PBL Media's internet and magazine businesses are national operations and not WA-specific.  Furthermore the ACCC consider that a number of competitors, including the other FTA television channels present within Perth, would be likely to act as more significant constraints to Channel 9 Perth in terms of television advertising compared to PBL Media's current internet and magazine publishing operations.  The ACCC considered that the same number of competitors in the provision of advertising space to advertisers seeking Perth-specific advertising is likely to exist post merger.  The ACCC concluded that a substantial lessening of competition in the sphere of the relevant advertising markets is unlikely to occur. The acquisition of content by media outlets. Due to the current operation of the network affiliation agreement, the ACCC have concluded that post merger the majority of content which is aired on Swan Television is likely to remain unchanged. Although Swan Television does not independently acquire content outside of the network affiliation agreement, it does however produce some WA-focussed programming.  The ACCC concluded that the incentive to continue the production of WA--focussed programming is unlikely to change significantly post-acquisition.  The same number of content acquirers will continue to exist in Perth post acquisition, and therefore the merger will not involve any substantial horizontal aggregation.  The ACCC therefore concluded that the acquisition is unlikely to result in a substantial lessening of competition in this area."
+  }
+}

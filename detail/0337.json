@@ -1,0 +1,68 @@
+{
+  "id": "0337",
+  "title": "The Transurban Consortium proposed acquisition of the assets of the Queensland Motorways Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-transurban-consortium-proposed-acquisition-of-the-assets-of-the-queensland-motorways-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53791",
+  "industries": [
+    "Tollroads and tolling services"
+  ],
+  "date_completed": "4 April 2014",
+  "date_completed_iso": "2014-04-04T12:00:00Z",
+  "date_commenced": "12 February 2014",
+  "date_commenced_iso": "2014-02-12T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "AustralianSuper Pty Ltd",
+    "Tawreed Investments Limited",
+    "Transurban Holdings Limited",
+    "Transurban International Limited",
+    "Transurban Infrastructure Management Limited"
+  ],
+  "targets": [
+    "Queensland Motorways Holding Pty Ltd<br/> QM Assets Pty Ltd<br/> QMH Hold Trust"
+  ],
+  "timeline": [
+    {
+      "date": "12 Feb 2014",
+      "date_iso": "2014-02-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "25 Feb 2014",
+      "date_iso": "2014-02-25T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "28 Feb 2014",
+      "date_iso": "2014-02-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "13 Mar 2014",
+      "date_iso": "2014-03-13T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "21 Mar 2014",
+      "date_iso": "2014-03-21T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC amended the former provisional decision date of 3 April 2014 for announcement of findings."
+    },
+    {
+      "date": "2 Apr 2014",
+      "date_iso": "2014-04-02T12:00:00Z",
+      "event": "ACCC amended the former provisional decision date of 10 April for announcement of findings."
+    },
+    {
+      "date": "4 Apr 2014",
+      "date_iso": "2014-04-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Transurban Consortium (comprising Transurban Holdings Limited, Transurban International Limited, Transurban Infrastructure Management Limited, AustralianSuper and Tawreed Investments) is proposing to acquire 100% of the tollroads and associated assets owned by the Queensland Motorways Group (comprising Queensland Motorways Holdings Pty Ltd, QM Assets Pty Ltd and QMH Hold Trust).",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the: - national bidding market for the award of concessions to construct, own and/or operate tollroads (the bidding market); and - market for the supply of electronic tolling services to holders of a tollroad concession (the tolling services market). The ACCC did not consider it necessary to form a definitive view on the geographic boundaries of the tolling services market given the ACCC's conclusion that a substantial lessening of competition was unlikely to arise irrespective of the market definition adopted under the current review.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Tollroads are generally discrete assets, with little or no substitution between individual tollroads on the basis of geography. Additionally, motorists that have been issued with an electronic tag in one state very rarely also use that electronic tag for travel on a tollroad located in another state (i.e. interstate roaming by motorists is relatively uncommon). Therefore while both Transurban (currently based in NSW and Victoria) and QM Group (currently based in Queensland) operate very large tollroad and electronic tag issuing businesses in Australia, there is currently no competitive overlap between their respective tollroad operations. In particular, Transurban currently does not operate any tollroads or tag issuing business in Queensland, while QM Group does not operate any tollroads or tag issuing business outside Queensland. In response to market participants' concerns, the ACCC considered whether Transurban would, post acquisition, have the ability and incentive to increase so-called roaming fees, raising prospective tollroad operators' costs and potentially foreclosing competition in bids for new tollroad projects.  Roaming fees are fees levied by tag issuers when their electronic tags are used for travel on a \"foreign\" tollroad (i.e. a tollroad other than the \"home\" tollroad of a given tag issuing business) and are intended to reimburse the costs incurred by a tag issuer in providing interoperability, including the collection and remission of relevant toll revenues. While the proposed acquisition would increase Transurban's electronic tag base nationally, due to the limited degree of interstate roaming, the proposed acquisition would be unlikely to increase Transurban's ability to impact the competitiveness of rival bids in each relevant state. Additionally, the ACCC considered that Transurban would likely have a strong and ongoing incentive to ensure that its electronic tags, including the tags issued by businesses in which Transurban has a majority interest, are able to operate on all other tollroads, and that tags issued by rival tag issuers are all also able to operate on Transurban-controlled tollroads, given the benefits that Transurban derives from such interoperability. The ACCC also considered whether the removal of QM Group as a potential provider of electronic tolling services to tollroad operators, including government entities which retain ownership of tollroads, may raise competition concerns. Market feedback indicated that there would remain a number of viable alternatives available to tollroad owners/operators including in-house development of the necessary electronic toll collection system and international market participants operating similar systems offshore. Further, the ACCC considered that the state governments (in Victoria, NSW and Queensland) as the bodies ultimately responsible for the awarding of tollroad concessions, are readily able to exercise significant countervailing power (e.g. in the form of regulatory intervention and/or additional legislation) to address any behaviour that is potentially detrimental to competition in either of the relevant markets."
+  }
+}

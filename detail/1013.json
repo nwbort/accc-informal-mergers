@@ -1,0 +1,49 @@
+{
+  "id": "1013",
+  "title": "Transpacific Industries Group Ltd - acquisition of the hard waste collection component of the business trading as Southside GMS",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-the-hard-waste-collection-component-of-the-business-trading-as-southside-gms",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28932",
+  "industries": [
+    "General transport and solid waste collection"
+  ],
+  "date_completed": "2 November 2007",
+  "date_completed_iso": "2007-11-02T12:00:00Z",
+  "date_commenced": "17 October 2007",
+  "date_commenced_iso": "2007-10-17T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Paul and Andrea Pugliese trading as Southside GMS"
+  ],
+  "timeline": [
+    {
+      "date": "31 Aug 2007",
+      "date_iso": "2007-08-31T12:00:00Z",
+      "event": "Transpacific acquired the hard waste collection component of Southside GMS."
+    },
+    {
+      "date": "17 Oct 2007",
+      "date_iso": "2007-10-17T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "31 Oct 2007",
+      "date_iso": "2007-10-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Nov 2007",
+      "date_iso": "2007-11-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific acquired the solid waste collection component of the business trading as Southside GMS from Paul and Andrea Pugliese.",
+    "Market definition": "Regional Melbourne market for the supply of solid waste collection services.",
+    "Competition analysis": "On 2 November 2007, the ACCC announced its decision not to oppose the acquisition by Transpacific of the business trading as Southside GMS from Paul and Andrew Pugliese. The ACCC considered the information provided by Transpacific and other information available to it. Based on that information, the ACCC considered that the acquisition of Southside's relatively small-scale business and operations was unlikely to remove a significant source of competitive constraint in the relevant market."
+  }
+}

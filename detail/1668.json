@@ -1,0 +1,31 @@
+{
+  "id": "1668",
+  "title": "Acquirer: Brambles Industries Ltd; Target: Ausdoc Information Management Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-brambles-industries-ltd-target-ausdoc-information-management-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15472",
+  "industries": [],
+  "date_completed": "26 March 2002",
+  "date_completed_iso": "2002-03-26T12:00:00Z",
+  "date_commenced": "4 February 2002",
+  "date_commenced_iso": "2002-02-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Brambles Industries Ltd"
+  ],
+  "targets": [
+    "Ausdoc Information Management Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Brambles intends to lodge an expression of interest for the purchase of Ausdoc Information Management, the records management business of The Ausdoc Group",
+    "Market definition": "The relevant markets appear to be: - the supply of physical record management services; - the supply of electronic information services; and - the supply of secure destruction services.",
+    "Competition analysis": "Despite a high market share, the possible acquisition would not appear likely to substantially lessen competition because: - the merged entity will face continued competition from two companies able to compete for large business contracts, and numerous smaller competitors able to expand their operations were prices to rise; - barriers to entry appear to be low with low sunk entry costs and a growing market; - customers appear to have a degree of countervailing power which is significant in their initial choice of supplier; and - market dynamics, particularly technological development in the electronic information management market will continue to provide an important competitive constraint. The Commission therefore decided not to intervene in the possible acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "7832"
+  }
+}

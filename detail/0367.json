@@ -1,0 +1,44 @@
+{
+  "id": "0367",
+  "title": "Queensland Motorways Holding Pty Limited (QMH) - proposed acquisition of Queensland tollroad assets from Rivercity Motorway Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/queensland-motorways-holding-pty-limited-qmh-proposed-acquisition-of-queensland-tollroad-assets-from-rivercity-motorway-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51944",
+  "industries": [
+    "Tolling services, tollroad ownership"
+  ],
+  "date_completed": "18 September 2013",
+  "date_completed_iso": "2013-09-18T12:00:00Z",
+  "date_commenced": "8 August 2013",
+  "date_commenced_iso": "2013-08-08T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Queensland Motorways Holding Pty Limited (QMH)"
+  ],
+  "targets": [
+    "Clem Jones tunnel<br/> Flow Tolling Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Aug 2013",
+      "date_iso": "2013-08-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "23 Aug 2013",
+      "date_iso": "2013-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Sep 2013",
+      "date_iso": "2013-09-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "QMH proposed to acquire from the receivers of Rivercity Motorway Group (Rivercity) the following assets: - a fixed term concession providing the right to toll and operate the Clem Jones tunnel (CLEM7) in Brisbane; and - the tolling services business, Flow Tolling Pty Limited. At the same time the ACCC also reviewed QMH's proposed acquisition of tollroad assets from the Brisbane City Council, comprising the Go-Between Bridge and the Legacy Way tunnel.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - the provision of tolling services to tollroads in Queensland; - the provision of electronic tolling services to motorists in Queensland; and - the bidding market for tollroad construction and ownership in Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would not result in a substantial lessening of competition in any of the relevant markets. The ACCC assessed whether the removal of Flow Tolling as a provider of tolling services to current and future tollroad operators in Queensland would result in competition concerns. The ACCC concluded that current and future tollroad operators would continue to have strong alternatives to QMH in the provision of tolling services. These alternatives included: - the ability to develop the necessary tolling systems in-house; - parties providing traffic and public transport management solutions in Queensland, who could utilise established IT infrastructure and staff to provide tolling services; and - tollroad operators based in other Australian states who could enter Queensland to provide tolling services. The ACCC concluded that the proposed acquisition would be unlikely to enable QMH to increase the tolls and associated charges it levies on motorists or reduce its level of service on its tollroad network, as it would be constrained by stringent franchise agreements between QMH and the Queensland Government. The ACCC also considered the potential for QMH to raise rivals' costs for future tollroad construction and ownership opportunities through imposing higher roaming fees on rivals due to its increased electronic tag base.  The ACCC noted the proposed acquisition would result in a small increase in QMH's electronic tag base and would be unlikely to give QMH the ability to impact the competitiveness of rival bids."
+  }
+}

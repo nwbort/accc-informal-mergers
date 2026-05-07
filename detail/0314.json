@@ -1,0 +1,54 @@
+{
+  "id": "0314",
+  "title": "Wesfarmers Limited - proposed acquisition of The Workwear Group from Pacific Brands Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/wesfarmers-limited-proposed-acquisition-of-the-workwear-group-from-pacific-brands-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55708",
+  "industries": [
+    "Workwear"
+  ],
+  "date_completed": "20 November 2014",
+  "date_completed_iso": "2014-11-20T12:00:00Z",
+  "date_commenced": "23 September 2014",
+  "date_commenced_iso": "2014-09-23T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Wesfarmers Limited"
+  ],
+  "targets": [
+    "Pacific Brands Ltd - the 'Workwear Group'"
+  ],
+  "timeline": [
+    {
+      "date": "23 Sep 2014",
+      "date_iso": "2014-09-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "16 Oct 2014",
+      "date_iso": "2014-10-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "28 Oct 2014",
+      "date_iso": "2014-10-28T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. Former proposed decision date of 13 November delayed to allow provision of requested information from the merger parties."
+    },
+    {
+      "date": "14 Nov 2014",
+      "date_iso": "2014-11-14T12:00:00Z",
+      "event": "ACCC received additional information from the parties."
+    },
+    {
+      "date": "20 Nov 2014",
+      "date_iso": "2014-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Wesfarmers Limited proposed to acquire the business and shares of Pacific Brands Ltd's 'The Workwear Group'.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - a national wholesale market for the supply of industrial workwear to resellers and retailers - a national business-to-business market for the supply of industrial workwear to end users such as large and medium-sized national and regional customers, and - national and local retail market(s) for the supply of industrial workwear to end users, generally small businesses and individual consumers. Industrial workwear includes industrial and high visibility clothing, fire retardant clothing, protective footwear and personal protective equipment.",
+    "Competition analysis": "As part of the acquisition, Wesfarmers acquired the well-known workwear brands, King Gee, Hard Yakka and Stubbies. Given the strong recognition of these brands in Australia, the ACCC considered the potential impact of brand loyalty on competition in the relevant markets. The merger parties overlapped in the supply of industrial workwear to business customers and in retail markets.  The acquisition also involved Wesfarmers vertically integrating into wholesale supply of workwear.  Therefore the ACCC considered whether post-acquisition, Wesfarmers would be likely to engage in foreclosure strategies, limiting its downstream rivals' access to products. The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. Relevant factors in reaching this conclusion included the following: - the number of alternative suppliers in each of the relevant markets continuing to act as a constraint on Wesfarmers - brand loyalty as a driver of market share is declining in the relevant markets, demonstrated by the growth of new and private label brands often at the expense of well-known brands - the potential for new entry and expansion, including entry sponsored by large customers, and existing safety equipment suppliers leveraging their networks to commence supply of workwear - some customers of Wesfarmers possess sufficient countervailing power to bypass (or threaten to bypass) Wesfarmers and obtain industrial workwear products directly. The ACCC concluded that Wesfarmers would not have the incentive to limit downstream rivals' access to King Gee and Hard Yakka products post-acquisition.  Given the number of competing resellers and retailers, the decrease in brand loyalty associated with Pacific Brands' workwear, and the availability of alternative brands, the information available to the ACCC suggested that it would not be profitable for Wesfarmers to foreclose access to these brands."
+  }
+}

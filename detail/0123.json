@@ -1,0 +1,44 @@
+{
+  "id": "0123",
+  "title": "Are Media Pty Limited - Ovato Retail Distribution Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/are-media-pty-limited-ovato-retail-distribution-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Magazines"
+  ],
+  "date_completed": "29 July 2021",
+  "date_completed_iso": "2021-07-29T12:00:00Z",
+  "date_commenced": "24 June 2021",
+  "date_commenced_iso": "2021-06-24T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Are Media Pty Limited"
+  ],
+  "targets": [
+    "Ovato Retail Distribution Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jun 2021",
+      "date_iso": "2021-06-24T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Jul 2021",
+      "date_iso": "2021-07-08T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "29 Jul 2021",
+      "date_iso": "2021-07-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Are Media Pty Limited ( Are Media ) proposes to acquire Ovato Retail Distribution Pty Ltd ( ORD ) from Ovato Limited ( Ovato ). Are Media, formed following Bauer Media’s acquisition of Pacific Magazines, is the largest magazine publisher in Australia. Ovato is an integrated print, distribution and marketing company. ORD is a subsidiary of Ovato, and is Australia’s largest distributor of print magazines to retailers including newsagents and supermarkets.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the market for the distribution of magazines to retailers (such as newsagents, supermarkets and convenience stores) in Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition of this market, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition. Foreclosure of rival publishers The ACCC considered that for many magazine publishers, ORD is an important route for the national distribution of time-sensitive publications to retailers, and is the only viable option. This would give Are Media the ability to favour the distribution of its own magazines after acquiring ORD. However the ACCC found that Are Media would have insufficient incentive to favour the distribution of its own magazines, instead having a strong incentive to maximise the volume and value of magazines distributed after it purchases ORD. The ACCC analysed historical sales data that indicated that consumers who still buy magazines have a high level of loyalty to particular titles, meaning that very few consumers would switch to an Are Media publication if it favoured distribution of its own magazines over its rivals’ publications. The ACCC also noted that ORD faces high fixed costs in distributing magazines. These factors mean that if Are Media were to reduce circulation of rival publications and favour its own, it is likely to forego more revenue from reduced distribution volume than it would gain in additional sales of its own publications. Given the significant continuing declines in magazine sales and the very limited consumer switching between magazine titles, the ACCC concluded that the proposed acquisition is not likely to result in a substantial lessening of competition from Are Media favouring its own publications. In the context of ongoing closure of magazine titles and the general decline in magazine sales, with high fixed costs in operating a magazine distribution business, the ACCC noted that distribution costs faced by publishers are likely to increase with or without Are Media acquiring ORD. The ACCC also noted that Are Media is heavily reliant on ORD to distribute its magazines to retailers, and that the proposed acquisition therefore secures its main route to market in an industry facing continuing decline. Access to data of rival publishers The ACCC also considered whether Are Media could use data about its rivals’ sales that is obtained by ORD, to benefit Are Media’s publications in a way that would substantially lessen competition. The ACCC concluded that any benefit from this data is unlikely to give Are Media a significant competitive advantage, primarily because similar market information is publicly available."
+  }
+}

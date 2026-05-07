@@ -1,0 +1,655 @@
+Page 1 of 15 
+ 
+Public Competition Assessment 
+28 November 2013 
+Baxter International Inc. – proposed acquisition of Gambro 
+AB 
+Introduction 
+1. 
+On 4 September 2013, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of 
+Gambro AB (Gambro) by Baxter International Inc. (Baxter) (the proposed 
+acquisition), subject to a court enforceable undertaking (the undertaking) 
+pursuant to section 87B of the Competition and Consumer Act 2010 (the Act). 
+2. 
+The ACCC decided that, with the undertaking, the proposed acquisition would be 
+unlikely to have the effect of substantially lessening competition in any market in 
+contravention of section 50 of the Act. 
+3. 
+The ACCC made its decision on the basis of the information provided by the 
+parties to the acquisition (the parties) and information arising from its market 
+inquiries. This Public Competition Assessment outlines (subject to confidentiality 
+considerations) the basis on which the ACCC has reached its decision on the 
+proposed acquisition. 
+Public Competition Assessment 
+4. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a proposed acquisition is opposed; 
+ a proposed acquisition is subject to enforceable undertakings; 
+ the parties seek such disclosure; and 
+ a proposed acquisition is not opposed but raises important issues that the 
+ACCC considers should be made public. 
+5. 
+This Public Competition Assessment has been issued because Baxter’s 
+proposed acquisition of Gambro is subject to a court enforceable undertaking. 
+
+
+ 
+Page 2 of 15 
+6. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC's analysis of various markets and 
+the associated merger and competition issues. 
+7. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and 
+decision outlined in one Public Competition Assessment will be conclusive of the 
+ACCC’s view in respect of other transaction proposals, as each matter will be 
+considered on its own merits. 
+8. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition at the time the decision was made. As 
+such, Public Competition Assessments may not definitively identify and explain 
+all issues that the ACCC considers arise from a proposed acquisition. Further, 
+the ACCC’s decisions generally involve consideration of both non-confidential 
+and confidential information provided by the merger parties and market 
+participants. In order to maintain the confidentiality of particular information, 
+Public Competition Assessments do not contain any confidential information or 
+its sources. 
+The parties 
+The acquirer: Baxter 
+9. 
+Baxter is a global medical products and services company, incorporated in the 
+United States of America and listed on the New York Stock Exchange and SIX 
+Swiss Stock Exchange. Through its subsidiaries, Baxter develops, manufactures 
+and markets products that treat people with haemophilia, immune disorders, 
+infectious diseases, kidney disease, trauma, and other chronic and acute 
+medical conditions. 
+10. In Australia, Baxter’s operations include the supply of dialysis products and 
+technologies used in Continuous Renal Replacement Therapy (CRRT), 
+Haemodialysis (HD) and Peritoneal Dialysis (PD). Baxter supplies its own 
+Aquarius brand of CRRT monitors, but these are manufactured on its behalf by 
+Nikkiso Co. Ltd (Nikkiso). Conversely, Baxter is the distributor of Nikkiso 
+manufactured and branded HD monitors. 
+11. Baxter’s Australian operations comprise a fluid manufacturing plant in 
+Toongabbie, Western Sydney, distribution, and warehousing depots in New 
+South Wales, Queensland, Victoria, South Australia, Western Australia and 
+Tasmania. Baxter manufactures fluids for intravenous administration and dialysis 
+fluids. 
+The target: Gambro 
+12. Gambro, based in Lund, Sweden, is a global provider of dialysis products and 
+technologies used in HD and CRRT. Its portfolio of HD and CRRT devices 
+includes monitors, dialysers, bloodlines, cyclers and dialysis fluids. 
+13. Gambro distributes these products (which it manufactures overseas) in Australia 
+through offices located in Sydney, Melbourne, Brisbane and Perth. Gambro does 
+not have any Australian manufacturing facilities. 
+
+
+ 
+Page 3 of 15 
+Industry Background 
+Renal Replacement Therapy 
+14. Renal Replacement Therapy (RRT) performs the key functions of healthy 
+kidneys where a patient suffers kidney deterioration or failure. Kidney failure can 
+be the result of: 
+ Chronic Kidney Disease (CKD) - which usually occurs gradually over time and 
+results in permanent kidney failure; or 
+  Acute Kidney Injury (AKI) - a rapid loss of kidney function occurring suddenly 
+and is potentially reversible. 
+15. In either form of failure, the filtering of the blood by the kidneys is either slowed 
+or stopped, causing waste products and other toxic substances to build up in the 
+blood. All forms of RRT, whether for AKI or CKD patients, pursue the same 
+objective which is to remove waste substances from the blood and to correct 
+fluid abnormalities associated with renal failure. 
+16. Baxter and Gambro overlapped in the supply of CRRT and HD. CRRT and HD 
+are both forms of RRT, with CRRT being used to treat patients suffering from 
+AKI and HD being used to treat patients with CKD. 
+Tender processes 
+17. RRT products are not purchased directly by patients. Customers of RRT 
+products comprise state government organisations, public hospitals and private 
+clinics. For HD and PD, tenders are generally structured on a price per treatment 
+(PPT) basis where suppliers (such as Baxter and Gambro) will loan the relevant 
+machine to the customer (normally for periods of 5-7 years), with the customer 
+paying a price for each treatment (which includes consumables and takes into 
+account the capital cost of the machine). For CRRT, the ACCC identified that it 
+was common for customers to purchase CRRT machines outright and then 
+contract for the supply of components separately. 
+Other industry participants 
+Nikkiso 
+18. Nikkiso is headquartered in Tokyo, Japan. Its medical division engages in the 
+manufacture and sale of HD and CRRT products. Baxter currently distributes the 
+Nikkiso HD machine fleet within Australia. Nikkiso also manufactures the 
+Aquarius CRRT machine for Baxter, which Baxter supplies globally including in 
+Australia. 
+Fresenius 
+19. Fresenius SE & Co. KGaA (Fresenius) is a vertically integrated, publicly listed 
+German company. Fresenius is the world’s largest provider of products and 
+services for individuals undergoing dialysis due to CKD. Fresenius has been 
+active in Australia since 1996 when it set up headquarters for the South East 
+Asian region in Sydney and began offering HD and PD products. Fresenius does 
+not currently supply CRRT products in Australia. 
+
+
+ 
+Page 4 of 15 
+TekMed 
+20. TekMed Pty Ltd (TekMed) distributes a CRRT monitor in Australia and New 
+Zealand which is imported from the Swiss manufacturer, Infomed SA. 
+Nipro 
+21. The Nipro Group (Nipro) is headquartered in Osaka, Japan and mainly engages 
+in the manufacture, development and sale of dialysis related products. Baxter 
+distributes some of Nipro’s dialysis products in Australia. Nipro also sells its own 
+dialysers and other HD products in Australia through the Regional Medical 
+Group and Sutherland Medical Pty Ltd. 
+NxStage Medical 
+22. Headquartered in Massachusetts, NxStage Medical Inc.’s (NxStage) primary 
+product, the NxStage System One is a smaller, portable form of a traditional HD 
+machine, designed to be used in a variety of settings, including patient homes, 
+as well as more traditional care settings such as hospitals and dialysis clinics. 
+NxStage’s System One has been distributed in Australia and New Zealand 
+through the Regional Health Care Group since 2011. 
+Regional Health Care Group  
+23. Regional Health Care Group is a privately owned Australian group in the 
+healthcare, research and development sector. Relevantly, it sources and 
+distributes renal treatment products (including HD treatment products) across 
+Australia to hospitals and patients’ homes.  
+B Braun 
+24. B. Braun Melsungen AG (B Braun) is a multinational health organisation based 
+in Germany. B Braun’s renal division Avitium AG offers a full line of kidney 
+dialysis offerings. The division focuses on treatment systems for AKI, HD as well 
+as therapeutic aphaeresis. At the time of the review, B Braun was in the process 
+of commencing the supply of HD products in Australia. It does not supply CRRT 
+products in Australia. 
+The proposed transaction 
+25. Baxter proposed to acquire Gambro for a total consideration of 26.5 billion 
+Swedish Kronor (approximately $A 4.0 billion at exchange rates at the time). On 
+20 February 2013, Baxter made a submission to the ACCC seeking clearance of 
+the proposed acquisition in Australia. 
+International liaison 
+26. Throughout the course of the review, the ACCC liaised closely with the 
+European Commission (EC) and the New Zealand Competition Commission 
+(NZCC). All three authorities shared information and documents according to 
+confidentiality waivers provided by the merger parties. 
+
+
+ 
+Page 5 of 15 
+Review timeline 
+27. The following table outlines the timeline of key events in this matter. 
+ 
+Date 
+Event 
+4 March 2013 
+ACCC commenced review under the Merger Review Process 
+Guidelines. 
+22 March 2013 
+Closing date for submissions from interested parties. 
+22 March 2013 
+ACCC requested further information from the merger parties. 
+ACCC timeline suspended. Former proposed decision date of 26 
+April 2013 delayed to allow provision of requested information. 
+8 April 2013 
+ACCC received further information from the merger parties. 
+ACCC timeline recommenced. 
+18 April 2013 
+ACCC timeline suspended and former proposed decision date of 
+26 April 2013 delayed to allow the merger parties to provide 
+additional information. 
+26 April 2013 
+ACCC received further information from the merger parties. 
+ACCC timeline recommenced. 
+3 May 2013 
+ACCC timeline suspended until after the parties have had further 
+discussions with overseas regulators. 
+5 July 2013 
+ACCC commenced market inquiries in relation to draft s87B 
+divestiture undertaking offered by Baxter. ACCC timeline 
+recommenced. 
+11 July 2013 
+Closing date for submissions from interested parties. 
+24 July 2013 
+Before deciding whether to accept Baxter's proposed 
+undertaking, the ACCC wanted to be certain of the identity of the 
+purchaser of the global divestiture business approved by the 
+European Commission (EC) in accordance with the EC's decision 
+on the proposed acquisition and related Commitments which took 
+effect on 22 July 2013. The ACCC delayed its decision on 
+whether to accept the proposed undertaking pending the EC's 
+expected decision of an approved purchaser. ACCC timeline 
+suspended. 
+3 September 2013 
+EC approved purchaser of the global divestiture business. ACCC 
+timeline recommenced. 
+4 September 2013 
+ACCC announced it would not oppose the proposed acquisition, 
+subject to section 87B undertaking accepted by ACCC. 
+ 
+
+
+ 
+Page 6 of 15 
+Market inquiries 
+28. The ACCC conducted market inquiries with a range of industry participants, 
+including competitors in the supply of RRT treatment products and customers of 
+these products (including hospitals, dialysis clinics and state health authorities). 
+Competition test 
+29. Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to 
+the likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+30. In the absence of the proposed acquisition, the ACCC considered that the likely 
+future competitive environment would be the status quo, that is, both Baxter and 
+Gambro would continue to operate as independent, viable and effective 
+competitors in the relevant markets.  
+Areas of concern 
+31. Baxter and Gambro overlapped in the supply of both CRRT and HD products. 
+The ACCC’s investigation focussed on whether the merged firm would be able 
+to: 
+ unilaterally increase prices or decrease service in the supply of: 
+o 
+CRRT treatment products; or 
+o 
+HD treatment products; or 
+ reduce research and development in RRT on a global level.  
+32. Due to Baxter’s strong market position in the supply of PD, the ACCC also 
+considered whether the merged firm would have the ability and incentive to 
+foreclose actual and potential rivals, or raise barriers to entry in the relevant 
+markets, through a bundling or tying strategy. 
+Market definition 
+Continuous Renal Replacement Therapy 
+33. CRRT is used to treat patients suffering from AKI. Treatment occurs in an 
+intensive care hospital setting and is administered constantly for up to a week. 
+An alternative form of treatment to CRRT for AKI is sustained/slow extended 
+daily dialysis (SLEDD). However, the ACCC’s market inquiries indicated that 
+customers do not substitute between CRRT and SLEDD based on changes in 
+prices and service. Rather, decisions on the treatment are based on clinical 
+preferences and the condition of the patient. Accordingly, for the purpose of 
+
+
+ 
+Page 7 of 15 
+assessing the likely competition effects of the proposed acquisition, there is no 
+substitute for customers purchasing CRRT treatment products. 
+34. Baxter submitted that it is not appropriate to treat the individual components of 
+CRRT as separate markets. However, the ACCC considered, based on 
+information provided by market inquiries and data provided by the parties, that in 
+CRRT the appropriate product markets were likely to be narrower than submitted 
+by the parties. In particular, the ACCC considered that there appeared to be 
+distinct product markets for some of the components and monitors utilised in 
+CRRT treatment.  
+35. The ACCC identified that it was common for customers to purchase CRRT 
+monitors outright and then contract for the supply of components (e.g. catheters, 
+concentrates) separately. While some customers contracted with one supplier for 
+all CRRT treatment products, other customers utilised different suppliers for 
+components that did not need to be technically compatible with the respective 
+monitors. In particular, the ACCC’s market inquiries indicated that there may be 
+separate product markets for the supply of CRRT concentrates and 
+tubing/catheters. 
+36. The ACCC did not consider that it was necessary to reach a definitive view on 
+the appropriate product market definitions. As explored further below, regardless 
+of the market definition adopted, the ACCC considered that, in the absence of a 
+remedy, the proposed acquisition would be likely to raise significant competition 
+concerns in relation to the broader market for the supply of CRRT treatment 
+products as well as in distinct product markets. 
+Haemodialysis 
+37. HD is used to treat patients suffering from CKD. Treatment occurs in a patient’s 
+home or, more commonly, in a clinic or hospital environment. HD generally 
+occurs three times per week for 8 hours a time and treatment may continue for a 
+number of years while the patient awaits a kidney transplant. An alternative 
+treatment option for CKD is PD. PD can generally only be administered for two to 
+three years, due to the breakdown of the peritoneum lining, before a patient must 
+transfer to HD. The ACCC’s market inquiries indicated that there was no 
+substitution between HD and PD based on price or service with the decision on 
+treatment based on clinical preference and the patient’s condition.  
+38. As with CRRT, Baxter submitted that it is not appropriate to treat the individual 
+components of HD as separate markets. The ACCC’s market inquiries identified 
+that, unlike CRRT, in HD customers generally obtained supply of products under 
+PPT arrangements where all the necessary components for the treatment were 
+bundled and provided as a single price and the monitor’s cost was in effect 
+amortised over the term of the multi-year supply arrangement. 
+39. While the ACCC’s market inquiries indicated that in some instances customers 
+obtained supply for some components separately, this was not commonplace 
+and the ACCC considered that an HD supplier needed to offer the complete 
+range of HD treatment products on a PPT basis in order to compete effectively.  
+40. The ACCC also considered whether there was a separate market for Home HD. 
+Home HD is where the patient self-administers HD treatment within their own 
+home, rather than travelling to a clinic or hospital. Based on the information 
+
+
+ 
+Page 8 of 15 
+before it, the ACCC did not consider that there was a separate market for Home 
+HD given the fact that, in most cases, a standard HD monitor required minimal 
+customisation in order to be suitable for use by a patient in their home. Further, 
+the ACCC’s market inquiries indicated that customers did not generally 
+differentiate Home HD in contracting or tendering arrangements. 
+41. The ACCC concluded that a broad HD treatment product market was 
+appropriate. However, the ACCC considered that even if it were to adopt narrow 
+component or Home HD markets, this would not have altered the outcome of the 
+competition analysis below. 
+Peritoneal dialysis 
+42. Although Gambro had no presence in the supply of PD, the ACCC considered 
+that the supply of PD was relevant to its consideration of whether the proposed 
+acquisition would raise conglomerate merger concerns. 
+43. PD is used to clean the blood without removing it from the body. Dialysate, made 
+up mostly of salts, water and glucose is injected into the peritoneal space in the 
+abdomen through a two way catheter. The membrane that lines the abdomen 
+(the peritoneum) acts as a natural filter, allowing waste and fluid to pass from the 
+blood into the dialysate, which is then pumped out of the abdomen.  
+44. Although PD and HD are both used to treat patients suffering from CKD, the 
+ACCC’s investigation did not find evidence of substitution between the two 
+based on price or service. For the same reasons as HD, the ACCC concluded 
+that the relevant market is likely to be the broad PD treatment market comprising 
+all the necessary components. 
+Geographic dimension – CRRT, HD and PD 
+45. The ACCC concluded that the appropriate geographic scope of the relevant 
+markets was national. 
+46. Almost all of the key equipment and components in HD, CRRT and PD treatment 
+distributed in Australia are manufactured overseas. While these products are all 
+imported, the ACCC did not consider that it represented a global market. The 
+ACCC’s inquiries identified that pricing is not based on any global benchmarks, 
+the nature of supply arrangements between customers and suppliers is 
+fundamentally different between jurisdictions, and that regulatory approval is a 
+barrier to entry into the Australian market.  
+47. The ACCC’s market inquiries identified that suppliers generally distributed 
+products nationwide. The ACCC’s market inquiries indicated that all major 
+suppliers competed for contracts or supply arrangements on a nationwide basis 
+and the ACCC did not identify any evidence to suggest pricing differed markedly 
+between states.  
+RRT Innovation Market 
+48. Both Baxter and Gambro overlapped in global RRT research and development. 
+The ACCC, although recognising that research in RRT is intricately linked to 
+future competition in the separate HD, CRRT and PD markets, also considered 
+whether there was a standalone innovation market. The ACCC’s market inquiries 
+
+
+ 
+Page 9 of 15 
+identified that, at a global level, research may be undertaken on a broad 
+technology which has the potential to result in innovations across numerous and 
+future product markets.  
+49. As a consequence, the ACCC considered that it was appropriate to consider the 
+impact of the proposed acquisition on the global market for RRT innovation.  
+Conclusion – relevant markets 
+50. The ACCC’s assessment of the proposed acquisition was conducted in relation 
+to the following markets: 
+ the national market for supply of CRRT treatment products as either a: 
+o broad system based market for CRRT treatment products; or 
+o individual CRRT component markets (e.g. catheters, fluids); 
+ the national market for supply of HD treatment products;  
+ the national market for supply of PD treatment products; and 
+ the global market for RRT innovation.  
+Competition Assessment 
+Supply of CRRT treatment products 
+51. The ACCC considered that, in relation to the supply of CRRT treatment 
+products, in the absence of a suitable divestiture remedy the proposed 
+acquisition would remove Baxter’s major competitor and result in a near-
+monopoly in Australia irrespective of the precise market definition. The only other 
+supplier of CRRT products in Australia is TekMed which does not have a 
+complete product offering and has a much smaller market share. 
+52. The ACCC did not issue a Statement of Issues during its investigation, due to 
+the fact that: 
+ the ACCC’s initial market inquiries provided strong evidence on which the 
+ACCC was able to form a view as to the likely competitive effects of the 
+proposed acquisition; and 
+ following initial market inquiries and receipt of a proposed undertaking from 
+Baxter that was in a suitable format for consultation, the ACCC proceeded to 
+initiate market consultation on the suitability of the remedy proposed by 
+Baxter. 
+Closeness of competition and availability of substitutes 
+53. The ACCC’s investigation identified that Baxter and Gambro were each other’s 
+closest competitors in the supply of CRRT treatment products in Australia. 
+Notwithstanding a recent temporary withdrawal of Baxter’s Aquarius machine, 
+the ACCC’s market inquiries indicated that most customers of CRRT treatment 
+
+
+ 
+Page 10 of 15 
+products considered that Baxter and Gambro were the only two viable options 
+for the supply of these products.  
+54. The ACCC also considered the impact of TekMed, an alternative supplier of 
+CRRT monitors and some ancillaries. The ACCC’s market inquiries identified 
+that TekMed had a small market presence, a slightly differentiated CRRT 
+monitor, and did not currently offer CRRT fluids. Therefore, the ACCC 
+considered that the merged firm’s pricing and service would not be sufficiently 
+constrained by TekMed in the foreseeable future. 
+Barriers to entry or expansion 
+55. The ACCC’s investigation identified that barriers to entry for the supply of CRRT 
+treatment products are very high. Information provided through the ACCC’s 
+market inquiries revealed that the barriers would be significant for any new 
+entrant, whether this was an overseas supplier establishing supply operations in 
+Australia, a supplier already present in other RRT markets in Australia, or an 
+Australian distributor seeking to import CRRT treatment products. 
+56. Industry feedback identified that reputation or brand recognition amongst 
+customers was a significant impediment to successful entry. Market participants 
+indicated that there was general industry reluctance to adopt new products that 
+had not demonstrated clinical acceptance in Australia. Furthermore, the ACCC 
+identified that there appeared to be significant sunk costs, for example in the 
+form of free trials and promotions, in establishing the necessary reputation to 
+compete effectively in Australia. 
+57. Further, the ACCC’s market inquiries indicated that there appeared to be 
+significant switching costs involved in hospitals changing to a new supplier of 
+CRRT products, especially if it would involve using multiple suppliers’ CRRT 
+monitors in the same dialysis location. Hospitals may be reluctant to acquire a 
+CRRT monitor from a new supplier as it would increase the cost and complexity 
+of procurement and require training of staff to use a different CRRT monitor to 
+those of the merger parties. 
+58. In addition, the ACCC considered that other barriers appeared to exist due to the 
+significant timeframes and costs associated with obtaining regulatory approval 
+for new CRRT treatment products to be supplied in Australia. Further, new 
+entrants would need to establish the necessary distribution, support/service and 
+training infrastructure to compete effectively against the merged firm. The 
+ACCC’s market inquiries indicated there would be significant sunk costs in 
+establishing these functions. 
+59. For these reasons, the ACCC concluded that the threat of new entry or 
+expansion would be unlikely to constrain the merged firm in the foreseeable 
+future. 
+Countervailing Power 
+60. The ACCC did not consider that customers of CRRT treatment products were 
+able to exercise countervailing power to constrain the merged firm. Although the 
+ACCC recognised that customers were often very large public health authorities 
+which purchased significant volumes, these authorities were involved in such a 
+broad range of purchases that it would be impractical for them to sponsor new 
+
+
+ 
+Page 11 of 15 
+entry. Additionally, as discussed above, the ACCC’s investigation identified that 
+there were very high barriers to entry and market inquiries indicated that it is 
+impractical for a customer to bypass, or threaten to bypass the merger parties by 
+producing or importing their own products. Market inquiries did not identify that 
+customers of CRRT considered they had any countervailing power. 
+61. The ACCC’s market inquiries indicated that the margins derived from the sale of 
+CRRT fluids in Australia are likely to be considerably higher than those in 
+Europe. The ACCC considered that it was reasonable to assume that, if 
+customers had countervailing power, they would have exercised it previously in 
+an attempt to reduce the cost of CRRT fluids. However, to date customers had 
+not attempted to bypass Baxter and Gambro by importing their own CRRT fluids 
+or sponsoring new entry. 
+Conclusion – supply of CRRT treatment products 
+62. The ACCC concluded that, absent an undertaking, the proposed acquisition 
+would result in the amalgamation of the only two major suppliers of CRRT 
+treatment products in Australia and would be likely to result in a substantial 
+lessening of competition in the relevant CRRT market(s). 
+Supply of HD treatment products 
+63. The ACCC considered that, in the supply of HD treatment products, the 
+proposed acquisition would be unlikely to substantially lessen competition.  
+Closeness of competition and availability of substitutes 
+64. The ACCC’s market inquiries and information provided by the merger parties 
+indicated that Baxter and Gambro were not close competitors in the supply of 
+HD treatment products. Information provided by the merger parties identified that 
+Baxter had a minimal market share. The ACCC’s market inquiries and analysis 
+of industry tender outcomes indicated that competition in HD treatment products 
+in Australia is primarily driven by the two major suppliers, Gambro and 
+Fresenius. 
+65. The ACCC considered that, post-acquisition, Fresenius would be the main 
+substitute and strongest competitive constraint on the merged firm. The ACCC 
+noted that there also several smaller suppliers present in the supply of HD 
+treatment products in Australia. 
+Barriers to entry 
+66. As above with CRRT, the ACCC’s investigation indicated that barriers to entry in 
+the supply of HD treatment products are high. However, the ACCC’s 
+investigation identified more opportunity for entry into the market for the supply 
+of HD treatment products. The ACCC considered that this is likely due to the size 
+of the HD market (revenue, number of customers and patients) being much 
+larger than for CRRT. Recent entrants into HD in Australia included NxStage 
+(through the distributor Regional Health Care Group) and Nipro, and B Braun’s 
+entry was imminent. Therefore, the ACCC considered that the threat of new 
+entry would be likely to place some constraint on the merged firm. 
+ 
+
+
+ 
+Page 12 of 15 
+Conclusion – supply of HD treatment products 
+67. The ACCC concluded that the proposed acquisition was unlikely to result in a 
+substantial lessening of competition in the market for the supply of HD treatment 
+products. The ACCC considered that the proposed acquisition resulted in a 
+minimal increase in market concentration, and Fresenius, with a significant 
+market share, represented a strong alternative supplier to the merged firm. 
+Conglomerate effects between supply of PD and HD products 
+68. The ACCC concluded that the proposed acquisition would be unlikely to result in 
+Baxter having an increased ability and incentive to anti-competitively foreclose 
+actual and potential rivals, or raise barriers to entry in the relevant markets, 
+through a bundling or tying strategy. Specifically, the ACCC concluded that the 
+acquisition appeared unlikely to result in the merged firm having a greater ability 
+or incentive to leverage Baxter’s existing strong market position in the supply of 
+PD products into the supply of HD products, and that any such attempted 
+foreclosure would be unlikely to be anti-competitive. The main factors informing 
+this conclusion were: 
+ 
+the ACCC’s market inquiries identified that in nearly all cases, customers did 
+not source PD and HD products as a bundle and customers considered that 
+they had the ability to disaggregate their purchases of PD and HD products 
+between different suppliers. The merged firm would not be a supplier of any 
+‘must have’ product which it could bundle or tie with other products to the 
+exclusion of rival suppliers; 
+ 
+the ACCC’s market inquiries indicated that Fresenius would remain the 
+market leader in supply of HD products post acquisition, and had the ability 
+to offer a comparable bundle as it already supplied both HD and PD 
+products; and 
+ 
+Baxter already had the ability, without the proposed acquisition, to offer a 
+bundle of HD and PD products. 
+Global RRT Innovation  
+69. The ACCC considered that the proposed acquisition was unlikely to result in a 
+substantial lessening of competition in the RRT innovation market (or in any 
+narrower innovation market). The main factors which informed the ACCC’s 
+conclusion were: 
+ the ACCC’s market inquiries indicated that several major international 
+competitors would continue to be significant contributors to RRT research and 
+development, including RRT manufacturers such as Bellco, Nipro, Asahi and 
+Nikkiso; and 
+ information provided by the parties indicated that Baxter was a marginal RRT 
+R&D party (both in spend and product development) and relied in both CRRT 
+and HD markets on distributing products developed and manufactured by 
+third parties. 
+
+
+ 
+Page 13 of 15 
+Conclusion – competition assessment 
+70. For the reasons outlined above, the ACCC concluded that the proposed 
+acquisition, absent a remedy, appeared likely to result in a substantial lessening 
+of competition in the supply of CRRT treatment products. The ACCC concluded 
+that the proposed acquisition was unlikely to result in a substantial lessening of 
+competition in any other relevant market. 
+71. In order to remedy potential competition concerns in Europe, New Zealand and 
+Australia, Baxter proposed to divest its existing global CRRT operations. Baxter 
+offered the ACCC a court enforceable undertaking, pursuant to section 87B of 
+the Act, to commit to this divestiture in Australia. 
+Undertaking 
+72. The ACCC investigated whether the court enforceable undertaking proposed by 
+Baxter would address the competition concerns identified by the ACCC in the 
+supply of CRRT treatment products. 
+73. The proposed undertaking in effect required Baxter to comply with commitments 
+made to the EC to divest its global CRRT business (EC commitments) and 
+required Baxter to obtain the ACCC’s approval of the proposed purchaser in 
+Australia. The EC commitments would result in a transfer to an ACCC approved 
+purchaser of the majority of Baxter’s Australian CRRT business, including the 
+transfer of personnel. 
+74. On 22 July 2013, the EC cleared the proposed acquisition, which included 
+accepting the commitment package offered by Baxter. The EC’s clearance was 
+conditional on the EC subsequently approving the proposed purchaser of the 
+divestiture business and the associated transaction documents. The ACCC held 
+off making its decision on the proposed acquisition and undertaking until the EC 
+had approved the purchaser of the divestiture business. On 2 September 2013 
+the EC approved Nikkiso as the purchaser of the divestiture business. 
+75. The global divestiture package comprised CRRT tangible assets, intellectual 
+property assets, transfer of or access to licences, permits and authorisations in 
+relation to CRRT, and contracts and other commitments which related to 
+Baxter’s CRRT supply and distribution agreements with third parties (divestiture 
+business). 
+76. The ACCC considered that the proposed undertaking, including the divestiture of 
+the divestiture business to Nikkiso and interim ‘hold separate’ arrangements, 
+would remedy the competition concerns raised by the proposed acquisition in the 
+national supply of CRRT treatment products on the basis that: 
+ it would address the common ownership of the Baxter and Gambro CRRT 
+businesses that would otherwise exist after the proposed acquisition;  
+ the broad commitment package proposed in Europe was likely to provide the 
+proposed purchaser with the assets, rights and agreements necessary to 
+enable the approved purchaser to compete effectively in the supply of CRRT 
+treatment products in Australia;  
+ it would bind Baxter in Australia to the EC Commitments; and 
+
+
+ 
+Page 14 of 15 
+ it required Baxter to only divest the divestiture business to a purchaser 
+approved by the ACCC.  
+Proposed Purchaser - Nikkiso 
+77. The ACCC considered that Nikkiso would be able to conduct the divestiture 
+business effectively in Australia and that it would maintain the divestiture 
+business as a standalone, long term and independent and effective competitor in 
+the supply of CRRT products in Australia.  
+78. In its assessment of Nikkiso as the proposed purchaser of the divestiture 
+business, the ACCC gave weight to the fact that Nikkiso was already the 
+manufacturer of the Aquarius CRRT machine which Baxter distributed in 
+Australia. In that regard, the ACCC noted that: 
+ accepting Nikkiso as the approved purchaser eliminated the need for Baxter 
+to obtain third party consent (from Nikkiso) to transfer the agreement with 
+respect to the supply of the Aquarius CRRT machine to another proposed 
+purchaser; and 
+ while responses were mixed in the ACCC’s market inquiries, some customers 
+were aware that the Aquarius machine distributed by Baxter is manufactured 
+by Nikkiso. The ACCC considered that this reduced the difficulties associated 
+with gaining clinical acceptance which could be an issue for other potential 
+purchasers that were unknown in Australia. 
+79. In addition, based on information provided by the parties and Nikkiso, the ACCC 
+considered that Nikkiso had significant experience worldwide in RRT, and had 
+knowledge and expertise in relation to the Aquarius monitors. Further, the ACCC 
+was satisfied that Nikkiso had a commitment and intention to continue to operate 
+and grow the divestiture business in Australia. 
+80. The ACCC was satisfied that the scope of the divestiture package was sufficient 
+to enable Nikkiso to operate the divestiture business effectively. This package 
+included, in particular, the clinical sales and marketing staff who were 
+responsible for managing relationships with health care providers in Australia in 
+relation to Baxter’s CRRT monitors, and who would be able to provide for a 
+smooth transition for Baxter’s existing CRRT customers.  
+81. The ACCC also considered that Nikkiso was sufficiently independent of Baxter 
+and that their HD distribution agreement was not likely to result in Nikkiso having 
+a reduced incentive to compete with Baxter in the supply of CRRT monitors.  
+82. Accordingly, the ACCC was satisfied that Nikkiso was a suitable purchaser of the 
+divestiture business in Australia.  
+Conclusion – divestiture undertaking 
+83. The ACCC concluded that the undertaking offered by Baxter, with Nikkiso as the 
+purchaser of the divestiture business, would remedy the competition concerns in 
+CRRT which were raised by the proposed acquisition. 
+
+
+ 
+Page 15 of 15 
+Conclusion 
+84. On the basis of the above, including taking into account the proposed 
+undertaking, the ACCC formed the view that the proposed acquisition of Gambro 
+by Baxter would not be likely to result in a substantial lessening of competition in 
+any market in contravention of section 50 of the Act. 
+ 

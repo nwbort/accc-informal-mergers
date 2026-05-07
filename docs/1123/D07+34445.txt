@@ -1,0 +1,498 @@
+Public Competition Assessment
+20 April 2007
+AGL Energy Limited and TRUenergy Pty Ltd – proposed swap of
+South Australian electricity generation assets
+Introduction
+1. On 4 April 2007 the Australian Competition and Consumer Commission (ACCC)
+announced that it would not be opposing a proposed swap of South Australian
+electricity generation assets between AGL Energy Limited (AGL) and
+TRUenergy. Essentially, the proposed transaction involved AGL acquiring the
+Torrens Island Power Station (TIPS) from TRUenergy and TRUenergy acquiring
+the Hallett Power Station from AGL.
+2. The ACCC formed its view on the basis of the information provided by the
+merger parties and information arising from its market inquiries. This Public
+Competition Assessment outlines the basis on which the ACCC has reached its
+decision on the proposed acquisition, subject to confidentiality considerations.
+Public Competition Assessment
+2. To provide an enhanced level of transparency and procedural fairness in its
+decision making process, the ACCC issues a Public Competition Assessment for
+all transaction proposals where:
+a merger is rejected;
+a merger is subject to enforceable undertakings;
+the merger parties seek such disclosure; or
+a merger is approved but raises important issues that the ACCC considers
+should be made public.
+3.
+This Public Competition Assessment has been issued because the ACCC
+considers that the proposed transaction raises important issues that the ACCC
+considers should be made public.
+4.
+By issuing Public Competition Assessments, the ACCC aims to provide the
+market with a better understanding of the ACCC's analysis of various markets
+and the associated merger and competition issues. It also alerts the market to
+the circumstances where the ACCC’s assessment of the competition conditions
+in particular markets is changing, or likely to change, because of developments.
+
+
+5.
+Each Public Competition Assessment is specific to the particular transaction
+under review by the ACCC. While some transaction proposals may involve the
+same or related markets, it should not be assumed that the analysis and decision
+outlined in one Public Competition Assessment will be conclusive of the
+ACCC’s view in respect of other transaction proposals, as each matter will be
+considered on its own merits.
+6.
+Many of the ACCC’s decisions will involve consideration of both non-
+confidential and confidential information provided by the merger parties and
+market participants. In order to maintain the confidentiality of particular
+information, Public Competition Assessments do not contain any confidential
+information or its sources. While the ACCC aims to provide an appropriately
+detailed explanation of the basis for the ACCC decision, where this is not
+possible, maintaining confidentiality will be the ACCC's paramount concern,
+and accordingly a Public Competition Assessment may not definitively explain
+all issues and the ACCC’s analysis of such issues.
+The parties
+AGL
+7.
+AGL is a publicly listed Australian energy company that retails gas and
+electricity to over 3.6 million customers. In South Australia, AGL is the largest
+retailer of electricity, servicing 68.7% of residential customers (as at 30 June
+2006).1
+8.
+Prior to the transaction, AGL owned, or had an interest in, the following
+electricity generation assets in the National Electricity Market (NEM)2:
+Hallett – a 180MW gas fired peaking generator located in South Australia.
+This power station is also capable of running on diesel;
+Wattle Point – an intermittent, wind powered turbine located in South
+Australia with a generation capacity of 90.75MW;
+Somerton – a 150MW gas fired peaking generator located in Victoria;
+A 32.5% interest in Loy Yang A – a 2120MW coal fired baseload generator
+located in Victoria; and
+A suite of hydro generation assets located in Victoria, with a capacity of
+approximately 592MW.
+TRUenergy
+9.
+TRUenergy is part of the China Light & Power Group (CLP), a diversified
+energy company listed on the Hong Kong Stock Exchange.
+1 Essential Services Commission of South Australia (2006), Annual Performance Report –
+Performance of South Australian Energy Retail Market 2005/06, November 2006, page 72.
+2 The NEM incorporates all states and territories in Australia except Western Australia and the
+Northern Territory.
+
+
+10.
+TRUenergy retails gas and electricity to over 1.1 million residential and
+commercial customers across Australia, including South Australia. TRUenergy
+also owns a number of electricity generators in Victoria and South Australia.
+11.
+Prior to the transaction, TRUenergy owned the following electricity generation
+assets in South Australia and Victoria:
+TIPS – a 1280MW gas fired intermediate-peak generator located in SA.
+TIPS is the largest power station in South Australia and accounts for
+approximately one third of installed generation capacity in that state; and
+Yallourn – a 1480MW coal fired baseload generator located in Victoria
+Other industry participants
+Origin Energy
+12.
+Origin Energy is a major Australasian integrated energy company involved in
+gas and oil exploration and production, energy retailing and electricity
+generation. Origin retails electricity to customers throughout the NEM and
+owns a suite of generation assets in South Australia and Queensland.
+International Power
+13.
+International Power is the largest private generator of electricity in Australia,
+with over 3700MW of generation capacity in South Australia, Victoria and
+Western Australia.
+14.
+International Power also retails electricity in South Australia and Victoria via a
+joint venture that it has with energy retailer Energy Australia.
+Flinders Power
+15.
+Flinders Power is a wholly owned subsidiary of Babcock and Brown Power and
+owns and operates a number of generation assets in South Australia. Flinders
+Power provides more than 40% of South Australia’s wholesale electricity
+requirements.
+The Heywood and MurrayLink interconnectors
+16.
+The Heywood and MurrayLink interconnectors are the transmission lines
+linking the South Australian and Victorian regions of the NEM. They have a
+combined capacity of 680MW, but tend to become constrained (operate at less
+than full capacity) particularly at times of high demand in South Australia.
+The proposed transaction
+17.
+In summary, the transaction involved:
+AGL acquiring TIPS and associated gas supply and storage contracts from
+TRUenergy;
+
+
+TRUenergy acquiring Hallett, and all rights to develop the power station,
+from TRUenergy; and
+TRUenergy acquiring derivative contracts from AGL struck against the
+South Australian node in quantities that are material but substantially less
+than the capacity of the Torrens Island power station.
+Timing
+18.
+The following table outlines the timeline of key events in this matter:
+Date
+Event
+2 February 2007
+ACCC commenced review under the Merger Review Process Guidelines
+26 February 2007
+Closing date for submissions from interested parties
+15 March 2007
+Indicative timeline extended by one week
+4 April 2007
+ACCC announced that it would not oppose the proposed transaction
+Market inquiries
+19.
+The ACCC conducted market inquiries with a range of industry participants,
+including competitors, potential competitors, customers, industry bodies,
+financial intermediaries and other interested parties. Submissions were sought
+in relation to the substantive competition issues.
+Market Definition
+20.
+The ACCC considered the relevant markets in this matter to be:
+The wholesale supply of electricity in South Australia;
+The supply of financial (hedge) contracts to South Australian electricity
+retailers; and
+The retail supply of electricity to residential customers in South Australia.
+The supply of wholesale electricity in South Australia
+Product market
+21.
+Generators primarily earn revenues by selling physical electricity into the NEM
+and also via hedge contracts they enter into with electricity retailers and other
+counter-parties. However, electricity retailers can only acquire physical
+electricity from the NEM. The hedge contracts that they enter into with
+generators (and other counter-parties) are not contracts for the supply of
+physical electricity; rather, they are types of risk management instruments.
+
+
+22.
+In Australian Gas Light Company v Australian Competition & Consumer
+Commission (No.3) [2003] FCA 1525 (Loy Yang), Justice French found that, for
+the purposes of that matter3:
+“…derivative contracts ought to be regarded as an integral part of the pricing
+and payment arrangements between generators and retailers in relation to the
+underlying product, which is electrical energy, and which they deal with ‘as if’
+it had been sold from supplier to retailer.”
+23.
+Under the ‘purposive’ approach to market definition as applied by the
+Australian Courts4, the relevant market will depend on the matter under
+consideration.
+24.
+In Re QCMA and Defiance Holdings (1976) ATPR 40-102, the Trade Practices
+Tribunal held that:
+“… a market is a field of actual and potential transactions between buyers
+and sellers amongst which there can be strong substitution, at least in the long
+run, if given sufficient price incentive.”
+25.
+Although electricity derivatives (also referred throughout this document as
+hedges and financial contracts) and physical electricity are both related to the
+supply of electricity, the underlying characteristics of these product classes are
+dissimilar in the context of demand side and supply side substitutability. If
+retailers are unable to purchase electricity via the NEM, there is no alternative
+supply available; retailers are not able to substitute the hedge contracts that they
+hold for physical electricity, nor is a hedge contract a means of paying for the
+acquisition of physical electricity. As such, while the ACCC accepted that
+hedging is an essential activity for generators and retailers, it did not accept, for
+the purposes of this matter, that they formed part of the same product market.
+Rather, in this instance, the ACCC found that an electricity derivative could be
+considered as an essential input for participating in the wholesale market for
+supply of electricity in South Australia and the retail market for the supply of
+electricity to residential customers in South Australia.
+26.
+However, the ACCC notes that the competition analysis of this matter would
+not be materially different if a product market that encompasses both physical
+electricity and hedge contracts were adopted.
+Geographic dimension
+27.
+In the NEM, the spot price in each region is based on the bid of the most
+expensive generator required to meet regional demand. The spot price may vary
+from region to region because of two aspects of the transmission network.
+28.
+First, losses are incurred from where electricity is produced to where it is to be
+consumed. These losses can lead to different prices in adjoining NEM regions.
+3 At paragraph 382
+4 See for example Singapore Airlines v Taprobane Tours WA Pty Ltd (1991) 33 FCR 158.
+
+
+29.
+Second, constraints can be encountered when electricity is transported across
+the network. These constraints, particularly when they influence the operation
+of interconnectors into a region, can lead to electricity prices for that region
+being set independently from the other regions.
+30.
+South Australian generators often bid capacity into the pool at or close to their
+marginal cost. However, generators in other regions will also be dispatched into
+South Australia, subject to the prices they bid relative to other generators, and
+taking into account transmission losses and constraints. Thus, the degree of
+competition depends significantly on the level of interconnection between
+regions. Therefore, when assessing the constraint provided by generators
+outside the SA region, it is useful to think of an interconnector as being a
+generator with a varying marginal cost.
+31.
+Market inquiries revealed that generators in Victoria, NSW and the Snowy
+region have all been effectively dispatched into SA at different times. However,
+the ACCC noted that, particularly during periods of high demand for electricity
+in South Australia, there is often a substantial reduction in the interconnectivity
+between the Victorian and South Australian regions, which severely limits the
+ability of non-SA generators to compete with South Australian generators at
+these times. It is noted that TIPS accounts for a large degree of total output in
+South Australia during these times and is often the price-setting generator.
+32.
+Therefore, the ACCC considered the proposed transaction on the basis that the
+geographic scope of the relevant market was the South Australian region plus
+the SA-Victoria interconnectors.
+33.
+Having found that the transaction was unlikely to result in a substantial
+lessening of competition on the basis of a South Australian geographic market,
+it was unnecessary to consider the possibility that the geographic scope of the
+market may be broader.
+The supply of financial (hedge) contracts to South Australian electricity retailers
+34.
+As noted, hedging is an essential function for both generators and retailers in
+managing risk in the South Australian region.
+35.
+Market inquiries indicated that it was desirable for South Australian retailers to
+obtain various types of hedge contracts referenced against the South Australian
+node. Hedge contracts referenced against other regional reference nodes
+(nodes), or against the difference in pool prices between the SA and Victorian
+nodes, can also be used by retailers. However, market inquiries suggested that
+these contracts were weak substitutes only, because they did not match the risk
+profile of South Australian retailers as well as SA contracts do. The ACCC
+considered that contracts other than those referenced against the SA node could
+be used to supplement a retailer’s risk management strategy, but that basing a
+strategy on only these contracts would be risky.
+
+
+36.
+Products referenced against precipitation and temperature can also be used to
+manage risk in some circumstances, however the ACCC found that these were
+weak substitutes for most SA electricity hedges and were designed to hedge
+against price increases resulting from unusual weather events.
+37.
+As such, the ACCC considered that the relevant product market consisted
+primarily of financial contracts referenced against SA pool prices, with a
+competitive fringe of contracts referenced against other nodes and contracts
+referenced against price differentials between the SA and Victorian nodes.
+The market for the retail supply of electricity to residential customers in South
+Australia
+38.
+South Australian electricity customers are contestable and are therefore free to
+choose their electricity retailer. Presently, there are nine active retailers of
+electricity for residential customers in South Australia. However, the South
+Australian market is highly concentrated amongst four retailers – Essential
+Services Commission of South Australia (ESCOSA) data suggests that the four
+major retailers account for 99.7% of the market as at 30 June 2006.5
+39.
+Market inquiries revealed differing views on the geographic scope of the
+relevant retail market. Some in the market argued that South Australia should
+be considered a separate geographic market, whereas others contended that the
+retail market was NEM-wide.
+40.
+Market inquiries revealed that, to be a viable retailer of electricity in South
+Australia, a retailer must have a South Australian retail electricity license,
+access to hedge cover, a marketing department and a billing system.
+41.
+With respect to access to hedge cover, market inquiries indicated that it is highly
+desirable, as an electricity retailer in South Australia, to have a hedge profile
+referenced primarily against the SA node. As noted above, hedges struck
+against other nodes, or against the difference in price between two nodes, were
+found to be imperfect substitutes for SA hedges. Market inquiries suggested
+that sustainable retail entry and competition would not occur in the absence of a
+risk management portfolio consisting of SA-based risk management
+instruments.
+42.
+Therefore, in assessing the matter, the ACCC started from the basis of a South
+Australia geographic market. Having found that the transaction was unlikely to
+result in a substantial lessening of competition on this basis, it was unnecessary
+to consider the possibility that the market incorporated retailers outside of South
+Australia.
+5 Essential Services Commission of South Australia (2006), Annual Performance Report –
+Performance of South Australian Energy Retail Market 2005/06, November 2006, page 72.
+
+
+Competition analysis
+43.
+The ACCC considered a number of issues regarding AGL’s proposed
+acquisition of TIPS. These concerns predominantly related to AGL’s incentive
+and ability to raise prices in the relevant wholesale market and the likelihood of
+the proposed acquisition increasing barriers to entry in the relevant retail
+market.
+Likelihood that the proposed transaction would give AGL the ability and incentive to
+raise prices in the wholesale market
+44.
+When assessing whether a merger would be likely to substantially lessen
+competition, section 50(3)(e) requires the ACCC to take into account whether a
+merger would allow acquirer to “significantly and sustainably increase prices or
+profit margins.”
+45.
+Economic analysis undertaken by the ACCC suggested that, when demand in
+South Australia is high and the Vic-SA interconnector is constrained, TIPS
+appears to have the ability to bid strategically to increase average SA pool
+prices by at least 5%.
+46.
+However, the proposed acquisition would not have given AGL any extra ability
+to raise prices in the SA node above and beyond the ability held by the current
+owner of TIPS, TRUenergy. The ACCC considered that AGL would participate
+in the same competitive environment as TRUenergy, the previous owner of
+TIPS, and was therefore likely to face the same competitive constraint from
+other generators both in South Australia, and in other states via the
+interconnector. This competitive constraint was unlikely to change post-
+transaction.
+47.
+Regarding AGL’s incentives, market participants raised concerns that AGL
+would have a greater incentive to raise SA pool prices than TRUenergy
+possessed. The ACCC’s assessment of this issue is given below; however, the
+ACCC notes that this overview is in part restricted by the ACCC’s obligation to
+maintain confidentiality of certain information provided to it.
+(a)
+Potential incentive to influence ESCOSA’s forthcoming review of the regulated
+electricity retail tariff
+48.
+The ACCC considered whether AGL could exercise market power in the
+wholesale market, through TIPS, in such a way as to increase the wholesale
+energy component of the regulated retail tariffs in South Australia. These tariffs
+are determined by ESCOSA, taking into account the relevant electricity entity’s
+prudent controllable costs, among other factors specified in the Essential
+Services Commission Act 2002.
+
+
+49.
+In terms of the section 50 ‘with and without’ test, the ACCC considered
+whether the proposed transaction would provide AGL with greater incentive to
+pursue this strategy than the situation without the acquisition of TIPS. As the
+‘prescribed’ electricity retailer in South Australia, AGL must offer customers
+the choice of purchasing electricity on a regulated tariff. The ACCC considered
+whether, if AGL were able to increase pool prices in SA, this would have a
+corresponding effect on wholesale (including hedge contract) prices and, in turn,
+result in ESCOSA increasing the regulated tariff.
+50.
+Market inquiries indicated that the regulated tariff acts as a kind of ‘cap’ on the
+prices of market contracts,6 and that the average price charged by retailers for
+market contracts is just below this tariff. As such, although all retailers would
+have stood to gain from an increase in the tariff, it was argued that AGL had the
+most to gain as it had the largest customer base.
+51.
+While the ACCC accepted that AGL may have had this incentive post-
+transaction, market inquiries indicated that this strategy would be difficult to
+effectively implement. One reason is that AGL would have to reduce TIPS’s
+dispatch to increase wholesale electricity prices. This would need to be offset by
+a longer term increase in retail prices.
+52.
+Notwithstanding the processes undertaken and things taken into account by
+ESCOSA when determining regulated tariffs, the ACCC also considered that
+there were already possible strategies open to AGL to attempt to influence the
+tariff review, if it wished. Finally, the ACCC considered that TRUenergy may
+have already had the incentive to influence ESCOSA’s review process, because,
+as a provider of market contracts, it would presumably also benefit from an
+increase in regulated retail tariffs, as outlined above.
+(b)
+Increase revenues for AGL’s wholesale business
+53.
+It was put to the ACCC that, post-transaction, AGL would have the ability and
+incentive to increase pool prices without inflicting losses on its retail business.
+This issue was considered based on the assumption that AGL’s retail load
+would be fully hedged from a combination of it owning TIPS and hedge cover
+obtained from financial contracts with other generators.
+54.
+Again, the ACCC recognised that AGL may have this incentive, however it
+noted that, given AGL’s retail load relative to the capacity of TIPS, any increase
+in pool prices and an associated rise in hedge contract prices, although
+increasing its wholesale revenues, would have also increased its retail costs,
+post-transaction. In order for this strategy to be profitable, AGL would have to
+pass through the increased retail costs to retail prices. The ACCC concluded that
+this was unlikely, having regard to factors including the role of the regulator and
+other South Australian retailers in constraining AGL’s retail prices.
+6 Market contracts are contracts offered to retail customers where the price is not regulated.
+
+
+55.
+Finally, the ACCC noted that, given the capacity of TIPS relative to the size of
+TRUenergy’s South Australian retail load, TRUenergy already had the incentive
+to raise pool prices to increase its wholesale revenues. On this basis TRUenergy
+would also not have faced a corresponding increase in its retail costs.
+Therefore, the ACCC considered that AGL may actually have less incentive
+than TRUenergy in this regard.
+(c)
+Increase the costs of AGL’s retail competitors
+56.
+The ACCC considered whether AGL might have the incentive to increase pool
+prices, and therefore hedge contract prices, to raise its retail rivals’ costs post-
+transaction. However, the ACCC considered that such a strategy was likely to
+be expensive and high-risk, and likely to inflict losses on AGL itself. As
+previously noted, raising hedge contract prices would raise AGL’s costs as well
+as those of other retailers. Therefore, for such a strategy to be profitable, AGL
+would need to recoup all losses incurred by winning a sizeable number of retail
+customers.
+57.
+An associated concern was that AGL’s acquisition of TIPS may significantly
+reduce the volume of hedge products available to other retailers, increasing
+barriers to entry and potentially causing some retailers to exit the market.
+58.
+However, the ACCC took into account the presence of a number of vertically
+integrated generator-retailers in South Australia, including Origin Energy,
+TRUenergy and EnergyAustralia/International Power, and other information
+regarding the supply and demand for contract cover that was provided on a
+confidential basis by a range of parties. The ACCC concluded that, to the extent
+there might be a reduction in available contract cover, this was unlikely to be a
+persistent or long-term issue.
+59.
+The ACCC further noted that TRUenergy, as a vertically integrated retailer
+itself, would presumably also have had an incentive to increase the costs of
+hedge contracts. Further, as noted above, given the smaller size of its retail load
+relative to AGL’s, this strategy may have been more feasible for TRUenergy.
+60.
+Therefore, while the ACCC accepted that AGL may have an incentive to raise
+prices in the wholesale market post-transaction, it was not clear that these were
+substantially greater than TRUenergy’s existing incentives, and AGL’s ability to
+do so was not enhanced by the proposed transaction.
+Likelihood the proposed transaction would raise barriers to entry into the retail
+market
+61.
+Section 50(3)(b) requires the ACCC to take into account the height of barriers to
+entry into markets when assessing whether a merger would be likely to result in
+a substantial lessening of competition.
+
+
+62.
+A significant number of market participants raised concerns that the proposed
+transaction would lead to a decrease in the liquidity of hedge products available
+to South Australian retailers. Market inquiries raised a concern that compared
+to the situation without the transaction, there would be a reduction in the volume
+of electricity derivatives traded, due to the natural hedge created between TIPS
+and AGL’s large retail load in South Australia. This, it was argued, would
+decrease liquidity, and make the South Australian hedge market more difficult
+and risky to trade in. The ACCC therefore considered this concern in the context
+of whether the proposed transaction would raise barriers to entry into the retail
+market.
+63.
+The ACCC acknowledged concerns raised by interested parties that there is
+poor liquidity in the market for electricity derivatives in South Australia,
+particularly in comparison to other regions in the NEM.
+64.
+The ACCC also accepted that, in the short term, there was a possibility that the
+liquidity of hedge products referenced against the SA node may decrease as a
+result of this transaction. However, market inquiries, including confidential
+information provided to the ACCC by a number of relevant market participants,
+indicated that it was unlikely that this transaction would lead to a material long
+term decrease in the availability of hedge products in South Australia.
+Therefore it did not appear that this transaction significantly raised barriers to
+entry for retailing in South Australia when compared to the likely scenario were
+the transaction not to proceed, and it appeared unlikely there would be a
+substantial lessening of existing competition in the South Australian retail
+market.
+Conclusion
+65.
+The proposed transaction is unlikely to give AGL any increased incentive or
+ability to increase prices in the wholesale market, over and above those held by
+the current owner of TIPS, TRUenergy. As such, the proposed acquisition was
+considered unlikely to result in a substantial lessening of competition in the
+wholesale market.
+66.
+Similarly, while noting concerns about the current liquidity of financial markets
+in South Australia, the ACCC concluded that the present transaction was
+unlikely to materially decrease the availability of hedge products, particularly in
+the long term. Therefore, the ACCC concluded that the transaction was unlikely
+to significantly raise barriers to entry into the retail market and unlikely to result
+in a substantial lessening of competition.

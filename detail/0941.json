@@ -1,0 +1,28 @@
+{
+  "id": "0941",
+  "title": "BG Group Plc - proposed acquisition of Queensland Gas Company (QGC)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bg-group-plc-proposed-acquisition-of-queensland-gas-company-qgc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31290",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "20 March 2008",
+  "date_completed_iso": "2008-03-20T12:00:00Z",
+  "date_commenced": "4 February 2008",
+  "date_commenced_iso": "2008-02-04T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "BG Group Plc"
+  ],
+  "targets": [
+    "Queensland Gas Company (QGC)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "BG Group Plc (BG Group) through its subsidiaries proposes to acquire approximately 10% of the shares in the capital of Queensland Gas Company (QGC) and certain assets (being interests in gas exploration and production joint ventures).  BG Group and QGC also propose to form a joint venture for the marketing and sale of gas produced by each of the companies.",
+    "Market definition": "The ACCC did not consider it necessary to form a view in relation to market definition.",
+    "Competition analysis": "The ACCC considered that the transaction was unlikely to result in a substantial lessening of competition, as BG Group does not currently have operations in Australia."
+  }
+}

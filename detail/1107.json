@@ -1,0 +1,28 @@
+{
+  "id": "1107",
+  "title": "West Australian Newspapers Holdings Ltd (WANH) - acquisition of The Kimberley Echo",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/west-australian-newspapers-holdings-ltd-wanh-acquisition-of-the-kimberley-echo",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27960",
+  "industries": [
+    "Media - Newspaper publishing"
+  ],
+  "date_completed": "9 May 2007",
+  "date_completed_iso": "2007-05-09T12:00:00Z",
+  "date_commenced": "16 April 2007",
+  "date_commenced_iso": "2007-04-16T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "West Australian Newspaper Holdings Ltd (WANH)"
+  ],
+  "targets": [
+    "The Kimberley Echo"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "West Australia Newspapers Holdings (WAN) acquired The Kimberley Echo, a paid weekly newspaper based in Kununurra in Western Australia. The Kimberley Echo had a circulation area including Kununurra, Wyndham, Fitzroy Crossing, Halls Creek, Derby and Broome (the Circulation Area).",
+    "Market definition": "The ACCC considered the relevant markets to be: -\tthe supply of advertising space in the Circulation Area; and -\tthe supply of content to consumers in the Circulation Area.",
+    "Competition analysis": "The ACCC considered that the acquisition of The Kimberley Echo by WAN was unlikely to give rise to a substantial lessening of competition in either of the relevant markets. The ACCC considered there was little overlap between the Kimberley Echo and WAN's publications (and radio licences) in the Circulation Area."
+  }
+}

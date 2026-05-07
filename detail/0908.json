@@ -1,0 +1,49 @@
+{
+  "id": "0908",
+  "title": "Toll Holdings Limited - acquisition of Courier Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-acquisition-of-courier-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32016",
+  "industries": [
+    "Transport and logistics"
+  ],
+  "date_completed": "24 June 2008",
+  "date_completed_iso": "2008-06-24T12:00:00Z",
+  "date_commenced": "3 June 2008",
+  "date_commenced_iso": "2008-06-03T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Courier Australia"
+  ],
+  "timeline": [
+    {
+      "date": "7 Apr 2008",
+      "date_iso": "2008-04-07T12:00:00Z",
+      "event": "Toll Holdings Limited acquired Courier Australia."
+    },
+    {
+      "date": "3 Jun 2008",
+      "date_iso": "2008-06-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Jun 2008",
+      "date_iso": "2008-06-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jun 2008",
+      "date_iso": "2008-06-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Toll Holdings Limited acquired Courier Australia on 1 May 2008.",
+    "Market definition": "The ACCC did not consider it necessary to reach a definitive view on market definition in this matter. However, for the purposes of the competition analysis, the ACCC considered the following markets: - the market for the supply of (time critical) courier services within Greater Perth (Perth Courier Market); and - the market for the supply of (non time critical) express freight services within Western Australia (WA Express Freight Market).",
+    "Competition analysis": "On 24 June 2008, the ACCC formed the view that the acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. The ACCC considered that barriers to entry and expansion were relatively low in the relevant markets and that customers could readily switch to a competing provider at little cost."
+  }
+}

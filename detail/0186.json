@@ -1,0 +1,97 @@
+{
+  "id": "0186",
+  "title": "Bingo Industries Limited - proposed acquisition of Dial-a-Dump Industries Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bingo-industries-limited-proposed-acquisition-of-dial-a-dump-industries-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "64383",
+  "industries": [
+    "Waste Management"
+  ],
+  "date_completed": "28 February 2019",
+  "date_completed_iso": "2019-02-28T12:00:00Z",
+  "date_commenced": "13 September 2018",
+  "date_commenced_iso": "2018-09-13T12:00:00Z",
+  "total_review_days": 79,
+  "acquirers": [
+    "Bingo Industries Limited"
+  ],
+  "targets": [
+    "Dial-a-Dump Industries Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 Sep 2018",
+      "date_iso": "2018-09-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "28 Sep 2018",
+      "date_iso": "2018-09-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Oct 2018",
+      "date_iso": "2018-10-11T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "16 Oct 2018",
+      "date_iso": "2018-10-16T12:00:00Z",
+      "event": "Former provisional decision date of 8 November 2018 delayed to allow the ACCC more time to consider market feedback."
+    },
+    {
+      "date": "26 Oct 2018",
+      "date_iso": "2018-10-26T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "16 Nov 2018",
+      "date_iso": "2018-11-16T12:00:00Z",
+      "event": "Former provisional decision date of 22 November 2018 delayed to allow the ACCC more time to consider market feedback."
+    },
+    {
+      "date": "29 Nov 2018",
+      "date_iso": "2018-11-29T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "13 Dec 2018",
+      "date_iso": "2018-12-13T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "14 Dec 2018",
+      "date_iso": "2018-12-14T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "8 Jan 2019",
+      "date_iso": "2019-01-08T12:00:00Z",
+      "event": "ACCC published draft 87B undertaking proffered by Bingo.  ACCC sought industry participants’ views on the draft undertaking."
+    },
+    {
+      "date": "25 Jan 2019",
+      "date_iso": "2019-01-25T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "30 Jan 2019",
+      "date_iso": "2019-01-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Bingo’s draft 87B Undertaking."
+    },
+    {
+      "date": "13 Feb 2019",
+      "date_iso": "2019-02-13T12:00:00Z",
+      "event": "Former provisional decision date of 21 February 2019 delayed to allow the ACCC more time to analyse information received."
+    },
+    {
+      "date": "28 Feb 2019",
+      "date_iso": "2019-02-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bingo proposed to acquire Dial-a-Dump. Bingo and Dial-a-Dump are both providers of commercial and industrial, and building and demolition waste collection and processing services in the Greater Sydney area."
+  }
+}

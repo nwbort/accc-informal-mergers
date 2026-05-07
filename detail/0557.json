@@ -1,0 +1,57 @@
+{
+  "id": "0557",
+  "title": "OneSteel Limited - proposed acquisition of Moly-Cop Group S.a.r.l",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-limited-proposed-acquisition-of-moly-cop-group-sarl",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44120",
+  "industries": [
+    "Grinding media and steel products"
+  ],
+  "date_completed": "17 December 2010",
+  "date_completed_iso": "2010-12-17T12:00:00Z",
+  "date_commenced": "15 November 2010",
+  "date_commenced_iso": "2010-11-15T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "OneSteel Limited"
+  ],
+  "targets": [
+    "Moly-Cop Group S.a.r.l"
+  ],
+  "timeline": [
+    {
+      "date": "15 Nov 2010",
+      "date_iso": "2010-11-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Dec 2010",
+      "date_iso": "2010-12-08T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by OneSteel. ACCC commenced market inquiries."
+    },
+    {
+      "date": "10 Dec 2010",
+      "date_iso": "2010-12-10T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "17 Dec 2010",
+      "date_iso": "2010-12-17T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    },
+    {
+      "date": "16 Jun 2011",
+      "date_iso": "2011-06-16T12:00:00Z",
+      "event": "Valmont approved by ACCC as purchaser of the divestiture asset pursuant to s87B undertaking."
+    },
+    {
+      "date": "24 Jun 2011",
+      "date_iso": "2011-06-24T12:00:00Z",
+      "event": "Completion of the sale of the divestiture asset to Valmont - undertaking terminated."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 17 December 2010, the ACCC decided not to oppose the proposed acquisition of Moly-Cop by OneSteel, subject to an undertaking accepted by the ACCC under section 87B of Competition and Consumer Act 2010 on that date. The relevant interest being acquired by OneSteel in Australia was a 40% interest in Donhad Pty Ltd (Donhad), a manufacturer and supplier of grinding media to the mining industry. The undertaking addressed the ACCC's competition concerns in the markets for the supply of grinding media in Australia by requiring OneSteel to: -  divest the shareholding in Donhad (the divestiture asset); and, pending the divestiture of the divestiture asset, -  ensure that the divestiture asset was held separate from OneSteel and had a sufficient level of protection during the divestiture period. On 24 June 2011 OneSteel sold the divestiture asset to Valmont Australia Pty Ltd (Valmont). Valmont was approved by the ACCC as the approved purchaser of the divestiture asset pursuant to the undertaking. The ACCC formed the view that the sale of the divestiture asset to Valmont would address the ACCC's competition concerns in the relevant market and as the existing majority shareholder, Valmont would be able to continue to effectively carry out any obligations it incurs as the owner of the divestiture asset. As OneSteel has divested its interest in Donhad and as such no longer has any legal or equitable interest in Donhad, the 87B undertaking has terminated."
+  }
+}

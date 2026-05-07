@@ -1,0 +1,59 @@
+{
+  "id": "0304",
+  "title": "JBS USA Holdings Inc - proposed acquisition of Australian Consolidated Food Investments Pty Ltd (Primo Smallgoods)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jbs-usa-holdings-inc-proposed-acquisition-of-australian-consolidated-food-investments-pty-ltd-primo-smallgoods",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56294",
+  "industries": [
+    "Meat and meat processing"
+  ],
+  "date_completed": "6 February 2015",
+  "date_completed_iso": "2015-02-06T12:00:00Z",
+  "date_commenced": "25 November 2014",
+  "date_commenced_iso": "2014-11-25T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "JBS USA Holdings Inc"
+  ],
+  "targets": [
+    "Australian Consolidated Food Investments Pty Ltd (Primo Smallgoods)"
+  ],
+  "timeline": [
+    {
+      "date": "25 Nov 2014",
+      "date_iso": "2014-11-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Dec 2014",
+      "date_iso": "2014-12-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Dec 2014",
+      "date_iso": "2014-12-23T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "14 Jan 2015",
+      "date_iso": "2015-01-14T12:00:00Z",
+      "event": "ACCC recieved further information from the merger parties. ACCC requested further information from the merger parties. Former proposed decision date of 29 January delayed to allow provision of requested information from the merger parties."
+    },
+    {
+      "date": "19 Jan 2015",
+      "date_iso": "2015-01-19T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "6 Feb 2015",
+      "date_iso": "2015-02-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JBS USA Holdings Inc proposed to acquire Australian Consolidated Food Investments Pty Ltd, which trades as Primo Smallgoods. JBS is primarily a cattle and beef processor. Primo produces smallgoods under brand names including Primo and Hans.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition in a regional market for the acquisition of fat cattle in northern NSW and southern Queensland. The merger parties were active in many other markets, but this was the only market in which their activities overlapped enough to raise potential competition concerns. In considering the geographic dimension of the relevant market, the ACCC took account of market feedback suggesting cattle normally travel distances of up to around 600 kilometres from farm to abattoir. The ACCC also noted information that fat cattle buyers in the relevant market would sometimes acquire cattle from other geographic areas (such as northern or central Queensland). However, these purchases were a small proportion of their total purchases. The ACCC considered other products (such as feeder cattle, or other beasts) were not sufficiently substitutable to be part of the same market, either for suppliers or purchasers",
+    "Competition analysis": "Acquirers of fat cattle in the relevant market include abattoirs and acquirers of 'service kill' services. The latter businesses acquire cattle and engage abattoirs to kill and process those cattle for a fee (a service kill). Service kill customers include supermarket chains and other businesses selling a variety of processed beef products. Within this regional market, JBS has an abattoir at Dinmore and Primo has an abattoir at Scone. Both of these abattoirs process fat cattle. JBS's Dinmore abattoir is over 500km from Scone, and there are seven abattoirs acquiring fat cattle located between the two. Five acquirers of fat cattle in the regional market (excluding JBS) have a larger capacity than Primo. Therefore the proposed acquisition did not appear likely to lead to a substantial increase in market concentration. Sellers of fat cattle would continue to have several potential buyers available. The ACCC also noted there are other abattoirs in the market including JBS's Toowoomba abattoir, which are not significant acquirers of fat cattle. The ACCC took account of market feedback that Primo had a price and non-price offer that was particularly attractive to some buyers. Concerns were raised that Primo's offer would no longer be available after the proposed acquisition. However, the ACCC did not find evidence that Primo systematically constrained the price or non-price offer of JBS. The ACCC considered that, if there were a market need for the offers Primo made (such as payment based on live cattle weight), there were sufficient competitors available to meet that need. Concerns had also been raised that the proposed acquisition would remove an important provider of service kills. However, the ACCC considered that other abattoirs would be available to meet the market need if JBS reduced the amount of service kills conducted at Scone."
+  }
+}

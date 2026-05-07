@@ -1,0 +1,40 @@
+{
+  "id": "0081",
+  "title": "Qube - Newcastle Stevedores",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qube-newcastle-stevedores",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Stevedoring services"
+  ],
+  "date_completed": "18 April 2023",
+  "date_completed_iso": "2023-04-18T12:00:00Z",
+  "date_commenced": "14 February 2023",
+  "date_commenced_iso": "2023-02-14T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Qube Ports Pty Ltd"
+  ],
+  "targets": [
+    "Newcastle Stevedores Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Feb 2023",
+      "date_iso": "2023-02-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "7 Mar 2023",
+      "date_iso": "2023-03-07T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "18 Apr 2023",
+      "date_iso": "2023-04-18T12:00:00Z",
+      "event": "ACCC discontinued its public review after Qube withdrew its application for informal merger clearance."
+    }
+  ],
+  "body_sections": {}
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0895",
+  "title": "Mars Incorporated - proposed acquisition of The Wm. Wrigley Jr. Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mars-incorporated-proposed-acquisition-of-the-wm-wrigley-jr-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31930",
+  "industries": [
+    "Snack foods"
+  ],
+  "date_completed": "11 July 2008",
+  "date_completed_iso": "2008-07-11T12:00:00Z",
+  "date_commenced": "23 June 2008",
+  "date_commenced_iso": "2008-06-23T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Mars Incorporated"
+  ],
+  "targets": [
+    "The Wm. Wrigley Jr. Company"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jun 2008",
+      "date_iso": "2008-06-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jul 2008",
+      "date_iso": "2008-07-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Jul 2008",
+      "date_iso": "2008-07-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 28 April 2008, Mars Incorporated announced that it proposes to acquire the Wm. Wrigley Jr. Company.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of separate national markets for the wholesale supply of gum, chocolate confectionery and sugar confectionery (including sugar-free hard candy).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would result in little or no increase in concentration in any of the relevant markets. Evidence from the ACCC's market inquiries also indicated that the merged firm would be unable to profitably leverage its position in the supply of gum to boost sales of its chocolate and sugar confectionery products. The ACCC considered the threat of entry into the Australian market by an established supplier of gum in overseas markets was particularly relevant in this regard."
+  }
+}

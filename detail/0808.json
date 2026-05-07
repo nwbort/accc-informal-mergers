@@ -1,0 +1,44 @@
+{
+  "id": "0808",
+  "title": "Endemol BV - proposed acquisition of Southern Star Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/endemol-bv-proposed-acquisition-of-southern-star-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34753",
+  "industries": [
+    "Television production"
+  ],
+  "date_completed": "2 February 2009",
+  "date_completed_iso": "2009-02-02T12:00:00Z",
+  "date_commenced": "21 January 2009",
+  "date_commenced_iso": "2009-01-21T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Endemol BV"
+  ],
+  "targets": [
+    "Southern Star Group Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jan 2009",
+      "date_iso": "2009-01-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Jan 2009",
+      "date_iso": "2009-01-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Feb 2009",
+      "date_iso": "2009-02-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Endemol BV proposed to acquire Southern Star Group",
+    "Market definition": "For the purposes of the competition analysis in this matter, the ACCC did not consider it necessary to form a definitive view on market definition. The acquisition was considered in the context of: - the production of Australian television content; and - the acquisition and international distribution of Australian television content.",
+    "Competition analysis": "On 2 February 2009, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any relevant market given that prior to the acquisition Endemol had no Australian interests other than its joint venture arrangement with Southern Star Entertainment, a division of Southern Star Group."
+  }
+}

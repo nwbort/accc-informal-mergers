@@ -1,0 +1,31 @@
+{
+  "id": "1538",
+  "title": "Acquirer: Gange Corporation Australia Limited; Target: Silver Top Taxi Service Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-gange-corporation-australia-limited-target-silver-top-taxi-service-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17797",
+  "industries": [],
+  "date_completed": "22 July 2003",
+  "date_completed_iso": "2003-07-22T12:00:00Z",
+  "date_commenced": "9 April 2003",
+  "date_commenced_iso": "2003-04-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Gange Corporation Australia Limited"
+  ],
+  "targets": [
+    "Silver Top Taxi Service Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Gange proposes to acquire all the issued shares in Silver Top Taxis.  Gange is a Taxi operator in Melbourne.  Silver Top is Melbourne's largest Taxi depot and also offers radio booking and despatch services to those taxi operators under its banner.",
+    "Market definition": "The relevant markets were considered to be: 1. The provision of taxi depot services in the Melbourne metropolitan area. 2. The provision of radio booking services to taxi operators in the Melbourne metropolitan area. 3. The provision of pre-booked taxi services to the public in the Melbourne metropolitan area.",
+    "Competition analysis": "Gange is not a taxi depot operationer.  Therefore it was considered that little if any horizontal aggregation would occur as a result of this proposed merger.  For example, the merger would result in no increased market concentration for taxi depot services in the Melbourne metropolitan region, and no increase in market concentration in relation to the provision of radio booking services to taxi operators in the Melbourne metropolitan region. Similarly, no increased market concentration in the provision of pre-booked taxi services would result from the proposed merger. Any competition implications that may arise would most likely be vertical in nature, most particularly across taxi operations and taxi depot operations (including radio despatch services).  However market inquiries indicated that a vertically integrated Gange/Silver Top would most likely continue to provide non-discriminatory services to stand-alone taxi operators, or else it may risk loosing those operators to other taxi depots operating in Melbourne.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "6123"
+  }
+}

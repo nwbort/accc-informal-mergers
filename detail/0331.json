@@ -1,0 +1,64 @@
+{
+  "id": "0331",
+  "title": "Linfox Armaguard - proposed acquisition of Brinks Australia's cash logistics business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/linfox-armaguard-proposed-acquisition-of-brinks-australias-cash-logistics-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53700",
+  "industries": [
+    "Cash logistics services"
+  ],
+  "date_completed": "24 July 2014",
+  "date_completed_iso": "2014-07-24T12:00:00Z",
+  "date_commenced": "30 May 2014",
+  "date_commenced_iso": "2014-05-30T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Linfox Armaguard"
+  ],
+  "targets": [
+    "Brinks Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 May 2014",
+      "date_iso": "2014-05-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Jun 2014",
+      "date_iso": "2014-06-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jun 2014",
+      "date_iso": "2014-06-24T12:00:00Z",
+      "event": "ACCC requested further information from merger parties."
+    },
+    {
+      "date": "2 Jul 2014",
+      "date_iso": "2014-07-02T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "8 Jul 2014",
+      "date_iso": "2014-07-08T12:00:00Z",
+      "event": "ACCC requested further information from merger parties."
+    },
+    {
+      "date": "15 Jul 2014",
+      "date_iso": "2014-07-15T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "24 Jul 2014",
+      "date_iso": "2014-07-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Linfox Armaguard (Armaguard) proposed to acquire the cash logistics business of Brink's Australia (Brinks).",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of state-based markets for the supply of armoured carrier services in New South Wales, Victoria, and Western Australia. The ACCC's assessment of the product dimension and geographic dimension of the relevant markets was based on the competitive overlap between the merger parties. Product dimension - Armaguard and Brinks overlap in the supply of armoured carrier services. The ACCC found that for certain customer segments there was some substitution between armoured and non-armoured services. However, as the proposed acquisition was not likely to substantially lessen competition in a market for the supply of armoured carrier services, it was not necessary to determine the extent of competitive constraint imposed by non-armoured providers. Geographic dimension - As cash logistics services involve the physical transportation and processing of cash, customers require a provider with a physical presence in the customer's state. Brinks provides these services in New South Wales, Victoria, and Western Australia. Therefore, the ACCC considered the effect of the proposed acquisition on the supply of armoured carrier services in these states.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any relevant market. The ACCC considered that the presence of existing competitors would provide an ongoing competitive constraint on the merged entity post-acquisition in the relevant markets. The ACCC also noted that large customers appear to possess significant bargaining power."
+  }
+}

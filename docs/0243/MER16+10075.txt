@@ -1,0 +1,894 @@
+ 
+Page 1 of 16 
+ 
+Statement of Issues 
+13 October 2016 
+ Link Administration Holdings Limited – possible 
+acquisition of Pillar 
+Purpose 
+1. 
+Link Administration Holdings Limited (Link) is potentially acquiring the 
+Superannuation Administration Corporation (trading as Pillar) (Pillar), which is 
+currently owned by the New South Wales Government (the possible 
+acquisition). Link and Pillar both provide superannuation administration 
+services (SAS).  
+2. 
+This Statement of Issues: 
+ 
+gives the Australian Competition and Consumer Commission’s (ACCC’s) 
+preliminary views on competition issues arising from the possible 
+acquisition 
+ 
+identifies areas of further inquiry 
+ 
+gives all interested parties an opportunity to comment 
+ 
+invites interested parties to submit information to assist us in our 
+assessment of the issues. 
+Overview of ACCC’s preliminary views 
+3. 
+The legal test which the ACCC applies in considering acquisitions is in section 
+50 of the Competition and Consumer Act 2010 (the Act). Section 50 prohibits 
+acquisitions that would have the effect, or be likely to have the effect, of 
+substantially lessening competition in any market. 
+4. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. For this 
+acquisition there is one ‘issue of concern’ and one ‘issue that is unlikely to raise 
+concerns’. 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 2 of 16 
+Issue of concern 
+ 
+The possible acquisition will result in the removal of a SAS provider. In 
+particular, it will remove the only SAS provider with the demonstrated 
+capacity to supply SAS to larger superannuation funds (funds) in 
+competition with Link. The ACCC’s preliminary view is that the possible 
+acquisition is likely to substantially lessen competition in a national 
+market for the supply of SAS. 
+Issue that is unlikely to raise concerns 
+ 
+The possible acquisition is unlikely to have the effect of substantially 
+lessening competition in related product markets, specifically those 
+related to the IT platforms and software used in the provision of SAS. 
+Making a submission 
+5. 
+The ACCC is seeking submissions from interested parties, particularly on the 
+following key issues: 
+ 
+the impact of the possible acquisition on competition for the supply of 
+SAS 
+ 
+the extent to which an alternative acquirer of Pillar could establish itself 
+as an effective competitor to Link 
+ 
+the extent of competitive constraint from:  
+a. funds that currently outsource their SAS switching to insourcing 
+b. funds that currently self-administer, supplying (or starting to 
+supply) SAS to other funds.  
+ 
+the likelihood that an alternative supplier would be able to commence 
+supply of SAS in a sufficiently timely manner and on a sufficient scale to 
+constrain Link following the possible acquisition, taking into account any 
+barriers to commencing supply and expanding 
+ 
+the likelihood that the increased market concentration would reduce 
+competition in related product markets, including for IT platforms and 
+software.  
+6. 
+Detailed discussion of these and other issues, along with specific questions, is 
+contained in this Statement of Issues.  
+7. 
+Interested parties should provide submissions by no later than 5pm on 
+28 October 2016. Responses may be emailed to mergers@accc.gov.au with the 
+title: Submission re: Link - attention Fiona Sam/Karina Geddes. If you would like 
+to discuss the matter with ACCC officers over the telephone or in person, or 
+have any questions about this Statement of Issues, please contact Fiona Sam 
+on (03) 9658 6450 or Karina Geddes on (03) 9658 6442.  
+8. 
+The ACCC anticipates making a final decision on 15 December 2016, however 
+this timeline can change. To keep abreast of possible changes in relation to 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 3 of 16 
+timing and to find relevant documents, interested parties should visit the Mergers 
+Register on the ACCC's website at www.accc.gov.au/mergersregister. 
+Confidentiality of submissions 
+9. 
+The ACCC will not publish submissions regarding the possible acquisition. We 
+will not disclose submissions to third parties (except our advisors/consultants) 
+unless compelled by law (for example, under freedom of information legislation 
+or during court proceedings) or in accordance with s155AAA of the Act. Where 
+the ACCC is required to disclose confidential information, the ACCC will notify 
+you in advance where possible so that you may have an opportunity to be heard. 
+Therefore, if the information provided to the ACCC is of a confidential nature, 
+please indicate as such. Our Informal Merger Review Process Guidelines 
+contain more information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+10. 
+A Statement of Issues published by the ACCC is not a final decision about an 
+acquisition, but provides the ACCC’s preliminary views, drawing attention to 
+particular issues of varying degrees of competition concern, as well as identifying 
+the lines of further inquiry that the ACCC wishes to undertake. 
+11. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the parties to the transaction and other interested parties with the basis for 
+making further submissions should they consider it necessary. 
+Timeline 
+Date 
+Event 
+17 August 2016 
+ACCC commenced review of the possible acquisition 
+13 October 2016 
+ACCC publication of Statement of Issues 
+28 October 2016 
+Deadline for submissions from interested parties in 
+response to this Statement of Issues 
+15 December 2016 
+Anticipated date for ACCC final decision  
+ 
+The parties 
+12. 
+Link is an ASX-listed company with operations in superannuation administration, 
+shareholder management and analytics, and share registry. Link provides SAS 
+through its businesses, Link Super and Australian Administration Services 
+(AAS), using its own proprietary platform, the aaspire platform. According to 
+Link, it is the largest provider of SAS in Australia, administering approximately 
+10 million superannuation member accounts. 
+13. 
+Pillar is a state-owned corporation that provides SAS mainly to Government 
+funds, pension funds and defined benefit schemes, but does have experience 
+providing SAS to non-Government funds. Pillar administers more than 1.1 million 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 4 of 16 
+superannuation member accounts with assets totalling more than $100 billion. Its 
+clients include: 
+ 
+First State Super 
+ 
+State Super 
+ 
+Public Sector Superannuation accumulation plan (PSSap) 
+ 
+Aon. 
+14. 
+Pillar does not have its own proprietary IT administration platform and is 
+currently licensed to use Financial Synergy’s (Acurity) platform. 
+Industry background  
+15. 
+Superannuation funds require a range of administration services to operate on a 
+day-to-day basis. These services can be performed in-house by the fund itself, 
+by a third party such as Link or Pillar, or by adopting a hybrid model whereby the 
+fund is partly administered in-house and partly by a third party. 
+16. 
+Superannuation administration services include: 
+ 
+management and distribution of benefit payments to members 
+ 
+data and document management 
+ 
+member communication – production and issuing of member and 
+employer statements 
+ 
+management of employer contributions and processing of contributions 
+into funds 
+ 
+administering member investment choice 
+ 
+customer contact services 
+ 
+insurance and claims management 
+ 
+online member and employer services  
+ 
+financial and accounting services  
+ 
+risk and compliance framework.  
+ 
+17. 
+Customers of these services are typically trustees of funds, including public 
+sector, industry, retail and corporate funds. 
+18. 
+There has been increasing consolidation of SAS providers which has resulted 
+from market exit and Link acquiring other SAS providers. Citistreet and IBM for 
+example have exited the industry. Link has made a number of acquisitions, 
+including: 
+ 
+Australian Administration Services (AAS) in September 2006 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 5 of 16 
+ 
+Primary Superannuation Services Pty Limited (PSS) in 2008 
+ 
+Australian Superannuation Group (TASG) in 2008 
+ 
+PSI Superannuation Management in June 2012 
+ 
+FuturePlus Financial Services Pty Ltd in December 2012 
+ 
+administration assets of Russell Investments in February 2013 
+ 
+Superpartners Pty Ltd1 in August 2014, which more than doubled Link’s 
+member accounts. 
+19. 
+The ACCC has estimated that Link administers approximately 80 per cent of 
+outsourced member accounts.2  
+Future with and without the acquisition 
+20. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to 
+the likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether a proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+21. 
+The NSW Government has announced that it intends to privatise Pillar and the 
+NSW Parliament has passed legislation to enable its sale, with a competitive 
+sale process having commenced. The ACCC therefore considers that in the 
+future without the possible acquisition it is likely that an alternative purchaser 
+would acquire Pillar. If Pillar is not sold, the ACCC considers that the current 
+competitive environment would likely remain. 
+22. 
+The ACCC understands that in recent years, Pillar has lost some customer 
+accounts and has been implementing a large IT transformation. The NSW 
+Government considers that private sector ownership will put Pillar in a stronger 
+position to pursue growth opportunities and improve the business’ long-term 
+financial viability.3  
+23. 
+An important issue for the ACCC’s review is the extent to which an alternative 
+owner of Pillar, other than Link, will likely be able to improve the position of Pillar 
+in the future, and make Pillar an even stronger competitor in the market.  
+ 
+                                                 
+ 
+1  
+Superpartners was a SAS provider established by a group of five industry funds. It was acquired by 
+Link Group in December 2014. Superpartners’ shareholders were AustralianSuper, Cbus, HESTA, 
+HOSTPLUS, and MTAA Super. 
+2  
+ACCC estimate based on publicly available data. 
+3  
+Superannuation Administration Corporation (Pillar) (Authorised Transaction) Bill 2016, 3 May 2016, 
+Second Reading. 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 6 of 16 
+The ACCC invites comments on what the competitive environment in the future 
+without the possible acquisition would look like relative to an acquisition by Link, in 
+particular: 
+ 
+Pillar’s current (pre-privatisation) competitive position in the market 
+ 
+Pillar’s likely competitive position should: 1) Link acquire Pillar; 2) an alternative 
+purchaser acquire Pillar; and 3) the NSW Government retains ownership of Pillar  
+ 
+whether an acquirer will need to invest in Pillar to increase its competitiveness and 
+if so the type and level of investment that would be required (including cost, time 
+and staffing)  
+ 
+the likelihood of that investment being made. 
+Market definition 
+24. 
+The key area of overlap between Link and Pillar is in the supply of SAS. The 
+ACCC’s preliminary view is that the markets relevant for assessing the 
+competition effects of the possible acquisition are national markets for: 
+ 
+the supply of SAS by a third party (although the ACCC considers that 
+there could be narrower markets for components of SAS, for example, 
+risk and compliance) 
+ 
+the supply of IT platforms and software used in the provision of SAS. 
+25. 
+The ACCC’s preliminary view is that SAS supplied in-house should not be 
+included as part of the market for the supply of SAS. Based on market feedback 
+to date the ACCC considers that from a customer substitution perspective, it is 
+unlikely that funds which currently outsource their SAS could easily switch to 
+insourcing, particularly for core components of their SAS such as registry and 
+processing services. Further, the ACCC considers that, from a supplier 
+perspective, self-administered funds (or the owners of self-administered funds) 
+are unlikely to commence supplying SAS to third party funds in a way that would 
+significantly constrain Link. These issues are explored further in the competition 
+assessment below. The questions under paragraphs 66 and 71 also relate to 
+market definition. 
+Issue of concern: reduction in competition in the supply of 
+SAS  
+26. 
+Based on its inquiries to date, the ACCC’s preliminary view is that the possible 
+acquisition is likely to substantially lessen competition by removing Pillar as a 
+key competitor to Link in the supply of SAS. This is in circumstances where: 
+ 
+funds are reluctant to acquire SAS from an SAS provider without a 
+demonstrated capacity to supply a fund of a similar size and type 
+ 
+Pillar is the only other SAS provider with the demonstrated capacity to 
+supply SAS to larger funds 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 7 of 16 
+ 
+although Mercer (and possibly other SAS providers) may have the 
+capacity to supply SAS to larger funds, to date none has supplied SAS to 
+larger funds and so lack a demonstrated track record that they can do so 
+ 
+smaller SAS providers without sufficient scale may face difficulties being 
+price competitive with Link, which benefits from a significant scale 
+advantage, and may also not have the capacity to serve Link or Pillar’s 
+larger customers 
+ 
+there are significant barriers to entry and expansion for supplying SAS, 
+and funds that are currently outsourcing SAS have a limited ability and 
+incentive to bypass an SAS provider through insourcing SAS. 
+27. 
+Currently Link is by far the largest SAS provider. The possible acquisition would 
+remove one of the few, and from the perspective of some customers, the only 
+competitor to Link. This may result in lower service levels or higher prices, which 
+will ultimately be passed on to fund members. The possible acquisition would 
+also remove the opportunity for someone else to operate Pillar to compete with 
+Link.  
+SAS providers  
+28. 
+Market participants have generally identified three major SAS providers – Link, 
+Pillar and Mercer.  
+29. 
+Link is by far the largest SAS provider. As noted above, the ACCC has estimated 
+that Link services the vast majority (approximately 80 per cent4) of outsourced 
+member accounts and currently benefits from having considerable scale. 
+30. 
+Pillar has experienced uncertainty about its future ownership for a number of 
+years but is perceived by a number of market participants to be an alternative 
+and competitor to Link (and could be a greater source of competition to Link if it 
+were under different ownership). Pillar is undergoing a significant IT 
+transformation.  
+31. 
+Market feedback has suggested that Mercer is an alternative for some market 
+participants. Although Mercer’s total member base is similar to Pillar, market 
+participants have noted that Mercer mainly provides SAS to corporate funds and, 
+unlike Link and Pillar, does not currently provide SAS to larger funds. Some 
+market participants have indicated that Mercer may have the potential to service 
+larger funds in future. 
+32. 
+Smaller SAS providers, including, for example, OneVue, Independent Fund 
+Administrators & Advisors, Recreo and Superannuation Benefits Administration 
+are not generally considered by market participants to be a viable alternative, 
+particularly for larger-sized funds (those with several hundred thousand or more 
+members). This is due to their absence of scale (affecting their ability to be cost 
+competitive) and a track record of servicing larger funds.  
+33. 
+The risk of switching to a smaller SAS provider was considered by some market 
+participants to be too high and not an option they would consider, particularly 
+given the need to satisfy APRA requirements in relation to the use of outsourced 
+                                                 
+ 
+4  
+ACCC estimate based on publicly available data. 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 8 of 16 
+services.5 It is unclear whether these smaller SAS providers would have the 
+capacity and capability to simultaneously service more than one of the larger 
+funds currently administered by Link or Pillar.  
+The ACCC invites comments from market participants on the competitive constraint 
+imposed by existing alternative SAS providers. In particular, market participants may 
+wish to comment in as much detail as possible on the following: 
+ 
+whether there would be any viable alternative SAS providers to Link if the possible 
+acquisition proceeded  
+ 
+the extent to which Mercer would competitively constrain Link if the possible 
+acquisition proceeded 
+ 
+whether the alternative SAS providers available to a fund vary according to the 
+size and type of fund 
+ 
+the extent to which other SAS providers have actively competed with Link and/or 
+Pillar for SAS contracts, including components of SAS (see the list of SAS 
+components in paragraph 15 above). For example: whether other SAS providers 
+have competed in the same tender process and whether other SAS providers’ 
+offers have been used to negotiate better terms with Link or Pillar. 
+Removal of Pillar as a competitor 
+34. 
+Based on market enquiries to date the ACCC’s preliminary view is that Pillar is a 
+key competitor to Link, and could be an even stronger competitor to Link under 
+new ownership.  
+35. 
+In circumstances where trustees of funds owe fiduciary duties to the fund’s 
+members and need to satisfy APRA’s outsourcing standard, it is critical that the 
+selected SAS provider will be able to provide SAS without significant disruption. 
+Any disruption to the operation of the fund would significantly impact on the 
+fund’s members, and ultimately, the reputation of the fund. With First State 
+Super as a customer, Pillar has a track record of supplying SAS to a larger fund 
+and supplying SAS for defined benefit schemes. Other than Link no other entity 
+has the experience in servicing larger funds.  
+36. 
+The ACCC understands that Pillar has experienced uncertainty about its future 
+ownership for a number of years, and this has impacted on market participants’ 
+views about its continued viability. It appears that the uncertainty regarding its 
+ownership status, has contributed to its poor performance in recent years. 
+However, a number of market participants consider Pillar to be a strong 
+competitor to Link, and, in some cases, the only viable alternative. Further, 
+market participants noted that they would be more likely to consider Pillar as an 
+alternative following the completion of Pillar’s IT transformation program. Based 
+on market feedback, the ACCC considers that, after privatisation and once its IT 
+transformation has been completed, Pillar is likely to be a greater source of 
+competition to Link.  
+                                                 
+ 
+5  
+When a trustee outsources a ‘material business activity’, such as its administration activities, the 
+trustee is required to comply with the APRA outsourcing standard, SPS 231, which requires the 
+trustee of a superannuation fund to demonstrate to APRA that it has appropriately assessed the 
+outsourcing of its administration services. 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 9 of 16 
+The ACCC invites comments from market participants on whether the possible 
+acquisition would remove a key source of competition to Link. In particular, market 
+participants may wish to comment on the following: 
+ 
+the extent to which Link and Pillar have competed in the past 
+ 
+whether Pillar’s track record of servicing larger funds is an important differentiator 
+from other SAS providers 
+ 
+whether Pillar’s status as a state-owned corporation has advantaged and/or 
+disadvantaged it in the past 
+ 
+the impact of the uncertainty regarding Pillar’s ownership on its past 
+competitiveness, and the extent to which this may change in the future  
+ 
+the impact of Pillar’s IT transformation program on its future competitiveness  
+ 
+whether the possible acquisition by Link would remove a key competitive constraint 
+on Link. 
+Barriers to entry 
+37. 
+The ACCC’s preliminary view is that new entrants and existing smaller SAS 
+providers face a number of significant barriers to entry and expansion.  
+High upfront and ongoing costs  
+38. 
+The ACCC understands that there are high upfront and ongoing costs 
+associated with providing SAS. The main upfront cost identified is in relation to 
+IT systems. The ACCC understands that a SAS provider needs to either have its 
+own proprietary IT record keeping platform (such as Link does), or have access 
+to one through a third party licensing arrangement (like Pillar does) to be able to 
+provide SAS.  
+39. 
+Market inquiries indicate that considerable capital is required to develop and 
+maintain an appropriate platform. These costs are highly likely to be sunk, in that 
+they cannot be recovered if the company later exits.  
+40. 
+It is less capital intensive to licence a platform from a third party provider, but 
+there are still considerable ongoing costs with this approach. Even if 
+development and maintenance costs are initially borne by a third party platform 
+provider, the ACCC understands that they are reflected in license fees. 
+41. 
+In this context, the ACCC understands that: 
+ 
+Link has invested more than $300 million in in its proprietary platforms 
+over the past 10 years6 
+ 
+ 
+                                                 
+ 
+6  
+Link Group FY2016 Results Presentation, 24 August 2016, p. 41.  
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 10 of 16 
+ 
+the NSW Government has invested nearly $20 million since 2014 into an 
+ongoing business transformation process to update Pillar's IT systems.7 
+42. 
+The ACCC also understands that there are significant ongoing costs of keeping 
+the platform up to date and compliant with regulatory requirements and changes. 
+Further, even if the SAS provider licenses a platform from a third party these 
+costs are generally passed on to the SAS provider or fund. Market participants 
+have cited the complex regulatory environment for superannuation as a 
+significant deterrent to new entry.  
+Customer reluctance to switch and the importance of a track record  
+43. 
+A strong reputation and a track record in the provision of SAS are critical to 
+being able to win contracts. As a consequence it is difficult for a new SAS 
+provider to commence operations or for a small provider to expand. 
+44. 
+In this respect, market inquiries indicate that funds are generally reluctant to 
+switch SAS providers. The ACCC understands that SAS providers have a high 
+client retention rate, with Link’s client retention rates being over 95 per cent in 
+Fund Administration in FY2014 and 2015.8  
+45. 
+Market participants identified the following issues with switching SAS providers: 
+ 
+there are significant risks and administrative disruption involved in 
+transitioning member data onto a new platform so a great deal of 
+transition planning is required. It is critical to a trustee that the selected 
+SAS provider will be able to provide SAS without significant disruption 
+ 
+transitioning onto a new platform can take up to two years 
+ 
+there are considerable costs associated with switching 
+ 
+a superannuation trustee owes fiduciary duties to its fund’s members and 
+needs to be satisfied that switching SAS providers is in its members’ best 
+interests. 
+46. 
+Market inquiries indicate that trustees are very risk averse and the cost of SAS is 
+only one of the factors that a trustee takes into account when considering 
+options for SAS. When a trustee outsources a ‘material business activity’, such 
+as SAS, the trustee is required to comply with APRA outsourcing standard 
+SPS 231.9  
+47. 
+SPS 231 requires the trustee to demonstrate that the fund has made an 
+appropriate assessment, including by proving that it has undertaken a due 
+diligence review of the service provider, taken into account the changes to the 
+risk profile of the business activity that arise from outsourcing the activity, 
+established a way for monitoring performance on a continuing basis, and 
+                                                 
+ 
+7  
+Superannuation Administration Corporation (Pillar) (Authorised Transaction) Bill 2016, 3 May 2016, 
+Second Reading. 
+8  
+Link Group Prospectus 2015, p. 16. 
+9  
+APRA, Superannuation Prudential Standard SPS 231, November 2012, para 21, accessible at 
+http://www.apra.gov.au/Super/PrudentialFramework/Documents/Final-SPS-231-Outsourcing-
+November-2012.pdf.  
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 11 of 16 
+developed a contingency plan.10 SAS providers are not regulated by APRA and 
+it is up to the trustee to monitor and supervise the outsourced provider.11 
+48. 
+In light of the above, a trustee needs to be satisfied that the SAS provider has a 
+demonstrated capability to service similar types of funds – both in terms of the 
+complexity of the superannuation offering (for example defined benefit 
+transactions) and volume of accounts.  
+49. 
+For the reasons above, the ACCC considers that incumbent providers of SAS 
+face the greatest degree of competitive constraint from other established and 
+significant SAS providers, rather than potential new entrants, smaller SAS 
+providers, or the threat of funds insourcing SAS.  
+Economies of scale  
+50. 
+Market inquiries indicate that the provision of SAS is a low margin/high volume 
+business where scale is critical to be competitive. With approximately 10 million 
+member accounts, Link benefits from a significant scale advantage relative to 
+other SAS providers. The second and third largest SAS providers (Pillar and 
+Mercer) have approximately 1 million member accounts each. 
+51. 
+Link’s scale advantage provides it with a greater ability to defray its costs, such 
+as the cost of upgrading IT platforms in response to regulatory changes, across 
+its large member account base and continually invest in technology. 
+52. 
+Given the importance of scale economies, market participants have raised 
+concerns that the possible acquisition removes an opportunity for someone else 
+to establish themselves (through Pillar) as an effective competitor.  
+53. 
+The ACCC considers that: 
+ 
+the possible acquisition would remove the only large SAS provider who 
+could compete for larger funds currently administered by Link 
+ 
+SAS providers face significant difficulties achieving the requisite scale to 
+compete effectively with Link 
+54. 
+The ACCC notes that although Mercer also manages approximately 1 million 
+member accounts, this is spread across a larger number of smaller funds. 
+55. 
+The ACCC is still investigating the level at which a SAS provider is able to 
+achieve an efficient scale to effectively compete with Link.  
+Limited history of substantial or sustained entry  
+56. 
+Market feedback indicates there has been limited history of substantial and 
+sustained new entry in recent years. A number of market participants referred to 
+the exit of SAS providers Superpartners, Citistreet and IBM as a deterrent to new 
+                                                 
+ 
+10  APRA, Superannuation Prudential Standard SPS 231, November 2012, para 21, accessible at 
+http://www.apra.gov.au/Super/PrudentialFramework/Documents/Final-SPS-231-Outsourcing-
+November-2012.pdf.  
+11  APRA, Superannuation Prudential Standard SPS 231, November 2012, para 21, accessible at 
+http://www.apra.gov.au/Super/PrudentialFramework/Documents/Final-SPS-231-Outsourcing-
+November-2012.pdf.  
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 12 of 16 
+entry, as these examples demonstrate that successful entry is unlikely to be 
+successful and the entrant risks losing significant sunk costs.  
+Likelihood of new entry  
+57. 
+The ACCC’s inquiries suggest that new entry of a sufficient scale and in a timely 
+manner is unlikely due to the barriers to entry and expansion identified above. 
+58. 
+Market participants have noted the unique regulatory requirements of the 
+Australian superannuation and taxation systems means that overseas SAS 
+providers would need to adapt their technology solutions significantly to satisfy 
+Australian requirements. Several market participants did not consider new entry 
+from overseas SAS providers to be very likely for this reason and noted previous 
+examples of unsuccessful entry by IBM and Citistreet. 
+59. 
+Some market participants consider evolving technology and increased 
+digitisation of services could create opportunities for new entry in the future. 
+They consider that if there is new entry, the most likely or best placed entrant 
+would be a technology company with the capital to invest in new and innovative 
+IT solutions. 
+The ACCC invites comments from market participants on the barriers to entry and 
+expansion. In particular, market participants may wish to comment on the following: 
+ 
+the upfront and ongoing costs of providing SAS, including the cost of establishing, 
+or obtaining a licence to use, a platform and ongoing operating costs 
+ 
+the features/characteristics that a new entrant would need to successfully 
+compete, including scale, IT capability and range of services 
+ 
+the switching process, including the cost and time it would take to prepare for and 
+then transition to a new platform and any examples of the degree of 
+platform/software customisation that is required  
+ 
+the extent to which funds have switched SAS providers in the past (please provide 
+examples of such switching) 
+ 
+whether the possible acquisition would remove the opportunity for a third party 
+(e.g. an existing SAS provider or new entrant) to establish themselves as an 
+effective competitor 
+ 
+the level at which an SAS provider would be sufficiently scaled to effectively 
+compete with Link, whether it is by number of member accounts or funds under 
+management 
+ 
+whether the regulatory environment in Australia is a significant deterrent to 
+overseas SAS providers entering, and if so, specify the types of complexities in the 
+Australian regulatory environment and whether that is a deterrent  
+ 
+the likelihood of a fund acquiring SAS from a technology company with a new and 
+innovative IT solution, and, in particular, which SAS. 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 13 of 16 
+Insourcing  
+ 
+60. 
+As discussed above, the ACCC’s preliminary view is the potential for a fund to 
+insource is not likely to significantly constrain (or would only provide a very 
+limited constraint on) the prices and service quality offered by Link post-
+acquisition. 
+61. 
+The ACCC understands that the ability and willingness to insource SAS may 
+also be linked to the type of fund being operated. Self-administration appears 
+more prevalent for retail funds that can utilise the systems and resources of their 
+related banking and wealth management entities.  
+62. 
+For funds that currently out-source, there are high barriers to insourcing SAS, 
+including the initial core data transition cost as well as the need for technological 
+upgrades and investment in a fund’s own systems in order to maintain regulatory 
+compliance, and the hiring and training of staff. The market feedback suggests 
+that a price rise of between 5-10 per cent is unlikely to result in funds switching 
+to a self-administered model. 
+63. 
+The ACCC understands that in the past ten years there have been some 
+examples of funds which have moved from an outsourced model to an insourced 
+model. However, it appears that these examples of switching generally involved 
+the merging of one fund with another fund, for example an outsourced fund 
+merging with a self-administered fund and becoming part of that fund’s insourced 
+system. A commonly cited exception to this is Sunsuper, which moved from an 
+outsourced model to an insourced model through the acquisition of its SAS 
+provider that was exiting the market.  
+Insourcing of customer facing components 
+64. 
+The ACCC understands that there is some willingness for some funds to 
+unbundle their SAS and manage certain components of SAS in-house. This 
+preparedness to move some SAS components in-house appears to be largely 
+focused around ‘customer facing’ components, with funds continuing to be reliant 
+on a SAS provider (and a SAS provider’s underlying IT platform) for core 
+administration services such as record keeping and transaction processing. 
+Customer facing components include services such as the website.  
+65. 
+Insourcing customer facing components of SAS enables funds to benefit from 
+many of those economies of scale offered by a SAS provider, but still retain 
+control of their customer engagement (enabling a fund to better differentiate its 
+service offering from other funds). 
+66. 
+The ACCC considers that the threat of insourcing may provide a slightly more 
+significant competitive constraint on Link in respect of customer facing 
+components of SAS, compared to core administration services such as record 
+keeping and transaction processing.  
+The ACCC invites comments from market participants on the constraint imposed on 
+SAS providers by the threat of a fund insourcing some or all of its SAS. In particular, 
+market participants may wish to comment on the following: 
+ 
+the extent to which insourcing is considered a viable alternative to outsourcing 
+having regard to the size of the fund, the number of member accounts, the 
+complexity of the scheme (e.g. whether it covers defined benefits), the range of its 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 14 of 16 
+product and investment offerings, and its capacity to comply with legal 
+requirements  
+ 
+the time, resource and cost implications (if possible please provide cost estimates) 
+associated with moving from outsourcing to insourcing 
+ 
+examples of funds switching to insourcing their core processing services (as 
+opposed to customer facing functions) 
+ 
+examples of funds successfully using the threat of insourcing (partial or full) to 
+obtain better terms from their existing SAS provider  
+ 
+the cost differential between insourcing and outsourcing, and whether this varies 
+according to the size and type of fund 
+ 
+whether a fund has raised the possibility of insourcing in negotiations with an SAS 
+provider 
+ 
+whether it is appropriate to consider the competitive effects of the possible 
+acquisition on the supply of all SAS or sub-sets of SAS 
+ 
+the extent to which funds are able and willing to unbundle components of SAS and 
+the difficulties associated with doing so 
+ 
+whether the possible acquisition would impact on the ability of funds to unbundle 
+SAS. 
+Likelihood of self-administered funds expanding to provide SAS to other 
+superannuation funds  
+67. 
+The ACCC’s preliminary view is that it is unlikely that a self-administered fund 
+would provide administration services to other funds, or that the threat it would 
+be able to do so would impose an effective competitive constraint on Link. 
+68. 
+Market participants identified a number of issues including that:  
+ 
+the provision of SAS by a fund to other funds may conflict with its 
+obligations to act in its own members’ best interests 
+ 
+funds actively compete for members and are unlikely to use SAS 
+provided by a competing fund  
+ 
+there may be limited incentive for funds that self-administer to share what 
+is perceived as a competitive advantage/point of difference with other 
+funds 
+ 
+insourced funds are not generally set up to provide third party services 
+and may need to significantly alter their business model and systems to 
+do this. 
+69. 
+However, the ACCC has received mixed feedback regarding the likelihood of 
+self-administered funds commencing supply of SAS to third parties. 
+70. 
+Some other market participants considered that while the provision of SAS to 
+third parties is not common at the moment, it could become more so in the 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 15 of 16 
+future. The ACCC understands there are some self-administered funds which 
+are considering providing services to third parties. However, this may be a 
+precursor to merging with other funds rather than a shift toward providing third 
+party SAS.  
+71. 
+The ACCC is continuing to assess the likelihood of self-administered funds 
+providing SAS to other funds and the extent to which this would competitively 
+constrain Link.  
+The ACCC invites comments from market participants on the likely constraint imposed 
+on SAS providers by self-administered funds supplying SAS to third parties. In 
+particular, market participants may wish to comment on the following: 
+ 
+whether a self-administered fund would commence supplying SAS to third parties, 
+and whether this is influenced by the size and type of the third party fund 
+ 
+the time, resource and cost implications (if possible please provide cost estimates) 
+associated for a self-administered fund if it wanted to commence supplying SAS to 
+third parties 
+ 
+the extent to which acquiring SAS from a competing fund is considered a viable 
+alternative to a SAS provider. 
+The ACCC’s preliminary view 
+72. 
+The ACCC’s preliminary view is that the possible acquisition is likely to 
+substantially lessen competition by removing Pillar as a key competitor to Link in 
+the supply of SAS, in circumstances where Link may face limited competitive 
+constraint and barriers to entry and expansion are high.  
+73. 
+The ACCC is continuing to investigate the potential constraints on Link following 
+the possible acquisition, including the ability and willingness of funds to insource, 
+the likelihood that a self-administered fund would provide administration services 
+to other funds and the likelihood of new entry and expansion. The ACCC’s 
+preliminary view however is that these options would be unlikely to significantly 
+constrain (or would only provide a very limited constraint on) the prices and 
+service quality offered by Link. 
+Issue that is unlikely to raise concerns: reduced 
+competition in related product markets  
+74. 
+The ACCC’s preliminary view is that the possible acquisition is not likely to 
+substantially lessen competition by reducing innovation in related product 
+markets, specifically those related to the IT platforms and software used in the 
+provision of SAS.  
+75. 
+Link uses its own proprietary platform (the aaspire platform) and so its customers 
+are not considered part of the contestable market by other IT platform providers. 
+In comparison, Pillar currently uses Financial Synergy’s Acurity platform, while 
+Mercer utilises Bravura Solution’s Sonata platform. Some insourced funds 
+license their platform and software directly from an IT provider. 
+76. 
+The possible acquisition would remove Pillar from the contestable market as 
+Pillar’s customers would be integrated into Link’s aaspire platform. However, 
+
+
+Link – possible acquisition of Pillar 
+ 
+Page 16 of 16 
+based on information currently available to the ACCC, the ACCC considers that 
+the reduction of the size of the contestable market arising from the possible 
+acquisition is unlikely to be sufficiently significant to impact on the commerciality 
+of investment and innovation by IT platform and software providers thereby 
+reducing the competitive constraint that they may impose on Link. The ACCC 
+understands that, if the possible acquisition did reduce the constraint provided by 
+competing platform and software providers, it could in turn provide Link with an 
+ability and incentive to reduce investment in its own platform. 
+77. 
+Although the ACCC’s preliminary view is that the possible acquisition is unlikely 
+to raise concerns in related product markets, the ACCC will continue to assess 
+the potential for competition concerns to arise. 
+The ACCC invites comments from market participants in relation to related product 
+markets. In particular, market participants may wish to comment on the extent to which 
+the possible acquisition would: 
+ 
+reduce the contestable market for the supply of IT platforms/software, including the 
+extent to which IT platform and software providers currently provide services to 
+retail funds  
+ 
+impact on the ability of IT platform and software providers to compete 
+ 
+reduce the level of investment and innovation undertaken by IT platform and 
+software providers. 
+ACCC's future steps 
+78. 
+As noted above, the ACCC now seeks submissions from market participants on 
+each of the issues identified in this Statement of Issues and on any other issue 
+that may be relevant to the ACCC's assessment of this matter. Submissions are 
+to be received by the ACCC no later than 28 October 2016 and should be 
+emailed to mergers@accc.gov.au. 
+79. 
+The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+80. 
+The ACCC intends to publicly announce its final view by 15 December 2016. 
+However the anticipated timeline may change in line with the Informal Merger 
+Review Process Guidelines. A Public Competition Assessment for the purpose 
+of explaining the ACCC's final view may be published following the ACCC's 
+public announcement to explain its final view. 
+ 
+ 

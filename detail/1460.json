@@ -1,0 +1,32 @@
+{
+  "id": "1460",
+  "title": "Acquirer: ABB Grain Ltd; Target: Ausbulk Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-abb-grain-ltd-target-ausbulk-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19130",
+  "industries": [],
+  "date_completed": "20 September 2004",
+  "date_completed_iso": "2004-09-20T12:00:00Z",
+  "date_commenced": "26 February 2004",
+  "date_commenced_iso": "2004-02-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "ABB Grain Ltd"
+  ],
+  "targets": [
+    "Ausbulk Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "ABB Ltd which holds the state export rights for barley in South Australia proposed to acquire AusBulk the main grain storage and handling provider in South Australia and its shareholder company United Grower Holdings",
+    "Market definition": "For competition analysis purposes the ACCC considered the impact of the merger on the following markets: Market 1 - Regional market for the bulk storage and handling of grain in South Australia and Victoria Market 2 - State-based markets for the trading and marketing of grain and in particular barley in South Australia Market 3 - State-based markets for the supply of malt, particularly in South Australia",
+    "Competition analysis": "The Commission noted that the proposed transaction would have no impact on market concentration in bulk storage and handling as ABB does not own any bulk storage and handling facilities and did not compete in offering these services or facilities. Although the merged entity would virtually become the only domestic acquirer of malt barley in South Australia the ACCC considers it is unlikely that the merger would result in a substantial lessening of competition in relation to domestic malt barley acquisition and sales given the amount of malt barley that is exported, the limited demand in SA for malt barley for domestic consumption and the limited nature of competition which presently exists for the acquisition of malt barley in SA. The ACCC also noted that there is already scope for domestic trading in feed barley and other grains both in SA and interstate, there are alternative purchasers of malt barley interstate and that some protection is offered to South Australian growers post merger given their ability to sell barley into the export pool where export parity pricing would apply. The Commission noted that other grains compete with feed barley for sales into domestic feed grain markets.  Hence, the Commission considered specific competition concerns did not arise in relation to feed barley as a result of the proposed merger. However the ACCC was concerned about the vertical integration of South Australia's main storage and handling provider, AusBulk, with ABB given ABB Grain Export Ltd's legislative monopoly over the bulk export marketing of barley from South Australia. In particular, the ACCC was concerned that the merged entity would use its market power in storage and handling at South Australian port terminals to deny access to, or discriminate against, competing traders and grain exporters.  Any endeavours to deny or frustrate access could subject competitors to additional costs and delays and would deter new entrants from entering existing or future export markets sourced out of South Australia. The undertakings the parties have offered to provide are aimed at ensuring competitive access by all parties to the merged entity?s bulk storage and handling assets and services at ports in South Australia, in the foreseeable future. Following the offer of court-enforceable undertakings by the parties, the ACCC was satisfied that its concerns regarding access to the South Australian grain export facilities would be addressed and it would not need to intervene.  The ACCC accepted the undertakings on 20 September 2004.",
+    "Resolution": "Undertakings",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Press",
+    "ANZSIC code": "6701"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0785",
+  "title": "Woolworths Limited - proposed acquisition of Packaged Liquor licence in Erina NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-packaged-liquor-licence-in-erina-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36800",
+  "industries": [
+    "Packaged Liquor Licence"
+  ],
+  "date_completed": "17 March 2009",
+  "date_completed_iso": "2009-03-17T12:00:00Z",
+  "date_commenced": "3 March 2009",
+  "date_commenced_iso": "2009-03-03T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Packaged Liquor licence in Erina NSW"
+  ],
+  "timeline": [
+    {
+      "date": "3 Mar 2009",
+      "date_iso": "2009-03-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Mar 2009",
+      "date_iso": "2009-03-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Mar 2009",
+      "date_iso": "2009-03-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 3 March 2009 Woolworths advised the ACCC that it proposes to acquire a dormant packaged liquor licence in Erina, NSW.",
+    "Market definition": "The ACCC took the view that the relevant markets in this matter were likely to be: 1.  The local market for the retail sale of liquor for off-premises consumption, with a geographic dimension of 3-5km surrounding the target liquor outlet. (Market 1) 2.  A NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption. (Market 2)",
+    "Competition analysis": "On 17 March 2009 the ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion were: Market 1 The ACCC considered that Woolworths would likely continue to be constrained by a number of other retail liquor outlets in the relevant market. In addition, the proposed acquisition would not lead to the removal of a vigorous and effective competitor as the licence is currently dormant. Market 2 The ACCC considered that the proposed acquisition would not significantly increase the buying power of Woolworths or substantially diminish the buying power of any competing wholesaler in the relevant market."
+  }
+}

@@ -1,0 +1,936 @@
+ 
+Page 1 of 18 
+ 
+Statement of Issues 
+6 September 2018 
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Purpose 
+1. 
+Siemens A.G. (Siemens) proposes to combine its Mobility Division with Alstom 
+S.A. (Alstom) (the proposed merger). Siemens and Alstom are both active in 
+the rail mobility industry globally, and each supplies rail signalling, rolling stock 
+and rail electrification in Australia.   
+2. 
+This Statement of Issues: 
+ provides the preliminary views of the Australian Competition and Consumer 
+Commission (ACCC) on competition issues arising from the proposed merger  
+ identifies areas of further inquiry, and 
+ invites interested parties to submit comments and information to assist the 
+ACCC’s assessment of the issues. 
+Overview of ACCC’s preliminary views 
+3. 
+The legal test which the ACCC applies in considering a proposed merger is set 
+out in section 50 of the Competition and Consumer Act 2010 (Cth). Section 50 
+prohibits mergers and acquisitions that would have the effect, or be likely to have 
+the effect, of substantially lessening competition in any market. 
+4. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. 
+Issues that may raise concerns  
+5. 
+The ACCC’s preliminary view is that the proposed merger may substantially 
+lessen competition for heavy rail signalling projects for passenger rail networks, 
+in particular those involving interlocking systems and/or trackside automatic train 
+protection (ATP) systems.  
+6. 
+The proposed merger would result in the horizontal aggregation of two of the 
+leading suppliers of signalling systems in Australia and reduce the number of 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 2 of 18 
+credible suppliers. A combined Siemens-Alstom would be by far the largest 
+supplier of heavy rail signalling in Australia. 
+7. 
+The reduction in competition may lead to higher prices and/or lower levels of 
+service to customers and/or less innovation. 
+Making a submission 
+8. 
+The ACCC is seeking submissions from interested parties, particularly on the 
+following key issues: 
+ The closeness of competition between Siemens and Alstom, and between 
+Siemens and Alstom and other suppliers of signalling systems in Australia. 
+ The extent to which customers for signalling systems have viable alternatives 
+to Siemens and Alstom in Australia. 
+ The extent to which other signalling providers not currently present (or without 
+a significant presence) in heavy rail signalling in Australia could enter or 
+expand if a combined Siemens-Alstom attempted to increase prices and/or 
+decrease service levels. 
+ Any advantage that signalling providers with an existing presence on a 
+network may have in relation to future signalling projects on that network. 
+9. 
+Detailed discussion of these and other issues, along with specific questions, is 
+set out in this Statement of Issues.  
+10. 
+Interested parties should provide submissions by 5pm on 20 September 2018. 
+Responses may be e-mailed to mergers@accc.gov.au with the title: Submission 
+re: Siemens/Alstom – attention Peter Turner-Kerr/Isabelle Arnaud. If you would 
+like to discuss the matter with ACCC officers over the telephone or in person, or 
+have any questions about this Statement of Issues, please contact Isabelle 
+Arnaud on (02) 6243 1271.  
+11. 
+The ACCC anticipates making a final decision on 29 November 2018. However, 
+this timeline can change. To keep abreast of any changes and to find relevant 
+documents, please visit the Mergers Register on the ACCC's website at 
+www.accc.gov.au/mergersregister. 
+Confidentiality of submissions 
+12. 
+The ACCC will not publish submissions regarding the proposed merger. It will 
+not disclose submissions to third parties (except its advisors/consultants) unless 
+compelled by law (for example, under freedom of information legislation or 
+during court proceedings) or in accordance with s155AAA of the Competition 
+and Consumer Act 2010 (Cth). Where the ACCC is required to disclose 
+confidential information, the ACCC will notify you in advance where possible so 
+that you may have an opportunity to be heard.  Therefore, if the information 
+provided to the ACCC is of a confidential nature, please indicate as such. The 
+ACCC’s Informal Merger Review Process Guidelines contain further information 
+on confidentiality. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 3 of 18 
+About ACCC ‘Statements of Issues’ 
+13. 
+A Statement of Issues published by the ACCC is not a final decision about a 
+proposed merger, but provides the ACCC’s preliminary views, drawing attention 
+to particular issues of varying degrees of competition concern, as well as 
+identifying the lines of further inquiry that the ACCC wishes to undertake. 
+14. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+the merger parties, customers, competitors, shareholders and other 
+stakeholders) to ascertain and consider the primary issues identified by the 
+ACCC. It is also intended to provide interested parties with a basis for making 
+further submissions should they consider it necessary. 
+Timeline 
+Date 
+Event 
+19 April 2018 
+ACCC commenced public review of the proposed 
+merger under the Merger Process Guidelines 
+9 May 2018 
+Closing date for submissions from interested parties 
+26 June 2018 
+Former provisional decision date of 12 July 2018 
+delayed until 16 August 2018 to allow ACCC time to 
+consider additional information 
+8 August 2018 
+ 
+ 
+28 August 2018 
+The merger parties requested ACCC delay timeline to 
+allow them to provide further information. The former 
+provisional decision date of 16 August 2018 was 
+suspended pending receipt of the further information 
+The ACCC received further information from the parties 
+6 September 2018 
+ACCC published a Statement of Issues 
+20 September 2018 
+Deadline for submissions from interested parties in 
+response to Statement of Issues 
+29 November 2018 
+Anticipated date for ACCC final decision  
+The proposed merger and the parties 
+15. 
+The proposed merger involves the combination of Siemens’ rail mobility 
+business with Alstom by way of a contribution of Siemens’ Mobility Division to 
+Alstom in consideration for newly issued Alstom shares.1  
+                                                 
+ 
+1 https://www.alstom.com/press-releases-news/2017/9/siemens-and-alstom-join-forces-to-create-a-
+european-champion-in-mobility. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 4 of 18 
+Siemens 
+16. 
+Siemens is a listed German conglomerate headquartered in Munich. Its Mobility 
+Division is one of 11 business divisions. Siemens acquired signalling supplier 
+Invensys Rail in 20132 and Perth-based MRX Technologies in 2017.3 
+17. 
+In Australia, Siemens operates its Mobility business largely through its wholly-
+owned subsidiary Siemens Ltd, which focuses on the supply of heavy rail 
+signalling and rail electrification. It also has a historical presence in the supply of 
+rolling stock.  
+18. 
+Siemens has operations in more than 200 countries and employs approximately 
+377,000 people worldwide. In the year to 30 September 2017, Siemens 
+employed approximately 2,200 people in Australia and New Zealand across 16 
+locations.4 
+Alstom 
+19. 
+Alstom is a French société anonyme listed on the Euronext Paris stock 
+exchange. Globally, Alstom supplies high speed trains, metros, tramways, e-
+buses, infrastructure, signalling, digital mobility solutions and maintenance 
+services. In 2015, Alstom acquired GE’s signalling business.5 
+20. 
+In Australia, Alstom carries on business through its wholly-owned subsidiary 
+Alstom Transport Australia Pty Limited, and predominantly supplies rolling stock, 
+signalling, electrification and associated products and services. 
+21. 
+Alstom operates across more than 60 countries and employs approximately 
+34,500 people (including approximately 400 people in Australia). 
+Key area of overlap 
+22. 
+The key area of overlap between Siemens and Alstom in Australia is in heavy 
+rail signalling projects.  
+23. 
+Rail signalling projects involve one or more signalling elements/systems supplied 
+together with other services such as project specific engineering, development 
+and project management, procurement and supply of necessary signalling 
+equipment, systems integration, installation, testing and maintenance services.  
+24. 
+Siemens and Alstom also overlap in the supply of rolling stock and rail 
+electrification in Australia. However, this overlap is relatively minor and, as a 
+result, the ACCC’s preliminary view is that the proposed merger is unlikely to 
+substantially lessen competition in these areas. This Statement of Issues does 
+not, therefore, consider those aspects further. 
+                                                 
+ 
+2 https://www.siemens.com/press/en/pressrelease/2012/corporate/axx20121110.htm. 
+3 https://www.siemens.com/press/en/pressrelease/2017/mobility/pr2017060324moen.htm. 
+4 https://www.siemens.com/au/en/home/company/about.html. 
+5 https://www.alstom.com/press-releases-news/2015/11/alstom-refocused-on-rail-transport-with-strong-
+leadership-positions. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 5 of 18 
+Industry background – rail signalling  
+25. 
+Signalling systems provide safety and traffic management controls on rail 
+networks. At their simplest, these systems avoid collisions by preventing two 
+trains from meeting on the same section of track. 
+26. 
+There are broadly two types of signalling systems: 
+ Heavy rail signalling systems – used on ‘mainline’ (intercity passenger, freight 
+and private industrial lines) and ‘urban/metro’ passenger rail networks (see 
+below for more details), and 
+ Tram/light rail signalling systems – less complex than heavy rail signalling 
+systems and rely predominately on ‘line of sight’ and existing road traffic 
+signalling. 
+27. 
+The ACCC understands that the signalling technology used on private 
+industrial/freight rail lines in Australia differs from that used on passenger rail 
+lines and that customers for industrial/freight lines work closely with suppliers to 
+develop bespoke solutions. Passenger rail networks generally deploy more 
+standardised signalling systems that comply with more stringent safety 
+standards.  
+28. 
+In that light, and given the key area of overlap between the parties in Australia as 
+noted above, this Statement of Issues focuses on ‘mainline’ and ‘urban/metro’ 
+heavy rail signalling for passenger rail networks.  
+Mainline and urban/metro heavy rail signalling 
+29. 
+Mainline signalling systems provide safety and control systems for rail networks 
+operating between cities and towns and between city centres and suburbs. 
+Modern systems typically allow for interoperability between different lines and/or 
+networks and for trains to run at higher speeds than urban/metro signalling 
+systems.  
+30. 
+Urban/metro signalling systems provide safety and control systems for dedicated 
+‘closed loop’ railway lines that generally do not require interoperability with other 
+lines or networks. 
+31. 
+In other countries, there is generally a clear distinction between mainline and 
+urban/metro signalling systems. This is particularly true in large, densely 
+populated cities with mass transit systems (such as the Paris Métro and London 
+Underground). However, the distinction between mainline and urban/metro 
+signalling systems does not appear to be as relevant in Australia as it is in other 
+countries. Aside from the recently announced Melbourne Metro Tunnel and 
+Sydney Metro Northwest projects,6 the ACCC understands that trains operating 
+on ‘urban’ networks in Australian cities (i.e. in city centres and between city 
+centres and suburbs) typically rely on technology which is similar to that used on 
+‘mainline’ networks in other countries. 
+                                                 
+ 
+6 https://metrotunnel.vic.gov.au/; https://www.sydneymetro.info/northwest/project-overview. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 6 of 18 
+Key elements of heavy rail signalling  
+32. 
+Heavy rail signalling typically includes four key elements: 
+a)  Interlockings are the core safety component of a signalling system. 
+Interlockings set routes for the safe movement of trains by controlling 
+access to sections of track (“blocks”). Most rail networks, particularly the 
+urban commuter networks in Australian capital cities, employ a mix of 
+interlocking technologies provided by different suppliers. Modern 
+interlockings are a combination of computer hardware and software that 
+interface with other elements of a signalling system to issue movement 
+authorities to trains using pre-programmed proprietary software logic 
+patterns. Older ‘legacy’ (electronic relay and mechanical)7 interlockings are 
+also commonly found on Australian rail networks, but are being 
+progressively replaced with more modern computer-based interlockings.  
+b)  Train Protection systems are designed to protect trains by ensuring that 
+movement authorities issued by interlockings are obeyed. There are 
+different types of train protection systems available. These range from 
+relatively basic automatic warning systems, which sound an alarm when a 
+train is approaching a red signal and can apply an emergency brake if the 
+train fails to stop, to more modern and sophisticated automatic train 
+protection (ATP) systems. Train protection systems comprise: 
+ On-board components – including computer systems, which receive 
+signalling information from trackside components and implement 
+necessary safety procedures. This may include driver warning 
+signals and/or automatically slowing or stopping the train.  
+ Trackside components – receive signalling commands from 
+interlockings and transmit this information to the train’s on-board 
+components. 
+ATP systems are becoming increasingly standardised, particularly through 
+the promotion of the European Train Control System (ETCS) standard (see 
+the ETCS and CBTC section below for more details).  
+c)  Operational Control Systems (OCS) are IT-based platforms that facilitate 
+the overall management of a rail network (or part of a rail network). They 
+enable the integration, control and monitoring of signalling sub-systems 
+and facilitate timetable management, decision support, dispatching, 
+maintenance, security and customer management. In particular, OCS 
+operate networks of interlockings and provide a user interface for the 
+signalling system.  
+d)  Trackside equipment and other signalling components are objects 
+installed alongside or near the railway track, which interface with, or form 
+part of, interlockings and train protection systems. The key elements are 
+described in the table below. 
+                                                 
+ 
+7 Electronic relay interlockings use hard-wired circuitry and electrically operated switches 
+known as ‘relays’, which enable a degree of automated route setting. Mechanical 
+interlockings employ levers to operate switches, signals and other components, which are 
+connected to a ‘locking bed’ constructed of steel bars. The bars are constructed on the basis of 
+pre-determined logic patterns. If the function controlled by a given lever conflicts with that 
+controlled by another lever, mechanical interference occurs between the bars thereby 
+physically preventing the conflicting lever movement from being made. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 7 of 18 
+Interlocking elements 
+ 
+Track circuits 
+Detect trains on a track “block” by creating an electrical 
+current between the rails, which is short-circuited by a 
+passing train’s wheels/axles. 
+Axle counters 
+Determine track occupancy by detecting the passing of a 
+train between two points on a track; typically the beginning 
+and end of a “block”. By comparing the number of axles 
+passing over sensors at the start of a “block” to the number 
+passing over sensors at the end of a “block”, it can be 
+determined whether the “block” is occupied or vacant. Axle 
+counters are also capable of determining train speed and 
+direction.  
+Point machines 
+Devices that move sets of rails to guide trains from one set 
+of tracks to another, such as at a junction, spur or siding. 
+Track signals 
+Coloured lights or mechanical arms that instruct a train 
+driver to pass, stop or proceed cautiously. In some cases, 
+track signals also communicate a speed limit to drivers. 
+Relays 
+Electronic switching devices that respond to changes in 
+current or voltage, often to control trackside components. 
+Object controllers 
+Devices used to interface between interlockings and 
+trackside components such as point machines, track circuits 
+and track signals.  
+ATP elements 
+Balises (also known as 
+‘beacons’, ‘coupling units’ or 
+‘transponders’) 
+Devices installed between the rails that communicate 
+signalling information directly to a passing train. A 
+‘Eurobalise’ is a specific type of balise designed for use with 
+ETCS. 
+Encoders 
+Devices that translate movement authorities issued by an 
+interlocking into a form suitable for transmission to a train’s 
+on-board unit via a balise.  
+Other elements 
+Level crossings 
+Control the intersection between a railway line and a road or 
+path at the same level by predicting train arrival and 
+lowering barriers and/or activating signals to prevent traffic 
+from proceeding across a track when a train is approaching. 
+ETCS and CBTC 
+33. 
+As noted above, ATP systems are becoming increasingly standardised, 
+particularly through the promotion of the European Train Control System (ETCS) 
+standard. 
+34. 
+ETCS standardises the communication protocol between on-board and trackside 
+ATP equipment. This enables interoperability between rail networks and on-
+board equipment from different suppliers. 
+35. 
+The ACCC understands that ETCS is becoming a ‘de facto’ standard for ATP on 
+mainline rail networks in Australia, with a number of networks currently 
+operating, or working towards deploying, ETCS. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 8 of 18 
+36. 
+There are currently two variations (‘levels’) of ETCS available:  
+a)  ETCS Level 1: can be overlaid on top of existing legacy interlockings, 
+using trackside equipment (Eurobalises and encoders) to translate 
+signalling information between ETCS compatible on-board equipment and 
+the interlockings. 
+b)  ETCS Level 2: reduces the need for trackside equipment and relies to a 
+greater extent on on-board systems that communicate directly with 
+compatible computer-based interlockings using GSM-R radio based 
+communication. 
+37. 
+While ETCS is becoming a ‘de facto’ standard for ATP on mainline rail networks, 
+some ‘closed-loop’/self-contained urban/metro networks are adopting proprietary 
+communications-based train control (CBTC) protocols, particularly in large, 
+densely populated cities. CBTC systems use radio equipment for communication 
+between trains, trackside equipment and control systems to detect and control 
+train location, speed and direction. CBTC allows for more accurate train 
+detection than conventional signalling systems and increases network capacity 
+and performance by decreasing train intervals. CBTC also enables varying 
+grades of automation, ranging from driver-assisted ATP to fully automated 
+driverless systems. CBTC projects are currently underway in Sydney (Metro 
+Northwest)8 and Melbourne (Metro Tunnel).9 Unlike ETCS, CBTC technology 
+varies between suppliers as there is no need for interoperability on closed-loop 
+networks. 
+Regulatory framework  
+38. 
+In Australia, rail operators must comply with the Rail Safety National Law 
+(RSNL), which is administered by the Office of the National Rail Safety Operator. 
+The RSNL includes requirements in respect of occupational health and safety, 
+accreditation and rail safety.10 The RSNL has been substantially adopted by 
+each State and Territory. Signalling equipment suppliers must ensure that their 
+products meet certain requirements specified by the RSNL.11  
+39. 
+In addition to the requirements of the RSNL, there are competency frameworks 
+at the State and Territory level which govern the performance of certain tasks 
+and provide for the supervision and approval of signalling system designs and 
+data verification. 
+40. 
+Signalling equipment must also be “type-approved” before it can be deployed on 
+a network. Type-approval is a network-specific certification process through 
+which equipment is certified so as to demonstrate that it meets minimum 
+regulatory, technical and safety requirements. 
+                                                 
+ 
+8 https://www.sydneymetro.info/northwest/project-overview. 
+9 https://metrotunnel.vic.gov.au/. 
+10 https://www.onrsr.com.au/about-onrsr/legislation.  
+11 Broadly, equipment designers, manufacturers, and suppliers must ensure that rail infrastructure is safe 
+for its intended purpose https://www.onrsr.com.au/__data/assets/pdf_file/0016/10465/Guideline-Major-
+Projects.pdf. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 9 of 18 
+41. 
+The time and cost associated with type-approving equipment can vary 
+depending on the nature/complexity of the technology in question and any 
+specific requirements imposed by the rail operator. However the time and cost 
+involved in type-approving some equipment can be extensive.  
+42. 
+The ACCC understands that the type-approval process generally involves the 
+equipment supplier working closely with the network operator, including: 
+a)  
+Providing references to show that the equipment in question has operated 
+safely on another network. Australian rail networks typically recognise 
+references from other networks in Australia, Europe and North America. 
+b)  
+‘Shadow running’ the equipment on the network by integrating it into the 
+network alongside existing equipment to monitor/test its performance.12 
+This enables the supplier and network operator to verify that the new 
+equipment is operating correctly and safely by comparing its performance 
+to that of the existing equipment.  
+c)  
+Providing ongoing technical support for the equipment throughout the type-
+approval process to rectify any issues and ensure that the equipment 
+integrates with the network.  
+Other industry participants 
+43. 
+There are a number of other suppliers of heavy rail signalling systems 
+worldwide. These include:  
+a)  Ansaldo STS/Hitachi Ltd (Ansaldo) – supplies signalling systems for 
+mainline (freight, passenger and high speed rail) and urban/metro railways 
+(conventional and driverless). Ansaldo has signalling equipment installed 
+across various networks in Australia. Hitachi Ltd recently acquired a 51% 
+interest in Ansaldo STS.13 
+b)  Bombardier Inc (Bombardier) – supplies signalling systems for mainline 
+and urban/metro rail networks. In Australia, Bombardier supplies a range of 
+signalling equipment. It was also recently awarded a signalling upgrade 
+project on BHP’s mine-to-port line in the Pilbara region of Western 
+Australia,14 and a project involving the supply of an integrated CBTC metro 
+signalling system for the Melbourne Metro Tunnel project.15 
+c)  Thales Group (Thales) – supplies signalling systems for mainline and 
+urban/metro rail networks globally. In Australia, the ACCC understands 
+that Thales’ heavy rail signalling offering is limited. 
+d)  Chinese suppliers such as China Railway Signal & Communication 
+Corporation Limited (CRSC) and Beijing Traffic Control Technology Co., 
+                                                 
+ 
+12 The ACCC understands that for some signalling equipment, such as computer-based interlockings, 
+this process can occur virtually without the need for physical integration. 
+13 http://www.hitachi.com/New/cnews/month/2015/02/150224b.html; https://www.reuters.com/article/us-
+ansaldo-m-a-hitachi/hitachi-ready-to-buy-elliotts-stake-in-ansaldo-sts-paper-idUSKCN1IM0J9.  
+14 https://www.bombardier.com/content/dam/Websites/bombardiercom/countries/supporting-
+documents/Bombardier-Transportation-CountryBrochure-Australia-en.pdf. 
+15 https://www.bombardier.com/en/media/newsList/details.bt-20171218-bombardier-wins-contract-to-
+provide-melbournes-first-high-capacity-signalling-system.bombardiercom.html. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 10 of 18 
+Ltd (Beijing TCT) – have a large presence in Asia (particularly China), but 
+are not currently present in heavy rail signalling in Australia.16  
+e)  CAF Signalling (CAF) – has delivered heavy rail signalling projects in a 
+number of countries including in Europe and South America.17 In Australia, 
+CAF has delivered rolling stock and light rail projects in Canberra, Sydney 
+and Newcastle.18 The ACCC understands that CAF does not currently 
+supply heavy rail signalling in Australia. 
+f)  Wabtec Corporation (Wabtec) – a leading supplier of Positive Train Control 
+(PTC) technology. PTC is a type of ATP system adopted widely in the 
+United States and Canada. However, the ACCC understands that PTC is 
+not compatible with ETCS.19  
+g)  Nippon Signal – an established signalling supplier in Japan, where 
+signalling standards are significantly different to those adopted by rail 
+networks in Australia and other parts of the world.20 
+44. 
+A number of other suppliers offer certain types of signalling equipment in 
+Australia but the ACCC understands that they do not supply signalling systems. 
+These include Western-Cullen-Hayes (level crossing components), Frauscher 
+(axle counters), Compton Greaves (relays), Voestalpine (axle counters, point 
+machines and relays) and PT Hydraulic (point machines). 
+Market definition 
+45. 
+The ACCC’s starting point for delineating relevant markets in which to assess 
+the competitive effects of a proposed merger or acquisition involves identifying 
+the products/services actually or potentially supplied by the merger parties. The 
+ACCC then considers what other products/services and sources of supply 
+constitute sufficiently close substitutes to provide a significant source of 
+constraint on the merged firm.  
+46. 
+As noted at paragraph 22 above, the key area of overlap between Siemens and 
+Alstom is in the supply of heavy rail signalling.  
+Product/service dimension 
+47. 
+In Australia, customers typically procure signalling systems as integrated 
+‘projects’ through a competitive tender process. Signalling systems are a long-
+term investment for rail networks. The ACCC understands that signalling 
+systems are generally procured with a view to achieving an asset life of 20-30 
+years and that procurement processes occur relatively infrequently. Customers 
+are typically public or private sector rail infrastructure managers/operators.   
+                                                 
+ 
+16 http://www.bj-tct.com/en/about/info.aspx?id=3; http://www.crsc.cn/news/tsi_3195_6852_6489.html.  
+17 https://www.caf.net/en/innovacion-tecnologia/senalizacion.php. 
+18 https://www.caf.net/en/productos-servicios/proyectos/proyecto-detalle.php?p=248; 
+https://www.caf.net/en/productos-servicios/proyectos/proyecto-detalle.php?p=282; 
+https://www.caf.net/en/productos-servicios/proyectos/proyecto-detalle.php?p=283. 
+19 https://www.wabtec.com/uploads/annual_report/2017%2010-
+K%20FINAL%20Filed%20on%202.26.18.pdf. 
+20 http://www.signal.co.jp/english/aboutus/pdf/corporate_profile.pdf. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 11 of 18 
+48. 
+There are broadly two types of tenders for signalling projects: 
+ Dedicated signalling system tenders, which relate specifically to signalling 
+systems and associated services, and  
+ Broader tenders for ‘turnkey’ rail mobility solutions, which include rolling stock, 
+electrification, civil works and/or other equipment and services in addition to 
+signalling.  
+49. 
+While signalling suppliers typically bid separately for dedicated signalling 
+tenders, bidding consortia are commonly formed for turnkey projects. The ACCC 
+understands that such turnkey projects are less common in Australia than in 
+other countries.  
+50. 
+In each case, these projects generally involve comprehensive signalling 
+solutions and one or more signalling elements/systems supplied together with 
+other services such as project specific engineering, development and project 
+management, procurement and supply of the necessary signalling equipment, 
+systems integration, installation, testing and, in most cases, maintenance 
+services. Maintenance and operational services can also be outsourced to a 
+third party provider. Some customers may also perform some services in-house, 
+such as routine ‘day-to-day’ maintenance. 
+51. 
+The ACCC understands that customers generally consider the following key 
+factors when awarding contracts for signalling projects: 
+ Experience/track record (particularly in Australia and other developed 
+countries) 
+ Reputation 
+ Existing customer relationship / type-approval(s) 
+ Knowledge of the network, and 
+ Financial standing and capacity, and the ability to comply with safety, risk and 
+liability provisions in project documentation. 
+52. 
+Signalling equipment can also be supplied on a standalone basis. For example, 
+customers may acquire equipment as replacement parts for existing systems, or 
+suppliers that do not manufacture the relevant equipment may source it from 
+original equipment manufacturers (OEMs) such as Siemens or Alstom to on-
+supply. However, the ACCC understands that standalone sales of more complex 
+types of signalling equipment and proprietary systems, particularly interlocking 
+and ATP systems, are rare.  
+53. 
+On the basis of the above, the ACCC is of the preliminary view that it is 
+appropriate to consider the competitive impact of the proposed merger in the 
+context of one or more markets for heavy rail signalling projects for passenger 
+rail networks.  
+54. 
+Heavy rail signalling projects may be segmented on the basis of: 
+ System type/technology – the ACCC is considering whether there may be 
+separate markets for projects involving the supply of CBTC technology, ETCS 
+technology and ‘legacy’ signalling system technologies (for example, those 
+that use older electronic relay-based and mechanical interlockings).  
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 12 of 18 
+ Project size (value) – the ACCC is considering whether there may be separate 
+markets for major heavy rail signalling projects (such as a network-wide 
+signalling system upgrade or a signalling system for a new line) and less 
+significant heavy rail signalling projects (such as upgrades to part of a 
+network or expansions).  
+55. 
+In particular, the information before the ACCC indicates that the competitive 
+dynamics differ for the following types of projects: 
+ Major heavy rail signalling projects – for example, a network-wide interlocking 
+overhaul or signalling for a new rail line. These types of projects may involve 
+the supply of newer technologies such as ETCS or CBTC. 
+ Less significant heavy rail signalling projects – for example, a minor upgrade 
+to interlockings or other signalling equipment, or a small expansion to an 
+existing rail network (or part of a network). These types of projects may 
+involve the supply of older ‘legacy’ signalling technologies. 
+56. 
+The ACCC is continuing to explore these issues. 
+Geographic dimension 
+57. 
+The ACCC has not reached a conclusion on the geographic dimension of the 
+markets identified above. 
+58. 
+While the merger parties, like other leading providers of heavy rail signalling, 
+operate globally, in Australia rail operators are required to comply with the RSNL 
+(a national regulatory regime) as well as State and Territory based competency 
+frameworks. Equipment must also be “type-approved” for use on each network. 
+While the ACCC understands that steps have been taken towards harmonising 
+the type-approval process across Australia (or at least towards mutual 
+recognition between networks), this has not yet been achieved.  
+59. 
+Despite this, the ACCC’s preliminary view is that the geographic scope of the 
+relevant market may be national. However, it is considering whether there may 
+be narrower geographic markets. 
+The ACCC invites comments from market participants on the relevant market(s). In 
+particular market participants may wish to comment on: 
+ 
+The extent to which customers would switch to a signalling provider without 
+installed equipment (“an installed base”) and/or relevant type-approval(s) in the 
+event of a 5 to 10 per cent price rise, and, if so, which providers are likely to be 
+credible alternatives and why.  
+ 
+The extent to which the regulatory framework (including type-approval) limits a 
+network’s options or influences a supplier’s decision regarding the supply of heavy 
+rail signalling systems. 
+ 
+Whether it is appropriate to distinguish between major and less significant heavy 
+rail signalling projects. 
+ 
+Whether a customer’s credible alternatives change depending on the size (value) 
+of the project and/or the signalling technology involved. Please explain your 
+answer. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 13 of 18 
+ 
+Whether any other distinctions may be relevant to assessing the competitive 
+impact of the proposed merger. 
+Issue that may raise concerns: reduction in competition 
+for heavy rail signalling projects on passenger rail 
+networks 
+60. 
+The ACCC’s preliminary view is that the proposed merger may substantially 
+lessen competition for heavy rail signalling projects for passenger rail networks, 
+in particular those involving interlocking systems and/or trackside ATP systems.  
+Market concentration 
+61. 
+The supply of heavy rail signalling in Australia is characterised by a small 
+number of large providers.  
+62. 
+The parties have submitted market share estimates based on order intake data 
+for signalling projects awarded in Australia between 2012 and 2017. However, 
+the ACCC considers that such data is subject to considerable uncertainty. In 
+particular, order intake data can be distorted by one or more projects of 
+significant value. In order to obtain a clearer picture of concentration, the ACCC 
+is continuing to gather data, including tender and customer acquisition data. 
+63. 
+The ACCC’s market inquiries have revealed that there are three main suppliers 
+with a presence on heavy rail passenger networks in Australia: 
+a)  
+Siemens 
+b)  
+Alstom 
+c)  
+Ansaldo 
+64. 
+Information obtained during market inquiries suggests that Siemens is the 
+market leader and that Alstom and Ansaldo are the next strongest providers, 
+with a significant installed base across networks in Australia.  
+65. 
+While Bombardier and Thales also have a presence on some passenger 
+networks in Australia, the ACCC understands that their presence is limited. 
+66. 
+In that light, the ACCC’s preliminary view is that the proposed merger will reduce 
+the already limited number of suppliers for heavy rail signalling projects in 
+Australia.  
+Alternative suppliers 
+67. 
+The ACCC’s inquiries indicate that the degree of interest from signalling 
+suppliers for individual projects can vary depending on the size/value of the 
+project.  
+Less significant heavy rail signalling projects 
+68. 
+For less significant heavy rail signalling projects, such as an upgrade to part of a 
+network or an expansion, market feedback suggests that the viable signalling 
+providers are, in most cases, likely to be limited to those with an existing 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 14 of 18 
+presence on the relevant network. This is partly due to the risks involved in 
+engaging a new supplier with limited knowledge of the network and the need to 
+interface with signalling on other parts of the network, as well as the time and 
+cost of tendering for such projects relative to their value (including in relation to 
+type-approvals). 
+69. 
+Market feedback indicates that customers may have up to three suppliers on 
+their network(s), particularly in the case of interlockings, in order to ensure a 
+degree of ongoing competition. Even though a customer may deal with the 
+incumbent supplier on a given line or section of the network, customers have 
+indicated that the presence of other suppliers on a network imposes a 
+competitive constraint on the incumbent supplier.  
+Major heavy rail signalling projects 
+70. 
+For major heavy rail signalling projects – for example, a network-wide 
+interlocking system overhaul or signalling for a new rail line – the ACCC’s market 
+inquiries suggest that there may be a greater number of credible supplier options 
+including, in particular, Bombardier and Thales, the other main OEM providers of 
+heavy rail signalling systems globally. This is mainly because the value of the 
+project increases the incentives for potential suppliers to bid and lowers the 
+relative cost of bidding. In addition, the incumbency advantage enjoyed by 
+existing suppliers may be more limited for such projects. The ACCC notes that 
+Bombardier recently won a tender for a major heavy rail signalling project on a 
+passenger network in Australia, the Melbourne Metro Tunnel project.21  
+Other participants in signalling 
+71. 
+There are a number of other suppliers of signalling equipment, including 
+particular components such as track circuits and point machines. However, 
+market feedback indicates that such suppliers do not, and are not able to, deliver 
+complex heavy rail signalling projects in Australia, particularly where interlocking 
+and/or ATP systems are involved.  
+72. 
+Similarly, although large suppliers of civil engineering services such as John 
+Holland Group, Thiess, Downer Group and UGL Limited (part of CIMIC Group)22 
+may take part in rail tenders and be awarded contracts to supply and manage 
+the overall delivery of large ‘turnkey’ rail infrastructure projects that involve 
+signalling, the ACCC understands that these suppliers generally partner with a 
+signalling OEM to deliver the signalling element(s) of the project and do not have 
+capability themselves to provide all of the necessary elements. 
+73. 
+Accordingly, the ACCC’s preliminary view is that other suppliers of signalling 
+equipment and suppliers of civil engineering services are unlikely to constrain a 
+combined Siemens-Alstom in relation to heavy rail signalling projects.  
+                                                 
+ 
+21 https://www.bombardier.com/en/media/newsList/details.bt-20171218-bombardier-wins-contract-to-
+provide-melbournes-first-high-capacity-signalling-system.bombardiercom.html.  
+22 The ACCC understands that in 2005 UGL acquired Alstom’s transport business in Australia and New 
+Zealand and Alstom ceased to supply rail projects in Australia for a period. The parties have indicated that 
+UGL continues to manufacture some signalling products under a non-exclusive licence from Alstom and 
+using its own technology and that it has experience in the delivery of integrated signalling projects. The 
+ACCC is continuing to evaluate the extent to which UGL may impose a competitive constraint on a 
+combined Siemens-Alstom. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 15 of 18 
+Preliminary conclusion 
+74. 
+On the basis of the above, it appears that alternative suppliers may not 
+sufficiently constrain a combined Siemens-Alstom, in particular in relation to less 
+significant signalling projects on heavy rail passenger networks in Australia. As 
+identified above, there may be greater options in relation to major projects. The 
+ACCC invites further feedback from market participants. 
+Potential new entrants and barriers to entry and expansion 
+75. 
+As set out in paragraph 43 above, the ACCC is aware of a number of other 
+heavy rail signalling suppliers in other countries. These include:  
+a)  
+CAF 
+b)  
+Wabtec 
+c)  
+Nippon Signal 
+d)  
+Mitsubishi Electric 
+e)  
+Chinese suppliers such as CRSC and Beijing TCT. 
+76. 
+However, none of these suppliers have a presence in providing heavy rail 
+signalling projects in Australia. 
+77. 
+There appear to be significant barriers to new entry/expansion into Australia, 
+which include: 
+ Regulatory compliance and type-approval processes and associated costs 
+(see paragraphs 38 to 42 above). Market feedback indicates that the type-
+approval process for interlockings, for example, can cost up to several million 
+dollars and take between 12 and 30 months. Customers also incur costs 
+associated with type-approving new equipment, which may result in potential 
+suppliers (other than those already present on the network) not being 
+considered for less significant signalling projects. The ACCC notes that these 
+may be less of a barrier for major heavy rail signalling projects, in particular 
+because the value of such projects can create the incentive for potential 
+suppliers and rail networks to engage in the type-approval/regulatory process.  
+ Other costs, including those associated with preparing bids, participating in 
+tender processes and establishing oneself in Australia as a credible 
+alternative.  
+ Safety assurance requirements for new signalling equipment, which can 
+present a significant barrier for new entrants. In particular, the ACCC 
+understands that safety cases can take many years to prove following the 
+development of new signalling solutions.  
+ The requirement for knowledge of rail networks in Australia and demonstrated 
+experience in implementing similar projects in Australia and/or other 
+developed countries. 
+ Incumbency advantages: some market participants have submitted that the 
+presence of large incumbents discourages potential suppliers from 
+participating in tenders if they do not consider that there is a reasonable 
+chance of success, other than for major signalling projects where the benefits 
+of winning are more likely to justify the investment. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 16 of 18 
+ High customer switching costs associated with engaging a supplier that is not 
+already present on the customer’s network, including the time and cost of 
+type-approvals and the risks involved in engaging a new supplier with limited 
+knowledge of the network and the need to interface with signalling on other 
+parts of the network. 
+ Relatively small project sizes in Australia (particularly in the case of upgrades 
+and expansions to existing rail networks) that may not justify the significant 
+investment required to participate in tender processes, in particular when 
+competing with incumbent providers with the advantages referred to above. 
+ Onerous risk and liability provisions in project documentation for heavy rail 
+signalling projects, which can mean that only large, well-resourced signalling 
+suppliers are in a position to bid.  
+ The opportunity costs relative to other projects globally and associated 
+resourcing considerations (including the availability of relevant technical 
+expertise). 
+78. 
+As discussed above, in the case of major heavy rail signalling projects these 
+barriers may be less significant, particularly for major providers of ETCS or 
+CBTC technology globally.  
+79. 
+Market feedback indicates that the likelihood of entry by Chinese suppliers such 
+as CRSC and Beijing TCT is lower than for others, as these suppliers do not 
+currently meet the safety and reliability standards required by Australian 
+customers, and do not have acceptable signalling project references. Similarly, 
+Nippon Signal does not appear to be a viable option since Japanese signalling 
+standards differ significantly to those adopted by networks in Australia.  
+80. 
+On the basis of the above, the ACCC’s preliminary view is that the threat of 
+timely entry by other signalling suppliers may not be sufficient to constrain a 
+combined Siemens-Alstom, with the possible exception of major projects.  
+Countervailing power 
+81. 
+Countervailing power exists when buyers have special characteristics that 
+enable them to credibly threaten to bypass the merged firm, such as by vertically 
+integrating into the upstream market, establishing importing operations or 
+sponsoring new entry, such that this constrains any attempted increase in 
+market power by a supplier.23 
+82. 
+Countervailing power is more than the ability of one large buyer to negotiate 
+favourable terms and price relative to other buyers. A significant proportion of 
+customers must be shielded from the effects of market power if countervailing 
+power is to prevent a substantial lessening of competition in the relevant 
+market(s).  
+83. 
+The ACCC acknowledges that customers for signalling systems are typically 
+sophisticated purchasers such as government departments or public bodies with 
+some ability to structure tender processes to promote competitive outcomes. In 
+particular, information obtained during market inquiries suggests that some 
+                                                 
+ 
+23 See ACCC Merger Guidelines, November 2008, at paras. 7.48-7.51, 
+https://www.accc.gov.au/system/files/Merger%20guidelines.pdf.   
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 17 of 18 
+customers can and do take additional steps to encourage new entry by 
+facilitating type-approval processes for potential suppliers before or during 
+tenders. However, the ACCC understands that this may only occur in relation to 
+major projects, where the value justifies the investment and risk, both for the rail 
+network(s) and potential suppliers. The ACCC is continuing to explore this issue.  
+The ACCC invites comments from market participants in relation to concerns of a 
+potential post-merger reduction in competition for heavy rail signalling projects for 
+passenger rail networks. In particular, market participants may wish to comment on the 
+following: 
+ 
+The credible options for rail networks in Australia when procuring (i) major and (ii) 
+less significant heavy rail signalling projects. 
+ 
+The importance of experience, type-approval(s), reputation, relationships, existing 
+presence in Australia, financial standing and other factors considered by 
+customers when awarding contracts for heavy rail signalling projects. 
+ 
+The nature and extent of any ‘incumbency advantage’ that providers with an 
+installed base and/or existing type-approval(s)/relationship with a network have in 
+respect of tenders for (i) major and (ii) less significant heavy rail signalling projects. 
+ 
+The extent to which not having an existing presence on/relationship with a given 
+network is a barrier for prospective suppliers of future heavy rail signalling projects, 
+particularly less significant projects. 
+ 
+The extent to which having more than one supplier on a network imposes a 
+competitive constraint on the ‘incumbent(s)’ by creating competitive tension. 
+ 
+The extent to which the merger affects any incumbency advantage of existing 
+suppliers. 
+ 
+The risks involved in switching to a new supplier, in particular for less significant 
+projects, including requirements to interface with existing signalling on the network.  
+ 
+The likelihood of new entry (other than by acquisition) by suppliers of signalling 
+systems in other countries such as CAF, Nippon Signal, CRSC and Beijing TCT. 
+ 
+The extent to which customers can take steps to promote new entry and assist 
+potential suppliers to overcome barriers to entry, for example, by facilitating type-
+approvals, bundling a number of less significant signalling projects into a larger 
+project to attract wider interest, or adopting a newer type of signalling technology. 
+ 
+Any discretion that customers have in relation to the requirement for signalling 
+equipment to be type-approved and, in particular, the extent to which the 
+requirement for type-approval is a barrier to entry. 
+ 
+The extent to which OEMs such as Siemens and Alstom currently on-supply 
+signalling technologies and equipment to other signalling suppliers in Australia. 
+ 
+Whether there are any concerns in relation to the supply of particular signalling 
+systems/equipment on a standalone basis. 
+
+
+Proposed merger of Siemens’ rail mobility division with Alstom 
+Page 18 of 18 
+ACCC's future steps 
+84. 
+As noted above, the ACCC now seeks submissions from market participants on 
+each of the issues identified in this Statement of Issues and on any other issue 
+that may be relevant to the ACCC's assessment of this matter. Submissions 
+should be e-mailed to mergers@accc.gov.au by 5pm on 20 September 2018. 
+85. 
+The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+86. 
+The ACCC intends to publicly announce its final view by 29 November 2018. 
+However the anticipated timeline may change in line with the Informal Merger 
+Review Process Guidelines. A Public Competition Assessment for the purpose 
+of explaining the ACCC's final view may be published following the ACCC's 
+public announcement to explain its final view. 

@@ -1,0 +1,54 @@
+{
+  "id": "0525",
+  "title": "Caterpillar Inc - proposed acquisition of Bucyrus International Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caterpillar-inc-proposed-acquisition-of-bucyrus-international-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44952",
+  "industries": [
+    "Equipment manufacturing - mining"
+  ],
+  "date_completed": "3 May 2011",
+  "date_completed_iso": "2011-05-03T12:00:00Z",
+  "date_commenced": "16 February 2011",
+  "date_commenced_iso": "2011-02-16T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Caterpillar Inc"
+  ],
+  "targets": [
+    "Bucyrus International Inc"
+  ],
+  "timeline": [
+    {
+      "date": "16 Feb 2011",
+      "date_iso": "2011-02-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Mar 2011",
+      "date_iso": "2011-03-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Mar 2011",
+      "date_iso": "2011-03-24T12:00:00Z",
+      "event": "ACCC requested further information from Caterpillar. ACCC timeline suspended. Former proposed decision date of 7 April 2011 delayed to allow provision of information."
+    },
+    {
+      "date": "15 Apr 2011",
+      "date_iso": "2011-04-15T12:00:00Z",
+      "event": "ACCC received further information from Caterpillar. ACCC timeline recommenced."
+    },
+    {
+      "date": "3 May 2011",
+      "date_iso": "2011-05-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Caterpillar (through a wholly-owned subsidiary) proposes to acquire 100% of the issued share capital of Bucyrus.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of markets for the supply and manufacture of : * large mining trucks (LMTs), * load-haul-dumps (LHDs) for underground hard rock mining applications, * LHDs for underground soft rock (coal) mining applications, * underground mining trucks (UMTs) for underground hard rock mining applications, * UMTs for underground soft rock mining applications, and * hydraulic mining shovels. The ACCC did not consider that identifying the exact geographic dimension of these markets was necessary to assess the likely competitive impacts of the proposed acquisition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would not be likely to substantially lessen competition in any relevant market for the following reasons: * The three remaining major global competitors in the supply of LMTs will provide the merged entity's customers with sufficient options to discipline any attempt by the merged entity to raise its prices or reduce its service levels. There is also the possibility of new entry by Chinese manufacturers in the medium term. * Conglomerate effects are unlikely to arise due to Caterpillar's lack of market power in the LMT market and the fact that many customers do not have a strong preference for bundling different types of mining equipment. * Caterpillar and Bucyrus do not overlap in the relevant markets for the supply of hard and soft rock LHDs and UMTs. * In relation to mining shovels, Caterpillar's possible entry into the hydraulic shovels market (in the absence of the proposed acquisition) would not be likely to lead to a significant increase in competition as there is already meaningful a degree of competition among existing suppliers of hydraulic shovels."
+  }
+}

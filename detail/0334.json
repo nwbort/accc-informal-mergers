@@ -1,0 +1,39 @@
+{
+  "id": "0334",
+  "title": "Peregrine Corporation - proposed acquisition of Caltex Fullarton in Adelaide, South Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/peregrine-corporation-proposed-acquisition-of-caltex-fullarton-in-adelaide-south-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54493",
+  "industries": [
+    "Fuel retailing"
+  ],
+  "date_completed": "8 May 2014",
+  "date_completed_iso": "2014-05-08T12:00:00Z",
+  "date_commenced": "24 December 2013",
+  "date_commenced_iso": "2013-12-24T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "Peregrine Corporation"
+  ],
+  "targets": [
+    "Service station in Fullarton SA operated by Caltex (Caltex Fullarton)"
+  ],
+  "timeline": [
+    {
+      "date": "24 Dec 2013",
+      "date_iso": "2013-12-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "8 May 2014",
+      "date_iso": "2014-05-08T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The proposed acquisition arose during the course of the ACCC's review of Peregrine's proposed acquisition of 25 BP Australia petrol retail sites in South Australia. Peregrine undertook to divest certain sites to other retailers, including Caltex, to address the ACCC's competition concerns with its acquisition from BP. In a separate but related transaction, Peregrine proposed to acquire Caltex Fullarton from Caltex. The ACCC reached its decision to oppose the proposed acquisition of Caltex Fullarton based on market inquiries conducted in the review of Peregrine's acquisition from BP.",
+    "Market definition": "The ACCC considered the proposed acquisition with reference to a local market in the area surrounding Caltex Fullarton. Further details can be found in the Public Competition Assessment relating to the ACCC's review of Peregrine's proposed acquisition of 25 BP Australia petrol retail sites in South Australia.",
+    "Competition analysis": "The ACCC opposed the proposed acquisition of Caltex Fullarton because Caltex Fullarton appears to compete closely with BP Glenunga (which Peregrine will acquire from BP) and other nearby Peregrine petrol stations. The proposed acquisition would have eliminated this close competition. Further details can be found in the Public Competition Assessment relating to the ACCC's review of Peregrine's proposed acquisition of 25 BP Australia petrol retail sites in South Australia."
+  }
+}

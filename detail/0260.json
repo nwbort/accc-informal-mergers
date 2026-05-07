@@ -1,0 +1,69 @@
+{
+  "id": "0260",
+  "title": "Metcash Ltd - proposed acquisition of Home Timber and Hardware Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metcash-ltd-proposed-acquisition-of-home-timber-and-hardware-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59561",
+  "industries": [
+    "Hardware and home improvement"
+  ],
+  "date_completed": "21 July 2016",
+  "date_completed_iso": "2016-07-21T12:00:00Z",
+  "date_commenced": "6 May 2016",
+  "date_commenced_iso": "2016-05-06T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Metcash Ltd"
+  ],
+  "targets": [
+    "Home Timber and Hardware Group"
+  ],
+  "timeline": [
+    {
+      "date": "6 May 2016",
+      "date_iso": "2016-05-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "20 May 2016",
+      "date_iso": "2016-05-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "26 May 2016",
+      "date_iso": "2016-05-26T12:00:00Z",
+      "event": "ACCC requested further information from Metcash."
+    },
+    {
+      "date": "17 Jun 2016",
+      "date_iso": "2016-06-17T12:00:00Z",
+      "event": "ACCC received further information from Metcash."
+    },
+    {
+      "date": "29 Jun 2016",
+      "date_iso": "2016-06-29T12:00:00Z",
+      "event": "Former proposed decision date of 30 June 2016 delayed to allow the ACCC to consider an undertaking submitted by Metcash and whether the undertaking is suitable to proceed to consultation."
+    },
+    {
+      "date": "5 Jul 2016",
+      "date_iso": "2016-07-05T12:00:00Z",
+      "event": "ACCC commenced market inquiries on draft section 87B undertaking offered by Metcash. ACCC timeline recommenced."
+    },
+    {
+      "date": "12 Jul 2016",
+      "date_iso": "2016-07-12T12:00:00Z",
+      "event": "Closing date for submissions relating to draft section 87B undertaking."
+    },
+    {
+      "date": "21 Jul 2016",
+      "date_iso": "2016-07-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Metcash sought clearance to acquire the Home Timber and Hardware Group (HTH) from Woolworths. Woolworths was running a sale process in respect of its HTH and Masters businesses and Metcash was intending to bid for HTH. Both Metcash and HTH have wholesale and retail operations in the hardware and home improvement industry. Further information about the ACCC's review is available at this page.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

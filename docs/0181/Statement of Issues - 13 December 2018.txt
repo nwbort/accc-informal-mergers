@@ -1,0 +1,1590 @@
+Page 1 of 34 
+ 
+Statement of Issues 
+13 December 2018 
+ TPG Telecom – proposed merger with Vodafone  
+Purpose 
+1. 
+TPG Telecom Limited (TPG) proposes to merge with Vodafone Hutchison 
+Australia Pty Ltd (VHA) (the proposed merger).  
+2. 
+This Statement of Issues: 
+ 
+gives the preliminary views of the Australian Competition and Consumer 
+Commission (ACCC) on competition issues arising from the proposed 
+acquisition;  
+ 
+identifies areas of further inquiry; and 
+ 
+invites interested parties to submit comments and information to assist our 
+assessment of the issues. 
+Overview of ACCC’s preliminary views 
+3. 
+The legal test which the ACCC applies in considering the proposed acquisition is 
+in section 50 of the Competition and Consumer Act 2010. Section 50 prohibits 
+acquisitions that would have the effect, or be likely to have the effect, of 
+substantially lessening competition in any market. 
+4. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. 
+Issues of concern 
+Competition for retail supply of mobile services 
+5. 
+The ACCC is concerned that the proposed merger will substantially lessen 
+competition in the market for retail mobile services nationally.  
+6. 
+The ACCC’s preliminary view is that the proposed merger will result in a more 
+concentrated and less competitive market by removing TPG as a strong 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 2 of 34 
+competitor. The ACCC considers that without the merger, TPG would likely 
+adopt an aggressive pricing strategy, offering cheap plans with large data 
+allowances.   
+Issues that may raise concerns 
+Competition for wholesale supply of mobile services 
+7. 
+The ACCC is concerned that the proposed merger may substantially lessen 
+competition in the market for wholesale mobile services nationally. 
+8. 
+The ACCC’s preliminary view is that the removal of TPG as a fourth mobile 
+network operator (MNO) may result in: 
+ 
+higher prices for wholesale services; and 
+ 
+more restrictive conditions for wholesale customers, 
+than there would be in the absence of the proposed merger. 
+Competition for retail fixed broadband services  
+9. 
+The ACCC is concerned that the proposed merger may substantially lessen 
+competition in the market for the supply of retail fixed broadband services 
+nationally.  
+10. 
+The ACCC is considering whether the removal of Vodafone as a potentially 
+significant competitor for the supply of retail fixed broadband services may result 
+in: 
+ 
+higher prices for retail fixed broadband services; and 
+ 
+lower quality services including lower data inclusions or poor performance,  
+than there would be in the absence of the proposed merger.  
+Competition for retail home broadband services in the longer term 
+11. 
+The ACCC is also considering whether when 5G mobile technology becomes 
+commercially available in the near future, TPG and VHA may, in the absence of 
+the merger, compete in a market for retail broadband services using either 
+mobile or fixed networks (retail home broadband services). In this case, the 
+proposed merger may substantially lessen competition in that market.  
+Making a submission 
+12. 
+The ACCC is seeking submissions from interested parties, particularly on the 
+following key issues: 
+ 
+the extent to which wholesale and retail customers consider a 
+geographically limited network, such as that proposed by TPG, as a viable 
+alternative to existing mobile networks  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 3 of 34 
+ 
+the extent to which TPG and Vodafone would be likely to compete against 
+each other in either or both of mobile and fixed services, absent the merger  
+ 
+whether the proposed merger is likely to limit the options available to 
+mobile virtual network operators (MVNOs) seeking end-to-end wholesale 
+mobile services  
+ 
+any particular advantage that Vodafone may have in relation to providing 
+retail home broadband services compared to other new entrants. 
+13. 
+Detailed discussion of these and other issues, along with specific questions, is 
+contained in this Statement of Issues.  
+14. 
+Interested parties should provide submissions by no later than 5pm on 18 
+January 2019. Responses may be emailed to TPG-Vodafone-
+Mergers@accc.gov.au with the title: Submission re: TPG/Vodafone - attention 
+Morgan Woodland/Rachel Goldfeld. If you would like to discuss the matter with 
+ACCC officers over the telephone or in person, or have any questions about this 
+Statement of Issues, please contact Morgan Woodland on 02 9230 9194 or 
+Rachel Goldfeld on 03 9290 1438.  
+15. 
+The ACCC anticipates making a final decision on 28 March 2019, however this 
+timeline can change. To keep abreast of possible changes in relation to timing 
+and to find relevant documents, interested parties should visit the Mergers 
+Register on the ACCC's website at www.accc.gov.au/mergersregister. 
+Confidentiality of submissions 
+16. 
+The ACCC will not publish submissions regarding the proposed acquisition. We 
+will not disclose submissions to third parties (except our advisors/consultants) 
+unless compelled by law (for example, under freedom of information legislation 
+or during court proceedings) or in accordance with s155AAA of the Competition 
+and Consumer Act 2010.  Where the ACCC is required to disclose confidential 
+information, the ACCC will notify you in advance where possible so that you may 
+have an opportunity to be heard.  Therefore, if the information provided to the 
+ACCC is of a confidential nature, please indicate as such. Our Informal Merger 
+Review Process Guidelines contain more information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+17. 
+A Statement of Issues published by the ACCC is not a final decision about a 
+proposed acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well 
+as identifying the lines of further inquiry that the ACCC wishes to undertake. 
+18. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 4 of 34 
+Timeline 
+ 
+Date 
+Event 
+24 September 2018 
+ACCC commenced review under Merger Process 
+Guidelines. 
+13 December 2018 
+ACCC publication of Statement of Issues 
+18 January 2019 
+Deadline for submissions from interested parties in 
+response to this Statement of Issues 
+28 March 2019  
+Anticipated date for ACCC final decision  
+ 
+The parties 
+TPG 
+19. 
+TPG provides telecommunications services, including: 
+ 
+retail fixed broadband and voice services to consumers, small business, 
+government, enterprises and wholesale customers on legacy networks, the 
+NBN and its own fibre-to-the-basement network (FTTB) 
+ 
+retail mobile services as an MVNO 
+ 
+wholesale services, such as transmission and NBN aggregation services, 
+to other telecommunications service providers. 
+20. 
+TPG’s key retail brands are TPG, iiNet, and Internode.1 TPG has approximately 
+1.9 million retail fixed broadband subscribers, half of which remain on ADSL, 
+which are split approximately evenly between the TPG and iiNet brands.  
+21. 
+TPG supplies mobile services as an MVNO on Vodafone and Optus’s mobile 
+networks and has approximately 421,000 mobile subscribers. In 2017, TPG 
+announced plans to become an MNO and commenced building its own mobile 
+network. 
+Vodafone 
+22. 
+Vodafone is the third largest telecommunications provider in Australia. Vodafone 
+is a 50:50 joint venture between Vodafone Group Plc and Hutchison 
+Telecommunications (Australia) Limited. Vodafone is a privately owned entity, 
+although the ultimate shareholders in Vodafone are publicly listed entities on the 
+Hong Kong Stock Exchange and London Stock Exchange.  
+                                                 
+ 
+1 TPG’s other retail brands and subsidiaries include Adam Internet, AAPT, Westnet, TransACT, Pipe Networks, 
+Netspace, Agile Communications and Chime Communications.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 5 of 34 
+23. 
+Vodafone owns and operates its own 3G and 4G mobile network, which reaches 
+nearly 97 per cent of the Australian population (this includes additional coverage 
+provided under a domestic roaming agreement with Optus in isolated, regional 
+areas). The physical geographic coverage of Vodafone’s own network is 
+approximately half that of Optus and one quarter that of Telstra.   
+24. 
+Vodafone also supplies wholesale mobile services to MVNOs for resale, 
+including to TPG. 
+25. 
+In October 2016, Vodafone announced its intention to begin offering retail fixed 
+broadband services over the NBN and commenced supplying services in 
+December 2017, mostly in metropolitan areas. Vodafone is now connected to 
+91 of the 121 NBN Points of Interconnection (POI). 
+Other industry participants 
+Telstra 
+26. 
+Telstra is the largest supplier of fixed and mobile voice and broadband services 
+in Australia, with the largest number of subscribers in both services. 
+27. 
+Telstra owns and operates the legacy copper network which is used to supply 
+both fixed voice and broadband services. This network is being decommissioned 
+and replaced with the NBN, owned and operated by NBN Co. Telstra acquires 
+wholesale services from NBN Co and has the largest number of wholesale 
+services in operation on the NBN. Telstra also supplies NBN wholesale 
+aggregation services to smaller retail service providers.  
+28. 
+Telstra also owns and operates its own mobile network, which it claims to cover 
+99.3 per cent of the Australian population. Telstra is a premium brand, but also 
+targets cost-conscious consumers through its own low cost brands, Belong and 
+Boost. Telstra supplies wholesale end-to-end mobile services to MVNOs on its 
+network, including Aldi and Woolworths.  
+29. 
+Telstra owns and operates an extensive transmission network that supports its 
+fixed and mobile services. It also supplies wholesale transmission services to 
+other service providers.  
+Optus  
+30. 
+Optus supplies fixed and mobile voice and broadband services. Optus has the 
+second largest number of subscribers in mobile services, and the third largest 
+number of subscribers in fixed voice and broadband services.  
+31. 
+Optus acquires wholesale fixed voice and broadband services from NBN Co and 
+wholesale services from Telstra to supply retail fixed voice and broadband 
+services over Telstra’s legacy copper network. Optus has the third largest share 
+of wholesale services in operation on the NBN. Optus also supplies NBN 
+wholesale aggregation services to smaller retail service providers.  
+32. 
+Optus owns and operates its own mobile network, which it claims to reach 98.5 
+per cent of the Australia population. Optus sells retail mobile services and 
+supplies wholesale end-to-end mobile services to MVNOs, including Amaysim. 
+Optus also has several retail brands, including Virgin Mobile.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 6 of 34 
+33. 
+Optus also owns and operates its own transmission network, and supplies 
+wholesale transmission services to other service providers.  
+NBN Co 
+34. 
+NBN Co has a mandate to supply wholesale-only high-speed broadband access 
+services to replace Telstra’s legacy copper network. The NBN will reach all 
+Australians using a mix of access technologies, including fibre, fixed wireless 
+and satellite. As part of its mandate, NBN Co must supply wholesale broadband 
+access to all service providers on equal terms, in order to promote retail 
+competition. 
+35. 
+In addition to NBN Co, other next generation fibre network operators include 
+OptiComm, OPENetworks, RedTrain, LBN Co and TPG. These operators 
+typically deploy their networks in apartment buildings and/or new housing 
+estates and tend to operate as local monopoly networks.  
+Vocus  
+36. 
+Vocus Group Limited (Vocus) provides retail and wholesale telecommunications 
+services across Australia. Vocus owns its own transmission network which 
+connects all capital cities and most regional cities across Australia. Vocus 
+supplies wholesale transmission services to retail service providers.  
+37. 
+Vocus acquires wholesale access services from NBN Co, and has the fourth 
+largest share of wholesale services in operation on the NBN. Vocus also 
+acquires wholesale services from Telstra to deliver retail legacy voice and 
+broadband services.  
+38. 
+Vocus owns a number of retail and wholesale brands, including M2, iPrimus, 
+Dodo, Eftel, Club Telco, NextGen Networks, Amnet, Commander, Engin and 
+Southern Cross Telco.  
+39. 
+Vocus does not have its own mobile network, but sells retail mobile services (as 
+an MVNO) through its retail brands, such as Dodo.  
+Mobile virtual network operators (MVNOs)  
+40. 
+MVNOs acquire wholesale end-to-end mobile services from mobile network 
+operators (Telstra, Optus, or Vodafone) and re-sell the mobile service under their 
+own brands.  
+41. 
+In addition to providing mobile phone services, mobile networks can be used to 
+provide mobile broadband services on smartphones, dongles, tablets and 
+portable modems.  
+42. 
+There are currently around 90 MVNOs in the Australian market, including 
+Amaysim and TPG, which make up approximately 10 per cent of mobile phone 
+subscribers in Australia.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 7 of 34 
+Industry background 
+Mobile networks  
+43. 
+A mobile network has three primary components: consumer devices, a radio 
+access network and a core network.  
+44. 
+The radio access network consists of base stations (mobile towers) which are 
+connected to the rest of the network via transmission links (also known as 
+backhaul). These can be wireless (microwave) links, but are now more 
+commonly fibre.  
+45. 
+A base station uses radio frequency spectrum to communicate between the 
+consumer device and the core network. A base station provides mobile coverage 
+to an immediate geographic area called a cell. Importantly, in a mobile network, 
+mobile devices will maintain connectivity with the network as the end-user (or 
+device) moves between cells (inter-cell handover).  
+46. 
+The size of cells differ. Large cells are called macro cells, which are served by 
+large, high-powered base stations that provide coverage over a large area. Small 
+cells provide coverage over a small area and are used to either complement 
+large cells to improve coverage, add targeted capacity or provide coverage 
+inside buildings or in hard-to-reach areas. Radio frequency spectrum 
+characteristics also have implications for the sizes of cells. Generally, the higher 
+the frequencies, the smaller the cell. 
+47. 
+The core network connects the different parts of the access network, connects to 
+other networks and undertakes billing and user management. 
+48. 
+New generations of mobile phone technology have seen the capacity and 
+capabilities of mobile networks increase significantly. The next generation, 5G 
+(discussed in more detail below), will result in improved speeds and reduced 
+latency for users as well as significant efficiencies for operators. 5G will make 
+use of much higher radio frequency spectrum that will have implications for the 
+size of cells. Smaller cells will be needed which will require a significant amount 
+of new network deployment. 
+49. 
+Spectrum is a scarce resource and essential input in the supply of mobile 
+services. It contributes to the quality of service and coverage of a mobile 
+network, as well as the capacity of the network. Without sufficient spectrum, a 
+mobile network will not be able to function.   
+50. 
+Mobile networks are increasingly flexible in that they can be used to support a 
+range of communications services including mobile phone services, mobile 
+broadband services and fixed/home wireless broadband services.  
+51. 
+There are currently three mobile networks in operation in Australia, owned by 
+Telstra, Optus and Vodafone, which use 3G and 4G mobile technology. Telstra 
+and Optus have announced plans to deploy 5G mobile networks in 2019. 
+52. 
+All three MNOs are vertically integrated and provide both wholesale and retail 
+mobile phone and broadband services.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 8 of 34 
+53. 
+In addition to mobile phone services, dedicated mobile broadband services are 
+delivered using mobile networks to tablet devices or portable 4G Wi-Fi modems.  
+54. 
+These services have a dedicated data SIM card and do not offer call or SMS 
+services like mobile phone services. Retail service providers market these 
+services as mobile broadband services or home wireless broadband services.  
+Fixed line networks  
+55. 
+Fixed line networks are characterised by a wired connection to end-user 
+premises and can use a variety of technologies. Fixed line networks can be used 
+to supply fixed voice and broadband services to an end-user premises.  
+56. 
+In Australia, there are a number of fixed line networks in operation including 
+legacy copper (Telstra) and hybrid fibre coaxial (HFC) networks (Telstra and 
+Optus), and next-generation fibre networks such as the NBN (NBN Co) and non-
+NBN fibre networks (OptiComm, OPENetworks, TPG FTTB).  
+57. 
+The NBN will be the predominant fixed line network once its rollout is complete 
+and the legacy copper and HFC networks are de-commissioned. The NBN 
+currently uses a range of technologies including fibre-to-the premises, fibre-to-
+the-node, fibre-to-the-curb, fibre-to-the-basement, HFC and in regional areas, 
+fixed wireless and satellite.  
+58. 
+NBN Co is a wholesale-only service provider and supplies wholesale access 
+services to NBN retail service providers, such as Telstra, Optus, TPG (including 
+iiNet and Internode), Vocus Group (including Dodo and iPrimus), and Vodafone.  
+59. 
+As at 22 November 2018, the NBN was available to around 9 million Australian 
+homes and businesses, of which 4.6 million premises had an active NBN 
+service.2  
+Transmission networks  
+60. 
+Transmission networks provide a link between the core network, and the 
+exchange point to the access network, such as the mobile base station or NBN 
+point of interconnection.  
+61. 
+Services supplied over these networks are known as transmission services or 
+backhaul. Transmission services carry the voice, data and video traffic 
+generated by retail fixed and mobile voice and broadband services, and are an 
+essential input into the supply of these retail services.   
+62. 
+A number of different technologies can be used in transmission networks, 
+including optical fibre, dark fibre, copper cables or microwave links.   
+63. 
+Transmission network operators provide wholesale transmission services to 
+retail service providers to enable the supply of voice and broadband services to 
+end-users. There are a number of transmission network operators in Australia, 
+including Telstra, Optus, TPG (through AAPT) and Vocus, who supply wholesale 
+transmission services to retail service providers. 
+                                                 
+ 
+2 https://www.nbnco.com.au/content/dam/nbnco2/2018/documents/weekly-progress-reports/22112018.pdf  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 9 of 34 
+64. 
+The ACCC currently regulates transmission services in some areas where there 
+are less than three competing transmission providers. The regulated 
+transmission service is called the Domestic Transmission Capacity Service.  
+Future industry trends 
+5G mobile technology 
+65. 
+5G is the next generation of mobile technology and is designed to support faster 
+speeds, higher data traffic and ultra-low latency.  
+66. 
+5G networks will build on current 4G networks and are expected to launch 
+globally by 2020. With the introduction of 5G networks, mobile services are 
+expected to deliver speeds that match or exceed existing fibre broadband 
+services.  
+67. 
+The deployment of 5G networks is expected to have wide-spread economic 
+benefits for consumers, and industry. At present, there are three main use cases 
+anticipated for 5G: enhanced mobile broadband, ultra-reliable, low latency 
+wireless communications, and massive machine-to-machine communications. 
+However, 5G is anticipated to bring many new services and applications in the 
+future, as well as a more diverse range of suppliers, beyond traditional 
+telecommunications companies. 
+Fixed-mobile substitution 
+68. 
+Fixed-mobile substitution occurs when a consumer replaces a fixed voice and/or 
+broadband service with a mobile voice and/or broadband service.  
+69. 
+Substitution can occur to varying degrees, for example, in some cases, 
+consumers may give up their fixed service and use mobile services exclusively. 
+Alternatively, consumers may continue to purchase both a fixed and mobile 
+service, but use their mobile service more than their fixed service.  
+70. 
+In Australia, there has been a trend towards voice substitution for a number of 
+years. In June 2017, 36 per cent of Australian adults were mobile-phone only 
+and did not have a fixed-line telephone at home.3  
+71. 
+The extent of substitution from fixed broadband to mobile broadband is 
+influenced by consumer demand for data, and preference for price and speed. 
+While there is some substitution currently, this is anticipated to increase in the 
+future as mobile network technology evolves.  
+72. 
+There are a growing range of mobile broadband services available in the market, 
+such as home wireless broadband services that use a portable modem with a 
+SIM. These offer larger data inclusions for lower prices than in the past.  
+73. 
+In particular, with the deployment of 5G mobile technology bringing higher data 
+capacity and speeds, it is anticipated that these mobile broadband offerings will 
+be able to offer comparable service quality, speeds and data inclusions to fixed 
+                                                 
+ 
+3 ACMA Communications Report 2016-1, pg. 4. https://www.acma.gov.au/-/media/Research-and-
+Analysis/Report/pdf/Communications-report-2016-17-pdf.pdf?la=en  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 10 of 34 
+line broadband services, making them more attractive to a broader range of 
+consumers. 
+Network convergence 
+74. 
+There are many definitions and degrees of convergence, for example, service 
+convergence (such as bundling), device convergence (such as mobile phones 
+with Wi-Fi handoff capability), and network convergence (where fixed and mobile 
+services share a common IP transport network).  
+75. 
+Network convergence refers to the use of different access technologies, both 
+fixed and mobile, on a single network. A customer has a seamless service 
+experience using a combination of fixed broadband and mobile technologies to 
+meet their needs at home and on the go. For example, a customer may use a 
+network-provided Wi-Fi hotspot in the CBD, mobile connectivity on a commute, 
+and a fixed line network at home all on the one device. The customer’s device 
+will connect seamlessly to all these access points. 
+76. 
+Seamless experience typically refers to ‘seamless handover’ between the 
+networks. For example, a call in progress can move from the mobile network to 
+the fixed network on the same phone without interruption. One example of this is 
+Voice over Wi-Fi calls, where a mobile device switches to making voice calls 
+over Wi-Fi rather than using the mobile network.  
+77. 
+There is a degree of network convergence occurring in Australia whereby mobile 
+network operators, Vodafone and Telstra, provide an NBN fixed broadband 
+service with 4G mobile backup capability. This enables the service provider to 
+supply a fixed broadband service to the consumer over a fixed or mobile 
+network. We understand that at present, this mobile backup will only occur in the 
+event of a blackout or NBN outage, however it affords the service provider the 
+opportunity to use either network to deliver the broadband service if desired.   
+The proposed transaction 
+78. 
+On 30 August 2018, TPG and VHA announced their intention to merge their 
+businesses. Under the proposed merger, TPG shareholders will collectively own 
+49.9 per cent of the merged entity and VHA shareholders will collectively own 
+the remaining 50.1 per cent.  
+79. 
+The proposed merger will be implemented by way of a Scheme of Arrangement. 
+Following the completion of the Scheme of Arrangement, the merged entity will 
+be listed on the ASX and will be named ‘TPG Telecom Limited’.  
+Areas of overlap 
+80. 
+TPG is primarily a supplier of retail fixed broadband services and has 
+commenced rolling out its own mobile network, to supply mobile services. 
+Vodafone operates its own mobile network and is primarily a supplier of mobile 
+services, and has commenced supplying retail fixed broadband services on the 
+NBN. There are therefore three areas of actual or potential overlap between the 
+merger parties: 
+ 
+the supply of retail fixed broadband services; 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 11 of 34 
+ 
+the supply of retail mobile phone and broadband services; and 
+ 
+the supply of wholesale mobile services.  
+Future with and without the acquisition  
+81. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future state of 
+competition if the acquisition proceeds (the “with” position) to the likely future 
+state of competition if the acquisition does not proceed (the “without” position) to 
+determine whether the proposed acquisition is likely to substantially lessen 
+competition in any relevant market. 
+82. 
+If the proposed merger does not proceed, the ACCC considers TPG and 
+Vodafone will continue to compete as separate entities. The ACCC is also 
+considering the future ‘without’ position in the context of TPG and Vodafone 
+potentially sharing the 3.6 GHz spectrum under their current joint venture (JV) 
+agreement, pursuant to the ACMA auction in November 2018.  
+83. 
+The parties have proposed to possibly expand their JV agreement and the 
+ACCC is assessing the competitive effects of this broader JV separately. 
+Market definition 
+84. 
+The ACCC’s starting point for defining relevant markets to assess the 
+competitive effects of the proposed merger involves identifying the products 
+actually or potentially supplied by the merger parties. The ACCC then considers 
+what other products constitute sufficiently close substitutes to provide a 
+significant source of constraint on the merged entity.  
+85. 
+The ACCC is considering the impact of the proposed merger on competition in 
+the markets for the supply of: 
+ 
+retail mobile services in metropolitan areas or nationally 
+ 
+wholesale mobile services nationally 
+ 
+retail fixed broadband services to households and/or businesses nationally. 
+86. 
+The ACCC is also considering whether and how the adoption of 5G mobile 
+technology will impact on the scope or nature of the relevant markets, potentially 
+leading to a retail home broadband services market, including fixed and mobile 
+broadband services.  
+87. 
+Questions relating to customer and supplier substitution, and the geographic 
+scope of the relevant markets, are explored below.  
+Market for the supply of retail mobile services  
+88. 
+The ACCC is concerned that the proposed merger will substantially lessen 
+competition for the supply of retail mobile services in metropolitan areas or 
+nationally.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 12 of 34 
+Product/service dimension 
+89. 
+Mobile networks can be used to access the internet, make calls and send SMS 
+messages. There are two types of retail mobile services currently offered to 
+consumers over mobile networks in Australia:  
+ 
+Mobile phone services, which include a bundle of voice, SMS and 
+broadband data services 
+ 
+ 
+Mobile broadband services, which are a subset of mobile phone services, 
+being broadband data services but not voice or SMS services – these 
+broadband data services are provided over a 3G or 4G network which a 
+consumer can use with a tablet, dongle or portable 4G Wi-Fi modem that 
+connects to a consumer device.  
+90. 
+The ACCC has previously considered there are separate markets for mobile 
+phone services and mobile broadband services. However, the ACCC is 
+considering whether it is appropriate to include both mobile phone services and 
+mobile broadband services in the same market.  
+91. 
+From a functional or end-user perspective, mobile phone services are used for 
+different purposes than mobile broadband services. Consumers use mobile 
+phone services to make calls, send SMS messages and access the internet. 
+Consumers use mobile broadband services to access the internet only.  
+92. 
+However, there is growing demand for retail mobile phone plans with significant 
+data inclusions. We also note the emergence and take-up of over-the-top (OTT) 
+voice and messaging services delivered over the internet. OTT voice and 
+messaging services, such as Skype and WhatsApp, are displacing traditional 
+voice and messaging services for some consumer segments.4  
+93. 
+There are technical limitations to using OTT services on a mobile broadband 
+service for calls and messaging, such as the lack of interconnectivity between 
+apps, and the inability to call 13/1300/1800 numbers or make emergency calls 
+(with the exception of Skype). This means that OTT voice services are unable to 
+offer the same level of functionality as traditional voice services available via 
+mobile phone services.  
+94. 
+From a supplier’s perspective, a single mobile network is capable of supplying 
+both mobile broadband services and mobile phone services, provided the 
+supplier has the relevant interconnection agreements in place to allow for voice 
+and SMS functionality.  
+Geographic dimension  
+95. 
+Consumers primarily use their mobile phones close to where they live, work and 
+shop. Therefore, consumers will often purchase their mobile services from 
+service providers which offer good local coverage.  
+96. 
+Currently, mobile services are priced on a uniform basis nationally and can be 
+used by consumers across most cities and regional centres. Without a domestic 
+                                                 
+ 
+4 ACCC, ‘Communications Sector Market Study – Final Report’, April 2018, p. 20.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 13 of 34 
+roaming agreement, TPG’s planned mobile network will only have geographic 
+coverage in metropolitan centres.  
+97. 
+The ACCC’s Domestic Mobile Roaming Declaration Inquiry found that 
+geographic coverage is not the primary driver of competition. Therefore, it is not 
+essential for MNOs to have the same geographic coverage to be able to 
+compete effectively in the national supply of retail mobile services.5 For example, 
+Vodafone is able to compete closely with both Optus and Telstra despite its 
+more limited geographic coverage. However, Vodafone’s network covers 95.3 
+per cent of the population and Vodafone has a domestic roaming agreement with 
+Optus, whereas TPG’s planned mobile network will only cover 80 per cent of the 
+population.  
+98. 
+It is also possible that TPG’s entry into metropolitan regions may disrupt uniform 
+national pricing such that incumbent MNOs price more aggressively in areas 
+where TPG has coverage.  
+99. 
+At this stage, the ACCC considers that the appropriate geographic dimension of 
+the relevant market is likely to be national. However, competitive dynamics may 
+differ between metropolitan and regional areas, and the effect of TPG’s entry 
+may be more pronounced in metropolitan areas.  
+100. The ACCC is considering whether the state of competition and nature of 
+available services differ depending on where the services are delivered such that 
+it is appropriate to classify a market for mobile services in metropolitan areas as 
+distinct from a national market.  
+Market for the supply of wholesale mobile services  
+101. The ACCC is considering whether TPG would supply wholesale end-to-end 
+mobile services to MVNOs once its mobile network is rolled out, and the extent 
+to which TPG would compete effectively against the incumbent MNOs in the 
+wholesale mobile services market. 
+102. Wholesale end-to-end mobile services are only available from MNOs. MVNOs 
+commercially negotiate wholesale arrangements with the MNOs to enable them 
+to supply retail mobile services. 
+103. The ACCC’s preliminary view is that there is a separate national market for the 
+supply of wholesale mobile services to MVNOs. However, as with the market for 
+retail mobile services, the ACCC is considering whether the appropriate 
+geographic scope of the market (or markets) is metropolitan.  
+Market for the supply of retail fixed broadband services  
+Product service dimension 
+Retail fixed broadband services 
+104. As discussed in the industry background section above, a retail fixed broadband 
+service involves high speed data transmission to homes and businesses (i.e. to 
+a fixed location). These services can either be delivered over the fixed line 
+                                                 
+ 
+5 ACCC, ‘Domestic Mobile Roaming Declaration Inquiry – Final Report’, October 2017, p 2.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 14 of 34 
+network (copper or fibre optic cable) or over the mobile network (a wireless 
+service).  
+105. Retail fixed broadband services include broadband services delivered from a 
+mobile tower to a stationary device, like an antenna. The ACCC considers that 
+these services are distinct from mobile broadband services (as defined in 
+paragraph 89) because the service is being delivered to a fixed location.  
+106. The ACCC’s preliminary view is that there are separate product markets for fixed 
+broadband services and mobile broadband services. However, as discussed 
+above, there is the potential for increasing substitution between these services, 
+particularly in the longer-run, as discussed further under paragraph 178.   
+Customer type and size  
+107. The information before the ACCC suggests that different customer types have 
+different demand characteristics for their consumption of retail fixed broadband 
+services.  
+108. Government or enterprise customers typically acquire broadband services, either 
+from a broker or directly from one of the telecommunications companies. These 
+customers also typically have much larger data requirements and require 
+broadband services in multiple locations across Australia.  
+109. Residential customers typically have less structured purchasing requirements 
+and are less likely to require a bundled product. While many residential 
+customers seek high-speed fixed line connections with large data inclusions, 
+there are some residential customers with lower speed and data requirements 
+that may only require a mobile broadband service.  
+110. The ACCC is of the preliminary view that given the limited overlap in supplying 
+retail fixed broadband services to government or enterprise customers, the 
+relevant market for assessing the potential impact of the proposed merger is 
+likely to be the market for the supply of retail fixed broadband services to 
+residential customers.  
+Geographic dimension 
+111. For most residential customers, mobile broadband services would not currently 
+be an adequate substitute due to the speed and data limits, so these customers 
+would typically require fixed broadband services at their premises.  
+112. However, retail fixed broadband service providers with national brands compete 
+nationally for customers and typically adopt a national approach to setting prices 
+and service levels. Therefore, the ACCC’s preliminary view is that the relevant 
+geographic market is national.  
+The ACCC invites comments from market participants on its preliminary views about 
+the definition of the relevant market(s). In particular, market participants may wish to 
+comment on: 
+Mobile services  
+ 
+the extent to which consumers use OTT voice and messaging services instead of 
+mobile phone voice and SMS services  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 15 of 34 
+ 
+the factors that contribute to uniform pricing for mobile services and whether 
+uniform pricing is likely to continue in the future, whether or not the proposed 
+merger proceeds  
+ 
+the extent to which there may be separate, metropolitan markets for the supply of 
+mobile services across Australia  
+ 
+the likelihood of MNOs and MVNOs offering different pricing and plans in 
+metropolitan areas as distinct from regional areas, and if this is the case, how the 
+boundaries of metropolitan areas should be determined  
+ 
+whether the geographic scope of the wholesale market should be the same as the 
+retail market  
+Fixed broadband services  
+ 
+the extent to which customers would switch to a mobile broadband service from a 
+fixed broadband service, and for those customers who would switch, the relevant 
+data usage threshold for defining different fixed broadband customer segments, in 
+particular ‘low’ data users. Are low data users more likely to consider a mobile 
+broadband service as a substitute for fixed broadband services compared to high 
+data users?  
+ 
+whether it is appropriate to distinguish between fixed broadband services and 
+mobile broadband services delivered to a fixed location   
+ 
+the extent to which government and enterprise customers are likely to procure 
+retail fixed broadband services differently to residential customers  
+ 
+the factors that drive uniform pricing for mobile services and whether uniform 
+pricing is likely to continue in the future.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 16 of 34 
+Issue of concern: loss of competition for retail mobile 
+services 
+113. The ACCC’s preliminary view is that the proposed merger will substantially 
+lessen competition by removing TPG as an aggressive competitor in the supply 
+of retail mobile services. This would likely result in higher prices and lower 
+service levels (for instance, data inclusions, contract options, customisation, 
+bundling and multi-product offerings, speed and service performance and 
+reliability) for retail customers compared to a future in which TPG is a standalone 
+fourth MNO. The proposed merger will limit the market to three MNOs for the 
+foreseeable future by removing TPG as a new entrant.  
+114. In particular, the ACCC is considering the likely extent and nature of the 
+competitive constraint that TPG would impose in the absence of the proposed 
+merger, having regard to the more limited geographic coverage of its network but 
+also its likely pricing strategy.  
+115. The ACCC is also considering the counter argument, that the proposed merger 
+would create an effective competitor that would impose a stronger constraint on 
+Telstra and Optus. This is based on the complementarity of the merger parties’ 
+assets and potential efficiencies generated by the proposed merger that may 
+enable the merged entity to increase and accelerate its infrastructure investment 
+compared to a standalone TPG and standalone Vodafone.   
+Current state of competition for mobile services  
+116. There are currently three MNOs in Australia: Telstra, Optus and Vodafone. All 
+three MNOs are vertically integrated and provide both wholesale and retail 
+mobile services. National retail market shares for consumer mobile phone 
+services by service provider are set out in the figure and table below. This is 
+based on data from the ACCC’s Communications Sector Market Study – Final 
+Report. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 17 of 34 
+Figure 1: Retail mobile services market shares for consumer mobile 
+phone services by service provider in 2016 
+ 
+Table 1: Retail mobile services market shares for consumer mobile phone 
+services by service provider in 2016  
+Entity 
+Market share 
+Telstra (including Boost) 
+44% 
+Optus (including Virgin) 
+29% 
+Vodafone (Including Lebara) 
+19% 
+TPG (iiNet, Internode, Westnet and TransACT) 
+3% 
+Other (including Amaysim, ALDImobile, Southern Cross 
+Telco, Southern Phone, Exetel, Dodo, iPrimus other 
+providers and small providers from overseas) 
+8% 
+Source: Data from the ACCC’s Communications Sector Market Study – Final Report 
+ 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 18 of 34 
+117. The ACCC understands that market shares for retail mobile phone services have 
+remained relatively stable over recent years in what the ACCC considers to be a 
+highly concentrated market. 
+118. The ACCC stated in its 2017 Domestic Mobile Roaming Declaration Inquiry that 
+the market for retail mobile services in Australia is for similar but differentiated 
+products. MNOs compete on factors such as price, network coverage, network 
+quality, bundles and content inclusions. There are also differences in the 
+geographic coverage of the three MNO networks. Telstra claims to reach 99.3 
+per cent of the population, followed by Optus that claims to reach 98.5 per cent 
+and Vodafone has claimed to reach 97 per cent (including its roaming agreement 
+with Optus).  
+119. In terms of geographic coverage, Telstra’s network has the largest coverage 
+footprint, at over 2.4 million square kilometres. Optus is the second largest, 
+covering around one million square kilometres and Vodafone has the least 
+geographic coverage at around 600,000 square kilometres.6  The ACCC does 
+not consider MNOs or new entrants need to have the same geographic coverage 
+to compete effectively in the mobiles market.7 
+120. As discussed above in the ‘Industry Background’ section, there are also over 90 
+MVNOs that acquire wholesale end-to-end mobile services from one of the 
+MNOs and resell the mobile service under their own retail brand.8 MVNOs tend 
+to differentiate their retail offerings on price, bundles, service quality and network 
+coverage.  
+121. Consistent with previous ACCC consideration, the ACCC considers MVNOs 
+provide a limited constraint on the MNOs, particularly as they rely on purchasing 
+wholesale end-to-end mobile services from MNOs. However, the ACCC is 
+considering whether MVNOs provide a level of competitive constraint on MNOs 
+by targeting niche groups of customers that may not be serviced by the MNOs, 
+including pre-paid low priced plans with large data inclusions. 
+Barriers to entry and expansion  
+122. The ACCC considers that there are high barriers to entry in establishing a mobile 
+network and expanding as an MNO. Outside of TPG’s entry into mobile services, 
+the ACCC considers there is unlikely to be a new MNO entrant with the scale 
+and scope to effectively constrain the existing MNOs in the foreseeable future.  
+123. The significant barriers to establishing a mobile network include:   
+ 
+Access to and cost of the necessary spectrum  
+ 
+Significant costs of a network rollout, which are largely sunk 
+ 
+Physical network deployment, including gaining access to sensitive sites 
+subject to planning laws 
+                                                 
+ 
+6 ACCC, ‘Domestic mobile roaming declaration inquiry – final report’, October 2017, p. 5. 
+7 ACCC, ‘Domestic mobile roaming declaration inquiry – final report’, October 2017, p. 39. 
+8 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 56. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 19 of 34 
+ 
+Obtaining a customer base of sufficient size  
+ 
+Brand reputation 
+124. As is discussed below, TPG does not face many of these barriers compared to 
+other potential entrants. It already has spectrum, a well-known brand, significant 
+infrastructure and a large customer base to whom it can cross-promote.  
+Removal of TPG as a potential effective competitor for mobile services  
+125. TPG is in the process of rolling out its own mobile network to become Australia’s 
+fourth MNO. According to TPG’s 2018 half year results presentation on 20 March 
+2018, TPG’s mobile rollout was well underway with sites installed in Sydney and 
+Melbourne. It also stated that small cell site access agreements are now 
+substantially complete and that “high density of small cell sites and deployment 
+of Cloud RAN [radio access network] will provide a platform for 5G services”.9 
+After the proposed merger was publicly announced in August 2018, TPG’s 2018 
+full year results presentation on 18 September 2018 stated the small cell site 
+rollout is continuing and that “TPG’s small cell network would be complementary 
+to VHA’s mobile network”.10  
+126. The ACCC is concerned that the removal of TPG as an MNO would likely lead to 
+the loss of a significant competitor in the supply of retail mobile services, which is 
+a concentrated market. In addition, TPG is likely to be an innovative and low 
+price competitor. The ACCC considers the removal of TPG as an MNO may 
+lessen the incentive for the existing MNOs to compete vigorously since the 
+market will be more concentrated. 
+127. Relative to any other potential new entrant, the ACCC considers TPG has 
+already overcome some entry barriers and is better-placed than any other 
+potential new entrant to successfully establish a mobile network and offer 
+competitive mobile services, through its ability to leverage its extensive retail 
+fixed broadband customer base and well-recognised brand name, as well as its 
+existing infrastructure and spectrum holdings. TPG’s media release dated 9 May 
+2018 states, “TPG will be sending out invitations to persons who express 
+interest, with priority being given to existing TPG, iiNet and Internode broadband 
+customers”.11 The ACCC considers that it is unlikely other mobile service 
+providers, such as MVNOs or potential new entrants, will have the necessary 
+size and scope to become an effective MNO in the foreseeable future.  
+128. TPG intends to spend $600 million on a mobile network rollout over three years 
+to achieve 80 per cent population coverage.12 The network is expected to cover 
+densely populated areas with approximately 2,000 to 2,500 sites plus small cell 
+sites.13 The ACCC understands TPG’s mobile network will initially focus on 
+                                                 
+ 
+9 https://www.tpg.com.au/about/pdfs/TPMHY18Presentationv9ASX.pdf?v=1.7.  
+10 https://www.tpg.com.au/about/pdfs/TPMFY18Presentationv6.pdf  
+11 TPG, TPG to offer Free Unlimited Mobile Data plan on its Brand New Australian Mobile Network, 9 May 2018, 
+https://www.tpg.com.au/about/media.php.  
+12 ASX, TPG Telecom acquires 700MHz spectrum in Australia; launches $400 entitlement offer, 12 April 2017, 
+https://www.asx.com.au/asxpdf/20170412/pdf/43hgrdhpfm7jq0.pdf. 
+13 TPG investor presentation, 700MHz spectrum auction success and entitlement offer, 12 April 2017, 
+https://www.tpg.com.au/about/pdfs/TPG_700MHz_Spectrum%20Acquisition_Investor_Presentation.pdf.    
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 20 of 34 
+supplying services in CBD areas including Sydney, Melbourne, Adelaide, 
+Canberra and Brisbane.  
+129. TPG also spent $1.26 billion14 on 2 x 10 MHz of the 700 MHz spectrum 
+(metropolitan and regional) auctioned by the ACMA in April 2017 for its intended 
+4G mobile network. In addition to its 700 MHz spectrum, TPG holds some 1800 
+MHz spectrum in regional areas and 2 x 10 MHz of 2.5 GHz spectrum in 
+metropolitan and regional areas. It was announced on 10 December 2018 that, 
+through its JV with Vodafone, TPG had acquired 3.6 GHz spectrum that can be 
+used for its 4G network and for deploying 5G mobile services.  
+130. Market inquiries have provided mixed feedback as to the likely use and capability 
+of TPG’s mobile network. Some market participants consider TPG will build a 
+viable mobile network that will compete aggressively against other MNOs.  
+131. Some market participants view TPG’s acquisition of spectrum and network 
+rollout as geared more towards offering a fixed wireless service that would 
+compete more directly with the NBN rather than traditional mobile phone 
+services. TPG has previously stated “… our mobile strategy will be 
+complementary to our ongoing fixed line business, with the ability to bundle 
+mobile and fixed services expected to have a beneficial effect on our already low 
+fixed services customer churn”.15 The ACCC is continuing to consider how the 
+TPG mobile network is likely to operate and compete in the supply of retail 
+mobile services. As part of this, the ACCC is considering the extent to which it is 
+necessary to offer both a mobile voice and data service to compete effectively in 
+retail mobile services.  
+132. Some market feedback has indicated TPG’s mobile network would not effectively 
+constrain Telstra and Optus due to its limited geographic coverage. In particular, 
+market feedback indicated consumers on TPG’s mobile network would need to 
+complement the service with an existing MNO that offers additional coverage, 
+which therefore limits the competitive constraint TPG can exert on existing 
+MNOs.  
+133. The ACCC has previously found that differences in geographic coverage are not 
+necessarily an impediment to effective competition between networks.16 
+Geographic coverage is only one aspect of mobile competition. MNOs also 
+compete on price, data inclusions and network quality in areas they service. 
+134. The ACCC is considering the extent to which TPG’s initial data-only plans will be 
+competitive in the market. In this context, a relevant comparison may be made 
+with Telstra initially offering data-only mobile broadband services under its 
+Belong brand.  
+135. The ACCC considers TPG has a strong history of adopting aggressive pricing 
+strategies and competing aggressively for market share as an MVNO in retail 
+                                                 
+ 
+14 The price paid by TPG was equivalent to $2.75/MHz/pop. Vodafone secured the remaining 2 x 5 MHz 700 MHz 
+spectrum for $285,907,000, at the reserve price of $1.25/MHz/pop. (ACMA, Sold! AMCA completes high-value 
+spectrum auction, 
+https://www.acma.gov.au/theACMA/Newsroom/Newsroom/Media-releases/sold-acma-completes-high-value-spectrum-
+auction). 
+15 ASX, TPG Telecom acquires 700MHz spectrum in Australia; launches $400 entitlement offer, 12 April 2017, 
+https://www.asx.com.au/asxpdf/20170412/pdf/43hgrdhpfm7jq0.pdf.  
+16 ACCC, 2017 Domestic Mobile Roaming Declaration Inquiry, pp.2-3, 47. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 21 of 34 
+mobile services. For example, in April 2018 TPG refreshed its mobile phone 
+plans to offer 65 per cent more data and a $0 SIM fee.17 TPG stated, “Removing 
+SIM fee and packing more data into our existing mobile products are exciting 
+news, but we will be even more aggressive when our own mobile network is 
+ready”.18  
+136. The ACCC considers it likely TPG will adopt a similar strategy for retail mobile 
+services on its own network and price aggressively, potentially offering 
+significantly cheaper plans than other MNOs with large data allowances.  
+137. This view is consistent with market feedback and TPG’s announcement that it 
+expects to begin trials of its 4G network in certain suburbs and will offer this trial 
+service for free with unlimited data.19  TPG’s media release states, “The mobile 
+plan to be made available to the first TPG customers will be absolutely free for 
+the first 6 months and is expected to be available in Q3-Q4 2018. The plan will 
+come with Unlimited Data, with the first 1 GB of data every day supplied at 4G 
+LTE speeds, after which speed will be capped at 1 Mbps for the remainder of the 
+day”.20 TPG also announced customers choosing to continue with the plan after 
+the 6-month free period will pay a monthly charge of $9.99.21  
+138. The ACCC is considering the impact of TPG’s likely pricing strategy in the short 
+and long term on the supply of retail mobile services and its potential competitive 
+constraint on other MNOs. The ACCC is also considering the impact of TPG on 
+non-price elements of retail mobile services competition, such as inclusions and 
+customer service. 
+139. The ACCC recognises that MNOs require ongoing investment in their mobile 
+network to continually increase service quality. Telstra and Optus are in the 
+process of rolling out infrastructure to offer 5G mobile services. The ACCC is 
+considering whether, absent the merger, TPG would have the capacity to 
+continually invest in its mobile network in a timely way.  
+ACCC’s preliminary views 
+140. In summary, the ACCC is concerned that the removal of TPG as a significant 
+competitor for mobile services will result in higher prices and lower quality for 
+retail mobile services, such as data inclusions, contract options, customisation, 
+bundling and multi-product offerings, speed and service performance and 
+reliability.  
+                                                 
+ 
+17TPG, TPG’s Mobile plans refresh – 65% more data and $0 SIM fee, 19 April 2018 
+https://www.tpg.com.au/about_pdfs/TPG%20Media%20Release%20-
+%20New%20mobile%20plans%20April%202018.pdf.  
+18TPG, TPG’s Mobile plans refresh – 65% more data and $0 SIM fee, 19 April 2018 
+https://www.tpg.com.au/about_pdfs/TPG%20Media%20Release%20-
+%20New%20mobile%20plans%20April%202018.pdf.  
+19 A list of sites planned for initial coverage can be found in TPG’s media release: 
+https://www.tpg.com.au/about/media.php. Initial mobile network coverage will include CBD areas and numerous 
+surrounding suburbs in Sydney, Melbourne, Adelaide, Canberra and Brisbane. 
+20 TPG, TPG to offer Free Unlimited Mobile Data plan on its Brand New Australian Mobile Network, 9 May 2018, 
+https://www.tpg.com.au/about/media.php (emphasis as in the original).   
+21 TPG, TPG to offer Free Unlimited Mobile Data plan on its Brand New Australian Mobile Network, 9 May 2018, 
+https://www.tpg.com.au/about/media.php.    
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 22 of 34 
+The ACCC invites comments from market participants on its concerns in relation to 
+retail mobile services.  In particular, market participants may wish to comment on the 
+following: 
+ 
+the different factors MNOs compete with each other on (including price, geographic 
+coverage and other non-price aspects) and the most important aspects of 
+competition 
+ 
+the extent to which MVNOs compete with MNOs (including targeting any particular 
+market or customer segment) and the main forms of competition MVNO’s provide 
+(including price and non-price aspects)  
+ 
+the types of challenges potential entrants face when establishing a mobile network, 
+including the most significant costs involved   
+ 
+the likelihood of a potential entrant becoming an MNO, excluding TPG’s entry. In 
+answering this question, you may wish to identify any likely new entrant and how 
+large a MVNO would need to be before they could establish their own network. 
+ 
+the current level of competition between the existing MNO’s and how the proposed 
+merger and increase in concentration would impact this 
+ 
+the extent to which TPG’s mobile network will increase competition in the supply of 
+retail mobile services, including the impact on price and non-price features (such 
+as service inclusions, network quality, innovation, and customer service) and 
+whether TPG’s entry is likely to disrupt uniform national pricing     
+ 
+the extent to which data-only mobile offerings (mobile broadband services), such 
+as Belong’s initial offering, are a credible alternative to mobile phone services  
+ 
+the extent to which TPG will be an effective competitive constraint on other MNOs 
+if it is slow to roll out 5G services or does not roll out 5G services at all 
+Network coverage 
+ 
+the extent to which Vodafone’s mobile network is competitive with mobile networks 
+operated by Telstra and Optus, given differences in geographic coverage  
+ 
+the importance of, and extent to which there are, challenges for TPG securing a 
+domestic roaming agreement for regions not covered by its mobile network. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 23 of 34 
+Issue that may raise concerns: loss of potential 
+competition for wholesale mobile services  
+141. The ACCC’s preliminary view is that the proposed merger may substantially 
+lessen competition by removing TPG as a potential fourth wholesale mobile 
+services provider for MVNOs. This would result in increased prices and 
+decreased service levels for MVNOs, with a flow on effect to retail customers.  
+142. Currently, Telstra, Optus and Vodafone are the only providers of wholesale end-
+to-end mobile services. As at 2016, Optus had the largest share of the wholesale 
+MVNO market, with Telstra and Vodafone having significantly smaller shares of 
+the wholesale MVNO market compared to Optus. See the below table and figure 
+for a further breakdown of shares.  
+Figure 2: Mobile network operator market shares  
+ 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 24 of 34 
+Table 2: Market shares of wholesale mobile services by mobile network 
+operator in 2016 
+Mobile network 
+Market share 
+Telstra (includes Boost and ALDImobile) 
+44% 
+Optus (includes Virgin, Amaysim, Southern Phone, 
+Dodo, iPrimus, Exetel) 
+33% 
+Vodafone (includes Lebara, TPG, Internode, Westnet, 
+iinet and TransACT) 
+22% 
+Source: Data from the ACCC’s Communications Sector Market Study – Final Report 
+143. The ACCC considers the rollout of TPG’s mobile network may provide more 
+competition in the market for wholesale mobile services.  
+144. Wholesale mobile services are currently unregulated and market feedback has 
+indicated that MVNOs are in a weak position and are heavily reliant on MNOs to 
+offer reasonable prices and access terms.  
+145. Market feedback has indicated that TPG could offer another source of wholesale 
+mobile services. In the context of TPG’s intended 80 per cent population 
+coverage and data only mobile network, market feedback indicated that MVNOs 
+would consider TPG’s network to be an attractive option and that it would be 
+possible for them to use TPG’s network in some areas and use another MNO in 
+other areas.  
+146. Irrespective of whether TPG offered wholesale mobile services, market feedback 
+indicated that its entry as an MNO would have an indirect impact on wholesale 
+services as it would create additional network capacity, which MNOs would have 
+a commercial incentive to offer to MVNOs. Some market participants have 
+indicated the prospective entry of TPG as an MNO has already assisted MVNOs 
+in obtaining better prices and deals from existing MNOs.  
+147. Other market participants are sceptical of whether TPG’s mobile network will 
+provide enough coverage to offer MVNOs a viable product and provide a 
+competitive constraint on existing MNOs. The ACCC is also considering 
+whether, in the absence of TPG offering wholesale mobile services, its presence 
+at the retail level would exert a sufficient competitive constraint at the wholesale 
+level.  
+148. The ACCC is continuing to investigate the potential impact on the wholesale 
+mobile services market and the competitive constraint MVNOs impose on MNOs 
+in the retail mobile services market.  
+ACCC’s preliminary views 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 25 of 34 
+149. In summary, the ACCC is concerned that the removal of TPG as a potential 
+effective competitor for mobile services may result in higher prices and more 
+restrictive conditions for wholesale mobile services, than there would be in the 
+absence of the proposed merger  
+The ACCC invites comments from market participants on its concerns in relation to 
+wholesale mobile services.  In particular, market participants may wish to comment on 
+the following: 
+ 
+the extent to which MVNOs will be likely to acquire wholesale services from TPG, 
+given its plan to initially offer a data-only mobile services on a network that covers 
+densely populated areas only. In answering this question, you may wish to 
+comment on whether MVNOs would need to enter into a second roaming 
+agreement with another MNO and whether there are any limitations to this (e.g. 
+exclusivity provisions).  
+ 
+the extent to which TPG’s mobile network will increase competition in the supply of 
+wholesale mobile services offered by existing MNOs, including MVNOs’ access to 
+these services 
+ 
+whether TPG taking customers away from MNOs means it is more likely that 
+existing MNOs will have an increased incentive to offer wholesale access to their 
+networks to MVNOs. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 26 of 34 
+Issue that may raise concerns: the loss of competition for 
+retail fixed broadband services  
+150. The ACCC is considering whether the proposed merger will substantially lessen 
+competition by removing Vodafone as a future effective competitor for retail fixed 
+broadband services. This may result in higher prices or poorer quality of services 
+(including less data inclusions, slower connection speeds, less attractive multi-
+service bundles, and lower levels of customisation) for retail fixed broadband 
+than would have been the case without the proposed merger.  
+Current state of competition for retail fixed broadband services  
+151. The ACCC considers retail fixed broadband services to be a highly concentrated 
+market characterised by few large service providers with a large number of 
+smaller providers.  
+152. The four major providers in the supply of retail fixed broadband services are 
+Telstra, Optus, TPG and Vocus. Smaller providers include Aussie Broadband, 
+Exetel, MyRepublic, Foxtel, Southern Phone, Active8me, Skymesh and 
+MyNetFone. 
+153. Fixed broadband services can be delivered using a variety of networks, as 
+discussed in the industry background section. In Australia, the majority of retail 
+fixed broadband services are delivered on legacy copper and HFC networks and 
+on the NBN.  
+154. The legacy copper and HFC networks are currently being decommissioned and 
+replaced with the NBN. The supply of retail fixed broadband services is 
+transitioning to the NBN. There are currently around 177 NBN retail service 
+providers. 
+155. The market shares for retail fixed broadband services in 2016 are set out in 
+Table 3 and Figure 3. The ACCC understands market shares in retail fixed 
+broadband have been relatively stable over recent years. Table 3 shows that the 
+four major providers account for approximately 94 per cent of retail services on 
+the NBN compared to 97 per cent on legacy networks.22 
+ 
+                                                 
+ 
+22 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 35. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 27 of 34 
+Figure 3: Overall market shares for retail fixed broadband services in 
+2016  
+ 
+Table 3: Market shares for retail fixed broadband services in 2016  
+Retail service provider  
+Legacy  
+services 
+NBN services Overall 
+Telstra (including Belong) 
+51% 
+51% 
+51% 
+TPG Group (including TPG, iiNet and Internode) 22% 
+22% 
+22% 
+Optus 
+17% 
+15% 
+17% 
+Vocus Group (including Dodo and iPrimus) 
+6% 
+6% 
+6% 
+Others 
+3% 
+6% 
+4% 
+Source: Data from the ACCC’s Communications Sector Market Study – Final Report 
+156. The ACCC Communications Sector Market Study Final Report (Market Study) 
+found there to be both price and non-price competition in the highly concentrated 
+market for retail fixed broadband services. It found that there is currently strong 
+price competition, particularly for services on the NBN, with most providers 
+offering plans at similar price points (between $40 to $80 per month) across 
+different NBN speed tiers (including 12, 25, 50 and 100 Mbps). However, the 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 28 of 34 
+Market Study also noted that the NBN network is still being rolled out and is in a 
+key migration phase, so the current price competition may not be sustained in 
+the long term.23 
+157. Some providers seek to differentiate their offerings on non-price aspects, 
+including customisation options, bundling with entertainment and/or energy 
+services and multi-service offerings, such as retail fixed broadband and mobile 
+services.  
+158. TPG also supplies retail fixed broadband services using its own FTTB network. 
+TPG’s FTTB network enables download speeds up to 100Mbps, and competes 
+with the NBN and other non-NBN networks. TPG offers its retail FTTB 
+broadband services at lower prices compared to its NBN retail fixed broadband 
+services.24 We note that TPG’s FTTB services are typically only available in a 
+limited number of apartment buildings in metropolitan areas.25 
+                                                 
+ 
+23 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 24 
+24 TPG, NBN plans and FTTB Plans, viewed 20 November 2018.  
+25 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 34. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 29 of 34 
+Barriers to entry and expansion 
+159. The ACCC considers there are high barriers to expansion in the retail fixed 
+broadband market, including the ability to compete effectively with the major 
+service providers.  
+160. The transition to the NBN has reduced the barriers for new entrants (compared 
+to legacy networks), and seen a significant increase in the number of service 
+providers in the retail fixed broadband market. However, Telstra, TPG, Optus 
+and, to a lesser extent, Vocus, still account for the majority of retail customers on 
+the NBN. 
+161. Similar to retail mobile services, the ACCC considers brand recognition is key in 
+being able to grow a substantial customer base. The ACCC is continuing to 
+consider the extent to which brand recognition is a barrier for new entrants 
+achieving a sufficient customer base and competing with the major providers.  
+162. The retail fixed broadband market is also characterised by customer stickiness 
+and limited churn between service providers. For example, as reported in the 
+Market Study, in 2016 only seven per cent of Australian households switched 
+their fixed broadband service provider in the previous 12 months. When 
+consumers did switch, their movement was predominantly between the large 
+service providers.26 As a result, it may be difficult for new entrants or smaller 
+service providers to attract customers and grow their market share.   
+163. The ACCC understands that NBN wholesale access prices may also act as a 
+barrier to expansion given the price model benefits those with economies of 
+scale. As a result, the major providers may have a competitive advantage in the 
+supply of retail fixed broadband services on the NBN.  
+164. Service providers can either purchase NBN wholesale access services directly 
+from NBN Co, or they can purchase NBN wholesale aggregation services from 
+the large service providers, Telstra, Optus, TPG and Vocus, as well as 
+MyNetFone Group and Aussie Broadband.27 
+165. The ACCC considers that service providers with a direct connection to the NBN 
+have a greater ability to supply differentiated services, giving them a competitive 
+advantage.28 Furthermore, the ACCC understands that the margins available to 
+NBN resellers who acquire wholesale aggregation services are typically very 
+low. In this regard, Amaysim, a purchaser of NBN wholesale aggregation 
+services, has recently exited the retail fixed broadband market after 18 months. 
+The ACCC is continuing to consider the potential barriers to entry and expansion 
+in the market for retail fixed broadband services.  
+166. The ACCC considers Vodafone is better-placed to overcome the barriers to 
+expansion than other new entrants or smaller providers due to its substantial 
+existing retail mobile customer base, high level of brand recognition, established 
+call centres and billing capabilities, nationwide retail store presence, and the 
+                                                 
+ 
+26 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 120. 
+27 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 55 
+28 ACCC, ‘Communications Sector Market Study – final report’, April 2018, p. 57 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 30 of 34 
+ability to differentiate its offerings, such as through its hybrid NBN modem with 
+4G mobile back up. This is discussed further below. 
+Removal of Vodafone as a potential effective competitor for retail fixed 
+broadband services  
+167. The ACCC is considering whether the proposed merger would likely lead to the 
+loss of a significant potential competitor for retail fixed broadband services. The 
+ACCC is considering whether, in the absence of the proposed merger, Vodafone 
+will continue to expand its presence in the supply of retail fixed broadband 
+services, and therefore become an effective competitive constraint on the four 
+major providers. In particular, the ACCC is considering whether Vodafone has 
+the ability to become a long-term viable, effective and sustainable retail fixed 
+broadband (and mobile) service provider.   
+168. As noted above, on 4 December 2017, Vodafone announced its first NBN retail 
+fixed broadband offering.29 The ACCC understand that as at 13 August 2018, 
+Vodafone was connected to 91 of the 121 NBN Points of Interconnection and 
+purchases access directly from NBN Co, offering retail NBN broadband services 
+in metropolitan areas including Sydney, Canberra, Melbourne, Geelong, 
+Wollongong and Newcastle. Vodafone has started to grow its NBN subscriber 
+base and appears to be well-positioned to gain market share as the NBN rollout 
+continues.  
+169. The ACCC is considering whether Vodafone will compete effectively on price in 
+the market for retail fixed broadband services. In August 2018, Vodafone 
+lowered its retail fixed broadband prices in line with TPG’s at the cheaper end of 
+the retail fixed broadband services market. The ACCC has observed that 
+Vodafone has been aggressive in its pricing and marketing strategies to try to 
+grow its retail fixed broadband customer base on the NBN. 
+170. For example, when Vodafone launched its NBN product, it offered three months’ 
+free plan fees for eligible customers connecting to 24 month plans.30 This 
+illustrates that Vodafone has adopted an aggressive competitive strategy to seek 
+to win customers from competitors and establish a sustainable retail fixed 
+broadband customer base. The ACCC is continuing to consider the level of 
+competitive constraint Vodafone will place on the major providers in the retail 
+fixed broadband market.  
+171. Vodafone is able to differentiate its product from most other retail fixed 
+broadband providers because it is also an MNO. In particular, Vodafone has the 
+ability to provide competitive multi-service fixed and mobile bundles unlike most 
+of its competitors. Vodafone is offering savings of 15 to 20 per cent when 
+customers bundle eligible plans under one account. For example, bundling two 
+plans will save a customer 5 per cent on the combined bundle price. The ACCC 
+is continuing to consider the importance of fixed and mobile bundles or 
+discounts, and their impact on the competitive dynamics in the retail fixed 
+broadband market. 
+                                                 
+ 
+29 Vodafone, Vodafone nbn launches in Sydney, Canberra, Melbourne, Geelong & Newcastle, 4 December 2017, 
+https://www.vodafone.com.au/media/vodafone-nbn-launches. 
+30 Vodafone, Vodafone nbn launches in Sydney, Canberra, Melbourne, Geelong & Newcastle, 4 December 2017, 
+https://www.vodafone.com.au/media/vodafone-nbn-launches. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 31 of 34 
+172. The ACCC is considering whether Vodafone will act as an effective competitor in 
+the retail fixed broadband services market. In Vodafone’s NBN announcement it 
+stated: “Vodafone nbn™ is taking the lead in the customer experience, offering 
+unlimited broadband data and a unique set of initiatives designed to make the 
+nbn™ process simple and fair”.31 The ACCC considers Vodafone has already 
+shown its potential competitive behaviour by offering a hybrid modem for its NBN 
+product that switches to Vodafone’s 4G network as back up when there are NBN 
+outages. Vodafone’s Chief Executive Officer, Inaki Berroeta, has stated that he 
+is “proud of the Vodafone nbn™ product which will deliver a converged internet 
+experience”.32 Telstra also offers a similar hybrid modem with 4G mobile 
+backup.  
+173. Vodafone is also well-placed to offer content and entertainment services in 
+conjunction with its retail fixed broadband offerings. In March 2018, Vodafone 
+announced a partnership with Netflix and unveiled Vodafone TV, its first-ever 
+streaming media device.33 Vodafone offered customers a complimentary pre-
+paid 12-month standard subscription to Netflix on two of its NBN plans.  
+174. The ACCC considers Vodafone is in a better position compared to other new 
+entrants to expand its retail fixed broadband market share to compete with the 
+established larger providers. As noted above, Vodafone is a global, well-
+recognised brand. Vodafone has a strong bricks and mortar retail presence for 
+mobile services that it can leverage in expanding its retail fixed broadband 
+presence. Vodafone also has a substantial mobile customer base that it is able 
+to cross-sell retail fixed broadband services.  
+175. Market feedback has indicated Vodafone’s and Telstra’s innovative 4G backup 
+service offer for their retail NBN services has given them a competitive 
+advantage. Market feedback has also identified Vodafone’s ability to offer multi-
+service bundles on its own network to be a competitive advantage over other 
+competitors as it cannot be replicated by other providers, apart from Telstra and 
+Optus to date.  
+176. The ACCC is continuing to consider whether Vodafone is likely to be an effective 
+competitor and therefore able to provide an effective constraint on the major 
+retail fixed broadband service providers going forward.  
+ACCC’s preliminary views 
+177. In summary, the ACCC is considering whether the removal of Vodafone as a 
+potential effective competitor in the supply of retail fixed broadband services may 
+result in:  
+ 
+higher prices for retail fixed broadband services, and/or  
+ 
+lower quality services including lower data inclusions or poorer performance. 
+                                                 
+ 
+31 Vodafone, Vodafone nbn launches in Sydney, Canberra, Melbourne, Geelong & Newcastle, 4 December 2017, 
+https://www.vodafone.com.au/media/vodafone-nbn-launches. 
+32 Vodafone, Vodafone nbn launches in Sydney, Canberra, Melbourne, Geelong & Newcastle, 4 December 2017, 
+https://www.vodafone.com.au/media/vodafone-nbn-launches. 
+33 Vodafone, Vodafone hits play with Netflix and fast forwards rollout of nbn, 28 March 2018.  
+https://www.vodafone.com.au/media/vodafone-hits-play-with-netflix-and-fast-forwards-rollout-of-nbn. 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 32 of 34 
+The ACCC invites comments from market participants on its concerns in relation to the 
+loss of Vodafone as the fifth major service provider in the market for retail fixed 
+broadband services.  In particular, market participants may wish to comment on the 
+following: 
+ 
+the key aspects of their offerings on which retail fixed broadband service providers 
+compete (for example, but not limited to, price, internet speed, bricks and mortar 
+stores, brand recognition, ability to provide multi-service bundles etc.) 
+ 
+how Vodafone is placed with regard to the key competitive factors identified above 
+ 
+whether the key competitive factors in competing in the market for retail fixed 
+broadband services are likely to change in the near future  
+ 
+the key barriers to entry or expansion 
+ 
+whether the NBN has reduced the barriers to entry or expansion 
+ 
+the most effective ways, and the ability of NBN resellers, to provide differentiated 
+offerings in the retail fixed broadband services market in light of the current 
+wholesale pricing structure and retail fixed broadband environment. Please 
+indicate in your response whether this differs according to whether NBN resellers 
+acquire NBN access services directly from NBN Co or from a supplier of NBN 
+wholesale aggregation services. 
+Issue that may raise concerns: loss of competitive tension 
+in a market for retail home broadband services in the 
+longer term 
+178. The ACCC is concerned that the proposed merger may substantially lessen 
+competition in a future market for retail home broadband services, particularly 
+after the rollout of 5G mobile technology.  
+179. The ACCC’s Communications Sector Market Study noted that there is currently 
+some substitution between fixed and mobile broadband services, typically 
+amongst consumers who require small data inclusions. At present, consumers 
+typically have a fixed broadband service as their primary home broadband 
+service as these services are considered to be more reliable and better value for 
+money with larger data inclusions. Some consumers may supplement this 
+primary service with a mobile broadband service.  
+180. In the future, particularly after the roll-out of 5G mobile technology, mobile 
+networks are likely to be increasingly used to supply retail home broadband 
+services. 5G mobile networks will be able to offer faster speeds than existing 
+legacy copper fixed line networks and comparable speeds to next generation 
+fibre networks, such as the NBN. As a result, retail fixed broadband service 
+providers and mobile service providers, particularly the MNOs, may increasingly 
+compete for the same consumers of home broadband services.  
+181. There is significant structural change with the transition from Telstra’s copper 
+network to the NBN. In the ACCC’s Communications Sector Market Study, 
+industry stakeholders raised a number of issues in relation to the NBN, including 
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 33 of 34 
+concerns about the cost of NBN wholesale access services, and their long term 
+commercial viability.   
+182. As a result of these concerns, the ACCC understands that some retail fixed 
+broadband service providers are looking at different ways to deliver broadband 
+services to homes, rather than using the NBN.  
+183. In particular, those service providers who have their own mobile network will be 
+able to offer consumers the choice of a fixed or mobile broadband service that 
+can be used in the home. These service providers may have greater incentives 
+to steer their customers towards a mobile broadband service (rather than an 
+NBN service) if it is more cost effective to do so. In turn, as more attractive 
+mobile broadband services become available, there may be an acceleration of 
+consumer substitution from fixed to mobile broadband services.  
+184. The ACCC is considering whether these technological advancements, changing 
+consumer preferences and NBN wholesale access prices could change the 
+competitive dynamics such that the relevant product market in the next 3 to 5 
+years could comprise a market for the supply of home broadband services (over 
+either a mobile network, or a fixed network such as the NBN).  
+185. The potential for substitution from fixed to mobile broadband for home 
+broadband services will likely be greater for consumers in metropolitan areas, as 
+they may have better access to 5G mobile services. The ACCC is therefore 
+considering whether the geographic scope of the potential relevant market for 
+the supply of home broadband services should be limited to metropolitan areas.  
+186. The ACCC considers that the barriers to entry into the home broadband services 
+market will be high, as they are broadly similar to those for mobile and fixed 
+broadband services markets (as outlined in paragraphs 122-124 and 159-166 
+above). However, they may differ according to the network used to provide the 
+home broadband service.   
+187. The ACCC considers that the barriers to entry and expansion currently faced by 
+prospective MNOs are unlikely to change significantly once 5G mobile 
+technology becomes widely available.  
+188. Barriers to entry may increase for new MNO entrants seeking to deploy a 5G 
+mobile network as they will need to build a dense network of small cell 
+infrastructure to achieve reasonable coverage and support high data traffic. 
+Dense small cell networks are costly and community opposition to small cell 
+rollout can cause delays, additional costs, and potentially damage brand 
+reputation. 
+189. In a future retail home broadband services market, MNOs will increasingly 
+compete against retail fixed broadband service providers to deliver home 
+broadband services to consumers.   
+190. The ACCC considers that absent the merger, the likely key competitors in any 
+home broadband services market would be Telstra, Optus, Vodafone, TPG, and 
+Vocus. Smaller fixed retail service providers and MVNOs are also likely to 
+compete in this market, however, consistent with previous considerations and 
+current market dynamics, the ACCC’s preliminary view is that these service 
+providers may not provide a significant competitive constraint on the larger 
+service providers.  
+
+
+TPG Telecom Limited – proposed merger with Vodafone Hutchison Australia 
+ 
+Page 34 of 34 
+191. In a future home broadband services market, Vocus will be the only key market 
+participant without its own mobile network. Vocus will likely continue to offer NBN 
+broadband services.  
+192. The ACCC is considering whether, absent the proposed merger, Vodafone and 
+TPG would be strong competitors in a future retail home broadband services 
+market.  
+The ACCC invites comments from market participants on the above issues.  In 
+particular, market participants may wish to comment on the following: 
+ 
+the extent to which mobile broadband services can currently be used for retail 
+home broadband services instead of fixed broadband service 
+ 
+whether there are any barriers to significantly increasing the amount of data on the 
+4G network that would limit its effectiveness for widespread use for home 
+broadband services 
+ 
+whether or not the rollout of 5G mobile technology will lead to an increase in 
+mobile broadband being used for home broadband services instead of fixed 
+broadband services 
+ 
+how the barriers to entry to a market for the supply of home broadband services 
+are likely to compare to current barriers to entry to fixed broadband and mobile 
+broadband services markets 
+ 
+the ability of telecommunications providers without their own mobile network to 
+compete effectively in a market for home broadband services 
+ 
+whether any impact of the rollout of 5G on the market for home broadband 
+services is likely to be confined to metropolitan areas, or extend to regional areas. 
+ACCC's future steps 
+193. As noted above, the ACCC now seeks submissions from market participants on 
+each of the issues identified in this Statement of Issues and on any other issue 
+that may be relevant to the ACCC's assessment of this matter. Submissions are 
+to be received by the ACCC no later than 5pm on 18 January 2019 and should 
+be emailed to TPG-Vodafone-Mergers@accc.gov.au. 
+194. The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+195. The ACCC intends to publicly announce its final view by 28 March 2019. 
+However the anticipated timeline may change in line with the Informal Merger 
+Review Process Guidelines. A Public Competition Assessment for the purpose 
+of explaining the ACCC's final view may be published following the ACCC's 
+public announcement to explain its final view. 

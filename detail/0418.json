@@ -1,0 +1,64 @@
+{
+  "id": "0418",
+  "title": "Seven Group Holdings Limited - proposed acquisition of Consolidated Media Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-group-holdings-limited-proposed-acquisition-of-consolidated-media-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49134",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "11 October 2012",
+  "date_completed_iso": "2012-10-11T12:00:00Z",
+  "date_commenced": "22 June 2012",
+  "date_commenced_iso": "2012-06-22T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "Seven Group Holdings Limited"
+  ],
+  "targets": [
+    "Consolidated Media Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jun 2012",
+      "date_iso": "2012-06-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jul 2012",
+      "date_iso": "2012-07-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Jul 2012",
+      "date_iso": "2012-07-24T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 2 August 2012 delayed to allow provision of requested information."
+    },
+    {
+      "date": "24 Aug 2012",
+      "date_iso": "2012-08-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Sep 2012",
+      "date_iso": "2012-09-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Sep 2012",
+      "date_iso": "2012-09-27T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Oct 2012",
+      "date_iso": "2012-10-11T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Seven informed the ACCC that it was actively considering acquiring further shares in CMH and asked the ACCC to review a proposal for an acquisition of all of the shares in CMH which it does not currently own. Following a public review, on 11 October 2012 the ACCC announced that it would oppose the acquisition. Reasons for the ACCC's decision in regards to the proposed acquisiton are in the Public Competition Assessment attached below.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

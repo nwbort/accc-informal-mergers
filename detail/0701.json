@@ -1,0 +1,74 @@
+{
+  "id": "0701",
+  "title": "Schering-Plough Corporation and Merck & Co Inc - proposed merger between international pharmaceutical manufacturers",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/schering-plough-corporation-and-merck-co-inc-proposed-merger-between-international-pharmaceutical-manufacturers",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36866",
+  "industries": [
+    "Human and animal healthcare products"
+  ],
+  "date_completed": "14 October 2009",
+  "date_completed_iso": "2009-10-14T12:00:00Z",
+  "date_commenced": "19 May 2009",
+  "date_commenced_iso": "2009-05-19T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Schering-Plough Corporation"
+  ],
+  "targets": [
+    "Merck & Co Inc"
+  ],
+  "timeline": [
+    {
+      "date": "19 May 2009",
+      "date_iso": "2009-05-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2009",
+      "date_iso": "2009-06-03T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "9 Jun 2009",
+      "date_iso": "2009-06-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Jul 2009",
+      "date_iso": "2009-07-08T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Jul 2009",
+      "date_iso": "2009-07-13T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "21 Jul 2009",
+      "date_iso": "2009-07-21T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of information requested from the merger parties."
+    },
+    {
+      "date": "21 Sep 2009",
+      "date_iso": "2009-09-21T12:00:00Z",
+      "event": "ACCC received requested information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "14 Oct 2009",
+      "date_iso": "2009-10-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to court enforceable undertaking offered by the merger parties."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC requested further information from the merger parties during this review, resulting in the timeline being suspended for 56 business days."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Schering-Plough Corporation (Schering-Plough) proposed to acquire Merck & Co (Merck). Both Merck and Schering-Plough compete in human health markets. Schering-Plough operates its animal health business in Australia through its subsidiary Intervet Australia Pty Ltd. Prior to completion of the ACCC's review of the proposed acquisition, Merck sold its interest in its animal health business Merial to its joint venture partner, sanofi-aventis. With the sale of Merck's interest in Merial, there is currently no overlap between Merck and Schering-Plough in any animal health market. However, Merck, Schering-Plough and sanofi-aventis entered into a call option agreement which gives sanofi-aventis the option to combine Merial with Schering-Plough's animal health business. This call option is not exercisable until after Schering-Plough completes its acquisition of Merck.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of national markets for the manufacture and supply of the following products: - systemic anti-fungal treatments; - hypertension treatments, classified as ACE inhibitors and Angiotensin II receptor antagonists; - lipid management medications, including combination lipid regulators; - long term asthma treatments; - allergic rhinitis treatments; - arthritis treatments; - HIV/AIDS treatments; and - sarcoma treatments. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a concluded view regarding the market definition for human health markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not result in a substantial lessening of competition in any human health market as the products supplied by the parties are largely complementary and are not each other's closest substitutes. Further, the merged entity will continue to be constrained by existing competitors. Prior to Merck's sale of its interest in Merial, the ACCC had expressed concerns that Schering-Plough's acquisition of Merck may result, or be likely to result, in a substantial lessening of competition in an animal health market in Australia. The ACCC considered that the exercise of the call option agreement by sanofi-aventis, which would see the Merial and Intervet Schering-Plough animal health businesses combine, may raise similar competition concerns in relation to animal health to those raised by Schering-Plough's proposed acquisition of Merck (prior to Merck's sale of its interest in Merial). On this basis, Merck and Schering-Plough have offered a court enforceable undertaking that they will not complete the call option agreement until the ACCC is satisfied that the transaction will not raise competition concerns in Australia."
+  }
+}

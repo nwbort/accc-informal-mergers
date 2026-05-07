@@ -1,0 +1,31 @@
+{
+  "id": "1567",
+  "title": "Acquirer: Liquorland (Australia) Pty Ltd; Target: Theo's Liquor",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-liquorland-australia-pty-ltd-target-theos-liquor",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16840",
+  "industries": [],
+  "date_completed": "3 April 2003",
+  "date_completed_iso": "2003-04-03T12:00:00Z",
+  "date_commenced": "16 October 2002",
+  "date_commenced_iso": "2002-10-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Liquorland (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Theo's Liquor"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Coles Myer, through its wholly owned subsidiary, Liquorland, has entered in to an agreement to acquire 49 liquor stores and hotels in NSW and ACT which variously trade under the title \"Theo's\", 'Crown of the Hill\", and \"David Farmer\".",
+    "Market definition": "The retail sale of packaged liquor for off-premises consumption in metropolitan Sydney and regional areas of NSW including the central coast.",
+    "Competition analysis": "Liquorland, a fully owned subsidiary of Coles Myer, has approximately 263 retail liquor stores in NSW.  These stores operate under the Liquorland, Vintage Cellars and Quaffers brands. The NSW operations of Theo's Liquor are predominantly located in the Sydney metropolitan area, in Newcastle and on the central coast. Post acquisition, Liquorland will have market share figures below the ACCC Merger Guideline thresholds. Information obtained from market participants indicated that the removal of the Theo's Liquor outlets as an independent force was not likely to lead to a substantial lessening of competition in any relevant markets. Woolworths remains Liquorland's largest competitor in liquor retailing.  In addition, a substantial proportion of retail sales for off-premises consumption in NSW remains in the hands of the independent sector and this sector, along with Woolworths, will continue to act as a competitive constraint on the merged entity.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "5123"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0413",
+  "title": "Aspen Global Incorporated - proposed acquisition of pharmaceutical product portfolio from GlaxoSmithKline",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aspen-global-incorporated-proposed-acquisition-of-pharmaceutical-product-portfolio-from-glaxosmithkline",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49482",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "7 November 2012",
+  "date_completed_iso": "2012-11-07T12:00:00Z",
+  "date_commenced": "21 August 2012",
+  "date_commenced_iso": "2012-08-21T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "Aspen Global Incorporated"
+  ],
+  "targets": [
+    "GlaxoSmithKline (GSK)"
+  ],
+  "timeline": [
+    {
+      "date": "21 Aug 2012",
+      "date_iso": "2012-08-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Sep 2012",
+      "date_iso": "2012-09-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Sep 2012",
+      "date_iso": "2012-09-18T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 27 September 2012 delayed to allow provision of requested information."
+    },
+    {
+      "date": "18 Oct 2012",
+      "date_iso": "2012-10-18T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Nov 2012",
+      "date_iso": "2012-11-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aspen Global Incorporated proposed to acquire a portfolio of 25 pharmaceutical products from GlaxoSmithKline.",
+    "Market definition": "With the exception of the two product listed below, the ACCC assessed the competitive effects of the proposed acquisition in the context of national markets for the supply of each drug, identified according to the active ingredient (molecule) of the relevant drug. In relation to Injectible Amoxil (active ingredient amoxicillin) and Imigran (active ingredient sumatriptan), the ACCC considered it appropriate to assess the competitive effects of the acquisition in markets broader than their active ingredient: (i)\tinjectible broad spectrum penicillins; and (ii)\tanti-migraine triptans.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Factors informing this view included: (i) the merged firm would continue to face a strong competitive constraint from alternative suppliers of generic ondansetron, injectible broad spectrum penicillins, anti-migraine triptans and ropinirole. In relation to ropinirole, in addition to existing suppliers of ropinirole, such as Ranbaxy's Ropaccord product, there are also a number of potential new entrants including manufacturers that have registered ropinirole products with the Therapeutic Goods Administration. The ability of these suppliers to enter the market in response to any price rise would likely constrain the ability of the merged entity to increase prices; and (ii) the merger parties' mesalazine and lithium products did not compete closely given their different product presentations."
+  }
+}

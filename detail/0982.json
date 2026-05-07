@@ -1,0 +1,28 @@
+{
+  "id": "0982",
+  "title": "Sale of Hobart International Airport Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sale-of-hobart-international-airport-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28837",
+  "industries": [
+    "Airport"
+  ],
+  "date_completed": "9 January 2008",
+  "date_completed_iso": "2008-01-09T12:00:00Z",
+  "date_commenced": "13 December 2007",
+  "date_commenced_iso": "2007-12-13T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Tasmanian Gateway Consortium"
+  ],
+  "targets": [
+    "Hobart Airport"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "As part of the 2007-08 state budget announced on 7 June 2007, the Tasmanian Government decided to sell Hobart International Airport Pty Limited, a subsidiary of the Tasmanian Ports Corporation Pty Limited. The successful bidder was the Tasmanian Gateway Consortium.",
+    "Market definition": "The ACCC did not consider it necessary to form a view in relation to market definition.",
+    "Competition analysis": "The ACCC did not consider that the acquisition would be likely to give rise to any competition issues."
+  }
+}

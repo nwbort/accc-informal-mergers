@@ -1,0 +1,44 @@
+{
+  "id": "1202",
+  "title": "Lion Nathan Limited - proposed acquisition of Independent Distillers Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lion-nathan-limited-proposed-acquisition-of-independent-distillers-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24720",
+  "industries": [
+    "Alcoholic beverages"
+  ],
+  "date_completed": "26 October 2006",
+  "date_completed_iso": "2006-10-26T12:00:00Z",
+  "date_commenced": "19 September 2006",
+  "date_commenced_iso": "2006-09-19T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Lion Nathan Limited"
+  ],
+  "targets": [
+    "Independent Distillers Group"
+  ],
+  "timeline": [
+    {
+      "date": "19 Sep 2006",
+      "date_iso": "2006-09-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "10 Oct 2006",
+      "date_iso": "2006-10-10T12:00:00Z",
+      "event": "Market inquiries closed."
+    },
+    {
+      "date": "26 Oct 2006",
+      "date_iso": "2006-10-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lion Nathan Limited - proposed acquisition of Independent Distillers Group's Australian operations.",
+    "Market definition": "The ACCC adopted narrow markets to assess the proposed acquisition, these being the separate national markets for the production and wholesale supply of (i) each relevant category of spirits (e.g rum, scotch, vodka etc); (ii) beer; and (iii) ready to drink alcoholic beverages (RTDs). In adopting these narrow markets, the ACCC considered that if competition concerns did not arise in these markets then they were unlikely to arise in broader markets.",
+    "Competition analysis": "1. Spirits Post acquisition, Lion Nathan would have gained a minimal, if any, increase in market share in any spirits market. Consequently, the ACCC concluded that competition concerns did not arise in the markets for any relevant category of spirits. 2. Beer In the national beer market, Lion Nathan would have gained a minimal increase in market share. However, given the likelihood of Foster's ability to constrain Lion Nathan, the ACCC considered that competition concerns did not arise in the national beer market. 3. RTDs The proposed acquisition would only marginally change market concentration in the RTD market. Further, given the presence of several significant suppliers of RTDs in Australia, for example, Diageo, Maxxium and Foster's and the dynamism and likely continuing growth of the RTD market, the ACCC concluded that competition concerns would not arise in the national RTD market."
+  }
+}

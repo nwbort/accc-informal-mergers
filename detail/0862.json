@@ -1,0 +1,43 @@
+{
+  "id": "0862",
+  "title": "The Hospitals Contribution Fund of Australia Limited (HCF) - proposed acquisition of Manchester Unity Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-hospitals-contribution-fund-of-australia-limited-hcf-proposed-acquisition-of-manchester-unity-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33913",
+  "industries": [
+    "Private health insurance"
+  ],
+  "date_completed": "23 September 2008",
+  "date_completed_iso": "2008-09-23T12:00:00Z",
+  "date_commenced": "8 September 2008",
+  "date_commenced_iso": "2008-09-08T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "The Hospitals Contribution Fund of Australia Limited (HCF)"
+  ],
+  "targets": [
+    "Manchester Unity Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Sep 2008",
+      "date_iso": "2008-09-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Sep 2008",
+      "date_iso": "2008-09-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Sep 2008",
+      "date_iso": "2008-09-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the relevant markets to be: - state-based markets for the supply of private health insurance (PHI) to consumers; and - local, regional or state/territory based markets for the acquisition of services from private hospitals by PHI providers.",
+    "Competition analysis": "The ACCC considered the proposed acquisition unlikely to give rise to a substantial lessening of competition in any relevant market given: - the relatively small change in market structure arising from the proposed acquisition; and - the existence of alternative significant suppliers."
+  }
+}

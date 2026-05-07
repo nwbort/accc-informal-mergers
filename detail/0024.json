@@ -1,0 +1,64 @@
+{
+  "id": "0024",
+  "title": "Allianz Australia Insurance Limited – RAA Insurance Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/allianz-australia-insurance-limited-%E2%80%93-raa-insurance-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "12 June 2025",
+  "date_completed_iso": "2025-06-12T12:00:00Z",
+  "date_commenced": "31 January 2025",
+  "date_commenced_iso": "2025-01-31T12:00:00Z",
+  "total_review_days": 94,
+  "acquirers": [
+    "Allianz Australia Insurance Limited"
+  ],
+  "targets": [
+    "Royal Automobile Association of South Australia's general insurance business"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jan 2025",
+      "date_iso": "2025-01-31T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2025",
+      "date_iso": "2025-02-14T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "7 Apr 2025",
+      "date_iso": "2025-04-07T12:00:00Z",
+      "event": "ACCC is seeking further information from the merger parties. Former provisional date for announcement of ACCC's findings (24 April 2025) is delayed."
+    },
+    {
+      "date": "24 Apr 2025",
+      "date_iso": "2025-04-24T12:00:00Z",
+      "event": "ACCC received further information from Allianz and RAAI. Timeline recommenced."
+    },
+    {
+      "date": "14 May 2025",
+      "date_iso": "2025-05-14T12:00:00Z",
+      "event": "ACCC is seeking further information from RAAI. Former provisional date for announcement of ACCC's findings (22 May 2025) is delayed."
+    },
+    {
+      "date": "26 May 2025",
+      "date_iso": "2025-05-26T12:00:00Z",
+      "event": "ACCC received further information from RAAI. Timeline recommenced."
+    },
+    {
+      "date": "12 Jun 2025",
+      "date_iso": "2025-06-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Allianz Australia Insurance Limited ( Allianz ) proposes to acquire RAA Insurance Holdings Limited and its subsidiary RAA Insurance Limited (together, RAAI ) from Royal Automobile Association of South Australia Incorporated ( RAA ) and enter into a 20-year agreement for RAA to exclusively distribute Allianz and RAAI underwritten insurance products. Allianz Group is a global insurance service provider. Allianz offers a range of insurance products to customers in Australia. Allianz distributes general insurance products (including home, contents and motor insurance) directly to customers in Australia through its call centres and website, as well as through distribution arrangements with partners such as brokers, financial institutions and motor vehicle dealers. RAA is an Australian-based, member-owned organisation that offers roadside assistance products, general insurance products, and other ancillary services to its members. RAAI underwrites home, contents and motor insurance. All of RAAI's products are distributed through the RAA network via call centres, physical branches (all of which are located in South Australia) and the RAA website. The proposed acquisition does not include RAA's membership-based business, which includes its roadside assistance business. Allianz and RAAI overlap in the supply of personal lines general insurance, including home, contents and motor insurance.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on: the supply of home and contents insurance in South Australia ( SA ) and Australia the supply of motor insurance in SA and Australia the acquisition of repair services (smash repair services, windscreen repair and replacement services, and home repair services) in SA and Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of each market.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any market. In relation to the supply of home and contents insurance and motor insurance, the ACCC found that post acquisition there would remain a number of both established and mid-tier insurance suppliers who would provide effective competition to the merged firm in South Australia and more broadly. The ACCC’s analysis also showed that while RAAI has a strong brand reputation, competition in terms of price and policy coverage is being driven by other insurers. The ACCC also considered the impact of rising regulatory, compliance and reinsurance costs on RAAI. The ACCC found that RAAI is facing specific challenges in relation to these costs meaning that it is unlikely to be as competitive as it has been previously. In relation to the acquisition of repair services, the ACCC found that the proposed acquisition is unlikely to substantially lessen competition in these markets as Allianz is unlikely to have the ability to diminish prices or supply terms after the acquisition due to its position in the market relative to other insurers and acquirers of these services."
+  }
+}

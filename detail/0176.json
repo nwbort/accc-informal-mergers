@@ -1,0 +1,69 @@
+{
+  "id": "0176",
+  "title": "Landmark - proposed acquisition of Ruralco",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/landmark-proposed-acquisition-of-ruralco",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Agriculture"
+  ],
+  "date_completed": "22 August 2019",
+  "date_completed_iso": "2019-08-22T12:00:00Z",
+  "date_commenced": "22 March 2019",
+  "date_commenced_iso": "2019-03-22T12:00:00Z",
+  "total_review_days": 104,
+  "acquirers": [
+    "Landmark"
+  ],
+  "targets": [
+    "Ruralco"
+  ],
+  "timeline": [
+    {
+      "date": "22 Mar 2019",
+      "date_iso": "2019-03-22T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Apr 2019",
+      "date_iso": "2019-04-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jun 2019",
+      "date_iso": "2019-06-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Jun 2019",
+      "date_iso": "2019-06-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties in response to the Statement of Issues."
+    },
+    {
+      "date": "29 Jul 2019",
+      "date_iso": "2019-07-29T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking."
+    },
+    {
+      "date": "5 Aug 2019",
+      "date_iso": "2019-08-05T12:00:00Z",
+      "event": "Closing date for submission relating to the draft proposed divestment undertaking."
+    },
+    {
+      "date": "7 Aug 2019",
+      "date_iso": "2019-08-07T12:00:00Z",
+      "event": "Former provisional date for announcement of decision (15th August) is delayed to allow the ACCC further time to consider feedback received and the proposed s87B undertaking."
+    },
+    {
+      "date": "22 Aug 2019",
+      "date_iso": "2019-08-22T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nutrien (through its Australian business Landmark) proposes to acquire Ruralco. Landmark and Ruralco both provide a range of products and services to the agriculture industry across Australia.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1475",
+  "title": "Acquirer: Pacific National Pty Ltd; Target: Freight Victoria Limited (trading as Freight Australia)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pacific-national-pty-ltd-target-freight-victoria-limited-trading-as-freight-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18326",
+  "industries": [],
+  "date_completed": "30 June 2004",
+  "date_completed_iso": "2004-06-30T12:00:00Z",
+  "date_commenced": "10 September 2003",
+  "date_commenced_iso": "2003-09-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pacific National Pty Ltd"
+  ],
+  "targets": [
+    "Freight Victoria Limited (trading as Freight Australia)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Pacific National Pty Ltd approached the Commission seeking informal clearance for the acquisition of Freight Australia.  The Commission accepted undertakings from Pacific National in relation to the track at the entrance to Somerton rail terminal in Melbourne and in relation to the contracts between Freight Australia and Specialized Container Transport (SCT).",
+    "Market definition": "The Commission considered that there were most likely 3 key relevant markets: 1) inter-modal rail line haul between the eastern States and Perth; 2) freight tasks in the eastern States where road is price competitive; and 3) a national market for rail haul tasks for which road is not price competitive.",
+    "Competition analysis": "A detailed Public Competition Assessment has been published on the ACCC's website.",
+    "Resolution": "Undertakings",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "6200"
+  }
+}

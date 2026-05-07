@@ -1,0 +1,31 @@
+{
+  "id": "1642",
+  "title": "Acquirer: Instrumentarium Corporation; Target: Spacelabs Medical Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-instrumentarium-corporation-target-spacelabs-medical-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15960",
+  "industries": [],
+  "date_completed": "18 June 2002",
+  "date_completed_iso": "2002-06-18T12:00:00Z",
+  "date_commenced": "10 May 2002",
+  "date_commenced_iso": "2002-05-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Instrumentarium Corporation"
+  ],
+  "targets": [
+    "Spacelabs Medical Inc"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Spacelabs Medical Inc. by Instrumentarium Corporation.",
+    "Market definition": "The Commission considered the relevant market to be the national market for the supply of patient monitoring systems.",
+    "Competition analysis": "In the national market for the supply of patient monitoring equipment, the proposed acquisition would exceed the Commission's market concentration thresholds. The following factors appear to indicate that the proposed acquisition is unlikely to substantially lessen competition in the relevant market: -barriers to entry by overseas suppliers and expansion by existing domestic competitors appear to be low; -acquisitions of patient monitoring equipment are usually made via a competitive tender process; and -there are a number of alternative suppliers of patient monitoring equipment that customers could turn.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2832"
+  }
+}

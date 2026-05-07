@@ -1,0 +1,89 @@
+{
+  "id": "0042",
+  "title": "Sigma Healthcare - Chemist Warehouse Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sigma-healthcare-chemist-warehouse-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Pharmaceutical"
+  ],
+  "date_completed": "7 November 2024",
+  "date_completed_iso": "2024-11-07T12:00:00Z",
+  "date_commenced": "8 March 2024",
+  "date_commenced_iso": "2024-03-08T12:00:00Z",
+  "total_review_days": 145,
+  "acquirers": [
+    "Sigma Healthcare Limited"
+  ],
+  "targets": [
+    "CW Group Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Mar 2024",
+      "date_iso": "2024-03-08T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines, following receipt of a submission on 16 February 2024, and additional information from the parties (that the ACCC considered necessary to commence its review) on 6 March 2024."
+    },
+    {
+      "date": "28 Mar 2024",
+      "date_iso": "2024-03-28T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "13 Jun 2024",
+      "date_iso": "2024-06-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "13 Jun 2024",
+      "date_iso": "2024-06-13T12:00:00Z",
+      "event": "Provisional date for announcement of ACCC’s findings (as outlined in the Informal Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues)."
+    },
+    {
+      "date": "13 Jun 2024",
+      "date_iso": "2024-06-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Jun 2024",
+      "date_iso": "2024-06-27T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "28 Jun 2024",
+      "date_iso": "2024-06-28T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (5 September 2024) was delayed."
+    },
+    {
+      "date": "28 Jun 2024",
+      "date_iso": "2024-06-28T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (5 September 2024) delayed."
+    },
+    {
+      "date": "1 Aug 2024",
+      "date_iso": "2024-08-01T12:00:00Z",
+      "event": "ACCC received further information from the parties (on 1 August 2024). Timeline recommenced."
+    },
+    {
+      "date": "1 Oct 2024",
+      "date_iso": "2024-10-01T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking. Former proposed date for announcement of findings (24 October 2024) delayed."
+    },
+    {
+      "date": "14 Oct 2024",
+      "date_iso": "2024-10-14T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed undertaking."
+    },
+    {
+      "date": "7 Nov 2024",
+      "date_iso": "2024-11-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 11 December 2023, Sigma and Chemist Warehouse entered into a merger implementation agreement under which Sigma would acquire all the shares in Chemist Warehouse in exchange for Sigma shares and a $700 million cash consideration. Upon completion of the proposed merger, Chemist Warehouse shareholders will hold 85.75% of the ASX listed merged entity while Sigma shareholders will hold 14.25%. Sigma and Chemist Warehouse are both participants in the pharmaceutical industry. Sigma is a publicly listed Australian company with wholesale, distribution, and retail pharmaceutical operations. Sigma is a full-line wholesaler and distributor of prescription medicines, over the counter and front of store products to pharmacies nationwide. Sigma is also a franchisor of around 400 pharmacies under the brands Amcal, Discount Drug Store, PharmaSave, and Guardian. Chemist Warehouse is an unlisted Australian public company. It is a franchisor of around 600 pharmacies and retail stores under the brands Chemist Warehouse, MyChemist, Ultra Beauty, My Beauty Spot, and Optometrist Warehouse. It is also a wholesaler and distributor to its franchisees. On 4 July 2024, the ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition. On 7 November 2024, the ACCC decided to not oppose the proposed acquisition, subject to the ACCC accepting a court-enforceable undertaking from Sigma which would place obligations on the merged firm post-acquisition.",
+    "Market definition": "Refer to the Public Competition Assessment.",
+    "Competition analysis": "Refer to the Public Competition Assessment."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0351",
+  "title": "ERM Power Limited - proposed acquisition of Macquarie Generation assets in NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/erm-power-limited-proposed-acquisition-of-macquarie-generation-assets-in-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53219",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "30 January 2014",
+  "date_completed_iso": "2014-01-30T12:00:00Z",
+  "date_commenced": "2 December 2013",
+  "date_commenced_iso": "2013-12-02T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "ERM Power Limited"
+  ],
+  "targets": [
+    "Macquarie Generation assets"
+  ],
+  "timeline": [
+    {
+      "date": "2 Dec 2013",
+      "date_iso": "2013-12-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Dec 2013",
+      "date_iso": "2013-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "30 Jan 2014",
+      "date_iso": "2014-01-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ERM Power Limited (ERM) proposed to acquire the NSW Government's Macquarie Generation assets (Macquarie Generation), including the Bayswater and Liddell power stations.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of markets for: i. the wholesale supply of electricity in New South Wales, taking into account interconnector flows; (and in the alternative, a broader geographic market taking into account ERM's generation assets in Queensland); ii. the supply of financial (hedge) contracts in New South Wales; iii. the retail supply of electricity in New South Wales. However, for the purpose of considering this proposed acquisition, the ACCC did not consider it necessary to form a definitive view as to the specific geographic dimension for the wholesale supply of electricity. The ACCC recognised that competitive effects on a wider geographic basis (such as NEM-wide) may be relevant for other acquisitions.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any relevant market as ERM has only one other generator asset in the NEM and a modest retail position relative to the major vertically-integrated retailers. In particular: - ERM has only limited generation capacity in Queensland, and does not own any generation assets in NSW, Victoria or South Australia; -  the merged entity's retail requirements would be small relative to Macquarie Generation's capacity, and     this would result in the merged entity having significant excess generation capacity and likely incentive to     make financial (hedge) contracts available to third parties; -  the proposed acquisition was not likely to give rise to an increased likelihood or material risk of     coordinated conduct in any relevant market; -   the proposed acquisition increases ERM's potential to enhance competition in the wholesale and retail        supply of electricity."
+  }
+}

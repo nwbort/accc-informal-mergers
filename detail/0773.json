@@ -1,0 +1,44 @@
+{
+  "id": "0773",
+  "title": "China Minmetals Non-ferrous Metals Company Limited - proposed acquisition of OZ Minerals Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/china-minmetals-non-ferrous-metals-company-limited-proposed-acquisition-of-oz-minerals-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36620",
+  "industries": [
+    "Metals and Minerals"
+  ],
+  "date_completed": "20 March 2009",
+  "date_completed_iso": "2009-03-20T12:00:00Z",
+  "date_commenced": "19 February 2009",
+  "date_commenced_iso": "2009-02-19T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "China Minmetals Non-ferrous Metals Company Limited"
+  ],
+  "targets": [
+    "OZ Minerals Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Feb 2009",
+      "date_iso": "2009-02-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Mar 2009",
+      "date_iso": "2009-03-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Mar 2009",
+      "date_iso": "2009-03-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "China Minmetals Non-ferrous Metals Company Limited (China Minmetals) entered into an agreement with OZ Minerals Limited (OZ Minerals) whereby Minmetals would acquire all outstanding shares in OZ Minerals.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on national markets for the production and supply of zinc concentrate and copper concentrate.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the markets for the production and supply of either zinc concentrate or copper concentrate, for the following reasons: - There were no areas of domestic competitive overlap between China Minmetals, or its related bodies corporate, and OZ Minerals that were considered to raise concerns. - The zinc market is not particularly concentrated and there are a number of alternative suppliers of zinc concentrate.  As such, it is unlikely that China Minmetals would be able to restrict the supply of zinc concentrate post acquisition. - There are a number of other significant domestic producers of copper concentrate that would be likely to restrain China Minmetals from raising the price or reducing the supply of copper concentrate post acquisition."
+  }
+}

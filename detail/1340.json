@@ -1,0 +1,26 @@
+{
+  "id": "1340",
+  "title": "Warner Music Australia - proposed acquisition of Festival Mushroom Records",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/warner-music-australia-proposed-acquisition-of-festival-mushroom-records",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22946",
+  "industries": [
+    "Music Recording and Publishing"
+  ],
+  "date_completed": "15 November 2005",
+  "date_completed_iso": "2005-11-15T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Warner Music Australia proposes to acquire Festival Mushroom Records.",
+    "Market definition": "The ACCC considered that the relevant markets were the national markets for: - wholesale recorded music market; - wholesale market for licences for online music; and - retail market for online music.",
+    "Competition analysis": "The ACCC decided that the proposed acquisition is unlikely to result in a substantial lessening of competition in the relevant markets pursuant to section 50 of the Trade Practices Act 1974. Barriers to entry appear to be low and Festival Mushroom does not appear to be a particularly vigorous or effective competitor in any of the relevant markets. In addition, some countervailing power is held by retailers in the wholesale recorded music market.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

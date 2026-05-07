@@ -1,0 +1,31 @@
+{
+  "id": "1696",
+  "title": "Acquirer: Newmont Mining Corporation; Target: Normandy Mining Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-newmont-mining-corporation-target-normandy-mining-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15221",
+  "industries": [],
+  "date_completed": "8 January 2002",
+  "date_completed_iso": "2002-01-08T12:00:00Z",
+  "date_commenced": "18 December 2001",
+  "date_commenced_iso": "2001-12-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Newmont Mining Corporation"
+  ],
+  "targets": [
+    "Normandy Mining Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "It is proposed that Newmont will acquire a controlling share of Normandy",
+    "Market definition": "The Australian market for gold production",
+    "Competition analysis": "The proposed acquisition does not appear to cross the Commission's concentration thresholds.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "FIRB",
+    "ANZSIC code": "1314"
+  }
+}

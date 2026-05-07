@@ -1,0 +1,29 @@
+{
+  "id": "1155",
+  "title": "Babcock and Brown Power Trust , Babcock and Brown Power Limited - proposed acquisition of Powerdirect Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/babcock-and-brown-power-trust-babcock-and-brown-power-limited-proposed-acquisition-of-powerdirect-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27214",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "8 February 2007",
+  "date_completed_iso": "2007-02-08T12:00:00Z",
+  "date_commenced": "7 February 2007",
+  "date_commenced_iso": "2007-02-07T12:00:00Z",
+  "total_review_days": 2,
+  "acquirers": [
+    "Babcock and Brown Power Trust",
+    "Babcock and Brown Power Limited"
+  ],
+  "targets": [
+    "Powerdirect Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Babcock and Brown Limited previously requested an informal review of a proposed acquisition of Powerdirect (a separate public register entry is available on the ACCC website).  Babcock and Brown Power, which consists of Babcock and Brown Power Limited and Babcock and Brown Power Trust, subsequently requested an informal review for Powerdirect. For the purposes of competition analysis in relation to Babcock and Brown Limited, the ACCC assumed that the acquiring entity would have control over the energy assets of Babcock and Brown Power.  The ACCC made this assumption because, if no competition concerns arose on that basis, there would be no need to delve into the issue of the degree of control over the energy assets.  Because no competition concerns were discovered from Babcock and Brown Limited's proposed acquisition of Powerdirect based on that assumption, the ACCC considered that an acquisition by Babcock and Brown Power would not raise competition concerns.",
+    "Market definition": "In terms of analysing retailing, the ACCC took an approach of looking at aggregation on a state by state basis.  The ACCC did not reach a concluded view on whether there were state-based markets in retailing or a wider market, since geographic market definition was not critical to the outcome of the competition analysis, but the ACCC noted that a state by state analysis was important in order to fully consider the competition issues given that: -\tseveral retailers, particularly those that are government-owned, have limited operations outside of their home state; -\tconcentration measures vary widely in different areas. The ACCC noted that the Queensland Government intended to introduce full retail contestability on 1 July 2007. The ACCC considered that the relevant product was the retailing of electricity.  The ACCC considered the possibility that gas and electricity retailing might be in the same market, at least in some areas, and the possibility that retailing to small customers can be quite distinct from retailing to large commercial and industrial customers. In terms of generation, the ACCC took a purposive approach to market definition and therefore considered there to be a market for generation in Queensland.",
+    "Competition analysis": "The ACCC noted that Babcock and Brown Power had electricity generation interests in Queensland, but no significant retail interests.  It was also noted that Babcock and Brown Limited held a minority interest in Jackgreen, a small electricity retailer with a presence in NSW and Victoria.  Given the very limited horizontal aggregation issues, the competition analysis was focussed on vertical integration between generation and retail in Queensland.  Due to the size of Babcock and Brown Power's generation interests in Queensland, the ACCC considered that this vertical integration was unlikely to raise significant competition concerns."
+  }
+}

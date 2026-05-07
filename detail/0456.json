@@ -1,0 +1,74 @@
+{
+  "id": "0456",
+  "title": "Amcor Limited - proposed acquisition of Aperio Group Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amcor-limited-proposed-acquisition-of-aperio-group-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47367",
+  "industries": [
+    "Flexible packaging products"
+  ],
+  "date_completed": "28 March 2012",
+  "date_completed_iso": "2012-03-28T12:00:00Z",
+  "date_commenced": "14 November 2011",
+  "date_commenced_iso": "2011-11-14T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "Amcor Limited"
+  ],
+  "targets": [
+    "Aperio Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Nov 2011",
+      "date_iso": "2011-11-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Dec 2011",
+      "date_iso": "2011-12-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Dec 2011",
+      "date_iso": "2011-12-14T12:00:00Z",
+      "event": "Former proposed decision date of 27 January 2012 delayed to allow for provision of further information by Amcor. ACCC timeline suspended pending receipt. ACCC will announce a new proposed decision date upon consideration of further information."
+    },
+    {
+      "date": "21 Dec 2011",
+      "date_iso": "2011-12-21T12:00:00Z",
+      "event": "ACCC received further information from Amcor. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Feb 2012",
+      "date_iso": "2012-02-01T12:00:00Z",
+      "event": "Former proposed decision date of 9 February 2012 delayed at the request of the merger parties to allow for provision of further information. ACCC timeline suspended pending receipt. ACCC will announce a new proposed decision date upon consideration of further information."
+    },
+    {
+      "date": "8 Feb 2012",
+      "date_iso": "2012-02-08T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Feb 2012",
+      "date_iso": "2012-02-23T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "8 Mar 2012",
+      "date_iso": "2012-03-08T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "28 Mar 2012",
+      "date_iso": "2012-03-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Amcor Limited proposed to acquire Aperio Group Pty Limited",
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition on the national market for the supply of value-added flexible packaging, which includes printed, laminated and converted flexible packaging. In particular, the ACCC focused its competition assessment on the merger parties' principal area of overlap, being the supply of value-added flexible packaging to manufacturers of fast moving consumer goods (FMCG).",
+    "Competition analysis": "The ACCC noted that a merged Amcor and Aperio would account for a large portion of sales of value-added flexible packaging to Australian customers. The ACCC conducted detailed market inquiries and closely considered whether the proposed acquisition, by removing Aperio, would result in the merged firm having the ability to increase prices of value-added flexible packaging and / or decrease product quality or service levels. The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the national market for value-added flexible packaging. Factors informing this conclusion included: - industry sales data and market inquiries indicated that actual and potential import competition would be a direct constraint on the merged firm. Many FMCG customers were successfully managing their supply chain and realising cost savings through importing value-added flexible packaging. Certain overseas suppliers offer Australian warehouse and distribution services to better compete with domestic suppliers. The ACCC's review did not reveal the existence of any significant barriers which would hinder the growth of import competition; - there are a number of alternative domestic suppliers, including certain suppliers who have demonstrated a willingness to invest and increase capabilities in order to secure new contracts; - barriers to expansion for existing value-added flexible packaging manufacturers are not high; - while switching suppliers does take some time and investment on the part of both the customer and supplier, the ACCC was presented with many examples of FMCG customers switching suppliers to obtain better terms; and - FMCG customers generally have sophisticated procurement practices, with some having the benefit of accredited overseas suppliers currently supplying their regional affiliates outside Australia. Also, certain customers had sponsored entry or expansion to increase supply options. In this regard, FMCG customers hold a degree of countervailing power vis-a-vis the merged firm."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "1444",
+  "title": "Acquirer: Origin Energy Limited; Target: Mobil Oil Australia Pty Ltd, Euphoric Pty Ltd, Norvac Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-origin-energy-limited-target-mobil-oil-australia-pty-ltd-euphoric-pty-ltd-norvac-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20386",
+  "industries": [],
+  "date_completed": "22 November 2004",
+  "date_completed_iso": "2004-11-22T12:00:00Z",
+  "date_commenced": "14 September 2004",
+  "date_commenced_iso": "2004-09-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Origin Energy Limited"
+  ],
+  "targets": [
+    "Mobil Oil Australia Pty Ltd, Euphoric Pty Ltd, Norvac Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Origin Energy Limited (Origin) proposed to acquire the Bell Bay LPG port loading and storage facility (the Bell Bay facility) of Mobil Oil Australia Pty Ltd (Mobil), Euphoric Pty Ltd and Norvac Pty Ltd located in Tasmania",
+    "Market definition": "Tasmanian LPG market.",
+    "Competition analysis": "Origin is currently the largest participant in the Tasmanian LPG market. Origin owns LPG port loading and storage facilities in Hobart and in Devonport. The vendor's assets include the Bell Bay port terminal which is the only other LPG port loading and storage facility in Tasmania, and must be relocated and upgraded before use. Origin proposed to exclude the Bell Bay LPG import terminal from the acquisition, on the basis that a potential new entrant could enter the Tasmanian market through acquiring this terminal. Market inquiries revealed that without access to a customer base, the costs involved in upgrading and relocating the terminal did not justify investment by a new entrant. Such an undertaking would therefore be ineffective at maintaining competition in that situation. A further proposed undertaking requiring Origin to supply LPG to competitors on reasonable terms and conditions consistent with industry practices and to agree to submit to a binding dispute resolution process if agreement on those terms and conditions could not be reached was also not accepted by the ACCC. The ACCC considered that this behavioural undertaking was not an undertaking that would mitigate the ACCC's concerns in regard to the likely anti-competitive effects of this acquisition. The proposed acquisition involves the acquisition by the market leader of the next most significant LPG supplier in Tasmania, and will lead to a substantial increase in Origin's market share, leading to it having in excess of 90 per cent of sales of LPG in Tasmania.  This movement to such a large market share together with the significant barriers to entry is, in the ACCC's view, likely to lead to a substantial lessening of competition in contravention of the Act.",
+    "Resolution": "Withdrawn",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "4521"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1278",
+  "title": "Australian Stock Exchange Ltd - proposed acquisition of Sydney Futures Exchange Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-stock-exchange-ltd-proposed-acquisition-of-sydney-futures-exchange-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23497",
+  "industries": [
+    "Finance and investment"
+  ],
+  "date_completed": "24 May 2006",
+  "date_completed_iso": "2006-05-24T12:00:00Z",
+  "date_commenced": "27 March 2006",
+  "date_commenced_iso": "2006-03-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "For details regarding the market definition please see the Public Competition Assessment below.",
+    "Competition analysis": "For details regarding the competition analysis please see the Public Competition Assessment below",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties",
+    "Public competition assessment": "Public competition assessment ( PDF 152.23 KB )"
+  }
+}

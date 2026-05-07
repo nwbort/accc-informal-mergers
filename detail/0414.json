@@ -1,0 +1,44 @@
+{
+  "id": "0414",
+  "title": "Australia Post - proposed acquisition of StarTrack",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australia-post-proposed-acquisition-of-startrack",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49844",
+  "industries": [
+    "Post"
+  ],
+  "date_completed": "1 November 2012",
+  "date_completed_iso": "2012-11-01T12:00:00Z",
+  "date_commenced": "4 October 2012",
+  "date_commenced_iso": "2012-10-04T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Australia Post"
+  ],
+  "targets": [
+    "StarTrack"
+  ],
+  "timeline": [
+    {
+      "date": "4 Oct 2012",
+      "date_iso": "2012-10-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Oct 2012",
+      "date_iso": "2012-10-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Nov 2012",
+      "date_iso": "2012-11-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australia Post proposed to acquire the remaining 50% of StarTrack that it does not currently own (via AUX) and sell its 50% interest in AaE (via AUX) to Qantas.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. The ACCC considered the effects of the proposed acquisition on the supply of express small package delivery services in Australia. While both Australia Post and StarTrack provide a range of services this was the only area where there was overlap between the parties.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the market for the supply of express small package (up to 32 kg) delivery services in Australia. The ACCC considered that the competitors to the merged entity would continue to provide a strong competitive constraint post-acquisition for the supply of express small package delivery services in Australia. The ACCC also had regard to the existing level of strategic influence that Australia Post exerts on StarTrack by virtue of its 50% shareholding. In this regard, the ACCC did not consider that the proposed acquisition was likely to result in a significant impact upon the existing structure in the relevant market."
+  }
+}

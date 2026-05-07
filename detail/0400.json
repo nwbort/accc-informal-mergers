@@ -1,0 +1,44 @@
+{
+  "id": "0400",
+  "title": "Macquarie Premium Funding Pty Limited - proposed acquisition of insurance premium funding business of Pacific Premium Funding Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macquarie-premium-funding-pty-limited-proposed-acquisition-of-insurance-premium-funding-business-of-pacific-premium-funding-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50348",
+  "industries": [
+    "Insurance premium funding"
+  ],
+  "date_completed": "22 February 2013",
+  "date_completed_iso": "2013-02-22T12:00:00Z",
+  "date_commenced": "17 January 2013",
+  "date_commenced_iso": "2013-01-17T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Macquarie Premium Funding Pty Limited"
+  ],
+  "targets": [
+    "Pacific Premium Funding Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jan 2013",
+      "date_iso": "2013-01-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "31 Jan 2013",
+      "date_iso": "2013-01-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Feb 2013",
+      "date_iso": "2013-02-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Macquarie Premium Funding proposed to acquire the insurance premium funding business of Pacific Premium Funding.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition in the market for the supply of insurance premium funding (IPF) products in Australia. The ACCC noted that there is some degree of substitution between IPF products and alternative products (including other loan facilities and cash) that can be used to finance premiums, such that it may be arguable that the product market should be defined more broadly. Ultimately the ACCC did not consider it necessary to form a concluded view in relation to market definition, since it considered that no substantial lessening of competition was likely on the basis of a narrower market definition that only includes IPF products.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in the market for the supply of IPF products because Macquarie Premium Funding would face a sufficient competitive constraint from other IPF suppliers post-acquisition. In addition, the threat of new entry would likely impose some further constraint on Macquarie Premium Funding."
+  }
+}

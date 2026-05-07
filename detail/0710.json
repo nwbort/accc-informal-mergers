@@ -1,0 +1,43 @@
+{
+  "id": "0710",
+  "title": "Toll Holdings Ltd and ANL Container Line Pty Ltd - Bass Strait shipping joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-ltd-and-anl-container-line-pty-ltd-bass-strait-shipping-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36208",
+  "industries": [
+    "Shipping services"
+  ],
+  "date_completed": "26 August 2009",
+  "date_completed_iso": "2009-08-26T12:00:00Z",
+  "date_commenced": "6 August 2009",
+  "date_commenced_iso": "2009-08-06T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Toll Holdings Ltd"
+  ],
+  "targets": [
+    "ANL Container Line Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Aug 2009",
+      "date_iso": "2009-08-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Aug 2009",
+      "date_iso": "2009-08-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Aug 2009",
+      "date_iso": "2009-08-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the joint venture."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the joint venture in the context of the market for the transportation of freight between Melbourne and the northern ports of Tasmania (trans Bass Strait market).",
+    "Competition analysis": "The ACCC formed the view that the joint venture was unlikely to substantially lessen competition in the relevant market. In reaching this view, the ACCC noted that the joint venture parties are likely to be competitively constrained by the two existing competitors - Searoad and TT Line. In addition, the ACCC considered that ANL is not likely to continue to be a vigorous and effective competitor in the absence of the joint venture."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0750",
+  "title": "AI Topper & Co Pty Ltd - completed acquisition of tannery in Gunnedah operated by New Wave Leathers Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ai-topper-co-pty-ltd-completed-acquisition-of-tannery-in-gunnedah-operated-by-new-wave-leathers-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37311",
+  "industries": [
+    "Tannery"
+  ],
+  "date_completed": "10 June 2009",
+  "date_completed_iso": "2009-06-10T12:00:00Z",
+  "date_commenced": "11 May 2009",
+  "date_commenced_iso": "2009-05-11T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "AI Topper & Co Pty Ltd"
+  ],
+  "targets": [
+    "New Wave Leathers Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "11 May 2009",
+      "date_iso": "2009-05-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 May 2009",
+      "date_iso": "2009-05-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. AI Topper & Co Pty Ltd completed the transaction."
+    },
+    {
+      "date": "10 Jun 2009",
+      "date_iso": "2009-06-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 22 May 2009, AI Topper & Co Pty Ltd acquired a hide processing plant in Gunnedah, New South Wales, from New Wave Leathers Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the completed acquisition in the context of: i) the east coast market for the acquisition of green cattle hides, extending from New South Wales into south east Queensland and Victoria, and ii) the market for the supply of processed or cured cattle hides.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in the market for the acquisition of green cattle hides on the basis that the merged entity would be competitively constrained by existing effective competitors. The ACCC identified a number of alternative purchasers of green cattle hides within the relevant geographic market and considered their presence sufficient to ensure that the merged entity would not have the ability and the incentive to impose a unilateral decrease in price below competitive levels. The ACCC also formed the view that suppliers of green cattle hides hold a degree of countervailing power due to their ability to bypass hide processors by curing hides themselves. The ACCC did not identify any competition concerns in the market for the supply of processed or cured hides; close to 100% of processed cattle hides produced in Australia are exported."
+  }
+}

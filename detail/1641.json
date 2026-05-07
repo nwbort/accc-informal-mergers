@@ -1,0 +1,31 @@
+{
+  "id": "1641",
+  "title": "Acquirer: Publicis Groupe SA; Target: Bcom3 Group Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-publicis-groupe-sa-target-bcom3-group-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15910",
+  "industries": [],
+  "date_completed": "19 June 2002",
+  "date_completed_iso": "2002-06-19T12:00:00Z",
+  "date_commenced": "2 May 2002",
+  "date_commenced_iso": "2002-05-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Publicis Groupe SA"
+  ],
+  "targets": [
+    "Bcom3 Group Inc"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 30 April Representatives of Publicis Groupe SA informed the Commission of the international acquisition of Bcom3 Group Inc by Publicis.  The parties principally provide advertising agency and marketing services and media buying services.",
+    "Market definition": "There were two relevant markets: the market for the provision of advertising agency and related services in Australia and the market for the provision of media buying and research analysis services in Australia.",
+    "Competition analysis": "The Commission concluded that a substantial lessening of competition will not result in these markets as a result of the transaction due to the following factors: - competition in the relevant markets is strong; - market concentration levels are below the Commission's thresholds; - there is a high level of countervailing power held by large clients and media networks; - there is no vertical integration within the industry; and - it is unlikely that the merged entity will be able to increase its prices or profit margins.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "7851"
+  }
+}

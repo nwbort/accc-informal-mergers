@@ -1,0 +1,54 @@
+{
+  "id": "1211",
+  "title": "Integrated Tree Cropping Limited (ITC) - proposed acquisition of JL Gould Sawmills Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/integrated-tree-cropping-limited-itc-proposed-acquisition-of-jl-gould-sawmills-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25349",
+  "industries": [
+    "Timber"
+  ],
+  "date_completed": "29 September 2006",
+  "date_completed_iso": "2006-09-29T12:00:00Z",
+  "date_commenced": "5 September 2006",
+  "date_commenced_iso": "2006-09-05T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Integrated Tree Cropping Limited (ITC)"
+  ],
+  "targets": [
+    "JL Gould Sawmills Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Sep 2006",
+      "date_iso": "2006-09-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "13 Sep 2006",
+      "date_iso": "2006-09-13T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of information requested from ITC 6 September 2006"
+    },
+    {
+      "date": "15 Sep 2006",
+      "date_iso": "2006-09-15T12:00:00Z",
+      "event": "ACCC timeline recommenced upon receiving information requested from ITC on 6 September 2006"
+    },
+    {
+      "date": "19 Sep 2006",
+      "date_iso": "2006-09-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "29 Sep 2006",
+      "date_iso": "2006-09-29T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ITC, a wholly-owned subsidiary of Futuris Corporation Ltd, is proposing to acquire the sawmill business of JL Gould Sawmills Pty Ltd",
+    "Market definition": "The ACCC considered the following markets in its review of the proposed acquisition: - the national market for the supply of hardwood sawn timber products; and - the Victorian market for the acquisition of hardwood logs.",
+    "Competition analysis": "National supply market The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the national market for the supply of hardwood sawn timber products because there is: - sufficient competition from other Victorian and interstate sawmills, including their ability to switch between production of Victorian Ash and other types of hardwood sawn timber; and - actual and potential hardwood imports at both the sawn timber level and the end product level. Victorian acquisition market The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the Victorian market for the acquisition of native forest hardwoods due to: - the countervailing power of monopoly state forest suppliers; - declining resources fostering competition and tending to increase prices; and - government-owned corporation suppliers, whereby the threat of regulatory intervention acts as a constraint on acquirers. Accordingly, the ACCC decided on 29 September 2006 not to oppose the proposed acquisition."
+  }
+}

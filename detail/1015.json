@@ -1,0 +1,109 @@
+{
+  "id": "1015",
+  "title": "Pact Group Pty Ltd - proposed acquisition of Brickwood Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-brickwood-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29131",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "31 October 2007",
+  "date_completed_iso": "2007-10-31T12:00:00Z",
+  "date_commenced": "31 July 2007",
+  "date_commenced_iso": "2007-07-31T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Brickwood Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2007",
+      "date_iso": "2007-07-31T12:00:00Z",
+      "event": "Pact Group advised ACCC of the proposed acquisition. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Aug 2007",
+      "date_iso": "2007-08-02T12:00:00Z",
+      "event": "Market inquiries commence."
+    },
+    {
+      "date": "7 Aug 2007",
+      "date_iso": "2007-08-07T12:00:00Z",
+      "event": "ACCC requested further information from Pact Group. ACCC timeline suspended."
+    },
+    {
+      "date": "14 Aug 2007",
+      "date_iso": "2007-08-14T12:00:00Z",
+      "event": "ACCC received further information from Pact Group. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Aug 2007",
+      "date_iso": "2007-08-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Aug 2007",
+      "date_iso": "2007-08-21T12:00:00Z",
+      "event": "ACCC requested further information from Pact Group. ACCC timeline suspended."
+    },
+    {
+      "date": "10 Sep 2007",
+      "date_iso": "2007-09-10T12:00:00Z",
+      "event": "ACCC received further information from Pact Group. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Sep 2007",
+      "date_iso": "2007-09-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date of 19 September 2007 for announcement of ACCC's findings amended to 19 October 2007 to allow for consultation on Statement of Issues."
+    },
+    {
+      "date": "20 Sep 2007",
+      "date_iso": "2007-09-20T12:00:00Z",
+      "event": "ACCC requested further information from Pact Group and Brickwood. ACCC timeline suspended."
+    },
+    {
+      "date": "26 Sep 2007",
+      "date_iso": "2007-09-26T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "27 Sep 2007",
+      "date_iso": "2007-09-27T12:00:00Z",
+      "event": "ACCC received partial response to information request dated 20 September 2007."
+    },
+    {
+      "date": "4 Oct 2007",
+      "date_iso": "2007-10-04T12:00:00Z",
+      "event": "Former proposed date of 19 October 2007 for announcement of ACCC's findings amended to 26 October 2007 to allow for consideration of further information received."
+    },
+    {
+      "date": "12 Oct 2007",
+      "date_iso": "2007-10-12T12:00:00Z",
+      "event": "ACCC received final response to information request dated 20 September 2007. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Oct 2007",
+      "date_iso": "2007-10-19T12:00:00Z",
+      "event": "Former proposed date of 26 October 2007 for announcement of ACCC's findings amended to 31 October 2007 to allow for Pact Group to provide further information. Revised ACCC indicative decision date to be identified as soon as possible following receipt of Pact Group's further submission."
+    },
+    {
+      "date": "23 Oct 2007",
+      "date_iso": "2007-10-23T12:00:00Z",
+      "event": "ACCC received further information from Pact Group. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Oct 2007",
+      "date_iso": "2007-10-31T12:00:00Z",
+      "event": "ACCC announced its decision to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group proposed to acquire the packaging business of Brickwood Holdings Pty Ltd, Logan Moulders Pty Ltd, Full View Plastics Pty Ltd and the units in the Full View Plastics Unit Trust (together Brickwood plastic business).",
+    "Market definition": "Please refer to detailed Public Competition Assessment below.",
+    "Competition analysis": "Please refer to detailed Public Competition Assessment below."
+  }
+}

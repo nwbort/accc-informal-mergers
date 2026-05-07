@@ -1,0 +1,52 @@
+{
+  "id": "0213",
+  "title": "Air BP's proposed acquisition of certain assets of Viva Energy Aviation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/air-bps-proposed-acquisition-of-certain-assets-of-viva-energy-aviation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62875",
+  "industries": [
+    "Bulk aviation fuel storage"
+  ],
+  "date_completed": "20 February 2018",
+  "date_completed_iso": "2018-02-20T12:00:00Z",
+  "date_commenced": "30 November 2017",
+  "date_commenced_iso": "2017-11-30T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "BP Australia Pty Ltd"
+  ],
+  "targets": [
+    "Viva Energy Aviation Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Nov 2017",
+      "date_iso": "2017-11-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Dec 2017",
+      "date_iso": "2017-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jan 2018",
+      "date_iso": "2018-01-31T12:00:00Z",
+      "event": "ACCC decided not to oppose Air BP's acquisition of Viva's interest in aviation fuel assets at Parafield Airport (SA), Cloncurry Airport (QLD) and Bundaberg Airport (QLD). The ACCC's investigation on the proposed acquisition at Bankstown Airport remains ongoing."
+    },
+    {
+      "date": "14 Feb 2018",
+      "date_iso": "2018-02-14T12:00:00Z",
+      "event": "Former proposed decision date of 15 February 2018 delayed pending receipt of further information. ACCC will announce a new decision date in due course (as outlined in the Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues)."
+    },
+    {
+      "date": "20 Feb 2018",
+      "date_iso": "2018-02-20T12:00:00Z",
+      "event": "ACCC discontinued its public review after Air BP informed of its intention to withdraw its proposed acquisition of Viva's interest in aviation fuel assets at Bankstown Airport."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BP, through its aviation fuel division Air BP, proposed to acquire the following: -\tViva's interest in the bulk aviation fuel storage assets located at Bankstown Airport in New South Wales -\tViva's interest in the bulk storage infrastructure at Parafield Airport in South Australia -\tthe bulk storage infrastructure and into-plane refuelling infrastructure at Cloncurry Airport in Queensland, and -\tthe bulk storage infrastructure and into-plane refuelling infrastructure at Bundaberg Airport in Queensland."
+  }
+}

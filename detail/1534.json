@@ -1,0 +1,31 @@
+{
+  "id": "1534",
+  "title": "Acquirer: Westfield Trust; Target: AMP Shopping Centre Trust",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-westfield-trust-target-amp-shopping-centre-trust",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17691",
+  "industries": [],
+  "date_completed": "24 July 2003",
+  "date_completed_iso": "2003-07-24T12:00:00Z",
+  "date_commenced": "30 March 2003",
+  "date_commenced_iso": "2003-03-30T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Westfield Trust"
+  ],
+  "targets": [
+    "AMP Shopping Centre Trust"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 20 May 2003, Westfield Trust announced a takeover offer for the AMP Shopping Centre Trust ('ART').  Westfield Trust is the most significant shopping centre owner in Australia with interests in 30 regional shopping centres while ART has ownership interests in 9 shopping centres.  Companies in both of the Westfield and AMP company groups tend to manage the shopping centres in which they hold interests. On 22 July 2003 the ACCC decided not to intervene in the takeover offer as it was considered that the aquisition of ART's shopping centre interests would not be likely to substantially lessen competition. Any subsequent change in ownership or management control of the shopping centres would be subject to further ACCC review.",
+    "Market definition": "In view of the following competition analysis, it was not necessary to conclusively define the relevant market in which to assess the likely effect on competition.",
+    "Competition analysis": "The appropriate focus of inquiry is management control rather than ownership as decisions by management on rents, etc are the most relevant factors in assessing the state of competition in a market. A major factor in the ACCC's decision not to intervene was that Westfield Trust would only obtain management control of 2 of the 9 ART shopping centres - Mt Gravatt in Brisbane and Kotara in Newcastle. Of the remaining 7 centres, other companies in the AMP group would retain majority ownership interests in 6.  The 7th, Colonnades in Adelaide, would be 100 % acquired by Westfield but would then be on-sold to the Centro Properties group. Contracts were signed and would be executed once Westfield was appointed the responsible entity.  Importantly, the AMP group would still retain management control of 6 of the 9 centres and the Centro group would acquire management control of the 7th. Westfield would have no ownership interests in Colonnades. Further, it had also into contracts for the sale of two of its existing centres - Galleria in Perth and Toombul in Brisbane - to the Centro group. These sales would largely balance out the effects of acquiring ART's interests in Booragoon in Perth and Mt Gravatt in Brisbane.  Westfield did not control any shopping centres in the Newcastle metropolitan area and its acquisition of ART's 100 % interest in Kotara was considered pro-competitive. The only significant increase in market share would occur in Sydney, where Westfield will acquire a 25 % ownership interest in Warringah Mall and 50/50 ownership (with the AMP group) of Macquarie Shopping Centre - two of the largest centres in Sydney in terms of floor space.  But Westfield had not acquired management control of either centre.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "5259"
+  }
+}

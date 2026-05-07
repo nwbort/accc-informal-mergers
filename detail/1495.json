@@ -1,0 +1,28 @@
+{
+  "id": "1495",
+  "title": "Acquirer: Tabcorp Holdings Ltd; Target: Totalizator Agency Board of NSW (TAB)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-tabcorp-holdings-ltd-target-totalizator-agency-board-of-nsw-tab",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18595",
+  "industries": [],
+  "date_completed": "23 February 2004",
+  "date_completed_iso": "2004-02-23T12:00:00Z",
+  "date_commenced": "10 November 2003",
+  "date_commenced_iso": "2003-11-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Tabcorp Holdings Ltd"
+  ],
+  "targets": [
+    "Totalizator Agency Board of NSW (TAB)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Tabcorp Holdings Limited and Tab Limited propose to merge their operations. Tabcorp Holdings Limited is the Victorian exclusive state wagering licence holder and gaming and hospitality business. Tab Limited is the New South Wales state exclusive state wagering licence holder and owner and operator of the Sky Channel.",
+    "Market definition": "The Commission defined the relevant markets as: * Pari mutuel betting by state totlisators on racing including thoroughbred racing, harness racing and greyhound racing; * Fixed odds betting by state totalisators and bookmakers on racing including thoroughbred racing, harness racing and greyhound racing; * Fixed odds betting by state totalisators and bookmakers on sporting events; and * State gaming including gaming/poker machines, lotteries and network games.",
+    "Competition analysis": "The Commission decided not to oppose the proposed merger of Tabcorp Holdings Limited and Tab Limited. It found that the provision of exclusive state wagering licences during privatisation of the industry resulted in the formation of what are essentially state based monopolies with a significant level of regulation. As a result, there is limited cross border competition between the TABs, and their pricing and day to day operations have been closely regulated. The Commission also did not identify any competition concerns in relation to the control of the Sky Channel by the proposed merged entity.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown"
+  }
+}

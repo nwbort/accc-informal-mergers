@@ -1,0 +1,64 @@
+{
+  "id": "0353",
+  "title": "Sonic Healthcare Limited - proposed acquisition of assets of Delta Imaging Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sonic-healthcare-limited-proposed-acquisition-of-assets-of-delta-imaging-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52159",
+  "industries": [
+    "Radiology"
+  ],
+  "date_completed": "17 January 2014",
+  "date_completed_iso": "2014-01-17T12:00:00Z",
+  "date_commenced": "15 October 2013",
+  "date_commenced_iso": "2013-10-15T12:00:00Z",
+  "total_review_days": 64,
+  "acquirers": [
+    "Sonic Healthcare Limited"
+  ],
+  "targets": [
+    "Delta Imaging Group"
+  ],
+  "timeline": [
+    {
+      "date": "15 Oct 2013",
+      "date_iso": "2013-10-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "28 Oct 2013",
+      "date_iso": "2013-10-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Nov 2013",
+      "date_iso": "2013-11-21T12:00:00Z",
+      "event": "ACCC awaiting information from Sonic. Former provisional date for announcement of findings (28th November) delayed."
+    },
+    {
+      "date": "27 Nov 2013",
+      "date_iso": "2013-11-27T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC amended former provisional date for announcement of findings (28th November)."
+    },
+    {
+      "date": "5 Dec 2013",
+      "date_iso": "2013-12-05T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "20 Dec 2013",
+      "date_iso": "2013-12-20T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "17 Jan 2014",
+      "date_iso": "2014-01-17T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sonic Healthcare proposed to acquire assets of Delta Imaging Pty Limited (in liquidation), Delta Imaging Maitland Pty Limited (in liquidation) and CSCAN Asset Pty Limited (in liquidation) (collectively, the Delta Imaging Group).",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

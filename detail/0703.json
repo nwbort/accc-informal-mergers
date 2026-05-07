@@ -1,0 +1,44 @@
+{
+  "id": "0703",
+  "title": "National Australia Bank Ltd (NAB) - proposed acquisition of mortgage management business from Challenger Financial Services Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-ltd-nab-proposed-acquisition-of-mortgage-management-business-from-challenger-financial-services-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38567",
+  "industries": [
+    "Mortgage management"
+  ],
+  "date_completed": "7 October 2009",
+  "date_completed_iso": "2009-10-07T12:00:00Z",
+  "date_commenced": "20 August 2009",
+  "date_commenced_iso": "2009-08-20T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "National Australia Bank Ltd (NAB)"
+  ],
+  "targets": [
+    "Challenger Financial Services Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Aug 2009",
+      "date_iso": "2009-08-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Sep 2009",
+      "date_iso": "2009-09-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Oct 2009",
+      "date_iso": "2009-10-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "National Australia Bank (NAB) proposed to acquire Challenger's mortgage management business including: -\tthe Choice, PLAN and FAST broker distribution platforms; -\tChallenger's \"white label\" wholesale mortgage business; and -\ta portion of Challenger's residential mortgage portfolio.",
+    "Market definition": "Please refer to Public Competition Assessment.",
+    "Competition analysis": "Please refer to Public Competition Assessment."
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "0132",
+  "title": "Google LLC proposed acquisition of Fitbit Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/google-llc-proposed-acquisition-of-fitbit-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Technology"
+  ],
+  "date_completed": "15 January 2021",
+  "date_completed_iso": "2021-01-15T12:00:00Z",
+  "date_commenced": "27 February 2020",
+  "date_commenced_iso": "2020-02-27T12:00:00Z",
+  "total_review_days": 231,
+  "acquirers": [
+    "Google LLC"
+  ],
+  "targets": [
+    "Fitbit Inc"
+  ],
+  "timeline": [
+    {
+      "date": "27 Feb 2020",
+      "date_iso": "2020-02-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Mar 2020",
+      "date_iso": "2020-03-25T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "11 May 2020",
+      "date_iso": "2020-05-11T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of findings (21 May 2020) is delayed."
+    },
+    {
+      "date": "15 May 2020",
+      "date_iso": "2020-05-15T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "5 Jun 2020",
+      "date_iso": "2020-06-05T12:00:00Z",
+      "event": "ACCC amended former provisional decision date (11 June 2020) to allow time to consider information provided by the parties."
+    },
+    {
+      "date": "18 Jun 2020",
+      "date_iso": "2020-06-18T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "10 Jul 2020",
+      "date_iso": "2020-07-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "10 Aug 2020",
+      "date_iso": "2020-08-10T12:00:00Z",
+      "event": "Former provisional decision date (13 August) amended to enable the ACCC to continue its investigation and engage with other competition agencies"
+    },
+    {
+      "date": "30 Nov 2020",
+      "date_iso": "2020-11-30T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking. ACCC former provisional decision date (9 December) delayed to enable to the ACCC to conduct consultation and consider information provided."
+    },
+    {
+      "date": "9 Dec 2020",
+      "date_iso": "2020-12-09T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed undertaking."
+    },
+    {
+      "date": "22 Dec 2020",
+      "date_iso": "2020-12-22T12:00:00Z",
+      "event": "ACCC announces that it will not accept the current proposed undertaking."
+    },
+    {
+      "date": "15 Jan 2021",
+      "date_iso": "2021-01-15T12:00:00Z",
+      "event": "As the transaction completed on 14 January 2021, before the ACCC had finished its investigation, this matter has become an enforcement investigation of a completed merger. No further updates on the investigation will be made on this public register."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Google LLC proposed to acquire Fitbit, Inc. Fitbit is a manufacturer and supplier of wrist-worn wearable devices and other related products. Google has an extensive range of interests including online search and advertising technology, mobile hardware and various commonly used software such as Google Chrome."
+  }
+}

@@ -1,0 +1,458 @@
+ 
+Page 1 of 10 
+ 
+Public Competition Assessment 
+8 November 2022 
+Dye & Durham - proposed acquisition of Link 
+ 
+The ACCC’s decision 
+1. 
+On 8 September 2022 the ACCC announced its decision not to oppose the 
+proposed acquisition by Dye & Durham Corporation (D&D) of Link Administration 
+Holdings (Link) (the proposed acquisition) after accepting a section 87B 
+undertaking from Dye & Durham Limited (D&D Limited) and Dye & Durham 
+Holdings Pty Ltd (D&D Holdings) (the Undertaking).  
+2. 
+The Undertaking required D&D Limited and D&D Holdings to divest all of D&D’s 
+existing Australian businesses (including all assets, licences, agreements and 
+other tangible and intangible property held by those businesses) to a purchaser 
+to be approved by the ACCC. 
+3. 
+The ACCC considered that the proposed acquisition, taking into account the 
+Undertaking, would have been unlikely to contravene section 50 of the 
+Competition and Consumer Act 2010 (the Act). Section 50 prohibits acquisitions 
+that would have the effect, or be likely to have the effect, of substantially 
+lessening competition in any market. 
+4. 
+The ACCC considered the competitive effects of the proposed acquisition in 
+markets for the supply of:  
+ 
+electronic lodgment network (ELN) services  
+ 
+information search and broking services, and/or 
+ 
+practice management software (PMS).  
+5. 
+Without the Undertaking, the ACCC considered that the proposed acquisition 
+would have aligned PEXA, a near monopoly supplier of ELN services, with D&D, 
+a significant supplier of information search and broking services and PMS. The 
+ACCC identified strong concerns that this alignment would have allowed each of 
+PEXA and D&D to engage in mutual preferential dealing that would have 
+hindered competition in the conveyancing workflow.  
+
+
+ 
+Page 2 of 10 
+6. 
+On 23 September 2022, Link and D&D Limited announced that the proposed 
+acquisition would not be proceeding. Following these announcements, D&D 
+Limited and D&D Holdings sought the ACCC’s consent to withdraw the 
+Undertaking and, pursuant to s 87B(2) of the Act and clause 4.1 of the 
+Undertaking, the ACCC gave consent to the withdrawal of the Undertaking in its 
+entirety on 20 October 2022.  
+7. 
+This Public Competition Assessment outlines reasons for the decision by the 
+ACCC not to oppose the proposed acquisition, taking into account the 
+Undertaking. Although the proposed acquisition did not proceed and the 
+Undertaking was subsequently withdrawn, the ACCC considers it is appropriate 
+to publish a Public Competition Assessment in this matter given the significant 
+preliminary competition concerns identified by the ACCC prior to accepting the 
+Undertaking. 
+8. 
+Please note that this and other public competition assessments are subject to 
+the following qualifications: 
+ 
+The ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily 
+reflect the ACCC’s view of another transaction. 
+ 
+As assessments are relatively brief and do not refer to confidential 
+information, assessments do not necessarily set out all of the issues and 
+information considered by the ACCC.  
+The parties and the transaction 
+The acquirer: D&D 
+9. 
+D&D is an international provider of cloud-based software and technology 
+solutions to legal and business professionals, including lawyers and 
+conveyancers. D&D acquired SAI GlobalX’s Property Division in January 2021 
+and GlobalX in July 2021. D&D’s core products and services relevant to the 
+proposed acquisition include:  
+ 
+Information search and broking services: including property, commercial 
+and personal information.  
+ 
+Practice management software (including conveyancing and legal practice 
+management software): including Matter Centre, Conveyancing Manager, 
+Conveyancing Directory, Open Practice, SettsPlus and Atom as well as 
+ancillary solutions that support conveyancing transactions such as 
+verification of identity (VoI) and digital signing software.  
+ 
+Manual property settlement services: including physical property 
+settlement attendance, stamp duty calculations and manual stamping, 
+lodgment and registration. 
+The target: Link 
+10. Link is a technology-enabled provider of outsourced administration services for 
+superannuation fund administration and corporate markets, as well as related 
+
+
+ 
+Page 3 of 10 
+services including data management, analytics, digital communication and 
+stakeholder education and advice. Link (via Link Property Group Pty Ltd) also 
+holds a ~42.77% shareholding in PEXA, which D&D would have acquired 
+through the proposed acquisition. 
+PEXA  
+11. PEXA principally operates as an Electronic Lodgment Network Operator 
+(ELNO), through its ELN product, PEXA Exchange. An ELNO provides and 
+operates an ELN, which enables users (also known as subscribers) to complete 
+property lodgments and settlements electronically through a digital process 
+known as e-conveyancing.  
+12. The PEXA Exchange is integrated with six land titles offices and five state 
+revenue offices for the lodgment of documents, as well as the Reserve Bank of 
+Australia, the Australian Taxation Office and major financial institutions to 
+facilitate financial settlement. 
+13. The PEXA Exchange was born out of a 2010 Council of Australian Governments 
+initiative to transition property lodgment away from paper-based to more efficient 
+digital processes. The ACCC considered PEXA is a near monopoly provider of 
+ELN services. It is the only fully operational ELNO in Australia and in states 
+where e-conveyancing has been mandated, PEXA completes almost all 
+transactions.1  
+14. PEXA was listed on the Australian Securities Exchange in 2021 and its largest 
+shareholders are Link Property Group Pty Ltd (42.77%) and Commonwealth 
+Bank of Australia (23.9%). No other shareholder has a shareholding greater than 
+10%. 
+The transaction 
+15. D&D, via Link Acquisition Australia Pty Ltd (a wholly owned Australian 
+incorporated subsidiary of D&D), proposed to acquire 100% of the issued share 
+capital in Link by way of a scheme of arrangement.  
+16. The proposed acquisition was due to complete on or before 30 September 2022. 
+However, on 23 September 2022, Link and D&D Limited each issued public 
+statements confirming that the proposed acquisition would not be proceeding.  
+Review timeline  
+17. The following table outlines the timeline of key events for the ACCC in this 
+matter. 
+Date 
+Event 
+1 March 2022 
+The ACCC commenced a review of the proposed 
+acquisition under its Merger Process Guidelines. 
+ 
+1 1. To date, Victoria, Western Australia, New South Wales and South Australia have mandated e-
+conveyancing. Queensland and Australian Capital Territory have enabled e-conveyancing but have 
+not mandated its use. The Northern Territory and Tasmania have not implemented e-conveyancing.  
+
+
+ 
+Page 4 of 10 
+10 May 2022 
+The ACCC requested additional information from D&D. The 
+timeline was suspended pending receipt of this information. 
+16 June 2022 
+The ACCC issued a Statement of Issues regarding the 
+proposed acquisition.  
+4 August 2022 
+The ACCC commenced market consultation on the draft 
+proposed s87B undertaking. 
+8 September 2022 
+The ACCC announced it would not oppose the proposed 
+acquisition following the acceptance of the Undertaking by 
+the ACCC.  
+23 September 2022 
+Link and D&D Limited announced that the proposed 
+acquisition would not be proceeding. 
+20 October 2022 
+Following a request from D&D Limited and D&D Holdings, 
+the ACCC consented to the withdrawal of the Undertaking in 
+its entirety.  
+Market inquiries 
+18. The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, potential competitors, customers, industry bodies, 
+regulatory agencies and other interested parties. Submissions were sought in 
+relation to the potential competition issues arising from the proposed acquisition. 
+The ACCC also conducted market consultation on the proposed section 87B 
+undertaking.  
+Statement of Issues 
+19. On 16 June 2022 the ACCC published a Statement of Issues on the proposed 
+acquisition. In the Statement of Issues, the ACCC stated its preliminary view that 
+the proposed acquisition was likely to substantially lessen competition in one or 
+more markets in the conveyancing workflow.  
+Industry background 
+The conveyancing workflow  
+20. The steps in the conveyancing process are commonly referred to as “the 
+conveyancing workflow”. While the specifics of the conveyancing process differ 
+based on the type of transaction, as well as relevant state or territory laws, the 
+ACCC understands that some of the key steps in a typical process include: 
+ 
+Verification of Identity: the identity of the seller and buyer as the relevant 
+transaction parties is confirmed. VoI software and an information search 
+service may be used in the verification process. These tools may also 
+integrate with the PMS of the lawyer or conveyancer engaged by the buyer 
+and seller. 
+
+
+ 
+Page 5 of 10 
+ 
+Contract: a contract for sale is prepared. PMS may be used to generate a 
+contract from a template library. This contract may also be automatically 
+populated with integrated information search results (titles, plans, planning 
+certificates etc). 
+ 
+Listing: property is listed for sale. 
+ 
+Due Diligence: buyer’s lawyer/conveyancer undertakes further searches 
+using an information search service. 
+ 
+Exchange: contracts are signed and exchanged between the buyer and 
+seller. Electronic signature software may be used to sign the contracts, 
+which may be integrated with the PMS of the lawyer/conveyancer. 
+ 
+Deposit: buyer pays the deposit. 
+ 
+Pre-settlement: buyer and financier undertake final due diligence/checks, 
+possibly using an information search service. 
+ 
+Settlement: buyer (or financier) transfers funds to seller and seller transfers 
+title to buyer. This may occur electronically via an ELN, or the parties may 
+meet to manually exchange contracts, titles and funds. If an ELN is used, 
+the vendor’s conveyancer/solicitor will create a digital workspace using the 
+ELNO’s platform and invitations to join the workspace will be sent to the 
+financial institutions and purchaser’s conveyancer/solicitor to complete the 
+transaction electronically. The ELNO workspace may also be integrated 
+with the parties’ PMS or information search software. 
+ 
+Lodgment: relevant conveyancing documents are lodged with the relevant 
+regulatory authorities (manually or via an ELNO). 
+21. Conveyancing is an efficiency driven process and the steps in the conveyancing 
+workflow have become increasingly digitised in recent years. Application 
+Programming Interfaces allow software integration, providing the seamless 
+transfer of information between software at the various steps in the 
+conveyancing workflow. Seamlessly integrating the steps in the conveyancing 
+workflow increases the software value proposition for customers (typically 
+lawyers and conveyancers) as it minimises duplicative manual processes.  
+22. D&D and Australian Technology Innovators (ATI) have emerged as prominent 
+vertically integrated suppliers of conveyancing workflow solutions, with product 
+offerings applicable to most steps in the conveyancing workflow. These suppliers 
+offer integration with their own product suite, as well as API integration with third 
+parties.  
+E-conveyancing and interoperability  
+23. Digitisation of the conveyancing workflow has coincided with the advent of e-
+conveyancing. E-conveyancing allows lawyers, conveyancers and financial 
+institutions to transact through an ELN. ELNOs provide and operate ELNs which 
+enable transacting parties or their representatives to collaborate electronically to 
+complete property lodgments and settlements. Many Australian jurisdictions 
+
+
+ 
+Page 6 of 10 
+have mandated the use of an ELN to complete property settlement and lodgment 
+transactions.  
+24. Currently, all parties to an e-conveyancing transaction must use the same ELN. 
+The existing infrastructure and regulatory regime do not yet enable parties using 
+separate ELNs to exchange data to complete a transaction. This puts competing 
+(and potential future) ELNOs at a significant disadvantage, as it makes it more 
+difficult for them to attract subscribers. Absent interoperability between ELNs, 
+PEXA’s position as the near monopoly supplier of ELN services is unlikely to 
+change.  
+25. If implemented, interoperability should enable the exchange of information 
+between ELNs to allow participants to complete an electronic conveyancing 
+transaction using different ELNOs. The current reform process has achieved 
+certain milestones, including the amendments to the Electronic Conveyancing 
+National Law (ECNL) to include a requirement for ELNOs to establish and 
+maintain interoperability. However, the timeline for implementing interoperability 
+is uncertain, and market feedback raised strong concerns about likely delays in 
+the implementation of complete interoperability. Market participants also raised 
+concerns regarding PEXA’s capacity to further frustrate certain aspects of the 
+reform process. 
+Other industry participants 
+PMS suppliers 
+26. In addition to D&D, other suppliers of PMS include ATI, LexisNexis, Thomson 
+Reuters and Aderant. ATI is the largest supplier of conveyancing and legal PMS 
+in Australia. Its associated software products include LEAP Legal Software and 
+PracticeEvolve. 
+Information search and broking services 
+27. In addition to D&D, other “full service” suppliers of information broking services 
+include InfoTrack (owned by ATI), Equifax, CITEC and Ilion. Suppliers with 
+narrower offerings include DirectInfo, PsiGlobal and Hazlett.  
+28. Lawyers and conveyancers also obtain information search results directly from 
+regulatory authorities (e.g. state/territory land titles offices) and authorised 
+resellers of information broking services (e.g. PEXA Plus).  
+ELN services 
+29. In addition to PEXA, Sympli Australia Pty Limited (Sympli) is approved to 
+operate as an ELNO in multiple jurisdictions in Australia. ATI holds a 50% stake 
+in Sympli. LEXTECH, owned by Purcell Partners is a potential third provider of 
+ELN services. However, it is unclear whether LEXTECH will obtain relevant 
+operational approvals to commence operations in the near future.   
+
+
+ 
+Page 7 of 10 
+Competition analysis 
+Market definition  
+30. The ACCC’s starting point for considering which markets would have been 
+affected by the proposed acquisition was to identify any meaningful economic 
+relationships between the parties. The ACCC then considered other actual or 
+potential suppliers and customers of products or services supplied to or 
+purchased by the parties that could have been affected by changes to their 
+existing relationship following the proposed acquisition. 
+31. In this matter, the ACCC considered that the proposed acquisition would have 
+affected the vertical integration in the conveyancing workflow in light of the 
+existing relationship between D&D and (noting Link’s ~43% shareholding) PEXA. 
+The ACCC considered the competitive effects of the proposed acquisition in 
+national and/or state-based markets for:  
+ 
+the supply of ELN services  
+ 
+the supply of information search and broking services, and/or  
+ 
+the supply of PMS.  
+Foreclosure of competition in one or more markets in the 
+conveyancing workflow 
+32. The ACCC considered that, in the absence of the Undertaking, the proposed 
+acquisition would have resulted in the alignment of PEXA, a near monopoly 
+provider of ELN services, with D&D, a significant provider of upstream services. 
+This vertical alignment would have created incentives for each of D&D and 
+PEXA to engage in preferential dealing conduct, resulting in the foreclosure of 
+competition in one or more markets in the conveyancing workflow.  
+33. The form of this conduct could include: 
+ 
+PEXA degrading the quality of integration with PEXA for D&D’s rivals, or 
+offering discounts on its ELN services only to D&D’s customers, and/or 
+ 
+D&D refusing or diminishing integration of its software products with 
+PEXA’s rival suppliers of ELN services, or offering discounts on its 
+software on condition that those customers transact a minimum volume on 
+PEXA’s ELN.  
+Market power of D&D and PEXA 
+34. The ACCC concluded that PEXA has market power in the supply of ELN 
+services. PEXA is a near monopoly supplier, having benefited from a significant 
+first mover advantage and continuing network effects. Absent the introduction of 
+timely and effective interoperability between ELNs, the ACCC considered PEXA 
+is likely to retain its near monopoly position.  
+35. The ACCC did not reach a concluded view as to whether D&D has market power 
+in the supply of PMS and information search and broking services. However, the 
+
+
+ 
+Page 8 of 10 
+ACCC considered that D&D is a significant supplier of these upstream software 
+services and has a particularly significant position in the supply of certain 
+segments of PMS, especially in Victoria and Western Australia. The ACCC also 
+concluded that D&D would be likely to acquire (or increase existing) market 
+power as a result of preferential treatment by PEXA following the proposed 
+acquisition, in the absence of the Undertaking.  
+D&D and PEXA’s incentives to engage in foreclosure conduct   
+36. The ACCC considered that the alignment of D&D and PEXA would have 
+provided PEXA with incentives to favour D&D’s information broking and PMS 
+services (to the detriment of D&D’s rivals), in the absence of the Undertaking.  
+37. Given both its financial interest in PEXA and the reciprocal benefit it would have 
+been likely to receive from PEXA’s conduct, D&D would have had strong 
+incentives to favour PEXA’s ELN (to the detriment of PEXA’s emerging rivals).  
+38. Although PEXA would not have obtained an immediate benefit from favouring 
+D&D’s software, by doing so it would have been likely to materially elevate 
+D&D’s market position, which would have been likely to have longer term 
+benefits.  
+39. The key threat to PEXA’s near monopoly position stems from planned reforms 
+compelling interoperability between ELNOs. By ‘locking in’ a large proportion of 
+law and conveyancing firms to an integrated package of PMS and ELN services 
+prior to interoperability occurring, and by concurrently reducing the size and 
+scale of alternative suppliers of information search and broking services and 
+PMS, PEXA would have been in a much stronger position to preserve its near 
+monopoly position in ELN services into the future.  
+40. Further, while D&D’s post-acquisition stake in PEXA would have been a minority 
+shareholding, it would have been a substantial stake and likely enable D&D to 
+exert significant influence on PEXA’s strategy and behaviour.  
+Likely effect of foreclosure conduct  
+41. The ACCC considered that the foreclosure resulting from the mutual preferential 
+dealing described above would be likely to result in a substantial lessening of 
+competition in one or more markets in the conveyancing workflow. The effects 
+would also likely be self-reinforcing, raising barriers to entry and expansion at 
+various levels of the conveyancing workflow. The ACCC was particularly 
+concerned that, over time, the conduct would: 
+ 
+entrench PEXA’s market position in the supply of ELN services 
+ 
+decrease competing PMS and information search service suppliers’ sales 
+and access to scale efficiencies forcing them to raise their prices or exit, 
+allowing D&D to raise its own prices for these services, and/or   
+ 
+materially raise competing suppliers’ costs of entry and expansion within 
+the conveyancing workflow, such that to compete effectively, suppliers 
+would be required to provide an end-to offering.  
+
+
+ 
+Page 9 of 10 
+Limited constraint from the regulatory framework  
+42. There is considerable uncertainty regarding the extent to which the existing and 
+likely future regulatory framework under the ECNL could be relied upon to 
+constrain PEXA and D&D’s conduct post-acquisition.  
+43. Under the ECNL, ELNOs are required to comply with Operating Requirements 
+which (amongst other things) require ELNOs to:  
+ 
+provide equivalent access to parties seeking to integrate with its ELN, 
+subject only to differences attributable to the type, level or class of 
+integration with the ELN 
+ 
+ensure that its ELN and any non-ELN businesses are structurally 
+separated to limit the ELNO, and the related businesses, from obtaining an 
+advantage over competitors as a result of the ELNO’s position, and  
+ 
+set its service fees according to a publicly available and equitable pricing 
+policy. 
+44. In the context of PEXA’s near monopoly position and the significant structural 
+change in the market, the ACCC was concerned this framework would be 
+insufficient to constrain PEXA and a combined D&D-Link’s ability to engage in 
+foreclosure conduct. 
+Conclusion 
+45. The ACCC concluded that, in the absence of the Undertaking, the proposed 
+acquisition would have resulted in the alignment of D&D and PEXA. This 
+alignment would have been likely to provide each of D&D and PEXA with the 
+ability and incentive to engage in mutual preferential dealing that would have 
+been likely to result in the foreclosure of competition in the conveyancing 
+workflow.  
+Undertaking 
+46. To remedy the ACCC’s concerns, D&D Limited and D&D Holdings gave the 
+ACCC a court enforceable undertaking in accordance with section 87B of the 
+Act. Pursuant to the Undertaking, D&D Limited and D&D Holdings were required 
+to divest D&D’s existing Australian businesses to a purchaser approved by the 
+ACCC.  
+Key obligations  
+47. The key obligations in the Undertaking required D&D to: 
+ 
+ensure that the approved purchaser would have all the necessary assets 
+and rights to compete effectively for information search and broking 
+services, PMS and manual settlement services in Australia 
+ 
+maintain the economic viability, marketability, competitiveness and 
+goodwill of the business to be divested prior to divestiture, including by 
+
+
+ 
+Page 10 of 10 
+appointing and maintaining an ACCC approved independent manager to 
+oversee the divestiture interest until it was sold to an approved purchaser 
+ 
+hold its interest in the business to be divested separate from its other 
+assets and businesses (including the interest D&D will acquire in PEXA) 
+and ensure it was operated separately from those assets and business 
+pending divestiture, and 
+ 
+provide for the effective oversight of D&D’s compliance with the 
+Undertaking. 
+Assessment of the Undertaking  
+48. The ACCC considered that the Undertaking would have addressed its 
+competition concerns as identified in the SOI. Divesting D&D’s existing 
+Australian businesses would remove the vertical alignment between D&D and 
+PEXA. 
+49. In reaching this view, the ACCC assessed the risks associated with accepting 
+the Undertaking, which included consulting a range of market participants in 
+relation to the Undertaking.  
+Withdrawal of the Undertaking  
+50. On 23 September 2022, Link and D&D Limited announced that the proposed 
+acquisition would not be proceeding. Following these announcements, D&D 
+Limited and D&D Holdings sought the ACCC’s consent to withdraw the 
+Undertaking and, pursuant to s 87B(2) of the Act and clause 4.1 of the 
+Undertaking, the ACCC gave consent to the withdrawal of the Undertaking in its 
+entirety on 20 October 2022.  
+ 

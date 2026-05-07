@@ -1,0 +1,53 @@
+{
+  "id": "0359",
+  "title": "GBC / Fordigraph Pty Ltd - proposed acquisition of Francotyp-Postalia Australia Pty Ltd and G.W. Enterprises (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gbc-fordigraph-pty-ltd-proposed-acquisition-of-francotyp-postalia-australia-pty-ltd-and-gw-enterprises-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51747",
+  "industries": [
+    "Document and Mailing Business Solutions"
+  ],
+  "date_completed": "28 November 2013",
+  "date_completed_iso": "2013-11-28T12:00:00Z",
+  "date_commenced": "19 September 2013",
+  "date_commenced_iso": "2013-09-19T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "GBC / Fordigraph Pty Ltd"
+  ],
+  "targets": [
+    "Francotyp-Postalia Australia Pty Ltd<br/> G.W. Enterprises (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Sep 2013",
+      "date_iso": "2013-09-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "16 Oct 2013",
+      "date_iso": "2013-10-16T12:00:00Z",
+      "event": "Former proposed decision date of 14 November 2013 delayed to allow ACCC to complete its market inquiries following provision of further information by the merger parties."
+    },
+    {
+      "date": "25 Oct 2013",
+      "date_iso": "2013-10-25T12:00:00Z",
+      "event": "Revised closing date for submissions from interested parties (extended from 10 October 2013 following provision of further information by the merger parties)."
+    },
+    {
+      "date": "5 Nov 2013",
+      "date_iso": "2013-11-05T12:00:00Z",
+      "event": "ACCC completed its further market inquiries following receipt of further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Nov 2013",
+      "date_iso": "2013-11-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered that the relevant markets for the purpose of assessing the proposed acquisition were the markets for: (i) the supply (including distribution via agents) of postage meters; and (ii) the supply (including distribution via agents) of mail folding/inserting machines.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in a relevant market. The ACCC formed this view having regard to the following: (i) The competitive constraint on the merged entity from other suppliers in the postage meter market, including Pitney Bowes, Swiss Mail and FP Mail, was likely to be sufficient to prevent any substantial lessening of competition in the market for postage meters as a result of the proposed acquisition. The number of competitors would not change as a result of the proposed acquisition, given that FP Mail had been appointed as the Australian distributor of Francotyp Postalia postage meters, which were previously distributed by the target. (ii) The proposed acquisition was unlikely to substantially lessen competition in the mail folding/inserting machine market, given the very small increment of market share to GBC arising from the proposed acquisition, and the presence of a number of alternative competitors."
+  }
+}

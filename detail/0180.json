@@ -1,0 +1,59 @@
+{
+  "id": "0180",
+  "title": "GlaxoSmithKline plc proposed acquisition of the consumer healthcare business of Pfizer Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/glaxosmithkline-plc-proposed-acquisition-of-the-consumer-healthcare-business-of-pfizer-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "9 May 2019",
+  "date_completed_iso": "2019-05-09T12:00:00Z",
+  "date_commenced": "27 February 2019",
+  "date_commenced_iso": "2019-02-27T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "GlaxoSmithKline plc"
+  ],
+  "targets": [
+    "Consumer healthcare business of Pfizer Inc"
+  ],
+  "timeline": [
+    {
+      "date": "27 Feb 2019",
+      "date_iso": "2019-02-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Mar 2019",
+      "date_iso": "2019-03-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Apr 2019",
+      "date_iso": "2019-04-17T12:00:00Z",
+      "event": "ACCC is awaiting further information from third parties. Former provisional decision date of 25 April 2019 delayed.  ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "9 May 2019",
+      "date_iso": "2019-05-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed acquisition of  Pfizer Inc's Consumer Healthcare Business by GlaxoSmithKline plc.",
+    "Market definition": "The ACCC considered the potential effects of the proposed acquisition on competition in a market for the national supply of over the counter (OTC) pain management products at a wholesale and retail level. The ACCC also considered the potential effects of the proposed acquisition on competition in markets for the national supply of OTC: gastrointestinal products at a wholesale and retail level cold and flu products at a wholesale and retail level The ACCC considered that the product definition of the relevant markets could potentially be narrower or broader, but did not consider that this impacted on the competition analysis.",
+    "Competition analysis": "In relation to OTC pain management products, there are two leading brands, Panadol owned by GlaxoSmithKline and Nurofen owned by Reckitt Benckiser. While Pfizer’s Advil brand is a leading OTC pain management brand in America, its market share and brand recognition in Australia is still very limited despite ongoing marketing and advertising. The ACCC found that if the proposed acquisition did not proceed, it was unlikely that Pfizer could grow its market share and brand recognition sufficiently in the medium term to operate as a significant constraint upon the market leaders, Panadol and Nurofen and that Nurofen acted as the major constraint on both Panadol and Advil. The ACCC considered that there are a number of generic and private-label OTC pain management products with the same active ingredients as Panadol or Advil, with similar levels of market share to Advil. While these products have much lower market share and brand awareness than Panadol and Nurofen, their market share appears to be gradually increasing and their lower pricing will continue to offer consumers an alternative to Panadol, Advil and Nurofen. Market participants did not raise concerns about the impact of the proposed acquisition on the supply of gastrointestinal, or cold and flu products. Given the low market shares of these products and range of alternative options, the ACCC considered that the proposed acquisition was unlikely to substantially lessen completion in the wholesale or retail supply of gastrointestinal, or cold and flu products."
+  }
+}

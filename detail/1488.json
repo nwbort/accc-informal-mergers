@@ -1,0 +1,31 @@
+{
+  "id": "1488",
+  "title": "Acquirer: Sunbeam Foods Pty Ltd; Target: Angas Park Fruit Company Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sunbeam-foods-pty-ltd-target-angas-park-fruit-company-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18862",
+  "industries": [],
+  "date_completed": "13 April 2004",
+  "date_completed_iso": "2004-04-13T12:00:00Z",
+  "date_commenced": "6 January 2004",
+  "date_commenced_iso": "2004-01-06T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sunbeam Foods Pty Ltd"
+  ],
+  "targets": [
+    "Angas Park Fruit Company Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 24 February 2004, Sunbeam Foods entered into an agreement to acquire Angas Park from Chiquita Brands South Pacific Limited.  Both Angas Park and Sunbeam Foods operate as a processor and marketer of dried fruit, for sale into both the Australian domestic and export market.",
+    "Market definition": "The Commission considered that the relevant market definitions were: the national market for the processing, marketing and sale of dried vine fruit; and the national market for the processing, marketing and sale of dried tree fruit.",
+    "Competition analysis": "The Commission conducted extensive market inquiries into this matter.  Given the presence of a high level of dried fruit imports (in the vicinity of 40 per cent), the Commission carefully considered the likely competition effects of this acquisition at the grower level. The Commission considered concerns that the acquisition would have the effect of creating a single processor for dried fruit in the removal of the final competitor and the possible subsequent downward effect on grower payments.  The Commission also considered concerns as to the inability of growers to switch between alternative uses of dried fruit. Sunbeam Foods agreed upon a memorandum of understanding with the dried fruit industry representative, the Australian Dried Fruits Association.  The MOU's main function is to establish a consultative committee between grower representatives and representatives of the processor.  The consultative committee will establish a forum for communication between the processor and growers.  Sunbeam Foods also agreed that the consultative committee will establish and endorse a dispute resolution process between growers and processor. On the basis of the information before it, including the agreement to form the consultative committee and adoption of dispute resolution procedures, the Commission decided that it would not intervene in this acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "0119"
+  }
+}

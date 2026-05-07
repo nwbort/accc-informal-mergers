@@ -1,0 +1,31 @@
+{
+  "id": "1571",
+  "title": "Acquirer: Flint Ink Australia Pty Ltd; Target: SICPA Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-flint-ink-australia-pty-ltd-target-sicpa-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17315",
+  "industries": [],
+  "date_completed": "18 March 2003",
+  "date_completed_iso": "2003-03-18T12:00:00Z",
+  "date_commenced": "5 February 2003",
+  "date_commenced_iso": "2003-02-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Flint Ink Australia Pty Ltd"
+  ],
+  "targets": [
+    "SICPA Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Flint Ink approached the Commission in February 2003 regarding its proposed acquisition of SICPA's coldset printing ink business.",
+    "Market definition": "Market for coldset printing ink",
+    "Competition analysis": "On 18 March 2003 the Commission decided that it would not oppose the proposed acquisition of SICPA Australia's coldset printing ink business by Flint Ink. SICPA is one of two major domestic manufacturers of coldset ink along with Coates.  Flint Ink is currently a major supplier of imported coldset ink in Australia. The Commission conducted extensive market inquiries into the proposed acquisition, consulting with both competitors and customers of Flint Ink and SICPA. Although the proposed acquisition would result in a high level of market concentration for coldset ink, the potential importation of coldset ink appears to be constraining factor preventing coldset ink prices from rising in the post-acquisition environment.  Market inquiries confirmed that there are low barriers to the importation of coldset ink and that potential imports would act as a competitive constraint on Flint Ink.  Under these circumstances, the Commission concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2547"
+  }
+}

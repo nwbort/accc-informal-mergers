@@ -1,0 +1,28 @@
+{
+  "id": "1545",
+  "title": "Acquirer: Australian Liquor Marketers (WA) Pty Ltd; Target: Carrington Distributors",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-liquor-marketers-wa-pty-ltd-target-carrington-distributors",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18300",
+  "industries": [],
+  "date_completed": "1 July 2003",
+  "date_completed_iso": "2003-07-01T12:00:00Z",
+  "date_commenced": "9 May 2003",
+  "date_commenced_iso": "2003-05-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Liquor Marketers (WA) Pty Ltd"
+  ],
+  "targets": [
+    "Carrington Distributors"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The acquirer, ALM (WA) is the largest independent liquor wholesalers in Western Australia, supplying a significant proportion of liquor outlets in the state.  The target, Carrington Distributors, is an independent liquor wholesaler in Western Australia, servicing approximately 2% of outlets in Western Australia.",
+    "Market definition": "This acquisition was assessed in the market for the wholesale distribution of beer, wine, spirit and ready to drink (RTD) products in Western Australia.",
+    "Competition analysis": "The Commission found that the merged entity was likely to face competition from large vertically integrated retail outlets. In addition, the merged entity was likely to face competition from direct suppliers of wine, spirits, beer and RTDs, which were likely to act as a further price constraint on the pricing of ALM (WA).",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown"
+  }
+}

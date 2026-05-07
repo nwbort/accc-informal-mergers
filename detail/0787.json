@@ -1,0 +1,44 @@
+{
+  "id": "0787",
+  "title": "Aberdeen Asset Management PLC - proposed acquisition of part of Credit Suisse 'Global Investors' business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aberdeen-asset-management-plc-proposed-acquisition-of-part-of-credit-suisse-global-investors-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36644",
+  "industries": [
+    "Asset Management"
+  ],
+  "date_completed": "10 March 2009",
+  "date_completed_iso": "2009-03-10T12:00:00Z",
+  "date_commenced": "19 February 2009",
+  "date_commenced_iso": "2009-02-19T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Aberdeen Asset Management PLC"
+  ],
+  "targets": [
+    "Credit Suisse Asset Management (Australia) Limited"
+  ],
+  "timeline": [
+    {
+      "date": "19 Feb 2009",
+      "date_iso": "2009-02-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "6 Mar 2009",
+      "date_iso": "2009-03-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Mar 2009",
+      "date_iso": "2009-03-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aberdeen proposes to acquire part of the Credit Suisse 'Global Investors' business. In return, Credit Suisse will acquire 240 million new ordinary shares in Aberdeen (which will constitute up to 24.9% of Aberdeen's enlarged share capital). The acquisition will include the transfer of shares in Credit Suisse Asset Management (Australia) Ltd.",
+    "Market definition": "Market for the supply of funds and asset management services in Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the market for the supply of funds and asset management services in Australia. In reaching this view, the key factors considered by the ACCC included that: - there are currently a significant number of available alternative suppliers, and - customers for such services are typically large corporate and institutional bodies, which are likely to have a significant degree of countervailing power."
+  }
+}

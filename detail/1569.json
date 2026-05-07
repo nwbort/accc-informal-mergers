@@ -1,0 +1,31 @@
+{
+  "id": "1569",
+  "title": "Acquirer: Sunny Queen Ltd; Target: Farm Pride Foods Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sunny-queen-ltd-target-farm-pride-foods-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17049",
+  "industries": [],
+  "date_completed": "1 April 2003",
+  "date_completed_iso": "2003-04-01T12:00:00Z",
+  "date_commenced": "2 December 2002",
+  "date_commenced_iso": "2002-12-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sunny Queen Ltd"
+  ],
+  "targets": [
+    "Farm Pride Foods Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Farm Pride Foods (FPF) is a Victorian-based, publicly listed producer and supplier of shell eggs and egg products.  It is vertically integrated in that it is a producer, wholesaler, processor, marketer and distributor of shell eggs, and a processor and marketer of egg product in Australia. Sunny Queen (SQ) is a Queensland based private company that produces and supplies fresh shell eggs. It is vertically integrated in that it produces, grades, distributes and markets shell eggs.  SQ does not presently produce egg product but will soon complete a plant enabling it to do so. SQ proposes to acquire the egg business of FPF.",
+    "Market definition": "For the purpose of competition analysis the following markets were considered: 1.\tthe market for eggs sold in shell form ('shell eggs') in Eastern Australia which includes two functional markets: \"\tthe supermarket market; \"\tthe box market; 2.\tthe market for processed egg products ('egg products') in Eastern Australia with two sub-markets: \"\tthe dried egg products market; \"\tthe liquid egg products market.",
+    "Competition analysis": "The Commission noted that although the proposed acquisition crosses the Commission's concentration thresholds in the eastern Australian shell eggs market and the egg product market, Sunny Queen will continue to be constrained by strong, large competitors and small independents. The Commission also noted the countervailing and bargaining power of customers and the views of market participants that the proposed acquisition is likely to intensify competition. The Commission therefore found that the proposed acquisition is unlikely to result in a substantial lessening of competition in any market. The Commission does not intend to intervene in the proposed transaction.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "0142"
+  }
+}

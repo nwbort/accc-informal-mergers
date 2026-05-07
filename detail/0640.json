@@ -1,0 +1,44 @@
+{
+  "id": "0640",
+  "title": "Transurban Group - considering proposed acquisition of Connector Motorways Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transurban-group-considering-proposed-acquisition-of-connector-motorways-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39539",
+  "industries": [
+    "Motorways"
+  ],
+  "date_completed": "20 April 2010",
+  "date_completed_iso": "2010-04-20T12:00:00Z",
+  "date_commenced": "8 April 2010",
+  "date_commenced_iso": "2010-04-08T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "Transurban Group"
+  ],
+  "targets": [
+    "Connector Motorways Group"
+  ],
+  "timeline": [
+    {
+      "date": "8 Apr 2010",
+      "date_iso": "2010-04-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Apr 2010",
+      "date_iso": "2010-04-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Apr 2010",
+      "date_iso": "2010-04-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transurban was considering a proposal to acquire up to a 100% interest in some or all of the Connector Motorways Group and/or the assets of the Connector Motorways Group, including the Lane Cove Tunnel and Military Road E-ramp.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - the provision of electronic tolling services to motorists in New South Wales, - the provision of tolling services to toll roads in New South Wales, and - toll road construction and ownership in Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would not result in a substantial lessening of competition in any relevant market. In relation to the market for electronic tolling services to motorists, the ACCC considered that toll pricing for the Lane Cove Tunnel and the Military Road E - ramp would be constrained by the Project Deed that related to those assets. In addition, the proposed acquisition would not result in a change of market share in the provision of electronic tolling services to motorists and as such, would be unlikely to impact the constraint provided in relation to administration fees for electronic tag accounts and the quality of service provided for those tags in New South Wales. In relation to the market for the provision of tolling services to toll roads in New South Wales, as the Connector Motorways Group does not provide tolling services to toll roads in New South Wales, the proposed acquisition would not result in a reduction of providers of tolling services. In relation to the market for toll road construction and ownership, the ACCC considered that while the Transurban Group had a large electronic tag base in New South Wales, the proposed acquisition would not result in a significantly larger market share for electronic tags and would be unlikely to give Transurban or a bidding partner a sufficient advantage in bidding for the construction of toll roads in Australia."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0300",
+  "title": "Woodside Energy Limited - proposed acquisition of Apache Corporation's interests in the Wheatstone, Balnaves and Kitimat Projects",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woodside-energy-limited-proposed-acquisition-of-apache-corporations-interests-in-the-wheatstone-balnaves-and-kitimat-projects",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56523",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "5 March 2015",
+  "date_completed_iso": "2015-03-05T12:00:00Z",
+  "date_commenced": "24 December 2014",
+  "date_commenced_iso": "2014-12-24T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Woodside Energy Limited"
+  ],
+  "targets": [
+    "Apache Corporation's interests in petroleum and natural gas assets"
+  ],
+  "timeline": [
+    {
+      "date": "24 Dec 2014",
+      "date_iso": "2014-12-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Feb 2015",
+      "date_iso": "2015-02-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "5 Feb 2015",
+      "date_iso": "2015-02-05T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "10 Feb 2015",
+      "date_iso": "2015-02-10T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "5 Mar 2015",
+      "date_iso": "2015-03-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woodside proposed to acquire interests held by Apache Corporation and its subsidiaries in certain petroleum and natural gas assets, including the Wheatstone, Balnaves and Kitimat Projects.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition in the market for the wholesale supply of natural gas to Western Australia. However, the ACCC did not consider it necessary to form a definitive view on the relevant market because competition concerns were unlikely to arise regardless of the market definition adopted.",
+    "Competition analysis": "The ACCC did not consider that the proposed acquisition of Apache's interests in the Wheatstone, Balnaves and Kitimat Projects would substantially lessen competition in the market for the wholesale supply of natural gas to Western Australia. The ACCC considered that transfer of Apache's interest in Wheatstone would not change the structure of the market in a material way. In particular: * The transfer of market share associated with the proposed acquisition is minimal, with Woodside's share of the total market changing by less than 5 per cent. * Apache is currently one of the largest incumbent suppliers of domestic gas in WA and would remain larger than Woodside after the proposed acquisition. * Woodside would continue to be constrained by several other suppliers after the proposed acquisition, including Apache, Chevron and Santos. The ACCC considered that the proposed acquisition of the Balnaves and Kitimat Projects would not raise competition concerns as these projects are not expected to supply product to Australia."
+  }
+}

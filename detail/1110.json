@@ -1,0 +1,43 @@
+{
+  "id": "1110",
+  "title": "Motherson Sumi Systems Ltd - proposed acquisition of Empire Rubber",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/motherson-sumi-systems-ltd-proposed-acquisition-of-empire-rubber",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25317",
+  "industries": [
+    "Rubber Manufacturing"
+  ],
+  "date_completed": "30 April 2007",
+  "date_completed_iso": "2007-04-30T12:00:00Z",
+  "date_commenced": "19 April 2007",
+  "date_commenced_iso": "2007-04-19T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Motherson Sumi Systems Ltd"
+  ],
+  "targets": [
+    "Empire Rubber"
+  ],
+  "timeline": [
+    {
+      "date": "19 Apr 2007",
+      "date_iso": "2007-04-19T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "27 Apr 2007",
+      "date_iso": "2007-04-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "30 Apr 2007",
+      "date_iso": "2007-04-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "This merger was assessed within the context of the national market for the manufacture and supply of rubber compounds.  The ACCC's competition analysis and conclusion in this matter would not have changed if a broader or narrower market definition were adopted.",
+    "Competition analysis": "On 30 April 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition, as there is no competitive overlap between the merger parties in the relevant market."
+  }
+}

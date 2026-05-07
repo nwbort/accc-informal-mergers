@@ -1,0 +1,75 @@
+{
+  "id": "0255",
+  "title": "The Borg Group - proposed acquisition of MDF manufacturing assets of Alpine MDF Industries Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-borg-group-proposed-acquisition-of-mdf-manufacturing-assets-of-alpine-mdf-industries-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59478",
+  "industries": [
+    "Medium density fibreboard"
+  ],
+  "date_completed": "17 August 2016",
+  "date_completed_iso": "2016-08-17T12:00:00Z",
+  "date_commenced": "26 April 2016",
+  "date_commenced_iso": "2016-04-26T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "The Borg Group"
+  ],
+  "targets": [
+    "MDF manufacturing assets of Alpine MDF Industries Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "26 Apr 2016",
+      "date_iso": "2016-04-26T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 May 2016",
+      "date_iso": "2016-05-04T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "13 May 2016",
+      "date_iso": "2016-05-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "19 May 2016",
+      "date_iso": "2016-05-19T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (30 June) is delayed to allow the merger parties to provide additional information."
+    },
+    {
+      "date": "2 Jun 2016",
+      "date_iso": "2016-06-02T12:00:00Z",
+      "event": "ACCC received information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Jul 2016",
+      "date_iso": "2016-07-07T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "21 Jul 2016",
+      "date_iso": "2016-07-21T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "27 Jul 2016",
+      "date_iso": "2016-07-27T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "12 Aug 2016",
+      "date_iso": "2016-08-12T12:00:00Z",
+      "event": "Former proposed decision date of 1 September 2016 delayed to allow the ACCC to obtain additional information from the merger parties."
+    },
+    {
+      "date": "17 Aug 2016",
+      "date_iso": "2016-08-17T12:00:00Z",
+      "event": "ACCC discontinued its public review after the Borg Group advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {}
+}

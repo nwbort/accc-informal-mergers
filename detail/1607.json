@@ -1,0 +1,31 @@
+{
+  "id": "1607",
+  "title": "Acquirer: Incitec Ltd; Target: Pivot Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-incitec-ltd-target-pivot-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16370",
+  "industries": [],
+  "date_completed": "16 October 2002",
+  "date_completed_iso": "2002-10-16T12:00:00Z",
+  "date_commenced": "17 July 2002",
+  "date_commenced_iso": "2002-07-17T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Incitec Ltd"
+  ],
+  "targets": [
+    "Pivot Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 29 August 2002, Incitec and Pivot publicly announced their intention to merge the two companies.",
+    "Market definition": "Markets for several fertiliser nutrient products in various regional locations on the Australian eastern seaboard.",
+    "Competition analysis": "On 16 October 2002 the Commission announced that it would not oppose the proposed merger between Incitec and Pivot. Incitec and Pivot are the two largest manufacturers and suppliers of fertiliser products in Australia.  The main area of competitive overlap between the companies is in the supply of fertiliser products to farmers on the Australian eastern seaboard. The Commission conducted extensive market inquiries into this proposed merger consulting with farming organisations and competitors amongst others. Market inquiries indicated that the relevant product markets should be categorised on the basis of fertiliser nutrients nitrogen, phosphorus and potassium.  The Commission concluded that fertiliser products containing the same basic nutrient were generally substitutable for each other and constrained each other in price. Despite the merger leading to the merged party having very high market shares in some product categories, the Commission concluded that the importation of fertiliser products is likely to operate as an effective competitive constraint on the merged entity, thereby thwarting any attempt to raise the price of fertiliser to farmers.  Although it is expensive to enter any of the markets through the establishment of a new manufacturing facility, the importation of fertiliser products is fairly routine and does not present an insurmountable barrier.  Independent imports of fertiliser products represent well in excess of 20 per cent of all fertiliser products used by Australian farmers. On this basis, the Commission believes that the proposed merger is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2531"
+  }
+}

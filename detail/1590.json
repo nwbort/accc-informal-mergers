@@ -1,0 +1,32 @@
+{
+  "id": "1590",
+  "title": "Acquirer: Village Roadshow, Village Cinemas Australia Pty Ltd, Hoyts Corporation Pty Ltd The, Greater Union Organisation Pty Ltd; Target: Val Morgan Cinema Advertisers",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-village-roadshow-village-cinemas-australia-pty-ltd-hoyts-corporation-pty-ltd-the-greater-union-organisation-pty-ltd-target-val-morgan-cinema",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16765",
+  "industries": [],
+  "date_completed": "11 December 2002",
+  "date_completed_iso": "2002-12-11T12:00:00Z",
+  "date_commenced": "1 October 2002",
+  "date_commenced_iso": "2002-10-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Village Roadshow, Village Cinemas Australia Pty Ltd, Hoyts Corporation Pty Ltd The, Greater Union Organisation Pty Ltd"
+  ],
+  "targets": [
+    "Val Morgan Cinema Advertisers"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Hoyts, Greater Union and Village propose to acquire Val Morgan",
+    "Market definition": "Relevant markets various markets for cinema exhibition and cinema advertising",
+    "Competition analysis": "The Commission was concerned that this acquisition would result in a substantial lessening of competition in breach of section 50 because: - the acquisition would increase the level of vertical integration in the cinema industry; and - the business of independent cinema exhibitors, who rely heavily on cinema advertising revenue, could be damaged if Val Morgan was controlled by the major cinema exhibitors. To resolve the Commission's competition concerns, the major exhibitors offered the Commission enforceable undertakings.  The undertakings provide that: - two of the acquiring exhibitors will divest their stake in Val Morgan within 18 months of the acquisition; - the undertakings will remain in effect until such time as any advertising contracts existing between Val Morgan and the divesting exhibitors cease to remain in force. Such contracts must, in any case, expire within 12 months of divestment taking place; - Val Morgan will honour existing contracts with independent cinema exhibitors and offer them new cinema advertising contracts when existing contracts expire; and - Val Morgan will guarantee minimum contractual terms to be offered to independent cinema exhibitors. The undertakings also incorporate procedures and checks to ensure the independent exhibitors are dealt with fairly. The Commission was satisfied that the undertakings resolved its competition concerns in relation to the matter.",
+    "Resolution": "Undertakings",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "7851"
+  }
+}

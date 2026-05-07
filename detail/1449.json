@@ -1,0 +1,70 @@
+{
+  "id": "1449",
+  "title": "Alinta Limited , Alcoa of Australia Limited , Alinta Network Services Pty Ltd , DUET Group - acquisition of Dampier to Bunbury Natural Gas Pipeline",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alinta-limited-alcoa-of-australia-limited-alinta-network-services-pty-ltd-duet-group-acquisition-of-dampier-to-bunbury-natural-gas-pipeline",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47626",
+  "industries": [
+    "Gas pipeline"
+  ],
+  "date_completed": "25 October 2004",
+  "date_completed_iso": "2004-10-25T12:00:00Z",
+  "date_commenced": "9 September 2003",
+  "date_commenced_iso": "2003-09-09T12:00:00Z",
+  "total_review_days": 295,
+  "acquirers": [
+    "Alinta Limited",
+    "Alcoa of Australia Limited",
+    "Alinta Network Services Pty Ltd",
+    "DUET Group"
+  ],
+  "targets": [
+    "Dampier to Bunbury Natural Gas Pipeline"
+  ],
+  "timeline": [
+    {
+      "date": "9 Sep 2003",
+      "date_iso": "2003-09-09T12:00:00Z",
+      "event": "ACCC commenced investigation."
+    },
+    {
+      "date": "22 Oct 2004",
+      "date_iso": "2004-10-22T12:00:00Z",
+      "event": "The ACCC accepted the Undertaking from the Consortium comprising Alinta, Alcoa and DUET (the 2004 DBNGP Undertaking)."
+    },
+    {
+      "date": "1 Nov 2004",
+      "date_iso": "2004-11-01T12:00:00Z",
+      "event": "EEWAT Undertaking signed."
+    },
+    {
+      "date": "13 Aug 2007",
+      "date_iso": "2007-08-13T12:00:00Z",
+      "event": "The ACCC accepted two section 87B Undertakings in relation to the acquisition of Alinta by Babcock & Brown Limited and Singapore Power International (the BBI BBP Undertkaing and the BBI SPI Undertaking)."
+    },
+    {
+      "date": "28 Jan 2010",
+      "date_iso": "2010-01-28T12:00:00Z",
+      "event": "The ACCC announced that it consented to the proposed variations of the 2004 DBNGP Undertakings and the 2007 BBI BBP Undertakings."
+    },
+    {
+      "date": "9 Jun 2010",
+      "date_iso": "2010-06-09T12:00:00Z",
+      "event": "The ACCC announced it did not consent to the proposed withdrawal of the undertakings."
+    },
+    {
+      "date": "29 Mar 2011",
+      "date_iso": "2011-03-29T12:00:00Z",
+      "event": "The BBI BBP Undertaking terminated in accordance with its terms."
+    },
+    {
+      "date": "24 Nov 2011",
+      "date_iso": "2011-11-24T12:00:00Z",
+      "event": "The ACCC consented to the withdrawal of the 2004 DBNGP Undertakings."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "On 22 October 2004 the ACCC accepted two undertakings pursuant to section 87B of the then Trade Practices Act 1975 (now the Competition and Consumer Act 2010) (the Act) in relation to the acquisition of the Dampier to Bunbury Natural Gas Pipeline (DBNGP) by a consortium comprising, Alinta Limited (Alinta), Alcoa of Australia Ltd (Alcoa) and DUET.  Amongst other things, the ACCC was concerned about the vertical integration of Alinta which had downstream businesses that used gas transported on the DBNGP. This Undertaking addressed the risk that Alinta would be able to use its position as a part-owner of the DBNGP to favour its downstream businesses over competing shippers on the DBNGP. The ACCC also procured a separate undertaking from Epic Energy (WA) Transmission Pty Ltd (now DBP), the commercial operator of the pipeline, which required it to comply with the relevant terms of the Consortium Undertaking (together the 2004 DBNGP Undertakings). On 29 July 2011 Prime (previously Alinta) divested its 20% interest in the DBNGP to DUET.  As such, Prime no longer has any interest in the DBNGP.  Further, the Operating Services Agreement (OSA) between Westnet (a subsidiary of Prime) and DBNGP Holdings Pty Ltd was amended and novated to ATCO Technologies Australia Pty Ltd which assumed all rights and responsibilities under the OSA. On 24 November 2011, the ACCC consented to the withdrawal of the 2004 DBNGP Undertakings as it was satisfied that Prime no longer had any remaining interest in the DBNGP or DBP, or any contractual connection with any shipper on the DBNGP."
+  }
+}

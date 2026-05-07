@@ -1,0 +1,74 @@
+{
+  "id": "0611",
+  "title": "RP Data Limited - proposed acquisitions of ValEx Group Pty Ltd and the Valuation Management Software division of Sandstone Technology Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/rp-data-limited-proposed-acquisitions-of-valex-group-pty-ltd-and-the-valuation-management-software-division-of-sandstone-technology-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42141",
+  "industries": [
+    "Valuation management"
+  ],
+  "date_completed": "22 July 2010",
+  "date_completed_iso": "2010-07-22T12:00:00Z",
+  "date_commenced": "26 May 2010",
+  "date_commenced_iso": "2010-05-26T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "RP Data Limited"
+  ],
+  "targets": [
+    "ValEx Group Pty Ltd<br/> Sandstone Technology Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "26 May 2010",
+      "date_iso": "2010-05-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Jun 2010",
+      "date_iso": "2010-06-04T12:00:00Z",
+      "event": "ACCC requested further information from RP Data. ACCC timeline suspended."
+    },
+    {
+      "date": "11 Jun 2010",
+      "date_iso": "2010-06-11T12:00:00Z",
+      "event": "ACCC received further information from RP Data. ACCC timeline recommenced. Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jun 2010",
+      "date_iso": "2010-06-18T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "24 Jun 2010",
+      "date_iso": "2010-06-24T12:00:00Z",
+      "event": "ACCC requested further information from the acquirer. Former proposed date for announcement of ACCC's findings amended to allow the merger parties to provide the information requested."
+    },
+    {
+      "date": "25 Jun 2010",
+      "date_iso": "2010-06-25T12:00:00Z",
+      "event": "ACCC received further information from the acquirer and requested further information from the parties. ACCC timeline remains suspended."
+    },
+    {
+      "date": "1 Jul 2010",
+      "date_iso": "2010-07-01T12:00:00Z",
+      "event": "ACCC requested further information from the acquirer. Former proposed decision date of 15 July 2010 amended to allow the merger parties to provide the information requested."
+    },
+    {
+      "date": "13 Jul 2010",
+      "date_iso": "2010-07-13T12:00:00Z",
+      "event": "ACCC received further information from the acquirer. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Jul 2010",
+      "date_iso": "2010-07-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Summary": "RP Data proposes to acquire ValEx Group and the Valuation Management Software division of Sandstone Technology.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisitions in the context of the following markets: - the national market for the supply of valuation management software (VMS) platforms; - regional markets for the supply of physical property valuations (including both kerbside and full valuations); and - the national market for the supply of electronic property valuations (including automated valuation models (AVMs) and electronic valuation reports (EVRs) or 'desktops').",
+    "Competition analysis": "The proposed acquisitions would result in the horizontal aggregation of three suppliers of VMS platforms. It also results in the vertical integration of the merged firm into physical and electronic property valuations. The ACCC concluded that the proposed acquisitions were unlikely to result in a substantial lessening of competition in the relevant markets. In forming this view, the ACCC had regard to: - the relatively low barriers to entry in the market for the supply of VMS platforms and the potential for software developers or valuation firms to enter this market; and - the ability for lending institutions to bypass the merged firm by sponsoring new entry or shifting the VMS function in-house. The ACCC also considered that the merged firm would not have the ability to foreclose any competitors in downstream valuation markets due to lending institutions' requirements to source valuations from a mix of valuation firms in each local area as well as the two factors highlighted above."
+  }
+}

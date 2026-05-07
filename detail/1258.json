@@ -1,0 +1,43 @@
+{
+  "id": "1258",
+  "title": "Mitsui & Co (Australia) Ltd - proposed acquisition of Salt Asia Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitsui-co-australia-ltd-proposed-acquisition-of-salt-asia-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24650",
+  "industries": [
+    "salt harvesting and processing"
+  ],
+  "date_completed": "20 July 2006",
+  "date_completed_iso": "2006-07-20T12:00:00Z",
+  "date_commenced": "30 June 2006",
+  "date_commenced_iso": "2006-06-30T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Mitsui & Co (Australia) Ltd"
+  ],
+  "targets": [
+    "Salt Asia Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jun 2006",
+      "date_iso": "2006-06-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "17 Jul 2006",
+      "date_iso": "2006-07-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Jul 2006",
+      "date_iso": "2006-07-20T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the merger"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The merger was examined within the context of the Western Australian market for the supply of salt and Eastern Australian market for the supply of salt.",
+    "Competition analysis": "The merger between Mitsui and Salt Asia Holdings is unlikely to lead to a substantial lessening of competition in any Australian market for the supply of salt since neither company supplies salt into any Australian market because their production is all exported."
+  }
+}

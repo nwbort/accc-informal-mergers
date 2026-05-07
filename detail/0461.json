@@ -1,0 +1,64 @@
+{
+  "id": "0461",
+  "title": "United Petroleum Pty Ltd - proposed acquisition of petrol retail sites in Morwell, Warragul, Sale and Traralgon from Freedom Fuels Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/united-petroleum-pty-ltd-proposed-acquisition-of-petrol-retail-sites-in-morwell-warragul-sale-and-traralgon-from-freedom-fuels-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46937",
+  "industries": [
+    "Fuel retailing"
+  ],
+  "date_completed": "16 February 2012",
+  "date_completed_iso": "2012-02-16T12:00:00Z",
+  "date_commenced": "21 October 2011",
+  "date_commenced_iso": "2011-10-21T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "United Petroleum Pty Ltd"
+  ],
+  "targets": [
+    "Freedom Fuels Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Oct 2011",
+      "date_iso": "2011-10-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Nov 2011",
+      "date_iso": "2011-11-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Nov 2011",
+      "date_iso": "2011-11-24T12:00:00Z",
+      "event": "Former proposed decision date of 1 December 2011 delayed to allow for provision of outstanding information."
+    },
+    {
+      "date": "5 Dec 2011",
+      "date_iso": "2011-12-05T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 Jan 2012",
+      "date_iso": "2012-01-16T12:00:00Z",
+      "event": "Former proposed decision date of 27 January 2012 delayed to allow for provision of outstanding information."
+    },
+    {
+      "date": "10 Feb 2012",
+      "date_iso": "2012-02-10T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 Feb 2012",
+      "date_iso": "2012-02-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition of Freedom Fuel's petrol retail sites in Morwell, Traralgon and Sale. United has withdrawn its proposal to acquire Freedom Fuel's petrol retail site in Warragul."
+    }
+  ],
+  "body_sections": {
+    "Summary": "United Petroleum Pty Ltd proposed to acquire the following petrol retail sites from Freedom Fuels Australia - Warragul, Morwell, Traralgon and Sale. The above four Freedom Fuels sites were each located in the Gippsland region of Victoria. United Petroleum and Freedom Fuels both operated retail petrol sites in each of the above towns. United Petroleum is vertically integrated and imports petroleum products through its Western Port (Hastings) terminal located in Victoria. Initially, seven other petrol retail sites in Kew, Mt Waverley, Churchill, Maffra, Newborough, Tyers and San Remo were included as part of this review.  At the request of the merger parties, the ACCC made an earlier decision in relation to these sites on 6 December 2011.  The ACCC did not have competition concerns in these markets because United was not operating in any of the relevant local markets at the time of the review. See United / Freedom sites",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of local retail markets for the supply of petrol (including ULP, PULP, E10), diesel and LPG in each of Warragul, Morwell, Traralgon and Sale.",
+    "Competition analysis": "The ACCC formed the view that competition concerns were unlikely to arise in the local retail markets in each of Morwell, Traralgon and Sale due to the existence of a number of competitors to the merged firm in these local markets. The ACCC considered that competition concerns were likely to arise in relation to the supply of petrol in the local market in Warragul. In reaching its conclusion, the ACCC had regard to the following key factors: - the significant market concentration that would arise as a result of the proposed acquisition in Warragul; and - the limited number of competitors that appeared likely to constrain the merged firm post-acquiistion. To remedy the ACCC's concerns, United has withdrawn its proposal to acquire Freedom Fuel's petrol retail site in Warragul. The ACCC considers that this maintains the current market structure in this local market."
+  }
+}

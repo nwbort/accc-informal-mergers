@@ -1,0 +1,31 @@
+{
+  "id": "1468",
+  "title": "Acquirer: Sony Music Entertainment Inc; Target: Bertelsmann Music Group (BMG)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sony-music-entertainment-inc-target-bertelsmann-music-group-bmg",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18986",
+  "industries": [],
+  "date_completed": "4 August 2004",
+  "date_completed_iso": "2004-08-04T12:00:00Z",
+  "date_commenced": "28 May 2004",
+  "date_commenced_iso": "2004-05-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sony Music Entertainment Inc"
+  ],
+  "targets": [
+    "Bertelsmann Music Group (BMG)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed merger of BMG Australia and Sony Music Entertainment (Australia)",
+    "Market definition": "The relevant market was considered to be the separate national markets for wholesale recorded music and on-line music.",
+    "Competition analysis": "While increased concentration in any industry raises issues of a greater potential for coordinated conduct between the remaining players, the ACCC formed the view that the evidence before it suggested that this was unlikely in the traditional and online music markets. The ACCC also noted that significant concern was raised by some market participants regarding the potential impact upon the online distribution of music, digital music standards and on the downstream sale of portable music players. However, the ACCC considered it unlikely that the proposed merger would lead to foreclosure or raise rivals' costs given the emerging and dynamic nature of this aspect of the industry. Nevertheless, the ACCC would be very concerned by any attempt by SonyBMG to utilise its vertical links, including its catalogue of music, to restrict or hinder competition in any emerging market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "5235"
+  }
+}

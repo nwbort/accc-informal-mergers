@@ -1,0 +1,43 @@
+{
+  "id": "0818",
+  "title": "Bridgestone Australia Ltd - proposed acquisition of JLK Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bridgestone-australia-ltd-proposed-acquisition-of-jlk-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34923",
+  "industries": [
+    "Tyres"
+  ],
+  "date_completed": "23 December 2008",
+  "date_completed_iso": "2008-12-23T12:00:00Z",
+  "date_commenced": "10 December 2008",
+  "date_commenced_iso": "2008-12-10T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Bridgestone Australia Ltd"
+  ],
+  "targets": [
+    "JLK Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Dec 2008",
+      "date_iso": "2008-12-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Dec 2008",
+      "date_iso": "2008-12-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Dec 2008",
+      "date_iso": "2008-12-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC assessed the proposed acquisition in terms of the markets for the retail supply of tyres for passenger vehicles in Sydney and the national market for the wholesale supply of tyres for passenger vehicles.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in any relevant market. Factors informing this conclusion included the competitive constraint imposed by a number of alternative retailers in the Sydney market and that, in light of arrangements under the existing franchise agreement, it appears unlikely that the acquisition would increase Bridgestone's ability and incentive to foreclose competition in the national wholesale market."
+  }
+}

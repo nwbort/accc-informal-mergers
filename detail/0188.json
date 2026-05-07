@@ -1,0 +1,87 @@
+{
+  "id": "0188",
+  "title": "Siemens AG and Alstom S.A. propose to combine Siemen's mobility business with Alstom",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/siemens-ag-and-alstom-sa-propose-to-combine-siemens-mobility-business-with-alstom",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63820",
+  "industries": [
+    "Rail mobility"
+  ],
+  "date_completed": "7 February 2019",
+  "date_completed_iso": "2019-02-07T12:00:00Z",
+  "date_commenced": "19 April 2018",
+  "date_commenced_iso": "2018-04-19T12:00:00Z",
+  "total_review_days": 202,
+  "acquirers": [
+    "Siemens A.G"
+  ],
+  "targets": [
+    "Alstom S.A"
+  ],
+  "timeline": [
+    {
+      "date": "19 Apr 2018",
+      "date_iso": "2018-04-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 May 2018",
+      "date_iso": "2018-05-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Jun 2018",
+      "date_iso": "2018-06-26T12:00:00Z",
+      "event": "Former provisional decision date of 12 July 2018 delayed until 16 August 2018 to allow the ACCC time to consider additional information."
+    },
+    {
+      "date": "8 Aug 2018",
+      "date_iso": "2018-08-08T12:00:00Z",
+      "event": "The merger parties requested that the ACCC delay the timeline to allow them to provide further information. The former provisional decision date of 16 August 2018 was suspended pending receipt of the further information."
+    },
+    {
+      "date": "28 Aug 2018",
+      "date_iso": "2018-08-28T12:00:00Z",
+      "event": "The ACCC received further information from the parties."
+    },
+    {
+      "date": "6 Sep 2018",
+      "date_iso": "2018-09-06T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "20 Sep 2018",
+      "date_iso": "2018-09-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties in response to Statement of Issues."
+    },
+    {
+      "date": "16 Nov 2018",
+      "date_iso": "2018-11-16T12:00:00Z",
+      "event": "Former provisional decision date of 29 November 2018 delayed, pending receipt of further information from merger parties and market participants."
+    },
+    {
+      "date": "22 Nov 2018",
+      "date_iso": "2018-11-22T12:00:00Z",
+      "event": "Information from merger parties referred to on 16 November 2018 received.  New provisional decision date set for 31 January 2019."
+    },
+    {
+      "date": "23 Jan 2019",
+      "date_iso": "2019-01-23T12:00:00Z",
+      "event": "Timeline suspended further pending receipt of further information from the merger parties.  Former proposed decision date of 31 January 2019 delayed."
+    },
+    {
+      "date": "6 Feb 2019",
+      "date_iso": "2019-02-06T12:00:00Z",
+      "event": "European Commission prohibited the proposed acquisition."
+    },
+    {
+      "date": "7 Feb 2019",
+      "date_iso": "2019-02-07T12:00:00Z",
+      "event": "ACCC announced that it would discontinue its public review."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Siemens and Alstom proposed to combine Siemens' mobility business with Alstom. In Australia, Siemens carries on business through its wholly owned subsidiary Siemens Ltd; and Alstom carries on business through its wholly-owned subsidiary Alstom Transport Australia Pty Limited."
+  }
+}

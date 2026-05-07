@@ -1,0 +1,49 @@
+{
+  "id": "0676",
+  "title": "Toll Holdings Limited - completed acquisition of Express Logistics Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-completed-acquisition-of-express-logistics-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39406",
+  "industries": [
+    "Freight forwarding"
+  ],
+  "date_completed": "21 December 2009",
+  "date_completed_iso": "2009-12-21T12:00:00Z",
+  "date_commenced": "28 October 2009",
+  "date_commenced_iso": "2009-10-28T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Express Logistics Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "28 Oct 2009",
+      "date_iso": "2009-10-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "31 Oct 2009",
+      "date_iso": "2009-10-31T12:00:00Z",
+      "event": "Toll Holdings Limited acquired Express Logistics Group Ltd."
+    },
+    {
+      "date": "11 Nov 2009",
+      "date_iso": "2009-11-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Dec 2009",
+      "date_iso": "2009-12-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 23 October 2009, Toll Holdings Limited announced the acquisition of Express Logistics Group, which included Express Logistics Australia Pty Ltd.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of a market for the supply of international freight forwarding services for the transport of freight to and from Australia.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to result in a substantial lessening of competition on the basis that Toll's remaining competitors would continue to impose a competitive constraint on Toll's ability to increase its prices or offer lower quality international freight forwarding services to its customers."
+  }
+}

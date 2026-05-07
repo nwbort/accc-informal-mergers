@@ -1,0 +1,442 @@
+Page 1 of 10 
+ 
+Public Competition Assessment 
+29 November 2023 
+Veolia - proposed acquisition of Suez  
+ 
+The ACCC’s decision 
+1. 
+On 21 December 2021, the Australian Competition and Consumer Commission 
+announced its decision not to oppose the proposed acquisition by Veolia 
+Environnement S.A (Veolia) of Suez S.A (Suez) (the proposed acquisition) 
+after accepting three section 87B undertakings to divest:  
+• 
+Certain commercial and industrial waste assets in Sydney, Perth and 
+Adelaide, and medical waste assets in Adelaide to Remondis Australia Pty 
+Limited (Remondis) 
+• 
+Suez’s municipal water business (Suez Water) to a consortium of investors, 
+and 
+• 
+Veolia’s interest in Integrated Waste Services (IWS) in Adelaide to First 
+Sentier Investors (Australia) RE Ltd (First Sentier Investors) (the 
+Undertakings). 
+2. 
+The ACCC considered that the proposed acquisition was unlikely to contravene 
+section 50 of the Competition and Consumer Act 2010 (the Act), taking into 
+account the Undertakings. Section 50 prohibits acquisitions that would have the 
+effect, or be likely to have the effect, of substantially lessening competition in any 
+market. 
+3. 
+The ACCC identified over 60 markets requiring investigation to assess the 
+competitive effect of the proposed acquisition. The ACCC considered the 
+proposed acquisition was unlikely to substantially lessen competition in all but 
+the following six markets:  
+• 
+National / multi-regional commercial and industrial waste collection  
+• 
+Medical waste collection in South Australia 
+• 
+Putrescible waste disposal in the Sydney region 
+• 
+Dry waste disposal in Adelaide 
+
+
+ 
+Page 2 of 10 
+• 
+Design and construction of water and wastewater treatment facilities in 
+Australia, and 
+• 
+Operation and maintenance of water and wastewater treatment facilities in 
+Australia. 
+4. 
+The ACCC considered that without the divestments pursuant to the 
+Undertakings, the proposed acquisition was likely to substantially lessen 
+competition in these six markets.  
+5. 
+This Public Competition Assessment outlines reasons for the decision by the 
+ACCC not to oppose the proposed acquisition, taking into account the 
+Undertakings. 
+6. 
+Please note that this and other public competition assessments are subject to 
+the following qualifications: 
+• 
+The ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily reflect 
+the ACCC’s view of another transaction. 
+• 
+As assessments are relatively brief and do not refer to confidential 
+information, assessments do not necessarily set out all of the issues and 
+information considered by the ACCC.  
+The parties and the transaction 
+The acquirer: Veolia 
+7. 
+Veolia is a public company listed and headquartered in France, with operations 
+in 48 countries. In Australia, Veolia supplies water management, waste 
+management and energy solutions through various wholly owned subsidiaries. 
+The target: Suez 
+8. 
+Suez is a listed holding company headquartered in France with global 
+operations. At the time of the ACCC’s consideration, Suez supplied water 
+management and technology, and waste management and resource recovery 
+services in Australia. 
+The transaction 
+9. 
+On 5 October 2020, Veolia acquired a 29.9% interest in Suez. At this time, 
+Veolia announced its intention to acquire the remaining shares in Suez that it did 
+not already own. After receiving an application for informal review and other 
+information from the parties, the ACCC commenced its public review of the 
+proposed acquisition on 19 February 2021. 
+10. On 14 May 2021, Veolia advised the ACCC of substantial changes to the Suez 
+assets being acquired. These included: 
+
+
+ 
+Page 3 of 10 
+• 
+A number of Suez’s waste processing facilities in the Sydney region were 
+excluded from the proposed acquisition, and were ultimately acquired by 
+Cleanaway on 18 December 2021. 
+• 
+The Suez Water business was also excluded from the proposed acquisition 
+and acquired globally by a consortium of investors known as “new Suez”. 
+Veolia acquired Suez’s Water Technologies and Solutions business. 
+11. The ACCC commenced its review of the revised transaction on 12 July 2021. 
+The ACCC suspended its timeline again in September to allow Veolia to propose 
+remedies aimed at resolving the ACCC’s competition concerns, and the ACCC 
+recommenced the review in November. 
+Market inquiries 
+12. The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, potential competitors, customers, other regulatory 
+agencies and other interested parties. The ACCC sought submissions in relation 
+to the substantive competition issues and the Undertakings. The ACCC 
+conducted inquiries with an extensive number of market participants. 
+Industry background 
+Waste management 
+13. The waste management industry comprises three main categories of activities: 
+• 
+Collections which involves collecting and transporting the waste to post-
+collections facilities for processing or landfilling 
+• 
+Processing which involves the sorting, processing and recycling of waste, 
+and 
+• 
+Disposal of the waste material that remains after recyclable material has 
+been removed, either into landfill or converting waste into a fuel source for 
+use in cement kilns or energy-to-waste facilities. 
+Types of waste 
+14. The major waste types relevant to the proposed acquisition are the following: 
+• 
+Putrescible waste contains organics such as food waste. 
+• 
+Dry waste, or non-putrescible waste, is primarily non-organic waste that is 
+composed of materials such as paper, cardboard, plastics and metals. Non-
+putrescible waste may be recyclable or non-recyclable. 
+• 
+Commercial and industrial waste is mainly generated from commercial 
+buildings and businesses, government facilities, educational institutions and 
+industrial sites. Commercial and industrial waste is generally a mix of 
+putrescible and non-putrescible materials. 
+
+
+ 
+Page 4 of 10 
+• 
+Medical waste is generally treated by incineration / thermal destruction, or 
+autoclaving (i.e. sterilisation) and landfill after treatment. 
+Other waste industry participants 
+15. Cleanaway Pty Ltd (Cleanaway) is an Australian ASX listed company. 
+Cleanaway is a large, vertically integrated waste management company in 
+Australia, supplying recycling, waste management and industrial services. It 
+does not have operations in water management. 
+16. Remondis is a multinational group that supplies waste and water management 
+services, and, at the time of the ACCC’s consideration, a smaller waste 
+management competitor in Australia when compared with Cleanaway, Veolia 
+and Suez. At the time of the ACCC’s consideration, it had operations in New 
+South Wales, Victoria, Queensland and Western Australia. 
+17. There are various other waste management companies around Australia 
+considered “tier 2” and “tier 3” due to their size and geographic presence. JJ 
+Richards & Sons Pty Ltd and Bingo Industries Limited are the largest of these 
+companies. 
+18. First Sentier Investors is a global asset management business with various 
+investments in waste globally, including energy-from-waste. 
+Water management 
+19. Water management services include services to municipal and industrial 
+customers. There are different categories that comprise water management 
+services relevant to the ACCC’s competition concerns: 
+• 
+Design and construction of water and wastewater treatment facilities 
+involves the design and build of one or more parts of a water treatment, 
+recycling or desalination facility. 
+• 
+Operation and maintenance of water and wastewater treatment facilities 
+refers to managing and monitoring the day-to-day activities, and upgrades or 
+repairs.  
+20. At the time of the ACCC’s consideration, the Suez Water business supplied 
+design and construction, and operation and maintenance services mainly to 
+large scale (mostly municipal) customers in Australia. The Suez Australian Water 
+Technologies and Solutions business, which Veolia acquired, supplied design 
+and construction, and operation and maintenance services to industrial 
+customers, as well as other water management services. These other water 
+management services include: 
+• 
+Technological solutions, equipment and components used in water 
+treatment facilities 
+• 
+Water and wastewater network maintenance services 
+• 
+Mobile water services, and 
+• 
+Chemicals used in water treatment facilities.  
+
+
+ 
+Page 5 of 10 
+Market definition and competition analysis 
+21. The ACCC’s starting point for considering which markets will be affected by the 
+proposed acquisition is to identify the areas of overlap between the products and 
+services actually or potentially supplied by the merger parties. The ACCC then 
+considers other actual or potential suppliers of those products and services, as 
+well as what other products and services constitute sufficiently close substitutes 
+to provide a significant source of constraint on the merged entity.  
+22. The ACCC’s approach to defining each of the six markets of focus is outlined 
+below. 
+23. The ACCC’s competition assessment was informed by a range of information 
+provided by Veolia and Suez, including internal documents. The ACCC also 
+conducted extensive market inquiries with, and collected information from, 
+interested third parties. 
+National / multi-regional commercial and industrial waste collection  
+Market definition 
+24. At the time of the ACCC’s consideration, Veolia and Suez both provided 
+commercial and industrial waste collections in most regions across Australia. 
+They competed for national or multi region commercial and industrial customers, 
+typically through tender processes, utilising subcontracting arrangements with 
+local collections companies to service contracts in the areas where they did not 
+have physical operations.  
+25. The ACCC considered that there was a distinct market for national or multi 
+regional commercial and industrial waste collection services, in addition to local 
+and/or regional collections markets. In defining the relevant market, the ACCC 
+had regard to market feedback indicating that large customers that require waste 
+collection services nationally, or across a number of regions of Australia, will 
+conduct one procurement process for all of their sites even if they disaggregate 
+their contracts by state. 
+26. While customer contracts will also include disposal of the collected waste, the 
+ACCC’s view was that collections are a separate market to processing as firms 
+do not have to be vertically integrated to compete for collections contracts, 
+although each of Veolia, Suez and Cleanaway had their own disposal facilities in 
+different regions of Australia at the time of the ACCC’s consideration. 
+Competition analysis 
+27. The ACCC was concerned that the proposed acquisition was likely to remove 
+Suez as a key competitor for national / multi regional commercial and industrial 
+waste collection tenders, and substantially lessen the competitive constraint on 
+Veolia and Cleanaway. 
+28. Veolia and Suez were two of three large, vertically integrated tier 1 suppliers of 
+waste management services in Australia. Competition between these tier 1 
+suppliers was likely to lead to price and service benefits for customers, 
+particularly for national or multi regional customers who generate large volumes 
+of waste and have complex service requirements. The ACCC considered that 
+
+
+ 
+Page 6 of 10 
+tier 2 and 3 competitors do not impose a sufficient competitive constraint as they 
+are at a material competitive disadvantage due to a range of factors when 
+competing for national / multi regional customers. 
+29. As such, the ACCC was concerned that the proposed acquisition would remove 
+Suez as a key source of competitive constraint in the market for national or multi 
+regional commercial and industrial waste collections services, and result in a 
+substantial lessening of competition absent a divestment. 
+Medical waste collection in South Australia 
+Market definition 
+30. The ACCC’s view was that medical waste collection is likely to be distinct from 
+the collection of other types of waste, as the collections equipment is generally 
+distinct from other waste collections equipment and assigned to specifically 
+collect medical waste from customers. Medical waste licences are also required 
+to collect medical waste. 
+31. As collections companies require physical operations in the state and licences 
+from the South Australian Environmental Protection Agency are required for all 
+medical waste collectors, the ACCC considered that the geographic dimension 
+of the market was likely to be limited to South Australia. 
+32. The ACCC considered that medical waste collection is a separate market from 
+treatment or disposal of medical waste as vertical integration is not necessary to 
+compete for collections contracts. 
+Competition analysis 
+33. At the time of the ACCC’s consideration, Veolia and Suez were two of three 
+medical waste collectors operating within South Australia with their own medical 
+waste processing facilities. The other, Cleanaway, owns a medical waste 
+processing facility in Victoria. 
+34. The ACCC’s review indicated that other medical waste collectors were unlikely to 
+constrain a combined Veolia-Suez and Cleanaway. Such that the proposed 
+acquisition would lead to increased prices and/or reduced service levels for 
+medical waste collection in South Australia, and result in a substantial lessening 
+of competition absent a divestment. 
+Putrescible waste disposal in the Sydney region 
+Market definition 
+35. Veolia owned two putrescible transfer stations and the Woodlawn putrescible 
+landfill servicing the Sydney region. At the time of the ACCC’s consideration, 
+Suez owned eight putrescible transfer stations and the Lucas Heights landfill in 
+Sydney. 
+36. The ACCC considered that putrescible waste disposal is in a separate market to 
+non-putrescible waste disposal due to the licensing requirements from the NSW 
+Environmental Protection Agency. While putrescible waste disposal facilities are 
+capable of accepting non-putrescible waste, putrescible waste can only be 
+disposed of at facilities that are licensed to take putrescible waste. 
+
+
+ 
+Page 7 of 10 
+37. The ACCC did not reach a concluded view on the precise definition or scope of 
+these markets, for example whether transfer stations and landfills are separate 
+markets or part of a single waste disposal market. 
+38. Both Veolia’s Woodlawn and Suez’s Lucas Heights landfills service the Sydney 
+region, and account for a large amount of Sydney putrescible waste disposal. As 
+such, the ACCC considered that the geographic dimension of the market was 
+likely to be in the Sydney region. 
+Competition analysis 
+39. The ACCC was concerned that the proposed acquisition would remove Suez as 
+Veolia’s closest competitor for the supply of putrescible waste disposal in 
+Sydney, and reduce the number of putrescible waste disposal operators from 
+three to two.  
+40. As such, the ACCC was concerned that the proposed acquisition would 
+substantially lessen competition, as Veolia would have the ability and incentive 
+to increase waste disposal prices post-acquisition, which may also affect the 
+ability of competing waste collectors to compete for collections customers, 
+without the exclusion of Suez’s Lucas Heights putrescible landfill and five 
+putrescible transfer stations in Sydney from the transaction. 
+Dry waste disposal in Adelaide 
+Market definition 
+41. At the time of the ACCC’s consideration, Veolia owned a 50.1% interest in IWS, 
+with a transfer station and landfill licensed to accept both dry and putrescible 
+waste, located in Adelaide. Suez had a joint venture in the ResourceCo facility, 
+licensed to accept dry waste only. 
+42. Further to paragraphs 35 and 36 above, the ACCC considered that there was 
+likely to be a market for dry, or non-putrescible, waste disposal which includes 
+both non-putrescible and putrescible transfer stations and landfills. 
+43. The ACCC did not consider it necessary to arrive at a concluded view on the 
+geographic dimension of the market, but considered it was likely to be in 
+Adelaide. 
+Competition analysis 
+44. The ACCC considered the proposed acquisition would be likely to substantially 
+lessen competition in the market for dry waste disposal servicing Adelaide. 
+45. Through their joint ventures, Veolia and Suez operated two of the three main dry 
+waste disposal facilities in the Adelaide region used by commercial and industrial 
+collections companies.  
+46. The ACCC was concerned that the proposed acquisition would remove Suez 
+ResourceCo as a key source of competitive constraint on IWS and the other 
+landfills servicing the Adelaide region, resulting in a substantial lessening of 
+competition and potentially leading to increased prices for dry waste disposal 
+post-acquisition, absent a divestment.  
+
+
+ 
+Page 8 of 10 
+Design and construction of water and wastewater treatment facilities in 
+Australia 
+Market definition 
+47. At the time of the ACCC’s consideration, Veolia and Suez overlapped in the 
+provision of design and construction services for water and wastewater 
+treatment facilities in Australia. While neither Veolia nor Suez were active in the 
+construction aspect of these services, they would typically partner with 
+construction firms to tender for projects. 
+48. The ACCC’s view is that design and construction of water treatment facilities is 
+separate to the operation and maintenance of water treatment facilities as: 
+• 
+Design and construction contracts are short term in length, whereas some 
+operation and maintenance contracts are up to 15 years in duration. 
+• 
+The skills required to deliver the services differ. 
+• 
+Customers have a greater ability to insource operation and maintenance 
+requirements. 
+49. The ACCC also considered whether there were separate markets for the supply 
+of design and construction services to large scale municipal projects, as 
+opposed to smaller scale industrial projects, however did not reach a concluded 
+view on the precise definition or scope of these markets. 
+50. The ACCC considered that the geographic dimension of the market is likely to be 
+national. 
+Competition analysis 
+51. The ACCC considered that Veolia and Suez were two of the largest suppliers of 
+design and construction services for large scale projects, and likely to be each 
+other’s closest competitors.  
+52. The ACCC considered that there were few competitors able to replace the 
+competition lost as a result of the proposed acquisition, and barriers to those 
+competitors expanding their presence included demonstrated technical capability 
+on large scale projects. In comparison, the ACCC considered there are a 
+sufficient number of design and construction competitors for industrial projects 
+and barriers to entry or expansion are lower. 
+53. As such, the ACCC was concerned that the proposed acquisition would remove 
+Suez as a close competitor to Veolia, and be likely to result in a substantial 
+lessening of competition, absent a divestment. 
+Operation and maintenance of water and wastewater treatment facilities 
+in Australia 
+Market definition 
+54. At the time of the ACCC’s consideration, Veolia and Suez overlapped in the 
+provision of operation and maintenance of water and wastewater treatment 
+facilities in Australia.  
+
+
+ 
+Page 9 of 10 
+55. The ACCC considered there was a national market for the supply of operation 
+and maintenance services. Similar to design and construction services, the 
+ACCC considered whether there may be separate markets for the supply of 
+services to large scale projects (typically municipal), as opposed to industrial 
+projects that are typically smaller scale but did not arrive at a concluded view. 
+Competition analysis 
+56. The ACCC considered that Veolia and Suez were the two market leaders for 
+operation and maintenance services for large scale water and wastewater 
+treatment facilities by a large margin, and likely to be each other’s closest 
+competitors. 
+57. Market feedback indicated that other operation and maintenance providers did 
+not have the demonstrated technical capability and expertise, local experience 
+and ability to secure large capital in order to compete effectively with Veolia and 
+Suez. 
+58. Absent a divestment, the ACCC was concerned that the proposed acquisition 
+would result in a substantial lessening of competition, and allow Veolia to 
+increase prices and/or reduce service levels for large scale operation and 
+maintenance projects.  
+Undertakings 
+59. In order to address the ACCC’s competition concerns in relation to the proposed 
+acquisition, Veolia offered three Undertakings pursuant to section 87B of the Act: 
+• 
+Commercial and industrial and Medical Waste Undertaking: Veolia divested 
+a collection of Veolia’s and Suez’s commercial and industrial waste 
+collection and medical waste assets in Sydney, Perth and Adelaide, and 
+some national commercial and industrial waste customer contracts to 
+Remondis. 
+• 
+IWS Undertaking: Veolia divested its 50.01 per cent interest in IWS in 
+Adelaide to Pelican Asset Co Pty Ltd, Pelican Land Co Pty Ltd and First 
+Sentier Investors.1 
+• 
+Water Services Undertaking: Veolia divested Suez’s municipal water 
+business, which supplies design and construction, and operation and 
+maintenance services for large scale water projects for local authorities and 
+municipal customers to a consortium of investors, which is now known as 
+‘new Suez’. The consortium is comprised of Meridiam S.A.S., Global 
+infrastructure Management, LLC, Caisse des Dépôts et Consignations and 
+CNP Assurances S.A. 
+60. The ACCC engaged with a range of market participants for feedback on the 
+Undertakings.  
+ 
+1  Given the transaction between Veolia and FSI closed prior to completion of the proposed 
+acquisition, Veolia was not required to divest its interest in IWS in accordance with the IWS 
+Undertaking 
+
+
+ 
+Page 10 of 10 
+61. The ACCC concluded that the divestiture commitments set out in the 
+Undertakings addressed its competition concerns with the proposed acquisition. 
+Copies of the Undertakings are available on the ACCC mergers register and 
+undertakings register.  
+62. Veolia also offered the ACCC a proposed undertaking relating to the divestment 
+of Sydney waste assets to Cleanaway to resolve the ACCC’s competition 
+concerns in the market for putrescible waste disposal in the Sydney region. This 
+was ultimately not required by the ACCC as the transaction between Cleanaway 
+and Suez completed on 18 December 2021, prior to the ACCC’s decision. 
+Conclusion 
+63. Based on the above analysis, the ACCC concluded that the proposed acquisition 
+of Suez by Veolia, taking into account the Undertakings, was unlikely to have the 
+effect of substantially lessening competition in any market. 

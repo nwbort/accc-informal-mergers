@@ -1,0 +1,49 @@
+{
+  "id": "0705",
+  "title": "Transpacific Superior Pak Pty Ltd - completed acquisition of Nylex Materials Handling Division",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-superior-pak-pty-ltd-completed-acquisition-of-nylex-materials-handling-division",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38068",
+  "industries": [
+    "Plastic household and industrial products"
+  ],
+  "date_completed": "30 September 2009",
+  "date_completed_iso": "2009-09-30T12:00:00Z",
+  "date_commenced": "17 August 2009",
+  "date_commenced_iso": "2009-08-17T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Transpacific Superior Pak Pty Ltd"
+  ],
+  "targets": [
+    "Nylex Materials Handling Division"
+  ],
+  "timeline": [
+    {
+      "date": "14 Aug 2009",
+      "date_iso": "2009-08-14T12:00:00Z",
+      "event": "Transpacific Superior Pak Pty Ltd acquired Nylex Materials Handling Division."
+    },
+    {
+      "date": "17 Aug 2009",
+      "date_iso": "2009-08-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "1 Sep 2009",
+      "date_iso": "2009-09-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Sep 2009",
+      "date_iso": "2009-09-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Superior Pak Pty Ltd - completed acquisition of Nylex Materials Handling Division",
+    "Market definition": "The relevant markets were considered to be: -the supply of 2 Wheel mobile garbage bins (2 Wheel MGB) in NSW (NSW Market); and -the supply of 2 Wheel MGB in VIC (VIC Market).",
+    "Competition analysis": "As a result of the acquisition TPI would become the second largest supplier of 2 Wheel MGB in the VIC Market and NSW Market.  In particular, TPI would significantly consolidate its position in the VIC Market where it would increase its market share.  The main customers of the target firm, Nylex, are direct rivals of TPI in waste collection markets and there are possible conglomerate effects between the supply of 2 Wheel MGBs and waste collection services. However, market inquiries indicated that competition concerns are unlikely to arise in either market given the merged entity would continue to face effective competition in both markets from other bin manufacturers such as Sulo, and a lesser extent Mastec as well as from imports, which are likely to have the ability to expand supply and constrain the merged firm. In light of the factors above, the ACCC considered that the acquisition is unlikely to substantially lessen competition in the relevant markets."
+  }
+}

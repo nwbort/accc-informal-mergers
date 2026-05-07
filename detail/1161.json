@@ -1,0 +1,49 @@
+{
+  "id": "1161",
+  "title": "AGL Energy Limited - proposed acquisition of Queensland Gas Company Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-proposed-acquisition-of-queensland-gas-company-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26628",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "24 January 2007",
+  "date_completed_iso": "2007-01-24T12:00:00Z",
+  "date_commenced": "21 December 2006",
+  "date_commenced_iso": "2006-12-21T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "Queensland Gas Company Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Dec 2006",
+      "date_iso": "2006-12-06T12:00:00Z",
+      "event": "ACCC commenced monitoring of proposal"
+    },
+    {
+      "date": "21 Dec 2006",
+      "date_iso": "2006-12-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "18 Jan 2007",
+      "date_iso": "2007-01-18T12:00:00Z",
+      "event": "Closing date for submissions at 9am"
+    },
+    {
+      "date": "24 Jan 2007",
+      "date_iso": "2007-01-24T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL and QGC announced on 5 December 2006 that they had agreed to a number of proposed arrangements, which provided for AGL to take an initial 27.5 % stake in QGC. This stake could be permitted to rise to 30%. As part of the proposed arrangements AGL would be able to appoint three of the nine directors to a newly expanded QGC board of nine directors.  The arrangements also provided for AGL and QGC to enter into a gas sale agreement for AGL to purchase 540 petajoules of gas over 20 years, with an additional option of 200 petajoules",
+    "Market definition": "The ACCC primarily assessed the proposed acquisition in terms of markets for the marketing of wholesale gas in the southern Queensland region (as connected by pipeline infrastructure), and for retailing gas in southern Queensland.  The ACCC also considered whether the proposed acquisition would have likely anticompetitive impacts on broader wholesale gas marketing and gas retailing regions, as well as considering any anticompetitive impacts on electricity generation.",
+    "Competition analysis": "In terms of horizontal aggregation, the ACCC took into consideration AGL's relatively limited involvement in gas production in southern Queensland. The ACCC investigated the possibility that southern Queensland may be linked by pipeline to northern Queensland in the future, an area where AGL does have significant gas interests, but decided that it did not alter the competition assessment of the horizontal aggregation issues significantly. The ACCC also analysed the vertical integration that would occur due to AGL's recent acquisition of SunGas, which had large interests in Queensland gas retailing. The ACCC decided that the existence of both Origin (a vertically integrated competitor) and Santos as key competitors in gas production would be likely to lessen any possible competition effects arising from this vertical integration. The ACCC also noted the size of AGL's stake (up to 30%), the nature of the agreements, and the likelihood of QGC remaining an effective competitor in gas exploration and production post the proposed acquisition. In conclusion, the ACCC formed the view that AGL's proposed acquisition of up to 30% of QGC was unlikely to contravene section 50 of the Trade Practices Act 1974."
+  }
+}

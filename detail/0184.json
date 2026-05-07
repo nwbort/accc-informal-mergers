@@ -1,0 +1,49 @@
+{
+  "id": "0184",
+  "title": "Lochard Energy - proposed acquisition of the Heytesbury Assets from Origin Energy",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lochard-energy-proposed-acquisition-of-the-heytesbury-assets-from-origin-energy",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "21 March 2019",
+  "date_completed_iso": "2019-03-21T12:00:00Z",
+  "date_commenced": "1 February 2019",
+  "date_commenced_iso": "2019-02-01T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Lochard Energy (Iona Operations) Pty Ltd"
+  ],
+  "targets": [
+    "Origin Energy Limited"
+  ],
+  "timeline": [
+    {
+      "date": "1 Feb 2019",
+      "date_iso": "2019-02-01T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Feb 2019",
+      "date_iso": "2019-02-22T12:00:00Z",
+      "event": "Closing date for submissions from  interested parties."
+    },
+    {
+      "date": "20 Mar 2019",
+      "date_iso": "2019-03-20T12:00:00Z",
+      "event": "Former proposed decision date of 4 April 2019 brought forward."
+    },
+    {
+      "date": "21 Mar 2019",
+      "date_iso": "2019-03-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lochard Energy proposed to acquire the Heytesbury Assets from Origin Energy",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition for the supply of underground gas storage in Victoria and South Australia. The ACCC did not reach a concluded view on whether the relevant market also includes other storage or swing alternatives (such as pipeline storage, LNG storage, seasonal shaping of gas production and north-south gas flows), but considered that those alternatives impose limited constraints on underground gas storage providers, due to the differences in the volumes of gas able to be stored, the withdrawal and injection rates, and the costs involved.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not be likely to substantially lessen competition in any relevant market. The ACCC considers that Lochard’s existing Iona facility has a dominant position in the supply of underground gas storage in southern Australia. However, the ACCC found that due to technical and commercial uncertainties regarding the development of the Heytesbury Assets as a greenfields project, it is unlikely that another operator could viably develop the assets. Lochard may have the option to use its existing infrastructure nearby at Iona and undertake brownfield development of the Heytesbury Assets for incremental gas storage. Most customers of underground gas storage services did not express concerns about the proposed acquisition, acknowledging that Lochard is in a better position to develop the Heytesbury Assets. The ACCC also noted the proposed underground gas storage development at the Golden Beach reservoir. The ACCC considers that the Golden Beach reservoir, if developed into an underground gas storage facility, is likely to place some competitive constraints on Lochard’s Iona facility."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "0657",
+  "title": "Constellation Brands Inc and Australian Vintage Limited - possible merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/constellation-brands-inc-and-australian-vintage-limited-possible-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40061",
+  "industries": [
+    "Wine"
+  ],
+  "date_completed": "23 February 2010",
+  "date_completed_iso": "2010-02-23T12:00:00Z",
+  "date_commenced": "15 December 2009",
+  "date_commenced_iso": "2009-12-15T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Constellation Brands Inc"
+  ],
+  "targets": [
+    "Australian Vintage Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2009",
+      "date_iso": "2009-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Jan 2010",
+      "date_iso": "2010-01-11T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "13 Jan 2010",
+      "date_iso": "2010-01-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jan 2010",
+      "date_iso": "2010-01-18T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Jan 2010",
+      "date_iso": "2010-01-19T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "25 Jan 2010",
+      "date_iso": "2010-01-25T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "3 Feb 2010",
+      "date_iso": "2010-02-03T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings. Decision delayed to allow the ACCC to conduct further inquiries."
+    },
+    {
+      "date": "4 Feb 2010",
+      "date_iso": "2010-02-04T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "12 Feb 2010",
+      "date_iso": "2010-02-12T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Feb 2010",
+      "date_iso": "2010-02-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the possible merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "At the time of the ACCC's review, Constellation Brands, Inc (CBI) and Australian Vintage Limited (AVL) were in discussions regarding a possible merger whereby certain of CBI's Australian and UK wine operations would be combined with AVL in exchange for a non-controlling 50% equity interest in the merged entity.",
+    "Market definition": "The ACCC considered the possible merger in the context of the following markets: - regional markets for the acquisition of wine grapes; - a national market for the production and wholesale supply of bottled wine; and - a national market for the production and wholesale supply of cask wine.",
+    "Competition analysis": "Wine grapes The ACCC formed the view that the possible merger is unlikely to substantially lessen competition in the relevant acquisition markets for wine grapes. The ACCC recognised the current and forecast oversupply of wine grapes and wine in Australia, which, in conjunction with long-term contracts between some growers and wineries, limit switching options for growers in the foreseeable future. While the merged firm would account for a large proportion of purchases from independent growers in some regions, the possible merger would not result in significant aggregation of such purchases, since AVL's purchases of grapes from independent growers are in decline. Moreover, the ACCC considered that once overall supply and demand balance has been restored, the presence of alternative purchasers in all regions with the ability to expand their production facilities and grape purchases would provide a competitive constraint on the merged firm in the acquisition of wine grapes. Wine The ACCC formed the view that the possible merger is unlikely to substantially lessen competition in the relevant wine supply markets. There would remain a number of large and mid-sized alternative suppliers of branded and private label bottled and cask wine, with excess production capacity and an ability to expand."
+  }
+}

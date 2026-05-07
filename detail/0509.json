@@ -1,0 +1,54 @@
+{
+  "id": "0509",
+  "title": "Hanson Construction Materials Pty Ltd - proposed acquisition of Galli Quarry Business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hanson-construction-materials-pty-ltd-proposed-acquisition-of-galli-quarry-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45628",
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "6 July 2011",
+  "date_completed_iso": "2011-07-06T12:00:00Z",
+  "date_commenced": "12 April 2011",
+  "date_commenced_iso": "2011-04-12T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Hanson Construction Materials Pty Ltd"
+  ],
+  "targets": [
+    "Galli Quarry Business"
+  ],
+  "timeline": [
+    {
+      "date": "12 Apr 2011",
+      "date_iso": "2011-04-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 May 2011",
+      "date_iso": "2011-05-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 May 2011",
+      "date_iso": "2011-05-17T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties.  ACCC timeline suspended.  Former proposed date for announcement of ACCC findings of 7 June 2011 delayed."
+    },
+    {
+      "date": "14 Jun 2011",
+      "date_iso": "2011-06-14T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 Jul 2011",
+      "date_iso": "2011-07-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Hanson Construction Materials Pty Ltd proposed acquisition of Galli Quarry Business by way of acquisition of Galli Quarries Pty Ltd, Allied Quarries Pty Ltd, Renzall Pty Ltd and Fairfield Pre-Mix Concrete Pty Ltd.",
+    "Market definition": "The ACCC considered whether the proposed acquisition would substantially lessen competition in the following markets: (a)          a market for the supply of aggregate suitable for use in concrete production (Concrete Aggregate) centred in the northern suburbs of Melbourne which reaches at least to the CBD and the Southbank area, but may not cover the entire metropolitan area of Melbourne; and (b)         a market for the supply of concrete covering the northern Melbourne metropolitan area and extending at least as far as the inner southern suburbs, to include areas such as Southbank and Laverton. The ACCC also considered the effect of the transaction on regional markets for the supply of Concrete Aggregate and concrete surrounding the Kilmore quarry.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets for the following reasons: -  with or without the proposed acquisition, the number of quarry operators mining at East Kilmore is likely to reduce from two to one within two years as the reserves of the Hanson Quarry become exhausted.; -  there are a number of alternative Concrete Aggregate suppliers that could supply actual and potential downstream customers in the relevant markets; and -  the proposed acquisition is unlikely to meaningfully increase the ability of major vertically integrated firms to coordinate conduct or foreclose downstream competitors."
+  }
+}

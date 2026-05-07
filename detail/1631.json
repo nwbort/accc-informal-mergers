@@ -1,0 +1,30 @@
+{
+  "id": "1631",
+  "title": "Acquirer: Origin Energy Limited; Target: Citipower Pty",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-origin-energy-limited-target-citipower-pty",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16418",
+  "industries": [],
+  "date_completed": "3 July 2002",
+  "date_completed_iso": "2002-07-03T12:00:00Z",
+  "date_commenced": "14 May 2002",
+  "date_commenced_iso": "2002-05-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Origin Energy Limited"
+  ],
+  "targets": [
+    "Citipower Pty"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Sale of CitiPower by American Electric International.  Origin Energy acquired CitiPower's electricity retail business. Origin sought to acquire CitiPower's electricity retail business in a consortium with CKI, which sought to acquire CitiPower's electricity distribution business.",
+    "Market definition": "Both CitiPower and Origin Energy retail electricity in Victoria.",
+    "Competition analysis": "CitiPower is one of the five incumbent Victorian electricity retail businesses and also owns one of the five Victorian electricity distribution businesses.  Origin Energy operates an electricity and gas retail business in Victoria and  also has significant gas retail operations in South Australia and Queensland. Extensive market inquiries indicated that the acquisition was unlikely to result in a substantial lessening of competition.  Post merger, Origin Energy would continue to face competition in electricity retailing from other businesses such as TXU and AGL.  To date, these parties had competed strongly to supply contestable Victorian electricity consumers. It was also noted that many businesses had access to interstate electricity retailers that were prepared to sell electricity to that sector.  Accordingly, the Commission did not oppose the acquisition.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "3610"
+  }
+}

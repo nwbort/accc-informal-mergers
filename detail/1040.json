@@ -1,0 +1,39 @@
+{
+  "id": "1040",
+  "title": "Bank of Queensland Limited - proposed acquisition of Mackay Permanent Building Society",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bank-of-queensland-limited-proposed-acquisition-of-mackay-permanent-building-society",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29621",
+  "industries": [
+    "Banking"
+  ],
+  "date_completed": "13 September 2007",
+  "date_completed_iso": "2007-09-13T12:00:00Z",
+  "date_commenced": "13 September 2007",
+  "date_commenced_iso": "2007-09-13T12:00:00Z",
+  "total_review_days": 1,
+  "acquirers": [
+    "Bank of Queensland Limited"
+  ],
+  "targets": [
+    "Mackay Permanent Building Society"
+  ],
+  "timeline": [
+    {
+      "date": "13 Sep 2007",
+      "date_iso": "2007-09-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Sep 2007",
+      "date_iso": "2007-09-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BoQ proposes to acquire MPBS.",
+    "Market definition": "In any market for banking and/or insurance service, however defined, no substantial lessening of competition is likely due to competition from many other players of various sizes, particularly given the minimal increment in market share as a result of the transaction.",
+    "Competition analysis": "No substantial lessening of competition is likely due to competition from many other players of various sizes, particularly given the minimal increment in market share as a result of the transaction."
+  }
+}

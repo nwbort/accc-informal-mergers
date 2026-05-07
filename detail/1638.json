@@ -1,0 +1,31 @@
+{
+  "id": "1638",
+  "title": "Acquirer: Smorgon Steel Group Ltd; Target: Nonferral Recyclers Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-smorgon-steel-group-ltd-target-nonferral-recyclers-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15936",
+  "industries": [],
+  "date_completed": "25 June 2002",
+  "date_completed_iso": "2002-06-25T12:00:00Z",
+  "date_commenced": "7 May 2002",
+  "date_commenced_iso": "2002-05-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Smorgon Steel Group Ltd"
+  ],
+  "targets": [
+    "Nonferral Recyclers Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Smorgon Steel Group (SSG) proposed acquiring certain plant and equipment of Nonferral Pty Ltd in WA, SA and Qld from the liquidator.",
+    "Market definition": "The market for recycling non-ferrous metals in each of WA, SA and Qld.",
+    "Competition analysis": "The Commission decided that the acquisition was unlikely to result in a substantial lessening of competition in each of the markets.  In reaching this decision the Commission considered that the acquisitions by SSG would not result in it breaching the Commission's market concentration thresholds, the  price of recycled metals is often referenced to prices on the LME and that these prices are transparent to customers, and the barriers to entering the recycling market are not substantial.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "2729"
+  }
+}

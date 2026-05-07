@@ -1,0 +1,44 @@
+{
+  "id": "0804",
+  "title": "Telstra Corporation Ltd - completed acquisition of spectrum licence from Commander Communications Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/telstra-corporation-ltd-completed-acquisition-of-spectrum-licence-from-commander-communications-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36129",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "10 February 2009",
+  "date_completed_iso": "2009-02-10T12:00:00Z",
+  "date_commenced": "5 January 2009",
+  "date_commenced_iso": "2009-01-05T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Telstra 3G Spectrum Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Commander Communications Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jan 2009",
+      "date_iso": "2009-01-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Jan 2009",
+      "date_iso": "2009-01-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Feb 2009",
+      "date_iso": "2009-02-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Telstra acquired the licence for 5MHz of radio spectrum in the 1905MHz to 1910MHz band (in the 2GHz Lower Band). The licence was sold by the receivers of Commander Communications, which went into voluntary administration on 8 August 2008.",
+    "Market definition": "The ACCC did not reach a concluded view in relation to market definition, however considered whether the acquisition may have raised competition concerns in relation to: - the availability of suitable spectrum; - competition for wireless broadband services; or - competition for mobile TV services.",
+    "Competition analysis": "The ACCC noted that the acquisition represented only a minor increase in the spectrum held by Telstra, and the presence of other potential providers of wireless broadband and mobile TV services. The ACCC concluded the acquisition was unlikely to have had the effect of substantially lessening competition."
+  }
+}

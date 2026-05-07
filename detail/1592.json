@@ -1,0 +1,31 @@
+{
+  "id": "1592",
+  "title": "Acquirer: Industrial Galvanizers Corporation Pty Ltd; Target: Webforge Australasia, Webforge Asia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-industrial-galvanizers-corporation-pty-ltd-target-webforge-australasia-webforge-asia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16974",
+  "industries": [],
+  "date_completed": "3 December 2002",
+  "date_completed_iso": "2002-12-03T12:00:00Z",
+  "date_commenced": "11 November 2002",
+  "date_commenced_iso": "2002-11-11T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Industrial Galvanizers Corporation Pty Ltd"
+  ],
+  "targets": [
+    "Webforge Australasia, Webforge Asia"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 4 November 2002 Industrial Galvanizers Corporation (IGC) informed the Commission that it had entered negotiations and was undertaking due diligence for the proposed acquisition of the Webforge Group of companies consisting of Webforge Australasia and Webforge Asia with the aim of completing the transaction in January 2003.",
+    "Market definition": "Various product markets for manufactured steel products",
+    "Competition analysis": "On 3 December 2002 the Commission decided not to intervene in this proposed acquisition.  This decision was reached on the basis that there was no competitive overlap in the product range of IGC and the Webforge Group of companies in Australia and that the acquisition was therefore unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2769"
+  }
+}

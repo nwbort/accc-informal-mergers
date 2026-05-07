@@ -1,0 +1,44 @@
+{
+  "id": "1171",
+  "title": "Nestle Australia Ltd - proposed acquisition of Green's Foods Ltd's pet food business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nestle-australia-ltd-proposed-acquisition-of-greens-foods-ltds-pet-food-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26631",
+  "industries": [
+    "Pet food"
+  ],
+  "date_completed": "20 December 2006",
+  "date_completed_iso": "2006-12-20T12:00:00Z",
+  "date_commenced": "6 December 2006",
+  "date_commenced_iso": "2006-12-06T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Nestle Australia Ltd"
+  ],
+  "targets": [
+    "Green's Foods Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Dec 2006",
+      "date_iso": "2006-12-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "13 Dec 2006",
+      "date_iso": "2006-12-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Dec 2006",
+      "date_iso": "2006-12-20T12:00:00Z",
+      "event": "The ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nestle Australia Ltd - proposed acquisition of Green's Foods Ltd's pet food business",
+    "Market definition": "The Australian markets for dry dog food, dry cat food and pet treats were involved in this proposed acquisition.  In light of the minimal increase in concentration in the dry cat food and pet treats markets arising from the proposed acquisition, the ACCC considered the relevant market to be the Australian market for the manufacture and sale of dry dog food.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion included: -\tthe availability of substitutes in consumption and production; -\tthe significant countervailing power of supermarket chains; -\tthe presence of Masterfoods in the market; and -\tthe actual and potential competition from Colgate-Palmolive and Procter & Gamble."
+  }
+}

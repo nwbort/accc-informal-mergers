@@ -1,0 +1,31 @@
+{
+  "id": "1491",
+  "title": "Acquirer: Pacific National Pty Ltd; Target: Australian Transport Network Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pacific-national-pty-ltd-target-australian-transport-network-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18959",
+  "industries": [],
+  "date_completed": "30 March 2004",
+  "date_completed_iso": "2004-03-30T12:00:00Z",
+  "date_commenced": "2 February 2004",
+  "date_commenced_iso": "2004-02-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pacific National Pty Ltd"
+  ],
+  "targets": [
+    "Australian Transport Network Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission investigated the acquisition of Australian Transport Network (\"ATN\") by Pacific National.  ATN owns Tasrail and has some operations on the mainland.  Pacific National is a key player in the mainland rail sector.  Pacific National is operated as a joint venture owned by Toll Holdings and Patrick Corporation.",
+    "Market definition": "The Commission did not consider that market definition was a critical issue and so did not analyse market definition issues in detail.  The Commission considered that the following markets may be appropriate: 1. general freight haulage tasks in Tasmania where road is price competitive; and 2. rail haul tasks in Tasmania for which road is not price competitive.",
+    "Competition analysis": "The Commission considered that the acquisition was unlikely to substantially lessen competition in any market.  The Commission took into consideration the fact that there was only one significant freight rail operator in Tasmania, and that this would remain the case after the acquisition.  The Commission took into consideration the small scale of ATN's mainland standard gauge rail operations. The Commission also considered vertical issues, particularly relating to Bass Strait shipping.  Both of PN's owners, Toll Holdings and Patrick Corporation, are involved in Bass Strait shipping.  Rail is one method of delivering goods to the Bass Strait shipping operations.  The Commission considered that road was generally a significant competitor for inter-modal rail haulage in Tasmania, and that this mitigated the vertical concerns relating to the acquisition.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "6200"
+  }
+}

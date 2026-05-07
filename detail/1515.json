@@ -1,0 +1,31 @@
+{
+  "id": "1515",
+  "title": "Acquirer: Over 50s Mutual Friendly Society Limited; Target: Ancient Order of Foresters in Victoria Freindly Society Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-over-50s-mutual-friendly-society-limited-target-ancient-order-of-foresters-in-victoria-freindly-society-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18631",
+  "industries": [],
+  "date_completed": "25 November 2003",
+  "date_completed_iso": "2003-11-25T12:00:00Z",
+  "date_commenced": "14 November 2003",
+  "date_commenced_iso": "2003-11-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Over 50s Mutual Friendly Society Limited"
+  ],
+  "targets": [
+    "Ancient Order of Foresters in Victoria Freindly Society Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 7 November 2003, APRA informed the Commission that the Over 50s Mutual Friendly Society proposed to transfer a part of its business to the Ancient Order of Foresters in Victoria Friendly Society.",
+    "Market definition": "The market for savings and investment products.",
+    "Competition analysis": "On 25 November 2003, the Commission decided not to oppose this merger on the basis that it did not cross any of the Commission's market concentration thresholds for the exercise of market power, and therefore was unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Other",
+    "ANZSIC code": "7340"
+  }
+}

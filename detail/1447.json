@@ -1,0 +1,31 @@
+{
+  "id": "1447",
+  "title": "Acquirer: Ingram Micro; Target: Tech Pacific Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ingram-micro-target-tech-pacific-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20449",
+  "industries": [],
+  "date_completed": "2 November 2004",
+  "date_completed_iso": "2004-11-02T12:00:00Z",
+  "date_commenced": "28 September 2004",
+  "date_commenced_iso": "2004-09-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ingram Micro"
+  ],
+  "targets": [
+    "Tech Pacific Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of TechPac Holdings Limited by Ingram Micro Inc",
+    "Market definition": "The relevant market for consideration is the national market for the distribution of IT products.",
+    "Competition analysis": "The ACCC decided not to oppose the acquisition of TechPac Holdings Limited by Ingram Micro Inc on the grounds that: 1.\tMarket concentration levels are unlikely to exceed the Commission's thresholds; 2.\tThe prospect of new entry or expansion of smaller firms; 3.\tThe presence of countervailing power of vendors and resellers; and 4.\tImport competition is strong.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4613"
+  }
+}

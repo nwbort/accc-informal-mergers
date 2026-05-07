@@ -1,0 +1,69 @@
+{
+  "id": "1028",
+  "title": "Commonwealth Bank of Australia - proposed acquisition of IWL Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/commonwealth-bank-of-australia-proposed-acquisition-of-iwl-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29137",
+  "industries": [
+    "Stockbroking services"
+  ],
+  "date_completed": "10 October 2007",
+  "date_completed_iso": "2007-10-10T12:00:00Z",
+  "date_commenced": "3 August 2007",
+  "date_commenced_iso": "2007-08-03T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Commonwealth Bank of Australia"
+  ],
+  "targets": [
+    "IWL Limited"
+  ],
+  "timeline": [
+    {
+      "date": "3 Aug 2007",
+      "date_iso": "2007-08-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "9 Aug 2007",
+      "date_iso": "2007-08-09T12:00:00Z",
+      "event": "ACCC requested further information from CBA. ACCC timeline suspended."
+    },
+    {
+      "date": "21 Aug 2007",
+      "date_iso": "2007-08-21T12:00:00Z",
+      "event": "ACCC received further information from CBA. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Sep 2007",
+      "date_iso": "2007-09-05T12:00:00Z",
+      "event": "ACCC requested further information from CBA. ACCC timeline suspended."
+    },
+    {
+      "date": "18 Sep 2007",
+      "date_iso": "2007-09-18T12:00:00Z",
+      "event": "ACCC received further information from CBA. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Sep 2007",
+      "date_iso": "2007-09-18T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 27 September 2007 amended to allow for provision of further information from CBA."
+    },
+    {
+      "date": "10 Oct 2007",
+      "date_iso": "2007-10-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 1 August 2007, the Commonwealth Bank of Australia (CBA) announced its proposal to acquire IWL Limited (IWL), and sought informal clearance from the ACCC.",
+    "Market definition": "The market in this matter was defined as the national market for the supply of non-advisory stockbroking services to retail customers.",
+    "Competition analysis": "CBA is Australia's largest provider of non-advisory (primarily online) stockbroking services to retail customers in Australia through its securities division, Commsec. IWL is a major provider of non-advisory (primarily online) stockbroking services to retail customers in Australia through a number of subsidiary firms, including: Sandford Securities, Avcol Securities, JDV, Ausiex, Australian Clearing Services and Australian Clearing Exchange. IWL supplies these services directly to retail customers and indirectly through other online brokers under 'white-label' supply (i.e. IWL wholesales its services, which are re-branded for resupply to customers). The ACCC assessed whether the proposed acquisition was likely to increase the ability and incentive for the merged firm to unilaterally increase brokerage rates or reduce service, or would increase the likelihood of a coordinated exercise of market power by the merged firm and ANZ's E*Trade. The following factors were considered significant in this regard: * the proposed acquisition would result in the removal of one of only three relatively large-scale online brokers; * aside from the merged firm and E*Trade, online broking is very fragmented, with a number of relatively small competing suppliers; and * significant asymmetry of market shares and business focus is likely to undermine incentives for coordination between the remaining two major online brokers. Following extensive market inquiries, the ACCC considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in the national market for the supply of non-advisory stockbroking services to retail customers. The main factors informing this view included that: * a range of commercially viable alternative non-advisory stockbrokerage service providers would remain available to retail customers, with these alternative providers able to provide a comparable level of quality and functionality (e.g. with straight-through processing and/or direct market access) and at competitive pricing levels; and * existing stockbrokerage service providers (both non-advisory and full-advisory) and retail banks would be readily able to expand their existing stockbrokerage and/or financial services operations (leveraging off their established brand recognition and existing stockbroking and/or financial services infrastructure) in the event of any attempted exercise of market power by the merged firm. Accordingly, on 10 October 2007 the ACCC decided not to intervene in the proposed acquisition."
+  }
+}

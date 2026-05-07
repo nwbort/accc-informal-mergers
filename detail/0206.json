@@ -1,0 +1,48 @@
+{
+  "id": "0206",
+  "title": "Zodiac and Fluidra - merger of pool equipment businesses globally and in Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/zodiac-and-fluidra-merger-of-pool-equipment-businesses-globally-and-in-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63609",
+  "industries": [
+    "Residential pool equipment"
+  ],
+  "date_completed": "19 April 2018",
+  "date_completed_iso": "2018-04-19T12:00:00Z",
+  "date_commenced": "9 March 2018",
+  "date_commenced_iso": "2018-03-09T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Piscine Luxembourg Holdings 2 S.a.r.l (Zodiac)"
+  ],
+  "targets": [
+    "Fluidra S.A (Fluidra)"
+  ],
+  "timeline": [
+    {
+      "date": "9 Mar 2018",
+      "date_iso": "2018-03-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "29 Mar 2018",
+      "date_iso": "2018-03-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Apr 2018",
+      "date_iso": "2018-04-17T12:00:00Z",
+      "event": "Former proposed decision date of 10 May 2018 brought forward."
+    },
+    {
+      "date": "19 Apr 2018",
+      "date_iso": "2018-04-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC's review focused on the supply of residential pool equipment in Australia.  The ACCC found that all key suppliers of residential pool equipment supply products across Australia, and accordingly considered that the geographic market for all relevant products is national. For the purposes of this review, it was not necessary to reach a concluded view on the precise definition of product markets. The ACCC focused its competition analysis on the product markets where the merger parties have the highest shares of supply which are: pool pumps, pool filters, water treatment, pool cleaners and automation systems.",
+    "Competition analysis": "The ACCC concluded that the proposed merger was unlikely to substantially lessen competition in any relevant market. The ACCC found that a combined Zodiac and Fluidra would continue to face competition from a number of remaining suppliers including global players and local suppliers, who have a full range of products available in Australia and are able to expand. The ACCC also found that there are specialist manufacturers in particular pool equipment segments who will continue to constrain the merged entity in those segments. The ACCC found that both full range and specialist manufacturers would likely be able to expand their operations if prices were to increase. There will therefore continue to be alternative sources of supply that will constrain the merged Zodiac/Fluidra."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1135",
+  "title": "Pacific Terminals (Australia) Pty Ltd - proposed acquisition of bulk liquid terminals from Craig Mostyn & Co Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-terminals-australia-pty-ltd-proposed-acquisition-of-bulk-liquid-terminals-from-craig-mostyn-co-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26532",
+  "industries": [
+    "Bulk liquid storage"
+  ],
+  "date_completed": "7 March 2007",
+  "date_completed_iso": "2007-03-07T12:00:00Z",
+  "date_commenced": "12 January 2007",
+  "date_commenced_iso": "2007-01-12T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Pacific Terminals (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Craig Mostyn &Co Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jan 2007",
+      "date_iso": "2007-01-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "5 Feb 2007",
+      "date_iso": "2007-02-05T12:00:00Z",
+      "event": "Closing date for submissions from initial round of market inquiries."
+    },
+    {
+      "date": "13 Feb 2007",
+      "date_iso": "2007-02-13T12:00:00Z",
+      "event": "ACCC published Statement of Issues."
+    },
+    {
+      "date": "20 Feb 2007",
+      "date_iso": "2007-02-20T12:00:00Z",
+      "event": "Closing date for submissions in response to Statement of Issues."
+    },
+    {
+      "date": "7 Mar 2007",
+      "date_iso": "2007-03-07T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

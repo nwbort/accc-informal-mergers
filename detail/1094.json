@@ -1,0 +1,44 @@
+{
+  "id": "1094",
+  "title": "Pearson Australia Group Pty Ltd - proposed acquisition of Harcourt Assessment",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pearson-australia-group-pty-ltd-proposed-acquisition-of-harcourt-assessment",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28195",
+  "industries": [
+    "Educational Publishing and Assessment"
+  ],
+  "date_completed": "15 June 2007",
+  "date_completed_iso": "2007-06-15T12:00:00Z",
+  "date_commenced": "15 May 2007",
+  "date_commenced_iso": "2007-05-15T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Pearson Australia Group Pty Ltd"
+  ],
+  "targets": [
+    "Harcourt Assessment"
+  ],
+  "timeline": [
+    {
+      "date": "15 May 2007",
+      "date_iso": "2007-05-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 May 2007",
+      "date_iso": "2007-05-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "15 Jun 2007",
+      "date_iso": "2007-06-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pearson proposes to acquire Harcourt Assessment and Harcourt International from Reed Elsevier. The acquisition is to be facilitated in Australia by Pearson Australia Group Pty Ltd integrating the Australian businesses of the Harcourt companies within its own operations.",
+    "Market definition": "The ACCC considered a national market for educational publishing.",
+    "Competition analysis": "The ACCC concluded that the acquisition would be unlikely to result in a substantial lessening of competition  in the relevant market primarily because: i.  Barriers to entry appear to be low; ii. The market is highly competitive with a large number of competitors remaining post-acquisition; iii. There are a large range of substitute products available to intermediaries/booksellers and end-customers."
+  }
+}

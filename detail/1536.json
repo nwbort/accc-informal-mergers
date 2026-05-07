@@ -1,0 +1,31 @@
+{
+  "id": "1536",
+  "title": "Acquirer: National Australia Bank Ltd (NAB); Target: Commonwealth Custodial Services Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-national-australia-bank-ltd-nab-target-commonwealth-custodial-services-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17926",
+  "industries": [],
+  "date_completed": "22 July 2003",
+  "date_completed_iso": "2003-07-22T12:00:00Z",
+  "date_commenced": "5 June 2003",
+  "date_commenced_iso": "2003-06-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "National Australia Bank Ltd (NAB)"
+  ],
+  "targets": [
+    "Commonwealth Custodial Services Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The National Australia Bank Ltd seeks to acquire the custody service contracts of Commonweath Custodial Services Limited, a wholly owned subsidiary of the Commonwealth Bank of Australia Ltd, by way of novation.",
+    "Market definition": "The Australian market for domestic and master custody services.",
+    "Competition analysis": "The National Australia Bank Ltd (\"NAB\") and the Commonwealth Bank of Australia Ltd (\"CBA\") both provide domestic and master custody services, but do not provide global custody services. On the basis that NAB succeeds in acquiring all of CBA's custody services contracts, NAB's market share will increase from around 26% to 32% as a result of the acquisition. The four firm concentration ratio in the Australian domestic and master custody services market is around 67%. Accordingly, the Commission's market concentration thresholds will not be crossed as a result of the acquisition. The acquisition is unlikely to result in a substantial lessening of competition in the Australian market for domestic and master custody services owing to the small increase in market share for NAB and the fact that, following the acquisition, the merged entity will be constrained by apparently significant countervailing power exercised by clients of custodial services (such as superannuation funds and master trusts) and by the potential for new entry or expansion in the market by major global providers of custody services.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "7519"
+  }
+}

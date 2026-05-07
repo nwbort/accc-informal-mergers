@@ -1,0 +1,43 @@
+{
+  "id": "1147",
+  "title": "West Australian Newspapers Holdings Limited - acquisition of Bunbury Area Licence & associated radio station from Elmie Investments",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/west-australian-newspapers-holdings-limited-acquisition-of-bunbury-area-licence-associated-radio-station-from-elmie-investments",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27036",
+  "industries": [
+    "Media - print and radio"
+  ],
+  "date_completed": "20 February 2007",
+  "date_completed_iso": "2007-02-20T12:00:00Z",
+  "date_commenced": "12 February 2007",
+  "date_commenced_iso": "2007-02-12T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "West Australian Newspaper Holdings Ltd (WANH)"
+  ],
+  "targets": [
+    "Bunbury Area Licence & associated radio station from  Elmie Investments Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Feb 2007",
+      "date_iso": "2007-02-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "19 Feb 2007",
+      "date_iso": "2007-02-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Feb 2007",
+      "date_iso": "2007-02-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered markets in relation to: - the supply of advertising opportunities in the Bunbury and Busselton-Margaret River regions of Western Australia; and - the supply of content to media consumers in the Bunbury and Busselton-Margaret River regions of Western Australia.",
+    "Competition analysis": "On 20 February 2007, the ACCC formed the view that the proposed acquisition would not substantially change the level of competition in terms of options available to advertisers or media consumers in the Bunbury and Busselton- Margaret River regions of Western Australia.  Accordingly, the ACCC decided not to intervene in the proposed acquisition."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0934",
+  "title": "Joint venture between ACP Magazines Pty Ltd and BBC Magazines",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/joint-venture-between-acp-magazines-pty-ltd-and-bbc-magazines",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31431",
+  "industries": [
+    "Magazine publishing"
+  ],
+  "date_completed": "16 April 2008",
+  "date_completed_iso": "2008-04-16T12:00:00Z",
+  "date_commenced": "13 March 2008",
+  "date_commenced_iso": "2008-03-13T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "ACP Magazines Pty Ltd"
+  ],
+  "targets": [
+    "BBC Magazines"
+  ],
+  "timeline": [
+    {
+      "date": "13 Mar 2008",
+      "date_iso": "2008-03-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Mar 2008",
+      "date_iso": "2008-03-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Apr 2008",
+      "date_iso": "2008-04-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the joint venture."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australian Consolidated Press Magazines Pty Limited entered into a joint venture with a subsidiary of BBC Magazines, a UK magazine publisher and the publishing arm of BBC Worldwide. The joint venture will involve publishing a number of titles from BBC Magazines' portfolio, starting with the launch of an Australian edition of 'Top Gear'.",
+    "Market definition": "The JV was considered in the context of separate national markets for each of the following: - the supply of advertising space; and - the supply of magazines to consumers for each of the following categories of magazines: - Food, Wine and Travel; - Men's Lifestyle; - Lifestyle Home / Garden; - General Interest; - Business / Finance; - Teen and Pre-teen; and - Pre-school.",
+    "Competition analysis": "On 16 April 2008, the ACCC formed the view that the completed joint venture was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the parties to the JV would continue to face effective competition from domestic publishers and imported magazines; and - the actual and potential launch of new titles by new and existing competitors in the relevant magazine markets is likely to constrain any attempted exercise of market power."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0991",
+  "title": "Transpacific Industries Group Ltd - proposed acquisition of Papas Transport Engineering Pty Ltd and Papas Waste Rentals Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-proposed-acquisition-of-papas-transport-engineering-pty-ltd-and-papas-waste-rentals-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30030",
+  "industries": [
+    "Manufacture & supply of waste management equipment"
+  ],
+  "date_completed": "23 November 2007",
+  "date_completed_iso": "2007-11-23T12:00:00Z",
+  "date_commenced": "14 November 2007",
+  "date_commenced_iso": "2007-11-14T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Papas Waste Rentals Pty Ltd<br/> Papas Transport Engineering Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Nov 2007",
+      "date_iso": "2007-11-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "21 Nov 2007",
+      "date_iso": "2007-11-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Nov 2007",
+      "date_iso": "2007-11-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific has entered into an agreement to purchase the assets and businesses of Papas Transport Engineering Pty Ltd and Papas Waste Rentals Pty Ltd, the operations of which include the manufacture and supply of bins, waste vehicle components and stationary compactors.",
+    "Market definition": "National manufacture and supply of waste vehicle components. National manufacture and supply of stationary waste compactors. Manufacture and supply of waste bins in South Australia. Rental of waste management equipment in South Australia.",
+    "Competition analysis": "On 23 November 2007, the ACCC announced its decision not to oppose the acquisition by Transpacific of Papas Transport Engineering Pty Ltd and Papas Waste Rentals Pty Ltd (Papas). The ACCC considered that the acquisition of Papas was unlikely to substantially lessen competition in the relevant abovementioned markets, due to the existence of alternative competitive providers which will remain available to customers."
+  }
+}

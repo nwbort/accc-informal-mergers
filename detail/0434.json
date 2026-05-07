@@ -1,0 +1,44 @@
+{
+  "id": "0434",
+  "title": "Aspen Global Incorporated - proposed acquisition of Zantac from GlaxoSmithKline",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aspen-global-incorporated-proposed-acquisition-of-zantac-from-glaxosmithkline",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48949",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "19 July 2012",
+  "date_completed_iso": "2012-07-19T12:00:00Z",
+  "date_commenced": "31 May 2012",
+  "date_commenced_iso": "2012-05-31T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Aspen Global Incorporated"
+  ],
+  "targets": [
+    "GlaxoSmithKline plc"
+  ],
+  "timeline": [
+    {
+      "date": "31 May 2012",
+      "date_iso": "2012-05-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jun 2012",
+      "date_iso": "2012-06-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Jul 2012",
+      "date_iso": "2012-07-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aspen Global Incorporated (Aspen) proposed to acquire the over-the-counter pharmaceutical product Zantac from GlaxoSmithKline. Aspen had also acquired the following over-the-counter pharmaceutical products from GlaxoSmithKline: Cartia, Beconase, Lipeze and Quellada.",
+    "Market definition": "The active ingredient in Zantac is ranitidine. Zantac is used to treat acid related conditions such as stomach ulcers and gastroesophageal reflux disease. The ACCC considered the proposed acquisition in the context of the national market for the supply of over-the-counter ranitidine. The ACCC did not reach a concluded view as to whether over-the-counter pharmaceutical products which use a different active ingredient or combination of active ingredients (eg. proton-pump inhibitors such as pantoprazole) were substitutable for over-the-counter ranitidine.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition. Factors informing this decision included: - the proposed acquisition did not involve the merger of two significant competitors in the market - rather, the proposed acquisition involved the merger of the 'innovator' ranitidine brand and a generic ranitidine brand and resulted in only an incremental increase in market share; - the competitive tension between the merger parties was not significant as Zantac had strong brand loyalty and was only constrained to a limited extent by generic ranitidine brands, who competed more closely against each other; - barriers to entry for suppliers of generic pharmaceutical products were unlikely to be high as Zantac is off patent and several generic brands have commenced supply of ranitidine; and - a number of competitors to the merged firm would remain in the market post acquisition. The ACCC considered that the completed acquisitions of Cartia, Beconase, Lipeze and Quellada were unlikely to substantially lessen competition due to the lack of any significant overlap between the merger parties with respect to these products"
+  }
+}

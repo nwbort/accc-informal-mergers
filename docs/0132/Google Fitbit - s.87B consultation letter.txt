@@ -1,0 +1,208 @@
+ 
+ 
+1 
+23 Marcus Clarke Street
+Canberra ACT 2601
+GPO Box 3131
+Canberra ACT 2601
+tel: (02) 6243 1368
+mergers@accc.gov.au
+www.accc.gov.au
+Our ref: 
+IM-70348 
+ 
+ 
+Contact officer: 
+David Wang / Rachel Goldfeld 
+Contact phone: 
+03 9658 6587 / 03 9290 1438  
+30 November 2020  
+Dear Interested Party 
+Google’s proposed acquisition of Fitbit – proposed undertaking  
+The Australian Competition and Consumer Commission (ACCC) is currently reviewing the 
+proposed acquisition of Fitbit, Inc (Fitbit) by Google LLC (Google) (the proposed 
+acquisition). The ACCC published a Statement of Issues in relation to the proposed 
+acquisition on 18 June 2020. 
+In Australia, Google has offered a draft proposed undertaking to the ACCC pursuant to 
+section 87B of the Competition and Consumer Act 2010 (the Act) (the proposed 
+undertaking) in order to address the ACCC’s competition concerns. 
+The purpose of this letter is to seek the views of interested parties on the proposed 
+undertaking.  
+The proposed undertaking 
+Broadly, the proposed undertaking requires Google to:   
+ 
+ 
+not use certain user data collected through Fitbit and Google wearables or input 
+manually by consumers, for Google’s advertising purposes for 10 years (with an 
+option for the ACCC to extend this obligation for up to a further 10 years);  
+ 
+maintain access for third parties, such as health and fitness apps, to certain user 
+data collected through Fitbit and Google wrist-worn wearables for 10 years; and  
+ 
+maintain access to Android APIs that enable interoperability between third party 
+wearables and Android smartphones for 10 years.  
+The ACCC has decided to commence consultation on the proposed undertaking in parallel 
+with its ongoing consideration of the terms of the proposed undertaking, and while the 
+ACCC’s review of the proposed acquisition continues. 
+The ACCC has not yet formed a concluded view as to whether the undertaking adequately 
+addresses the competition concerns identified and therefore whether it will ultimately 
+
+
+ 
+ 
+2 
+accept the proposed undertaking in its current or any amended form. The market 
+consultation process should not be taken as an indication that the ACCC will accept the 
+proposed undertaking, that the proposed undertaking’s terms are likely to be acceptable to 
+the ACCC, or that any remedy will address its competition concerns.  
+The ACCC may require changes to the proposed undertaking depending on its ongoing 
+consideration of the matter and the nature and extent of any concerns raised during the 
+market consultation process. The ACCC will only accept the proposed undertaking if it is 
+satisfied that it will sufficiently address its competition concerns, and after consideration of 
+the monitoring and compliance risks and costs. 
+Making a submission 
+The ACCC seeks comments from interested parties to inform its decision on whether the 
+proposed undertaking is capable of addressing competition concerns arising from the 
+proposed acquisition. Attachment A to this letter outlines the background to the ACCC’s 
+preliminary competition concerns and provides an overview of the proposed undertaking.  
+A list of specific questions that interested parties may wish to address when making a 
+submission can be found at Attachment B.  
+The proposed undertaking is provided at Attachment C. 
+Please provide your response by no later than 5pm on 9 December 2020. Responses may 
+be emailed to mergersru@accc.gov.au with the title: Submission re: Google’s proposed 
+undertaking - attention David Wang/Rachel Goldfeld. If you would like to arrange a time to 
+discuss the matter with ACCC officers, or have any questions about this letter, please 
+contact David Wang at david.wang@accc.gov.au or on (03) 9658 6587 or Rachel Goldfeld 
+at rachel.goldfeld@accc.gov.au or on (03) 9290 1438. 
+This matter is public and you can forward this letter to anybody who may be interested.    
+Updates regarding the ACCC’s investigation will be available on the ACCC’s Public 
+Mergers Register at (ACCC mergers register). 
+Confidentiality of submissions 
+The ACCC will not publish submissions regarding the proposed acquisition. We will not 
+disclose submissions to third parties (except our advisors/consultants) unless compelled by 
+law (for example, under freedom of information legislation or during court proceedings) or 
+in accordance with s155AAA of the Competition and Consumer Act 2010.  Where the 
+ACCC is required to disclose confidential information, the ACCC will notify you in advance 
+where possible so that you may have an opportunity to be heard.  Therefore, if the 
+information provided to the ACCC is of a confidential nature, please indicate as such. Our 
+Informal Merger Review Process Guidelines contain more information on confidentiality. 
+Yours sincerely 
+ 
+Sheridan de Kruiff 
+General Manager (Acting) 
+Merger Investigations Branch
+
+
+ 
+ 
+3 
+Attachment A 
+ 
+Background – the ACCC’s review 
+ 
+The ACCC commenced a review of the proposed acquisition on 27 February 2020. On 18 
+June 2020 the ACCC published a Statement of Issues (SOI) outlining preliminary concerns 
+regarding Google’s proposed acquisition of Fitbit.  
+ 
+Overview of the proposed undertaking  
+ 
+Google has offered a draft section 87B undertaking to address the ACCC’s competition 
+concerns. Capitalised terms used below are defined in the proposed undertaking.  
+ 
+Broadly, the proposed undertaking requires Google not to use certain health and location 
+data, predominantly sourced from wearables, for advertising, to maintain access via APIs 
+for third parties to certain user data Fitbit makes available through its Web API today, and 
+to maintain Android APIs providing functionality to enable interoperability between third 
+party wearables and Android smartphones. The proposed undertaking also requires 
+Google to appoint an ACCC-approved Monitoring Trustee (auditor) to monitor Google’s 
+compliance with the undertaking.   
+ 
+Google’s obligations in relation to Ads  
+ 
+Not use Measured Body Data or Health and Fitness Activity Location Data in or for 
+Google’s advertising business.  
+ 
+Maintain a strictly permissioned virtual storage environment consisting of auditable 
+technical and process controls.  
+ 
+Provide each Australian User the choice to grant or deny use by Other Google Services 
+(such as Google Search, Google Maps, Google Assistant, and YouTube) of any 
+Measured Body Data stored in their Google Account or Fitbit Account.  
+ 
+Google’s obligations in relation to Web API access 
+ 
+Maintain access, subject to user consent, to Supported Measured Body Data for API 
+Users.  
+ 
+Update the definition of Supported Measured Body Data via an Update Mechanism. 
+ 
+Google’s obligations in relation to Android APIs  
+ 
+Make Core Interoperability APIs available under the same licence terms and conditions 
+that apply to all other Android APIs that Google makes available as part of AOSP.  
+ 
+Not degrade the Core Interoperability APIs by reducing their functionality to Third Party 
+Wrist-Worn Wearable Devices relative to Google or Fitbit Wrist-Worn Wearable 
+Devices. 
+ 
+Not discriminate against Wrist-Worn Wearable Device OEMs: 
+o by withholding, denying, or delaying Wrist-Worn Wearable Device OEM’s 
+access to functionalities of Android APIs that Google makes generally available. 
+ 
+Not to discriminate between Wrist-Worn Wearable Device OEMs and other Android 
+Smartphone App Developers: 
+o in relation to changing, replacing or retiring Android APIs. 
+o in terms of the access it provides to Developer Previews and Developer 
+Documentation. 
+ 
+Not circumvent the requirements by:  
+o discriminating between Wrist-Worn Wearable Device OEM’s and other Android 
+Smartphone App Developers in terms of displaying warnings, error messages, 
+or permission requests in Android Apps used by third parties. 
+o imposing discriminatory conditions on access to the Google Play Store by Wrist-
+Worn Wearable Device OEM’s Companion Apps. 
+ 
+
+
+ 
+ 
+4 
+Attachment B 
+1. Please provide a brief description of your business or organisation.  
+Undertaking 
+2. Do you consider the proposed undertaking, which will place obligations on 
+Google, will adequately address any or all of the competition concerns the ACCC 
+has raised?  
+3. Do the monitoring provisions provide sufficient mechanisms to ensure that the 
+undertaking will be complied with?  
+4. Please comment on whether the language of the proposed undertaking means it 
+is sufficiently specific to be capable of being monitored and enforced. 
+Ads obligations 
+5. Do the definitions of Measured Body Data and Health and Fitness Activity 
+Location Data adequately and clearly describe all relevant data types?  
+6. Will the implementation of the proposed data storage and auditable technical and 
+process controls be effective in ensuring that Measured Body Data and Health 
+and Fitness Activity Location Data will not be accessible in or for Google’s 
+advertising business?  
+7. Are there any risks associated with the proposed approach to Data Separation, 
+including the possibility that Google may be able to circumvent the objectives of 
+this obligation?  
+Web API obligations  
+8. Please comment on how the Update Mechanism is likely to operate in practice 
+and whether it will be an effective mechanism for updating the data types treated 
+as Supported Measured Body Data from time to time.  
+9. Are there any risks associated with the Web API Access obligations, including the 
+possibility that Google may be able to circumvent its obligations?  
+Android API Obligations 
+10. Do the definitions of Core Interoperability APIs and Android APIs capture the 
+APIs and functionalities necessary for maintaining interoperability between Wrist-
+Worn Wearable Devices and smartphones running the Android operating 
+system?  
+11. Are there circumvention routes or ways to discriminate that have not been 
+covered by this obligation?  
+12. Does the proposed commitment in clause 5.13 address any concerns about 
+future access to the Google Play Store? 
+Other information  
+13. Please provide any additional information or comments, or identify other 
+competition issues, that you consider relevant to the ACCC’s consideration of the 
+proposed undertaking.  

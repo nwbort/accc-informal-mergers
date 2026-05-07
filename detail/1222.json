@@ -1,0 +1,58 @@
+{
+  "id": "1222",
+  "title": "ABC Learning Centres Limited - proposed acquisition of Hutchison's Child Care Services Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/abc-learning-centres-limited-proposed-acquisition-of-hutchisons-child-care-services-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24778",
+  "industries": [
+    "Child care"
+  ],
+  "date_completed": "8 September 2006",
+  "date_completed_iso": "2006-09-08T12:00:00Z",
+  "date_commenced": "7 July 2006",
+  "date_commenced_iso": "2006-07-07T12:00:00Z",
+  "total_review_days": 46,
+  "acquirers": [
+    "ABC Learning Centres Limited"
+  ],
+  "targets": [
+    "Hutchison's Child Care Services Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jul 2006",
+      "date_iso": "2006-07-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Jul 2006",
+      "date_iso": "2006-07-12T12:00:00Z",
+      "event": "Market inquiries commenced."
+    },
+    {
+      "date": "26 Jul 2006",
+      "date_iso": "2006-07-26T12:00:00Z",
+      "event": "Market inquiries closed."
+    },
+    {
+      "date": "25 Aug 2006",
+      "date_iso": "2006-08-25T12:00:00Z",
+      "event": "ABC submitted a draft section 87B undertaking to the ACCC. Market inquiries commenced on the draft section 87B undertaking."
+    },
+    {
+      "date": "1 Sep 2006",
+      "date_iso": "2006-09-01T12:00:00Z",
+      "event": "Market inquiries on ABC's draft section 87B undertaking closed."
+    },
+    {
+      "date": "8 Sep 2006",
+      "date_iso": "2006-09-08T12:00:00Z",
+      "event": "ACCC accepted a section 87B undertaking proferred by ABC and announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "See Public Competition Assessment",
+    "Competition analysis": "See Public Competition Assessment"
+  }
+}

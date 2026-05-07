@@ -1,0 +1,44 @@
+{
+  "id": "0790",
+  "title": "Clipsal Australia Pty Ltd - proposed acquisition of Dataletta Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/clipsal-australia-pty-ltd-proposed-acquisition-of-dataletta-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36373",
+  "industries": [
+    "Lighting Control & Monitoring system"
+  ],
+  "date_completed": "5 March 2009",
+  "date_completed_iso": "2009-03-05T12:00:00Z",
+  "date_commenced": "23 January 2009",
+  "date_commenced_iso": "2009-01-23T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Clipsal Australia Pty Ltd"
+  ],
+  "targets": [
+    "Dataletta Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jan 2009",
+      "date_iso": "2009-01-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Mar 2009",
+      "date_iso": "2009-03-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Clipsal Australia Pty Ltd (Clipsal) entered into an agreement with Dataletta Pty Ltd (Dataletta) under which it would wholly acquire Dataletta.",
+    "Market definition": "The ACCC considered the proposed acquisition to be in the market for commercial lighting control.",
+    "Competition analysis": "The ACCC considered the proposed acquisition was unlikely to result in a substantial lessening of competition in the market for commercial lighting control.  In reaching this view the ACCC noted that there is an ongoing threat of entry into the market, a number of substitutable products available and large customers which are likely to have a sufficient degree of countervailing power.  Further, the ACCC noted the potential for new entrants to take advantage of the growing market."
+  }
+}

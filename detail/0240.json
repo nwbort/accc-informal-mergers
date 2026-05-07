@@ -1,0 +1,49 @@
+{
+  "id": "0240",
+  "title": "Ruralco Holdings Limited - proposed acquisition of TP Jones Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ruralco-holdings-limited-proposed-acquisition-of-tp-jones-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61252",
+  "industries": [
+    "Agriculture"
+  ],
+  "date_completed": "9 February 2017",
+  "date_completed_iso": "2017-02-09T12:00:00Z",
+  "date_commenced": "15 December 2016",
+  "date_commenced_iso": "2016-12-15T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Ruralco Holdings Limited"
+  ],
+  "targets": [
+    "TP Jones Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2016",
+      "date_iso": "2016-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Jan 2017",
+      "date_iso": "2017-01-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "7 Feb 2017",
+      "date_iso": "2017-02-07T12:00:00Z",
+      "event": "Former proposed decision date of 23 February 2017 brought forward."
+    },
+    {
+      "date": "9 Feb 2017",
+      "date_iso": "2017-02-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ruralco's wholly-owned subsidiary, Roberts Limited, proposed to acquire TP Jones Pty Ltd.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on markets for the retail supply of rural merchandise in each of the local areas where TP Jones operates a retail store (Youngtown, Longford, Campbell Town and Latrobe). The ACCC did not consider it necessary to form a concluded view on the relevant geographic dimension of each of the local markets given competition concerns were unlikely to arise for the reasons outlined below in the Competition Analysis.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would not be likely to substantially lessen competition in any of the relevant local markets. Although the parties overlap in the retail supply of rural merchandise, the ACCC considered that alternatives available to farmers would competitively constrain Ruralco after acquiring TP Jones. In particular, the ACCC found that Ruralco would continue to face competition from: - large rural merchandise retailers such as Elders and Serve-Ag, who either have an existing presence in the immediate local area and compete directly with the merger parties or have the ability to extend their geographic reach into those local areas - to a lesser extent, independent rural merchandise retailers who are associated with, and therefore able to competitively source rural merchandise from, wholesale buying groups such as AIRR and NRI. In Campbell Town where the parties have the only two retail outlets in the immediate local area, the ACCC considered that farmers would be able to source supply from alternative retail outlets located near Launceston by visiting those retail outlets or by having merchandise delivered to their farm."
+  }
+}

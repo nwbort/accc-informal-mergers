@@ -1,0 +1,31 @@
+{
+  "id": "1600",
+  "title": "Acquirer: Custom Fleet; Target: Hertz Lease Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-custom-fleet-target-hertz-lease-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16604",
+  "industries": [],
+  "date_completed": "4 November 2002",
+  "date_completed_iso": "2002-11-04T12:00:00Z",
+  "date_commenced": "22 August 2002",
+  "date_commenced_iso": "2002-08-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Custom Fleet"
+  ],
+  "targets": [
+    "Hertz Lease Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Custom Fleet (owned by National Australia Bank) to acquire Hertz Leasing Ltd from Ford Motor Credit Company",
+    "Market definition": "Car fleet leasing and management services",
+    "Competition analysis": "The Commission concluded that the increase in Custom Fleet's market share would be minimal and it would continue to face strong competitors and customers with bargaining power in an expanding market.  On this basis, the Commission concluded that the proposed acquisition is not likely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7330"
+  }
+}

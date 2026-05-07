@@ -1,0 +1,49 @@
+{
+  "id": "0159",
+  "title": "China Mengniu Dairy Company Limited - Lion-Dairy & Drinks Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/china-mengniu-dairy-company-limited-lion-dairy-drinks-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Dairy ingredients processing"
+  ],
+  "date_completed": "21 February 2020",
+  "date_completed_iso": "2020-02-21T12:00:00Z",
+  "date_commenced": "4 December 2019",
+  "date_commenced_iso": "2019-12-04T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "China Mengniu Dairy Company Limited"
+  ],
+  "targets": [
+    "Lion-Dairy & Drinks Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 Dec 2019",
+      "date_iso": "2019-12-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jan 2020",
+      "date_iso": "2020-01-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Feb 2020",
+      "date_iso": "2020-02-18T12:00:00Z",
+      "event": "Former decision date (27 February) brought forward."
+    },
+    {
+      "date": "21 Feb 2020",
+      "date_iso": "2020-02-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "China Mengniu Dairy Company Limited ( Mengniu ) proposes to acquire Lion-Dairy & Drinks Pty Ltd ( Lion D&D ). Mengniu has an indirect interest in a producer and wholesale distributor of dairy products, Burra Foods Pty Ltd ( Burra ). Lion D&D and Burra both operate dairy processing plants in the Gippsland region of Victoria and overlap in the acquisition of raw milk from dairy farmers in Gippsland.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition on competition in the acquisition of raw milk in the Gippsland region.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition for the acquisition of raw milk in the Gippsland region. The proposed acquisition would combine, due to partial common ownership, the raw milk processing facilities of Burra Foods Pty Ltd ( Burra ) and Lion Dairy & Drinks Pty Ltd ( Lion D&D ) in the Gippsland region. The ACCC found that while Burra and Lion D&D compete for the acquisition of raw milk in the Gippsland region, they are not close competitors, with minimal switching between the two. The level of aggregation from the proposed acquisition will be relatively low, with a combined Mengniu-Lion D&D acquiring less than 25 percent of raw milk in the Gippsland region. The ACCC considered that a combined Mengniu-Lion D&D will continue to be constrained by Saputo and Fonterra, as well as a number of smaller raw milk processors. The ACCC found that there is significant excess raw milk processing capacity during peak times in the Gippsland area, resulting in limited barriers to switching for dairy farmers."
+  }
+}

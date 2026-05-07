@@ -1,0 +1,31 @@
+{
+  "id": "1499",
+  "title": "Acquirer: Pfizer Pty Ltd; Target: CSL Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pfizer-pty-ltd-target-csl-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18902",
+  "industries": [],
+  "date_completed": "10 February 2004",
+  "date_completed_iso": "2004-02-10T12:00:00Z",
+  "date_commenced": "16 January 2004",
+  "date_commenced_iso": "2004-01-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pfizer Pty Ltd"
+  ],
+  "targets": [
+    "CSL Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The transaction involves the acquisition of CSL Animal Health by Pfizer Group.  CSL Animal Health comprises Animal Health Australia and New Zealand (Animal Health ANZ), Biocor Animal Health Inc. (Biocor), Leptospira Vaccine Manufacturing Facility; and a Research and Development Portfolio.",
+    "Market definition": "The Commission considers that it is not necessary to definitively adopt one of the possible market definitions - national markets for animal health products, animal vaccines, or narrower product markets - since no substantial lessening of competition appears likely regardless of the market definition adopted.",
+    "Competition analysis": "The Commission conclusion that the proposed acquisition is unlikely to result in a substantial lessening of competition and will therefore not oppose the proposed transaction. In reaching this conclusion the Commission noted that the overlap between CSL's animal health divisions and Pfizer is extremely limited.  It was also noted that many market participants endorse the parties' submission that the proposed acquisition is likely to intensify rather than lessen competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2543"
+  }
+}

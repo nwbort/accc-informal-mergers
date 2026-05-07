@@ -1,0 +1,44 @@
+{
+  "id": "0095",
+  "title": "Woolworths Group Limited proposed acqusition of MyDeal.com.au Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-group-limited-proposed-acqusition-of-mydealcomau-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Retail"
+  ],
+  "date_completed": "12 August 2022",
+  "date_completed_iso": "2022-08-12T12:00:00Z",
+  "date_commenced": "14 June 2022",
+  "date_commenced_iso": "2022-06-14T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Woolworths Group Limited"
+  ],
+  "targets": [
+    "MyDeal.com.au Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jun 2022",
+      "date_iso": "2022-06-14T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jun 2022",
+      "date_iso": "2022-06-28T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Aug 2022",
+      "date_iso": "2022-08-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 20 May 2022, Woolworths Group Limited announced that it had entered into a Scheme Implementation Agreement to acquire 80.16 per cent of the share capital of MyDeal.com.au Limited. The transaction is scheduled to complete in Q3 of 2022, at which point MyDeal would be delisted from the ASX. Further details on the operations of Woolworths and MyDeal can be found in the Market Inquiries Letter below.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in Australia for the: retail supply of various product categories supply of online marketplace services to third party sellers, and wholesale supply of various product categories. The various product categories included furniture, homewares, health, beauty, electronics and other general merchandise. The ACCC did not reach a concluded view on market definition as it was not necessary for our competition assessment.",
+    "Competition analysis": "The ACCC assessed whether: the proposed acquisition would lead to an increase in concentration in any relevant market that would have the effect of substantially lessening competition; and whether the size of Woolworths retail operations may mean that it is able to leverage its existing operations into the MyDeal online marketplace in a way that is anti-competitive. Based on the results from its market inquiries and other information available to it, the ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any of the relevant markets because: Woolworths and MyDeal are not particularly close competitors. Woolworths’ business is predominantly focused on retailing its own products, both via bricks and mortar stores and online (eg, through its Big W online website). Woolworths currently has a limited presence in the market for the supply of online marketplace services to third-party sellers. On the other hand, MyDeal’s business is focused on providing a platform via which third-party sellers can sell their products and it has relatively limited retail operations of its own. There has been significant growth and new entry into online marketplaces over the past few years in Australia, including by Kogan and Amazon. The combined Woolworths / MyDeal is likely to be effectively constrained in its dealings with third party sellers. The proposed acquisition will not reduce online marketplace options for third party sellers as Woolworths / MyDeal will compete with other online marketplaces."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1197",
+  "title": "AP Eagers Limited - acquisition of Frost Ford",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ap-eagers-limited-acquisition-of-frost-ford",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25696",
+  "industries": [
+    "Car retailing"
+  ],
+  "date_completed": "14 November 2006",
+  "date_completed_iso": "2006-11-14T12:00:00Z",
+  "date_commenced": "22 September 2006",
+  "date_commenced_iso": "2006-09-22T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "AP Eagers Limited"
+  ],
+  "targets": [
+    "Frost Ford"
+  ],
+  "timeline": [
+    {
+      "date": "22 Sep 2006",
+      "date_iso": "2006-09-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Sep 2006",
+      "date_iso": "2006-09-29T12:00:00Z",
+      "event": "ACCC requested a submission from AP Eagers. ACCC timeline suspended"
+    },
+    {
+      "date": "17 Oct 2006",
+      "date_iso": "2006-10-17T12:00:00Z",
+      "event": "ACCC received submission from AP Eagers. ACCC timeline recommenced"
+    },
+    {
+      "date": "18 Oct 2006",
+      "date_iso": "2006-10-18T12:00:00Z",
+      "event": "Commenced market inquiries"
+    },
+    {
+      "date": "1 Nov 2006",
+      "date_iso": "2006-11-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "14 Nov 2006",
+      "date_iso": "2006-11-14T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "A.P. Eagers Ltd - completed acquisition of Frost Motor Group",
+    "Market definition": "For the purposes of this assessment, the following narrow market definitions were adopted: 1)\tNorthern Territory market for fleet car distribution; 2)\tDarwin market for new vehicle retailing; 3)\tDarwin market for used vehicle retailing; and 4)\tDarwin market for vehicle servicing. It is noted that even if broader market definitions were adopted, the conclusion would be unchanged in this case.",
+    "Competition analysis": "The ACCC concluded that the acquisition was unlikely to have led to a substantial lessening of competition in the Northern Territory market for fleet car distribution. A.P. Eagers Ltd and Frost Motor Group represented different manufacturers. The ACCC found that the predominant role of national manufacturers in negotiating fleet sales provided fleet dealers with very limited opportunities to increase margins and the merger did not increase the merged business's share of vehicles supplied for any individual make. The ACCC concluded that the acquisition was unlikely to have led to a substantial lessening of competition in the Darwin markets for new vehicle retailing and used vehicle retailing due to the substantial number of remaining competitors, low barriers to entry into used car retailing, the degree of substitutability between new and used cars, and some degree of countervailing power held by manufacturers and customers against car dealers. The ACCC concluded that the acquisition was unlikely to have led to a substantial lessening of competition in the Darwin market for vehicle servicing given the substantial number of remaining competitors."
+  }
+}

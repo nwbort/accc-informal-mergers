@@ -1,0 +1,32 @@
+{
+  "id": "1622",
+  "title": "Acquirer: AWB Ltd; Target: Milling Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-awb-ltd-target-milling-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15736",
+  "industries": [],
+  "date_completed": "16 August 2002",
+  "date_completed_iso": "2002-08-16T12:00:00Z",
+  "date_commenced": "28 March 2002",
+  "date_commenced_iso": "2002-03-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "AWB Ltd"
+  ],
+  "targets": [
+    "Milling Australia"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The proposed acquisition is for the Australian Wheat Board Limited (AWB) to acquire \"Milling Australia\" from Goodman Fielder.  Milling Australia is a flour milling and mixing operation.",
+    "Market definition": "The markets are state-based markets for grain trading and marketing, and flour milling and mixing markets in Western Australia, Queensland, south eastern Australia, and New South Wales.",
+    "Competition analysis": "The Commission found that AWB's acquisition of Milling Australia would be likely to substantially lessen competition in the markets for flour milling and mixing across Australia, and in grain trading in Queensland, in contravention of section 50 of the Trade Practices Act 1974. The Commission was concerned that the market power that AWB derives from its strong position in grain acquisition through its monopoly over the export of wheat, and its leading position in the domestic trading market would enable it to substantially lessen competition in the market for flour milling and mixing were it to acquire a flour milling and mixing business. The Commission's market inquiries found that the AWB has significant market power based on substantial influence over wheat pricing through AWB's management of the National Pool, and logistical advantages through its discretion over grain \"swaps\" to millers, and an informational advantage based on superior knowledge of likely National Pool price movements. The Commission was concerned that the AWB would be able, and would have an incentive, to use this market power to raise rival flour millers' costs, were the acquisition to proceed. A key concern was that AWB might discriminate against rival millers in terms of providing swaps of grain which the Commission found were important to millers to lower grain acquisition costs. The Commission was also concerned that the discretion that AWB had over setting the price of wheat for the National Pool, on which domestic wheat prices were based, could give it the ability to raise rival millers' costs of purchasing wheat. The Commission also found that the proposed acquisition would have been likely to lead to AWB exclusively supplying grain to Milling Australia.  This would be likely to substantially lessen opportunities for other traders to supply grain, particularly in Queensland where Milling Australia is a large purchaser of grain.  Accordingly, the Commission found that the proposed acquisition would substantially lessen competition in the market for grain trading and marketing in Queensland.  AWB's substantial presence in the grain trading market was a factor in this element of the Commission's view.",
+    "Resolution": "Withdrawn",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2151"
+  }
+}

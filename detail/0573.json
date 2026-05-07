@@ -1,0 +1,80 @@
+{
+  "id": "0573",
+  "title": "Luxottica Retail Australia Pty Limited - proposed acquisition of Optifashion Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/luxottica-retail-australia-pty-limited-proposed-acquisition-of-optifashion-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40959",
+  "industries": [
+    "Optical"
+  ],
+  "date_completed": "17 November 2010",
+  "date_completed_iso": "2010-11-17T12:00:00Z",
+  "date_commenced": "16 August 2010",
+  "date_commenced_iso": "2010-08-16T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Luxottica Retail Australia Pty Ltd"
+  ],
+  "targets": [
+    "Optifashion Group"
+  ],
+  "timeline": [
+    {
+      "date": "16 Aug 2010",
+      "date_iso": "2010-08-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Sep 2010",
+      "date_iso": "2010-09-02T12:00:00Z",
+      "event": "ACCC requested further information from Luxottica. ACCC timeline suspended."
+    },
+    {
+      "date": "6 Sep 2010",
+      "date_iso": "2010-09-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Sep 2010",
+      "date_iso": "2010-09-10T12:00:00Z",
+      "event": "ACCC received further information from Luxottica. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 Sep 2010",
+      "date_iso": "2010-09-16T12:00:00Z",
+      "event": "ACCC requested further information from Luxottica. ACCC timeline suspended."
+    },
+    {
+      "date": "21 Sep 2010",
+      "date_iso": "2010-09-21T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings 14 October 2010, delayed to allow for provision of further information by Luxottica. ACCC timeline remains suspended."
+    },
+    {
+      "date": "20 Oct 2010",
+      "date_iso": "2010-10-20T12:00:00Z",
+      "event": "ACCC received a partial response to the information requested from Luxottica on 16 September 2010. ACCC requested further information from the merger parties. ACCC timeline remains suspended."
+    },
+    {
+      "date": "27 Oct 2010",
+      "date_iso": "2010-10-27T12:00:00Z",
+      "event": "ACCC received the balance of the information requested from Luxottica on 16 September 2010. ACCC requested further information from Luxottica. ACCC timeline remains suspended."
+    },
+    {
+      "date": "29 Oct 2010",
+      "date_iso": "2010-10-29T12:00:00Z",
+      "event": "ACCC received further information from the merger parties in response to the request for information on 20 October 2010."
+    },
+    {
+      "date": "2 Nov 2010",
+      "date_iso": "2010-11-02T12:00:00Z",
+      "event": "ACCC received further information from Luxottica in response to the request for information on 27 October 2010. ACCC timeline recommenced."
+    },
+    {
+      "date": "17 Nov 2010",
+      "date_iso": "2010-11-17T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition, after the ACCC's competition concerns were addressed by the exclusion of the target's optical dispensing outlets located in Karratha, Northam, Kwinana and Bunbury from the proposed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

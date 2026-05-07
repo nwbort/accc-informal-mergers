@@ -1,0 +1,44 @@
+{
+  "id": "1154",
+  "title": "Givaudan SA - proposed acquisition of Quest International BV",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/givaudan-sa-proposed-acquisition-of-quest-international-bv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27016",
+  "industries": [
+    "Fragrances and flavours"
+  ],
+  "date_completed": "9 February 2007",
+  "date_completed_iso": "2007-02-09T12:00:00Z",
+  "date_commenced": "18 January 2007",
+  "date_commenced_iso": "2007-01-18T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Givaudan SA"
+  ],
+  "targets": [
+    "Quest International BV"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jan 2007",
+      "date_iso": "2007-01-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "1 Feb 2007",
+      "date_iso": "2007-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "9 Feb 2007",
+      "date_iso": "2007-02-09T12:00:00Z",
+      "event": "ACCC announced findings"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Both firms are involved in the development of new flavours and fragrances including for perfumes and foods.",
+    "Market definition": "For the purposes of this merger, the ACCC defined the market as the Australian market for flavour and fragrance development.",
+    "Competition analysis": "The ACC found that the proposed acquisition was unlikely to substantially lessen competition in the Australian market for flavour and fragrance development.  In particular, the relatively unconcentrated nature of the market, high level of imports, and the strong countervailing power of customers are likely to constrain the merger parties post acquisition."
+  }
+}

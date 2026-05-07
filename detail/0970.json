@@ -1,0 +1,28 @@
+{
+  "id": "0970",
+  "title": "Illyria Pty Ltd - acquisition of Indian Premier League Twenty20 team",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/illyria-pty-ltd-acquisition-of-indian-premier-league-twenty20-team",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31023",
+  "industries": [
+    "Sport/Broadcasting"
+  ],
+  "date_completed": "30 January 2008",
+  "date_completed_iso": "2008-01-30T12:00:00Z",
+  "date_commenced": "29 January 2008",
+  "date_commenced_iso": "2008-01-29T12:00:00Z",
+  "total_review_days": 2,
+  "acquirers": [
+    "Illyria"
+  ],
+  "targets": [
+    "Indian Premier League Twenty20 team"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Illyria acquired a stake in an Indian Premier League Twenty20 team",
+    "Market definition": "The ACCC did not consider it necessary to form a definitive view in relation to market definition.",
+    "Competition analysis": "The ACCC did not consider that the acquisition would be likely to raise any competition issues due to the size of the ownership stake and the way in which broadcast rights are to be sold in Australia."
+  }
+}

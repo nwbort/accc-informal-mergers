@@ -1,0 +1,44 @@
+{
+  "id": "0655",
+  "title": "Sumitomo Chemical Company Limited - proposed acquisition of a 20% interest in Nufarm Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sumitomo-chemical-company-limited-proposed-acquisition-of-a-20-interest-in-nufarm-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39585",
+  "industries": [
+    "Crop protection chemicals"
+  ],
+  "date_completed": "10 March 2010",
+  "date_completed_iso": "2010-03-10T12:00:00Z",
+  "date_commenced": "28 January 2010",
+  "date_commenced_iso": "2010-01-28T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Sumitomo Chemical Company Limited"
+  ],
+  "targets": [
+    "Nufarm Limited"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jan 2010",
+      "date_iso": "2010-01-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Feb 2010",
+      "date_iso": "2010-02-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Mar 2010",
+      "date_iso": "2010-03-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sumitomo Chemical Company Limited proposed to acquire a 20% interest in Nufarm Limited.",
+    "Market definition": "The ACCC assessed the proposed acquisition in respect of the following  markets: - a national market for the supply of procymidone-based fungicides; - a national market for the supply of clethodim-based herbicides; - a national market for the supply of organosilicants; and - a national market for the supply of plant growth regulators.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets.  The ACCC considered that the threat of imports is likely to significantly constrain the merged entity.  In addition, the ACCC considered that the availability of alternative crop protection products utilising different active ingredients, and the ability of retailers to source supply of these products from alternative suppliers is likely to constrain Sumitomo and Nufarm post-acquisition."
+  }
+}

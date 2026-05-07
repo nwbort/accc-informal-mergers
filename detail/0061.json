@@ -1,0 +1,58 @@
+{
+  "id": "0061",
+  "title": "Endeavour Group Limited - Prince Consort Hotel",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/endeavour-group-limited-prince-consort-hotel",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Liquor Retail & Hotel"
+  ],
+  "date_completed": "9 April 2024",
+  "date_completed_iso": "2024-04-09T12:00:00Z",
+  "date_commenced": "13 October 2023",
+  "date_commenced_iso": "2023-10-13T12:00:00Z",
+  "total_review_days": 80,
+  "acquirers": [
+    "Endeavour Group Limited"
+  ],
+  "targets": [
+    "Prince Consort Hotel"
+  ],
+  "timeline": [
+    {
+      "date": "13 Oct 2023",
+      "date_iso": "2023-10-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "27 Oct 2023",
+      "date_iso": "2023-10-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "14 Dec 2023",
+      "date_iso": "2023-12-14T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "25 Jan 2024",
+      "date_iso": "2024-01-25T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "6 Feb 2024",
+      "date_iso": "2024-02-06T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from Endeavour. Former provisional date fro announcement of ACCC's findings (21 March 2024) is delayed. The ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "9 Apr 2024",
+      "date_iso": "2024-04-09T12:00:00Z",
+      "event": "ACCC discontinued its public review after Endeavour advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Endeavour Group Limited ( Endeavour ) proposes to acquire the Prince Consort Hotel and associated bottle shop, Prince Cellars, located at 220-230 and 234 Wickham Street, Fortitude Valley in Queensland. Endeavour is a major Australian alcoholic drinks retailer and hotel operator. It operates two hotels (the Brunswick Hotel and Hello Gorgeous) within 2km of the Prince Consort Hotel. Endeavour also operates 9 bottle shops within 1.5 km of Prince Cellars at the Prince Consort Hotel, and 7 liquor stores within a 1 km radius of Prince Cellars, including BWS Valley Central and BWS Fortitude Valley within 300 m of Prince Cellars. The Prince Consort Hotel consists of the hotel which offers on-premises food and beverage consumption, live music and entertainment, gaming and wagering, function services and an attached bottle shop, Prince Cellars.",
+    "Competition analysis": "The ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the proposed acquisition. On 9 April 2024, the ACCC discontinued its public review after Endeavour advised that the proposed acquisition would not be proceeding."
+  }
+}

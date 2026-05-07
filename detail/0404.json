@@ -1,0 +1,44 @@
+{
+  "id": "0404",
+  "title": "Virgin Australia Holdings Limited - proposed acquisition of Skywest Airlines (Australia) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/virgin-australia-holdings-limited-proposed-acquisition-of-skywest-airlines-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50023",
+  "industries": [
+    "Airlines"
+  ],
+  "date_completed": "31 January 2013",
+  "date_completed_iso": "2013-01-31T12:00:00Z",
+  "date_commenced": "2 November 2012",
+  "date_commenced_iso": "2012-11-02T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "Virgin Australia Holdings Limited"
+  ],
+  "targets": [
+    "Skywest Airlines (Australia) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Nov 2012",
+      "date_iso": "2012-11-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Nov 2012",
+      "date_iso": "2012-11-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jan 2013",
+      "date_iso": "2013-01-31T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Virgin Australia Holdings Limited proposed to acquire 100% of the shares in Skywest Airlines Limited, the Singaporean holding company for Skywest Airlines.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the supply of domestic air passenger transport services, domestic air charter services, and international air passenger transport services. In each case the ACCC focused on services provided to or from Western Australian destinations. However, given that the proposed acquisition does not raise competition concerns regardless of the precise definition of the market, the ACCC did not consider it necessary to form a concluded view on market definition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. The main factor informing this view was that the merger parties supply, and are likely to continue to supply, largely complementary services, rather than services that are in direct competition: * Virgin offers Australia-wide domestic regular passenger transport (RPT) services, while Skywest offers a localised RPT network limited to domestic routes to and from destinations within WA. The direct overlap between Virgin Australia and Skywest's services is limited to a single route between Perth and Broome, and Skywest provides fewer than five frequencies per week on this route; * outside of its Corporate Alliance with Skywest, Virgin has a very limited charter offer; and * Skywest operates only one international service (between Port Hedland and Denpasar, Bali), and Virgin does not operate on that route. The ACCC also took into account the competitive constraint arising from the presence of other airlines operating in Western Australia, including between Perth and Broome."
+  }
+}

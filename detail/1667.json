@@ -1,0 +1,31 @@
+{
+  "id": "1667",
+  "title": "Acquirer: QBE Insurance Group Ltd; Target: trade credit business of CGU Insurance Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-qbe-insurance-group-ltd-target-trade-credit-business-of-cgu-insurance-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16853",
+  "industries": [],
+  "date_completed": "26 March 2002",
+  "date_completed_iso": "2002-03-26T12:00:00Z",
+  "date_commenced": "26 February 2002",
+  "date_commenced_iso": "2002-02-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "QBE Insurance Group Ltd"
+  ],
+  "targets": [
+    "trade credit business of CGU Insurance Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "QBE proposed to acquire CGU's trade credit insurance portfolio",
+    "Market definition": "Trade credit insurance",
+    "Competition analysis": "On 26 March 2002 the Commission advised QBE that it would not intervene in the proposed acquisition.  There are a number of alternative Australian and overseas competitors including EFIC/Gerling, AIG, Gerling/NCM and Dexta/Coface that could readily respond to any attempted exercise of market power by the merged firm.  Accordingly, the Commission considered that the proposed acquisition was unlikely to substantially lessen competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "7422"
+  }
+}

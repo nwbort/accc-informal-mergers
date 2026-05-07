@@ -1,0 +1,31 @@
+{
+  "id": "1446",
+  "title": "Acquirer: Bayer Ag Germany; Target: Roche Pharmaceutical",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-bayer-ag-germany-target-roche-pharmaceutical",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20637",
+  "industries": [],
+  "date_completed": "9 November 2004",
+  "date_completed_iso": "2004-11-09T12:00:00Z",
+  "date_commenced": "5 October 2004",
+  "date_commenced_iso": "2004-10-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Bayer Ag Germany"
+  ],
+  "targets": [
+    "Roche Pharmaceutical"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The acquisition will lead to only a small increase in Bayer's market share in the over-the-counter pharmaceutical market in Australia. In addition, the merged entity is likely to face competition from a number of domestic and multinational pharmaceutical companies that are currently active in the Australian market.",
+    "Market definition": "The relevant market was considered to be the national market for the development, manufacturing, and supply of over-the-counter pharmaceutical products.",
+    "Competition analysis": "The acquisition will lead to only a small increase in Bayer's market share in the over-the-counter pharmaceutical market in Australia. In addition, the merged entity is likely to face competition from a number of domestic and multinational pharmaceutical companies that are currently active in the Australian market.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "5251"
+  }
+}

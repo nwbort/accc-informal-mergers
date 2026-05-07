@@ -1,0 +1,89 @@
+{
+  "id": "0090",
+  "title": "Zoetis Australia Research and Manufacturing Pty Ltd  - Betrola Investments Pty Ltd (including Jurox Pty Ltd)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/zoetis-australia-research-and-manufacturing-pty-ltd-betrola-investments-pty-ltd-including-jurox-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Animal health products"
+  ],
+  "date_completed": "15 September 2022",
+  "date_completed_iso": "2022-09-15T12:00:00Z",
+  "date_commenced": "30 September 2021",
+  "date_commenced_iso": "2021-09-30T12:00:00Z",
+  "total_review_days": 147,
+  "acquirers": [
+    "Zoetis Australia Research and Manufacturing Pty Ltd"
+  ],
+  "targets": [
+    "Betrola Investments Pty Ltd (including Jurox Pty Ltd)"
+  ],
+  "timeline": [
+    {
+      "date": "30 Sep 2021",
+      "date_iso": "2021-09-30T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Oct 2021",
+      "date_iso": "2021-10-22T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "28 Oct 2021",
+      "date_iso": "2021-10-28T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of ACCC's findings (16 December) is delayed."
+    },
+    {
+      "date": "3 Nov 2021",
+      "date_iso": "2021-11-03T12:00:00Z",
+      "event": "ACCC received information from parties."
+    },
+    {
+      "date": "6 Dec 2021",
+      "date_iso": "2021-12-06T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former proposed date for announcement of ACCC's findings (3 February 2022) is delayed."
+    },
+    {
+      "date": "15 Dec 2021",
+      "date_iso": "2021-12-15T12:00:00Z",
+      "event": "ACCC received information from parties."
+    },
+    {
+      "date": "17 Feb 2022",
+      "date_iso": "2022-02-17T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "11 Mar 2022",
+      "date_iso": "2022-03-11T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "13 Apr 2022",
+      "date_iso": "2022-04-13T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former proposed date for announcement of ACCC's findings (28 April) is delayed."
+    },
+    {
+      "date": "11 Aug 2022",
+      "date_iso": "2022-08-11T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking."
+    },
+    {
+      "date": "25 Aug 2022",
+      "date_iso": "2022-08-25T12:00:00Z",
+      "event": "Closing date for submissions relating to the  proposed s87B undertaking."
+    },
+    {
+      "date": "15 Sep 2022",
+      "date_iso": "2022-09-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Zoetis Australia Research and Manufacturing Pty Ltd, a wholly owned subsidiary of Zoetis Inc. ( Zoetis ), proposes to acquire Betrola Investments Pty Ltd, including its wholly owned subsidiary, Jurox Pty Ltd ( Jurox ) (the Proposed Acquisition ). Zoetis and Jurox both operate globally. In Australia, they are involved in the development, manufacture and marketing of animal health products for companion animals and livestock. The ACCC commenced its public review of the Proposed Acquisition on 30 September 2021. On 17 February 2022, the ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the Proposed Acquisition. On 11 August 2022, the ACCC commenced market consultation on a draft proposed section 87B undertaking. On 15 September 2022, the ACCC decided to not oppose Zoetis' proposed acquisition of Jurox, subject to the ACCC accepting a court-enforceable undertaking from Zoetis to divest Jurox's teat sealant and intramammary antibiotic products.",
+    "Market definition": "Refer to the Public Competition Assessment attached below.",
+    "Competition analysis": "Refer to the Public Competition Assessment attached below."
+  }
+}

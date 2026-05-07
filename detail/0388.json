@@ -1,0 +1,44 @@
+{
+  "id": "0388",
+  "title": "Tyco Australia Pty Limited - proposed acquisition of National Fire Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tyco-australia-pty-limited-proposed-acquisition-of-national-fire-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50736",
+  "industries": [
+    "Fire protection industry"
+  ],
+  "date_completed": "26 April 2013",
+  "date_completed_iso": "2013-04-26T12:00:00Z",
+  "date_commenced": "1 March 2013",
+  "date_commenced_iso": "2013-03-01T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Tyco Australia Pty Limited"
+  ],
+  "targets": [
+    "National Fire Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Mar 2013",
+      "date_iso": "2013-03-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Mar 2013",
+      "date_iso": "2013-03-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Apr 2013",
+      "date_iso": "2013-04-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Tyco Australia trading as Wormald proposed to acquire National Fire Holdings Pty Ltd and its subsidiaries.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of separate state and territory based markets for supply and installation of fire protection systems and inspection and maintenance of fire protection systems.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In each state or territory market for supply and installation of fire protection systems or inspection and maintenance of fire protection systems the ACCC considered that other existing and potential competitors would continue to provide a competitive constraint on the merged entity post-acquisition."
+  }
+}

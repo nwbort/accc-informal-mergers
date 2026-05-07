@@ -1,0 +1,32 @@
+{
+  "id": "1462",
+  "title": "Acquirer: DCA Group Limited; Target: MIA Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-dca-group-limited-target-mia-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19431",
+  "industries": [],
+  "date_completed": "16 September 2004",
+  "date_completed_iso": "2004-09-16T12:00:00Z",
+  "date_commenced": "7 June 2004",
+  "date_commenced_iso": "2004-06-07T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "DCA Group Limited"
+  ],
+  "targets": [
+    "MIA Group Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "DCA - acquisition of MIA.",
+    "Market definition": "The supply of diagnostic imaging services (excluding nuclear medicine and MRI), excluding  in-patients at public hospitals; The supply of nuclear medicine services, excluding in-patients at public hospitals; and The supply of MRI services, excluding in-patients at public hospitals; in both Adelaide and the mid-north rural/Barossa.",
+    "Competition analysis": "The market concentrations in each of these markets exceed the merger guideline thresholds for both the exercise of unilateral power and coordinated market power. Lack of other suppliers to effectively constrain the merged entity, the only remaining competition would be Bensons; Barriers to entry are high, in particular there appears to be a significant barrier in the difficulty of accessing appropriately qualified radiologists able to freely practice in the relevant market; The likelihood of new entry appears low; There does not appear to be sufficient countervailing power in the relevant market to constrain the merged entity; and The proposed acquisition will result in the removal of a vigorous and effective competitor. In order to address the Commission's competition concerns, DCA and MIA offered the Commission court-enforceable undertakings that were accepted on 16 September 2004.",
+    "Resolution": "Undertakings",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "8622"
+  }
+}

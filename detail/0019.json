@@ -1,0 +1,44 @@
+{
+  "id": "0019",
+  "title": "The ICON Group - proposed acquisition of a lease at Burnside War Memorial Hospital",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-icon-group-proposed-acquisition-of-a-lease-at-burnside-war-memorial-hospital",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "8 July 2025",
+  "date_completed_iso": "2025-07-08T12:00:00Z",
+  "date_commenced": "27 May 2025",
+  "date_commenced_iso": "2025-05-27T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "ICON Group"
+  ],
+  "targets": [
+    "a lease at Burnside War Memorial Hospital in Toorak Gardens"
+  ],
+  "timeline": [
+    {
+      "date": "27 May 2025",
+      "date_iso": "2025-05-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Jun 2025",
+      "date_iso": "2025-06-10T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "8 Jul 2025",
+      "date_iso": "2025-07-08T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (24 July 2025) brought forward to 8 July 2025. ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Icon Group ( Icon Group ) proposes to acquire a long-term lease to establish a radiation oncology clinic at Burnside Hospital in Toorak Gardens, South Australia ( Burnside Hospital ). The Icon Group is a large private provider of cancer care services. In Australia, it provides radiation and medical oncology services, pharmaceutical compounding services, pharmacy management services and clinical cancer trials. It operates radiation oncology clinics in all states of Australia and the ACT. In Adelaide, the Icon Group currently operates radiation oncology facilities in Windsor Gardens and Noarlunga, with a third facility in North Adelaide under development. Burnside Hospital is a private, not-for-profit community hospital which does not currently offer radiation oncology services. Burnside Hospital is planning to expand its site by developing a 3-storey building across the road from the existing hospital. The proposed acquisition would enable the Icon Group to establish a radiation oncology clinic within this new building.",
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition in the markets for the supply of radiation oncology services in the Adelaide region, having regard to the importance of proximity to a patient’s home in their choice of clinic. It was not necessary for the ACCC to form a concluded view in relation to the precise scope of the relevant markets.",
+    "Competition analysis": "The ACCC considered that Icon would likely be constrained by alternative suppliers of radiation oncology services in the greater Adelaide region and in South Australia. Information available to the ACCC indicates there may be unmet demand for radiation oncology services in these regions. Future demand for radiation oncology services is also likely to grow, providing opportunities for alternative providers to remain, enter or expand in the future. The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any market."
+  }
+}

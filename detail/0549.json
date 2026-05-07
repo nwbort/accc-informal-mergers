@@ -1,0 +1,44 @@
+{
+  "id": "0549",
+  "title": "Amcor Packaging (Australia) Pty Ltd - proposed acquisition of the plant at Smithfield NSW owned by Carter Holt Harvey Packaging",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amcor-packaging-australia-pty-ltd-proposed-acquisition-of-the-plant-at-smithfield-nsw-owned-by-carter-holt-harvey-packaging",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44623",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "10 February 2011",
+  "date_completed_iso": "2011-02-10T12:00:00Z",
+  "date_commenced": "4 January 2011",
+  "date_commenced_iso": "2011-01-04T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Amcor Packaging (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "the plant at Smithfield NSW owned by Carter Holt Harvey Packaging"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jan 2011",
+      "date_iso": "2011-01-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jan 2011",
+      "date_iso": "2011-01-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Feb 2011",
+      "date_iso": "2011-02-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Amcor Packaging (Australia) Pty Ltd proposes to acquire the folding carton plant at Smithfield NSW, owned by Carter Holt Harvey Packaging Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the national market for the manufacture and supply of folding cartons.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. In forming this view the ACCC had regard to the following factors: - that post acquisition, a number of other substantial suppliers of folding cartons will remain in the relevant market, thereby constraining the merged entity's ability to increase product prices or reduce service quality; - that larger customers of folding cartons were found to have countervailing power; and - that customer switching costs were not high."
+  }
+}

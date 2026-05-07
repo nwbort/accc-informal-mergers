@@ -1,0 +1,31 @@
+{
+  "id": "1628",
+  "title": "Acquirer: Magnadata International Limited; Target: Spectron Transit Tickets Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-magnadata-international-limited-target-spectron-transit-tickets-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15734",
+  "industries": [],
+  "date_completed": "23 July 2002",
+  "date_completed_iso": "2002-07-23T12:00:00Z",
+  "date_commenced": "27 March 2002",
+  "date_commenced_iso": "2002-03-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Magnadata International Limited"
+  ],
+  "targets": [
+    "Spectron Transit Tickets Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "MIL, through its subsidiary, Magnadata Pty Limited (\"Magnadata\") proposes to acquire the magnetic stripe ticketing division of Spectron Transit Tickets Pty Limited (\"Spectron\").",
+    "Market definition": "For competition analysis purposes the relevant market was taken to be the national market for the manufacture and supply of magnetic stripe ticketing.",
+    "Competition analysis": "The Commission was of the view that the acquisition was unlikely to substantially lessen competition in the market for the following reasons: - there appear to be several competitors capable of constraining the merged firm; - this acquisition does not breach the Commission's market concentration threshholds; - imports appear to be a viable source of current and potential competition. Independent imports represent 14 per cent of the market; - purchasers appear to have some degree of countervailing power in their ability to purchase imports; and - technological developments such as the increasing use of smart cards provide a competitive constraint on the merged firm.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2412"
+  }
+}

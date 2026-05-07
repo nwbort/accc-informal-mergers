@@ -1,0 +1,31 @@
+{
+  "id": "1661",
+  "title": "Acquirer: Societe des Produits Nestle SA (O/S); Target: Northern Foods Plc (O/S)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-societe-des-produits-nestle-sa-os-target-northern-foods-plc-os",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15600",
+  "industries": [],
+  "date_completed": "10 April 2002",
+  "date_completed_iso": "2002-04-10T12:00:00Z",
+  "date_commenced": "4 February 2002",
+  "date_commenced_iso": "2002-02-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Societe des Produits Nestle SA (O/S)"
+  ],
+  "targets": [
+    "Northern Foods Plc (O/S)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Nestle proposes to acquire Northern Foods in the United Kingdom. The impact this will have in Australia is that Nestle will acquire the Ski brand of yoghurt.  Nestle will acquire Eden Vale (Australia) Pty Ltd, which is an Australian subsidiary of Northern Foods Plc.",
+    "Market definition": "National market for processing, production and distribution of yoghurts and dairy desserts.",
+    "Competition analysis": "The acquisition involved primarily the ownership of the brand name Ski and the relevant intellectual property and other licencing rights. The brand name was acquired by Nestle UK. Ski is currently produced under licence, operative for a further 10 years, in Australia by Dairy Farmers and is the second largest seller.  Nestle also competes in the relevant market in Australia and is the third largest seller, with National Foods as the largest. The Commission decided not to oppose the acquisition following assurances from Nestle, amongst other things, that the current licencing arrangement will remain unchanged by the acquisition and Nestle Australia will have little involvement in overseeing the licence operation.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Press",
+    "ANZSIC code": "2121"
+  }
+}

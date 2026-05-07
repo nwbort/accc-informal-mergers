@@ -1,0 +1,78 @@
+{
+  "id": "0220",
+  "title": "Platinum Equity - proposed acquisition of OfficeMax Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/platinum-equity-proposed-acquisition-of-officemax-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61960",
+  "industries": [
+    "Office supplies"
+  ],
+  "date_completed": "30 November 2017",
+  "date_completed_iso": "2017-11-30T12:00:00Z",
+  "date_commenced": "15 May 2017",
+  "date_commenced_iso": "2017-05-15T12:00:00Z",
+  "total_review_days": 108,
+  "acquirers": [
+    "Platinum Equity"
+  ],
+  "targets": [
+    "OfficeMax Australia"
+  ],
+  "timeline": [
+    {
+      "date": "15 May 2017",
+      "date_iso": "2017-05-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Jun 2017",
+      "date_iso": "2017-06-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Jul 2017",
+      "date_iso": "2017-07-05T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (20 July 2017) delayed."
+    },
+    {
+      "date": "19 Jul 2017",
+      "date_iso": "2017-07-19T12:00:00Z",
+      "event": "ACCC received information from the parties."
+    },
+    {
+      "date": "24 Aug 2017",
+      "date_iso": "2017-08-24T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "4 Sep 2017",
+      "date_iso": "2017-09-04T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "7 Sep 2017",
+      "date_iso": "2017-09-07T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "9 Oct 2017",
+      "date_iso": "2017-10-09T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "1 Nov 2017",
+      "date_iso": "2017-11-01T12:00:00Z",
+      "event": "Former proposed decision date (16 November 2017) delayed to provide time to consider the information provided by the parties."
+    },
+    {
+      "date": "30 Nov 2017",
+      "date_iso": "2017-11-30T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not reach concluded views on market definition, but its review focused on the supply of traditional office products to large commercial and government customers in Australia. The term 'office products' covers a broad range of different products that are used in an office, whether at home or in a business, or more generally in the workplace. The Penfold Research, Office Products in Australia 2016-18, A market report, defines two broad categories of office products: 'core' and 'non-core' office products. These are also referred to as 'traditional' and 'non-traditional' office products. Traditional office products include: paper, ink and toner, and stationery, such as writing instruments, labels, envelopes, filing and presentation products and general stationery. The ACCC's investigation indicated that the supply of traditional office products to large commercial and government customers is characterised by bidding for customer contracts through some form of tender process. It also indicated that large customers typically have distinct demand characteristics, including, in particular, distinct service requirements.",
+    "Competition analysis": "The ACCC concluded that the acquisition was likely to lessen competition in the supply of traditional office products to large commercial and government customers in Australia. However, it was not satisfied that the proposed acquisition was likely to substantially lessen competition. The ACCC's review indicated that Winc (formerly Staples), OfficeMax, Complete Office Supplies (COS) and Lyreco were the key suppliers to large commercial and government customers. COS is an Australian owned and operated supplier of office products to commercial and government customers in Australia. Lyreco is part of a global group of companies that provide workplace supplies to commercial and government customers. While the proposed acquisition combined the largest and the distant second largest suppliers of traditional office products to large commercial and government customers, potentially reinforcing Winc's position as market leader, on balance the ACCC considered that COS and Lyreco together, combined with the ability of large customers to switch suppliers and purchase 'off-contract', were likely to provide sufficient competitive constraint on the merged entity to prevent a substantial lessening of competition. In reaching its conclusion, the ACCC's review took into account the following factors in particular: -\tRecent successes by COS and Lyreco in winning large customers from Winc and OfficeMax. -\tThe generally non-exclusive nature of contracts for office supplies with large customers and the ability to purchase off-contract. The ACCC concluded that if prices and returns were to increase through the exercise of market power by a combined Winc-OfficeMax, it was likely that other existing suppliers of office products would seek to grow their market share."
+  }
+}

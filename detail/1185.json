@@ -1,0 +1,40 @@
+{
+  "id": "1185",
+  "title": "Community Newspaper Group Limtied - acquisition of The Advocate",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/community-newspaper-group-limtied-acquisition-of-the-advocate",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25526",
+  "industries": [
+    "Newspaper"
+  ],
+  "date_completed": "28 November 2006",
+  "date_completed_iso": "2006-11-28T12:00:00Z",
+  "date_commenced": "20 October 2006",
+  "date_commenced_iso": "2006-10-20T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Community Newspaper Group Limited",
+    "Community Newspaper Group Limited"
+  ],
+  "targets": [
+    "The Advocate"
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2006",
+      "date_iso": "2006-10-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "28 Nov 2006",
+      "date_iso": "2006-11-28T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Community Newspaper Group Limited (owned by News Ltd and West Australian Newspapers Ltd) has acquired The Advocate, a weekly newspaper circulating in outer north-eastern Perth and rural areas to the north of Perth.",
+    "Market definition": "The ACCC concluded that the product dimension of the market included free, suburban newspapers.  It was not satisfied that, in this matter, daily paid newspapers were likely to be substitutes for free suburban newspapers, both for consumers and advertisers.  It recognised the possiblity that other media might be part of the market but did not need to resolve this issue in this matter.  The geographic dimension of the market was likely to be the Ellenbrook-Bullsbrook region in outer north-eastern Perth.",
+    "Competition analysis": "The Community Newspaper Group owns the Midland Kalamunda Reporter, a free newspaper whose circulation partially overlaps with that of the Advocate.  However, after conducting market inquiries, the ACCC was satisfied that this overlap was not significant enough to conclude that the Advocate and the Midland Kalamunda Reporter were substitutes, either for consumers or advertisers.  The ACCC also noted that two other free newspapers circulated in the area.  Consequently, no competition concerns arose."
+  }
+}

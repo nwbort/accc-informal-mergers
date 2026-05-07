@@ -1,0 +1,49 @@
+{
+  "id": "0684",
+  "title": "Olam International Limited - proposed acquisition of Timbercorp's Liparoo and Yungera Almond Assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/olam-international-limited-proposed-acquisition-of-timbercorps-liparoo-and-yungera-almond-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39405",
+  "industries": [
+    "Almond assets"
+  ],
+  "date_completed": "8 December 2009",
+  "date_completed_iso": "2009-12-08T12:00:00Z",
+  "date_commenced": "16 November 2009",
+  "date_commenced_iso": "2009-11-16T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Olam International Limited"
+  ],
+  "targets": [
+    "Timbercorp's Liparoo and Yungera Almond Assets"
+  ],
+  "timeline": [
+    {
+      "date": "16 Nov 2009",
+      "date_iso": "2009-11-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "27 Nov 2009",
+      "date_iso": "2009-11-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Dec 2009",
+      "date_iso": "2009-12-02T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further consideration by the ACCC."
+    },
+    {
+      "date": "8 Dec 2009",
+      "date_iso": "2009-12-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Olam proposed to acquire the Liparoo and Yungera almond assets that were offered for sale by the receivers of the Timbercorp Orchard Trusts. Olam had recently also acquired 8096 hectares of planted almond orchards and associated water rights and infrastructure located in the Sunraysia region of Victoria from Timbercorp in an earlier transaction. The ACCC therefore reviewed the aggregation of those assets with the proposed acquisition of the Liparoo and Yungera assets.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - separate markets for the acquisition of almond hulling, processing, marketing, and orchard management in the Sunraysia region of Victoria; and - a national market for the supply of almonds.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included the following: - Olam was unlikely to have the incentive and ability to depress prices paid for services acquired by almond hullers, processors, marketers, and orchard managers below competitive levels in the markets for the acquisition of these services. - In the national market for the supply of almonds, Australian almond prices are set with reference to a global price of almonds, which is currently determined largely by supply from the United States of America. Australian almond production currently comprises around 3 per cent of global supply. In this context, the ACCC considered that Olam was unlikely to have the ability to increase the price of Australian almonds as a result of the proposed acquisition."
+  }
+}

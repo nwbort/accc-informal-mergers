@@ -1,0 +1,26 @@
+{
+  "id": "1329",
+  "title": "Proposed sale of Freemasons Hospitals",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-sale-of-freemasons-hospitals",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22960",
+  "industries": [
+    "Private Hospitals"
+  ],
+  "date_completed": "13 December 2005",
+  "date_completed_iso": "2005-12-13T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Epworth has been announced as the preferred bidder to acquire Freemasons Hospital. Epworth owns two private hospitals - one in inner Melbourne and one in the outer suburbs of Melbourne.",
+    "Market definition": "The ACCC considered that the relevant product market is likely to be for general overnight services in private hospitals. In defining the relevant product market the ACCC took the view that private hospitals are able to substitute to and from certain specialties and therefore individual specialties such as maternity should not be regarded as being a separate market. The ACCC did not consider day surgeries to be part of the relevant market due to the fact they could not offer overnight care; public hospitals were not regarded as part of the relevant market due to health fund members having to face waiting lists and an apparent general preference to attend private hospitals. The ACCC formed a view that private hospitals within a short distance of inner Melbourne were the most likely to compete with the merged entity. The ACCC therefore formed the view that the relevant market was for the supply to health funds (and entities undertaking similar functions - for example the DVA) of the right for their members to be supplied with general overnight services in inner Melbourne at specified rates.",
+    "Competition analysis": "The ACCC found that following the acquisition there would continue to be a number of alternative providers of private hospital services in Melbourne. These include centrally located hospitals such as Melbourne Private and St Vincent's as well as hospitals a short distance from inner Melbourne including Masada, Cabrini, Glenferrie and John Fawkner. The ACCC found that barriers to entry are high in the private hospital market and that the primary barrier is the substantial sunk costs incurred in constructing a hospital. However there is capacity and evidence of existing hospitals expanding and/or consolidating their facilities and services. In conclusion the ACCC formed the view that due to a range of alternative private hospitals being available to health funds and the Department of Veterans' Affairs in inner Melbourne, health funds would continue to have negotiating power in their dealings with private hospitals following the acquisition and that the acquisition is not likely to result in a substantial lessening of competition in the relevant market.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

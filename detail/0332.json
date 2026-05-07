@@ -1,0 +1,89 @@
+{
+  "id": "0332",
+  "title": "Healthscope Limited - proposed acquisition of Brunswick Private Hospital",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/healthscope-limited-proposed-acquisition-of-brunswick-private-hospital",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53192",
+  "industries": [
+    "Hospital"
+  ],
+  "date_completed": "12 June 2014",
+  "date_completed_iso": "2014-06-12T12:00:00Z",
+  "date_commenced": "22 January 2014",
+  "date_commenced_iso": "2014-01-22T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Healthscope Limited"
+  ],
+  "targets": [
+    "Brunswick Private Hospital"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2014",
+      "date_iso": "2014-01-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "7 Feb 2014",
+      "date_iso": "2014-02-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Feb 2014",
+      "date_iso": "2014-02-18T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "28 Feb 2014",
+      "date_iso": "2014-02-28T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC amended former provisional date for announcement of findings (6 March 2014)."
+    },
+    {
+      "date": "12 Mar 2014",
+      "date_iso": "2014-03-12T12:00:00Z",
+      "event": "ACCC amended former provisional date for announcement of findings (13th March) following its review of additional information received from the merger parties on 3 March."
+    },
+    {
+      "date": "27 Mar 2014",
+      "date_iso": "2014-03-27T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "10 Apr 2014",
+      "date_iso": "2014-04-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "17 Apr 2014",
+      "date_iso": "2014-04-17T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "5 May 2014",
+      "date_iso": "2014-05-05T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC former proposed date for announcement of final decision (8 May 2014) delayed to accommodate this information and acquirer's request to provide additional information."
+    },
+    {
+      "date": "21 May 2014",
+      "date_iso": "2014-05-21T12:00:00Z",
+      "event": "Former proposed decision date of 22 May 2014 delayed at the request of the acquirer to allow for provision of further information."
+    },
+    {
+      "date": "3 Jun 2014",
+      "date_iso": "2014-06-03T12:00:00Z",
+      "event": "ACCC received further information from the acquirer."
+    },
+    {
+      "date": "12 Jun 2014",
+      "date_iso": "2014-06-12T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Healthscope Limited proposed to acquire Brunswick Private Hospital from Healthe Care Pty Ltd.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

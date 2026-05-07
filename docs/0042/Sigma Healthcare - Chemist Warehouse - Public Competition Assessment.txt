@@ -1,0 +1,569 @@
+ 
+1 
+ 
+ 
+Public competition assessment 
+7 May 2025 
+ Sigma Healthcare Limited – proposed acquisition of 
+CW Group Holdings Limited 
+ 
+The ACCC’s decision 
+1. On 7 November 2024, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition by Sigma 
+Healthcare Limited (Sigma) of CW Group Holdings Limited (Chemist Warehouse) 
+(the proposed acquisition) after accepting a section 87B undertaking from Sigma 
+(the Undertaking). 
+2. Sigma has committed to three key obligations in the Undertaking: 
+a. Sigma franchisee and customer switching: Sigma will not prevent or 
+hinder its pharmacy franchisees and wholesale or buying group customers 
+who entered into an agreement with Sigma prior to 1 July 2024 from 
+terminating their agreements with Sigma. These franchisees and customers 
+will have up to three years to terminate their agreements, and Sigma will 
+waive all rights to recover contributions it has already made under its 
+agreements as well as future fees payable to Sigma. 
+b. Deleting confidential data for exiting franchisees and customers: For 
+three years from the completion of the acquisition, Sigma will safeguard the 
+confidential information of all exiting Sigma retail pharmacy customers and 
+once a customer commences the process to terminate its agreement, Sigma 
+will ensure that only approved personnel can access the confidential 
+information before it is deleted.  
+c. CSO wholesaling: Sigma will remain a participating pharmaceutical 
+wholesaler under the Commonwealth Government’s Community Service 
+Obligation (CSO) arrangements for five years (commencing from the date of 
+completion). 
+3. The ACCC considered that the proposed acquisition, taking into account the 
+Undertaking, would be unlikely to contravene section 50 of the Competition and 
+Consumer Act.  
+4. This Public Competition Assessment outlines reasons for the decision by the ACCC 
+not to oppose the proposed acquisition, taking into account the Undertaking. 
+5. ACCC public competition assessments are subject to the following qualifications: 
+
+
+ 
+2 
+ 
+a. The ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily reflect 
+the ACCC’s view of another transaction. 
+b. As assessments are relatively brief and do not refer to confidential 
+information, assessments do not necessarily set out all of the issues and 
+information considered by the ACCC. 
+The parties and the proposed transaction 
+Sigma 
+6. Sigma is an ASX-listed wholesaler and distributor of prescription medicines (including 
+Pharmaceutical Benefits Scheme (PBS) prescriptions), over the counter (OTC) and 
+front of store (FOS) products to over 4,000 community pharmacies nationally. 
+7. Sigma’s core business activities include: 
+a. wholesale and distribution of prescription medicines, OTC products and FOS 
+products to both its franchisees and independent pharmacies 
+b. providing brand and support services to approximately 400 community 
+pharmacies operating as franchisees under Sigma banners of Amcal, 
+Discount Drug Store and PharmaSave  
+c. operating a buying group1 – the PriceSave program – for approximately 445 
+independent pharmacies, and 
+d. supplying private label products under the brands ‘Pharmacy Care’, Beauty 
+Theory’ and ‘Amcal Plus’. 
+8. Sigma also owns and operates MPS Connect Pty Ltd which offers medication 
+packing services and management solutions to pharmacies and aged care providers. 
+At the time of the decision, Sigma held 51 per cent of the shares in NostraData Pty 
+Ltd which supplies technology and data analytics solutions to pharmacies, 
+wholesalers and manufacturers.2 
+Chemist Warehouse 
+9. Chemist Warehouse is an unlisted Australian public company. It is a franchisor to 
+approximately 600 pharmacies and retail stores under the following banners: 
+Chemist Warehouse, MyChemist, Ultra Beauty, My Beauty Spot, and Optometrist 
+Warehouse. Approximately 550 of these are Chemist Warehouse and MyChemist 
+pharmacies. 
+10. Chemist Warehouse provides brand and support services to its franchisee 
+pharmacies, including but not limited to: 
+a. media, advertising, marketing, licensing and financial support services 
+b. supply of FOS and OTC products including Chemist Warehouse owned, 
+private label and exclusive consumer brands, and 
+c. support services such as negotiating supply terms on behalf of franchisees 
+with suppliers and manufacturers to distribute FOS and OTC products. 
+ 
+1 Buying groups are groups formed for the purposes of negotiating the cost of medicines and products with wholesalers or 
+manufacturers. Wholesalers may also provide group buying offers to pharmacies. 
+2 Sigma’s current shareholding is 45.9 per cent. 
+
+
+ 
+3 
+ 
+11. Chemist Warehouse also owns private label product brands which it sells online and 
+supplies to its franchisees. These include Wagner, Bambi Mini, Barely, Bondi Protein 
+Co, Inc, and Goat. 
+12. Chemist Warehouse operates six distribution centres to support the distribution of 
+FOS and OTC products to its franchisees. Chemist Warehouse obtains wholesale 
+supply of prescription, OTC and FOS products from Sigma. 
+The proposed transaction 
+13. On 11 December 2023, Sigma and Chemist Warehouse entered into a merger 
+implementation agreement under which Sigma would acquire all the shares in 
+Chemist Warehouse in exchange for Sigma shares and a $700 million cash 
+consideration.  
+14. Upon completion of the proposed acquisition (February 2025), Chemist Warehouse 
+shareholders will hold 85.75% of the ASX listed merged entity while Sigma 
+shareholders will hold 14.25%. The transaction is in effect a reverse acquisition of 
+Sigma by Chemist Warehouse. 
+Market Inquiries 
+15. The ACCC conducted market inquiries with a range of industry participants including 
+independent and franchise community pharmacies, pharmacy wholesalers, 
+manufacturers and suppliers of products sold via the pharmacy channel, pharmacy 
+representative bodies, regulatory bodies, and other interested parties including the 
+general public. 
+16. The ACCC consulted on both the competition issues associated with the proposed 
+acquisition, and the Undertaking. 
+17. The ACCC also obtained confidential information, data and documents from the 
+merger parties and interested parties. 
+Industry background 
+18. On 13 June 2024, the ACCC published a Statement of Issues (SOI)3 which included 
+information (paragraphs 26 – 46) about the pharmacy industry in Australia, including: 
+a. information regarding community pharmacies 
+b. an overview of banner and buying groups 
+c. information regarding wholesalers 
+d. an overview of suppliers and manufacturers 
+e. an overview of the pharmacy supply chain 
+f. the Therapeutic Goods Act and Pharmaceutical Benefits Scheme regulations 
+g. Community Service Obligations (CSO) Funding Pool 
+h. pharmacy location rules, and 
+i. 
+pharmacy ownership regulation. 
+19. This background information is not repeated in this Public Competition Assessment.  
+ 
+3 See ACCC Sigma Healthcare – Chemist Warehouse Group – Statement of Issues. 
+
+
+ 
+4 
+ 
+Vertical competition concern: impact on retail pharmacies via 
+potential discriminatory supply terms by the merged entity  
+20. The ACCC considered whether the proposed acquisition, which combines Sigma’s 
+wholesale business with Chemist Warehouse’s downstream franchising business, 
+would be likely to substantially lessen competition in pharmacy retailing. This could 
+occur if the merged entity discriminates against pharmacies supplied by Sigma in 
+favour of Chemist Warehouse pharmacies and if these pharmacies are foreclosed 
+from accessing alternative wholesale supply of pharmacy products, including FOS, 
+OTC and/or PBS products.  
+21. Specifically, the ACCC considered whether the merged entity, in its role as 
+wholesaler to non-Chemist Warehouse pharmacies could: 
+a. degrade price and supply terms to non-Chemist Warehouse pharmacies, 
+and/or  
+b. give preferential supply and pricing terms to pharmacies operating under the 
+merged entity’s banner groups.  
+22. If the merged entity had the ability and incentive to engage in such conduct and 
+these pharmacies were partly or fully foreclosed, the competitive constraints on 
+Chemist Warehouse pharmacies could be lessened. As a result, Chemist Warehouse 
+pharmacies (and potentially also Sigma banner pharmacies) could profitably raise 
+prices and/or decrease the quality of goods and services to the detriment of 
+consumers.  
+23. While Chemist Warehouse (and Sigma) banner pharmacies will not be directly 
+owned by the merged entity, the merged entity may have the incentive to engage in 
+discriminatory conduct and favour certain stores if it increased overall profits for the 
+merged firm.  
+Ability to foreclose non-Chemist Warehouse pharmacies  
+24. The ACCC considered whether the merged entity would have the ability to foreclose 
+retail pharmacies’ access to wholesale supply of pharmaceutical products. A key 
+focus was the potential foreclosure of non-Chemist Warehouse pharmacies supplied 
+by Sigma.   
+25. The ACCC considers that in the present circumstances pharmacy wholesalers 
+EBOS, API and (to a lesser extent) CH2 present retail pharmacy owners with 
+meaningful alternatives to the merged entity. The Undertaking enables those 
+pharmacies which are currently supplied by Sigma to easily switch away from Sigma 
+to one of the rival wholesalers. This ability to switch supplier means the merged entity 
+faces effective competition in supplying these pharmacies (as well as other 
+pharmacies) and is unable to foreclose those pharmacies’ access to wholesale 
+supply.  
+Alternative wholesalers and franchisors  
+26. Feedback from market participants indicated that national wholesalers API and 
+EBOS are sufficient and equivalent alternatives to Sigma as wholesalers. Market 
+feedback also indicated that CH2 has a growing presence in national wholesale 
+pharmacy supply.  
+27. In addition, each alternative wholesaler has spare capacity to take on and supply 
+new retail pharmacy customers.  
+
+
+ 
+5 
+ 
+28. As such, the ACCC considers that there are competitively effective rival wholesalers 
+for Sigma-supplied pharmacies to switch to if the merged entity sought to degrade 
+their price and supply terms or otherwise discriminate against them.   
+Switching costs 
+29. In considering the risk of foreclosure, the ACCC also considered how easy it would 
+be for Sigma-supplied pharmacies to switch wholesalers.  
+30. The ACCC found that retail pharmacies frequently switch wholesalers and many 
+Sigma wholesale customers face minimal barriers to switching.  
+31. However, a pharmacy’s ability to switch from Sigma to another wholesaler varies 
+depending on its contractual obligations to Sigma. Some pharmacies are in long term 
+agreements with Sigma and/or may have received financial assistance which they 
+would be required to repay if they ceased using Sigma as their wholesaler. 
+32. The costs of exiting a franchise agreement are also typically much higher than 
+switching wholesalers as leaving a franchise agreement involves repayment of 
+financial contributions from the franchisor, and changing signage, branding, 
+administrative systems such as Point of Sale (PoS), uniforms, and other aspects of 
+the pharmacy. Franchise and wholesale agreements also can be interlinked, making 
+it difficult for a pharmacy owner to exit the wholesale agreement without also exiting 
+the franchise agreement. As such, Sigma banner pharmacies face significant costs 
+and difficulty exiting their wholesale agreements with Sigma. This may leave them 
+more vulnerable to the risk of being discriminated against by the merged entity. 
+33. To address these concerns, Sigma offered the Undertaking which includes the 
+commitment not to prevent or hinder current franchisees, wholesale or buying group 
+customers from exiting their agreements with Sigma. As part of this commitment, 
+Sigma also waives its right to recover contributions it has already made under its 
+agreements, such as sign-on incentives. Together, these obligations reduce the 
+switching costs for Sigma franchisee and wholesale customers. 
+Regulatory restrictions  
+34. The wholesale supply of PBS products is price regulated and as a CSO wholesaler, 
+Sigma is subject to limits on the extent to which it could refuse supply or raise the 
+prices for wholesale PBS products to pharmacies that compete with its own banner 
+and franchise pharmacies.  
+35. The ACCC considered the possibility that the merged entity may cease to function as 
+a CSO wholesaler which would remove the application of the regulatory requirements 
+on the merged firm and enable it to either refuse supply of pharmacy products to 
+certain pharmacies or offer them on discriminatory terms. Such conduct would 
+reduce the number of competitively effective wholesale options for the supply of PBS 
+products to pharmacies leading to potential foreclosure of retail pharmacies.   
+36. The Undertaking addresses this concern by including a commitment by Sigma to 
+remain a CSO wholesaler for five years, and therefore be bound by the CSO 
+requirements.  
+Incentive to foreclose non-Chemist Warehouse pharmacies 
+37. As set out above, the ACCC concluded that given the presence of competitively 
+effective rival wholesalers, and taking into account the Undertaking, the ability of the 
+merged Sigma Chemist Warehouse to engage in foreclosure of retail pharmacies is 
+low, and therefore the proposed acquisition is unlikely to substantial lessening 
+competition in pharmacy retailing. 
+
+
+ 
+6 
+ 
+38. The ACCC therefore has not addressed in detail the merged entity’s incentives post-
+acquisition to engage in a discriminatory supply strategy. 
+Vertical competition concern: impact on pharmacy retailing due to 
+potential misuse of Sigma acquired data by the merged firm  
+39. The ACCC also considered whether there would be a likely substantial lessening of 
+competition in retail pharmacy should the merged entity use or threaten to use 
+commercially sensitive data from Sigma pharmacy customers to limit the ability of 
+those pharmacies to compete against Chemist Warehouse banner pharmacies.  
+40. Sigma, as a wholesaler and/or franchisor, has access to commercially sensitive data 
+and information regarding the pharmacies to which it supplies products and services. 
+The ACCC considered whether the merged entity could access and use that data to 
+constrain or limit rival Sigma-supplied pharmacies’ ability to compete against Chemist 
+Warehouse pharmacies. For example, the ACCC considered whether: 
+a. the merged entity could use pharmacy customers’ data to pre-empt 
+competitive strategies such as product promotions. Access to retail pharmacy 
+information such as order volumes could enable the merged entity to identify 
+a likely upcoming promotion and to use this information to advantage Chemist 
+Warehouse banner pharmacies, e.g. by matching or pre-empting the 
+promotion, thereby reducing the benefits of the promotion to the rival 
+pharmacy. This would lead to Sigma-supplied pharmacies being less able to 
+compete against Chemist Warehouse banner pharmacies. 
+b. the merged entity could use insights from commercially sensitive pricing data 
+to target rival pharmacies, e.g. by undercutting them on key product pricing or 
+by pre-empting planned pricing changes. This could undermine their viability 
+and force them to exit so that the licence could be acquired for a Chemist 
+Warehouse store. 
+41. The ACCC’s investigation confirmed the commercial sensitivity of the information 
+about Sigma’s wholesale customers and franchisees that the merged firm would hold 
+post-acquisition and the scope for this information to be misused to advantage 
+Chemist Warehouse (or other Sigma supplied) pharmacies.  
+42. However, the ACCC considers that if Sigma franchisees and customers can switch 
+away from using Sigma as a wholesaler and/or franchisor, this would reduce the 
+incentive for the merged entity to use current and future data to discriminate against 
+these pharmacies.  
+43. The ACCC also considered the extent to which historical data that Sigma may retain 
+regarding its customers after they exit agreements with Sigma may remain valuable 
+and capable of misuse. The ACCC found that while much of this data would lose its 
+commercial value as time progresses, other data, in particular financial data such as 
+pharmacy valuation and loans, could still potentially be used by the merged entity to 
+limit the competitiveness of exiting pharmacies.  
+44. To address these concerns, the Undertaking offered by Sigma provides that the 
+merged entity will delete all commercially sensitive data of a Sigma franchisee or 
+wholesale customer that exits its agreements with Sigma. This commitment by Sigma 
+is subject to very limited exceptions to ensure that Sigma will not delete data it is 
+required to maintain to meet its CSO requirements or for other legal reasons. 
+45. As it may take time for Sigma franchisees and wholesale customers to exit 
+agreements with Sigma, the Undertaking also includes a provision that Sigma will 
+
+
+ 
+7 
+ 
+limit the access and use of the exiting pharmacies’ data from the date when a 
+pharmacy notifies Sigma of their intention to terminate. 
+46. In addition, as set out in paragraphs 29 to 33, the Undertaking also reduces the 
+switching costs of Sigma franchisees and wholesale customers.   
+47. The ACCC concluded that, with the Undertaking, the merged entity is unlikely to be 
+able to use Sigma acquired data to substantially lessen retail pharmacy competition.  
+Horizontal competition concern: impact on pharmacy retailing due 
+to overlap in pharmacy retailers  
+48. The ACCC considered whether the proposed acquisition was likely to substantially 
+lessen competition in pharmacy retailing at a national, regional or local level by 
+lessening the competitive constraint Chemist Warehouse and Sigma pharmacies 
+impose on each other, which may allow them to:  
+a.  increase prices and/or  
+b. reduce service quality including removing or altering the differentiated product 
+and service offering at Sigma pharmacies.  
+49. The ACCC looked at this potential competitive effect at the state/national level and in 
+local areas. The ACCC found the proposed acquisition is unlikely to substantially 
+lessen competition in pharmacy retailing for the reasons set out below.   
+Relevant markets 
+Product dimension 
+50. All retail pharmacies offer a combination of PBS and non-PBS prescriptions, OTC 
+and FOS products to consumers.  
+51. The ACCC considered whether the retailing of a combination of prescription, OTC 
+and FOS products in a pharmacy setting constitutes a single market, or whether the 
+supply of prescription, OTC and FOS products should be viewed as separate 
+markets.  
+52. Different regulations apply to the supply of prescription and OTC products while FOS 
+products are not subject to any pharmacy regulations. The prices of prescription 
+medicines listed on the PBS are regulated.4 In addition, only pharmacies can 
+dispense prescription medicines and most OTC medicines can only be dispensed in 
+pharmacies or by pharmacists (at least for certain dosages or pack sizes).5 These 
+regulations do not apply to the supply of unscheduled FOS products and medicines 
+to consumers, which may also be sold in supermarkets and other retail outlets. 
+53. While the ACCC recognised that the nature of competition for the retail sale of PBS, 
+OTC and FOS products differs, the ACCC did not need to reach a concluded view on 
+the precise product dimension of the relevant market/s in order to reach a view on 
+the proposed acquisition. 
+Geographic dimension 
+54. Similar to many essential and grocery products, consumers typically purchase 
+pharmacy products in a local area. The supply of retail pharmacy products therefore 
+has local dimensions.  
+ 
+4 See National Health Act 1953 Pt VII Div 2. 
+5 National Health Act 1953 s 90. 
+
+
+ 
+8 
+ 
+55. However, Chemist Warehouse’s and Sigma’s pharmacy franchise systems operate 
+nationally. In addition, while there are differences between regions and states in 
+terms of the operation of smaller pharmacy banner groups (i.e. some smaller groups 
+only operate in certain regions or states) and independent pharmacies, the major 
+pharmacy chains (including those owned by API and EBOS) operate nationally. 
+56. Further, the prices, product range, service offering and other competitive choices at 
+Chemist Warehouse pharmacies appear to be made at a national level. Sigma and 
+other large pharmacy franchisors also appear to set price and service level guidance 
+and arrangements at a national level (or sometimes a regional level) and have some 
+influence or control in assuring that this guidance is implemented. 
+57. As such, the ACCC considered state-based and national competitive dynamics in its 
+assessment of the proposed acquisition.   
+58. In addition to this state/national consideration, the ACCC considered competition 
+between Sigma and Chemist Warehouse pharmacies in local markets in which both 
+were present. Despite the apparent state or national control of key elements of the 
+price and non-price offering by the major operators, individual pharmacy owners 
+have some ability to adjust their price and service quality in response to local market 
+dynamics. Further, other elements that affect quality of service provided, such as the 
+level of staffing, the store amenity, and the level of individual care are likely to be 
+impacted by competition in the local area. 
+59. To assess the relevant local markets, the ACCC analysed the competitive constraints 
+on Chemist Warehouse’s and Sigma’s pharmacies at an individual store level.  
+Influence over banner pharmacies  
+60. The ACCC found that Chemist Warehouse exerts significant influence over price and 
+non-price decisions at its banner pharmacies. Sigma does not influence price and 
+non-price decisions at its banner pharmacies (Amcal, Discount Drug Store and 
+PharmaSave) to the same extent as Chemist Warehouse.  
+61. The ACCC concluded that while the merged entity may attempt to increase its 
+influence over price and non-price decisions at Sigma banner pharmacies post-
+acquisition, the influence that Chemist Warehouse exerts over its banner pharmacies 
+is unique in pharmacy retailing, and has arisen as a result of the history, corporate 
+structure, and culture of Chemist Warehouse.  
+62. Sigma has a different corporate structure and culture to Chemist Warehouse and the 
+ACCC considered it unlikely that the merged entity would replicate effectively the 
+Chemist Warehouse model of influence over Sigma banner pharmacies, with Sigma 
+banner group pharmacy owners continuing to make their own commercial decisions, 
+post-acquisition.  
+63. As such, the ACCC considered that it was not appropriate to aggregate the Chemist 
+Warehouse and Sigma pharmacies for the purposes of assessing the impact of this 
+acquisition on retail pharmacy competition.  
+64. While the ACCC reached this view, the ACCC did consider the impact of the overlap 
+on national, state and local markets for pharmacy retailing.  
+National, state-based and local market competition  
+65. Even if the merged entity could exert significant influence over both Chemist 
+Warehouse and Sigma pharmacies, the proposed acquisition is unlikely to raise 
+significant competition concerns in national, state-based or local markets for 
+pharmacy retailing because:  
+
+
+ 
+9 
+ 
+• 
+Chemist Warehouse and Sigma banner pharmacies are not each other’s 
+closest competitors 
+• 
+there are many other pharmacy competitors that will constrain the merged 
+entity 
+• 
+non-pharmacy retailers (including supermarkets) compete for FOS and some 
+categories of OTC products, and  
+• 
+for most prescription products, pricing controls prevent pharmacies raising 
+prices.  
+66. Each of these factors is discussed in greater detail below.  
+Closeness of competition 
+67. The ACCC found that Sigma banner pharmacies and Chemist Warehouse 
+pharmacies are not each other’s closest competitors.  
+68. The ACCC found that discount pharmacies such as Priceline, Direct Chemist Outlet, 
+Cincotta Discount Pharmacy and Pharmacy4Less compete most closely with 
+Chemist Warehouse pharmacies and are likely to continue to do so post-acquisition.  
+69. Sigma pharmacies’ closest competitors are, and are likely to continue to be, other 
+service-oriented pharmacies such as TerryWhite Chemmart, Soul Pattinson, and 
+numerous independent pharmacies. 
+Pharmacy competitors likely to constrain the merged entity 
+70. There are numerous pharmacies that will compete with the merged entity post-
+acquisition. These include:  
+• 
+large, national pharmacy banner groups operated by API (e.g. Priceline, Soul 
+Pattinson) and EBOS (e.g. TerryWhite Chemmart) 
+• 
+large banner groups that operate in one or more states (e.g. IPA Group’s 
+Advantage and Alliance pharmacies) 
+• 
+smaller banner groups that operate in some states (e.g. Cincotta Discount 
+Pharmacy, Blooms the Chemist), and 
+• 
+independent pharmacies.  
+Non-pharmacy retailers compete for FOS and some OTC product categories 
+71. FOS products and some categories of OTC products are sold at multiple highly 
+competitive non-pharmacy retailers, including supermarkets (e.g. Coles, 
+Woolworths), beauty stores (e.g. Sephora, Mecca) and online retailers (e.g. 
+Amazon). 
+72. The ACCC found that such non-pharmacy retailers impose a meaningful competitive 
+constraint on Chemist Warehouse and Sigma pharmacies in relation to many FOS 
+products and some OTC product categories.  
+73. The ACCC concluded that these non-pharmacy retailers are likely to continue to 
+impose a strong competitive constraint on the merged entity’s pharmacies, and that 
+as such, the proposed acquisition is unlikely to materially impact competition for FOS 
+and some categories of OTC products.  
+PBS prescription products are highly price regulated  
+74. As set out above, pharmacies sell a combination of prescription, OTC and FOS 
+products.  
+
+
+ 
+10 
+ 
+75. PBS prescriptions account for most prescription product sales and are heavily price 
+regulated by the PBS. This means pharmacies are unable to raise prices beyond set 
+limits and reduces the ability for pharmacies to meaningfully compete on price in 
+relation to these products. Consequently, the ACCC concluded that the proposed 
+acquisition is unlikely to materially impact price competition for PBS prescription 
+products.  
+Vertical competition concern: impact on supply of pharmaceutical 
+products due to potential foreclosure of rival suppliers’ access to 
+customers 
+76. The ACCC considered whether the proposed acquisition was likely to substantially 
+lessen competition by foreclosing pharmacy product suppliers6 access to consumers. 
+In particular, the ACCC considered whether the merged entity would be able to 
+prevent suppliers of products that compete with the merged entity’s private label 
+products from accessing a significant proportion of consumer demand, potentially 
+lessening competition in upstream pharmaceutical product manufacture and supply. 
+Such a strategy would involve the merged entity ceasing to supply the rival suppliers’ 
+products to retail pharmacies Sigma wholesale supplies to, including Chemist 
+Warehouse and Sigma banner pharmacies. 
+77. The ACCC considered whether the merged entity was likely to be a significant supply 
+channel for suppliers of pharmacy products, such that suppliers not stocked by the 
+merged entity would be rendered less competitively effective. A reduction in rival 
+suppliers’ ability to compete could lead to an increase in retail prices for the relevant 
+products. 
+78. However, the ACCC concluded that, even if the merged entity did decide not to stock 
+rival supplier(s) of particular pharmaceutical products, this would be unlikely to 
+foreclose such suppliers’ access to consumers. This is because: 
+a. suppliers of FOS and most OTC products have a wide range of pathways to 
+consumers, as these products can and are sold in numerous retailers 
+including supermarkets, health food stores, and discount stores 
+b. for prescription and OTC products that can only be sold to consumers by 
+pharmacies, suppliers would continue to have access to a competitive 
+wholesale market. Other wholesalers (e.g. EBOS and API) are viable 
+alternatives to the merged entity and rival suppliers could use these 
+wholesalers to distribute their products to pharmacies, and through them, 
+consumers, and 
+c. suppliers face minimal barriers to switching to these alternative wholesalers. 
+79. On this basis, the ACCC found that the proposed acquisition is unlikely to 
+substantially lessen competition by enabling the foreclosure of pharmacy product 
+suppliers’ access to consumers.  
+Competition concern: impact of proposed acquisition on market 
+structure, potentially raising barriers to entry and expansion 
+ 
+6 Prescription, OTC and FOS products sold in Australia are either procured from manufacturers that produce 
+them, or suppliers that source them from manufacturers (usually due to the product not being produced in 
+Australia). Both are considered “suppliers” for the purposes of the ACCC’s competition assessment.  
+ 
+
+
+ 
+11 
+ 
+80. Chemist Warehouse is a significant retail pharmacy business in Australia. It has 
+significant control over its banner pharmacies and owns several pharmacy product 
+brands (which are supplied in Chemist Warehouse stores). Sigma is one of three 
+major pharmacy wholesalers, and supplies pharmacy products to many independent 
+pharmacies and Sigma-banner pharmacies (which are also independently owned).  
+81. Given the significance of the transaction and in particular, the high level of vertical 
+integration which would result, the ACCC considered whether the proposed 
+acquisition was likely to cause a significant and longer-term structural change in the 
+pharmacy sector. In particular, the ACCC considered whether the increased vertical 
+integration would make entry and expansion at a single level of the supply chain less 
+viable, reducing the level of competition at each level over time, including leading to 
+fewer supply options for independent pharmacies. 
+82. The ACCC found that the increased vertical integration caused by the proposed 
+acquisition is unlikely to result in widespread structural change in the supply chain. 
+As discussed above, suppliers of pharmacy products continue to have wholesale and 
+retail options for the sale of their products, and pharmacies continue to have 
+alternative wholesalers from which they can purchase. As such, the ACCC 
+considered that the proposed acquisition is unlikely to increase barriers to entry and 
+expansion for those parties focussed on one level of the supply chain. The operation 
+of state pharmacy ownership regulations, which generally restrict the number of 
+pharmacy businesses a pharmacist or other eligible person or corporation is 
+permitted to own or have a relevant interest in7 assist in perpetuating the current 
+market structure.  
+83. As such, the ACCC found that despite the increased vertical integration, the 
+proposed acquisition is unlikely to result in widespread structural change in the 
+market or increase barriers to entry and expansion at any level of the supply chain 
+such that competition would be substantially lessened.  
+The Undertaking  
+84. In order to address the ACCC’s competition concerns in relation to retail pharmacy 
+markets Sigma offered the Undertaking pursuant to section 87B of the Act.  
+85. The ACCC spoke to a range of market participants for feedback on the Undertaking, 
+including independent and franchise community pharmacies, pharmacy wholesalers, 
+manufacturers and suppliers of products sold via the pharmacy channel, pharmacy 
+representative bodies, regulatory bodies, and other interested parties, including the 
+general public. 
+86. As outlined in the sections above and following these inquiries, the ACCC considers 
+that the Undertaking will address its competition concerns with the proposed 
+acquisition.  
+87. A copy of the Undertaking is available on the ACCC mergers register and 
+undertakings register.  
+88. A brief summary of the Undertaking is set out at paragraph 2 above.  
+ 
+7 Health Practitioner National Law 2010 (NSW) Sch 5F, s 5(1); Pharmacy Act 2010 (WA) s 54(1); Pharmacy Business Ownership 
+Act 2001 (Qld), ss 139B; Health Practitioner Regulation National Law (South Australia) Act 2010 (SA), s 51(1a); Pharmacy 
+Regulation Act 2010 (Vic) s 5(1); Pharmacy Control Act 2001 (Tas) ss 62(1)(a), 61C; Health Practitioners Act 2004 (NT) Sch 7 s 
+2. 
+
+
+ 
+12 
+ 
+Conclusion  
+89. Based on the analysis outlined above, the ACCC concluded that the proposed 
+acquisition of Chemist Warehouse by Sigma, in the absence of the Undertaking, 
+would be likely to have the effect of substantially lessening competition in retail 
+pharmacy markets.   
+90. The ACCC was concerned that, absent this Undertaking, the merged entity may have 
+the ability and incentive to worsen terms to non-Chemist Warehouse pharmacies that 
+were in competition with Chemist Warehouse banner pharmacies, which may be 
+likely to substantially lessen competition. The ACCC was also concerned that the 
+Proposed Acquisition may have enabled the merged entity to access and use 
+commercially sensitive data of Sigma franchisees and wholesale customers in a way 
+that damages retail pharmacy competition. The ACCC’s third concern was that post 
+acquisition Sigma may choose to cease to be a CSO wholesaler and only supply 
+pharmacy products to its franchisees, reducing the number of available CSO 
+wholesale options for pharmacies.  
+91. The ACCC considered that the Undertaking addresses the competition concerns 
+raised such that the proposed acquisition would not be likely to have the effect of 
+substantially lessening competition in any market in Australia.  

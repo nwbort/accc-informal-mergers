@@ -1,0 +1,64 @@
+{
+  "id": "0278",
+  "title": "Moonshadow Cruises and Tamboi Queen Cruises - proposed merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/moonshadow-cruises-and-tamboi-queen-cruises-proposed-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56941",
+  "industries": [
+    "Scenic and Sightseeing Transport"
+  ],
+  "date_completed": "24 November 2015",
+  "date_completed_iso": "2015-11-24T12:00:00Z",
+  "date_commenced": "2 April 2015",
+  "date_commenced_iso": "2015-04-02T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Moonshadow Charters Pty Ltd"
+  ],
+  "targets": [
+    "Tamboi Queen Cruises Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Apr 2015",
+      "date_iso": "2015-04-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Apr 2015",
+      "date_iso": "2015-04-17T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "30 Apr 2015",
+      "date_iso": "2015-04-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties (extended from the original closing date of 23 April 2015). ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "1 May 2015",
+      "date_iso": "2015-05-01T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "13 May 2015",
+      "date_iso": "2015-05-13T12:00:00Z",
+      "event": "Former proposed decision date of 21 May 2015 delayed at the request of the merger parties to allow them to provide more information."
+    },
+    {
+      "date": "5 Nov 2015",
+      "date_iso": "2015-11-05T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "24 Nov 2015",
+      "date_iso": "2015-11-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Moonshadow Cruises and Tamboi Queen Cruises proposed to merge.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed merger in separate but related markets for the supply of scheduled dolphin and whale watch cruises in the Port Stephens region of New South Wales.",
+    "Competition analysis": "The ACCC formed the view that the proposed merger would be unlikely to substantially lessen competition in either of the relevant markets. Factors informing this conclusion included: - the presence of other competing dolphin and whale watching cruise operators in the Port Stephens region, which would continue to provide a constraint on the merged entity - the potential for the merged entity, if it attempted to increase prices, to lose custom from organised tours as a result of tour operators substituting similar services in other locations or other types of services - the ability of residents and visitors to view dolphins and whales other than through dedicated dolphin and whale cruises (e.g. from other vessels operating in the Port Stephens region or from onshore vantage points) provides some further constraint - the relatively small size of the market. Given these factors collectively, the ACCC concluded that the lessening of competition was not likely to be substantial."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "1224",
+  "title": "S8 Limited - proposed acquisition of Transonic Travel Limited, Harvey World Travel Group Limited, Gullivers Travel Group Limited, Travelscene Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/s8-limited-proposed-acquisition-of-transonic-travel-limited-harvey-world-travel-group-limited-gullivers-travel-group-limited-travelscene-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24591",
+  "industries": [
+    "Travel agency services"
+  ],
+  "date_completed": "5 September 2006",
+  "date_completed_iso": "2006-09-05T12:00:00Z",
+  "date_commenced": "31 May 2006",
+  "date_commenced_iso": "2006-05-31T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "S8 Limited"
+  ],
+  "targets": [
+    "Transonic Travel Limited<br/> Harvey World Travel Group Limited<br/> Gullivers Travel Group Limited<br/> Travelscene Limited"
+  ],
+  "timeline": [
+    {
+      "date": "31 May 2006",
+      "date_iso": "2006-05-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "28 Jul 2006",
+      "date_iso": "2006-07-28T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "11 Aug 2006",
+      "date_iso": "2006-08-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "17 Aug 2006",
+      "date_iso": "2006-08-17T12:00:00Z",
+      "event": "Proposed announcement of ACCC findings delayed to allow for provision of additional information by merger parties.  The timeline has been suspended for a total of 30 business days to account for the time taken by the merger parties to respond to information requests throughout the review"
+    },
+    {
+      "date": "5 Sep 2006",
+      "date_iso": "2006-09-05T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Summary": "S8 Limited has recently acquired Transonic Travel Limited, Harvey World Travel Group Limited and Travelscene Limited, and proposes to acquire Gullivers Travel Group Limited.  The target firms are involved in the provision of travel retail and wholesale services.",
+    "Market definition": "1) The market for the provision of travel retail services in Australia; 2) The market for the provision of travel wholesale services (for example tour packages) in Australia; and 3) The market for the provision of ticket consolidation services in Australia.",
+    "Competition analysis": "In relation to the market for travel retail services, the ACCC formed the view that the market is not heavily concentrated, barriers to entry are not high, and there is evidence of new entrants.  In addition, customers have strong countervailing power, and online retailers compete vigorously with shop front travel retailers. In terms of the markets for travel wholesale and ticket consolidation services, the ACCC formed the view that while these markets are more heavily concentrated, there will still be a number of alternative suppliers.  Also, barriers to entry are not high, and customers (such as travel agents) generally have strong countervailing power. After consideration of the information provided by market participants and other information before it, the ACCC formed the view that the recent and proposed acquisitions in the three markets listed above are unlikely to result in a substantial lessening of competition, and decided that it would not oppose the acquisitions."
+  }
+}

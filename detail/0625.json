@@ -1,0 +1,44 @@
+{
+  "id": "0625",
+  "title": "Summit Grain Investment (Australia) Pty Ltd - completed acquisition of Viterra Operations Ltd's interest in Australian Bulk Alliance Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/summit-grain-investment-australia-pty-ltd-completed-acquisition-of-viterra-operations-ltds-interest-in-australian-bulk-alliance-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41622",
+  "industries": [
+    "Storage and Handling of grain"
+  ],
+  "date_completed": "8 June 2010",
+  "date_completed_iso": "2010-06-08T12:00:00Z",
+  "date_commenced": "21 April 2010",
+  "date_commenced_iso": "2010-04-21T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Summit Grain Investment (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Australian Bulk Alliance Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Apr 2010",
+      "date_iso": "2010-04-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 May 2010",
+      "date_iso": "2010-05-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Jun 2010",
+      "date_iso": "2010-06-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Summit Grain Investment (Australia) Pty Ltd, a wholly owned subsidiary of Sumitomo Corporation, acquired 50% of the shares of Australian Bulk Alliance Pty Ltd from Viterra Operations Ltd. As a result of this acquisition, Summit Grain Investment (Australia) Pty Ltd now owns 100% of Australian Bulk Alliance Pty Ltd. The ACCC also reviewed Summit Agribusiness (Australia) Pty Ltd's completed acquisition of 50% of Emerald Group Australia. Summit Agribusiness (Australia) Pty Ltd is another wholly owned subsidiary of Sumitomo Corporation. Please refer to the separate Mergers Register entry for further details relating to that review.",
+    "Market definition": "The ACCC did not consider it necessary to form a view in relation to market definition.",
+    "Competition analysis": "The ACCC noted that the completed acquisition gave Sumitomo 100% of Australian Bulk Alliance Pty Ltd where previously it owned 50%. The ACCC considered it appropriate to analyse the impact of this completed acquisition in conjunction with the completed acquisition of 50% of Emerald Group Australia (a grain marketer and trader) by Summit Agribusiness (Australia) Pty Ltd - another Sumitomo Corporation subsidiary. Please refer to the separate Mergers Register entry for further details relating to that review (reference 41621). The ACCC formed the view that this completed acquisition was unlikely to substantially lessen competition."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "0161",
+  "title": "Completed acquisition of a 43% interest in Adelaide Brighton Ltd by Barro Group Pty Limited and/or its related entities",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/completed-acquisition-of-a-43-interest-in-adelaide-brighton-ltd-by-barro-group-pty-limited-andor-its-related-entities",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [],
+  "date_completed": "30 January 2020",
+  "date_completed_iso": "2020-01-30T12:00:00Z",
+  "date_commenced": "24 October 2019",
+  "date_commenced_iso": "2019-10-24T12:00:00Z",
+  "total_review_days": 66,
+  "acquirers": [
+    "Barro Group"
+  ],
+  "targets": [
+    "Adelaide Brighton Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Oct 2019",
+      "date_iso": "2019-10-24T12:00:00Z",
+      "event": "ACCC commenced investigation."
+    },
+    {
+      "date": "14 Nov 2019",
+      "date_iso": "2019-11-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Jan 2020",
+      "date_iso": "2020-01-30T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC may reopen its investigation if it receives further information that alters its current position."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Barro Group Pty Ltd and its related entities have, through a series of share purchases, acquired a 43% stake in Adelaide Brighton Ltd.",
+    "Market definition": "The ACCC considered the effects of the completed acquisition on: markets for the supply of pre-mixed concrete in Melbourne, Brisbane and Townsville; markets for the supply of aggregates in Victoria, Brisbane and Townsville; and markets for the supply of cement in Australia. For the purposes of this assessment it was not necessary for the ACCC to reach a concluded view on the precise definition of these markets as it would not significantly alter the competition assessment.",
+    "Competition analysis": "For all markets, at this stage, the ACCC considered Barro Group and Adelaide Brighton face competitive constraint. In relation to pre-mixed concrete in Melbourne, Brisbane and Townsville, there remains competition from Boral, Holcim and Hanson, and a large number of smaller, independent competitors. In relation to aggregates in Victoria, Brisbane and Townsville, there remains competition from Boral, Holcim and Hanson. In relation to cement, the ACCC has noted Barro Group’s relatively small independent presence in this market (outside of its long-standing joint venture with Adelaide Brighton), the existence of strong competitors including Cement Australia and Boral (and of smaller competitors including Wagners and Southern Cross Cement)."
+  }
+}

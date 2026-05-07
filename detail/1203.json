@@ -1,0 +1,79 @@
+{
+  "id": "1203",
+  "title": "Australian Pipeline Trust - proposed acquisition of GasNet Australia (Operations) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-pipeline-trust-proposed-acquisition-of-gasnet-australia-operations-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23205",
+  "industries": [
+    "Gas transmission"
+  ],
+  "date_completed": "26 October 2006",
+  "date_completed_iso": "2006-10-26T12:00:00Z",
+  "date_commenced": "19 June 2006",
+  "date_commenced_iso": "2006-06-19T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Australian Pipeline Trust (APT)"
+  ],
+  "targets": [
+    "GasNet Australia (Operations) Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jun 2006",
+      "date_iso": "2006-06-19T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines"
+    },
+    {
+      "date": "28 Jun 2006",
+      "date_iso": "2006-06-28T12:00:00Z",
+      "event": "ACCC requested further information from APA. ACCC timeline suspended"
+    },
+    {
+      "date": "14 Jul 2006",
+      "date_iso": "2006-07-14T12:00:00Z",
+      "event": "ACCC received further information from APA. ACCC timeline recommenced"
+    },
+    {
+      "date": "4 Aug 2006",
+      "date_iso": "2006-08-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "16 Aug 2006",
+      "date_iso": "2006-08-16T12:00:00Z",
+      "event": "Proposed announcement of ACCC findings delayed to allow for provision of further information by APT. ACCC timeline suspended."
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "APT amended proposal after Babcock & Brown withdrew. APT proposed to acquire to acquire a 100% interest in GasNet."
+    },
+    {
+      "date": "1 Sep 2006",
+      "date_iso": "2006-09-01T12:00:00Z",
+      "event": "ACCC released Statement of Issues"
+    },
+    {
+      "date": "11 Sep 2006",
+      "date_iso": "2006-09-11T12:00:00Z",
+      "event": "Submissions re Statement of Issues due by 10am on 11 September 06"
+    },
+    {
+      "date": "13 Sep 2006",
+      "date_iso": "2006-09-13T12:00:00Z",
+      "event": "ACCC approved acquisition subject to AGL's proposed divestiture of APT as part of Alinta AGL joint merger proposal."
+    },
+    {
+      "date": "26 Oct 2006",
+      "date_iso": "2006-10-26T12:00:00Z",
+      "event": "AGL divestiture of APT complete.  ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "APT proposed to acquire GasNet.",
+    "Market definition": "The ACCC considered that the Victorian wholesale and retail natural gas market was the key relevant market for assessing the competition issues.",
+    "Competition analysis": "On 1 September 2006, the ACCC released a Statement of Issues seeking further submissions from interested parties. Market inquiries had revealed that prior to the acquisition proposal, GasNet had acted independently, treated retailers fairly and supported expansion efforts.  The ACCC expressed initial competition concerns in relation to the potential significant increase in vertical integration if AGL retained ownership in APT. At the time, AGL held a 30% stake in APT.  The ACCC was concerned about the prospect of anti-competitive discriminatory behaviour by APT in favour of AGL's downstream interests, which would lead to a lessening of competition in the retail market. As the level of control that AGL could exert over APT was a critical factor, the ACCC took into consideration AGL ownership of a 50% interest in Australian Pipeline Limited (APL), the responsible entity of APT.  The potential role of the regulatory environment in constraining APT's ability to favour AGL was also a critical factor. AGL is a major gas retailer that sources gas using the GasNet transmission pipelines.  AGL does not have an interest in the distribution businesses that it relies on for distribution to its customers. The ACCC noted that the competition effect of the transaction was likely to depend on the outcome of the proposed Alinta-AGL joint merger proposals.  The ACCC determined that if AGL divested its interests in APT and APL, there were unlikely to be any competition concerns. In the wholesale market, the ACCC investigated the effects of the aggregation of the Moomba to Sydney Pipeline (MSP) with GasNet.  APT owns the Moomba to Sydney Pipeline.  The ACCC took into consideration the EGP as a competitive constraint on the GasNet-MSP interconnect for flows of gas into southern NSW.  The ACCC noted the potential competitive effect of flows of gas southward into Victoria along the APT-GasNet interconnect, but did not consider that any substantial competition issues arose. Market participants did not express concerns in relation to the wholesale markets. Several market participants expressed concerns in relation to the vertical issues outlined above, but agreed with the ACCC that the issues would only arise so long as AGL retained an interest in APT and APL. On 13 September 2006, after the close of the invitation for final submissions from market participants, the ACCC announced that it had approved the acquisition subject to AGL's proposed divestiture of APT as part of the Alinta AGL joint merger proposal. On 26 October 2006, the AGL divestiture of APT was executed and the ACCC announced that it would not oppose the proposed acquisition."
+  }
+}

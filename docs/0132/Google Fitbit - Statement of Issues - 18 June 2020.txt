@@ -1,0 +1,1335 @@
+Page 1 of 25 
+ 
+Statement of Issues 
+18 June 2020 
+ Google LLC – proposed acquisition of Fitbit Inc  
+Purpose 
+1. 
+Google LLC (Google) proposes to acquire Fitbit Inc. (Fitbit) (the proposed 
+acquisition).  
+2. 
+This Statement of Issues: 
+• 
+outlines the Australian Competition and Consumer Commission (ACCC)’s 
+preliminary views on competition issues arising from the proposed 
+acquisition,  
+• 
+identifies areas of further inquiry, and 
+• 
+invites submissions from interested parties on particular issues. 
+3. 
+Statements of Issues do not refer to confidential information provided by the 
+parties or other market participants and therefore may not necessarily represent 
+a full articulation of the ACCC’s preliminary position. 
+Overview of ACCC’s preliminary views 
+4. 
+The legal test which the ACCC applies in considering the proposed acquisition is 
+set out in section 50 of the Competition and Consumer Act 2010. In general 
+terms, section 50 prohibits acquisitions that would have the effect, or be likely to 
+have the effect, of substantially lessening competition in any market. 
+5. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. In this 
+Statement of Issues there are two broad issues that may raise concerns across 
+several relevant markets. 
+6. 
+Google is a significant supplier of consumer and business facing technology 
+services with a substantial presence in multiple technology markets. Google’s 
+accumulation of data from a variety of sources provides it with important 
+economies of scope and contributes to its market power in a range of markets. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 2 of 25 
+The accumulation of additional, individual user data via this transaction in an 
+entity which already benefits from substantial market power in multiple markets 
+may contribute to reduced competitive outcomes in the future.  
+7. 
+In addition to barriers to entry and expansion caused by economies of scale and 
+scope, and network effects, Google’s market position has been supported by its 
+acquisition strategy. Google’s history of strategic acquisitions has enabled it to 
+increase its touch points with consumers, accumulate additional data, and 
+entrench and extend its market power, particularly into emerging markets. The 
+ACCC recognises that competitive outcomes in technology markets are difficult 
+to predict. For example, Google’s strong position in a range of advertising 
+markets, which was perhaps originally unforeseen, was built on its accumulation 
+of consumer data from sources such as online search. 
+8. 
+Google has been successful in offering valued consumer services on a range of 
+devices from personal computers and tablets to smartphones. This has allowed 
+Google to collect large volumes of high quality data and offer targeted 
+advertising services. Current information suggests that wearables are an 
+emerging channel or platform through which many services may be offered and 
+data collected. This is exhibited by the expansion of many technology companies 
+into wearables in recent years. Wearables are likely to be capable of many of the 
+core functions currently undertaken by smartphones, particularly as the use of 
+voice assistants and cellular connectivity increases. These features will 
+increasingly allow users to make phone calls, send messages, conduct searches 
+and control other devices from their wearable, whilst leaving their smartphone at 
+home.  
+9. 
+Therefore, it is important to ensure that an acquisition at this stage in the 
+development and adoption of wearables does not substantially lessen 
+competition. An important factor is what may occur in the absence of the 
+proposed acquisition, and whether alternative purchasers or investment in Fitbit 
+would enable potential rivals to Google to emerge and challenge Google in both 
+existing and newly developing markets. Whether the proposed transaction 
+substantially lessens competition in any market does not need to be more likely 
+than not – there just needs to be a real chance that it would occur. 
+10. 
+The ACCC understands that Fitbit’s data is unique. It is voluminous in depth and 
+the nature of its customer base is such that it lends itself to having value for 
+drawing health insights or for developing data-dependent health services. 
+Feedback from the market is that other wearable datasets are not as 
+voluminous, reliable or broad as Fitbit’s data. 
+11. 
+The ACCC notes Google’s public statement that ‘Fitbit health and wellness data 
+will not be used for Google ads.’1 However, this commitment is not binding on 
+Google and experience also suggests that intentions stated by an acquiring party 
+at the time of an acquisition may well change over time. Therefore, the ACCC 
+has not put significant weight on the statement in our competition assessment. 
+ 
+                                                 
+ 
+1 https://www.blog.google/products/hardware/agreement-with-fitbit/ 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 3 of 25 
+Issues that may raise concerns 
+Aggregation of data  
+12. 
+Google is the leader in the collection of a wide range of high quality consumer 
+data as well as a market leader in artificial intelligence and data analysis.  
+13. 
+Google currently has more avenues from which to gather consumer data than 
+any other company and this gives it a significant competitive advantage in many 
+markets. The health and fitness data collected by Fitbit will provide Google with 
+access to consumer data that is likely to be an important element of services in 
+several markets.  
+14. 
+The ACCC’s preliminary view is that the proposed acquisition may have the 
+effect of, or may be likely to have the effect of, substantially lessening 
+competition in:  
+a. 
+the supply of data-dependent health services and/or  
+b. 
+the supply of certain ad tech services in Australia that rely on the collection 
+and analysis of large amounts of individual data and in particular those 
+services which enable targeting of online display advertising to consumer 
+segments.2 
+15. 
+In relation to data-dependent health services, the ACCC is concerned that the 
+acquisition may eliminate potential competition between Fitbit (either under 
+current ownership or under alternative ownership) and Google. Google has a 
+strong focus on new and developing markets and will likely become a strong 
+competitor in the supply of data-dependent health services with or without the 
+proposed acquisition. The health and fitness data collected by Fitbit puts Fitbit in 
+a strong position to enter and compete in data-dependent health markets. The 
+proposed acquisition eliminates this potential competition between Google and 
+Fitbit. 
+16. 
+The ACCC is also considering the potential for the proposed acquisition to limit 
+entry into data-dependent health markets as they evolve. The health and fitness 
+data collected by Fitbit is likely to be an important resource for firms developing 
+new and innovative services in these markets. In the absence of the acquisition, 
+there is a greater likelihood that Fitbit will partner with other businesses 
+endeavouring to develop these services. By reducing this likelihood, the 
+proposed acquisition may lessen competition in these emerging markets. 
+17. 
+In relation to certain ad tech services, the ACCC is concerned about the potential 
+for the acquisition to reduce the (limited) competitive constraint on Google 
+                                                 
+ 
+2 The ad tech services the ACCC is focussing on are: 
+• 
+Demand side platforms – platforms used by advertisers to help them purchase ad inventory from 
+suppliers of ad inventory as effectively and cheaply as possible, and which utilise various data to 
+provide ad targeting services 
+• 
+Supply-side platforms/ad exchanges – supply-side platforms are platforms used by publishers to 
+maximise the price at which ad inventory is sold by setting price floors, determining what data to 
+include in the auction and deciding which buyers can bid. Ad exchanges provide a platform for 
+demand-side platforms and supply-side platforms to connect, often via a real-time bidding 
+auction. The functions of supply-side platforms are increasingly integrated with those of ad 
+exchanges. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 4 of 25 
+arising from the threat of expansion or new entry. The ACCC is focusing in 
+particular on demand side platform (DSP) services. Google has market power in 
+the supply of these services. This is underpinned by the considerable data 
+advantages it holds over its rivals. The proposed acquisition will likely increase 
+this advantage. By increasing this advantage, the proposed acquisition is likely 
+to have the effect of reducing the commercial incentives for existing suppliers to 
+‘take-on’ Google and reduce the commercial incentive for new entry. The likely 
+effect will be to entrench Google’s market power in the supply of these ad tech 
+services. 
+18. 
+The ACCC is also considering potential competition between Google and ad 
+tech suppliers who may otherwise partner with Fitbit. The ACCC understands 
+that the health and fitness data collected by Fitbit is likely to be useful in 
+improving certain ad tech services, predominantly by allowing suppliers with 
+existing information on individual online users to better target display advertising 
+to those particular consumers. In the absence of the proposed acquisition, there 
+is a greater likelihood that Fitbit  - either under current or alternative - ownership 
+will enter partnerships to make its data available to alternative suppliers of ad 
+tech services (subject to privacy laws). This will enable these suppliers to 
+improve their advertising targeting and increase the competitive constraints on 
+Google. The proposed acquisition eliminates this prospect. 
+Ability and incentive for Google to foreclose competing wearable manufacturers 
+19. 
+The ACCC’s preliminary view is that the proposed acquisition may have the 
+effect, or may be likely to have the effect, of substantially lessening competition 
+in the supply of wearables. Google is a significant supplier of and controls some 
+key inputs necessary for the supply of wearables, including Wear OS, Google 
+Maps, the Google Play Store, and the Android smartphone operating system. 
+Many third party wearable manufacturers rely on access to one or more of these 
+Google products. The ACCC is concerned that the acquisition of Fitbit may 
+provide Google with the incentive to foreclose or otherwise inhibit access to 
+some of these products in order to increase the sales of its own wearables at the 
+expense of its rivals. The ACCC is also concerned that if wearables are found to 
+be important for another segment of Google’s business, (e.g. health, discussed 
+further at paragraph 77) Google’s incentive to foreclose competing wearables 
+may further increase. 
+Issues unlikely to raise concerns 
+20. 
+The ACCC’s preliminary view is that there are three issues that are unlikely to 
+raise concerns. The ACCC will continue to assess these issues, and consider 
+submissions, however, the focus of our investigation is now on the issues of 
+concern identified above. 
+21. 
+The three issues are set out below. 
+Removal of potential competition in the sale of wearables 
+22. 
+In the absence of the proposed acquisition, Google may have entered the 
+wearables market organically and competed against Fitbit. 
+23. 
+The ACCC is exploring whether the proposed acquisition removes this potential 
+for future competition between Google and Fitbit. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 5 of 25 
+Impact on search and search advertising 
+24. 
+The proposed acquisition will provide Google with access to a set of additional 
+user data collected from wearables, but it is unlikely that access to this type of 
+data would have a significant impact on Google’s search and search advertising 
+service offerings. 
+25. 
+The ACCC’s preliminary view is that the proposed acquisition is unlikely to 
+substantially lessen competition in the supply of search or the supply of search 
+advertising services. 
+Overlap in mobile payment systems 
+26. 
+The proposed acquisition will remove competition between Fitbit and Google in 
+the offer of mobile payment services, but the ACCC's preliminary view is that this 
+is unlikely to substantially lessen competition in these markets as there are a 
+number of alternative service providers and development of mobile payment 
+systems for a wearables provider does not appear to be particularly difficult. 
+Making a submission 
+27. 
+The ACCC is seeking submissions from interested parties, particularly on the 
+following key issues: 
+• 
+The extent to which Fitbit’s data is unique and whether or not there are 
+other sources of this data  
+• 
+The extent to which, in the absence of the proposed acquisition, Fitbit 
+(either on its own or in partnership with others) and Google will compete or 
+are likely to compete in the provision of data-related health services and 
+certain ad tech services. 
+• 
+The likelihood that other competitors could constrain Google in the 
+provision of data-related health services or certain ad tech services, post-
+acquisition, and 
+• 
+The likelihood that the acquisition will alter Google’s incentives in relation 
+to providing third party access to products such as Wear OS, Google Maps 
+or the Google Play store.  
+28. 
+Interested parties should provide submissions by no later than 5pm on 
+10 July 2020. Responses can be emailed to mergers@accc.gov.au with the title: 
+Submission re: Google/Fitbit - attention Braeden Smith/Nicholas Wellfare. If you 
+would like to discuss the matter or have any questions, please contact Braeden 
+Smith on 02 6243 4936 or Nicholas Wellfare on 02 9230 3813.  
+29. 
+The ACCC anticipates making a final decision on 13 August 2020, however, this 
+timeline can change. To keep up to date with any developments, please check 
+the ACCC’s Mergers Register at www.accc.gov.au/publicregisters/mergers-
+registers/public-informal-merger-reviews. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 6 of 25 
+Confidentiality of submissions 
+30. 
+The ACCC will not publish submissions regarding the proposed acquisition. We 
+will not disclose submissions to third parties (except our advisors/consultants) 
+unless compelled by law (for example, under freedom of information legislation 
+or during court proceedings) or in accordance with s155AAA of the Competition 
+and Consumer Act 2010.  Where the ACCC is required to disclose confidential 
+information, the ACCC will notify you in advance where possible so that you 
+have an opportunity to be heard. Therefore, if the information provided is 
+confidential, please indicate as such. Our Informal Merger Review Process 
+Guidelines contain more information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+31. 
+A Statement of Issues is not a final decision about a proposed acquisition. A 
+Statement of Issues outlines the ACCC’s preliminary views and identifies further 
+lines of inquiry. 
+32. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It also provides the merger 
+parties and interested parties with the basis for making further submissions. 
+Timeline 
+ 
+Date 
+Event 
+27 February 
+ACCC commenced review of the proposed 
+acquisition 
+18 June 
+ACCC publication of Statement of Issues 
+10 July 
+Deadline for submissions from interested parties in 
+response to this Statement of Issues 
+13 August  
+Anticipated date for ACCC final decision  
+ 
+The parties 
+Google 
+33. 
+Google is a wholly owned subsidiary of Alphabet Inc., a public company 
+headquartered in Mountain View, California, and listed on the NASDAQ stock 
+exchange. 
+34. 
+Google is active in a wide range of areas, including online search services 
+(Google Search) and other online services such as YouTube, Google Maps and 
+Gmail, as well as cloud computing services.  
+35. 
+Google is also very active in ad tech services, through the supply of: 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 7 of 25 
+• 
+search and display advertising inventory on Google owned and operated 
+properties (such as Google Search and YouTube), and  
+• 
+ad tech services that facilitate the buying and selling of advertising 
+inventory on Google owned and operated properties and on third party 
+websites, including: 
+• 
+Google Ad Manager, which includes Google’s supply side platform, 
+ad exchange and publisher ad server, and  
+• 
+Google Marketing Platform, which includes Google’s demand side 
+platform, advertiser ad server and analytics tools.  
+36. 
+Google is present across the entire ad tech supply chain. Ad tech services, 
+which rely on data to target advertisements at specific consumer segments, are 
+discussed further below. 
+37. 
+Google also develops and maintains the Android ecosystem, which includes an 
+open-source mobile operating system and a suite of mobile apps and services. 
+As part of this, Google maintains and develops a licensable operating system for 
+smartwatches (Wear OS) and a health and fitness app (Google Fit). 
+38. 
+Google does not currently offer any smartwatches or other wrist-worn wearable 
+devices. Google markets a range of Android smart mobile phones (called Pixel), 
+connected home devices (including Nest, Chromecast, and Google Home 
+products), laptops (called Pixelbook), tablets (called Pixel Slate), gaming devices 
+(called Stadia) and various accessories. 
+39. 
+Google also has an established presence in health, with Dr David Feinberg 
+leading Google Health, bringing together “groups from across Google and 
+Alphabet that are using AI, product expertise and hardware to take on big 
+healthcare challenges”.3  
+40. 
+Specifically Alphabet, Inc. has been active in the healthcare industry with the 
+following companies: 
+• 
+Verily Life Sciences – a research and development company that develops 
+tools to collect and organise health data in order to predict and prevent 
+disease onset and progression. It also works with other industry partners to 
+provide healthcare delivery tools, such as specialised medical sensors, 
+disease screening and prevention tools, as well as health platform and 
+population health tools. Verily is known for the development of its Study 
+Watch, a clinical tool intended to be used for the scalable collection of rich 
+and complex datasets across clinical and observational studies, such as 
+into Parkinson’s disease.  
+• 
+Calico Labs – a research and development company focused on aging and 
+age-related diseases, such as neurodegeneration and cancer. 
+• 
+DeepMind – an artificial intelligence (AI) company acquired by Google in 
+2014 before being shifted to operate under Alphabet, Inc. following a 
+restructure in 2015. DeepMind has developed a number of AI research and 
+mobile tools for use by patients and healthcare providers. 
+                                                 
+ 
+3 https://www.blog.google/technology/health/david-feinberg-google-health/ 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 8 of 25 
+Fitbit 
+41. 
+Fitbit is a public company, headquartered in San Francisco, California, and listed 
+on the New York Stock Exchange. Founded in 2007, Fitbit develops, 
+manufactures and distributes wrist-worn wearable devices as well as smart 
+scales, software and services.  
+42. 
+Fitbit is a significant supplier of wearables in Australia and globally. In FY19 Fitbit 
+reported worldwide revenues of $1.43 billion, increased active users to a total of 
+29.6 million and sold an additional 16 million devices. Despite this, it has made 
+net operating losses over the past few years. 
+43. 
+Fitbit’s wearables run on its own proprietary operating systems. These are 
+exclusively used on Fitbit’s devices and are not licensed to third parties. 
+44. 
+To complement its wearables, Fitbit has also developed the Fitbit mobile app. 
+The app functions as a companion to a Fitbit wearable, allowing users to sync 
+their wearable with their mobile phone. It also allows users to view metrics 
+tracked through their Fitbit device. 
+45. 
+Fitbit offers health and wellbeing solutions to employers, insurers, and 
+healthcare providers via its Health Solutions business.4 Fitbit’s Health Solutions 
+business grew 17 per cent in FY19 to $95 million in revenue.5 
+46. 
+Fitbit also has a presence in data-related health services and takes part in a 
+number of health studies. It has announced disease detection partnerships with 
+a number of parties, including recently in May 2020 that it was launching a large 
+scale study into atrial fibrillation.6 
+Industry background 
+Wearables 
+47. 
+A wearable generally refers to any technology that can be worn on a person’s 
+body. However, for the purposes of this Statement of Issues wearables will refer 
+to wrist-worn wearables. 
+48. 
+A wearable consists of two main components. These are the hardware (i.e. the 
+device itself) and the operating system that it runs on it. 
+Wearable devices 
+49. 
+There are two general sub-categories of wearables: fitness trackers and 
+smartwatches. 
+50. 
+Fitness trackers are wrist-worn wearable devices that include sensor hardware 
+that can measure users’ daily activity and health metrics, such as steps taken, 
+                                                 
+ 
+4 https://healthsolutions.fitbit.com/aboutus/ 
+5https://investor.fitbit.com/press/press-releases/press-release-details/2020/Fitbit-Reports-2019-Fourth-
+Quarter-and-Full-Year-Results/default.aspx 
+6https://investor.fitbit.com/press/press-releases/press-release-details/2020/Fitbit-Announces-Large-Scale-
+Study-to-Identify-Atrial-Fibrillation/default.aspx 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 9 of 25 
+heartrate, oxygen saturation in the blood, calories burned, distance travelled, 
+sleep quality and active minutes. 
+51. 
+Smartwatches are wearable computers in the form of a wristwatch. 
+Smartwatches typically have a larger screen and more computing power than 
+fitness trackers. Like fitness trackers, smartwatches monitor and record users’ 
+daily activity and health metrics, but they typically provide additional functionality 
+such as communication or entertainment functions. Smart watches can be 
+relatively basic and inexpensive, or be feature rich and expensive, based on a 
+number of hardware and software factors. 
+52. 
+Fitbit currently sells devices that fit into both of these categories. 
+Operating systems 
+53. 
+An operating system is the software that supports a wearable’s basic functions. 
+There are three options for manufacturers:  
+• 
+developing their own wearable operating system from scratch 
+• 
+using an open source operating system, which involves using a basic 
+operating system developed by a third party and modifying it to match the 
+needs of a specific device, or  
+• 
+licensing an operating system, which involves entering an agreement with 
+the owner of an existing operating system for access to/use of that system. 
+Licensees may be restricted from altering the licensed operating system or 
+accessing collected data. 
+Other industry participants 
+54. 
+In addition to Fitbit, there are a number of other manufacturers of wearables. 
+Prominent manufacturers 
+55. 
+Apple manufactures a smartwatch called the Apple Watch. Apple Watches from 
+Series 3 onwards include models with cellular connectivity. Other features 
+available on Apple Watches include sensors to measure blood-oxygen levels 
+and ECG, a compass, and fall detection. Apple’s products all run on Apple’s own 
+operating system, watchOS. 
+56. 
+Samsung currently markets fitness trackers and smartwatches. Some of 
+Samsung’s smartwatches include cellular connectivity. Samsung’s wearables 
+predominantly run on Samsung’s Tizen operating system. 
+57. 
+Garmin produces wearable bands and smartwatches for activities such as 
+fitness, running, golf, water sports, and swimming. These products contain 
+features such as GPS, heart rate monitors, Bluetooth music playback, maps, 
+NFC payment, and pulse-oximetry. Garmin’s wearable products operate on 
+Garmin’s own operating system, Garmin OS.  
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 10 of 25 
+Other manufacturers 
+58. 
+Xiaomi has traditionally focussed on low-cost fitness trackers. However, in 
+November 2019 it launched its first smartwatch which has cellular connectivity. 
+Xiaomi’s devices have traditionally run on its proprietary OS, however it has 
+recently launched a device using Wear OS. 
+59. 
+Huawei offers both low-cost fitness trackers as well as smartwatches. Huawei 
+has previously used Wear OS on its devices but is switching to its own operating 
+system Harmony OS. 
+60. 
+Fossil offers a range of smartwatches under the brand names Fossil, Emporio 
+Armani, Diesel, Tory Birch, Skagen and Michael Kors. Fossil’s watches use 
+Wear OS.  
+Data collected by wearables 
+61. 
+A wearable constantly collects data on a user that is unique to them, over and 
+above the data automatically collected by other devices such as from use of a 
+personal computer or a smartphone. The additional data collected includes, but 
+is not limited to, heart rate, heart rate variability,  calories, and oxygen saturation. 
+In addition to different types of data, models that are enabled with GPS will also 
+collect location data on a user, even when they do not have their smartphone 
+with them. For example, when they are exercising. 
+62. 
+The primary use of health data collected from a wearable is to provide the user 
+with their health information. This generally occurs through data being sent to a 
+wearables companion app, usually downloaded onto a smartphone. This allows 
+a user to see all their information in one location and compare their information 
+against their goals. 
+63. 
+A user also has the option to allow third party apps to access the data that is 
+collected by their wearable. This may be done to track exercise, nutrition or other 
+aspects of health. This third party access can typically only occur with the user’s 
+consent. 
+64. 
+There are other ways in which a user’s data can be utilised, including in 
+advertising and health related markets. 
+Advertising and ad tech services 
+65. 
+Online advertising can be broadly divided into three categories: 
+• 
+Search advertising, which appears alongside search results when a user 
+performs a search query on a general search engine (such as Google or 
+Bing) or a specialised search engine (such as Amazon or Expedia) 
+• 
+Classified advertising, which appear on general classifieds websites (such 
+as Gumtree and Trading Post) or specific classifieds websites (such as 
+Seek or Domain), and 
+• 
+Display advertising, which refers to all other types of online advertising, 
+including advertising in banners or videos on webpages, in mobile apps, 
+and alongside social media content. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 11 of 25 
+Value of data in online advertising  
+66. 
+Data has an important role in the supply of online advertising, and can be used 
+as an input or to observe the outcomes of online advertising. For example, data 
+enables a supplier of advertising inventory (i.e. the publisher of a website), or an 
+intermediary that facilitates the supply of online advertising, to target ads to 
+particular users who are most likely to find the ads relevant or interesting.  
+67. 
+Data also allows an advertiser or supplier to analyse the effectiveness of an ad, 
+and measure the ad’s impact on consumers and the return on investment for the 
+advertiser. The ACCC has received consistent feedback that rich datasets are 
+key to providing high quality ad tech services. Market participants consider that 
+the scale and scope of the data collected by Google across its owned and 
+operated sites and third party sites mean that Google is a critical provider of the 
+ad tech services which enable the delivery of targeted advertising. 
+68. 
+User data, such as that collected by a wearable, is one data source which could 
+be used in the supply of online display advertising to target specific consumers. 
+Other user data includes demographic data (such as age and gender) and 
+behavioural data (for example, a user’s browsing history and how often the user 
+uses social media). It can be collected from a number of sources, including 
+manual input by a user when registering for a new product or service and/or the 
+user’s activity when using a product or service, such as use of a wearable. 
+69. 
+User data is distinct from search data, which is data gathered from search 
+queries entered by users of a search service. Search data usually provides clear 
+information about a user’s desires; compared to user data, it is more likely to 
+reveal user intent at a particular point in time. 
+70. 
+Google currently collects data via its owned and operated platforms and also 
+collects “off-platform” data, including via APIs and software development kits 
+from website or app which use Google services.  
+Ad tech services 
+71. 
+Figure 1 below provides a simplified diagram of the transaction between 
+advertisers, publishers, and consumers in online advertising.  
+Figure 1: Simplified diagram of transactions between advertisers, publishers and consumers 
+ 
+72. 
+The ad tech supply chain involves a complex network of intermediaries and 
+platforms that provide technologies and/or data to facilitate the programmatic 
+sale and purchase of digital display advertising inventory. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 12 of 25 
+73. 
+Two of the key participants in the ad-tech supply chain are Ad 
+exchanges/supply-side platforms (SSPs)7 and demand-side platforms (DSPs). 
+SSPs are platforms used by publishers to maximise the price at which ad 
+inventory is sold by conducting an auction for the sale of that inventory, setting 
+price floors, determining what data to include in the auction and deciding which 
+buyers can bid. DSPs are platforms used by advertisers to target advertisements 
+at those consumers most likely to buy their products and services and to help 
+them purchase ad inventory from suppliers as effectively and cheaply as 
+possible. 
+74. 
+In addition to data being utilised by supply and demand side platforms, there are 
+a number of specific data-related service providers that support the ad tech 
+supply chain. These includes data management platforms, data analytics service 
+providers, ad verification and measurement service providers, and data brokers. 
+These service providers perform varying roles including: storing, managing and 
+analysing data sets, measuring the performance of advertising campaigns, 
+ensuring brand safety, and providing additional data that supplements data 
+collected first-hand.  
+75. 
+In order to successfully target advertisements at consumers, it is important to 
+have the ability to track and identify a user across the internet or across devices. 
+This is because the data becomes most useful when an advertiser is able to 
+track the activities of an individual and understand more about the development 
+of their intentions to purchase a product. This tracking and identification of users 
+across the internet or across devices is done via a number of methods including 
+the use of unique IDs, user log-ins, and cookies.  
+76. 
+Generally speaking, each ad tech service provider will identify individuals in 
+different ways, i.e. different ad tech platforms from different providers can have 
+different unique IDs for the same individual. The ability to track and target 
+individuals therefore often depends on unique IDs being recognised between 
+providers of demand side platforms and providers of supply side platforms. This 
+is often referred to as a ‘match rate’.  
+77. 
+Tracking and identification is easier for providers that operate platforms on both 
+the supply and demand side (such as Google). This is because an individual’s 
+ID/log-in/cookie would likely be the same across that provider’s platforms, 
+leading to better match rates. The ACCC is considering whether matching data 
+in this way leads to advantages not just in ad tech services supporting the 
+delivery of targeted advertising, but also in other markets in which the ACCC has 
+concerns, such as health services. 
+Health services 
+78. 
+Data collected from wearables can also be used in health services applications, 
+providing insights into both: 
+• 
+individual users for which that data is collected (subject to applicable 
+privacy laws). This may assist in the provision of healthcare solutions such 
+as tailored health management services. 
+                                                 
+ 
+7 The ACCC notes that supply side platforms are increasingly being integrated with ad exchanges. As 
+such, the term SSP will be used to refer to the combined SSP and ad exchange service. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 13 of 25 
+• 
+broader insights into different types of users, categories of users or 
+consumers with specific attributes or health conditions. This may assist in 
+the development of related products or services for specific health 
+conditions or to address wider population health. 
+79. 
+Such applications include the following: 
+• 
+Health and wellness improvement 
+• 
+Health management, analytics and insights 
+• 
+Diagnostic or prognostic tools 
+Further information regarding these applications is provided in paragraphs 88 
+to 103 below. 
+The proposed transaction 
+80. 
+Google proposes to acquire 100% of the issued and outstanding shares in Fitbit 
+for a total value of approximately US$2.1 billion.  
+Issues that may raise concerns: aggregation of data  
+81. 
+The ACCC is concerned that the proposed acquisition may lead to significant 
+competition issues in the supply of a number of different services that rely on 
+consumer data. 
+82. 
+The parties have submitted that the acquisition rationale is not premised on data, 
+rather to facilitate Google’s entry into wearables. The ACCC also notes Google’s 
+public statement that “Fitbit health and wellness data will not be used for Google 
+ads”.8 However, this commitment is not binding. 
+83. 
+Google holds and collects an extensive amount of high quality consumer data. 
+This includes data from registered user sign ups, Google platforms, Android and 
+Google devices, payment and the internet of things9 as well as off-platform data 
+from websites or apps which utilise Google services. Google combines many of 
+these data points to develop unique profiles of individual users which are in-turn 
+used to supply a range of services, including ad tech services which assists the 
+delivery of targeted advertising.  
+84. 
+The ACCC understands that individual health and fitness data (such as 
+continuous heartrate and sleep monitoring) will supplement the existing data 
+points that Google collects from consumers. Whilst Google already collects step 
+count data through the Google Fit App on smartphones, the data collected by 
+that app does not automatically include heart rate and sleep monitoring and 
+contains significantly less data points than Fitbit’s dataset. Acquiring Fitbit would 
+provide Google with one of the largest and most detailed existing fitness and 
+health datasets, as well as another avenue through which it can continue to 
+gather consumer data. 
+                                                 
+ 
+8 https://www.blog.google/products/hardware/agreement-with-fitbit/ 
+9 See ACCC Digital Platforms Inquiry, Final Report, June 2019, pp 86-87 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 14 of 25 
+85. 
+Google is also a market leader in artificial intelligence and machine learning. 
+Google currently leverages this expertise and its high volumes of high quality 
+data to improve the delivery of many of its products, including search, video 
+platforms, ad tech services, health and cloud computing.  
+86. 
+Post-acquisition, Google will be able to incorporate the Fitbit data into its existing 
+user profiles enabling greater targeting of advertisements, particularly for online 
+display advertisements. Google will likely also utilise the data at an aggregate 
+level, using its analytical tools to draw broader insights about groups of people 
+(beyond just Fitbit users) with specific attributes, then apply these insights across 
+different parts of its business.10 These broader insights may lead to applications 
+in the supply of data-dependent health services.  
+87. 
+The ACCC is concerned that the proposed acquisition may substantially lessen 
+competition in both the supply of various data-dependent health services and 
+certain ad tech services.  
+Data-dependent health services 
+88. 
+The ACCC is concerned about the impact of the proposed acquisition on 
+competition in the supply of data-dependent health services. The ACCC is still 
+closely considering the precise services and markets that could be impacted but 
+understands that wearable data in particular is likely to be useful in the provision 
+of:  
+• 
+advice to wearables users to mitigate risk of illness, enhance wellness, or 
+assist with condition management. 
+• 
+commercial insights to business customers, including insurance companies 
+wishing to compile risk profiles, reduce costs, or enhance productivity. 
+• 
+diagnostics or prognostics tools, either directly to consumers through 
+consumer facing applications, or to medical institutions/practitioners 
+• 
+analytics or data to pharmaceutical companies seeking to determine how 
+best to allocate their research and development budget. 
+• 
+insights or raw data to health researchers, including medical researchers 
+(both private and public), and/or academics. 
+89. 
+Examples of such applications are provided below.  
+Health and wellness improvement 
+90. 
+Wearables devices provide a source of health data which allows for the ongoing 
+monitoring of a consumer’s health signals. Tracking of this data can assist the 
+delivery of ongoing health and wellness improvement in more tailored ways. 
+Access to this type of data, combined with expertise in analytics or machine 
+learning allows for the delivery of many types of consumer facing health and 
+wellness services, such as apps that provide regular and tailored health advice 
+or wellness tips. 
+                                                 
+ 
+10 Whilst there are restrictions under privacy laws in Australia and overseas that offer protections over the 
+use of personal information, particularly sensitive personal information like health data, privacy laws 
+generally do not restrict the use of aggregated or otherwise de-identified data. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 15 of 25 
+Health measurement, analytics and insights for business 
+91. 
+A number of wearable manufacturers also have agreements with business 
+customers. These involve the businesses providing the manufacturer’s 
+wearables to their members, customers or employees either at a discount or for 
+free. 
+92. 
+The data collected by these wearables can then be used by the business to gain 
+a better understanding of the health and lifestyle of each member, customer or 
+employee. As a result, they may be able to reduce costs (e.g. for insurers) or 
+enhance performance (e.g. for employers) by incentivising certain behaviours. 
+Incentives may take the form of premium discounts for an insurance policy. 
+Diagnostic or prognostic tools 
+93. 
+Currently, wearable devices are typically regarded as a consumer item. 
+However, there is a move towards them also being used as medical devices and 
+in the future they may become more widely used in medical contexts. Health 
+data collected by wearable devices could be, and in the case of health 
+studies/artificial intelligence is, used in a number of ways, including: 
+• 
+Early detection of chronic diseases – a user may have the option to 
+provide the data from their wearable to their doctor. From this data, a 
+doctor may be able to determine any early indicators of a chronic disease, 
+such as diabetes, in their patient. They may be able to put in place a plan 
+to prevent such a disease or undertake early steps to limit the impact that it 
+will have on the user. 
+• 
+Tracking a patient’s recovery – once a patient receives treatment, for 
+example a knee reconstruction, their doctor or physiotherapist may be able 
+to track their recovery by following their progress. This may include 
+sending exercises to a user’s device or tracking the amount of activity or 
+nutrition of a patient post operation. This may reduce the risk of any 
+complications post-treatment and allow for quick and easy changes to a 
+patient’s recovery plan. 
+• 
+Health studies – health data collected from studies can be used to inform 
+researchers of the potential effects of treatment plans for diseases, which 
+may then be able to be implemented in the general population. 
+• 
+Artificial Intelligence – health data may be used to help develop, train or 
+test algorithms which may assist the development of various tools, such as 
+to assist or inform online diagnosis. For example, a software application 
+may be developed to allow patients the choice to not see a doctor at first 
+instance and may instead be able to insert their symptoms online and be 
+provided with a treatment plan or told whether they need to go visit a 
+doctor.  
+Nature of nascent data-dependent health services 
+94. 
+The ACCC understands that these are fledgling markets, but with the potential 
+for high growth in the near future. Current information also suggests that 
+competitors in these markets are likely to be significantly advantaged if they 
+have access to comprehensive data from wearable devices. The insights gained 
+from such databases are differentiated and have additional value to what other 
+conventional service providers in these markets are able to provide. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 16 of 25 
+95. 
+For instance: 
+• 
+for advice to wearables users, access to a large store of historical health 
+data, particularly longitudinal health data, may facilitate accurate 
+predictions of the effect of certain behaviours, or patterns of behaviour, 
+on health outcomes and of the efficacy of different kinds of intervention. 
+For example, advice provided by such a data-holder might be higher 
+quality, and delivered in a form more likely to result in sustained 
+behavioural change. Improvements here may be important to other kinds 
+of health services – for example in demonstrating to business customers 
+or healthcare providers that a wearable-based solution is effective. 
+• 
+in the case of business customers, the ACCC understands that a number 
+of health insurance companies and employers in Australia and around 
+the world have formed commercial partnerships with wearables 
+providers. These partnerships are unique and distinct from any risk 
+profiling or mitigation techniques that health insurers and employers have 
+engaged in previously. The additional wide ranging data available on a 
+user specific basis may allow for better insights into risk profiling and 
+pricing and early intervention advice. Thus the increase in adoption of 
+such partnerships. 
+• 
+In the case of developing medical tools, a large robust set of historical 
+health data from wearables and the analysis of this data may be 
+instrumental for the development of diagnostics or prognostic tools. For 
+example, by enabling holders of this data to analyse correlations between 
+stress, weight, activity and sleep patterns to develop a software 
+application or other medical tools to help predict, detect, or manage 
+health problems like diabetes before they become chronic. The ACCC 
+understands that such insights may not be possible with traditional 
+clinical testing data. 
+96. 
+The ACCC understands that Fitbit and Google, either through its business 
+division Google Health or through related entities such as Verily, are active in, or 
+potential entrants to these markets. In particular, the ACCC understands that 
+Google has made significant advances in disease detection and in recent years 
+its parent company Alphabet has filed a large number of patents in the 
+healthcare industry.  
+97. 
+Fitbit currently engages with employers, health plans, health systems, and 
+researchers via its Fitbit Health Solutions business. For example, Fitbit currently 
+partners with 70 of the Fortune 500,11 as well as with a number of corporate 
+wellness providers.12 Some insurers (including in Australia)13 offer programs 
+allowing policyholders to track activity using Fitbit devices to access rewards or 
+discounts. Fitbit lists over 900 research studies in its online publication library.14   
+                                                 
+ 
+11 https://healthsolutions.fitbit.com/ 
+12 https://healthsolutions.fitbit.com/partners/ 
+13 https://www.aiavitality.com.au/vmp-au/partners/fitbit#/about, 
+https://www.medibank.com.au/livebetter/rewards/earn/shop/ 
+14 https://healthsolutions.fitbit.com/research-library/ 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 17 of 25 
+98. 
+The merger parties have submitted that although they are present in health 
+generally, each is focused on quite separate areas. Google submits that its 
+business is focused on clinical facing tools, whereas Fitbit is focused on 
+providing health related analysis for the benefit of its users. Therefore, it 
+submitted that there is no current or potential competitive horizontal overlap.  
+99. 
+First, the ACCC is concerned about both the loss of potential competition, as 
+well the loss of any existing competition between Fitbit and Google in these 
+fledgling markets. Whilst the two parties may not appear to be currently 
+competing head to head, information available to the ACCC suggests that this 
+may be likely in the future. In particular the ACCC considers that Google is likely 
+to continue to grow its presence in these markets, with or without the proposed 
+acquisition. It is also likely that Fitbit has the potential to grow in the supply of 
+these services, whether organically or through partnership with a party other 
+than Google. Therefore in the absence of the acquisition, and given that Fitbit is 
+a leading source of this data, Google is likely to face stronger competition in 
+these markets. 
+100. Second, the ACCC is concerned that the combination of the consumer data 
+currently accessible to Google, its analytical capability and Fitbit’s data, may 
+result in Google developing a strong foothold in such emerging markets. Such a 
+presence may make it commercially less attractive for potential providers to 
+enter such markets, limiting the level of competition in these markets.  
+The importance of Fitbit’s data 
+101. The ACCC understands that Fitbit’s data has unique attributes. It is large, in 
+depth and the nature of its customer base is such that it lends itself to having 
+value for drawing health insights or for developing data-dependent healthcare 
+solutions. Feedback from the market is that other wearable datasets are not as 
+voluminous, reliable or broad as Fitbit’s data. 
+102. The ACCC invites comments from market participants on its concerns in relation 
+to the advantages that Fitbit data may provide Google’s health business. In 
+particular, market participants may wish to comment on the following: 
+• 
+How useful the addition of health data of the kind held by Fitbit (heart rate, 
+sleep, steps, etc.) is to the provision of health services?  
+• 
+What types of health services would benefit from access to health data of the 
+kind held by Fitbit and how will those health services benefit from access to this 
+data?  
+• 
+Are there alternative sources of health data available in the market? How 
+unique is Fitbit’s data relative to alternative sources of health data?  
+• 
+Is there anything unique about Google, which makes the aggregation of Fitbit 
+data with Google’s data more likely to result in Google obtaining an advantage 
+in the provision of health services? 
+• 
+What may be the potential impact (if any) of Google obtaining such advantages 
+on future entry and rivalry in the provision of health services? 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 18 of 25 
+Ad tech services 
+103. Based upon our inquiries to date, the ACCC’s preliminary view is that the 
+proposed acquisition may have the effect, or may be likely to have the effect, of 
+substantially lessening competition in the supply of certain ad tech services.  
+Relevant markets 
+104. Separate and in parallel to its review of the proposed acquisition, the ACCC is 
+currently conducting an inquiry into markets for the supply of ad tech services 
+and digital advertising agency services (the Ad Tech Inquiry).15 That inquiry will 
+consider a range of issues, including the extent of market power in markets for 
+ad tech services. 
+105. While the ACCC has not reached a firm view of the boundaries of potential 
+markets, the ACCC considers that there are likely to be multiple markets 
+involving the supply of ad tech services. These markets provide for, or assist 
+with, the automated buying, selling and delivery of digital display advertising 
+services. As discussed above, display ads are distinct from search and classified 
+ads and include advertising in banners or videos on webpages, in mobile apps, 
+and alongside social media content.  
+106. Google is active across the entire ad tech supply chain, including in the supply of 
+DSP services to advertisers and SSP services to websites. These services are 
+highly dependent on accurate targeting of consumers, which is predominantly 
+based on data and the ability to track and identify users across the internet and 
+devices.  
+107. There are other competitors in this market including DSPs such as MediaMath, 
+AppNexus, Adobe and Trade Desk, and SSPs such as Pubmatic and Rubicon 
+Project. However; estimates suggest that Google’s share of demand side 
+platform services and supply side platform services may be as high as 63 per 
+cent, with the next largest competitor having a share as low as 8 per cent.16 In 
+addition, no other competitors appear to have the broad coverage across the ad 
+tech supply chain that Google does. 
+108. In recent years, the advertising sector’s reliance on data has drastically 
+increased, alongside the opportunity for advertisers to serve targeted ads in real 
+time, taking into account factors such as individual user interests, browsing 
+history, time, location, and website content. This programmatic approach to 
+targeted advertising happens on an automated basis and relies on the provision 
+of ad tech services.  
+109. The ACCC considers that Google already holds a significant position in ad tech 
+services, with many of its competitors being much smaller in size and limited in 
+their ability to provide as broad a range of services as Google. Google has 
+developed detailed profiles of individual users, with information about particular 
+                                                 
+ 
+15 On 10 February 2020, the Australian Government directed the ACCC to hold an inquiry into the 
+markets for the supply of digital advertising technology services and digital advertising agency services. 
+The ACCC is required to provide an interim report on 31 December 2020 and a final report on 31 August 
+2021.  
+16 https://www.datanyze.com/market-share/dsp--65  
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 19 of 25 
+user’s search history, browsing, location and other items of demographic and 
+personal information relating to the individual. This data, as well as other factors 
+have assisted Google’s position in the provision of these services.  
+110. ACCC is concerned that, despite Google’s public statement, it will, in the future, 
+have the incentive to: 
+• 
+seek to supplement its existing data on individual users with Fitbit data, 
+and/or 
+• 
+use aggregate information from the Fitbit data in order to ascertain further 
+insights about the preferences of user groups that have particular attributes 
+or improve the accuracy of its current attributions for such groups. 
+The addition of Fitbit’s data will likely strengthen Google’s position in the supply 
+of DSP services  
+111. Some market participants have submitted that certain wearables data is unique, 
+particularly compared to other data sources such as smartphones, credit card 
+spending patterns and data collected from website cookies. The data from 
+wearables includes metrics that cannot be captured as accurately, or in some 
+cases at all, by other means. These metrics include heart rate, heart rate 
+variability, sleep activity and oxygen saturation. 
+112. The ACCC understands that these distinct data points may enable analysis that 
+delivers unique insights about users, for example health patterns or behavioural 
+traits.  
+113. In addition to these foreseeable insights, the ACCC has also heard concerns 
+regarding further insights that could be gained through, for example: 
+• 
+correlations between Fitbit’s data and Google’s pre-existing database,  
+• 
+broader applications of the insights gained about individual users to a 
+larger group of users. 
+114. These correlations are likely to be useful for targeted advertising and therefore 
+the provision of DSP services. For example, post-acquisition it is likely that 
+Google will be able to even more effectively target advertising to consumers with 
+health-related issues, or interests in particular fitness products. These 
+correlations may also allow Google’s SSP/ad-exchange services to send out 
+more detailed (and hence more valuable) requests for bids from DSPs in respect 
+of those customers. 
+115. Google submits that the Fitbit data would have very limited use in targeted 
+advertising, as it represents only a very small portion of the overall population 
+accessing online ads, and is only relevant to ads for health and fitness products. 
+Of which, Google also submits, there are multiple other available datasets which 
+convey this information in more meaningful ways, such as consumers browsing 
+history and app access. 
+116. In addition to the usefulness of wearable data in general, the ACCC understands 
+that Fitbit’s data is particularly valuable and also unique. Market participants 
+have pointed to a number of factors (for example, an excellent time series) that 
+differentiates Fitbit’s data from competing wearables.  
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 20 of 25 
+117. The ACCC understands that as the time series of a dataset like Fitbit’s 
+increases, further more useful correlations can be drawn between changes in the 
+data series over time. For example, the longer a time series a dataset has, the 
+easier it is to establish a baseline to draw comparisons against instances that 
+deviate from the baseline. The ACCC notes that Fitbit itself advertises on its 
+website that it holds one of the largest databases of validated health data in the 
+world, with over 181 billion hours of heart rate, 9 billion nights of sleep, 457 
+billion minutes of exercise, 175 trillion steps and 10 million added female health 
+tracking data.17  
+118. The ACCC also understands that Fitbit’s dataset may be significantly more 
+accurate than other wearable providers, as both Fitbit’s sensors and sensor 
+analysis software is generally considered to be superior to many other 
+wearables. 
+119. Competitors to Google in the supply of ad tech services have submitted that data 
+equivalent to that held by Fitbit is currently not available from third parties. 
+Further, other potential sources are likely to have reliability issues which would 
+likely make them considerably less useful than Fitbit’s.  
+120. The ACCC is concerned that the proposed acquisition may eliminate an 
+important source of potential competition for Google in the supply of certain ad 
+tech services including, in particular DSP services. Google has market power in 
+the supply of certain ad tech services, which is underpinned by considerable 
+data advantages it holds over its rivals. The proposed acquisition will likely 
+increase this advantage. This in will likely have the effect of reducing the 
+commercial incentives for existing suppliers to ‘take on’ Google, as well as 
+reduce the commercial incentive for new entry. Thus Google’s position of market 
+power will be entrenched.  
+121. The proposed acquisition also eliminates the prospect that current rivals of 
+Google will partner, or otherwise enter a commercial arrangement, with Fitbit to 
+use its health and fitness data to improve their offerings to advertisers and 
+intermediaries. This concern is heightened by the unique characteristics of the 
+Fitbit data.  
+122. The potential for the proposed acquisition to lessen competition in the supply of 
+certain ad tech services including, in particular DSP services, is increased by the 
+scope for Google to handicap (some) rivals in the supply of wearables. As noted 
+below, Google controls some key inputs necessary for the viability of certain 
+wearables suppliers to compete in the supply of wearables, including Wear OS, 
+Google Maps, Google Play Store, and/or the Android smartphone operating 
+system. To the extent Google uses this control to handicap (some) rivals in the 
+supply of wearables, it may reduce the opportunities for providers of ad tech 
+services to team up with rival suppliers of wearables to access health and fitness 
+data that may be comparable to the Fitbit data.  
+123. The ACCC invites comments from market participants on its concerns that 
+Google acquiring Fitbit will likely result in a substantial lessening of completion in 
+the supply of certain ad tech services, and in particular DSP services. In 
+particular market participants may wish to comment on the following: 
+                                                 
+ 
+17 https://healthsolutions.fitbit.com/whyfitbit/ 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 21 of 25 
+• 
+How useful the addition of health data of the kind held by Fitbit (heart rate, sleep, 
+steps, etc.) is to the provision of targeted advertising? 
+• 
+Are there alternative sources of health data available in the market? How unique is 
+Fitbit’s data relative to alternative sources of health data?  
+• 
+What may be the potential impact (if any) of Google obtaining such advantages on 
+future entry and rivalry in the provision of ad tech services? 
+Issues that may raise concerns: ability and incentive for 
+Google to foreclose competing wearables producers 
+124. As stated in the ACCC’s Merger Guidelines, the ACCC is concerned where a 
+combined entity has the ability and incentive to use its position in one market to 
+foreclose rivals in another market in a way that lessens competition.18  
+125. Whilst Google does not currently manufacture a wearable, Google does currently 
+provides a number of inputs into the wearables market. Post-acquisition Google 
+will become a competing manufacturer of wearables. The ACCC is concerned 
+that this may alter Google’s incentives in distributing or providing access to a 
+number of its existing products used by other suppliers of wearables. At this 
+stage, the ACCC is concerned about rival wearables continuing to have access 
+on the same terms to Wear OS, Google Maps, the Google Play store and 
+interoperability with Android phone software. The ACCC is particularly 
+concerned about these products, given that Google likely holds market power in 
+the supply of each of them. 
+Foreclosure of access to Wear OS, Google Maps, the Google Play Store and 
+interoperability with Android phone software 
+Wear OS 
+126. Google currently licenses its wearable operating system (Wear OS) to a number 
+of wearable manufacturers. The ACCC understands that for some of these 
+manufacturers Wear OS is a critical part of their product offering.  
+127. The ACCC’s preliminary view is that Google would have the ability to foreclose 
+access to Wear OS. Information from market participants indicates that 
+development of a proprietary wearable operating system would be prohibitively 
+expensive for many competing wearable manufacturers currently using Wear 
+OS.  
+128. Whilst there are alternative licensable systems available, market feedback 
+indicates they are not to the same standard as Wear OS. There are also a 
+number of alternative non-licensable systems, such as Apple’s WatchOS and 
+Samsung’s Tizen. However the ACCC understands that these are not available 
+to other third party wearable manufacturers. Therefore, without continued access 
+to Wear OS, competing wearable manufacturers may find it difficult to continue 
+to supply devices to the market. 
+                                                 
+ 
+18 ACCC, Merger Guidelines 2008 (updated 2017), paragraph 5.22. 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 22 of 25 
+129. Google does not currently charge for access to Wear OS, rather the ACCC 
+understands that the value in providing Wear OS is to make the Android eco-
+system more attractive to consumers. In addition, the ACCC understands that 
+Google also gains access to the data that is collected by devices running Wear 
+OS. The collection of this data is of potential benefit to Google, and the ACCC 
+will need to weigh this potential benefit when considering Google’s incentives to 
+foreclose access to Wear OS. 
+Google Maps 
+130. Google Maps is utilised by third party wearable manufacturers in their offerings 
+to consumers, particularly in circumstances where they are providing route 
+tracking for fitness. The ACCC understands that the provision of Google Maps 
+for this service is very important, as its functionality is superior to rival providers 
+such as Bing Maps. The ACCC is concerned that post-acquisition Google may 
+have the incentive to frustrate access to Google Maps, in order to decrease the 
+quality of the product of rival wearable manufacturers, and thus encourage 
+consumers to purchase a Google wearable. 
+Interoperability with Android phone software 
+131. Many wearable manufacturers rely on interoperability between their wearables 
+and the operating systems of mobile phones. This interoperability allows for 
+various functions, but is critical in particular in the delivery of: 
+• 
+data into phone based apps, particularly fitness apps 
+• 
+notifications to the user, including calls, messages and emails 
+• 
+ability of the user to reply to notifications, through message or voice 
+• 
+voice activated assistants. 
+132. Google currently effectively controls the Android software used for many non-
+Apple smartphones. Although there are some alternative operating systems to 
+Android, it is currently positioned as the market leading alternative to Apple’s iOS 
+with approximately half of the smartphones in Australia currently operating using 
+Android.  
+133. The ACCC is concerned that post-acquisition Google may have the incentive to 
+restrict certain functionality between wearables and Android smartphone 
+operating systems to wearables produced by Google. In particular, the ACCC 
+has heard concerns that Google could restrict the ability of non-Google 
+wearables to send and receive calls, messages and emails. The ACCC is 
+concerned that this would likely encourage Android consumers to favour Google 
+wearables and significantly impact the ability of non-Google wearables to 
+compete. 
+134. As with Wear OS, Google does not currently charge for the use of Android 
+software. The ACCC understands that much of the value is, once again, in the 
+collection of data from devices that use the Android operating system. 
+Assessment of incentive to foreclose 
+135. As stated in the ACCC’s Merger Guidelines, a firm is unlikely to exercise its 
+ability to foreclose unless profitable to do so, which will depend on the nature of 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 23 of 25 
+competition in each of the relevant markets and the particular means available to 
+foreclose rivals. 
+136. The ACCC is concerned that the combined Google Fitbit will have an incentive to 
+maximise the sale of its own branded wearables, by engaging in the 
+aforementioned foreclosure strategies against rival wearable manufacturers. The 
+ACCC is considering the extent to which a combined Google Fitbit would be able 
+to increase the value to its wider business by foreclosing other wearable 
+manufacturers. Such value increase could include: 
+a. 
+Increased profits to Google by selling more of its branded wearables at the 
+detriment of rival wearable manufacturers. 
+b. 
+Increased ability to expand its operations in related data reliant markets, 
+such as health or certain ad tech services. The foreclosure of competing 
+wearable manufacturers may prevent these providers from, in the future, 
+either entering these related markets themselves, or providing access to 
+their data streams to other potential competitors.  
+137. The ACCC is considering the extent to which any such increase in profits or 
+overall benefits to Google’s business would offset any loss of income from a 
+reduction in wider adoption of Google’s Wear OS operating system, Google 
+Maps or the threat of consumers switching away to an non-Android eco-system. 
+In this respect, the ACCC notes that, outside of Google Maps, many of these 
+products provided by Google are not charged for in a conventional way. Instead 
+of charging licensing or access fees, Google appears to rely on the value of the 
+user data provided through wider adoption of Android software or Wear OS.  
+Potential impact of foreclosure on the wearables market 
+138. In turn, the ACCC is considering the extent to which foreclosure will impact 
+overall competition in the supply of wearables. Fitbit is currently a significant 
+supplier by volume of wearables in Australia and New Zealand. Other prominent 
+providers are Apple, Samsung, Xiaomi, Garmin and Huawei.  
+139. Although it may seem that there are a significant number of competing 
+manufacturers, the ACCC is concerned that some of the potential foreclosure 
+avenues, particularly restrictions in Android interoperability and access to Google 
+Maps may impact a wide range of wearable manufacturers, even if they do not 
+rely on Wear OS to run their wearables.  
+140. The ACCC considers that the loss of even a small competitor can have a 
+significant impact. The ACCC is aware that some manufacturers focus on 
+particular segments of customers, and that their foreclosure may result in a 
+consumer loss. For instance some manufacturers may focus on particular design 
+aspects partnering with fashion brands, while others may focus on innovating 
+with sensors and fitness support in order to capture high performance athletes. 
+141. The ACCC invites comments from market participants on its concerns in relation 
+to the potential for foreclosure of access to important technology inputs: 
+• 
+Google’s likely incentive to foreclose or discriminate against wearables 
+competitors in the supply of related technology services 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 24 of 25 
+• 
+The extent of alternative options available to Google’s wearables competitors if 
+faced with foreclosure or discrimination with respect to important inputs or 
+related services to the supply of wearables 
+Issue unlikely to raise concerns: removal of potential 
+competition in the supply of wearables  
+142. The ACCC is also considering the loss of innovation that may arise from 
+acquisition. 
+143. Fitbit is currently a well-known and trusted wearable brand, which has over the 
+past ten years developed a strong base of users. It has developed its own 
+operating system, and has a reputation for producing wearables which are 
+superior in accuracy and performance to those of its competitors. Fitbit also has 
+a strong consumer record for data privacy protection, which consumers appear 
+to value.  
+144. The ACCC is continuing to explore this point and consider relevant information 
+but considers it likely that, in the absence of the proposed acquisition, Google 
+would have entered the wearables market organically within the short to medium 
+term. In recent years Google has been expanding its hardware business and 
+released smartphones, smart speakers, ear buds and Google Glass. The ACCC 
+understands that in the recent past Google has also acquired a number of other 
+smaller wearable related businesses including WIMM and Chronologics, which 
+likely indicates Google’s intentions to develop its own device.  The ACCC also 
+points to regular press speculation, prior to Google’s acquisition of Fitbit that 
+Google was looking to develop its own smart watch.  
+Issue unlikely to raise concerns: impact on search and 
+search advertising 
+145. Based on inquiries to date, the ACCC’s preliminary view is that the proposed 
+acquisition is unlikely to substantially lessen competition in the supply of search 
+services or the supply of search advertising services. 
+Search services 
+146. User data that Fitbit acquires and has access to is distinct from search data, 
+which Google uses to refine and improve its search algorithms. While the 
+proposed acquisition may provide Google with access to a set of user data 
+collected from wearables, it is unlikely that access to this type of data would 
+have a significant impact on Google’s search services offering to consumers.  
+147. The ACCC also notes that Google already has access to a large amount and 
+wide range of search data. Given its position as a significant supplier of search 
+services in Australia, it would likely continue gathering this type of search data, 
+and this is unlikely to change as a result of the proposed acquisition. 
+Search advertising services 
+148. Similar to the above, search data that is valuable to the provision of search 
+advertising is distinct from the type of user data that Fitbit acquires and has 
+access to – that is, search data predominantly consists of search queries 
+
+
+Google – proposed acquisition of Fitbit 
+ 
+Page 25 of 25 
+conducted by users and the search results subsequently clicked on. Whilst 
+additional user data may be of some incremental benefit, this is unlikely to 
+significantly change Google’s search advertising offering to customers.  
+149. As such, while the proposed acquisition may provide Google with access to a 
+unique and substantial dataset that may improve the targeting capabilities of its 
+advertising services (including its ad tech services), the ACCC’s preliminary view 
+is that Fitbit’s data is unlikely to significantly impact Google’s supply of search 
+advertising services. 
+Issue unlikely to raise concerns: overlap in mobile 
+payment services 
+150. Based on its inquiries to date, the ACCC’s preliminary view is that the proposed 
+acquisition is unlikely to substantially lessen competition in relation to the supply 
+of mobile payment services. 
+151. The parties are competitors in this area, with Fitbit offering Fitbit Pay on some of 
+its wearables and Google offering Google Pay on android devices. However, the 
+ACCC has found that numerous other wearable manufacturers have their own 
+mobile payment systems, including Apple, Samsung and Garmin, with Fitbit’s 
+market share being relatively low.  
+152. The ACCC has also found that, assuming there is competition at the wearables 
+level, i.e. there are alternative wearable manufacturers, development of a mobile 
+payment system is not particularly difficult or expensive. Therefore, the ACCC 
+does not consider that a reduction in the number of mobile payment systems of 
+its own account would be likely to result in a substantial lessening of competition.  
+ACCC's future steps 
+153. The ACCC now seeks submissions from market participants on the issues 
+identified in this Statement of Issues and on any other points that may be 
+relevant to the ACCC's assessment. Submissions are due by 10 July 2020 and 
+should be emailed to mergers@accc.gov.au. 
+154. The ACCC intends to publicly announce its final view by 13 August 2020. 
+However the anticipated timeline may change in line with the Informal Merger 
+Review Process Guidelines. A Public Competition Assessment for the purpose 
+of explaining the ACCC's final view may be published following the ACCC's 
+public announcement to explain its final view. 
+ 

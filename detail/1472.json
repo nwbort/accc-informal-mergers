@@ -1,0 +1,31 @@
+{
+  "id": "1472",
+  "title": "Acquirer: Sydney Credit Union Ltd; Target: Parkes District Credit Union Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sydney-credit-union-ltd-target-parkes-district-credit-union-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19947",
+  "industries": [],
+  "date_completed": "13 July 2004",
+  "date_completed_iso": "2004-07-13T12:00:00Z",
+  "date_commenced": "9 July 2004",
+  "date_commenced_iso": "2004-07-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sydney Credit Union Ltd"
+  ],
+  "targets": [
+    "Parkes District Credit Union Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "By letter dated 5 July 2004, APRA informed the ACCC of the proposed transfer of the entire business of Parkes District Credit Union Limited to Sydney Credit Union Limited.",
+    "Market definition": "For competition assessment purposes, the relevant product market in this instance was treated as a broadly defined market for financial services.",
+    "Competition analysis": "The ACCC's concentration thresholds are not crossed.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

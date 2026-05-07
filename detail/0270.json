@@ -1,0 +1,75 @@
+{
+  "id": "0270",
+  "title": "Brookfield consortium - proposed acquisition of Asciano Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brookfield-consortium-proposed-acquisition-of-asciano-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57803",
+  "industries": [
+    "Infrastructure"
+  ],
+  "date_completed": "15 March 2016",
+  "date_completed_iso": "2016-03-15T12:00:00Z",
+  "date_commenced": "6 August 2015",
+  "date_commenced_iso": "2015-08-06T12:00:00Z",
+  "total_review_days": 152,
+  "acquirers": [
+    "Brookfield consortium"
+  ],
+  "targets": [
+    "Asciano Limited"
+  ],
+  "timeline": [
+    {
+      "date": "6 Aug 2015",
+      "date_iso": "2015-08-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "4 Sep 2015",
+      "date_iso": "2015-09-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Oct 2015",
+      "date_iso": "2015-10-15T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "4 Nov 2015",
+      "date_iso": "2015-11-04T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "14 Dec 2015",
+      "date_iso": "2015-12-14T12:00:00Z",
+      "event": "Former proposed decision date of 17 December 2015 delayed at the request of Brookfield."
+    },
+    {
+      "date": "22 Dec 2015",
+      "date_iso": "2015-12-22T12:00:00Z",
+      "event": "ACCC commenced market inquiries on proposed s87B undertakings."
+    },
+    {
+      "date": "22 Jan 2016",
+      "date_iso": "2016-01-22T12:00:00Z",
+      "event": "Closing date for submissions relating to the proposed s87B undertakings."
+    },
+    {
+      "date": "5 Feb 2016",
+      "date_iso": "2016-02-05T12:00:00Z",
+      "event": "Former proposed decision date of 18 February 2016 delayed to allow for provision of further information from Brookfield and consideration of revised s87B undertakings."
+    },
+    {
+      "date": "23 Feb 2016",
+      "date_iso": "2016-02-23T12:00:00Z",
+      "event": "Asciano announced a potential acquisition by a consortium including both Brookfield and Qube Holdings Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "30 Mar 2016",
+      "date_iso": "2016-03-30T12:00:00Z",
+      "event": "Following an announcement by Asciano that it had entered into a new binding agreement with Brookfield, Qube and others, the ACCC discontinued this review. The ACCC commenced a review of the new joint proposal to acquire Asciano on 30 March 2016."
+    }
+  ],
+  "body_sections": {}
+}

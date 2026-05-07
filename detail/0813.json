@@ -1,0 +1,54 @@
+{
+  "id": "0813",
+  "title": "Pact Group Pty Ltd - acquisition of business and assets of Signum Specialities Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-acquisition-of-business-and-assets-of-signum-specialities-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34978",
+  "industries": [
+    "Plastic packaging"
+  ],
+  "date_completed": "21 January 2009",
+  "date_completed_iso": "2009-01-21T12:00:00Z",
+  "date_commenced": "5 November 2008",
+  "date_commenced_iso": "2008-11-05T12:00:00Z",
+  "total_review_days": 52,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Signum Specialities Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Nov 2008",
+      "date_iso": "2008-11-03T12:00:00Z",
+      "event": "Pact Group Pty Limited acquired Signum Specialities Pty Ltd."
+    },
+    {
+      "date": "5 Nov 2008",
+      "date_iso": "2008-11-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Nov 2008",
+      "date_iso": "2008-11-13T12:00:00Z",
+      "event": "ACCC extended the closing date for submissions from interested parties from 18th November 2008 to 21 November 2008 to allow market participants more time to respond."
+    },
+    {
+      "date": "21 Nov 2008",
+      "date_iso": "2008-11-21T12:00:00Z",
+      "event": "Extended timeframe for submissions from interested parties."
+    },
+    {
+      "date": "21 Jan 2009",
+      "date_iso": "2009-01-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A Pact Group subsidiary, Summit Manufacturing, has acquired the business and assets of Signum Specialities Pty Ltd.",
+    "Market definition": "The ACCC considered the likely effects of the acquisition on the following markets: - the national market for the manufacture and supply of non-beverage rigid plastic containers (market 1) - the national market for reprocessing of PET plastics (market 2) - the national market for the manufacture and supply of post-consumer resin (PCR) (market 3). It was noted during the ACCC's assessment that market 1 may exist on a narrower scale than this and market 3 may exist on a broader scale, however, adopting either of those definitions would not have altered the conclusion below.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in any market. Factors informing this conclusion included: - the existence of several alternative suppliers of plastic packaging which compete with Signum or could expand their operations to do so - the availability of imported non-beverage rigid plastic containers and extruded PET sheets at competitive prices and of comparable quality to those supplied by the merged entity - the likelihood that export markets will competitively constrain the merged entity in the sale of post-consumer PET plastic products for recycling - the availability of imported PCR, the substitutability of virgin resin for PCR and the likelihood that this will constrain the merged entity in the manufacture and supply of PCR."
+  }
+}

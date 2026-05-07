@@ -1,0 +1,38 @@
+{
+  "id": "0274",
+  "title": "Nordic Capital Fund VII - proposed acquisition of Max-Inf Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nordic-capital-fund-vii-proposed-acquisition-of-max-inf-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57626",
+  "industries": [
+    "Child restraint systems"
+  ],
+  "date_completed": "18 December 2015",
+  "date_completed_iso": "2015-12-18T12:00:00Z",
+  "date_commenced": "12 November 2015",
+  "date_commenced_iso": "2015-11-12T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Nordic Capital Fund VII"
+  ],
+  "targets": [
+    "Max-Inf Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "12 Nov 2015",
+      "date_iso": "2015-11-12T12:00:00Z",
+      "event": "Draft s87B undertaking offered by the parties. As the undertaking offered by the parties addressed the competition concerns, the ACCC did not consider it necessary to conduct a full public review of the proposed acquisition."
+    },
+    {
+      "date": "18 Dec 2015",
+      "date_iso": "2015-12-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a s87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the market for the wholesale supply of child restraint systems in Australia.",
+    "Competition analysis": "Nordic has indirect downstream interests in Britax Childcare Pty Ltd, which is one of the largest wholesale suppliers of child car restraint systems in Australia with brands including Safe-n-Sound. Nordic is proposing to acquire a controlling interest in Max-Inf which is a Chinese manufacturer of child restraint systems. Max-Inf currently supplies products to Infa-Secure Pty Ltd which is one of the three main suppliers of these products in Australia. Britax is a close competitor of Infa-Secure. The ACCC considered that in the absence of the s87B undertaking, the proposed acquisition was likely to raise competition concerns in the market for the wholesale supply of child restraint systems in Australia. By acquiring an interest in the supplier to one of its key competitors in Australia, concerns were raised that the proposed acquisition would be likely to provide Nordic and Max-Inf with the ability and incentive to foreclose supply of child restraint systems to Infa-Secure. While it is possible to source supply from alternative suppliers of child restraint systems, the ACCC was aware that the transition to a new supplier can take some time to ensure the security and quality of supply necessary to compete in Australia. The s87B undertaking requires the parties to continue to supply Infa-Secure with child restraint systems while it establishes alternative supply arrangements. On 18 December 2015, the ACCC announced it had accepted the s87B undertaking offered by the parties and it would not oppose the proposed acquisition."
+  }
+}

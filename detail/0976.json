@@ -1,0 +1,44 @@
+{
+  "id": "0976",
+  "title": "Woolworths Limited - proposed acquisition of Mallam's Spar Supermarket and related businesses",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-mallams-spar-supermarket-and-related-businesses",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30311",
+  "industries": [
+    "Retail Grocery"
+  ],
+  "date_completed": "22 January 2008",
+  "date_completed_iso": "2008-01-22T12:00:00Z",
+  "date_commenced": "8 January 2008",
+  "date_commenced_iso": "2008-01-08T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Mallam's Spar Supermarket"
+  ],
+  "timeline": [
+    {
+      "date": "8 Jan 2008",
+      "date_iso": "2008-01-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Jan 2008",
+      "date_iso": "2008-01-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jan 2008",
+      "date_iso": "2008-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire Mallam's Spar Supermarket business located at 36 Burringbar Street, Mullumbimby, New South Wales, and the off-licence (retail) licences for Mullumbimby Cellars and Brunswick Cellars.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the local market for the supply of goods by supermarkets. The geographic dimension of this market is a 3-5km radius surrounding the target supermarket business (Market 1); 2. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is a 3-5km radius surrounding the target retail liquor business (Market 2); 3. the NSW market(s) for the procurement of products sold in supermarkets (Market 3); 4. the NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 4).",
+    "Competition analysis": "On 22 January 2008, the ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1. in relation to Market 1, if a 3-5 km radius around the target supermarket business is adopted, the acquisition represents a bare transfer of market share, rather than any increase in concentration, since Woolworths has no supermarkets within 5km of the target. 2. in relation to Market 2, while Woolworths will own two stores in the local market post-acquisition, it will continue to face competition from a number of competitors which are likely to constrain Woolworths post-acquisition. 3. in relation to Markets 3 and 4, the ACCC considered that the acquisition of one retail supermarket and two liquor licences, is unlikely to significantly increase Woolworths buying power in either market or to substantially weaken any competing wholesaler by diminishing its buyer power."
+  }
+}

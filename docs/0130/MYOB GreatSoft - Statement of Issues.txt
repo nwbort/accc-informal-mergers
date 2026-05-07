@@ -1,0 +1,696 @@
+Page 1 of 13 
+ 
+Statement of Issues 
+11 February 2021 
+ MYOB – proposed acquisition of GreatSoft  
+Purpose 
+1. 
+MYOB Invest Co. Pty Ltd (MYOB) proposes to acquire GreatSoft Pty Ltd 
+(GreatSoft).  
+2. 
+This Statement of Issues: 
+• 
+gives the Australian Competition and Consumer Commission’s (ACCC) 
+preliminary views on competition issues arising from the proposed 
+acquisition,  
+• 
+identifies areas of further inquiry, and 
+• 
+invites interested parties to submit comments and information to assist our 
+assessment of the issues. 
+3. 
+Statements of Issues do not refer to confidential information provided by the 
+parties or other market participants and therefore may not fully articulate the 
+ACCC’s preliminary position. 
+Overview of ACCC’s preliminary views 
+4. 
+In considering the proposed acquisition, the ACCC applies the legal test set out 
+in section 50 of the Competition and Consumer Act 2010 (the CCA). In general 
+terms, section 50 prohibits acquisitions that would have the effect, or be likely to 
+have the effect, of substantially lessening competition in any market. 
+5. 
+The ACCC divides its preliminary views into three categories, 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. In this 
+Statement of Issues there is one issue that may raise concern.  
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 2 of 13 
+Issue that may raise concern 
+Removal of a new competitor in the supply of practice management software to 
+medium-to-large accounting firms 
+ 
+• 
+The ACCC’s preliminary view is that the proposed acquisition may 
+substantially lessen competition in the supply of practice management 
+software to medium-to-large accounting firms.   
+• 
+Apart from GreatSoft, the only practice management products designed for 
+these firms are MYOB’s Accountants Enterprise and Reckon’s APS, both 
+desktop products that are currently being used by the majority of medium-
+to-large firms. Xero’s Practice Manager is a cloud-based alternative for 
+some of these firms, despite being designed for smaller firms.  
+• 
+GreatSoft is a relatively new entrant that provides cloud-based practice 
+management software. Unlike most other available cloud products it is 
+designed for and targeted at medium-to-large accounting firms. GreatSoft 
+has already won several medium-to-large MYOB customers and market 
+feedback indicates it is well placed to win more customers once firms have 
+seen how it is implemented by early adopters.  
+• 
+While GreatSoft’s current customer base is small, the ACCC is 
+investigating whether it has the potential to become a strong competitive 
+constraint on the incumbents. GreatSoft appears to be a viable choice for 
+the many medium-to-large firms wishing to migrate to the cloud, and 
+absent the acquisition, may have the potential to grow to be a stronger 
+competitor in what is currently a concentrated market.  
+Making a submission 
+6. 
+The ACCC invites submissions from interested parties, particularly on the 
+following key issues: 
+• 
+absent the acquisition, GreatSoft’s options and its potential to grow to be a 
+strong competitor, either alone or in partnership with other firms; 
+• 
+whether there are alternative practice management products, which are 
+being developed or have launched, which would meet the requirements of 
+medium-to-large accounting firms in the short to medium term; and 
+• 
+whether non-accounting-specific practice management software is a viable 
+alternative for medium-to-large accounting firms, now or in the short to 
+medium term. 
+7. 
+Interested parties should provide submissions by 5pm on 5 March 2021. 
+Responses may be emailed to mergers@accc.gov.au with the title: Submission 
+re MYOB-GreatSoft - attention Lavinia de Havilland/Karina Geddes. If you would 
+like to discuss the matter with ACCC staff or have any questions about this 
+Statement of Issues, please contact Lavinia de Havilland on (02) 6243 3002 or 
+Karina Geddes on (02) 9102 4008.  
+8. 
+The ACCC anticipates making a final decision on 22 April 2021, however, this 
+timeline can change. To keep up with possible timing changes and to find 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 3 of 13 
+relevant documents, interested parties should visit the Mergers Register on the 
+ACCC's website at www.accc.gov.au/publicregisters/mergers-registers/public-
+informal-merger-reviews. 
+Confidentiality of submissions 
+9. 
+The ACCC will not publish submissions regarding the proposed acquisition. We 
+will not disclose submissions to third parties (except our advisors/consultants) 
+unless compelled by law (for example, under freedom of information legislation 
+or during court proceedings) or in accordance with s155AAA of the CCA. Where 
+the ACCC is required to disclose confidential information, the ACCC will notify 
+you in advance where possible so that you may have an opportunity to be heard. 
+Therefore, please identify any confidential information that is provided to the 
+ACCC. Our Informal Merger Review Process Guidelines contain more 
+information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+10. 
+A Statement of Issues is not a final decision about a proposed acquisition. A 
+Statement of Issues outlines the ACCC’s preliminary views and identifies further 
+lines of inquiry. 
+11. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+Practice software for accountants 
+12. 
+Accountants use a range of software modules to provide professional services to 
+clients. 
+13. 
+The ‘backbone’ of an accounting firm’s practice software environment is 
+generally its practice management module. At the operational level, it holds the 
+firm’s client details, handles staff, job and resource planning, time recording and 
+invoicing, and provides detailed financial performance reports. At the technical 
+level, it integrates with many (ideally all) of the other software modules used by 
+the firm, including: 
+• 
+Client Accounting – assists in validating client accounts and preparing 
+worksheets and compliance reporting.  
+• 
+Tax – assists accountants in the preparation and lodgement of tax returns 
+on behalf of their clients. Software developed to perform this function must 
+meet Australian Tax Office requirements.  
+• 
+Corporate compliance – provides company formation, registration and 
+Australian Securities and Investments Commission compliance functions.  
+• 
+Other modules – most firms also use several other software modules to 
+support their firm management, including for example document 
+management and customer relationship management software. 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 4 of 13 
+14. 
+Ideally for accounting firms, all of these modules should integrate closely or ‘talk 
+to each other’. This means that there can be a single database holding all client 
+information, and a single update to that information will carry through to all 
+modules. This enables the database to offer a ‘single source of truth’ regarding a 
+client’s affairs. When modules are not integrated, client information like contact 
+details or financial data may need to be replicated in multiple databases that 
+must be updated separately and manually, leading to extra work and potential for 
+error. 
+15. 
+The ACCC understands that for almost all accounting firms, practice 
+management software must, as a bare minimum, integrate with a tax module. 
+The parties 
+MYOB 
+ 
+16. 
+MYOB is a privately held company that provides software solutions to 
+businesses and accounting practices in Australia and New Zealand. For 
+accounting practices, MYOB provides desktop-based practice software.  
+17. 
+MYOB offers accountant customers two desktop-based product suites through 
+its practice software:  
+• 
+MYOB AccountantsOffice (AO), which has been developed for small and 
+sole practitioner accounting practices, and  
+• 
+MYOB AccountantsEnterprise (AE), which has been developed for medium 
+to large, multiple-partner accounting practices.  
+18. 
+Each of these product suites includes a desktop-based practice management 
+module (in addition to document management, tax, accounting, compliance and 
+other modules). There is minimal integration between MYOB’s software and third 
+party suppliers’ software, so MYOB customers typically either use a suite of 
+MYOB-supplied software, or mix MYOB software with third party software 
+without the benefit of the integration described above. 
+GreatSoft 
+19. 
+GreatSoft is owned by GreatSoft Proprietary Limited, a South African software 
+company with 20 years of experience in providing practice solutions to medium 
+and large accounting firms, including three of the Big Four accounting firms in 
+Africa1.  
+20. 
+GreatSoft was established in Australia in 2018, although it did not officially 
+launch until September 2019. The proposed acquisition was announced just over 
+a year later.  
+21. 
+GreatSoft supplies a cloud-based practice management solution for accounting 
+practices. It integrates with a range of third party software suppliers, including 
+with Xero for Xero Tax. 
+                                                 
+ 
+1 GreatSoft, https://greatsoft.co.za/history-of-greatsoft/, viewed 9 February 2021; GreatSoft, 
+https://greatsoft.co.za/about/, viewed 9 February 2021. 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 5 of 13 
+22. 
+Most of GreatSoft’s customers and prospective customers are medium and large 
+MYOB customers. We understand from a range of medium-to-large accounting 
+firms that GreatSoft is attractive as it is cloud-based and designed for firms of 
+their size. Additionally, it provides responsive customer service, the software has 
+an established track record in South Africa, and customers trust its leadership 
+team’s deep experience in the Australian market. 
+The proposed transaction 
+23. 
+MYOB proposes to acquire 100 per cent of the share capital of GreatSoft, being 
+GreatSoft South Africa’s Australian business. 
+Other industry participants 
+Reckon  
+24. 
+Reckon Limited (Reckon) is an Australian publicly listed company which 
+supplies desktop-based practice software to accounting firms, which includes 
+practice management, client accounting and tax compliance. It supplies Reckon 
+APS for medium-to-large firms and Reckon Elite for smaller firms.  
+Xero  
+25. 
+Xero Limited (Xero) is an ASX-listed accounting software company which was 
+established in New Zealand in 2006. Xero products are now used in over 180 
+countries2. It supplies cloud based accounting software for small to medium 
+enterprises (SMEs) (the clients of accounting firms) and accounting firms.  
+26. 
+For accounting firms, Xero offers practice management, tax and accounting 
+modules, and also integrates with many third parties to offer access to a full suite 
+of modules required by accountants. The ACCC understands that Xero’s 
+practice management software is designed for small accounting firms, though it 
+is now used by a significant number of medium sized and larger accounting firms 
+either with third party modifications and/or through the acceptance of certain 
+functionality compromises.  
+CCH iFirm 
+27. 
+CCH Australia Limited (CCH) provides accounting practice software and is a 
+member of Wolters Kluwer, a global information services company 
+headquartered in the Netherlands. CCH offers CCH iFirm, a cloud-based 
+accounting practice software package for firms of all sizes, which comprises 
+practice management, client accounting, document management and tax 
+functionality modules. iFirm also integrates with some third party modules. 
+28. 
+The ACCC understands that only a limited number of larger firms use iFirm. 
+Others 
+29. 
+The other main practice management providers are: 
+                                                 
+ 
+2 Xero, https://www.xero.com/nz/about/media/factsheet/, viewed 9 February 2021. 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 6 of 13 
+• 
+Thomson Reuters, which supplies Software Assist (desktop) and Onvio 
+(cloud) practice management modules; 
+• 
+The Sage Group, which supplies HandiSoft. Sage recently announced the 
+sale of its businesses in Australia and Asia to The Access Group, a 
+provider of business management software to mid-size organisations3; and  
+• 
+Intuit Australia, which supplies QuickBooks Online Accountant.  
+30. 
+All three are part of larger global companies. The ACCC understands that these 
+firms’ products have generally been on the market for at least five years, have 
+always been aimed at small to medium sized firms, and we are not aware of 
+them being likely to target larger firms in the short term. 
+Industry overview 
+Needs of different accounting firms 
+31. 
+Different practice management software is aimed at accounting firms of different 
+sizes. Medium-to-large accounting firms tend to require that more sophisticated 
+features are incorporated in their practice management software than is the case 
+for smaller firms. This is a result of their more complex business structures and 
+processes, which is discussed in more detail in the market definition section 
+below. Reckon APS, MYOB AE and GreatSoft are all targeted at medium-to-
+large accounting firms. 
+32. 
+The largest few global accounting firms have built bespoke accounting software 
+systems using non-accounting specific enterprise resource products such as 
+SAP, Oracle, Microsoft Dynamics and Salesforce. 
+Industry trends – modularisation and move to the cloud 
+33. 
+Historically, most accounting practice software providers offered ‘closed’ product 
+suites that comprised all or most of the modules listed above. Firms tended to 
+purchase the entire suite or most modules from a single supplier, and these 
+modules typically did not integrate with third party suppliers’ modules. 
+34. 
+More recently, there has been an increase in specialist suppliers of specific 
+cloud-based modules that only offer one or a few of the functions listed above, 
+and some suppliers have opened or partially opened their software suites to 
+allow for integration with these third party modules. This has allowed accounting 
+firms to pick and choose the most suitable modules for their business needs, as 
+they often prefer the software supplied by these specialist suppliers over the 
+equivalent module in their older software suite.  
+35. 
+The incumbent suppliers to medium-to-large firms, MYOB and Reckon, have 
+generally not opened their software suites to integration with third party software. 
+Their customers typically have to either use a full suite of MYOB or Reckon’s 
+software, or settle for a mix of software that is not well integrated. 
+                                                 
+ 
+3Sage, Sale of Sage businesses in Asia and Australia, 23 December 2020, 
+https://www.sage.com/en-au/news/press-releases/2020/12/sale-of-sage-businesses-in-asia-
+and-australia/, viewed 9 February 2021. 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 7 of 13 
+36. 
+As GreatSoft only supplies practice management software, it integrates with 
+other third-party providers’ modules such as tax. Its product allows customers to 
+pick and choose between ‘best of breed’ third party software modules, and 
+market feedback indicates that it has been flexible with building new integrations 
+that its customers request. In effect, MYOB and Reckon customers who switch 
+to GreatSoft gain access to a much larger selection of software for their firms.  
+37. 
+GreatSoft’s model leaves it dependent on third party software providers. Its 
+product is only viable if it integrates with a tax module, and it is only attractive if it 
+integrates with a good range of third party software. This is discussed further 
+below.  
+38. 
+Firms are also moving from traditional desktop-based practice software to online 
+‘cloud’ software. This removes the need for physical on-site servers and 
+managing frequent software upgrades across many computers. Cloud-based 
+software integrates more readily with other cloud-based software, is accessible 
+from any browser, and is generally also built to be used on mobile devices.  
+39. 
+Market feedback indicates that accounting firms now have a strong preference to 
+switch to cloud-based products to enjoy these benefits.  
+40. 
+GreatSoft and Xero’s products are cloud-based, while Reckon and MYOB’s are 
+generally desktop-based. Firms using desktop software generally do not look to 
+switch to another desktop product: they are typically considering either staying 
+with their existing desktop software, or switching to one of the cloud-based 
+solutions. Accordingly, for medium-to-large accounting firms, the main options 
+for MYOB or Reckon users looking to move to the cloud are GreatSoft and Xero, 
+provided that GreatSoft can continue offering integration with an effective tax 
+module. The ACCC considers this is likely to be a strong driver of demand for 
+GreatSoft in future. 
+Previous ACCC decisions 
+MYOB’s proposed acquisition of Reckon Limited’s Accountant Group 
+41. 
+On 29 March 2018, the ACCC issued a Statement of Issues regarding MYOB’s 
+proposed acquisition of Reckon’s Accountant Group (in effect, Reckon APS and 
+Reckon Elite). The ACCC raised preliminary concerns that the proposed 
+acquisition would be likely to substantially lessen competition in the supply of 
+practice software to medium-to-large accounting firms. The ACCC found that 
+medium-to-large accounting firms require more sophisticated features from 
+practice software, and that MYOB and Reckon were generally considered to be 
+the only options available for those larger accounting firms. The ACCC 
+discontinued its investigation after MYOB announced the proposed acquisition 
+would not proceed. 
+Market definition 
+Whether supply to medium-to-large firms forms a distinct market 
+ 
+42. 
+The ACCC’s starting point for considering which markets will be affected by the 
+proposed acquisition is to identify the areas of overlap between the products 
+actually or potentially supplied by the merger parties. The ACCC then considers 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 8 of 13 
+other actual or potential suppliers of those products, as well as what other 
+products constitute sufficiently close substitutes to provide a significant source of 
+constraint on the merged entity. 
+43. 
+MYOB, through its MYOB AE product, overlaps with GreatSoft in the supply of 
+practice management software to medium-to-large accounting firms (those firms 
+with more than approximately 25 users, typically with multiple offices, but 
+excluding the largest, global, firms).  
+44. 
+Market feedback is that medium-to-large accounting firms have different 
+requirements to smaller firms due to their more complex structures and 
+processes. For instance, larger firms are more likely to comprise multiple legal 
+entities with multiple ABNs and be spread across multiple locations. Simpler 
+practice management software does not allow time recording, reporting or 
+invoicing by entity. Larger firms tend to require security features built into their 
+practice management software, to prevent unauthorised access to information 
+on certain files – these features are lacking in simpler practice management 
+software. Some providers service only one of these customer groups, while the 
+major providers that service both groups, MYOB and Reckon, supply separate 
+products for the two groups.  
+45. 
+The parties submit that there is an overall Australian market for the supply of 
+practice management software to firms of all sizes. This is because they 
+consider that firms of varying sizes tend to choose their practice management 
+software from amongst similar alternatives. In particular, Xero’s Practice 
+Manager (XPM), which was designed for small firms, has also been 
+implemented by a significant number of larger firms. However, the ACCC 
+understands that in such cases, the firms in question have needed to implement 
+technical workarounds (often assisted by third party consultants) and/or adapt to 
+compromises. Few medium-to-large firms have adopted XPM ‘out of the box’ in 
+the same way that smaller firms do. Conversely, while GreatSoft has attracted 
+significant interest from a number of medium-to-large firms, few small firms 
+appear to value the additional functionality GreatSoft offers. 
+46. 
+Accordingly, the ACCC’s preliminary view is that the relevant market comprises 
+the supply of practice management software to medium-to-large accounting 
+firms. This is consistent with the ACCC’s preliminary findings in its review of 
+MYOB’s proposed acquisition of Reckon’s Accountant Group in 2018. 
+Whether practice management is the appropriate product segment  
+47. 
+The ACCC is continuing to consider whether different modules within practice 
+software form separate product markets. Some firms offer a full suite of 
+accounting modules. However, recently there has been an increase in the supply 
+and uptake by accounting firms of individual cloud-based modules from different 
+suppliers. GreatSoft is an example of this, in that it only offers a practice 
+management module.  
+48. 
+During the MYOB / Reckon review in 2018, the ACCC found that a significant 
+number of firms acquire key modules of practice software from a single supplier, 
+rather than acquiring different modules from different suppliers. The ACCC 
+considered there was evidence that a suite of practice software comprising 
+different modules likely formed a single product market.  
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 9 of 13 
+49. 
+Given the change in market dynamics over the past three years however, the 
+ACCC’s current view is that there are likely separate markets for specific practice 
+software modules, including practice management modules. The 
+competitiveness of a firm with respect to a particular module is affected by its 
+ability to offer other modules, either on its own or through integration with a third 
+party. For instance, the ACCC understands it is vital for a practice management 
+module supplier to also offer or integrate with a tax module. 
+50. 
+The ACCC is also considering whether practice management will remain a 
+separate and distinct piece of software in the medium term. As the market 
+moves to a ‘mix-and-match’ approach to software, software modules often 
+overlap in functionality. Parts of the functionality of practice management 
+software are or can be provided by other software, for example client 
+management, time recording / invoicing and workflow management. Although it 
+appears almost all medium-to-large accounting firms currently use a practice 
+management module as the backbone of their practice software environment 
+and utilise most or all of its features, this may change over time, and along with it 
+the competitive dynamics of these markets. 
+Whether desktop and cloud-based software form separate markets 
+51. 
+Desktop and cloud-based practice management software largely offer the same 
+functionality. However, the accessibility and interoperability of cloud software is 
+driving an industry transition, and the majority of firms consider that cloud-based 
+software is substitutable for desktop-based software.  
+52. 
+The ACCC considers that as the industry is in transition and the majority of 
+accounting firms still use desktop-based software, competitive tension still exists 
+between the categories of software. As such, the ACCC’s preliminary view is that 
+a single market involving both cloud-based and desk-top based practice 
+management software remains appropriate, although this may change in the 
+medium to long term.   
+The ACCC invites comments from market participants on its preliminary views about 
+the definition of the relevant market. In particular, market participants may wish to 
+comment on: 
+• 
+whether a separate market exists for practice management software for medium-
+to-large accounting firms, or if there is a broader market for such software which 
+encompasses all sizes of accounting firms 
+• 
+whether different modules in practice software form separate product markets, and 
+• 
+whether desktop and cloud-based software form different markets. 
+Issue that may raise concern: Removal of a new 
+competitor in the supply of practice management software 
+to medium-to-large accounting firms 
+53. 
+The ACCC’s preliminary view is that the proposed acquisition may substantially 
+lessen competition in the supply of practice management software to medium-to-
+large accounting firms, as GreatSoft is a new entrant that may be poised to 
+expand its presence in the market. If the acquisition goes ahead, only two 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 10 of 13 
+remaining products (Reckon’s APS and XPM) would provide a moderate or close 
+constraint on the merger parties.   
+Loss of competition  
+54. 
+Based on the information currently available, the ACCC considers that MYOB 
+and GreatSoft compete closely in the supply of practice management software to 
+medium-to-large accounting firms. The only other product that is directly targeted 
+at these customers is Reckon’s APS solution. The ACCC has received feedback 
+that GreatSoft’s functionality is similar to MYOB AE and Reckon APS, and in 
+contrast to those suppliers, its product is cloud-based, which opens up 
+integrations with superior third party software modules and that it provides 
+superior customer service. Market feedback is that GreatSoft is a viable choice 
+for larger accounting firms that want to transition to the cloud.  
+55. 
+GreatSoft only has a minimal market share at present and the proposed 
+acquisition will result in a negligible immediate aggregation of market shares. 
+However, GreatSoft only officially launched in Australia in September 2019, and 
+new entrants must invest significant time to convince large, sophisticated and 
+risk-averse accounting firms to switch to a new-to-market product. 
+56. 
+The ACCC considers that GreatSoft already poses a competitive threat, and is 
+investigating whether it has potential to grow significantly larger. Market 
+feedback is that many firms are watching with interest how well GreatSoft works 
+for its flagship customers, and may be prepared to switch once its software is 
+successfully implemented by the early adopters. GreatSoft’s customer 
+acquisition has been hampered by COVID shifting customer attention to 
+contingency planning rather than software upgrades, and customer uncertainty 
+over the proposed acquisition and this ACCC process. Absent the acquisition, 
+the ACCC is of the view that GreatSoft will acquire more customers as these 
+factors ameliorate.  
+57. 
+The ACCC continues to consider whether absent the acquisition, GreatSoft is 
+likely to win enough customers over the short to medium term to become an 
+effective competitor. Separately, the ACCC understands that because GreatSoft 
+only offers a practice management solution, it is crucial for it to integrate with 
+other modules, and in particular, a credible tax module, to be commercially 
+viable. The ACCC is therefore investigating whether GreatSoft’s ongoing 
+reliance on third parties, some of which are competitors, may slow its growth. 
+The ACCC is keen to better understand GreatSoft’s ability to compete as a 
+stand-alone practice management solution and what its options would be without 
+the acquisition.  
+58. 
+The ACCC is concerned that the proposed acquisition of GreatSoft may 
+represent the removal of a potentially strong competitor, which may result in 
+increased prices (or a slower decline in prices), a reduction in customer service, 
+or a reduction in investment in product innovation. 
+Level of constraint on the merged entity from Xero 
+59. 
+The ACCC has received mixed feedback about XPM’s ability to satisfy the needs 
+of larger firms. Some market participants advised that XPM does not provide the 
+range of features they require, such as inability to handle multiple-entity 
+structures, inadequate security and profile settings and reporting capabilities, 
+and that Xero makes minimal effort to attract larger firms to XPM.  
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 11 of 13 
+60. 
+Nevertheless, XPM does supply practice management software to some 
+medium-to-large firms, who either accept its limitations or invest in bespoke IT 
+work to expand its functionality. XPM has likely attracted medium-to-large firms 
+because: 
+• 
+it is cloud-based and integrates well with its attractive tax and accounting 
+modules, as well as a good range of third party modules; 
+• 
+with bespoke IT extensions, the features it lacks for larger firms can be 
+partially or fully implemented; and 
+• 
+until GreatSoft’s entry, Xero had been the primary cloud-based product 
+option for accounting firms. 
+61. 
+Accordingly, despite XPM not being designed for medium to larger firms, the 
+ACCC considers that Xero provides at least a moderate level of constraint to the 
+merger parties in the relevant market.  
+Level of constraint on the merged entity from alternative competitors 
+62. 
+The ACCC understands that while there are other practice management 
+solutions available, these are rarely used by medium-to-large firms. 
+Nevertheless, the ACCC continues to consider the level of competitive constraint 
+alternative competitors are likely to place on the merger parties in the future.  
+63. 
+There are several international providers of accounting specific cloud practice 
+management in Australia, including CCH Wolters Kluwer, Thomson Reuters, 
+Intuit Quickbooks and Sage. The ACCC’s current understanding is that with the 
+exception of CCH, these firms’ solutions have always been aimed at smaller 
+firms, and they have almost no customers that are large firms. CCH’s iFirm is 
+designed for firms of all sizes, including medium-to-large firms. However, we 
+understand that it is only used by limited numbers of medium-to-large firms, and 
+provides a limited competitive constraint on the main providers. 
+In-house solutions 
+64. 
+Some of the largest accounting firms build or have considered building bespoke 
+accounting software systems using enterprise resourcing or customer 
+relationship management products like Microsoft Dynamics, Salesforce and 
+SAP. These products are not accounting-specific, and market feedback indicates 
+these systems require custom design and development (and all the IT risks that 
+approach entails), separate negotiation with third party module providers for 
+integration, and cost significantly more than off-the-shelf products (such as 
+MYOB AE or Reckon APS). However, the ACCC understands prices appear to 
+be falling in recent years. 
+65. 
+Market feedback has indicated that in several cases, to the extent that bespoke 
+software based on these systems have been implemented by accounting firms, it 
+is to handle customer relationship management only, and it integrates into the 
+firm’s practice management software (generally, APS or AE).  
+66. 
+Additionally, outside of very large firms, accounting firms generally appear 
+reluctant to take on the IT risk of developing bespoke software, and strongly 
+prefer software that was designed for them. 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 12 of 13 
+67. 
+The ACCC’s current view is that enterprise resourcing products are not close 
+substitutes for the merger parties’ products.  
+Likelihood of new entry and/or expansion 
+68. 
+The ACCC’s current understanding is that barriers to entry or expansion into the 
+supply of practice management software to accounting firms are substantial. 
+There are a range of factors that can make entry or expansion difficult. 
+69. 
+When considering functionality, practice management software is generic in the 
+sense that there are many software solutions designed for many professional 
+services industries internationally that handle client management, billing, 
+workflows, etc. Market feedback, particularly from software providers, is that 
+these solutions could be adopted for the Australian accounting firms fairly 
+readily. However, history and the parties’ own experience has shown that there 
+are technical and commercial challenges in successfully developing and 
+launching a product for this market.  
+70. 
+At the technical or functional level, in the course of this review and the 2018 
+MYOB/Reckon review, the ACCC is aware of several examples of unsuccessful 
+product development in this market. One of the key reasons why suppliers have 
+only achieved limited success is their software often requires accounting firms to 
+substantially change the way they work.  
+71. 
+The historical incumbents, MYOB and Reckon, still do not appear to have cloud-
+based replacements for their AE and APS products despite several years of 
+market transition towards the cloud. The ACCC considers this is an indication 
+that product development is difficult, even for established suppliers. 
+72. 
+Software suppliers would also not be able to enter Australia with only a practice 
+management solution that did not integrate with an effective third party tax 
+module. Therefore, potential suppliers would either need to find a tax module 
+partner, or develop their own tax module, which the ACCC understands would 
+involve significant investment of time and resources to develop. 
+73. 
+At a commercial level, a key hurdle for software suppliers is to gain the trust and 
+confidence of accounting firms. It takes significant time and resources to switch 
+accounting software, including costs related to data conversion, retraining staff 
+and business disruption. The ACCC understands that accounting firms are 
+hesitant to switch software unless a supplier can prove it has a reliable track 
+record. Software suppliers therefore need to invest significant resources in 
+marketing and need to gain some key customers to demonstrate to the industry 
+that their product works well.  
+74. 
+The ACCC considers that with a history of successful operation in South Africa 
+and two years after commencing Australian operations, GreatSoft has now 
+largely overcome the technical hurdles and may be well placed to overcome the 
+commercial hurdles. GreatSoft is particularly well placed to market to its 
+customer base as its leadership team is well known to Australian firms. It would 
+take another new entrant at least the same amount of time to replicate 
+GreatSoft’s limited market position. 
+The ACCC invites comments from market participants on its concerns in relation to the 
+above issues. In particular, market participants may wish to comment on the following: 
+
+
+MYOB – proposed acquisition of GreatSoft 
+ 
+Page 13 of 13 
+• 
+absent the acquisition, the likelihood of GreatSoft growing into a strong competitor 
+and the circumstances in which that may occur  
+• 
+absent the acquisition, the range of third party software that GreatSoft is likely to 
+secure integration with, and whether it will be able to offer a commercially attractive 
+range to customers 
+• 
+the likelihood of new cloud-based practice management products that are being 
+developed or which have just launched being suitable for use by medium-to-large 
+accounting firms in the short to medium term 
+• 
+the extent to which enterprise resource products will become increasingly viable 
+options for medium-to-large accounting firms in the short to medium term, and 
+• 
+the likelihood of new entry and supply of practice management software to 
+medium-to-large firms in the next two years. 
+ACCC's future steps 
+75. 
+The ACCC invites submissions from market participants on each of the issues 
+identified in this Statement of Issues and on any other issue that may be relevant 
+to the ACCC's assessment of this matter. Submissions should be emailed to 
+mergers@accc.gov.au by no later than 5 March 2021. 
+76. 
+The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+77. 
+The ACCC intends to publicly announce its final view by 22 April 2021. However 
+the anticipated timeline may change in line with the Informal Merger Review 
+Process Guidelines. A Public Competition Assessment explaining the ACCC's 
+final view may be published following the ACCC's public announcement. 
+ 
+ 

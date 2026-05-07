@@ -1,0 +1,44 @@
+{
+  "id": "0369",
+  "title": "AGL Energy Limited - proposed acquisition of Australian Power and Gas Company Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-proposed-acquisition-of-australian-power-and-gas-company-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51756",
+  "industries": [
+    "Gas and electricity retailing"
+  ],
+  "date_completed": "12 September 2013",
+  "date_completed_iso": "2013-09-12T12:00:00Z",
+  "date_commenced": "15 July 2013",
+  "date_commenced_iso": "2013-07-15T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "Australian Power and Gas Company Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jul 2013",
+      "date_iso": "2013-07-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 Aug 2013",
+      "date_iso": "2013-08-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Sep 2013",
+      "date_iso": "2013-09-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL Energy Limited (AGL) proposed to acquire Australian Power and Gas Company Limited (APG).",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of state-based markets (in Victoria, NSW and Queensland) for: i. the retail supply of electricity to residential and small business customers; ii. the retail supply of gas to residential and small business customers; iii. the wholesale acquisition of electricity (including entry into associated risk management arrangements); and iv. the wholesale acquisition of gas and gas transportation (including entry into associated risk management arrangements). The ACCC recognised that competitive effects on a wider geographic basis (such as NEM-wide) may be relevant for other acquisitions.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any relevant market. Factors informing this view included: i. in Victoria, the merged entity would continue to face a competitive constraint from first tier retailers and a sufficient number of second tier energy retailers; ii. the removal of APG as an independent retailer was not likely to reduce the overall competitiveness of the relevant retail markets in Victoria, NSW or Queensland; and iii. the proposed acquisition was not likely to have a material impact in markets for the wholesale acquisition of electricity or gas, since there would be minimal increase to the level of vertical integration. The ACCC found that second tier retailers drive competition in price and non-price aspects of their offerings disproportionately to their market shares and that the collective presence of a sufficient number of second tier retailers is a key competitive constraint upon first tier retailers in retail energy markets, particularly in Victoria which has experienced a higher degree of new entry in recent years."
+  }
+}

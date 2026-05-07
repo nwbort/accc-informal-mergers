@@ -1,0 +1,431 @@
+Australian
+Competition &
+Consumer
+Commission
+31 January 2007
+Statement of Issues — Transurban Group's proposed
+acquisition of Sydney Roads Group
+1.
+Outlined below is the Statement of Issues released by the Australian
+Competition and Consumer Commission (ACCC) in relation to the proposed
+acquisition of Sydney Roads Group (SRG) by Transurban Group (Transurban)
+(the proposed acquisition).
+2.
+A Statement of Issues published by the ACCC is not a final decision about a
+proposed acquisition, but provides the ACCC's preliminary views, drawing
+attention to particular issues of varying degrees of competition concern, as well
+as identifying the lines of further inquiry that the ACCC wishes to undertake.
+3.
+In line with the ACCC's Merger Review Process Guidelines (available on the
+ACCC's website at www.accc.gov.au), the ACCC has established and will
+maintain an indicative timeline for its assessment of the proposed acquisition.
+The indicative timeline can change in line with the Merger Review Process
+Guidelines. To keep abreast of possible changes in relation to timing and to find
+any relevant documents, market participants should visit the Mergers Register
+on the ACCC's website at www.acce.gov.au/mergersregister.
+4.
+A Statement of Issues provides an opportunity for all interested parties
+(including customers, competitors, shareholders and other stakeholders) to
+ascertain and consider the primary issues identified by the ACCC. It is also
+intended to provide the merger parties and other interested parties with the basis
+for making further submissions should they consider it necessary.
+Background
+5.
+The proposed acquisition was publicly announced by Transurban on
+14 December 2006. In December 2006, Transurban provided its submission
+seeking the ACCC's view on an informal basis.
+The parties
+Transurban
+6.
+Transurban is an international tollroad developer and investor with assets in
+Australia and an asset in the U.S. (Pocahontas Parkway). The company focuses
+1
+
+
+on the long-term ownership and management of tollroads and in particular,
+electronic tollroads.
+7.
+Transurban has ownership interests in three of Australia's tollroads; Citylink
+Melbourne (Citylink) (100%), Westlink M7 (M7) (47.5%) in Sydney and the
+M2 Motorway (M2) (100% ownership after an acquisition from the Hills Road
+Group in 2005) in Sydney.
+8.
+Transurban, or its related entities, are the electronic tolling services provider
+(tag issuer) to the tollroad owners of Citylink, the M7 and the M2 employing
+the following brands: Roam (M7), Roam Express (M2) and Citylink (Citylink).
+In addition, Transurban has entered into a long term contract to supply tolling
+product services (excluding 'back office' facilities) to the owner and operator of
+the Lane Cove Tunnel.
+SRG
+9.
+SRG was established through the demerger of Macquarie Infrastructure Group
+and was listed on the Australian Stock Exchange in July 2006. SRG is a
+holding entity with ownership interests in three established Sydney tollroads
+namely the Ml Eastern Distributor (Ml) (71.35%), M5 Motorway (M5) (50%)
+and M4 Motorway (M4) (50.61%).1
+10.
+The entity that operates the M5, Interlink Roads Pty Ltd (Interlink), currently
+provides electronic tolling services to the three tollroads in which SRG holds
+an interest (namely the Ml, M4 and M5). As a result, SRG has a 50% interest
+in the Interlink tag issuing business.
+The Transaction
+Commercial rationale
+11.
+Transurban has stated that the proposed acquisition will allow it to add value to
+SRG by utilising Transurban's tollroad management expertise to improve
+customer service, increase traffic volumes and lower operating costs.
+Transurban submits that it will work with SRG's partners in tollroad
+concessions to investigate consolidated tolling operations amongst other
+things. 2 However, the time frame and details as to how these measures may be
+implemented is not clear.
+I According to information obtained by Transurban from ASIC registries and SRG's public prospectus,
+the minority shareholders in each of the tollroads that SRG holds an interest in are:
+n
+MI: National Nominees Ltd (10%), J.P. Morgan Nominees Ltd (7.5%), National Asset
+Management Ltd (6.15%) and Motor Trades Association of Australia Ltd (5%).
+n
+M4: Utilities of Australia Ltd (10.27%), National Nominees Ltd (9.81%), Karatal Holdings
+Pty Ltd (9.51%), J.P. Morgan Nominees Ltd (8.6%), Australia Infrastructure Fund Limited
+(6.25%) and Hastings Fund Management Ltd (4.95%).
+n
+M5: J.P. Morgan Nominees Ltd (19.8%), Utilities of Australia Pty Ltd (19.2%), Cogent
+Nominees Pty Ltd (8.2%) and National Nominees Ltd (2.8%).
+2 SRG and Transurban Joint ASX Release dated 14 December 2006.
+2
+
+
+Industry background
+Tollroad construction and ownership
+12.
+When the Federal or State government decides to build a new road under a
+Public Private Partnership3 (PPP) model, an open tender process is run. The
+successful bidder enters into a formal agreement (Project Deed) with the
+government to build, own, operate and, usually, transfer the ownership of the
+road back to the government at the end of a defined period. 4 All operating costs
+are met by the tollroad owner over this period.
+13.
+In the case of a PPP tollroad, the tollroad will need to provide a financial return
+to repay costs incurred through the project. This typically comes from an
+entitlement in the concession granted by the government for the private owner
+to charge motorists a toll for use of the tollroad. The owner of the road is
+responsible for collecting the tolls and operating and maintaining the tollroad as
+well as for the electronic tolling systems which are used to track use of the road
+by motorists.
+14.
+Bidding for tenders is typically done by way of consortia that cover all aspects
+of the project including construction, financial advice, debt provision, road
+maintenance/operations, tolling operations and tag issuing. Transurban submits
+that a tendering consortium will bid a price that enables it to offer the lowest toll
+which will need to be charged in order to repay money borrowed and provide a
+suitable return on equity contributed. In some circumstances the government
+may establish the toll price and ask tendering consortia to bid against it.
+Toll pricing and electronic tolling
+15.
+All NSW tollroad owners are subject to regulation in relation to the toll prices
+motorists pay to use the tollroads. The Project Deed that each road owner has
+with the Roads and Traffic Authority (RTA) or the NSW Government sets the
+level of tolls. Transurban submits that these agreements limit the ability of
+tollroad owners to increase tolls or offer differential pricing except with the
+consent of the RTA and/or Government.
+16.
+Traditionally, tolls in NSW have been collected in cash at toll booths. However,
+the last five years has seen the introduction of non-cash collection of tolls using
+electronic tags and more recently electronic passes. In NSW, with the exception
+3 According to Transurban, in making decisions regarding construction of a new road the relevant
+government can choose that the road:
+n
+be publicly owned and funded (eg. Pacific Highway and M5 East);
+n
+be publicly owned with a toll (eg. Sydney Harbour Bridge); or
+n
+involve private ownership, construction and operation (at least for a time) under some kind of
+Public Private Partnership (eg. Cross City Tunnel and Lane Cove Tunnel).
+Transurban suggests that the following new roads may be built in the future:
+n
+F3/M2
+n
+M4 East
+n
+Brisbane Airport Link
+4 Such projects are generally referred to as BOOT Schemes.
+3
+
+
+of the Lane Cove Tunnel, all tollroad operators also supply (through related
+companies) electronic tags to tollroad users.
+17.
+Transurban submits that in NSW the RTA 5 and Interlink6 each have an
+approximately 40% share of the total electronic tags issued to motorists,
+Transurban7 has an approximate 20% share and the Cross City Tunnel has a
+very small share.8
+18.
+While the tollroad operators are not permitted to charge any more than the
+mandated toll when collecting by cash or by tag, in the case of electronic toll
+collection:
+n a tag issuer may charge administration fees to the users of its tags (subject
+to RTA approval); and
+n in the case of non-tag electronic toll collection, tollroad owners are
+permitted to charge an administration fee on top of the toll to recover the
+costs of collecting the toll. These non-tag electronic tolling products are
+known as 'passes'.
+Interoperability, Roaming Agreements and Roaming Fees
+19.
+The RTA is responsible for, amongst other things, managing the NSW road
+network. The RTA has established technical standards for tollroads to ensure
+that road users can use the electronic tag of their choice on any Australian
+tollroad. This means that all tollroads and tag products are `interoperable', such
+that a road owner is unable to force road users to use a particular tag on their
+road. There are currently tollroads operating in Victoria, NSW and Queensland,
+all of which comply with the requirements of interoperability.
+20.
+Interoperability is governed by a Memorandum of Understanding (MOU)
+between all tollroad owners nationally, including the RTA, under which tollroad
+owners are required to enter into 'roaming agreements'. Roaming agreements
+are bilateral agreements between each tollroad owner and each tag issuer which
+provide for the interoperability of tags on all tollroads.
+21.
+Pursuant to the MOU, tollroad owners and tag issuers negotiate 'roaming fees'
+that are the subject of roaming agreements. Every time a motorist uses a tag to
+pay the toll on a tollroad the motorist's tag issuer collects the toll and pays this
+to the tollroad owner, less the negotiated 'roaming fee'.
+22.
+Where the tollroad owner and the tag issuer are part of the same group of
+companies, then the roaming fee for toll collection is simply an internal transfer
+cost. However, where the tollroad owner and the tag issuer are from separate
+unrelated companies then the roaming fee is charged to the tollroad owner by
+the tag issuer.
+5 The RTA is the tag issuer for the Sydney Harbour Bridge and Sydney Harbour Tunnel (E-toll).
+6 As set out above, Interlink is the tag issuer for the Ml, M4 and M5 (E-way).
+7 As set out above, Transurban is the tag issuer for the M2 and M7 (Roam, Roam Express).
+8 The Cross City Tunnel is the tag issuer for the Cross City Tunnel (Beep).
+4
+
+
+23.
+There is no regulation of the amount of the roaming fees for tollroads in NSW,
+Victoria or Queensland. 10 The roaming fee which is charged cannot be passed
+onto the motorist and is therefore a cost to the tollroad owner.
+Market inquiries
+24.
+On 14 December 2006 the ACCC commenced market inquiries regarding the
+proposed acquisition with a range of interested parties including other tag
+issuers, providers of tolling services, tollroad owners, construction companies,
+financial advisers, debt-providers, road maintenance and operations providers
+and industry associations.
+Statement of issues
+25.
+For the purpose of this Statement of Issues, the issues in this matter are divided
+into three categories: 'issues of concern', 'issues that may raise concerns' and
+`issues unlikely to pose concerns'. The ACCC is seeking comments from
+market participants including the RTA in relation to all issues.
+Issues of concern
+Likely effect on competition for tollroad construction and ownership
+26.
+The requirement of interoperability compels tollroad owners to negotiate
+bilateral agreements with each tag issuer so tollroads do not reject otherwise
+valid electronic tags. To date these negotiations amongst industry participants in
+NSW have been reasonably balanced by the fact that almost all tollroad owners
+had tag issuing businesses and tags were spread relatively evenly between
+providers.
+27.
+However, a new tollroad owner (that does not have an established tag base) may
+be at a disadvantage due to the existing high level of electronic tag penetration
+among motorists in the Sydney metropolitan area. It is unlikely that a new
+tollroad owner would be able to issue tags to the large number of motorists that
+already have an electronic tag. Consequently, it is likely that a new tollroad
+owner would need to pay roaming fees to other tag issuers in order to collect toll
+revenue. The extent to which a new tollroad owner would have to rely on
+roaming fee arrangements would depend upon the location to the new tollroad
+and the extent of existing tag penetration in that area.
+28.
+To the extent that a major tag issuer has the ability to increase roaming fees
+disproportionately to costs, this could impact upon competition with respect to
+tollroad construction and ownership. Roaming fees are likely to represent a
+I ° However, the Mitcham-Frankston Freeway Concession Deed between the Victorian Government
+this tollroad owner provides that roaming fees reflect the net incremental marginal cost of providing the
+roaming service (section 33.9). However, Transurban is not presently bound by this as the Melbourne
+CityLink Project Deed was effected prior to this contractual regulation.
+5
+
+
+small but material cost to a consortium bidding for a tollroad project. The
+inclusion of a major tag issuer in a bidding consortium could affect the
+competitive bidding process for new tollroads in at least two ways.
+29.
+Firstly, a bidding consortium which did not include the major tag issuer would
+have to build a premium into any future bids for tollroads to cover the cost of
+high roaming fees. This could increase their bid above competitive levels whilst
+a major tag issuer could align itself with a particular consortium and provide it
+with reduced exposure to the cost of roaming arrangements.
+30.
+Secondly, the inclusion of a major tag issuer in a bidding consortium could
+create such uncertainty as to overall costs that potential competing bidding
+consortia, which did not include the major tag issuer, could be significantly
+deterred or foreclosed from participating in the tender process for new tollroads.
+31.
+Higher roaming fees would have effects on the development of future tollroads
+by raising costs to government (when awarding new tenders) and possibly road
+users (through higher tolls on future tollroads).
+32.
+Transurban submits that operational costs such as roaming fees are not a
+significant factor in determining toll prices or bids by consortia for new tollroad
+projects. It submits that the major considerations in determining toll prices are
+traffic forecasts, construction costs, length of concession and cost of capital.
+33.
+More generally, Transurban submits that given that SRG only has a 50%
+interest in Interlink and due to the control structure of Interlink (under which a
+Board resolution would require the consent of 85% of shareholders), the
+proposed acquisition would not give Transurban effective control of the Board
+of Interlink and in turn the tag accounts issued by Interlink.
+Invitation for further information —tollroad construction and ownership
+34.
+The ACCC invites information and views from the RTA and other interested
+parties on:
+n
+whether and how the merged entity's 50% share in Interlink would enable
+the merged entity to exercise control over tag issuing by Interlink and
+potentially increase roaming fees above competitive levels;
+n
+whether and how any ability of the merged entity and Interlink to
+significantly control roaming fees could create such uncertainty as to
+overall costs that potential competing bidding consortia, which did not
+include the major tag issuer, would be significantly foreclosed from
+participating in the tender process for new tollroads;
+n
+whether and how any ability of the merged entity and Interlink to
+significantly control roaming fees could cause a bidding consortium,
+which did not include the major tag issuer, to build a premium into any
+bids for new tollroad projects to cover the cost of high roaming fees, and
+thereby increase their bid above competitive levels; and
+6
+
+
+n
+whether Transurban might be a party to multiple consortia bidding for a
+particular new tollroad project and, if so, whether and how this would
+maintain credible independent competition in new tollroad bidding
+processes.
+Issues that may pose concerns
+Likely effect on competition for supply of electronic toll services to motorists
+Possible effect of higher roaming_fees on competition between tag issuers
+35.
+Market inquiries also indicated concerns that the merged entity and Interlink
+may use its position to increase roaming fees to tollroad owners both in NSW
+and interstate.
+36.
+An advantage in winning new tollroad projects could result in an increase in
+Transurban's tag base through the issuing of additional tags to motorists seeking
+to use the new tollroad. This could further boost Transurban's position as a tag
+issuer and potentially provide a further ability in increasing roaming fees. Over
+time, this increase to the cost base of other tollroad owners and decreasing tag
+penetration relative to Transurban may weaken the tag issuing businesses of
+Transurban's competitors, potentially limiting their ability to compete in terms
+of prices and marketing in the issuing of tags to motorists or causing a move
+away from providing in-house tag issuing services.
+37.
+Transurban's submissions in this regard include that roaming fees are governed
+by bilateral roaming agreements and it could not change the fee unilaterally
+under the terms of these existing agreements.
+Invitation for further information
+38.
+The ACCC is seeking views and information from the RTA and other interested
+parties on:
+n the extent to which there is contestability in relation to the services that are
+the subject of bilateral roaming agreements given that interoperability must
+be achieved through bilateral roaming agreements between specific tag
+issuers and tollroad owners;
+n the extent to which, under the terms of existing bilateral roaming
+agreements, existing roaming fees would prevail in the event of a fee dispute
+and whether this would act as a constraint on pricing of roaming fees by the
+merged entity;
+n whether the RTA provides a benchmark for roaming fees and how this is
+achieved;
+n whether the RTA's regulatory role would act as an indirect competitive
+constraint on the merged entity's ability to increase roaming fees above
+competitive levels and how this would be achieved, for example, due to:
+7
+
+
+n the RTA's involvement in authorising decisions relating to all NSW
+tollroads (including for example road widening, signage and marketing
+material); and
+n the RTA's involvement in awarding new tollroad concessions.
+n the extent that the merged entity could increase roaming fees and the likely
+effect on tag issuing services to motorists as a result of the increased costs
+incurred by the tollroad owner (for example, a move away from providing
+in-house tag issuing services or limiting their ability to compete in terms of
+prices and marketing in the issuing of tags to motorists); and
+n whether there is the potential for new entry to the provision of electronic tag
+services to motorists by entities that do not have tollroad operation.
+Possible effect on administration fees to motorists
+39.
+Given the merged entity and Interlink's shares of electronic tags post
+acquisition, the ACCC may be concerned if the merged entity and Interlink had
+the ability and incentive to exercise market power by either raising
+administration fees charged to its tag holders above competitive levels or by
+lowering the level of services provided to motorists.
+40.
+Transurban submits that:
+n the RTA requires a `fee-free' tag account to be provided, being a prepaid
+account with automatic top-up linked to a bank account and having no
+administration fees;
+n only additional services requested by a tag account holder may be charged for
+and that the charges must be cost recovery only in nature and be determined in
+consultation with the RTA; and
+n the merged entity and Interlink will continue to face strong competition from
+the RTA and other tag issuers so that any unreasonable fee increase would
+result in motorists switching to a competitor.
+Invitation for further information
+41. The ACCC is seeking views and information from the RTA and other interested
+parties on:
+n the extent to which the RTA imposes a compulsory requirement for tag
+issuers to provide motorists with a fee-free account and whether this
+regulation would constrain the merged entity from increasing administration
+and account fees to motorists;
+n the extent to which charges for additional services to motorists are regulated
+by the RTA and could not be increased by the merged entity; and
+n the ability and incentive for motorists to switch to alternative tag issuers
+including the RTA, and whether this would provide an effective competitive
+constraint on administration and account fees charged to motorists by the
+merged entity.
+8
+
+
+Issues unlikely to pose concerns
+Likely effect on competition for tolling services to tollroads
+42.
+The ACCC has considered whether the proposed acquisition could impact upon
+the provision of tolling services to tollroads (comprising physical and electronic
+toll collection and customer service and complaint handling functions).
+Transurban and SRG currently provide these functions for the tollroads that they
+have interests in and Transurban has agreed to provide these functions on a third
+party basis to the Lane Cove Tunnel.
+43.
+It appears that while there are third party providers with respect to these
+functions, the functions are primarily provided by tollroad owners on an in-
+house basis. Further, it does not appear the proposed acquisition would reduce
+competition or increase barriers to entry in the provision of tollroad services to
+tollroads.
+44.
+As a result, it appears unlikely that the proposed acquisition would adversely
+impact on competition for tolling services to tollroads.
+ACCC's future steps
+45.
+The ACCC will finalise and publicly announce its view on this matter after it
+considers market responses invited by this Statement of Issues.
+46.
+The ACCC now seeks submissions from the RTA and industry participants on
+each of the issues identified in this Statement of Issues and on any other issue
+that may be relevant to the ACCC's assessment of this matter.
+47.
+Submissions are to be received by the ACCC no later than
+Monday 12 February 2007. The ACCC will consider the submissions received
+from the market and the merger parties in light of the issues that are identified
+above and will, in conjunction with information and submissions already
+provided by the merger parties, come to a final view as to the appropriate course
+of action to take to resolve any competition concerns that remain.
+48.
+A Public Competition Assessment for the purpose of explaining the ACCC's
+final view on the proposed acquisition may be published following the ACCC's
+public announcement of its view.
+9

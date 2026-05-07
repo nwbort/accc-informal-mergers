@@ -1,0 +1,54 @@
+{
+  "id": "0394",
+  "title": "Pact Group Pty Ltd - completed acquisition of Sunrise Plastics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-completed-acquisition-of-sunrise-plastics-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50522",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "2 April 2013",
+  "date_completed_iso": "2013-04-02T12:00:00Z",
+  "date_commenced": "17 January 2013",
+  "date_commenced_iso": "2013-01-17T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Sunrise Plastics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jan 2013",
+      "date_iso": "2013-01-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Feb 2013",
+      "date_iso": "2013-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Feb 2013",
+      "date_iso": "2013-02-20T12:00:00Z",
+      "event": "ACCC requested further information from Pact. ACCC timeline suspended."
+    },
+    {
+      "date": "12 Mar 2013",
+      "date_iso": "2013-03-12T12:00:00Z",
+      "event": "ACCC received further information from Pact. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Apr 2013",
+      "date_iso": "2013-04-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group Pty Ltd acquired Sunrise Plastics Pty Ltd on 30 November 2012.",
+    "Market definition": "The ACCC primarily considered the effect of the acquisition on the national market for the supply of thin-walled plastic food containers up to approximately 5L capacity manufactured using injection moulding (IM food containers).",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to substantially lessen competition in the national market for the supply of IM food containers for the following reasons: - a number of competitors remained post acquisition; - Sunrise was not a particularly vigorous or effective competitor; - the threat of entry and/or expansion would act as a constraint on Pact; and - imports of IM food containers may be a likely alternative for at least some customers. The ACCC considered the acquisition would not have any material effect on the acquisition of in-mould labels. The ACCC investigated whether the acquisition gave rise to concerns that Pact could anti-competitively bundle or tie products across its various packaging businesses. The ACCC considered that Pact's ability and incentive to engage in such behaviour was not significantly changed by the acquisition."
+  }
+}

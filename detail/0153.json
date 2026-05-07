@@ -1,0 +1,49 @@
+{
+  "id": "0153",
+  "title": "Ventia Services Group Pty Ltd - Ferrovial Services Australia Pty Ltd (Broadspectrum)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ventia-services-group-pty-ltd-ferrovial-services-australia-pty-ltd-broadspectrum",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Operation and maintenance - property services"
+  ],
+  "date_completed": "23 April 2020",
+  "date_completed_iso": "2020-04-23T12:00:00Z",
+  "date_commenced": "3 March 2020",
+  "date_commenced_iso": "2020-03-03T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Ventia Services Group Pty Ltd"
+  ],
+  "targets": [
+    "Ferrovial Services Australia Pty Ltd (Broadspectrum)"
+  ],
+  "timeline": [
+    {
+      "date": "3 Mar 2020",
+      "date_iso": "2020-03-03T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Apr 2020",
+      "date_iso": "2020-04-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Apr 2020",
+      "date_iso": "2020-04-21T12:00:00Z",
+      "event": "Former decision date (28 May 2020) brought forward to 23 April 2020."
+    },
+    {
+      "date": "23 Apr 2020",
+      "date_iso": "2020-04-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ventia Services Group Pty Ltd ( Ventia ) proposes to acquire Ferrovial Services Australia Pty Ltd ( Broadspectrum ). Ventia is a 50:50 partnership between an affiliate of Apollo Global Management, LLC and CIMIC Group Limited. Ventia and Broadspectrum provide infrastructure services across a range of industries in Australia, including design and construction (D&C), operation and maintenance (O&M) and facilities management (FM) services.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in Australia for the: Broader market for the supply of infrastructure services. Narrower markets for the supply of each of design and construction, operation and maintenance, and facilities management services. The ACCC did not reach a concluded view on market definition as it was not necessary for our competition assessment.",
+    "Competition analysis": "The ACCC assessed whether a combined Ventia and Broadspectrum could reduce competitive tension in the supply of specific types of infrastructure services, such that it could lead to a likely substantial lessening of competition in relevant markets. Based on the results from its market inquiries and other information available to it, the ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market because: Ventia and Broadspectrum generally offer differentiated services, with minimal overlap in a number of industries including defence, justice, education, social housing, oil and gas, environmental consulting and real estate. In industries where there is an overlap and both parties directly compete by providing similar services, we understand that the merged entity would continue to face competition from alternative suppliers, including from both industry specialised service providers and large diversified infrastructure services providers."
+  }
+}

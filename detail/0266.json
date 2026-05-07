@@ -1,0 +1,73 @@
+{
+  "id": "0266",
+  "title": "Anheuser-Busch InBev - proposed acquisition of SABMiller plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/anheuser-busch-inbev-proposed-acquisition-of-sabmiller-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58751",
+  "industries": [
+    "Beer"
+  ],
+  "date_completed": "5 May 2016",
+  "date_completed_iso": "2016-05-05T12:00:00Z",
+  "date_commenced": "18 January 2016",
+  "date_commenced_iso": "2016-01-18T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Anheuser-Busch InBev"
+  ],
+  "targets": [
+    "SABMiller plc"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jan 2016",
+      "date_iso": "2016-01-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Feb 2016",
+      "date_iso": "2016-02-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "25 Feb 2016",
+      "date_iso": "2016-02-25T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "7 Mar 2016",
+      "date_iso": "2016-03-07T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "10 Mar 2016",
+      "date_iso": "2016-03-10T12:00:00Z",
+      "event": "ACCC requested further information from AB InBev."
+    },
+    {
+      "date": "31 Mar 2016",
+      "date_iso": "2016-03-31T12:00:00Z",
+      "event": "ACCC received further information from AB InBev."
+    },
+    {
+      "date": "19 Apr 2016",
+      "date_iso": "2016-04-19T12:00:00Z",
+      "event": "Former proposed decision date of 21 April 2016 delayed at the request of the merger parties to allow them to provide more information."
+    },
+    {
+      "date": "27 Apr 2016",
+      "date_iso": "2016-04-27T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "5 May 2016",
+      "date_iso": "2016-05-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "ACCC considered the competition effects of the proposed acquisition in the context of a national market for the supply of bulk and packaged beer. The ACCC considered that the market definition was not critical to the competition assessment. Whether or not there are separate markets for different segments of the beer market (i.e. premium versus non-premium) or state-based markets would not have altered the competition analysis.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this view included the following: -  AB InBev/SABMiller is unlikely to have an increased ability and incentive to unilaterally raise prices. The proposed acquisition would have only a minimal impact on market structure. With or without the acquisition, there would be two main suppliers of beer operating in the Australian market. - AB InBev/SABMiller would continue to face competition from other suppliers including Lion, Coopers, Asahi and Coca-Cola Amatil. - It is not apparent that the proposed acquisition would remove a significant potential competitor, as AB InBev has historically had only a very limited direct company presence in Australia, with no local brewing operations.  Instead, it has relied on distribution via Lion or SABMiller/CUB. - AB InBev has served notices to terminate agreements with Lion for distribution of Corona and other AB InBev brands in Australia, subject to certain notice periods. This resolves the ACCC's concern that the proposed acquisition may have increased the ability and incentive for coordination between Lion and AB InBev/SABMiller."
+  }
+}

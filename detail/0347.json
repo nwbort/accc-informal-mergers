@@ -1,0 +1,54 @@
+{
+  "id": "0347",
+  "title": "iSentia Pty Limited - proposed acquisition of Australian Associated Press Pty Limited's media monitoring business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/isentia-pty-limited-proposed-acquisition-of-australian-associated-press-pty-limiteds-media-monitoring-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52271",
+  "industries": [
+    "Media monitoring"
+  ],
+  "date_completed": "20 February 2014",
+  "date_completed_iso": "2014-02-20T12:00:00Z",
+  "date_commenced": "29 October 2013",
+  "date_commenced_iso": "2013-10-29T12:00:00Z",
+  "total_review_days": 79,
+  "acquirers": [
+    "iSentia Pty Limited"
+  ],
+  "targets": [
+    "Australian Associated Press Pty Limited's media monitoring business"
+  ],
+  "timeline": [
+    {
+      "date": "29 Oct 2013",
+      "date_iso": "2013-10-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "20 Nov 2013",
+      "date_iso": "2013-11-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "19 Dec 2013",
+      "date_iso": "2013-12-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "31 Jan 2014",
+      "date_iso": "2014-01-31T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "20 Feb 2014",
+      "date_iso": "2014-02-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "iSentia Pty Limited proposed to acquire the media monitoring business of Australian Associated Press Pty Limited.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0865",
+  "title": "Woolworths Limited - proposed acquisition of a liquor licence in Busselton WA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-a-liquor-licence-in-busselton-wa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33928",
+  "industries": [
+    "Liquor Retailing"
+  ],
+  "date_completed": "15 September 2008",
+  "date_completed_iso": "2008-09-15T12:00:00Z",
+  "date_commenced": "29 August 2008",
+  "date_commenced_iso": "2008-08-29T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Proposed acquisition of a liquor licence in Busselton WA"
+  ],
+  "timeline": [
+    {
+      "date": "29 Aug 2008",
+      "date_iso": "2008-08-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Sep 2008",
+      "date_iso": "2008-09-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Sep 2008",
+      "date_iso": "2008-09-11T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 11 September 2008 amended to 15 September 2008 - to allow for further market inquiries."
+    },
+    {
+      "date": "15 Sep 2008",
+      "date_iso": "2008-09-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire a takeaway packaged liquor licence and associated assets in Busselton, WA, currently trading as 'Cellarbrations at Bayside'.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the local market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension is a 3-5km radius surrounding the target retail liquor business (Market 1); and 2. the Western Australian market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 2).",
+    "Competition analysis": "On 15 September 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: 1) in relation to Market 1, Woolworths owned no liquor outlets (either takeaway packaged liquor outlets or hotels) within the market.  Accordingly, the proposed acquisition represented a bare transfer of market share, and the liquor store to be acquired will continue to face a number of local competitors; and 2) in relation to Market 2, after conducting market inquiries, the ACCC considered that the proposed acquisition would not significantly diminish the market share or buying power of any independent wholesaler (or significantly increase the market share or buying power of Woolworths in the relevant market)."
+  }
+}

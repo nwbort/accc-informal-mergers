@@ -1,0 +1,44 @@
+{
+  "id": "1195",
+  "title": "Hospira Inc - proposed acquisition of Mayne Pharma Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hospira-inc-proposed-acquisition-of-mayne-pharma-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25706",
+  "industries": [
+    "Pharmaceutical"
+  ],
+  "date_completed": "15 November 2006",
+  "date_completed_iso": "2006-11-15T12:00:00Z",
+  "date_commenced": "20 October 2006",
+  "date_commenced_iso": "2006-10-20T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Hospira Inc"
+  ],
+  "targets": [
+    "Mayne Pharma Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Oct 2006",
+      "date_iso": "2006-10-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "9 Nov 2006",
+      "date_iso": "2006-11-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "15 Nov 2006",
+      "date_iso": "2006-11-15T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Hospira Inc and Mayne Pharma Limited operate in the pharmaceutical industry in Australia.",
+    "Market definition": "The ACCC considered Hospira Inc's proposed acquisition of Mayne Pharma Limited in the context of a national market for the manufacture and supply of dobutamine injectables.",
+    "Competition analysis": "The ACCC considered that Hospira Inc would face sufficient competitive constraints post-acquisition and that the proposed acquisition is unlikely to cause a substantial lessening of competition in the relevant market. This conclusion was informed by the following factors: - substitutes are available to hospitals and pharmaceutical wholesalers for the supply of dobutamine injectables; - customers for dobutamine injectables have some countervailing power; and - barriers to entry are moderate into the manufacture and supply of dobutamine injectables for existing  pharmaceutical companies."
+  }
+}

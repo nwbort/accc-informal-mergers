@@ -1,0 +1,63 @@
+{
+  "id": "0449",
+  "title": "Fairfax Media Limited - proposed acquisition of 50% interest in a joint venture with MMP Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fairfax-media-limited-proposed-acquisition-of-50-interest-in-a-joint-venture-with-mmp-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47974",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "23 May 2012",
+  "date_completed_iso": "2012-05-23T12:00:00Z",
+  "date_commenced": "27 February 2012",
+  "date_commenced_iso": "2012-02-27T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Fairfax Media Limited"
+  ],
+  "targets": [
+    "MMP Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 Feb 2012",
+      "date_iso": "2012-02-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Mar 2012",
+      "date_iso": "2012-03-01T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture parties. ACCC timeline suspended and former indicative decision date for announcement of ACCC's findings of 19 April 2012 delayed."
+    },
+    {
+      "date": "16 Mar 2012",
+      "date_iso": "2012-03-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Mar 2012",
+      "date_iso": "2012-03-23T12:00:00Z",
+      "event": "ACCC received further information from the joint venture parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Mar 2012",
+      "date_iso": "2012-03-29T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture parties. ACCC timeline suspended."
+    },
+    {
+      "date": "4 May 2012",
+      "date_iso": "2012-05-04T12:00:00Z",
+      "event": "ACCC received further information from the joint venture parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 May 2012",
+      "date_iso": "2012-05-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC assessed the proposed joint venture between Fairfax and MMP, which involves community publications in metropolitan Melbourne, in the context of both a narrow market for community print real estate advertising opportunities and a broader market comprising community print real estate advertising opportunities and online real estate advertising opportunities. The ACCC considered the proposed joint venture in the context of the following two areas of metropolitan Melbourne, while recognising that boundaries were not precise due to differences in distribution coverage: - the local government areas of Port Phillip, Bayside, Stonnington and Boroondara (area 1); and - the local government areas of Banyule and Nillumbik (area 2). The ACCC also considered the competition effects of the proposed joint venture in the markets for the supply of real estate services, general advertising, supply of news and general content to consumers and the acquisition of content in the two geographic areas. The ACCC formed the view that no competition effects were likely to arise in these areas and as consequence these markets are not addressed below.",
+    "Competition analysis": "The ACCC concluded that the proposed joint venture was unlikely to result in a substantial lessening of competition in either the narrow market for community print real estate advertising opportunities or the broader market incorporating community print and online real estate advertising opportunities. While the ACCC noted that the proposed joint venture would remove MMP as an independent competitor in both markets, the ACCC recognised that network effects associated with real estate advertising in community publications made it likely that, absent the proposed joint venture, some of the Fairfax community publications would not have provided effective competition in the relevant markets going forward. The ACCC formed the view that the proposed joint venture would continue to be constrained by: - the presence of News Ltd's Leader publications, in particular in area 2; and - online real estate advertising channels, which typically deliver the most enquiries from potential purchasers of real estate and increasingly replicate the branding opportunities provided by community publications. The ACCC concluded that this competitive constraint would  be provided by non-Fairfax online real estate portals. In particular, the REA Group portal (realestate.com.au) and to a lesser extent the Victorian real estate industry portal (realestateview.com.au). The ACCC also considered closely whether absent the proposed joint venture MMP would expand into other areas of metropolitan Melbourne, Victoria and/or Australia in competition with Fairfax. Based on information provided by Fairfax, MMP and market participants the ACCC formed the view that absent the proposed joint venture MMP was unlikely to expand into other areas in competition with Fairfax."
+  }
+}

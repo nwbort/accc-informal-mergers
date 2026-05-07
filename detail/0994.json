@@ -1,0 +1,59 @@
+{
+  "id": "0994",
+  "title": "Transpacific Industries Group Ltd - acquisition of a 75% interest in the landfill and recycling operations at 343 Bowhill Rd Willawong, Queensland",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-a-75-interest-in-the-landfill-and-recycling-operations-at-343-bowhill-rd-willawong-queensland",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30028",
+  "industries": [
+    "Waste disposal and recycling"
+  ],
+  "date_completed": "20 November 2007",
+  "date_completed_iso": "2007-11-20T12:00:00Z",
+  "date_commenced": "23 October 2007",
+  "date_commenced_iso": "2007-10-23T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Willawong Landfill"
+  ],
+  "timeline": [
+    {
+      "date": "3 Oct 2007",
+      "date_iso": "2007-10-03T12:00:00Z",
+      "event": "Transpacific acquired a 75% interest in the landfill and recycling operation at 343 Bowhill Rd Willawong, QLD."
+    },
+    {
+      "date": "23 Oct 2007",
+      "date_iso": "2007-10-23T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "29 Oct 2007",
+      "date_iso": "2007-10-29T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. ACCC timeline suspended."
+    },
+    {
+      "date": "6 Nov 2007",
+      "date_iso": "2007-11-06T12:00:00Z",
+      "event": "ACCC received further information from TPI. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Nov 2007",
+      "date_iso": "2007-11-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Nov 2007",
+      "date_iso": "2007-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific has purchased a 75% interest from Kevyn Anderson Construction and Demolition Waste Services Pty Ltd in the business and assets of the landfill and recycling operation at 343 Bowhill Rd, Willawong QLD through a newly created joint venture (the remaining 25% of which will be held by Kevyn Anderson).",
+    "Market definition": "South-east Queensland markets for waste disposal and recycling services.",
+    "Competition analysis": "On 20 November 2007, the ACCC announced its decision not to oppose the acquisition by Transpacific of a 75% interest in the landfill and recycling operations at 343 Bowhill Rd Willawong, Queensland (Willawong). The ACCC considered the information provided by Transpacific and other information available to it. Based on that information, the ACCC considered that the acquisition of Willawong was unlikely to substantially lessen competition in the south-east Queensland market for waste disposal and recycling services due to the existence of alternative competitive providers which will remain available to customers."
+  }
+}

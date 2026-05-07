@@ -1,0 +1,44 @@
+{
+  "id": "0429",
+  "title": "Bunnings Group Ltd - completed acquisition of the stock and fixed assets of Costa's Mitre 10 store in Werribee",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bunnings-group-ltd-completed-acquisition-of-the-stock-and-fixed-assets-of-costas-mitre-10-store-in-werribee",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48335",
+  "industries": [
+    "Hardware & Home improvement"
+  ],
+  "date_completed": "31 July 2012",
+  "date_completed_iso": "2012-07-31T12:00:00Z",
+  "date_commenced": "15 March 2012",
+  "date_commenced_iso": "2012-03-15T12:00:00Z",
+  "total_review_days": 95,
+  "acquirers": [
+    "Bunnings Group Ltd"
+  ],
+  "targets": [
+    "The stock and fixed assets of Costa's Mitre 10 store in Werribee"
+  ],
+  "timeline": [
+    {
+      "date": "15 Mar 2012",
+      "date_iso": "2012-03-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Apr 2012",
+      "date_iso": "2012-04-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Aug 2012",
+      "date_iso": "2012-08-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 29 March 2012 Bunnings acquired the stock and fixed assets associated with Costa's Mitre 10 store in Werribee from the Costa family.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the local market for the retail supply of hardware and home improvement products. The ACCC considered that Bunnings and Costa's Mitre 10 Werribee are likely to compete with retailers of varying formats, store sizes and product specialisations, but that hardware stores of similar product range, promotional activity, store format and location are likely to be closer competitors. However, this was not considered to be a determinative factor in the competition analysis.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to result in a substantial lessening of competition in the local market for the retail supply of hardware and home improvement products.  In reaching this view, the ACCC had regard to the existence and continued operation of Costa's Mitre 10 store in Hoppers Crossing, which is located in close proximity to both Bunnings and the target store. The ACCC therefore considered that: -  the merged firm was likely to continue to be constrained by Costa's Mitre 10 Hoppers Crossing; and -  Mitre 10's offers would continue to be made available to customers in the local area. The ACCC also notes that a Masters Home Improvement store is likely be established at Williams Landing, near Hoppers Crossing, in the foreseeable future."
+  }
+}

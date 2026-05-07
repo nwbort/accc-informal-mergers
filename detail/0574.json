@@ -1,0 +1,54 @@
+{
+  "id": "0574",
+  "title": "BP Australia Pty Ltd - proposed acquisition of Centrel Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bp-australia-pty-ltd-proposed-acquisition-of-centrel-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43280",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "17 November 2010",
+  "date_completed_iso": "2010-11-17T12:00:00Z",
+  "date_commenced": "25 August 2010",
+  "date_commenced_iso": "2010-08-25T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "BP Australia Pty Ltd"
+  ],
+  "targets": [
+    "Centrel Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Aug 2010",
+      "date_iso": "2010-08-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Sep 2010",
+      "date_iso": "2010-09-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Oct 2010",
+      "date_iso": "2010-10-21T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining issues that may raise concerns."
+    },
+    {
+      "date": "5 Nov 2010",
+      "date_iso": "2010-11-05T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "17 Nov 2010",
+      "date_iso": "2010-11-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BP Australia Pty Ltd (BP) proposed to acquire all of the shares in its branded distributor Centrel Pty Ltd (Reliance).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: 1. State-based markets for the wholesale supply and distribution of: - petrol; - diesel; and - automotive LPG. 2. Local markets for the retail supply of: - petrol; - diesel; and - automotive LPG. 3. State-based markets for the supply of commercial bulk fuels 4. State-based markets for the supply of wholesale lubricants 5. National market for the supply of fuel cards",
+    "Competition analysis": "The ACCC concluded that the likely counterfactual to the proposed acquisition was Reliance continuing to operate as per the status quo. The ACCC did not consider it was likely that Reliance would be acquired by a party other than BP in the absence of the proposed acquisition. For this reason, the ACCC concluded that the proposed acquisition would be unlikely to lead to a substantial lessening of competition in the markets for the wholesale supply of fuel. The ACCC concluded that the proposed acquisition would not be likely to lead to a substantial lessening of competition in any local retail markets due to the minimal overlap between the retail networks of BP and Reliance and the presence of sufficient local competitors in those areas where overlap did exist. The ACCC concluded that BP and Reliance were not close competitors in the markets for the supply of commercial bulk fuels, wholesale lubricants and fuel card services. Accordingly, the ACCC considered it unlikely that the proposed acquisition would lead to a substantial lessening of competition in these markets."
+  }
+}

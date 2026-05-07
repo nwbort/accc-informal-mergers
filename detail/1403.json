@@ -1,0 +1,26 @@
+{
+  "id": "1403",
+  "title": "Acciona, S.A. - proposed acquisition of Pacific Hydro Limited.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acciona-sa-proposed-acquisition-of-pacific-hydro-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21632",
+  "industries": [
+    "Electricity supply"
+  ],
+  "date_completed": "19 April 2005",
+  "date_completed_iso": "2005-04-19T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acciona, S.A., a Spanish-based company, proposed to acquire Pacific Hydro Limited, a listed Australian company that focuses on renewable energy developments.",
+    "Market definition": "The ACCC did not consider market definition to be a critical issue in this matter and did not reach a conclusive view in relation to market definition.  Possible markets that the ACCC considered likely to be relevant included: *  regional markets for the supply of wholesale electricity; and *  the market for the development of new renewable energy projects that produce Renewable Energy Certificates.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition.  The ACCC noted that Acciona's existing operations in Australia are quite limited, although future likely expansions were taken into consideration.  The ACCC noted the competitive constraint provided by existing Australian electricity retailers and generators which are actively becoming involved in renewable energy developments.  The ACCC took into consideration the fact that many wind farm components are typically imported into Australia and that there are several international sources for those components.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

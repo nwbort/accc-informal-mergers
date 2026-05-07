@@ -1,0 +1,44 @@
+{
+  "id": "0323",
+  "title": "Qube Logistics (Aust) Pty Limited - proposed acquisition of CRT Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qube-logistics-aust-pty-limited-proposed-acquisition-of-crt-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55548",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "24 September 2014",
+  "date_completed_iso": "2014-09-24T12:00:00Z",
+  "date_commenced": "11 August 2014",
+  "date_commenced_iso": "2014-08-11T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Qube Logistics (Aust) Pty Limited"
+  ],
+  "targets": [
+    "CRT Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "11 Aug 2014",
+      "date_iso": "2014-08-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "29 Aug 2014",
+      "date_iso": "2014-08-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Sep 2014",
+      "date_iso": "2014-09-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Qube proposed to acquire the business, inventory, plant, equipment and property of the CRT Group.",
+    "Market definition": "The ACCC focused its assessment of the proposed acquisition on the main areas of overlap between the merger parties: -\tthe provision of rail terminal services for container cargo being transported to/from Melbourne, including the port; and -\tthe provision of logistics services for containerised cargo. The ACCC did not consider it necessary to form a definitive view regarding market definition in these markets as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC concluded that competition concerns were unlikely to arise in relation to the markets for the provision of rail terminal services or the provision of logistics services for containerised cargo for the following reasons: -\tTo the extent Qube and CRT overlap in the provision of container transport logistics there are a number of logistics operators who are likely to constrain the parties post-acquisition; -\tCRT's terminal is a minor competitor in the market for rail terminal services, with limited options for expansion; and -\tQube is likely to continue to be constrained by competition from DP World and Asciano in the provision of rail terminal services at the Port of Melbourne."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0448",
+  "title": "AGL Energy Limited - proposed acquisition of Great Energy Alliance Corporation Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-proposed-acquisition-of-great-energy-alliance-corporation-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47826",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "24 May 2012",
+  "date_completed_iso": "2012-05-24T12:00:00Z",
+  "date_commenced": "24 February 2012",
+  "date_commenced_iso": "2012-02-24T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "Great Energy Alliance Corporation Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "24 Feb 2012",
+      "date_iso": "2012-02-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Mar 2012",
+      "date_iso": "2012-03-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Apr 2012",
+      "date_iso": "2012-04-03T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. Former proposed decision date of 19 April 2012 delayed. ACCC timeline suspended pending receipt of the information."
+    },
+    {
+      "date": "26 Apr 2012",
+      "date_iso": "2012-04-26T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "9 May 2012",
+      "date_iso": "2012-05-09T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 17 May 2012, amended to allow merger parties to provide further information."
+    },
+    {
+      "date": "24 May 2012",
+      "date_iso": "2012-05-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Please refer to the attached Public Competition Assessment.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

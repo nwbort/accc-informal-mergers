@@ -1,0 +1,49 @@
+{
+  "id": "0751",
+  "title": "Symbion Health Limited - completed acquisition of non-histopathology assets of Nexus Pathology",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/symbion-health-limited-completed-acquisition-of-non-histopathology-assets-of-nexus-pathology",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35059",
+  "industries": [
+    "Health"
+  ],
+  "date_completed": "10 June 2009",
+  "date_completed_iso": "2009-06-10T12:00:00Z",
+  "date_commenced": "27 May 2009",
+  "date_commenced_iso": "2009-05-27T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Symbion Health Limited"
+  ],
+  "targets": [
+    "Nexus Pathology"
+  ],
+  "timeline": [
+    {
+      "date": "10 Mar 2009",
+      "date_iso": "2009-03-10T12:00:00Z",
+      "event": "The acquisition was completed."
+    },
+    {
+      "date": "27 May 2009",
+      "date_iso": "2009-05-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Jun 2009",
+      "date_iso": "2009-06-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Jun 2009",
+      "date_iso": "2009-06-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Symbion Health Limited has acquired the non-histopathology assets of Nexus Pathology.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the market for community pathology services in Queensland.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in the relevant market due to the small increase in Symbion's market share and the existence of a number of competing suppliers which would continue to constrain the merged firm."
+  }
+}

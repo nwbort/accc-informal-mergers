@@ -1,0 +1,31 @@
+{
+  "id": "1632",
+  "title": "Acquirer: Boral Limited; Target: Go Crete Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-boral-limited-target-go-crete-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16214",
+  "industries": [],
+  "date_completed": "2 July 2002",
+  "date_completed_iso": "2002-07-02T12:00:00Z",
+  "date_commenced": "12 June 2002",
+  "date_commenced_iso": "2002-06-12T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Boral Limited"
+  ],
+  "targets": [
+    "Go Crete Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Go-Crete Pty Ltd by Boral Ltd. (WA)",
+    "Market definition": "The manufacture and supply of pre-mixed concrete in Perth and surrounding areas.",
+    "Competition analysis": "Go-Crete is a small independent pre-mixed concrete supplier operating in Perth and surrounding areas only. Boral Ltd is a large vertically integrated player that operates throughout Australia. Market enquiries were made of numerous market participants. These enquiries indicated that there was little concern as to the likely effect on competition within the market. Based on these factors the Commission decided not to oppose the proposed acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "2633"
+  }
+}

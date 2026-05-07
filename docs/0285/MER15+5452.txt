@@ -1,0 +1,801 @@
+ 
+ 
+ 
+Statement of Issues 
+11 June 2015 
+TPG Telecom Limited – proposed acquisition of iiNet 
+Limited  
+Purpose 
+1. 
+This Statement of Issues aims to: 
+ 
+give the Australian Competition and Consumer Commission’s (ACCC) 
+preliminary views on competition issues arising from TPG’s proposed 
+acquisition of iiNet  
+ 
+identify areas of further inquiry 
+ 
+give all interested parties an opportunity to comment 
+ 
+Invite interested parties to submit information to assist us in our 
+assessment of the issues. 
+Overview of ACCC’s preliminary views 
+2. 
+The legal test which the ACCC applies in considering the proposed acquisition is 
+in section 50 of the Competition and Consumer Act 2010 (the Act). Section 50 
+prohibits acquisitions that substantially lessen competition in a market, or are 
+likely to do so.  
+3. 
+The ACCC has divided its preliminary views in this Statement of Issues into two 
+categories, 'issues that may raise concerns' and ‘issues unlikely to raise 
+concerns’. 
+Issues that may raise concerns 
+ 
+Horizontal effects in the market for supply of retail fixed broadband 
+services.  
+4. 
+iiNet is an important competitor in the market for supply of retail fixed broadband 
+services, and has a particular focus on customer service. The ACCC’s 
+preliminary view is that the acquisition of iiNet may lead to a substantial 
+lessening of competition, potentially resulting in higher prices and/or degradation 
+of the non-price offers available in the market, including customer service. The 
+
+
+ 
+ 
+ACCC is considering these issues further, including the extent of constraints 
+posed by other competitors. 
+Issues unlikely to raise concerns 
+ 
+Vertical effects in the market for supply of wholesale data transmission 
+services. 
+5. 
+The proposed acquisition is likely to increase the extent to which TPG is 
+vertically integrated, but this would be unlikely to materially alter the level of 
+competition in the market for the supply of wholesale data transmission 
+(wholesale transmission) services or any other relevant market. iiNet currently 
+acquires wholesale transmission services (also known as backhaul) from third 
+parties. If the proposed acquisition proceeds, the merged entity would likely have 
+an incentive to use its own wholesale transmission network. This would reduce 
+iiNet’s demand for wholesale transmission services from other third party 
+transmission providers. The ACCC’s preliminary view is that this would be 
+unlikely to lead to a substantial lessening of competition in any relevant market. 
+ 
+Horizontal effects in markets relating to the supply of retail fixed voice, 
+mobile voice, mobile broadband and subscription television services. 
+6. 
+Given the relatively limited presence of the merger parties in markets relating to 
+the supply of these services, and the existence of a number of competitors, the 
+ACCC’s preliminary view is that the proposed acquisition is not likely to raise 
+competition concerns for the supply of these services. However, the major 
+telecommunications service providers typically offer bundling as a way of 
+competing to attract customers. Therefore, concerns arising from the proposed 
+acquisition in the market for the supply of retail fixed broadband services may be 
+relevant to other markets. 
+Making a submission 
+7. 
+The ACCC is seeking submissions from interested parties, particularly on the 
+following key issues: 
+ 
+The likelihood of a substantial lessening of competition in the market for 
+the supply of retail fixed broadband services. 
+ 
+The potential for the acquisition of iiNet by TPG, which is vertically 
+integrated in wholesale transmission, to substantially lessen competition 
+for the supply of wholesale transmission services. 
+8. 
+Detailed discussion of these and other issues, along with specific questions, is 
+contained in this Statement of Issues.  
+9. 
+Interested parties should provide submissions by no later than 5pm on 2 July 
+2015. Responses may be emailed to TPG-iiNet-Merger@accc.gov.au with the 
+title: TPG’s proposed acquisition of iiNet.  
+10. 
+The ACCC anticipates making a final decision on 20 August 2015. However, this 
+timeline can change. To keep abreast of possible changes to timing and to find 
+relevant documents, interested parties should visit the Mergers Register on the 
+ACCC's website at www.accc.gov.au/mergersregister. 
+
+
+ 
+ 
+Confidentiality of submissions 
+11. 
+The ACCC will not publish submissions regarding the proposed acquisition. The 
+ACCC will not disclose submissions to third parties (except our 
+advisors/consultants) unless compelled by law (for example, under freedom of 
+information legislation or during court proceedings) or in accordance with 
+section 155AAA of the Act. Where the ACCC is required to disclose confidential 
+information, the ACCC will notify you in advance where possible so that you may 
+have an opportunity to be heard. Therefore, if the information provided to the 
+ACCC is of a confidential nature, please indicate as such. Our Informal Merger 
+Review Process Guidelines contain more information. 
+About ACCC ‘Statements of Issues’ 
+12. 
+A Statement of Issues published by the ACCC is not a final decision about a 
+proposed acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well 
+as identifying the lines of further inquiry that the ACCC wishes to undertake. 
+13. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the parties to the proposed acquisition and other interested parties with the basis 
+for making further submissions should they consider it necessary. 
+Timeline 
+Date 
+Event 
+2 April 2015 
+ACCC commenced review under the Merger Process 
+Guidelines 
+11 June 2015 
+ACCC publication of Statement of Issues 
+2 July 2015 
+Closing date for submissions relating to Statement of 
+Issues 
+20 August 2015 
+Proposed date for announcement of ACCC’s final 
+decision  
+The parties 
+TPG 
+14. 
+TPG provides telecommunications services, including: 
+ 
+retail fixed and mobile broadband services, using its own and other 
+providers’ technologies, including asymmetric digital subscriber line 2+ 
+(ADSL2+), very high bit-rate digital subscriber line 2 (VDSL2) and fibre 
+ 
+retail fixed and mobile voice services, including fixed line, voice over 
+internet protocol (VOIP) and subscriber identity module (SIM) only mobile 
+plans 
+
+
+ 
+ 
+ 
+subscription television services supplied over the internet 
+ 
+combinations of the above as part of bundled packages 
+ 
+wholesale transmission services. 
+15. 
+TPG supplies telecommunications services to residential, business and 
+government customers. TPG, through its subsidiaries, also provides wholesale 
+transmission services to other telecommunications service providers. 
+16. 
+TPG is listed on the Australian Securities Exchange (ASX:TPM). TPG 
+subsidiaries include two companies with substantial wholesale transmission 
+networks: AAPT and Pipe Networks. TPG already owns 6.25 per cent of iiNet. 
+TPG’s brands include Soul, Chariot and TPG. 
+iiNet 
+17. 
+iiNet provides telecommunications services, including: 
+ 
+retail fixed and mobile broadband services (using its own and other 
+providers’ technologies), including ADSL2+, VDSL2, hybrid fibre coaxial 
+(HFC), cable and fibre 
+ 
+retail fixed and mobile voice services (including fixed line, VOIP and SIM 
+only mobile plans) 
+ 
+subscription television services supplied over the internet 
+ 
+combinations of the above as part of bundled packages 
+ 
+some wholesale transmission services, but to a much lesser extent than 
+TPG. 
+18. 
+iiNet supplies services to a range of customers, including residential, business 
+and government customers. 
+19. 
+iiNet is listed on the Australian Securities Exchange (ASX:IIN). iiNet subsidiaries 
+include the retail service providers Adam Internet, Westnet and Internode. 
+Other industry participants 
+Telstra 
+20. 
+Telstra is the major wholesale and retail supplier of telecommunications 
+services, including fixed broadband services, in Australia. Telstra owns the near 
+ubiquitous copper network used by retail service providers to supply fixed line 
+telecommunication services. It also owns HFC networks in capital cities, a 
+national mobile telecommunications network and 50 per cent of the subscription 
+television provider, Foxtel. Telstra is the largest supplier of retail fixed broadband 
+by number of subscribers in Australia. 
+
+
+ 
+ 
+Optus 
+21. 
+Owned by the Singtel Group, Optus is a national provider of wholesale and retail 
+telecommunications services, including broadband services (fixed and mobile) 
+and voice services (fixed and mobile). It owns a national mobile 
+telecommunications network and HFC networks in Brisbane, Sydney and 
+Melbourne. It also provides wholesale transmission services. Optus is estimated 
+to be the third largest supplier of retail fixed broadband by number of subscribers 
+in Australia. 
+M2 Telecommunications Group 
+22. 
+M2 Telecommunications Group (M2) is a national provider of retail and 
+wholesale telecommunication services, including fixed broadband services. It 
+operates through a number of subsidiaries. M2’s brands include Dodo, Eftel, 
+iPrimus and Commander. M2 is the fifth largest supplier of retail fixed broadband 
+by number of subscribers in Australia. 
+23. 
+On 27 April 2015, M2 made a rival bid for iiNet. On 6 May 2015, the iiNet board 
+recommended TPG’s counterbid for iiNet to its shareholders. 
+Nextgen 
+24. 
+Nextgen is a national telecommunications carrier which specialises in the 
+provision of wholesale transmission services. It is one of the four major providers 
+of wholesale transmission services, along with Telstra, Optus and TPG. 
+NBN Co 
+25. 
+On 7 April 2009, the Australian Government of that time announced that it 
+intended to establish the National Broadband Network Corporation Ltd (NBN Co) 
+to build and operate a wholesale only, open access national broadband network 
+(NBN).  
+26. 
+The current Australian Government’s objective is for NBN Co to roll out the NBN 
+network using a mix of fibre-to-the-premises, fibre-to-the-node, fibre-to-the-
+basement, HFC, wireless and satellite. The choice of technology will be made on 
+an area-by-area basis.  
+Other retail service providers 
+27. 
+There are a number of smaller retail service providers which generally operate 
+through reselling services from wholesale service providers. 
+Industry background 
+Regulatory framework 
+28. 
+The provision of telecommunications services in Australia is regulated by, among 
+other measures, Parts XIB and XIC of the Act. Part XIB contains industry specific 
+prohibitions against anti-competitive conduct in the telecommunications industry, 
+which are based on the general prohibitions in Part IV of the Act. 
+29. 
+Part XIC establishes an industry specific regime for regulated access to carriage 
+services that are considered important inputs for the supply of retail services. 
+
+
+ 
+ 
+The ACCC is able to declare services and regulate them by directly setting price 
+and non-price terms relating to the supply of these services. 
+30. 
+Under this framework, the ACCC regulates a number of essential inputs to the 
+provision of retail fixed broadband services over both Telstra’s copper network, 
+and fibre networks including the NBN. 
+Fixed broadband services 
+31. 
+In Australia, fixed broadband services are provided to residential and business 
+customers using a range of fixed-line technologies, including ADSL2+ (provided 
+over Telstra’s copper network), VDSL2 (used in fibre-to-the-basement networks), 
+cable services (provided predominantly over Telstra and Optus’ HFC networks) 
+and fibre services (provided over the NBN and other fibre networks).  
+32. 
+ADSL2+ is currently the dominant technology for the provision of residential fixed 
+broadband in Australia.  
+33. 
+Competing providers of retail ADSL broadband services can supply these 
+services in two ways: 
+ 
+Installing digital subscriber line access multiplexer (DSLAM) equipment in 
+Telstra’s exchange buildings and purchasing either an unconditioned local 
+loop service or line sharing service from Telstra to deliver broadband over 
+the copper line to the premises. Both of these services are regulated by the 
+ACCC under Part XIC of the Act. Retail broadband providers refer to this 
+approach as ‘on-net’ supply. 
+ 
+Purchasing a wholesale ADSL service from a DSLAM operator and on-
+selling this service to its retail customers. Telstra’s supply of wholesale 
+ADSL services is regulated by the ACCC under Part XIC of the Act. Retail 
+broadband providers refer to this approach as ‘off-net’ supply.  
+34. 
+Fixed broadband services in Australia are also provided over HFC networks. 
+Telstra and Optus currently operate the two largest HFC networks. Optus’ 
+network covers parts of Brisbane, Melbourne and Sydney while Telstra’s network 
+covers parts of Brisbane, Melbourne, Sydney, Adelaide, Perth and the Gold 
+Coast. TransACT (owned by iiNet) and Opticomm also operate smaller HFC 
+networks in regional and suburban areas. Opticomm is the only HFC operator to 
+offer wholesale services. 
+Wholesale transmission services 
+35. 
+Wholesale transmission services are wholesale services that carry large 
+volumes of voice, data and video traffic, often over long distances. They are 
+used by telecommunications companies to carry the combined traffic of many 
+separate services, and by large corporate customers with high volumes of traffic.  
+36. 
+Wholesale transmission services are an important input into the ability of service 
+providers to provide downstream retail and wholesale telecommunications 
+services. These services enable service providers to carry data between their 
+points of presence where their servers and routers are located, usually in a data 
+centre in a capital city, to a point where they can connect with an access network 
+such as Telstra’s copper network or the NBN. 
+
+
+ 
+ 
+37. 
+Wholesale transmission services are necessary to carry traffic between the 121 
+nationwide NBN points of interconnect and retail service providers own points of 
+presence. The NBN will carry services between the end-user premises and its 
+points of interconnect. 
+38. 
+Retail service providers will either use their own transmission network 
+infrastructure for their transmission requirements or purchase transmission 
+services from wholesale transmission providers. 
+39. 
+The domestic transmission capacity service is a declared service. The ACCC 
+regulates this service only along specific geographic routes where there is 
+insufficient competition—generally outside of major city centres and in regional 
+areas.  
+The National Broadband Network 
+40. 
+As indicated above, NBN Co is rolling out NBN infrastructure throughout 
+Australia using a variety of technologies. NBN Co is only permitted to supply 
+wholesale telecommunications services. 
+41. 
+NBN Co is regulated by the ACCC through a special access undertaking, which 
+specifies price and non-price terms and conditions relating to access to NBN 
+Co's services provided over fibre, fixed wireless and satellite networks. 
+The proposed acquisition 
+42. 
+TPG first entered into a scheme implementation agreement with iiNet on 
+13 March 2015. Under the proposed acquisition, if shareholders approve the 
+scheme, TPG would acquire 100 per cent of the fully-diluted share capital in iiNet 
+that TPG does not already own.  
+43. 
+Further details of the transaction can be found at 
+http://www.asx.com.au/asxpdf/20150506/pdf/42ycwwjg9v44yz.pdf.  
+Future with and without the acquisition  
+44. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to 
+the likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+45. 
+The ACCC’s preliminary view is that the likely competition effects of the 
+proposed transaction are most appropriately assessed against a future in which 
+competition remains broadly as it currently stands (the status quo).   
+46. 
+As noted above, it is possible that in the absence of the proposed acquisition by 
+TPG, another buyer (such as M2) would acquire iiNet. However, based on 
+presently available information, the ACCC does not consider that any such 
+alternative transaction is likely to alter its view as to the appropriate ‘future 
+without’ against which to assess the proposed acquisition. 
+
+
+ 
+ 
+Areas of overlap 
+47. 
+TPG and iiNet overlap in the supply of: 
+ 
+retail fixed broadband services  
+ 
+retail fixed voice services  
+ 
+mobile services, both voice and broadband 
+ 
+subscription television services, including internet protocol television 
+(IPTV). 
+Retail fixed broadband services 
+48. 
+The main overlap between TPG and iiNet is for the supply of retail fixed 
+broadband services. This is the main focus of the ACCC’s review and is 
+discussed further in the section on market definition (starting at paragraph 54), 
+and in the section on issues that may raise concerns (starting at paragraph 68). 
+Retail fixed voice services 
+49. 
+Both TPG and iiNet have a relatively small presence in the supply of retail fixed 
+voice services. Telstra remains the dominant supplier of retail fixed voice 
+services, with a share of 61 per cent as of June 2014. After the acquisition, TPG 
+and iiNet would have a 12 per cent share, which would place it approximately 
+equal with Optus as the next largest supplier.1  
+Mobile services  
+50. 
+The supply of mobile services (both voice and broadband) is characterised by 
+infrastructure based competition between the three mobile network operators – 
+Telstra, Optus and Vodafone. These three companies comprise 90 per cent of 
+the retail supply of mobile handset services.2 The remaining 10 per cent is 
+supplied by around 50 mobile resellers, including TPG and iiNet who both 
+acquire services from Optus. 
+Subscription television 
+51. 
+There have been a number of changes in the supply of subscription television 
+services over the internet during the past 12 months. In particular, the entry of 
+Netflix, and a number of other on-demand content streaming services, has 
+intensified competition between online content services. While certain retailer 
+service providers such as iiNet and Optus previously had exclusive wholesale 
+agreements to provide Fetch TV (an IPTV service which includes a number of 
+linear entertainment channels and movies on demand, as well as access to 
+Netflix), Fetch TV has subsequently launched a retail IPTV service which is 
+available to all consumers, regardless of their broadband provider. 
+                                                 
+ 
+1 ACCC, Telecommunications competitive safeguards for 2013-14, February 2015, p.22. 
+2 ACCC, Telecommunications competitive safeguards for 2013-14, February 2015, p.30. 
+
+
+ 
+ 
+Conclusion on areas of overlap 
+52. 
+Given the relatively limited presence of the merger parties, and the existence of 
+a number of competitors in the supply of retail fixed voice, mobile voice, mobile 
+broadband and subscription television, the ACCC’s preliminary view is that the 
+proposed acquisition is not likely to raise significant concerns in relation to these 
+areas of overlap.  
+53. 
+Further discussion on issues concerning the supply of fixed broadband, and the 
+supply of wholesale transmission services, is provided in the following sections. 
+Market definition 
+54. 
+On the basis of market inquiries to date, the ACCC’s preliminary view is that the 
+following product markets are particularly relevant in assessing the proposed 
+acquisition: 
+ 
+the supply of retail fixed broadband services  
+ 
+the supply of wholesale transmission services.  
+Retail fixed broadband services 
+55. 
+A fixed broadband service is a high bandwidth carriage service that can be 
+characterised as an ‘always on’ connection that generally involves the carriage 
+of communications to residential or business premises. 
+56. 
+Fixed broadband can be delivered over a number of technologies including HFC 
+networks, copper networks or fibre networks. From a functional or consumer 
+perspective, the services supplied over these different technologies all support 
+similar downstream applications.  
+57. 
+For the purpose of assessing the proposed acquisition, the ACCC considers that 
+the relevant retail product market includes broadband services provided over 
+different fixed line technology.  
+58. 
+The ACCC is also not considering mobile broadband as part of this market in 
+assessing this proposed acquisition as, from a functional or consumer 
+perspective, the degree of substitutability between fixed and wireless broadband 
+may depend on the particular downstream application. For example, mobile 
+networks may not support data intensive applications such as video streaming 
+as well as fixed line broadband services. There is also a substantial disparity in 
+data allowances and per gigabyte pricing between mobile and fixed line 
+broadband services.  
+59. 
+The ACCC notes that retail fixed broadband plans comprise a range of data 
+allowances and prices with varying levels of customer support. For the purposes 
+of this review, the ACCC considers it likely that potential competitive constraints 
+on the merged entity would come from the full range of service providers in 
+terms of price and quality of service. The ACCC may consider a number of 
+potential constraints that operate on particular segments of the market but will 
+consider the overall competitive effect on the broad market. 
+60. 
+The ACCC considers the appropriate geographic dimension of the market to be 
+a national market. Market definition is a tool to identify and define the boundaries 
+
+
+ 
+ 
+of competitive conduct between the parties to the proposed acquisition. In this 
+respect it is relevant that both TPG and iiNet both provide on-net services in the 
+majority of states and territories. In addition, they both provide off-net services, 
+including through Telstra’s wholesale ADSL product, which is available on a 
+nationwide basis.  
+61. 
+From a consumer perspective, the ACCC notes that residential end-users 
+require fixed line services at their premises and therefore can only substitute 
+between products available in their area. There may be areas in which local 
+competition is present and where retail service providers operating on a national 
+basis may respond to competition on a local basis.  
+62. 
+However, retail service providers with national brands generally compete 
+nationally for end-users and adopt a national approach to setting prices and 
+service levels. Additionally, the ACCC notes that business customers often have 
+premises in multiple geographic locations.  
+63. 
+Accordingly, the ACCC considers the competitive effects of the proposed 
+acquisition should be assessed in a national market for the supply of retail fixed 
+broadband services. 
+Wholesale transmission services 
+64. 
+Wholesale transmission services are generally provided over optical fibre and 
+are usually used in combination with local access network infrastructure to 
+provide end-to-end telecommunications services.  
+65. 
+Telstra is the only owner of a nationwide ubiquitous wholesale transmission 
+network. Competition has emerged from other wholesale transmission service 
+providers on particular geographic routes where it is economically efficient for 
+those other service providers to invest in duplicate transmission infrastructure. 
+As indicated earlier, the ACCC regulates wholesale transmission services only 
+along specific geographic routes where there is insufficient competition.  
+66. 
+The concerns discussed in this Statement of Issues relate to nationwide 
+competition between providers of wholesale transmission services. However, it is 
+recognised that any concerns may be more pronounced for routes with relatively 
+less competition.  
+67. 
+The ACCC considers that, for the purposes of this review, the appropriate 
+market is a national market for the supply of wholesale transmission services.  
+
+
+ 
+ 
+The ACCC invites comments from market participants on its preliminary views about 
+the definition of the relevant market(s). In particular market participants may wish to 
+comment on whether: 
+ 
+The national market for the supply of retail fixed broadband services, as identified 
+above, is the appropriate definition for the market in which TPG and iiNet compete 
+for fixed line broadband customers. 
+ 
+The national market for the supply of wholesale transmission services, as identified 
+above, is the appropriate definition for the market in which TPG and iiNet compete 
+in the provision of wholesale transmission services. 
+ 
+The proposed acquisition raises concerns in any other markets, such as markets 
+relating to the supply of fixed and mobile voice services, or subscription television 
+services. 
+Issues that may raise concerns: horizontal aggregation in 
+the supply of retail fixed broadband services 
+68. 
+The ACCC is considering whether the acquisition of iiNet may lead to a 
+substantial lessening of competition in the market for the supply of retail fixed 
+broadband services, potentially resulting in higher prices and/or degradation of 
+the non-price offers available in this market. However, a number of competitive 
+constraints have been identified and the ACCC is considering whether these are 
+sufficient to prevent any substantial lessening of competition. 
+Market concentration 
+69. 
+At present, there are five main suppliers of retail fixed broadband services – 
+Telstra, Optus, iiNet, TPG and M2. In the event the proposed acquisition 
+proceeds, the number of major players in this market would reduce from five to 
+four. The ACCC considers that, as a general proposition, competition is stronger 
+when the market contains more competitors. 
+70. 
+The proposed acquisition would result in an aggregation which will make TPG 
+the second largest supplier of retail fixed line broadband by number of 
+subscribers. At present, TPG is the fourth largest supplier in this market. 
+
+
+ 
+ 
+Table 1: Retail fixed broadband market shares as at June 2014 
+Service provider 
+Retail market share for fixed 
+broadband (DSL and cable)  
+ 
+Telstra 
+41% 
+iiNet 
+15% 
+Optus 
+14% 
+TPG 
+12% 
+Merged entity 
+27% 
+M2 
+8% 
+Other 
+10% 
+Total 
+100% 
+Source: Based on ACCC, Telecommunications competitive safeguards for 2013-14, February 2015, 
+page 16, and other information available to the ACCC. 
+71. 
+As shown in Table 1, Telstra would remain the largest supplier of retail fixed 
+broadband services by retail market share, while the merged entity would be 
+second largest, followed by Optus and then M2. 
+72. 
+The market for the supply of retail fixed broadband services is already relatively 
+concentrated. After the acquisition, the combined market share of the four 
+largest firms would be 90 per cent, with the merged entity supplying 27 per cent 
+of the relevant market. 
+Closeness of competition between TPG and iiNet 
+73. 
+In the provision of retail fixed broadband, parties offer differentiated products in 
+order to compete for market share. This differentiation is based on price, data 
+allowances, terms and conditions (including separate off-peak and on-peak 
+allowances) and customer service experience. The degree of rivalry between 
+merger parties pre-merger can be an important factor in the analysis of mergers 
+in differentiated product markets, such as retail fixed broadband. In general, the 
+ACCC will consider the merger parties to exert more competitive constraint on 
+each other where they are close competitors. 
+74. 
+Market inquiries suggest that iiNet and TPG are seen to be close competitors, 
+despite the two companies offering products that are differentiated. iiNet is 
+perceived as having a focus on customer service as part of its strategy in 
+attracting customers. Market inquiries suggest that TPG is more focused on 
+price as part of a value-based product strategy. 
+75. 
+A number of consumers noted in submissions to the ACCC that they had 
+switched their service provider from TPG to iiNet because they value iiNet’s 
+perceived superior customer service. Similarly, some market participants also 
+observed that low price and high service customers are not always distinct 
+market segments and that many customers are prepared to substitute between 
+low price and high service offers. To that end, a number of market participants 
+
+
+ 
+ 
+noted that iiNet has reduced its prices in recent times to be more price 
+competitive with competitors such as TPG. 
+76. 
+However, preliminary analysis of data (including customer switching data) by the 
+ACCC indicates that while TPG and iiNet do compete closely with each other for 
+customers, they are generally not each other’s closest competitors. 
+Removal of a vigorous and effective competitor with a differentiated offer 
+77. 
+Some parties have raised concerns that the removal of iiNet may lessen the 
+incentive of TPG and the other competitors to compete, given they would no 
+longer face the disruption and innovation offered by iiNet as a stand-alone entity.  
+78. 
+The ACCC’s market inquiries suggest that TPG and iiNet are vigorous and 
+effective competitors in the supply of retail fixed broadband and provide 
+innovative competition to each other and to other market participants.  
+79. 
+Market inquiries suggest that iiNet has led a number of innovations (e.g. first to 
+offer ADSL2+ and naked ADSL) and is said to provide an industry leading level 
+of customer service. For example, inquiries have indicated that it offers access to 
+skilled staff in 24-hour support call centres based in Australia, New Zealand and 
+South Africa. iiNet has recorded market leading ‘net promoter scores’, a 
+benchmark for customer satisfaction that is commonly used within the industry.  
+80. 
+Beyond customer service, some market participants have also singled out iiNet 
+among the largest five providers for its strong consumer advocacy in an evolving 
+policy environment. 
+81. 
+Consumers and some other interested parties are concerned that TPG will apply 
+a strategy based on low prices and cost minimisation to iiNet leading to a 
+degradation of iiNet’s high level of customer service. 
+82. 
+However, TPG has publicly indicated that it intends to keep iiNet as a separate 
+brand. This suggests a dual brand strategy with:  
+ 
+iiNet as a premium brand with a particular focus on customer service  
+ 
+TPG as a cost-conscious brand with a particular focus on price. 
+83. 
+The ACCC is considering these issues further, including assessing the 
+constraints that other competitors may pose on the merged entity (discussed 
+below). 
+Constraints from other suppliers, the threat of expansion or entry 
+84. 
+As part of its review, the ACCC is considering the extent of constraints that exist 
+in the relevant market, and whether the merged entity would have an incentive to 
+increase prices and/or reduce service levels in light of these constraints. 
+85. 
+The ACCC has received mixed views regarding the competitive constraints that 
+exist in the relevant market. Some interested parties consider that TPG would 
+continue to be constrained after the acquisition, given the presence of other 
+large suppliers of retail fixed broadband services and the threat that TPG would 
+lose customers to those competitors if it increased prices or reduced service 
+levels.  
+
+
+ 
+ 
+86. 
+Other parties are concerned that TPG may not maintain, and other competitors 
+would not have the ability and incentive to match or better, iiNet’s offer, including 
+its standard of customer service. Further, these parties submit that iiNet 
+customers would be unlikely to switch to other competitors in the event of a price 
+rise or reduction in service quality. 
+87. 
+While some market feedback suggests that retail service providers need a large 
+number of subscribers to achieve economies of scale in order to compete 
+effectively, the ACCC observes that in addition to the large providers identified 
+above, there remain a significant number of smaller participants providing 
+differentiated competition. However, smaller providers may not have sufficient 
+scale to be able to provide a strong competitive constraint on the larger players. 
+88. 
+If constraints from other current suppliers are insufficient in their own right to 
+prevent a substantial lessening of competition arising from the proposed 
+acquisition, then it is relevant to consider what further constraint arises from the 
+threat of new entry.   
+89. 
+The ACCC observes that a feature of the retail broadband market over a number 
+of years has been consolidation through acquisition, with no large scale new 
+entry. However, the ACCC considers that the transition to the NBN offers some 
+prospect of new entry because a wholesale-only network operator facilitates a 
+more level playing field than a vertically integrated Telstra as both network 
+operator and retail service provider.  
+90. 
+The roll out of the NBN is also expected to increase the volume of traffic that will 
+be carried on wholesale transmission networks, which is likely to promote 
+investment in these networks. This may assist to facilitate increased competition 
+in the retail supply of fixed line broadband services. 
+The ACCC invites comments from market participants on its preliminary views on the 
+potential effect of the proposed acquisition on competition for the supply of retail fixed 
+broadband services. Interested parties may wish to comment on the following: 
+ 
+the extent to which iiNet is currently a close competitor to TPG 
+ 
+the level of competitive constraint provided by Telstra, Optus, M2 and other market 
+participants  
+ 
+the extent to which customers of iiNet and TPG would switch to other providers if 
+the merged firm sought to increase prices or degrade its non-price offer 
+ 
+the likelihood of entry by fixed broadband service providers not present in the 
+market and/or the likelihood of expansion from providers already present, both now 
+and following the transition to the NBN 
+ 
+the extent to which the loss of iiNet as an independent competitor is likely to 
+reduce competitive tension in the market in respect of prices, innovation or quality 
+of service. 
+Issue unlikely to raise concerns 
+Vertical effects in the market for supply of wholesale transmission services 
+91. 
+The ACCC’s preliminary view is that the proposed acquisition is unlikely to raise 
+concerns that would result in a substantial lessening of competition in the market 
+for the supply of wholesale transmission services. 
+
+
+ 
+ 
+92. 
+Of the five largest suppliers of retail broadband (i.e. Telstra, Optus, TPG, iiNet 
+and M2), iiNet and M2 are the only retailers without their own substantial 
+wholesale transmission networks. They acquire most of their transmission 
+services from third party suppliers. 
+93. 
+Interested parties have raised concern that, after the acquisition, iiNet’s 
+customers’ traffic may be carried over to TPG’s own transmission networks 
+(rather than using third party suppliers’ networks to the same extent that iiNet 
+does currently), thereby increasing the extent to which TPG is vertically 
+integrated.  
+94. 
+Any reduction in iiNet’s demand for these services would in turn reduce the 
+residual demand for wholesale transmission services supplied by non-integrated 
+transmission service providers. Some parties have suggested that this could 
+potentially make it too difficult for non-integrated wholesale transmission 
+providers to reach sufficient economies of scale in order to compete effectively. 
+95. 
+However, the material which the ACCC has reviewed to date does not support 
+the contention that the removal of iiNet as an acquirer of wholesale transmission 
+services would cause so substantial a disturbance to this market as to result in a 
+substantial lessening of competition within this market or any other relevant 
+market. In particular, while iiNet is an important purchaser of these services, 
+there will remain a significant number of other purchasers (and suppliers) even if 
+iiNet reduces its demand following the proposed acquisition. Further, the ACCC 
+notes that non-integrated suppliers of wholesale transmission services will have 
+a strong incentive to facilitate the entry and expansion of retail fixed broadband 
+providers in order to ensure that they have a strong base of customers. 
+The ACCC invites comments from market participants in relation to the market for 
+supply of wholesale transmission services. Interested parties may wish to comment on 
+how the potential reduction of iiNet’s demand for wholesale transmission services from 
+non-integrated suppliers would alter the level of competition in this market or any other 
+market. 
+Horizontal effects in other markets 
+96. 
+The ACCC’s preliminary view is that the proposed acquisition is unlikely to result 
+in a substantial lessening of competition in markets relating to the supply of fixed 
+voice, mobile voice, mobile broadband or subscription television services.  
+97. 
+However, the major telecommunication service providers typically offer bundling 
+as a way of competing to attract customers. Therefore, while the ACCC is 
+unlikely to have concerns about the effect of the proposed acquisition on the 
+supply of these products in their own right, any concerns arising in the retail fixed 
+broadband market may also affect competition in these markets. 
+ACCC's future steps 
+98. 
+The ACCC will finalise its view on this matter after it considers submissions 
+invited by this Statement of Issues. 
+99. 
+As noted above, the ACCC now seeks submissions from market participants on 
+each of the issues identified in this Statement of Issues and on any other issue 
+that may be relevant to the ACCC's assessment of this matter. Submissions are 
+to be received by the ACCC no later than 2 July 2015 and should be emailed to 
+TPG-iiNet-Merger@accc.gov.au. 
+
+
+ 
+ 
+100. The ACCC intends to publicly announce its final view by 20 August 2015. 
+However the anticipated timeline may change in line with the Merger Review 
+Process Guidelines. A Public Competition Assessment for the purpose of 
+explaining the ACCC's final view may be published following the ACCC's public 
+announcement. 

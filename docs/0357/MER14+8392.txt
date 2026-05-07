@@ -1,0 +1,938 @@
+Page 1 of 17 
+ 
+ 
+Public Competition Assessment 
+4 August  2014 
+BlueScope Steel Ltd – proposed acquisition of Orrcon 
+Steel  
+Introduction 
+1. 
+On 5 December 2013, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of 
+certain Orrcon pipe and tube manufacturing and distribution assets and other 
+associated assets (Orrcon) from Hills Holding Limited (Hills) by BlueScope 
+Steel Ltd (BlueScope) (the proposed acquisition). The ACCC decided that the 
+proposed acquisition would be unlikely to have the effect of substantially 
+lessening competition in any market in contravention of section 50 of the 
+Competition and Consumer Act 2010 (the Act). 
+2. 
+The ACCC made its decision on the basis of information provided by the merger 
+parties, information arising from its market inquiries and other relevant industry 
+sources of publicly available and confidential information. This Public 
+Competition Assessment outlines the basis on which the ACCC reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ 
+a proposed acquisition is opposed; 
+ 
+a proposed acquisition is subject to enforceable undertakings; 
+ 
+the merger parties seek such disclosure; or 
+ 
+a proposed acquisition is not opposed but raises important issues that the 
+ACCC considers should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition was not opposed but raises important issues that the ACCC 
+considers should be made public. 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC's analysis of various markets and 
+the associated merger and competition issues.  
+
+
+ 
+Page 2 of 17 
+ 
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and 
+decision outlined in one Public Competition Assessment will be conclusive of the 
+ACCC’s view in respect of other transaction proposals, as each matter will be 
+considered on its own merits. 
+7. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition at the time the decision was made. As 
+such Public Competition Assessments may not definitively identify and explain 
+all issues that the ACCC considers arise from a proposed acquisition. Further, 
+the ACCC’s decisions generally involve consideration of both non-confidential 
+and confidential information provided by the merger parties and market 
+participants. In order to maintain the confidentiality of particular information, 
+Public Competition Assessments do not contain any confidential information or 
+its sources. 
+8. 
+This Public Competition Assessment outlines the circumstances and 
+assessment at the time of the ACCC decision. Events that have occurred post 
+the ACCC decision that are relevant to this matter are clearly identified. 
+The parties 
+The acquirer: BlueScope  
+9. 
+BlueScope is a vertically integrated steel manufacturer and distributor listed on 
+the Australian Securities Exchange (ASX).  
+10. 
+BlueScope is the only manufacturer in Australia of steel slab, at its Port Kembla 
+steelworks. The steelworks has a capacity of 2.6 million tonnes per annum. 
+Through its subsidiary, Coated and Industrial Products Australia (CIPA), 
+BlueScope processes steel slab into a range of steel products classified as ‘flat 
+steel’ products. Further information on the flat steel product supply chain is 
+provided below.  
+11. 
+In addition to CIPA, BlueScope has a number of businesses at various levels of 
+the flat steel supply chain, including in steel products distribution and businesses 
+carrying out additional manufacturing functions. 
+12. 
+BlueScope’s steel and tube distribution subsidiary is BlueScope Distribution. It 
+distributes mainly long steel products, for example pipe and tube products, and 
+steel plate. Pipe and tube products are regarded in the Australian industry as a 
+form of long steel products, however they differ from other long products in that 
+they are manufactured from flat steel products such as hot rolled coil (HRC), 
+galvanised coil and cold rolled coil (CRC). BlueScope CIPA is the only domestic 
+manufacturer of these inputs. 
+The target: Orrcon  
+13. 
+At the time of the ACCC’s review, Orrcon was a wholly owned subsidiary of Hills. 
+Of most relevance to the proposed acquisition, Orrcon operated a vertically 
+integrated pipe and tube manufacturing business and a steel and tube 
+distribution business. Orrcon manufactured pipe and tube products at facilities at 
+Salisbury, Queensland, and O’Sullivan’s Beach, South Australia. Orrcon was the 
+only Australian manufacturer of precision steel and pipe. Orrcon distributed steel 
+and tube products through 12 sites across Australia.   
+
+
+ 
+Page 3 of 17 
+ 
+Industry background  
+14. 
+The steel supply chain in Australia is complex with a number of functional levels, 
+numerous types of steel products, various manufacturing processes and a global 
+dynamic through imports and exports. 
+15. 
+There are two broad forms of steel products: flat and long. As stated above, 
+BlueScope, through its subsidiary CIPA, is the only Australian manufacturer of 
+flat steel products. Arrium Ltd (Arrium) is the only Australian manufacturer of 
+long products. 
+16. 
+Steel producers use inputs such as iron ore, coal and steel scrap to form raw 
+steel either through using a basic oxygen furnace, or an electric arc furnace. 
+Raw steel is then passed through a casting machine which moulds and solidifies 
+the steel into semi-finished steel products known as ‘slab’, ‘billets’ or ‘blooms’. 
+Steel slab, billets and blooms then undergo further processing to produce a 
+range of flat or long steel products.  
+17. 
+Flat steel products are steel products produced from steel slab. Specifically, 
+steel slab is reheated and passed through a rolling mill to produce HRC or a 
+form of ‘steel plate’. HRC may be subject to further processing to manufacture 
+CRC and coil plate.  
+18. 
+As noted previously, pipe and tube products are regarded in the Australian 
+industry as a form of long steel products, but they differ from other long products 
+in that they are manufactured from flat steel products such as HRC, galvanised 
+coil and CRC. BlueScope CIPA is the only domestic manufacturer of these 
+inputs. 
+19. 
+Customers of steel and tube distributors typically include fabricators, engineering 
+workshops and construction companies. Examples include manufacturers of 
+products for residential buildings (frames, beams, posts etc.), and automotive 
+components (such as tow bars and bull bars). Figure 1 below illustrates the pipe 
+and tube supply chain and the place of the proposed acquisition in the supply 
+chain. 
+
+
+ 
+Page 4 of 17 
+ 
+Figure 1: Structural pipe and tube supply chain  
+ 
+Pipe and tube manufacturing 
+20. 
+Pipe and tube products fall into four broad categories:  
+ 
+structural pipe and tube; 
+ 
+precision pipe and tube; 
+ 
+oil and gas pipe; and 
+ 
+water pipe.  
+21. 
+Structural pipe and tube products are used in building, manufacturing and 
+engineering applications and are manufactured at separate mills from precision 
+pipe and tube. Orrcon, Australian Tube Mills (ATM) and Independent Tube Mills 
+(ITM) are the only manufacturers of structural pipe and tube products.  
+22. 
+The ACCC understands that, in respect of structural pipe and tube, the three 
+domestic manufacturers represent approximately 60–65 per cent of total 2011/12 
+industry sales with the balance supplied via imports.  
+23. 
+Precision products are used in furniture, home improvement, agricultural and 
+automotive applications (for example, exhaust pipes). Orrcon is the only 
+precision pipe and tube manufacturer in Australia.  
+24. 
+Oil and gas pipe is used in pipeline construction and is not currently 
+manufactured domestically with both Orrcon and ATM ceasing production in the 
+past two years. Water pipelines are cement lined steel pipes with the only 
+Australian manufacturer being Pentair.  
+
+
+ 
+Page 5 of 17 
+ 
+Steel and tube distribution 
+25. 
+Pipe and tube products are one of the main product categories distributed by 
+steel and tube distributors along with structural sections, merchant bar and steel 
+plate. As noted above, distributors source pipe and tube products, merchant bar 
+and structural sections from domestic manufacturers or via imports and in the 
+case of steel plate from either BlueScope CIPA or via imports.  
+26. 
+Distributors form a link between steel mills and steel product manufacturers and 
+their customers that, due to limited scale, are not able to obtain viable supply 
+directly from a steel mill. The other features or characteristics of steel and tube 
+distribution, compared with supply direct from a steel mill or manufacturer, are:  
+ 
+distributors are located close to customers (there are distribution outlets in 
+each of the major metropolitan and regional centres);  
+ 
+distributors provide a wide product range, short order-to-delivery times, low 
+minimum volumes and other associated services such as product support, 
+and less onerous credit terms than if the customer were to acquire steel 
+direct from a manufacturer; and 
+ 
+some distributors offer processing services.  
+27. 
+Steel and tube distributors can be vertically integrated with a manufacturer, as is 
+the case with Orrcon and ATM, or they can be aligned with a manufacturer from 
+which they agree to purchase the bulk of their inputs.  Alternatively, they may be 
+independent purchasers of steel products that source from a mix of domestic 
+manufacturers and imports or solely from imports.   
+28. 
+Steel and tube distributors in most cases do not stock flat steel products, such as 
+painted coil. These products are distributed by what the industry refers to as 
+‘sheet and coil’ distributors. In some limited cases, particularly in regional areas, 
+a distributor may stock both flat and long products, however these instances 
+appear to be rare due to different customer profiles and distinct storage and 
+processing equipment requirements. 
+The proposed transaction  
+29. 
+BlueScope proposed to acquire certain Orrcon pipe and tube manufacturing and 
+distribution assets from Hills.  
+Areas of overlap  
+30. 
+The merger parties overlapped in the distribution of steel and tube products. 
+BlueScope’s distribution business has sites in each Australian state and territory, 
+with the exception of the Australian Capital Territory. Orrcon’s distribution 
+business has sites in Victoria, New South Wales, South Australia, Western 
+Australia and Queensland.  
+31. 
+The merger parties did not overlap horizontally at other levels of the supply 
+chain. However, the proposed acquisition will result in the vertical integration of 
+BlueScope’s CIPA business with Orrcon’s pipe and tube manufacturing assets 
+and with both parties’ distribution businesses. 
+
+
+ 
+Page 6 of 17 
+ 
+Other industry participants  
+Pipe and tube manufacturers  
+Australian Tube Mills  
+32. 
+ATM is a wholly owned subsidiary of Arrium. ATM manufactures structural pipe 
+and tube products from facilities at Acacia Ridge in Queensland, Newcastle in 
+New South Wales, and Somerton in Victoria. ATM supplies customers directly or 
+through distributors, including its related steel and tube distribution businesses 
+OneSteel (trading under the Metalcentre and Metaland brands). 
+Independent Tube Mills  
+33. 
+ITM is a privately owned Australian company. ITM commenced pipe and tube 
+manufacturing in 2010, from a production facility in Ravenhall, Victoria. ITM 
+distributes its structural pipe and tube products predominantly through 
+BlueScope Distribution. 
+Import traders  
+34. 
+There are a number of import traders that acquire finished pipe and tube 
+products from overseas suppliers. Import traders include Minmetals, Toyota 
+Tsusho Australasia, Metal One, CMC Metals, Southern Steel Group and 
+Steelforce.  
+National steel and tube distributors  
+OneSteel  
+35. 
+OneSteel, owned by Arrium, distributes steel and tube products trading under 
+the Metaland, Metalcentre and Midalia Steel (in Western Australia) brands. 
+Metaland, Metalcentre and Midalia deliver a wide range of steel products and 
+associated processing services. OneSteel has 77 distribution sites nation-wide.  
+Southern Steel Group  
+36. 
+Southern Steel Group (Southern Steel) is the largest privately owned distributor 
+of steel and tube products in Australia. Southern Steel distributes and processes 
+steel and tube (as well as sheet and coil) products throughout Australia. 
+Southern Steel’s subsidiaries include Brice Metals, Southern Steel Sheet and 
+Coil, Southern Steel Supplies and Australian Rollforming Manufacturers. 
+Steelforce  
+37. 
+Steelforce manufactures pipe and tube products in China. Steelforce primarily 
+distributes steel and tube from its Sydney, Brisbane, Melbourne and Perth 
+distribution sites.  
+CMC Australia 
+38. 
+CMC Australia distributes long steel products, sheet and coil products and 
+provides processing services for sheet and coil, steel plate and long products. 
+CMC distributes steel and tube products from its distribution sites in Sydney, 
+Melbourne, Perth and Brisbane.  
+Regional distributors  
+39. 
+Regional based steel and tube distributors include Vulcan Steel, Apex Steel, 
+Nubco, GAM Steel and Central Steel.  
+
+
+ 
+Page 7 of 17 
+ 
+Review timeline 
+40. 
+The following table outlines the timeline of key events in this matter.  
+Date  
+Event  
+04-Sept-2013 
+ACCC commenced review under the Merger Process 
+Guidelines. Market inquiries commenced. 
+25-Sept-2013  Closing date for submissions from interested parties.  
+15-Oct-2013  
+Former proposed decision date of 31 October 2013 delayed 
+pending receipt of further information from the merger parties. 
+ACCC timeline suspended.  
+11-Nov-2013  
+ACCC received further information from the merger parties. 
+ACCC timeline recommenced.  
+05-Dec-2013  
+ACCC announced that it would not oppose the proposed 
+acquisition.  
+Market inquiries  
+41. 
+The ACCC conducted market inquiries with a range of market participants 
+including rival pipe and tube manufacturers, importers of pipe and tube inputs 
+and pipe and tube products, rival steel and tube distributors, industry 
+associations and government departments.  
+Future with/without the proposed acquisition 
+42. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect 
+or be likely to have the effect of substantially lessening competition in a market. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to 
+the likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+43. 
+The ACCC assessed the proposed acquisition against the status quo. Orrcon 
+had been the subject of a sale process. In the event that BlueScope did not 
+acquire Orrcon, Hills may have retained the business or may have sold Orrcon to 
+another party. 
+Competition Analysis  
+Market definition  
+44. 
+The ACCC considered the proposed acquisition in the context of the following 
+markets: 
+ 
+the national markets for the supply of the following inputs to pipe and tube 
+manufacturers and other users: 
+o 
+HRC; 
+o 
+CRC;  
+o 
+galvanised coil; 
+
+
+ 
+Page 8 of 17 
+ 
+(collectively pipe and tube inputs) 
+ 
+the national market for the supply of structural pipe and tube products; 
+ 
+the distribution of steel and tube products in the following regions: 
+o 
+northern Queensland (centred around Townsville); 
+o 
+south-eastern Queensland and northern New South Wales (centred 
+around Brisbane); 
+o 
+central and southern New South Wales (centred around Sydney); 
+o 
+central and eastern Victoria (centred around Melbourne); 
+o 
+South Australia and western Victoria (centred around Adelaide); 
+o 
+Western Australia (centred around Perth); and 
+o 
+Tasmania.  
+ 
+The supply of HRC, CRC and galvanised coil to pipe and tube 
+manufacturers and other users 
+Product dimension  
+45. 
+The ACCC notes that flat steel products, including HRC, CRC and galvanised 
+coil, are supplied to a wide range of customers, including manufacturers and 
+distributors. Relevant to the proposed acquisition is the use of these flat steel 
+products by pipe and tube manufacturers.  
+46. 
+The ACCC considered the appropriate product markets for considering the 
+supply of pipe and tube inputs to be separate markets for each of HRC, CRC 
+and galvanised coil, being the three main flat steel products utilised by Australian 
+pipe and tube manufacturers. HRC constitutes a significant proportion of the 
+overall pipe and tube inputs utilised by manufacturers.  
+47. 
+The ACCC recognised that pipe and tube manufacturers require specific 
+differentiated pipe and tube inputs. This differentiation is based on chemical 
+properties and other factors which result in specific mechanical properties or 
+grades. Due to customer requirements for specific end-use pipe and tube 
+products, manufacturers would not substitute between different types of input 
+(for example, HRC and galvanised coil) and grades and dimensions of coil.  
+48. 
+The ACCC understands that overseas manufacturers of pipe and tube inputs 
+typically supply a large range of HRC, CRC and galvanised coil inputs in the 
+specific grades and dimensions required by Australian pipe and tube 
+manufacturers.  Information provided by market participants and other publicly 
+available information, such as decisions by the Anti-Dumping Commission 
+(ADC), indicated that steel and tube inputs are manufactured overseas to the 
+same or similar grades and dimensions as supplied by BlueScope CIPA. The 
+ACCC considered that these overseas-manufactured pipe and tube inputs are 
+substitutable with those manufactured by BlueScope CIPA.   
+49. 
+For the purpose of its competition analysis, the ACCC assessed the proposed 
+acquisition in the context of separate markets for each of HRC, CRC, and 
+galvanised coil. However the ACCC did not consider product market definition to 
+be determinative of its assessment of the proposed acquisition. 
+
+
+ 
+Page 9 of 17 
+ 
+Geographic dimension 
+50. 
+The ACCC considered that the geographic scope of the markets is national. 
+BlueScope CIPA and other suppliers, such as import traders and overseas steel 
+mills, supply to pipe and tube manufacturers and other users across Australia.  
+Supply of structural pipe and tube products  
+Product dimension 
+51. 
+The steel industry generally classifies steel and tube products into the following 
+four categories: structural pipe and tube; precision pipe and tube; water pipe; 
+and oil and gas pipes. The ACCC’s view is that only the supply of structural pipe 
+and tube products is relevant to the proposed acquisition.  
+52. 
+Oil and gas pipe products are not manufactured in Australia. Water pipe and 
+tube products are only manufactured by Pentair and it is not possible to 
+manufacture structural or precision pipe and tube products using water pipe and 
+tube machinery.  
+53. 
+Orrcon was the only manufacturer of precision pipe and tube products and 
+manufactured relatively small volumes of these products. Due to their smaller 
+diameters and thinner walls, precision pipe and tube products are not 
+substitutable with structural pipe and tube products from a customer perspective. 
+Market feedback also indicated that precision pipe and tube products are 
+imported in significant volumes. No market participants raised concerns in 
+respect of the potential impact of the proposed acquisition on the supply of 
+precision pipe and tube products.  
+54. 
+Structural pipe and tube suppliers, such as Orrcon, offer a wide range of 
+structural pipe and tube products intended for numerous end-use applications. 
+Broadly these products are differentiated by whether they are square hollow, 
+circular hollow, or rectangular hollow, and the coating or finish on the product. 
+Within each category a supplier would offer a wide range of gauges and 
+diameters to suit the specifications of customers. Products are often supplied by 
+reference to relevant Australian Standards. The ACCC understands that 
+generally customers would not consider one form of structural pipe and tube 
+product to be a close substitute with another due to their specific end-use 
+requirements.   
+55. 
+Structural pipe and tube suppliers, including manufacturers, are able to supply a 
+wide range of structural pipe and tube products without the requirement for 
+additional or specialty machinery. Manufacturing equipment can be adjusted to 
+produce structural pipe and tube products in various shapes and measurements. 
+56. 
+Based on the ease of supply side substitution, the ACCC formed the view that 
+the appropriate product dimension is the supply of structural pipe and tube 
+products. Market inquiries indicate that imports of structural pipe and tube 
+products are substitutable with Australian manufactured structural pipe and tube 
+products. 
+Geographic dimension 
+57. 
+The ACCC considered that the geographic scope of the market was national. 
+Orrcon, ATM and other suppliers, such as import traders and overseas steel 
+mills, supply structural pipe and tube products to users across Australia.  
+
+
+ 
+Page 10 of 17 
+ 
+Distribution of steel and tube products  
+Product dimension 
+58. 
+Steel and tube distributors supply a range of long steel products, including 
+structural pipe and tube products, merchant bar, reinforcing steels and steel 
+plate. Distributors also offer processing services (for example, cutting) to provide 
+steel products to the specifications of the customer. Customers have no 
+incentive to substitute between the different products offered by distributors due 
+to specific end-use requirements.  
+59. 
+To the extent that distributors do not offer certain steel and tube products, it 
+appears they can readily expand utilising established warehousing and 
+processing equipment to offer a wider range. The ACCC’s view was therefore 
+that the relevant market was the market for distribution of steel and tube 
+products.  
+60. 
+As noted above, distributors also offer a range of processing services to tailor 
+steel product to specific customer requirements. Processing services include 
+length cutting, plate profiling and beam processing. The ACCC considered the 
+ease with which steel and tube distributors without processing capability could 
+acquire processing equipment and thereby expand to offer processing services. 
+The ACCC concluded that the investment and time required to commence the 
+processing of steel and tube products was not substantial.  
+Geographic dimension 
+61. 
+Market feedback indicated that, due to customers’ ‘just in time’ delivery 
+requirements and the cost associated with transporting steel and tube products, 
+steel and tube distributors are generally located within 2 – 3 hours drive of 
+customers. As a consequence, the ACCC considered that the markets for steel 
+and tube distribution are regionally based. As noted above in the Areas of 
+Overlap section, BlueScope and Orrcon overlapped in five geographical areas. 
+The ACCC’s view was that these regions constituted relevant geographic 
+markets for considering the proposed acquisition.  
+62. 
+The ACCC also considered that Tasmania was likely to be a relevant geographic 
+market due to the potential for Tasmanian distributors to be impacted by the 
+proposed acquisition. Market inquiries indicated that steel and tube distributors 
+based in Victoria distribute products in Tasmania only to a limited extent. 
+Competition Assessment  
+63. 
+The ACCC’s assessment focussed on whether BlueScope’s increased vertical 
+integration as a result of the proposed acquisition would provide it with the ability 
+and incentive to foreclose competition in the relevant markets leading to higher 
+prices or reduced quality.   
+64. 
+In particular, the ACCC considered whether the acquisition would enable 
+BlueScope to raise its rivals’ costs (input foreclosure) by: 
+ 
+no longer supplying, or supplying at higher prices or lower quality, pipe and 
+tube inputs to rival pipe and tube manufacturers; and/or 
+ 
+no longer selling to, or increasing the price or reducing the quality of 
+structural pipe and tube products supplied to, rival steel and tube 
+distributors.  
+
+
+ 
+Page 11 of 17 
+ 
+65. 
+The ACCC also considered whether the proposed acquisition would enable 
+BlueScope to foreclose its upstream rivals’ access to customers (customer 
+foreclosure), thus reducing rivals’ expected revenues by: 
+ 
+ceasing to source pipe and tube inputs from rival upstream suppliers; 
+and/or  
+ 
+ceasing to distribute structural pipe and tube products manufactured by 
+rival manufacturers.  
+66. 
+The ACCC also considered the potential competitive impact of horizontal 
+aggregation of the BlueScope and Orrcon steel and tube distribution businesses 
+in the relevant steel and tube distribution markets listed above.  
+Foreclosure of rival pipe and tube manufacturers’ access to pipe 
+and tube inputs  
+67. 
+BlueScope is the only domestic manufacturer of the pipe and tube inputs 
+supplied to ATM and ITM. The acquisition of the Orrcon pipe and tube 
+manufacturing business will mean that BlueScope will be both the main supplier 
+of inputs to, and a competitor of, the other pipe and tube manufacturers.   
+68. 
+As a consequence, the ACCC considered whether, as a result of acquiring the 
+Orrcon pipe and tube manufacturing assets, BlueScope would have the ability 
+and incentive to use any upstream market power in the manufacture of structural 
+pipe and tube input products to raise downstream rival pipe and tube 
+manufacturers’ costs. Post-acquisition, BlueScope may have the ability and 
+incentive to foreclose the downstream manufacturing markets by, for example, 
+ceasing to supply inputs to rival manufacturers, or raising the price or reducing 
+the quality of inputs supplied. This may have the effect of reducing the 
+competitive constraint that rival manufacturers place on the merged firm, 
+potentially resulting in a substantial lessening of competition in the market(s) for 
+the supply of structural steel and tube products, leading to higher prices and/or 
+reduced quality. 
+69. 
+In assessing this potential competition concern, the ACCC focussed on the role 
+of imports in constraining any attempted input foreclosure strategy by 
+BlueScope.  
+70. 
+The ACCC received information that indicated that the volume of imports of pipe 
+and tube inputs is significant. Both ATM and ITM have utilised imports of pipe 
+and tube inputs as a substitute to supply from BlueScope CIPA. Further, the 
+price that BlueScope CIPA sets for pipe and tube inputs is related to the price of 
+imports.  
+71. 
+Nevertheless, in the course of the ACCC’s market inquiries, competing 
+manufacturers stated that issues around anti-dumping applications/duties and 
+logistical challenges impact the competitive constraint that imports of pipe and 
+tube inputs place on BlueScope. Thus, competing manufacturers argued that 
+they only had a limited ability to defeat an input foreclosure strategy by switching 
+to imports. 
+Anti-dumping applications and duties 
+72. 
+Based on publicly available data and information provided by the merger parties, 
+successful anti-dumping applications have had the effect of increasing the price 
+and reducing the volume of imports from steel mills and countries subject to the 
+imposed duties.  
+
+
+ 
+Page 12 of 17 
+ 
+73. 
+Market inquiries indicated that anti-dumping applications have had some impact 
+on pipe and tube manufacturers’ ability to source HRC and galvanised coil from 
+overseas sources at competitive prices. Consistent with the ACCC’s review of 
+the Smorgon Steel acquisitions in 2008, it appears that the lodging of 
+applications has some ‘chilling effect’ on the competitive constraint of imports. 
+Namely, it is not just the imposition of duties that have an impact but also the 
+lodging of the application and the commencement of the investigation by the 
+ADC.  
+74. 
+It appears that once an anti-dumping investigation commences, overseas mills, 
+import traders, and importers become reluctant to engage in transactions due to 
+the potential for duties to be levied. For example, a trader may agree to supply a 
+customer but the terms of supply are that the price is exclusive of any duty that is 
+imposed and to the extent duty is imposed the customer agrees to bear this. The 
+result is that importers become reluctant to source supply from a country/mill that 
+is under investigation due to the uncertainty of the final pricing outcome.  
+75. 
+However, some market participants noted that in a number of instances the 
+quantum of the duties imposed on particular mills was not large enough to 
+significantly impact their competitiveness. For example, it was noted that in the 
+case of HRC, South Korean mills had minimal duties (two to five per cent) 
+imposed and at that level supply from those mills was still price competitive.  
+76. 
+The ACCC considered that anti-dumping applications by BlueScope do reduce 
+the strength of imports as an alternative to supply from BlueScope CIPA. 
+However, based on market feedback and information obtained by the ACCC, the 
+ACCC considered that imports of pipe and tube inputs would continue to be a 
+significant source of supply, with pipe and tube manufacturers demonstrating 
+sophistication in obtaining imported supply even when anti-dumping measures 
+have been imposed. 
+Inventory and logistical issues  
+77. 
+Some industry participants submitted to the ACCC that it would not be feasible 
+for pipe and tube manufacturers to significantly expand import volumes due to 
+the need for greater storage, additional capital tied up in inventory and increased 
+complexity in attempting to align import volumes with customer demand.  
+78. 
+Some market participants suggested that managing the long lead times of 
+imports of pipe and tube inputs, often three to four months, are exacerbated by 
+the delivery requirements of downstream pipe and tube customers. Customers of 
+pipe and tube manufacturers generally expect short delivery times from the time 
+of order, depending on the quantity and the specificity of the structural pipe and 
+tube products required. Market participants indicated that BlueScope CIPA’s 
+competitive advantage lies with shorter delivery times compared to imports. 
+These shorter lead times assist manufacturers in more accurately matching pipe 
+and tube input requirements with demand for structural pipe and tube products 
+from customers.   
+79. 
+The ACCC noted the complexities associated with imports, including additional 
+storage and inventory management issues. However, based on publicly 
+available data, market feedback and information provided by the merger parties, 
+the ACCC considered that these challenges can be and have been overcome by 
+pipe and tube manufacturers and, post-acquisition, imports would continue to 
+represent a significant alternative to BlueScope for the supply of pipe and tube 
+inputs. This would reduce BlueScope’s ability and incentive to pursue an input 
+foreclosure strategy that sought to raise rival manufacturers’ costs. 
+
+
+ 
+Page 13 of 17 
+ 
+80. 
+Additionally, the ACCC considered that BlueScope would continue to have an 
+incentive to supply inputs to rival manufacturers of pipe and tube products due to 
+the need to operate the blast furnace at BlueScope’s Port Kembla steelworks at 
+full capacity and the greater profits it earns on downstream domestic sales over 
+exporting excess production.  
+Conclusion 
+81. 
+The ACCC considered that anti-dumping applications and associated duties and 
+logistical issues reduce to some extent the competitive constraint provided by 
+imports. However, the ACCC concluded that despite these issues imports are a 
+viable alternative source of supply of inputs for pipe and tube manufacturers.  
+82. 
+The strength of imports is reflected in the significant volumes over a number of 
+years and BlueScope’s pricing and its correlation to import prices. Any attempt 
+by BlueScope to engage in a foreclosure strategy (either by refusing to supply 
+coil inputs or by increasing prices for these inputs above the current premium 
+over import parity) would be expected to be defeated by an increase in the 
+volume of imports.  
+Foreclosure of rival distributors’ access to structural pipe and tube 
+products 
+83. 
+The ACCC concluded that BlueScope is not likely to have significant market 
+power in the supply of structural pipe and tube products.  Nevertheless, due to 
+concerns raised by distributors of structural pipe and tube products, particularly 
+in Tasmania, the ACCC considered whether, through acquiring the Orrcon pipe 
+and tube manufacturing assets, BlueScope would have the ability and incentive 
+to raise rival steel and tube distributors’ costs.  
+84. 
+Such foreclosure could involve ceasing to supply its structural pipe and tube 
+products to rival distributors, or raising the price or reducing the quality of 
+structural pipe and tube products supplied. This may have the effect of reducing 
+the competitive constraint that rival distributors place on the merged firm, 
+potentially resulting in a substantial lessening of competition in the markets for 
+the distribution of steel and tube products, leading to higher prices and/or 
+reduced quality.  
+85. 
+Market inquiries confirmed that steel and tube distributors obtain supply of 
+structural pipe and tube products from either domestic manufacturers (Orrcon, 
+ATM or ITM) or via imports. Steel and tube distributors often operate a dual 
+sourcing strategy where the majority of structural pipe and tube is sourced from 
+one domestic manufacturer with the remainder sourced from either an alternative 
+domestic manufacturer or via imports. Industry feedback indicated that the 
+source of supply fluctuates based on product availability and price. It is rare for 
+distributors to have formal supply agreements.  
+86. 
+The ACCC noted that the proposed acquisition would not alter the number of 
+potential alternative sources of supply of structural pipe and tube products for 
+steel and tube distributors. Further, it is likely that rival distributors would be able 
+to bypass BlueScope and thus defeat an input foreclosure strategy if BlueScope 
+sought to use the Orrcon assets to raise rival distributors’ costs by foreclosing 
+their access to structural pipe and tube products. BlueScope could be bypassed 
+by rival distributors obtaining supply from: 
+ 
+other domestic structural pipe and tube manufacturers – principally ATM 
+and to a lesser extent ITM; and/or 
+ 
+imports, either via import traders or direct from overseas steel mills.  
+
+
+ 
+Page 14 of 17 
+ 
+Domestic sources of supply 
+87. 
+The ACCC concluded that ATM represented the strongest alternative for the 
+supply of structural pipe and tube products were BlueScope to pursue an input 
+foreclosure strategy. Market inquiries indicated that ATM had a comparable 
+range of structural pipe and tube products to Orrcon and offered competitive 
+pricing and service support.  
+88. 
+The ACCC considered that in some cases ITM may represent an alternative 
+source of supply for steel and tube distributors. Market feedback indicated that 
+ITM’s competitive advantage is its location in Victoria, close to a number of steel 
+and tube distributors and the corresponding lower transport costs it incurred 
+compared to the other manufacturers.  
+89. 
+The ACCC considered that the ability of rival distributors to source structural pipe 
+and tube products from alternative domestic manufacturers, particularly ATM, 
+would likely reduce BlueScope’s ability and incentive to pursue an input 
+foreclosure strategy and instead provide a competitive discipline on BlueScope 
+such that it will have an incentive to maintain supply of structural pipe and tube 
+products to rival distributors at competitive prices and terms.  
+Imports as a source of supply 
+90. 
+The ACCC also recognised that for a number of steel and tube distributors, 
+imports are also a viable alternative to domestic supply. However, the ACCC 
+noted market feedback that issues associated with anti-dumping 
+applications/duties, Australian Standards and logistical challenges impact the 
+strength of imported structural pipe and tube products as an alternative to supply 
+from Orrcon, ATM or ITM.  
+91. 
+The ACCC considered that anti-dumping applications and the imposition of 
+duties have a 'chilling effect' on imports’ competitive constraint in the short-term. 
+Overseas manufacturers and mills become reluctant to supply to Australia when 
+an ADC investigation is initiated and terms of supply often come with clauses 
+that make the end customer liable for any duty that may be applied. Further, for 
+manufacturers that have had a significant duty imposed, their ability to offer 
+competitively priced supply to Australian customers is severely impacted.  
+92. 
+It appears, therefore, that there is an initial period of disruption while importers 
+find alternative sources of structural pipe and tube products. Nevertheless, 
+based on information provided by market participants and data collected by the 
+ACCC, in the medium term it appears that anti-dumping applications may not 
+significantly reduce the competitive constraint provided by imports. 
+93. 
+Some market participants raised concerns about BlueScope and Arrium using 
+the Australian Standards process to impose additional barriers to imports. The 
+ACCC considered that adhering to Australian Standards adds additional 
+complexity to importing structural pipe and tube products. Further, these 
+standards may change from time to time which would add to the complexity.  
+94. 
+The ACCC understood that the Australian Standards’ amendment process, 
+which is managed by Standards Australia, is a lengthy and transparent process 
+and that comment is sought from all potential affected stakeholders, including 
+importers, in respect of any proposed changes to an industry standard. For an 
+existing Australian Standard to be changed, a party must demonstrate a benefit 
+to the community as a whole that exceeds the costs likely to be imposed from its 
+development and implementation.  
+
+
+ 
+Page 15 of 17 
+ 
+95. 
+The ACCC was satisfied that in the case of steel standards the process 
+undertaken by Standards Australia should ensure that BlueScope and Arrium 
+are not able to influence the amendment of relevant structural pipe and tube 
+standards as a means of reducing the strength of imports as a potential 
+alternative to domestic supply.  
+96. 
+Market inquiries indicated that managing the importation of structural pipe and 
+tube products does add a degree of complexity to the supply chain. Lead times 
+can be long (three to four months) with resulting issues in matching supply with 
+demand and potential cash flow implications. However, despite these logistics 
+challenges the volume of structural pipe and tube imports indicated that they can 
+be overcome by some distributors and direct customers.  
+Tasmanian distributors’ access to structural pipe and tube products 
+97. 
+A number of market participants raised concerns about the potential impact of 
+the proposed acquisition on Tasmanian distributors’ access to structural pipe 
+and tube products. In particular, some market participants considered that 
+BlueScope would have the ability and incentive to foreclose rival Tasmanian 
+distributors’ access to structural pipe and tube products, potentially leading to a 
+substantial lessening of competition in that regional distribution market.  
+98. 
+Unlike elsewhere in Australia, the number of steel and tube distributors in 
+Tasmania is limited with BlueScope, OneSteel (through the Metaland and 
+Metalcentre brands) and Nubco being the major distributors. With the exception 
+of GAM Steel, Victorian based steel and tube distributors generally do not supply 
+into Tasmania.  
+99. 
+The ACCC gave particular consideration to the potential impact of the proposed 
+acquisition on the Tasmanian distribution market due to Nubco obtaining 
+significant volumes of structural pipe and tube products from Orrcon. In 
+particular, post-acquisition Nubco would be the only significant non-integrated 
+distributor in Tasmania. Market inquiries suggested that Nubco’s ability to 
+bypass BlueScope to obtain supply from alternative sources of structural pipe 
+and tube products may be more limited than steel and tube distributors located in 
+the other markets due to the role of the Tasmanian Freight Equalisation Scheme 
+(TFES).  
+100. The TFES is intended to compensate Tasmanian manufacturing and mining 
+businesses for the cost of shipping raw materials, machinery and equipment 
+from mainland Australia to Tasmania. To be eligible for compensation, the goods 
+must be a raw material or equipment to be used in a production or manufacturing 
+process, be produced or manufactured in mainland Australia (or if imported 
+undergone a manufacturing process in mainland Australia), have a sea freight 
+cost disadvantage and be transported across the Bass Strait as ‘non-bulk’ cargo.  
+101. Some Tasmanian steel and tube distributors submitted that the TFES limited the 
+extent to which they could source structural pipe and tube products from import 
+traders or via overseas steel mills because imported products are not eligible for 
+subsidy under the TFES and therefore distribution customers could not claim a 
+rebate.  
+102. In market inquiries, downstream customers indicated that the TFES only has 
+limited influence in their decision making process when deciding which 
+distributor to acquire structural pipe and tube from. In particular, customers of 
+structural pipe and tube products in Tasmania indicated that the time and 
+complexity associated with applying for subsidies under the TFES and the 
+
+
+ 
+Page 16 of 17 
+ 
+limited financial benefits available meant that it had minimal bearing over 
+decision making in sourcing structural pipe and tube products.   
+Conclusion 
+103. The ACCC concluded that were BlueScope to attempt to foreclose rival steel and 
+tube distributors’ access to structural pipe and tube products then rival 
+distributors would likely be able to bypass it and defeat the attempted foreclosure 
+through obtaining supply from: 
+ 
+alternative domestic structural pipe and tube manufactures – principally 
+ATM and to a lesser extent ITM; and/or 
+ 
+imports, either via import traders or direct with overseas steel mills.  
+104. In respect of steel and tube distribution in Tasmania, after careful consideration 
+and extensive consultation with rival distributors and customers in Tasmania, the 
+ACCC concluded that were BlueScope to pursue a foreclosure strategy, then 
+rival steel and tube distributors in Tasmania would likely be able to defeat the 
+strategy by bypassing BlueScope and obtaining supply from either: 
+ 
+import traders or distributors based in other states, such as Steelforce, 
+which supply structural pipe and tube products; and/or 
+ 
+to some extent the structural pipe and tube manufacturer, ITM. 
+105. Further, the ACCC was of the view that to the extent rival Tasmanian 
+distributors, such as Nubco, may be impacted in obtaining competitive supply of 
+structural pipe and tube products, the effect would be unlikely to represent a 
+substantial lessening of competition in that distribution market. Nubco's 
+customers would have competitive alternatives, principally in the form of GAM 
+Steel and other smaller distributors.  
+Foreclosure of rival pipe and tube input suppliers’ access to 
+customers  
+106. The ACCC also considered whether the loss of Orrcon as an independent 
+customer or potential customer for pipe and tube inputs may reduce the 
+distribution opportunities for BlueScope's rivals, such as import traders, to such 
+an extent that their unit costs increased. This would place them at a cost 
+disadvantage and reduce the competitive constraint on BlueScope. 
+107. The ACCC concluded, in respect of pipe and tube inputs, that rival suppliers 
+(import traders) would continue to have access to a large pool of alternative 
+customers in the relevant markets and in other steel industry markets. In 
+addition, Orrcon currently acquires a substantial majority of its pipe and tube 
+inputs from BlueScope CIPA.  
+108. To the extent suppliers are impacted they would continue to have a large range 
+of users of pipe and tube inputs, such as galvanised coil, other than just pipe and 
+tube manufacturers, to which BlueScope’s rivals could seek to supply directly. 
+Foreclosure of rival structural pipe and tube suppliers’ access to 
+customers 
+109. The ACCC anticipated that post-acquisition BlueScope Distribution would obtain 
+a significant volume of its structural pipe and tube products from the Orrcon 
+manufacturing assets. As a consequence, the ACCC also considered whether 
+the potential loss of BlueScope Distribution as a customer of structural pipe and 
+
+
+ 
+Page 17 of 17 
+ 
+product suppliers would significantly impact the competitiveness of rival 
+suppliers.  
+110. In considering the impact on structural pipe and tube manufacturers the ACCC 
+particularly focussed on the potential effect on ITM. The ACCC understood that 
+BlueScope Distribution was a large customer of ITM for the supply of structural 
+pipe and tube products. The ACCC considered that post-acquisition BlueScope 
+Distribution would likely reduce or cease obtaining supply from ITM and instead 
+utilise the Orrcon manufacturing assets.  
+111. However, the ACCC considered that ITM would continue to have a large number 
+of potential alternative customers, including other steel and tube distributors and 
+end customers of structural pipe and tube products. The ACCC considered that 
+the availability of a large number of alternative customers would also be 
+applicable to other structural pipe and tube suppliers (for example, ATM and 
+importers).   
+112. The ACCC concluded that it would be unlikely that post-acquisition BlueScope 
+would have the ability and incentive to significantly foreclose rival structural pipe 
+and tube suppliers’ access to downstream customers.  
+Horizontal aggregation in steel and tube distribution 
+113. BlueScope Distribution and Orrcon overlap in six geographically separate steel 
+and tube distribution markets. While barriers to entry are high, the ACCC 
+concluded that the merged firm would be constrained in the relevant steel and 
+tube distribution markets by the presence of numerous alternatives with excess 
+capacity and the ability of customers to switch easily between these alternatives.  
+114. In all five markets, the merged firm would be constrained by Southern Steel and 
+OneSteel and numerous smaller distributors. These rival distributors offer 
+comparable product ranges and, importantly, in most cases also have 
+processing capability. Smaller distributors, in particular Vulcan Steel, CMC Coil 
+Steels and Steelforce, use imports, to some extent, as a means to offer lower 
+prices and differentiate themselves from larger distributors.  
+115. The ACCC concluded that there are low switching costs with a strong market 
+dynamic of customers making orders on a spot or quote basis. Market 
+participants noted that customers generally contact different distributors seeking 
+quotes for a particular order with the expectation of short delivery times. While 
+some customers had a ‘preferred’ supplier arrangement, market inquiries 
+indicated that it was rare for there to be formal supply agreements between 
+customers and distributors.  
+116. For these reasons the ACCC concluded that the horizontal aggregation of the 
+BlueScope and Orrcon distribution businesses would be unlikely to result in a 
+substantial lessening of competition.  
+Conclusion  
+117. On the basis of the above the ACCC formed the view that BlueScope’s proposed 
+acquisition of Orrcon from Hills would not be likely to result in a substantial 
+lessening of competition in any market in contravention of section 50 of the Act. 

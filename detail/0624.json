@@ -1,0 +1,44 @@
+{
+  "id": "0624",
+  "title": "Summit Agribusiness (Australia) Pty Ltd - completed acquisition of 50% of Emerald Group Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/summit-agribusiness-australia-pty-ltd-completed-acquisition-of-50-of-emerald-group-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41621",
+  "industries": [
+    "Grain"
+  ],
+  "date_completed": "8 June 2010",
+  "date_completed_iso": "2010-06-08T12:00:00Z",
+  "date_commenced": "20 April 2010",
+  "date_commenced_iso": "2010-04-20T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Summit Agribusiness (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Emerald Group Australia"
+  ],
+  "timeline": [
+    {
+      "date": "20 Apr 2010",
+      "date_iso": "2010-04-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 May 2010",
+      "date_iso": "2010-05-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Jun 2010",
+      "date_iso": "2010-06-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Summit Agribusiness (Australia) Pty Ltd, a wholly owned subsidiary of Sumitomo Corporation, acquired 50% of Emerald Group Australia. The ACCC also reviewed Summit Grain Investment (Australia) Pty Ltd's completed acquisition of Viterra Operations Ltd's 50% interest in Australian Bulk Alliance Pty Ltd. Summit Grain Investment (Australia) Pty Ltd is another wholly owned subsidiary of Sumitomo Corporation. Please refer to the separate Mergers Register entry for further details relating to that review.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition in its review of this matter. However, for the purposes of this competition assessment, the ACCC considered the completed acquisition in the context of markets for: - the provision of grain storage and handling services; and - the provision of port terminal services for the bulk and containerised shipment of grain.",
+    "Competition analysis": "Prior to the completed acquisition, Sumitomo had a 50% interest in ABA which was the operator of the Port of Melbourne grain terminal as well as eight country receival sites located in New South Wales and Victoria. In a separate transaction which the ACCC also reviewed, Sumitomo acquired the remaining 50% of ABA which it did not already own. The completed acquisition of 50% of Emerald - a grain marketer and trader - increased Sumitomo's interest in the grain industry. Market inquiries indicated that Emerald was a relatively small grain marketer in New South Wales and Victoria and that there appeared to be spare capacity at country receival sites and at the Port of Melbourne. Accordingly, the ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in the relevant markets."
+  }
+}

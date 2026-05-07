@@ -1,0 +1,44 @@
+{
+  "id": "0887",
+  "title": "Sanofi-Aventis - proposed acquisition of Symbion CP Holdings Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sanofi-aventis-proposed-acquisition-of-symbion-cp-holdings-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32615",
+  "industries": [
+    "Pharmaceutical Products manufacture"
+  ],
+  "date_completed": "7 August 2008",
+  "date_completed_iso": "2008-08-07T12:00:00Z",
+  "date_commenced": "21 July 2008",
+  "date_commenced_iso": "2008-07-21T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Sanofi-Aventis"
+  ],
+  "targets": [
+    "Symbion CP Holdings Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jul 2008",
+      "date_iso": "2008-07-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Aug 2008",
+      "date_iso": "2008-08-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2008",
+      "date_iso": "2008-08-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The transaction concerned the acquisition of Symbion's consumer products business, which operated as Symbion CP Holdings Pty Limited (SC).  SC mainly produced vitamins and dietary supplements known as nutraceuticals.  The main area of overlap between SC and Sanofi-Aventis (SA) concerned the production of vitamin B1 products, as the only nutraceutical product SA manufactured was Betamin, a type of vitamin B1.",
+    "Market definition": "The ACCC did not consider it necessary to reach a definitive view on the market definition in relation to this matter due to the lack of competition concerns likely to arise from the transaction.  The ACCC considered however that there may be a market for the manufacture and supply of nutraceutical products.",
+    "Competition analysis": "The ACCC considered that due to the minimal overlap between the parties and the existence of a number of competing nutraceutical producers in the market,  including producers of vitamin B1 products, the transaction was unlikely to result in a substantial lessening of competition."
+  }
+}

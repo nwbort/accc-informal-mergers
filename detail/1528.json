@@ -1,0 +1,31 @@
+{
+  "id": "1528",
+  "title": "Acquirer: Webster Limited; Target: Springs Seafood Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-webster-limited-target-springs-seafood-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18201",
+  "industries": [],
+  "date_completed": "21 August 2003",
+  "date_completed_iso": "2003-08-21T12:00:00Z",
+  "date_commenced": "22 July 2003",
+  "date_commenced_iso": "2003-07-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Webster Limited"
+  ],
+  "targets": [
+    "Springs Seafood Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 22 July 2003, the Webster informed the Commission of its intention to acquire the business of Springs.",
+    "Market definition": "The national market for the wholesale supply of smoked salmon.",
+    "Competition analysis": "On 21 August 2003 the Commission decided that it would not intervene in the proposed aquisition.  The Commission made it decision on the basis of the following factors: the high level of imported product and likelihood of its pending increase; the availability of substitutes of smoked salmon; and the countervailing power held by large fish wholesalers and supermarkets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2173"
+  }
+}

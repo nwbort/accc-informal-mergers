@@ -1,0 +1,40 @@
+{
+  "id": "0955",
+  "title": "Chinalco (Aluminum Corporation of China), Alcoa Inc - completed acquisition of interest in Rio Tinto plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/chinalco-aluminum-corporation-of-china-alcoa-inc-completed-acquisition-of-interest-in-rio-tinto-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31035",
+  "industries": [
+    "Mining"
+  ],
+  "date_completed": "27 February 2008",
+  "date_completed_iso": "2008-02-27T12:00:00Z",
+  "date_commenced": "13 February 2008",
+  "date_commenced_iso": "2008-02-13T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Alcoa Inc",
+    "Chinalco (Aluminium Corporation of China)"
+  ],
+  "targets": [
+    "Rio Tinto plc"
+  ],
+  "timeline": [
+    {
+      "date": "13 Feb 2008",
+      "date_iso": "2008-02-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Feb 2008",
+      "date_iso": "2008-02-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Chinalco and Alcoa, via a joint venture arrangement, have acquired 12% of the shares of Rio Tinto plc. Rio Tinto plc owns approximately 37.5% of the issued shares in Rio Tinto Limited, which is incorporated in Australia, and the two companies are managed on a unified basis. Rio Tinto, Chinalco and Alcoa each have significant mining interests globally, including in Australia.",
+    "Market definition": "The ACCC did not consider it necessary to form a view in relation to market definition.",
+    "Competition analysis": "The ACCC considered that, given the nature and extent of the interest acquired, the acquisition was unlikely to substantially lessen competition."
+  }
+}

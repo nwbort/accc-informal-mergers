@@ -1,0 +1,54 @@
+{
+  "id": "1204",
+  "title": "Cytyc Corporation - proposed acquisition of Vision Systems Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cytyc-corporation-proposed-acquisition-of-vision-systems-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25183",
+  "industries": [
+    "Medical diagnostic equipment"
+  ],
+  "date_completed": "25 October 2006",
+  "date_completed_iso": "2006-10-25T12:00:00Z",
+  "date_commenced": "15 September 2006",
+  "date_commenced_iso": "2006-09-15T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Cytyc Corporation"
+  ],
+  "targets": [
+    "Vision Systems Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Sep 2006",
+      "date_iso": "2006-09-15T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "25 Sep 2006",
+      "date_iso": "2006-09-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "4 Oct 2006",
+      "date_iso": "2006-10-04T12:00:00Z",
+      "event": "Having regard to submissions received, the date for the announcement of ACCC's findings was revised."
+    },
+    {
+      "date": "10 Oct 2006",
+      "date_iso": "2006-10-10T12:00:00Z",
+      "event": "Following the announcement by Ventana that it does not intend to pursue an acquisition of Vision, the ACCC has discontinued its review of that matter."
+    },
+    {
+      "date": "25 Oct 2006",
+      "date_iso": "2006-10-25T12:00:00Z",
+      "event": "ACCC decision to not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ventana Medical Systems and Cytyc Corporation initiated separate bids to acquire Vision Systems Ltd, and the ACCC commenced reviews of both proposed transations.  Ventana subsequently announced it was not proceeding with its bid, and the ACCC discontinued its assessment of that matter without forming a view as to the likely competitive effects.",
+    "Market definition": "Without forming a definitive view on market definition, the ACCC considered the impact of the proposed acquisition in the following markets: -  market for the manufacture and supply of instruments and consumables for primary anatomical pathology staining; -  market for the manufacture and supply of instruments and consumables for advanced anatomical pathology staining; -  market for the manufacture and supply of cervical cancer diagnostic products.",
+    "Competition analysis": "The ACCC considered the acquisition was unlikely to cause a substantial lessening of competition.  On the basis of market inquiries, the ACCC considered that the parties operated in separate markets and that a range of alternative suppliers in those markets would be likely to act as a constraint on the merged entity."
+  }
+}

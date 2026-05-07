@@ -1,0 +1,54 @@
+{
+  "id": "0044",
+  "title": "Brookfield Renewable - Neoen",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/brookfield-renewable-neoen",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Renewable energy generation"
+  ],
+  "date_completed": "31 October 2024",
+  "date_completed_iso": "2024-10-31T12:00:00Z",
+  "date_commenced": "14 June 2024",
+  "date_commenced_iso": "2024-06-14T12:00:00Z",
+  "total_review_days": 98,
+  "acquirers": [
+    "A consortium comprising Brookfield, Temasek"
+  ],
+  "targets": [
+    "Neoen SA"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jul 2024",
+      "date_iso": "2024-07-12T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Jul 2024",
+      "date_iso": "2024-07-26T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Oct 2024",
+      "date_iso": "2024-10-01T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed court-enforceable divestiture undertaking."
+    },
+    {
+      "date": "10 Oct 2024",
+      "date_iso": "2024-10-10T12:00:00Z",
+      "event": "Closing date for submissions relating to the proposed court-enforceable divestiture undertaking."
+    },
+    {
+      "date": "31 Oct 2024",
+      "date_iso": "2024-10-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A consortium led by Brookfield Renewable Holdings SAS ( Brookfield BidCo ) proposes to acquire Neoen SA ( Neoen ) (the Proposed Acquisition ). Brookfield Renewable  has established Brookfield BidCo for the purposes of the Proposed Acquisition. The Proposed Acquisition will consist of two components: A direct acquisition of blocks of shares which will total 53.32% of the share capital, and A mandatory offer to be filed with the French financial markets authority for the remaining securities issued by Neoen. Brookfield Renewable is a division of Brookfield Corporation (Brookfield), which is a global asset management business. Relevant to the Proposed Acquisition, Brookfield Renewable and another Brookfield division, Brookfield Infrastructure acquire and operate assets relating to electricity generation . In Australia, they have interests in the following entities: AusNet, an energy delivery services group that owns and operates the principal existing electricity transmission network in Victoria X-Elio, a renewable energy developer and operator which currently has one solar farm in operation in Queensland, and TransAlta, which owns several gas-fired power stations in Western Australia. Neoen is a French company that specialises in the development, construction, financing operation and management of renewable energy projects across 16 countries globally. In Australia, it currently has 15 operating assets which generate ~1.8GW of power. It has a further 48 projects in varying stages of development across Australia, which would generate ~10GW of power when complete. On 31 October 2024, the ACCC decided to not oppose the proposed acquisition subject to the ACCC accepting a court-enforceable undertaking from Brookfield Renewable Group Australia Pty Ltd and Bernabeu Master UK Holdings Limited (a wholly owned subsidiary of Brookfield Asset Management ULC) to divest Neoen’s existing Victorian renewable electricity generation and storage assets and its development projects in Victoria.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

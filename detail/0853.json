@@ -1,0 +1,49 @@
+{
+  "id": "0853",
+  "title": "Queensland Gas Company Limited - proposed acquisition of Sunshine Gas Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/queensland-gas-company-limited-proposed-acquisition-of-sunshine-gas-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33773",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "10 October 2008",
+  "date_completed_iso": "2008-10-10T12:00:00Z",
+  "date_commenced": "12 September 2008",
+  "date_commenced_iso": "2008-09-12T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Queensland Gas Company Limited"
+  ],
+  "targets": [
+    "Sunshine Gas Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Aug 2008",
+      "date_iso": "2008-08-20T12:00:00Z",
+      "event": "ACCC commenced public monitoring of the proposed acquisition, pending receipt of a submission from QGC."
+    },
+    {
+      "date": "12 Sep 2008",
+      "date_iso": "2008-09-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines upon receiving a submission from QGC."
+    },
+    {
+      "date": "29 Sep 2008",
+      "date_iso": "2008-09-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Oct 2008",
+      "date_iso": "2008-10-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Queensland Gas Company Ltd proposes to acquire all of the issued shares in Sunshine Gas Limited.",
+    "Market definition": "The ACCC considered that two markets were relevant for the assessment of this matter: -  the market for the production and supply of wholesale gas in the southern Queensland region connected by pipeline infrastructure (including Brisbane, Gladstone and Mt Isa); and - the market for the production and supply of wholesale gas in the southern states (NSW, VIC and SA). The ACCC recognised that Sunshine Gas is an emerging producer of coal seam gas in Queensland, and while it is not currently an active supplier of wholesale gas, it would be likely to commence supplying wholesale gas in the relevant timeframe in which to consider the proposed acquisition.",
+    "Competition analysis": "On 10 October 2008, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the low aggregation of gas reserves which would be held by the merged entity relative to the total gas reserves available for supply by other wholesale gas producers and suppliers in southern Queensland; and - the existence of several competitors who continue to provide alternative supply options for customers."
+  }
+}

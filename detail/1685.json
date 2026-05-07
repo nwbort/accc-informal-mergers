@@ -1,0 +1,31 @@
+{
+  "id": "1685",
+  "title": "Acquirer: Hutchison Telecoms; Target: Lucent Tecchnologies Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-hutchison-telecoms-target-lucent-tecchnologies-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15542",
+  "industries": [],
+  "date_completed": "13 February 2002",
+  "date_completed_iso": "2002-02-13T12:00:00Z",
+  "date_commenced": "17 December 2001",
+  "date_commenced_iso": "2001-12-17T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Hutchison Telecoms"
+  ],
+  "targets": [
+    "Lucent Tecchnologies Inc"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Hutchison 3G Australia Pty Ltd proposes to purchase approximately 1050 base stations site leases from Lucent.  Hutchison also proposes to acquire certain network management system assets, test equipment, and equipment from sites not assigned to Hutchison which may be decommissioned by Lucent.  Hutchison also proposes to purchase equipment on certain premises used for switch sites.",
+    "Market definition": "1.  National market for mobile telephone transmission services. 2.  National market for mobile telephony services, broadened to include the potential for 3G mobile telephony technology.",
+    "Competition analysis": "The Commission considered that the acquisition would be unlikely to lead to a substantial lessening of competition in either the market for transmission services (with respect to the acquisition of the site leases and towers) or the market for mobile telephony services (with regard to the possible transfer of the option to purchase the 1.8 GHz spectrum and the acquisition of the telecommunications equipment). In the market for transmission services, while the Commission's concentration thresholds may be crossed, the market is not highly concentrated, and a number of other players are of a comparable size to Hutchison.  Barriers to entry are high but unlikely to be significantly increased by the acquisition.  Also, a legislative access regime exists which requires carriers to make their sites available to other carriers. In the market for mobile telephony services, the Commission's thresholds are unlikely to be crossed.  Hutchison is the smallest of the current incumbents.  Further, Hutchison proposes to use the assets for the purposes of rolling out its 3G netowrk, which can be viewed as expanding the current capabilities of the relevant market and expanding its scope and possible applications, thereby affording greater customer choice.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "2842"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1099",
+  "title": "Australian Wool Innovation Ltd - proposed acquisition of certain assets of Australian Wool Services",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-wool-innovation-ltd-proposed-acquisition-of-certain-assets-of-australian-wool-services",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25493",
+  "industries": [
+    "Textiles - wool"
+  ],
+  "date_completed": "29 May 2007",
+  "date_completed_iso": "2007-05-29T12:00:00Z",
+  "date_commenced": "30 April 2007",
+  "date_commenced_iso": "2007-04-30T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Australian Wool Innovation Ltd (AWI)"
+  ],
+  "targets": [
+    "Australian Wool Services (AWS)"
+  ],
+  "timeline": [
+    {
+      "date": "20 Nov 2006",
+      "date_iso": "2006-11-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "22 Nov 2006",
+      "date_iso": "2006-11-22T12:00:00Z",
+      "event": "Review suspended - no firm proposal exists at this stage - monitoring only"
+    },
+    {
+      "date": "30 Apr 2007",
+      "date_iso": "2007-04-30T12:00:00Z",
+      "event": "ACCC recommenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "1 May 2007",
+      "date_iso": "2007-05-01T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "15 May 2007",
+      "date_iso": "2007-05-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "29 May 2007",
+      "date_iso": "2007-05-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australian Wool Innovation (AWI) - proposed acquisition of certain assets from Australian Wool Services (AWS).  In particular, AWI will acquire certain assets of The Woolmark Company Pty Ltd, including the Woolmark trade mark, other intellectual property rights and its market intelligence business.",
+    "Market definition": "This acquisition was considered within the context of the Australian market for the supply of: 1.\twool branding services (including licensing, quality assurance testing and marketing); and 2.\tinternational wool market intelligence.",
+    "Competition analysis": "1. Australian market for the supply of wool brand services Due to AWI's governance arrangements (non-profit status, ownership by woolgrowers, the terms of its statutory funding agreement), it appears unlikely that AWI has an incentive to direct levy funds in a way that discriminates in favour of Woolmark against any genuine project likely to improve wool sales.  The acquisition of the Woolmark brand from AWS is unlikely to change AWI's pattern of incentives. Further, AWI has always had the ability to fund its own branding exercises if it is dissatisfied with commercial efforts. Therefore, it appears unlikely that the acquisition will lead to a substantial lessening of competition in the Australian market for wool brand services. 2. Australian market for the supply of international wool market intelligence The substantial number of strong competitors that will remain in this market means that it is unlikely that the acquisition will lead to a substantial lessening of competition in this market."
+  }
+}

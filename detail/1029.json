@@ -1,0 +1,59 @@
+{
+  "id": "1029",
+  "title": "CMPMedica Australia Pty Ltd - proposed acquisition of Australian Prescription Products Guide",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cmpmedica-australia-pty-ltd-proposed-acquisition-of-australian-prescription-products-guide",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27126",
+  "industries": [
+    "Medical"
+  ],
+  "date_completed": "10 October 2007",
+  "date_completed_iso": "2007-10-10T12:00:00Z",
+  "date_commenced": "8 August 2007",
+  "date_commenced_iso": "2007-08-08T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "CMPMedica Australia Pty Ltd"
+  ],
+  "targets": [
+    "Australian Prescription Products Guide"
+  ],
+  "timeline": [
+    {
+      "date": "8 Aug 2007",
+      "date_iso": "2007-08-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Aug 2007",
+      "date_iso": "2007-08-23T12:00:00Z",
+      "event": "ACCC requested further information from CMPMedica. ACCC timeline suspended."
+    },
+    {
+      "date": "28 Aug 2007",
+      "date_iso": "2007-08-28T12:00:00Z",
+      "event": "Former proposed date of 5 September 2007 for announcement of ACCC's findings, amended to allow CMPMedica to provide further information."
+    },
+    {
+      "date": "19 Sep 2007",
+      "date_iso": "2007-09-19T12:00:00Z",
+      "event": "ACCC received further information from CMPMedica. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Oct 2007",
+      "date_iso": "2007-10-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CMPMedica Australia Pty Ltd's proposed acquisition of the Australian Prescription Products Guide.",
+    "Market definition": "The proposed acquisition was considered in the context of the national market for the publication and supply of drug information publications, within which exists a segment for publications including Product Information (PI) and Consumer Medicines Information (CMI).",
+    "Competition analysis": "On 10 October 2007 the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening in competition in the relevant market.   Factors informing this decision include: - other drug information publications containing generic drug monographs (in particular AusDI) would be close, but not perfect, substitutes to the products of the merged firm; and - there are existing suppliers of drug information publications in Australia that would have the ability to expand their current product offering to include PI and CMI (with equivalent functionality to the MIMS and the Australian Prescription Products Guide products) for a relatively low cost and time investment."
+  }
+}

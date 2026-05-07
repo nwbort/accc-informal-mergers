@@ -1,0 +1,54 @@
+{
+  "id": "1080",
+  "title": "Coles Group Limited - proposed acquisition of Taylors Hotel",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-group-limited-proposed-acquisition-of-taylors-hotel",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28570",
+  "industries": [
+    "Liquor retailing"
+  ],
+  "date_completed": "3 July 2007",
+  "date_completed_iso": "2007-07-03T12:00:00Z",
+  "date_commenced": "5 June 2007",
+  "date_commenced_iso": "2007-06-05T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Coles Group Limited"
+  ],
+  "targets": [
+    "Taylors Hotel"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jun 2007",
+      "date_iso": "2007-06-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Jun 2007",
+      "date_iso": "2007-06-07T12:00:00Z",
+      "event": "ACCC requested further information from Coles. ACCC timeline suspended."
+    },
+    {
+      "date": "15 Jun 2007",
+      "date_iso": "2007-06-15T12:00:00Z",
+      "event": "ACCC received further information from Coles. ACCC timeline recommenced"
+    },
+    {
+      "date": "25 Jun 2007",
+      "date_iso": "2007-06-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Jul 2007",
+      "date_iso": "2007-07-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles intended to acquire the Taylors Hotel and two associated detached bottle shops in Mackay, Queensland. They are located at Shop 4, Sydney St Markets and Shop 3, Canegrowers Arcade.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: 1. the market for the retail sale of packaged liquor for off-premises consumption. The geographic dimension of this market is a 3-5km radius surrounding the target businesses; 2. the NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption; and 3. the local market for the retail sale of liquor for on-premises consumption (hotel market).",
+    "Competition analysis": "On 3 July 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: -in relation to the first market, the ACCC concluded that post-acquisition, Coles Limited will be constrained by competition from Woolworths Ltd and a large number of independent hotels and associated detached bottle shops; -in relation to the second market, the ACCC considered that the the acquisition of one retail store is unlikely to significantly increase Coles' market share (or buying power) or to substantially diminish the buying power of any competitor; and -in relation to the third market, the ACCC considered that, post-acquisition, Coles Limited will be constrained by competition from Woolworths Ltd and the large number of independent hotels in the local market."
+  }
+}

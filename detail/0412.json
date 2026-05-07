@@ -1,0 +1,100 @@
+{
+  "id": "0412",
+  "title": "Nestle - proposed acquisition of Pfizer Nutrition - Pfizer Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nestle-proposed-acquisition-of-pfizer-nutrition-pfizer-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48730",
+  "industries": [
+    "Infant and toddler milk"
+  ],
+  "date_completed": "22 November 2012",
+  "date_completed_iso": "2012-11-22T12:00:00Z",
+  "date_commenced": "24 May 2012",
+  "date_commenced_iso": "2012-05-24T12:00:00Z",
+  "total_review_days": 63,
+  "acquirers": [
+    "Nestle"
+  ],
+  "targets": [
+    "Pfizer Nutrition"
+  ],
+  "timeline": [
+    {
+      "date": "24 May 2012",
+      "date_iso": "2012-05-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jun 2012",
+      "date_iso": "2012-06-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Jul 2012",
+      "date_iso": "2012-07-05T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 12 July 2012 delayed pending receipt of information requested."
+    },
+    {
+      "date": "13 Aug 2012",
+      "date_iso": "2012-08-13T12:00:00Z",
+      "event": "ACCC received further information from the merger parties following ACCC's request for information on 5 July 2012. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Aug 2012",
+      "date_iso": "2012-08-22T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of Nestle to allow it to provide further information. Former proposed decision date of 23 August 2012 delayed."
+    },
+    {
+      "date": "31 Aug 2012",
+      "date_iso": "2012-08-31T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "14 Sep 2012",
+      "date_iso": "2012-09-14T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Oct 2012",
+      "date_iso": "2012-10-11T12:00:00Z",
+      "event": "ACCC timeline suspended to allow Nestle and the ACCC to continue negotiations on a draft s87B undertaking. Former proposed decision date of 11 October 2012 delayed."
+    },
+    {
+      "date": "12 Oct 2012",
+      "date_iso": "2012-10-12T12:00:00Z",
+      "event": "Draft s87B undertakings proffered by Nestle. ACCC commenced market inquiries."
+    },
+    {
+      "date": "17 Oct 2012",
+      "date_iso": "2012-10-17T12:00:00Z",
+      "event": "Closing date for submissions on the draft s87B undertaking from interested parties."
+    },
+    {
+      "date": "24 Oct 2012",
+      "date_iso": "2012-10-24T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of Nestle to allow it to provide further information. Former proposed decision date of 25 October 2012 delayed."
+    },
+    {
+      "date": "16 Nov 2012",
+      "date_iso": "2012-11-16T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Nov 2012",
+      "date_iso": "2012-11-22T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC."
+    },
+    {
+      "date": "22 Nov 2012",
+      "date_iso": "2012-11-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nestle proposed to acquire Pfizer Nutrition, a global infant nutrition business, from Pfizer Inc.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment.",
+    "Undertakings": "Variation to Nestle Undertaking - on 17 April 2013, the ACCC consented to a variation to the Nestle section 87B Undertaking. The purpose of the Variation was to:\n(a) incorporate ring fencing measures in relation to information obtained by Nestle relating to a licence agreement Nestle would enter into with the Approved Purchaser; and\n(b) require Nestle to take all steps to ensure that any licence agreement entered pursuant to clause 5.4(b)(i) of the Nestle Undertaking does not terminate as a result of a breach of that licence agreement by Nestle, and to include a procedure for approval by the ACCC."
+  }
+}

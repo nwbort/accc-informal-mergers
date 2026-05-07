@@ -1,0 +1,44 @@
+{
+  "id": "1048",
+  "title": "Hutchison Telecommunications Australia Limited - proposed acquisition of AAPT Limited's 850 MHz spectrum licences",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hutchison-telecommunications-australia-limited-proposed-acquisition-of-aapt-limiteds-850-mhz-spectrum-licences",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29263",
+  "industries": [
+    "Telecommunications - Spectrum Licences"
+  ],
+  "date_completed": "23 August 2007",
+  "date_completed_iso": "2007-08-23T12:00:00Z",
+  "date_commenced": "16 August 2007",
+  "date_commenced_iso": "2007-08-16T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "Hutchison Telecommunications Australia Limited"
+  ],
+  "targets": [
+    "850 MHz spectrum licences of AAPT Limited"
+  ],
+  "timeline": [
+    {
+      "date": "16 Aug 2007",
+      "date_iso": "2007-08-16T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Aug 2007",
+      "date_iso": "2007-08-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "As part of a proposed transaction between Hutchison Telecommunications Australia Limited (HTAL) and Telecom New Zealand Limited (TCNZ), TCNZ's subsidiary, AAPT Limited (AAPT), intended to assign its 850 MHz spectrum licences to HTAL (Proposed Asset Sale)",
+    "Market definition": "The ACCC considered the likely effects of the Proposed Asset Sale upon the supply of retail mobile services (voice and data) over 2G, 2.5G and 3G networks (Retail Mobile Services Market).",
+    "Competition analysis": "On 23 August 2007 the ACCC decided not to intervene in the Proposed Asset Sale.  The ACCC considered that the Proposed Asset Sale was unlikely to substantially lessen competition in the Retail Mobile Services Market.  Of relevance to the ACCC's analysis was that the spectrum in question, which could be utilised to provide telecommunications services, was not in use prior to the Proposed Asset Sale."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1238",
+  "title": "Garden City Plastics - acquisition of Reko and Plant-it-Rite",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/garden-city-plastics-acquisition-of-reko-and-plant-it-rite",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24727",
+  "industries": [
+    "Plastic garden pot manufacturing"
+  ],
+  "date_completed": "22 August 2006",
+  "date_completed_iso": "2006-08-22T12:00:00Z",
+  "date_commenced": "28 June 2006",
+  "date_commenced_iso": "2006-06-28T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Garden City Plastics"
+  ],
+  "targets": [
+    "Reko<br/> Plant-it-Rite"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jun 2006",
+      "date_iso": "2006-06-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "28 Jun 2006",
+      "date_iso": "2006-06-28T12:00:00Z",
+      "event": "ACCC requested further information from GCP. ACCC timeline suspended."
+    },
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "21 Jul 2006",
+      "date_iso": "2006-07-21T12:00:00Z",
+      "event": "ACCC received further information from Garden City Plastics. ACCC timeline recommenced"
+    },
+    {
+      "date": "24 Jul 2006",
+      "date_iso": "2006-07-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Garden City Plastics (GCP) acquired Reko and certain assets of Plant-it-rite. GCP, Reko and Plant-it-rite all manufactured and distributed plastic pots and distributed allied source products (for example fertiliser, stakes and soil additives).",
+    "Market definition": "The ACCC considered the following markets in its review of GCP's acquisitions: - A national market for the supply of large horticultural plastic containers; - A national market for the supply of small horticultural plastic pots; - A national market for the supply of retail pots; - A national market for the supply of plastic trays; and - A national market for the supply of allied source products.",
+    "Competition analysis": "The ACCC considers that GCP faces sufficient competitive constraints post-acquisitions and that the acquisitions are unlikely to have caused a substantial lessening of competition in any of the relevant markets. This conclusion is informed by the following factors: - GCP did not purchase any manufacturing equipment for the manufacture of any allied source product from either Reko or Plant-it-rite. Therefore, the ACCC considers that GCP's acquisitions of Reko and Plant-it-rite did not result in an increase in GCP's market concentration in the national market for the supply of allied source products; - There are substitutes available to customers for all types of plastic pots; - Barriers to entry are moderate for entry into the national market for the supply of large horticultural plastic containers; - Barriers to entry are low into the national market for the supply of small horticultural plastic pots and retail plastic pots; and - There are imports available to customers for all types of plastic pots."
+  }
+}

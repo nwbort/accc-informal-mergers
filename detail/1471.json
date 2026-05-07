@@ -1,0 +1,31 @@
+{
+  "id": "1471",
+  "title": "Acquirer: UNITAB Limited; Target: Tabcorp Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-unitab-limited-target-tabcorp-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19515",
+  "industries": [],
+  "date_completed": "14 July 2004",
+  "date_completed_iso": "2004-07-14T12:00:00Z",
+  "date_commenced": "29 April 2004",
+  "date_commenced_iso": "2004-04-29T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "UNITAB Limited"
+  ],
+  "targets": [
+    "Tabcorp Holdings Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "UNiTAB Limited's proposed acquisitions of: 1. Tabcorp Holdings Limited's (Tabcorp) gaming machine monitoring business in Queensland; and 2. Tab Limited's (TAB) Central Monitoring System (CMS) and State Wide Linked Jackpots Systems (SWLJS) in NSW. On 13 July 2004, the Commission decided to not oppose the proposed acquisitions.",
+    "Market definition": "In Queensland, the relevant market were considered to be the supply of gaming machine services, which includes the following related services: 1. gaming machine monitoring and maintenance services; and 2. value adding services, such as player loyalty systems, jackpot systems and MIS. In NSW, the relevant market was considered to be the supply of CMS and SWLJS to licensed venues under an exclusive licence.",
+    "Competition analysis": "The proposed Queensland acquisition would result in a reduction in the number of licensed monitoring operators supplying monitoring and maintenance services in Queensland from three to two.  However, the proposed Queensland acquisition is unlikely to substantially lessen competition in the relevant market for the following reasons: - barriers to entry and expansion appear moderate such that actual and potential entry could constrain prices; - regulatory constraints on the merged entity, including the standard of monitoring and maintenance services being prescribed by legislation and licensing conditions regulated by QOGR; and - there are a number of alternate suppliers of value adding services in Queensland and it is likely that an increasing number of these suppliers would supply venues directly in the event that prices were to increase. TAB has an exclusive license to provide the CMS and the SWLJS businesses in NSW. Based on a NSW market, the proposed NSW acquisition by UNiTAB is a bare transfer of TAB's market share, such that it does not raise competition concerns.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "4615"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1474",
+  "title": "Acquirer: SingTel Optus Pty Limited; Target: Uecomm Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-singtel-optus-pty-limited-target-uecomm-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19615",
+  "industries": [],
+  "date_completed": "7 July 2004",
+  "date_completed_iso": "2004-07-07T12:00:00Z",
+  "date_commenced": "25 May 2004",
+  "date_commenced_iso": "2004-05-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "SingTel Optus Pty Limited"
+  ],
+  "targets": [
+    "Uecomm Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission considered the proposed acquisition of Uecomm Limited by SingTel Optus Pty Limited",
+    "Market definition": "The relevant markets were considered to be the markets for: 1. Fixed customer access services; 2. High bandwidth carriage services; and 3. Transmission capacity services.",
+    "Competition analysis": "The Commission considered that the proposed acquisition would not be likely to substantially lessen competition in the fixed customer access, high bandwidth carriage and transmission capacity services markets for the following reasons: *\ta substantial lessening of competition is unlikely in relation to the CBD areas of Sydney, Melbourne and Brisbane due to the continuing presence of a number of other fibre optic network operators with broad network coverage; *\tin the non-CBD metropolitan areas the overlap between the networks of Optus and Uecomm appears to be limited; and *\tTelstra is a strong competitor in all markets in which Optus and Uecomm are involved; The Commission also noted that some customers already consider new technologies such as wireless to be an alternative and that whilst such technologies may have some limitations at present they appear to have the potential to develop into a real alternative in the future.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "7120"
+  }
+}

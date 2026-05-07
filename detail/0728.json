@@ -1,0 +1,39 @@
+{
+  "id": "0728",
+  "title": "Woolworths Limited - proposed acquisition of a lease for a new supermarket site at Hunter's Hill in NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-a-lease-for-a-new-supermarket-site-at-hunters-hill-in-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38267",
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "17 July 2009",
+  "date_completed_iso": "2009-07-17T12:00:00Z",
+  "date_commenced": "24 June 2009",
+  "date_commenced_iso": "2009-06-24T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Supermarket site at Hunter's Hill in NSW"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jun 2009",
+      "date_iso": "2009-06-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2009",
+      "date_iso": "2009-07-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire a lease for a new supermarket at Hunter's Hill in New South Wales.",
+    "Market definition": "The ACCC did not consider it necessary to reach a definitive view on market definition, since the results of the competition analysis would remain unchanged regardless of the precise market definition adopted.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In forming this view, the ACCC noted that by establishing a new supermarket in Hunter's Hill, Woolworths would be adding to the number of supermarkets competing in the local area, and would face competition from a number of existing competitors in that area."
+  }
+}

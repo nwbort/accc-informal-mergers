@@ -1,0 +1,44 @@
+{
+  "id": "0428",
+  "title": "News Corporation - proposed acquisition of Consolidated Media Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/news-corporation-proposed-acquisition-of-consolidated-media-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48737",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "31 July 2012",
+  "date_completed_iso": "2012-07-31T12:00:00Z",
+  "date_commenced": "20 June 2012",
+  "date_commenced_iso": "2012-06-20T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "News Corporation"
+  ],
+  "targets": [
+    "Consolidated Media Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2012",
+      "date_iso": "2012-06-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Jul 2012",
+      "date_iso": "2012-07-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Aug 2012",
+      "date_iso": "2012-08-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "News Corporation intends to acquire 100% of the shares in Consolidated Media Holdings Limited. This acquisition represents an increase by News of its shareholding in FOX SPORTS Australia from 50% to 100% and an increase of its shareholding in FOXTEL from 25% to 50%.",
+    "Market definition": "The ACCC assessed the proposed acquisition in the context of: - the national market for the supply of subscription television services, and - the national market for the acquisition of audiovisual content. However, the ACCC did not consider that it was necessary for the purpose of the competition analysis to form a concluded view in relation to market definition, particularly with respect to the acquisition of audiovisual content.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would not materially increase the incentive that News has to favour FOXTEL in its content supply decisions in Australia, with respect to content owned by FOX SPORTS Australia or by News Corporation itself. The ACCC considered that News Corporation had a pre-existing incentive to supply content to FOXTEL, arising from its 25% shareholding and considered that this incentive would not be significantly increased by the proposed acquisition. The ACCC also noted that News Corporation did not have direct interests in any other subscription or free to air television entity in Australia."
+  }
+}

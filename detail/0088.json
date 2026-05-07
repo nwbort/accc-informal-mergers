@@ -1,0 +1,49 @@
+{
+  "id": "0088",
+  "title": "Viva Energy Group Limited - Coles Express convenience business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viva-energy-group-limited-coles-express-convenience-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Fuel - retail operations"
+  ],
+  "date_completed": "24 November 2022",
+  "date_completed_iso": "2022-11-24T12:00:00Z",
+  "date_commenced": "25 October 2022",
+  "date_commenced_iso": "2022-10-25T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Viva Energy Group Limited"
+  ],
+  "targets": [
+    "Coles Express convenience business"
+  ],
+  "timeline": [
+    {
+      "date": "25 Oct 2022",
+      "date_iso": "2022-10-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Nov 2022",
+      "date_iso": "2022-11-08T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "24 Nov 2022",
+      "date_iso": "2022-11-24T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (27 January 2023) brought forward."
+    },
+    {
+      "date": "24 Nov 2022",
+      "date_iso": "2022-11-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viva Energy Group Limited ( Viva Energy ), through a subsidiary, is proposing to acquire the Coles Express convenience business from Eureka Operations Pty Ltd, a wholly owned subsidiary of Coles Group Limited (the proposed acquisition ). Viva Energy, through its wholly owned subsidiaries, conducts fuel refining and importing, distribution and marketing in Australia. It is the exclusive supplier of Shell fuels and lubricants in Australia. Coles Express is one of Australia’s leading fuel and convenience retailers. There are approximately 710 Coles Express sites across the country.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in Australia for the: wholesale supply of fuel, retail supply of fuel, and retail supply of convenience groceries. The ACCC did not reach a concluded view on market definition as it was not necessary for our competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in relation to the wholesale supply of fuel to independent service stations, independent distributors and commercial customers. Viva Energy already controls the supply of fuel at Shell Coles Express service stations pursuant to a commercial alliance with Coles. Viva Energy currently supplies independent service stations that compete with its own retail fuel operations, and also supplies commercial customers. The ACCC concluded that the proposed acquisition would not affect Viva Energy’s incentive to continue to provide wholesale fuel supply to these customers. Furthermore, there are alternative wholesale fuel suppliers available to customers which would continue to constrain Viva Energy regarding wholesale prices and other supply terms. Similarly, since Viva Energy already controls the supply of fuel at Shell Coles Express service stations, the ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in relation to the retail supply of fuel. The ACCC further concluded that the proposed acquisition would not raise concerns in relation to convenience grocery retailing. Viva Energy does not currently have any interests in this market outside its commercial alliance with Coles."
+  }
+}

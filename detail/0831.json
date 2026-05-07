@@ -1,0 +1,64 @@
+{
+  "id": "0831",
+  "title": "FremantleMedia Group - acquisition of 19.99% interest in Beyond International Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fremantlemedia-group-acquisition-of-1999-interest-in-beyond-international-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34303",
+  "industries": [
+    "Television program production"
+  ],
+  "date_completed": "20 November 2008",
+  "date_completed_iso": "2008-11-20T12:00:00Z",
+  "date_commenced": "30 September 2008",
+  "date_commenced_iso": "2008-09-30T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "FremantleMedia Group"
+  ],
+  "targets": [
+    "Beyond International Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Sep 2008",
+      "date_iso": "2008-09-10T12:00:00Z",
+      "event": "FremantleMedia Group acquired a 19.99% interest in Beyond International Limited."
+    },
+    {
+      "date": "30 Sep 2008",
+      "date_iso": "2008-09-30T12:00:00Z",
+      "event": "ACCC became aware of the acquisition. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Oct 2008",
+      "date_iso": "2008-10-08T12:00:00Z",
+      "event": "ACCC requested further information from FremantleMedia Group, ACCC timeline suspended."
+    },
+    {
+      "date": "10 Oct 2008",
+      "date_iso": "2008-10-10T12:00:00Z",
+      "event": "Initial closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Oct 2008",
+      "date_iso": "2008-10-24T12:00:00Z",
+      "event": "Revised closing date for submissions from interested parties, amended to allow for receipt of information from interested parties and FremantleMedia Group."
+    },
+    {
+      "date": "13 Nov 2008",
+      "date_iso": "2008-11-13T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Nov 2008",
+      "date_iso": "2008-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "FremantleMedia Group (Fremantle) acquired 19.99% of the issued share capital in Beyond International Limited (Beyond)",
+    "Market definition": "For the purposes of the competition analysis in this matter, the ACCC did not consider it necessary to form a definitive view on market definition. The acquisition was considered in the context of: - the production of Australian television content; and - the acquisition and international distribution of Australian television content.",
+    "Competition analysis": "On 20 November 2008, the ACCC formed the view that the acquisition was unlikely to substantially lessen competition in any relevant market. The ACCC formed the view that, given the size of the shareholding and the composition of the Beyond Board of Directors, Fremantle would be unlikely to be in a position to exercise substantial control in relation to Beyond."
+  }
+}

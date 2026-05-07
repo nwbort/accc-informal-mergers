@@ -1,0 +1,77 @@
+{
+  "id": "0009",
+  "title": "Acciona - East Rockingham Waste to Energy Project",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acciona-east-rockingham-waste-to-energy-project",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Waste"
+  ],
+  "date_completed": "13 October 2025",
+  "date_completed_iso": "2025-10-13T12:00:00Z",
+  "date_commenced": "16 April 2025",
+  "date_commenced_iso": "2025-04-16T12:00:00Z",
+  "total_review_days": 90,
+  "acquirers": [
+    "Acciona"
+  ],
+  "targets": [
+    "East Rockingham Waste to Energy Project"
+  ],
+  "timeline": [
+    {
+      "date": "16 Apr 2025",
+      "date_iso": "2025-04-16T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Apr 2025",
+      "date_iso": "2025-04-30T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "2 Jun 2025",
+      "date_iso": "2025-06-02T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (19 June 2025) delayed to allow the parties more time to provide additional information."
+    },
+    {
+      "date": "19 Jun 2025",
+      "date_iso": "2025-06-19T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (26 June 2025) delayed to allow the parties more time to provide additional information."
+    },
+    {
+      "date": "26 Jun 2025",
+      "date_iso": "2025-06-26T12:00:00Z",
+      "event": "ACCC amended former provisional decision date (3 July 2025) to allow time to consider information provided by the parties."
+    },
+    {
+      "date": "17 Jul 2025",
+      "date_iso": "2025-07-17T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "31 Jul 2025",
+      "date_iso": "2025-07-31T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "7 Aug 2025",
+      "date_iso": "2025-08-07T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (11 September 2025) delayed."
+    },
+    {
+      "date": "29 Sep 2025",
+      "date_iso": "2025-09-29T12:00:00Z",
+      "event": "ACCC recommenced timeline."
+    },
+    {
+      "date": "14 Oct 2025",
+      "date_iso": "2025-10-14T12:00:00Z",
+      "event": "ACCC discontinued its public review after Acciona withdrew its application for informal merger clearance."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Acciona, S.A. ( Acciona ) proposes to acquire the East Rockingham Waste to Energy project ( East Rockingham Project or the Project ), which is in administration and receivership. Acciona is a global infrastructure developer publicly listed in Spain. In Australia, Acciona has various subsidiaries and is currently developing several infrastructure projects across the transport, water and energy sectors. Acciona holds a 10% non-controlling equity interest in the East Rockingham Project, is a creditor of the Project under a loan agreement and is the Engineering, Procurement and Construction contractor. Acciona also owns and operates the Kwinana Waste to Energy ( Kwinana WtE ) facility located in Kwinana Beach in the south of Perth. It is approved to process up to 460 kt/year of residual waste and generate approximately 38 MW of electricity to the grid. The East Rockingham Project is located in East Rockingham and will process residual waste for energy recovery once operational. It is approved to process 300 kt/year of residual waste (including from municipal councils and commercial and industrial waste streams) and generate approximately 29 MW of electricity to the grid. The Project is currently in external administration and controlled by receivers who will undertake a sale process."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "0503",
+  "title": "Asahi Holdings (Australia) Pty Ltd - proposed acquisition of P&N Beverages Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/asahi-holdings-australia-pty-ltd-proposed-acquisition-of-pn-beverages-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45901",
+  "industries": [
+    "Non-alcoholic beverages"
+  ],
+  "date_completed": "11 August 2011",
+  "date_completed_iso": "2011-08-11T12:00:00Z",
+  "date_commenced": "21 July 2011",
+  "date_commenced_iso": "2011-07-21T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Asahi Holdings (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "P&N Beverages Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jul 2011",
+      "date_iso": "2011-07-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jul 2011",
+      "date_iso": "2011-07-21T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by Asahi. ACCC commenced market inquiries."
+    },
+    {
+      "date": "31 Jul 2011",
+      "date_iso": "2011-07-31T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "11 Aug 2011",
+      "date_iso": "2011-08-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to the 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Asahi Holdings (Australia) Pty Ltd proposes to acquire the water and fruit juice production assets of P&N Beverages Australia Pty Ltd (P&N)."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0519",
+  "title": "Incitec Pivot Ltd - possible acquisition of interests in Burrup Holdings Ltd, Burrup Fertilisers Pty Ltd and/or Burrup Nitrates Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/incitec-pivot-ltd-possible-acquisition-of-interests-in-burrup-holdings-ltd-burrup-fertilisers-pty-ltd-andor-burrup-nitrates-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44580",
+  "industries": [
+    "Ammonia & Ammonium Nitrate"
+  ],
+  "date_completed": "1 June 2011",
+  "date_completed_iso": "2011-06-01T12:00:00Z",
+  "date_commenced": "2 May 2011",
+  "date_commenced_iso": "2011-05-02T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Incitec Pivot Ltd"
+  ],
+  "targets": [
+    "Burrup Holdings Ltd<br/> Burrup Fertilisers Pty Ltd<br/> Burrup Nitrates Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 May 2011",
+      "date_iso": "2011-05-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 May 2011",
+      "date_iso": "2011-05-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Jun 2011",
+      "date_iso": "2011-06-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 17 December 2010, receivers were appointed to Burrup Fertilisers Pty Ltd and certain shareholdings of its holding company, Burrup Holdings Ltd. Incitec Pivot Ltd had indicated that it may seek to acquire interests in Burrup Holdings Ltd and the ammonium nitrate facility proposed by Burrup Nitrates Pty Ltd when the sales process commences.",
+    "Market definition": "The ACCC considered the possible acquisition in the context of the following markets: - the market for the supply of ammonia in Western Australia; and - the market for the supply of ammonium nitrate in Western Australia.",
+    "Competition analysis": "The ACCC formed the view that the possible acquisition was unlikely to substantially lessen competition in any relevant market due to the lack of geographic overlap between the parties, with Incitec Pivot operating primarily on the east coast of Australia and Burrup being located on the Burrup Peninsula in Western Australia. The ACCC considers that its decision would not have been affected even if a narrower product market for the supply of explosive grade ammonium nitrate had been adopted."
+  }
+}

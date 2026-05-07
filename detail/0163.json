@@ -1,0 +1,49 @@
+{
+  "id": "0163",
+  "title": "Seven West Media Limited - Prime Media Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-west-media-limited-prime-media-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "18 December 2019",
+  "date_completed_iso": "2019-12-18T12:00:00Z",
+  "date_commenced": "29 October 2019",
+  "date_commenced_iso": "2019-10-29T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Seven West Media Limited"
+  ],
+  "targets": [
+    "Prime Media Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "29 Oct 2019",
+      "date_iso": "2019-10-29T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Nov 2019",
+      "date_iso": "2019-11-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Dec 2019",
+      "date_iso": "2019-12-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "During the course of the review the ACCC also made a number of document and information requests to Seven West Media and Prime that are not separately identified in the entries above. Collectively, the parties took 14 business days to respond to these requests."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Seven West Media Limited ( SWM ) is proposing to acquire 100% of Prime Media Group Limited's ( Prime ) ordinary shares through a scheme of arrangement (the proposed acquisition ). SWM is separately divesting its existing radio business in Western Australia.",
+    "Market definition": "The ACCC focused its consideration on the likely effects of the proposed acquisition on competition in: the supply of advertising opportunities the supply of media content, including local and regional news and content. The ACCC also considered the likely effects of the proposed acquisition on the acquisition of media content. The ACCC considered the potential effects on a national basis but focused its review on: regional Western Australia as a whole (excluding Perth), where Prime broadcasts television and SWM publishes state-wide newspaper mastheads; or alternatively narrower regional areas in Western Australia, where Prime broadcasts television and SWM publishes various regional newspaper mastheads. For the purposes of this assessment it was not necessary to reach a concluded position on the precise scope of these markets, and the ACCC did not reach a concluded view on whether different advertising and content formats (eg. television, newspapers, radio, online, etc) are in the same market or separate markets from the perspective of consumers or advertisers. The ACCC focused on the degree of constraint these different formats exercise on each other. SWM also currently operates commercial radio stations in some parts of regional Western Australia. SWM is separately divesting these radio assets to a third party due to requirements under the Broadcasting Services Act 1992. This divestment is the subject of an undertaking to the Australian Communications and Media Authority. The ACCC’s assessment of the parties’ overlaps therefore did not include SWM’s radio stations, and the ACCC’s decision is made on the basis of that divestment.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any market. With regard to the supply of advertising opportunities, market feedback suggested that advertisers advertising in regional WA have a number of potential options, including regional television, newspapers distributed in regional areas, radio, digital and out-of-home advertising. These options will be suitable for some but not all advertisers and advertising campaigns. Information before the ACCC indicates that advertisers conducting state-wide campaigns are often larger firms conducting national campaigns and are represented by agencies. They will often have other options to reach their audience and some degree of bargaining power. Smaller advertisers seeking more localised advertising opportunities may have fewer options but generally did not consider Prime’s television network and SWM’s regional newspapers as close substitutes for their advertising needs. Reasons for this include differences in affordability and format which affect the suitability of Prime’s television or SWM’s newspaper advertising for the purpose they wish to achieve. With regard to the supply of content, SWM and Prime’s broadcasting is already aligned to a large extent due to an existing content supply agreement. However, Prime broadcasts its own GWN7 regional news bulletin on weeknights (alongside a broadcast of the Seven Perth news bulletin) and provides other updates. Market feedback indicated that both the GWN7 news bulletin and SWM regional newspapers are important sources of local news and content. However, the ACCC found that the content supplied by each party was different, with SWM’s regional newspapers generally supplying content on a more localised level and with reduced frequency compared to Prime’s television news broadcasts. Further, there are alternative sources of news and content with varying degrees of localisation that can be accessed by most regional Western Australians via radio, digital and, in some areas, other regional newspapers. As to the acquisition of content, the ACCC considered that the proposed acquisition is unlikely to substantially lessen competition, as Prime currently acquires the vast majority of its content from SWM and produces its own news bulletins and updates in-house."
+  }
+}

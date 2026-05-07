@@ -1,0 +1,44 @@
+{
+  "id": "1200",
+  "title": "Combe International Ltd - proposed acquisition of The Ward Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/combe-international-ltd-proposed-acquisition-of-the-ward-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25609",
+  "industries": [
+    "Hair colouring products"
+  ],
+  "date_completed": "6 November 2006",
+  "date_completed_iso": "2006-11-06T12:00:00Z",
+  "date_commenced": "18 October 2006",
+  "date_commenced_iso": "2006-10-18T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Combe International Ltd"
+  ],
+  "targets": [
+    "The Ward Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Oct 2006",
+      "date_iso": "2006-10-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "1 Nov 2006",
+      "date_iso": "2006-11-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "6 Nov 2006",
+      "date_iso": "2006-11-06T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Combe International Ltd proposed to acquire most of the assets and employees, and some of the liabilities, from The Ward Group by buying a new company spun off by The Ward Group Pty Ltd for that purpose. Combe International Ltd markets \"Just for Men\" and \"Grecian\" hair colouring products for men. The Ward Group markets men's, women's and unisex hair colouring products under the brand \"Restoria\".",
+    "Market definition": "The ACCC considered the relevant market for the purpose of considering this proposed acquisition was, at its narrowest, the national market for the supply of home hair colouring products. The ACCC did not consider there to be separate men's and women's markets given the existence of significant supply-side substitutability and moderate demand-side substitutability.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the market for the supply of home hair colouring products. The ACCC formed this view on the basis that, among other things, the merged entity will continue to face competition from a number of large, vigorous and effective competitors in the relevant market. Accordingly, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

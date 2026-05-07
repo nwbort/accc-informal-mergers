@@ -1,0 +1,44 @@
+{
+  "id": "1217",
+  "title": "Longyear Global Holdings Inc - proposed acquisition of DrillCorp Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/longyear-global-holdings-inc-proposed-acquisition-of-drillcorp-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25279",
+  "industries": [
+    "Mineral drilling"
+  ],
+  "date_completed": "20 September 2006",
+  "date_completed_iso": "2006-09-20T12:00:00Z",
+  "date_commenced": "30 August 2006",
+  "date_commenced_iso": "2006-08-30T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Longyear Global Holdings Inc"
+  ],
+  "targets": [
+    "DrillCorp Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Aug 2006",
+      "date_iso": "2006-08-30T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "13 Sep 2006",
+      "date_iso": "2006-09-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Sep 2006",
+      "date_iso": "2006-09-20T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Longyear Global Holdings Inc proposes to acquire DrillCorp Ltd.  Both firms supply surface minerals drilling services in Western Australia.  Longyear also manufactures drilling equipment and conducts underground minerals drilling.",
+    "Market definition": "The ACCC considers that the relevant market is the Western Australian market for the provision of surface minerals drilling services.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the Western Australian market for surface mineral drilling services.  The ACCC formed this view given that the merged entity will continue to face competition from several significant competitors and customers have relatively strong countervailing power. Consequently, the ACCC has concluded that the proposed acquisition is unlikely to lead to a substantial lessening of competition in this market."
+  }
+}

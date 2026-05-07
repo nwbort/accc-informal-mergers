@@ -1,0 +1,25 @@
+{
+  "id": "1314",
+  "title": "Bruandwo Pty Limited - acquisition of Taverner Hotel Group Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bruandwo-pty-limited-acquisition-of-taverner-hotel-group-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23004",
+  "industries": [
+    "Hotel and bottle shop operation"
+  ],
+  "date_completed": "31 January 2006",
+  "date_completed_iso": "2006-01-31T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "The ACCC primarily considered the impact of the acquisition on the market for retail packaged liquor for off-premises consumption in local areas in South Australia and Victoria.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to result in a substantial lessening of competition in the relevant markets due to the existence of other competitors that would act as a competitive constraint on the merged entity.",
+    "Merger type": "Horizontal",
+    "Initiation": "Press"
+  }
+}

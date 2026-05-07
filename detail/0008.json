@@ -1,0 +1,72 @@
+{
+  "id": "0008",
+  "title": "MicroStar Logistics, LLC - Konvoy Holdings Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/microstar-logistics-llc-konvoy-holdings-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Keg rental and leasing"
+  ],
+  "date_completed": "23 October 2025",
+  "date_completed_iso": "2025-10-23T12:00:00Z",
+  "date_commenced": "17 June 2025",
+  "date_commenced_iso": "2025-06-17T12:00:00Z",
+  "total_review_days": 91,
+  "acquirers": [
+    "MicroStar Logistics, LLC"
+  ],
+  "targets": [
+    "Konvoy Holdings Pty Limited (Receivers and Managers Appointed) (Administrators Appointed)"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jun 2025",
+      "date_iso": "2025-06-17T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Jul 2025",
+      "date_iso": "2025-07-01T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "11 Jul 2025",
+      "date_iso": "2025-07-11T12:00:00Z",
+      "event": "The ACCC requested further information from the merger parties. Former provisional date for announcement of findings (31 July) delayed. The ACCC will announce a revised provisional decision date in due course."
+    },
+    {
+      "date": "29 Jul 2025",
+      "date_iso": "2025-07-29T12:00:00Z",
+      "event": "ACCC received further information from the merger parties on 25 July 2025. Timeline recommenced."
+    },
+    {
+      "date": "14 Aug 2025",
+      "date_iso": "2025-08-14T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "28 Aug 2025",
+      "date_iso": "2025-08-28T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "8 Sep 2025",
+      "date_iso": "2025-09-08T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (9 October 2025) delayed."
+    },
+    {
+      "date": "10 Oct 2025",
+      "date_iso": "2025-10-10T12:00:00Z",
+      "event": "ACCC received further information from the merger parties on 2 October 2025. Timeline recommenced."
+    },
+    {
+      "date": "23 Oct 2025",
+      "date_iso": "2025-10-23T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 20 June 2025, an Asset Sale Agreement was signed, pursuant to which Kegstar (with MicroStar acting as Guarantor) proposed to acquire kegs, keg tracking technology hardware and software, select employees, a keg repair and maintenance facility, and other ancillary assets from Konvoy. MicroStar is a keg services company incorporated in the United States. It entered the Australian market in 2021 when it acquired the Kegstar business from Brambles Ltd. As well as Australia and the United States, it also operates in the UK, Europe and New Zealand. In Australia, MicroStar handles the activities and costs relating to a brewery’s keg use (for example, keg capital costs, reverse logistics, repair & maintenance, and keg management labour) under a pay-per-fill (PPF) model. Konvoy operates a keg services business in Australia and New Zealand. In Australia, it provides keg rentals on a short-term basis (‘keg pooling’) and leases kegs on a long-term basis, for a period of 12-60 months (‘keg leasing’). Under its long-term keg leasing, brewers can lease kegs for their brewery for a monthly fee. Its short-term keg pooling is a PPF model. As part of this, Konvoy stores and maintains a fleet of serviced kegs, which may be tracked, that are delivered to brewers as needed in exchange for a fixed fee. The brewers will then clean, fill and distribute the kegs and Konvoy tracks the kegs and arranges a pickup from the brewer’s customer (i.e. licensed venues) once they are empty. A Public Competition Assessment will be published in due course."
+  }
+}

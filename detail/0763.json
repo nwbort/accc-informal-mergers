@@ -1,0 +1,49 @@
+{
+  "id": "0763",
+  "title": "Toll Holdings Limited - completed acquisition of Extra Transport Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-completed-acquisition-of-extra-transport-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36867",
+  "industries": [
+    "Road Transport"
+  ],
+  "date_completed": "7 April 2009",
+  "date_completed_iso": "2009-04-07T12:00:00Z",
+  "date_commenced": "23 March 2009",
+  "date_commenced_iso": "2009-03-23T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Extra Transport Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jul 2008",
+      "date_iso": "2008-07-01T12:00:00Z",
+      "event": "Toll Holdings Limited acquired Extra Transport Group Pty Ltd."
+    },
+    {
+      "date": "23 Mar 2009",
+      "date_iso": "2009-03-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Apr 2009",
+      "date_iso": "2009-04-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Apr 2009",
+      "date_iso": "2009-04-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In July 2008, Toll Holdings acquired Extra Transport Group Pty Ltd, a Melbourne based business which provided wharf cartage and warehousing services.",
+    "Market definition": "For the purposes of assessing this acquisition, the ACCC considered the following markets: the market for the provision of wharf cartage services within Melbourne; the market for the provision of warehousing services in Melbourne; and  the market for the supply of integrated logistics services.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to substantially lessen competition in the relevant markets. The ACCC considered that there are a number of alternative suppliers of wharf cartage and warehousing services which would continue to provide a competitive constraint on Toll. The ACCC considered that there are many competitors who supply only wharf cartage and warehousing services or freight forwarding services suggesting that suppliers do not need to offer a complete integrated logistics service in order to compete or enter the market."
+  }
+}

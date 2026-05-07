@@ -1,0 +1,83 @@
+{
+  "id": "1253",
+  "title": "Incitec Pivot Limited - proposed acquisition of Southern Cross Fertilisers Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/incitec-pivot-limited-proposed-acquisition-of-southern-cross-fertilisers-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24333",
+  "industries": [
+    "Manufacture and supply of fertiliser"
+  ],
+  "date_completed": "26 July 2006",
+  "date_completed_iso": "2006-07-26T12:00:00Z",
+  "date_commenced": "9 May 2006",
+  "date_commenced_iso": "2006-05-09T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Incitec Pivot Limited"
+  ],
+  "targets": [
+    "Southern Cross Fertilisers Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 May 2006",
+      "date_iso": "2006-05-09T12:00:00Z",
+      "event": "ACCC commenced assessment under Merger Review Process Guidelines"
+    },
+    {
+      "date": "16 May 2006",
+      "date_iso": "2006-05-16T12:00:00Z",
+      "event": "ACCC commenced market inquiries"
+    },
+    {
+      "date": "24 May 2006",
+      "date_iso": "2006-05-24T12:00:00Z",
+      "event": "ACCC requested additional information from Incitec Pivot (ACCC's indicative timeline suspended pending response from Incitec Pivot)"
+    },
+    {
+      "date": "31 May 2006",
+      "date_iso": "2006-05-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "9 Jun 2006",
+      "date_iso": "2006-06-09T12:00:00Z",
+      "event": "Request for further information received from Incitec Pivot (ACCC's indicative timeline recommenced)"
+    },
+    {
+      "date": "16 Jun 2006",
+      "date_iso": "2006-06-16T12:00:00Z",
+      "event": "ACCC requested additional information from Incitec Pivot (ACCC's indicative timeline suspended pending response from Incitec Pivot)"
+    },
+    {
+      "date": "23 Jun 2006",
+      "date_iso": "2006-06-23T12:00:00Z",
+      "event": "Request for further information received from Incitec Pivot (ACCC's indicative timeline recommenced)"
+    },
+    {
+      "date": "5 Jul 2006",
+      "date_iso": "2006-07-05T12:00:00Z",
+      "event": "Proposed announcement of ACCC findings. Decision delayed pending receipt of additional information from the market."
+    },
+    {
+      "date": "5 Jul 2006",
+      "date_iso": "2006-07-05T12:00:00Z",
+      "event": "ACCC requested additional information from Incitec Pivot (ACCC's indicative timeline suspended pending response from Incitec Pivot)"
+    },
+    {
+      "date": "12 Jul 2006",
+      "date_iso": "2006-07-12T12:00:00Z",
+      "event": "Request for further information received from Incitec Pivot (ACCC's indicative timeline recommenced)"
+    },
+    {
+      "date": "26 Jul 2006",
+      "date_iso": "2006-07-26T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the following markets to be relevant when assessing the competitive effects of the proposed acquisition: Separate markets in the eastern states of Australia (including South Australia) for the manufacture and import of: nitrogen based fertilisers; potassium based fertilisers; phosphate based fertilisers; and at least a submarket for ammonium phosphate fertilisers. A market on the east coast of Australia for the distribution of the main groups of fertilisers listed above. Regional markets for the retail of the main groups of fertilisers listed above.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition. The ACCC considered that the availability and substitutability of imports as an alternative to the domestic supply of phosphate fertilisers, together with the prevalence of import parity pricing for these products, would be capable of continuing to be a constraint on IPL (and SCF) post-acquisition. The following factors were particularly relevant to the ACCC reaching this view: there is a steady trend away from simple superphosphate products (except in pasture based farming) towards the use of ammonium phosphates and specialty products; the current and expected capacity overseas for supply and production is in excess of demand, with new capacity planned (despite some temporary shutdowns in the USA); overseas demand is high (this trend is unrelated to the acquisition of SCF) with prices trending in cyclical fashion; other factors such as input/fuel prices and shipping costs affect everyone and are unrelated to the acquisition of SCF; phosphate fertilisers (including ammonium phosphates) are largely commodity products; Australia is a net importer and price taker at import parity prices (domestic contracts reflect this in their pricing of domestic product); IPL's competitors and customers are experienced in importing fertiliser and have the operations and infrastructure to do so, should the need for alternative sources of supply arise; and SCF has a strong incentive to expand and retain its customer base and remain price competitive."
+  }
+}

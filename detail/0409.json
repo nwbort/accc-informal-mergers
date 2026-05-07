@@ -1,0 +1,44 @@
+{
+  "id": "0409",
+  "title": "Sims Group Australia Holdings Limited - proposed acquisition of the ferrous scrap collection and recycling business of Paramount Machinery (Browns) Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sims-group-australia-holdings-limited-proposed-acquisition-of-the-ferrous-scrap-collection-and-recycling-business-of-paramount-machinery-browns-pty",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50017",
+  "industries": [
+    "Collection and Recycyling of Scrap Metal"
+  ],
+  "date_completed": "19 December 2012",
+  "date_completed_iso": "2012-12-19T12:00:00Z",
+  "date_commenced": "14 November 2012",
+  "date_commenced_iso": "2012-11-14T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Sims Group Australia Holdings Limited"
+  ],
+  "targets": [
+    "Paramount Machinery (Browns) Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 Nov 2012",
+      "date_iso": "2012-11-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Nov 2012",
+      "date_iso": "2012-11-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Dec 2012",
+      "date_iso": "2012-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sims Group Australia Holdings Limited proposed to acquire Paramount Browns' ferrous scrap metal collection and recycling business in South Australia.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: -the market for the acquisition of ferrous scrap from scrap originators and scrap resellers in the greater Adelaide area; and -the market for the supply of recycled ferrous scrap to end users in South Australia.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in either the acquisition or supply markets. In the market for the acquisition of ferrous scrap, the ACCC considered that although Paramount Machinery (Browns) Pty Limited appeared to be a strong competitor with significant scrap metal recycling capacity, existing competitors were likely to constrain the merged entity from reducing prices paid to scrap metal vendors below competitive levels. In the market for the supply of recycled ferrous scrap to end users in South Australia, the ACCC considered that existing competitors were likely to constrain the merged entity from raising prices for recycled scrap."
+  }
+}

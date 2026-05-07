@@ -1,0 +1,44 @@
+{
+  "id": "0758",
+  "title": "Ingram Micro Pty Limited - proposed acquisition of Vantex Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ingram-micro-pty-limited-proposed-acquisition-of-vantex-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37329",
+  "industries": [
+    "IT Products"
+  ],
+  "date_completed": "11 May 2009",
+  "date_completed_iso": "2009-05-11T12:00:00Z",
+  "date_commenced": "30 April 2009",
+  "date_commenced_iso": "2009-04-30T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Ingram Micro Pty Limited"
+  ],
+  "targets": [
+    "Vantex Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "30 Apr 2009",
+      "date_iso": "2009-04-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 May 2009",
+      "date_iso": "2009-05-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 May 2009",
+      "date_iso": "2009-05-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ingram Micro Pty Limited proposed to acquire Vantex Pty Limited.",
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition in this matter, the proposed acquisition was considered in the context of the \"two-tier\" distribution segment of the national market for the supply of IT products.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the proposed acquisition does not involve the removal of a vigorous and effective competitor; and - buyers have the ability to bypass distributors and acquire products directly from manufacturers."
+  }
+}

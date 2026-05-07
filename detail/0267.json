@@ -1,0 +1,100 @@
+{
+  "id": "0267",
+  "title": "Halliburton Company - proposed acquisition of Baker Hughes Incorporated",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/halliburton-company-proposed-acquisition-of-baker-hughes-incorporated",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57103",
+  "industries": [
+    "Oilfield services, technology and systems"
+  ],
+  "date_completed": "2 May 2016",
+  "date_completed_iso": "2016-05-02T12:00:00Z",
+  "date_commenced": "21 April 2015",
+  "date_commenced_iso": "2015-04-21T12:00:00Z",
+  "total_review_days": 93,
+  "acquirers": [
+    "Halliburton Company"
+  ],
+  "targets": [
+    "Baker Hughes Incorporated"
+  ],
+  "timeline": [
+    {
+      "date": "21 Apr 2015",
+      "date_iso": "2015-04-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Jun 2015",
+      "date_iso": "2015-06-19T12:00:00Z",
+      "event": "Former proposed decision date of 9 July 2015 delayed to allow receipt of further information from Halliburton."
+    },
+    {
+      "date": "22 Jun 2015",
+      "date_iso": "2015-06-22T12:00:00Z",
+      "event": "ACCC requested further information from Baker Hughes."
+    },
+    {
+      "date": "31 Jul 2015",
+      "date_iso": "2015-07-31T12:00:00Z",
+      "event": "ACCC received further information from Halliburton and Baker Hughes."
+    },
+    {
+      "date": "11 Sep 2015",
+      "date_iso": "2015-09-11T12:00:00Z",
+      "event": "ACCC received further information from Halliburton. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Oct 2015",
+      "date_iso": "2015-10-07T12:00:00Z",
+      "event": "Former proposed decision date of 15 October 2015 delayed at the request of the merger parties to allow them to provide more information."
+    },
+    {
+      "date": "16 Oct 2015",
+      "date_iso": "2015-10-16T12:00:00Z",
+      "event": "ACCC received further information from Halliburton. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Oct 2015",
+      "date_iso": "2015-10-23T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "1 Dec 2015",
+      "date_iso": "2015-12-01T12:00:00Z",
+      "event": "Former proposed decision date of 17 December 2015 delayed to allow the merger parties additional time to provide information and to allow the ACCC to consider the information it has received."
+    },
+    {
+      "date": "24 Dec 2015",
+      "date_iso": "2015-12-24T12:00:00Z",
+      "event": "ACCC requested further information from Halliburton and Baker Hughes."
+    },
+    {
+      "date": "15 Feb 2016",
+      "date_iso": "2016-02-15T12:00:00Z",
+      "event": "ACCC requested further information from Halliburton."
+    },
+    {
+      "date": "26 Feb 2016",
+      "date_iso": "2016-02-26T12:00:00Z",
+      "event": "ACCC received further information from Baker Hughes."
+    },
+    {
+      "date": "10 Mar 2016",
+      "date_iso": "2016-03-10T12:00:00Z",
+      "event": "ACCC received further information from Halliburton in response to the ACCC request of 24 December 2015. ACCC assessing a large amount of information."
+    },
+    {
+      "date": "20 Apr 2016",
+      "date_iso": "2016-04-20T12:00:00Z",
+      "event": "Halliburton requested further time to provide information to the ACCC. The timeline will be updated with a proposed decision date in due course."
+    },
+    {
+      "date": "2 May 2016",
+      "date_iso": "2016-05-02T12:00:00Z",
+      "event": "ACCC discontinued its public review after Halliburton advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {}
+}

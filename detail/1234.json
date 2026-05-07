@@ -1,0 +1,43 @@
+{
+  "id": "1234",
+  "title": "Pacific Brands Household Products Pty Ltd - acquisition of Foam Products Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-brands-household-products-pty-ltd-acquisition-of-foam-products-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24797",
+  "industries": [
+    "Polyurethane foam"
+  ],
+  "date_completed": "22 August 2006",
+  "date_completed_iso": "2006-08-22T12:00:00Z",
+  "date_commenced": "5 July 2006",
+  "date_commenced_iso": "2006-07-05T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Pacific Brands Household Products Pty Ltd"
+  ],
+  "targets": [
+    "Foam Products Australia"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jul 2006",
+      "date_iso": "2006-07-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Aug 2006",
+      "date_iso": "2006-08-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the acquisition in the Queensland market for the manufacture and conversion of flexible polyurethane slabstock foam.",
+    "Competition analysis": "The ACCC has previously reviewed matters in the foam industry.  This matter involved the acquisition of a foam manufacturing/conversion business with facilities in a single state.  The ACCC considered that the acquisition was unlikely to substantially lessen competition in the relevant market.  Among other things, the ACCC took into account the existence of two other foam manufacturers in Queensland, relatively low barriers to expansion, combined with low customer switching costs."
+  }
+}

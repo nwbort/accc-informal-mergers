@@ -1,0 +1,49 @@
+{
+  "id": "0114",
+  "title": "Sydney Aviation Alliance - Sydney Airport",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sydney-aviation-alliance-sydney-airport",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Airports"
+  ],
+  "date_completed": "9 December 2021",
+  "date_completed_iso": "2021-12-09T12:00:00Z",
+  "date_commenced": "7 October 2021",
+  "date_commenced_iso": "2021-10-07T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "Sydney Aviation Alliance"
+  ],
+  "targets": [
+    "Sydney Airport Limited and Sydney Airport Trust 1"
+  ],
+  "timeline": [
+    {
+      "date": "7 Oct 2021",
+      "date_iso": "2021-10-07T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Oct 2021",
+      "date_iso": "2021-10-28T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "2 Dec 2021",
+      "date_iso": "2021-12-02T12:00:00Z",
+      "event": "Former proposed decision date (16 December 2021) brought forward to 9 December 2021."
+    },
+    {
+      "date": "9 Dec 2021",
+      "date_iso": "2021-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sydney Aviation Alliance proposes to acquire Sydney Airport Limited and Sydney Airport Trust 1 (together Sydney Airport ). Sydney Airport supplies a range of aviation services. Sydney Aviation Alliance is a consortium of investment funds invested in a range of infrastructure assets including other airports in Australia.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in Australian markets for the supply of aeronautical services and non-aeronautical services. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition or scope of these markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the transaction is unlikely to substantially lessen competition. Market feedback indicated that there is very little, if any, competition between Australian airports for most of the services they supply. The ACCC was initially concerned that the proposed acquisition could reduce competition (in particular for some international flights) between Sydney Airport and other airports due to the cross-ownership that members of the consortium would have in airports across Australia. The ACCC looked particularly closely at the cross-ownerships between Sydney, Melbourne, Brisbane, Perth and Adelaide airports. However, as there is limited competition between Australian airports and the shareholdings were unlikely to give any one consortium member control at an Australian airport, the ACCC found that competition was unlikely to be impacted by the proposed acquisition in this respect. The ACCC also considered whether the cross-ownership of airports by some of the consortium members would increase information sharing between these airports and harm competition by allowing airports to secure more favourable terms from their users. The ACCC concluded that given the limited competition between airports, any hypothetical increase in information sharing would be unlikely to substantially lessen competition. The ACCC notes that Australian airports in capital cities have significant market power due to their natural monopoly characteristics, and that the current monitoring regime does little to constrain them exercising this power. However, the ACCC considers that the proposed acquisition will not change this dynamic such that competition will be harmed. Given the factors above, the ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any relevant market in Australia."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1068",
+  "title": "Bindora Pty Ltd (the Pact Group) - proposed acquisition of Baroda Packaging Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bindora-pty-ltd-the-pact-group-proposed-acquisition-of-baroda-packaging-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28766",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "31 July 2007",
+  "date_completed_iso": "2007-07-31T12:00:00Z",
+  "date_commenced": "4 July 2007",
+  "date_commenced_iso": "2007-07-04T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Bindora Pty Ltd (the Pact Group)"
+  ],
+  "targets": [
+    "Baroda Packaging Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Jul 2007",
+      "date_iso": "2007-07-04T12:00:00Z",
+      "event": "The Pact Group advised the ACCC of the public announcement of the proposed acquisition. ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "18 Jul 2007",
+      "date_iso": "2007-07-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jul 2007",
+      "date_iso": "2007-07-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bindora Pty Ltd, a subsidiary of VIP Plastic Packaging Ltd which is ultimately owned by the Pact Group, has entered into a sale and purchase agreement for the acquisition of the packaging business of Baroda Packaging Pty Ltd",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national markets for the manufacture and supply of: - rigid plastic non-beverage containers and at its narrowest, 1-5L blow moulded bottles; and - small industrial containers and at its narrowest, plastic pails.",
+    "Competition analysis": "On 31 July 2007, the ACCC decided not to intervene in the proposed acquisition. In relation to the parties' supply of rigid plastic non-beverage containers, the ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition. In relation to the parties' supply of small industrial containers,  the ACCC concluded that it is likely Pact Group would continue to face competitive constraints from alternate suppliers including significant plastic pail suppliers such as NCI and Viscount and potential import competition. In addition, the ACCC concluded that the proposed acquisition would be unlikely to significantly increase the ability or incentive for Pact Group to foreclose competition through bundling or tying of packaging products."
+  }
+}

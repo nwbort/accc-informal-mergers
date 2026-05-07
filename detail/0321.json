@@ -1,0 +1,43 @@
+{
+  "id": "0321",
+  "title": "Tabcorp Group - proposed acquisition of the ACTTAB business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tabcorp-group-proposed-acquisition-of-the-acttab-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55550",
+  "industries": [
+    "Wagering"
+  ],
+  "date_completed": "2 October 2014",
+  "date_completed_iso": "2014-10-02T12:00:00Z",
+  "date_commenced": "12 August 2014",
+  "date_commenced_iso": "2014-08-12T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Tabcorp"
+  ],
+  "targets": [
+    "ACTTAB"
+  ],
+  "timeline": [
+    {
+      "date": "12 Aug 2014",
+      "date_iso": "2014-08-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Sep 2014",
+      "date_iso": "2014-09-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Oct 2014",
+      "date_iso": "2014-10-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC's assessment focussed on: - the market for the national supply of wagering products and services, and - the market for supply of off-course retail totalisator wagering products and services in the Australian         Capital Territory. The ACCC also considered the effects of the proposed acquisition on the: - market for the supply of pooling services nationally, and - the bidding market for state-based totalisator licences. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definitions.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. Relevant factors in reaching this conclusion included: - Tabcorp and ACTTAB had limited direct competitive overlap in their local retail operations - the proposed acquisition involved a bare transfer of ACTTAB's exclusive totalisator licence in the          ACT - the proposed acquisition would not significantly increase Tabcorp's market share in the national         wagering market - in the supply of wagering products and services nationally, Tabcorp would continue to face         competition from corporate bookmakers and other state-based totalisators - ACTTAB was not a vigorous competitor in the national market for pooling services - ACTTAB obtained pooling services from Tabcorp via the SuperTAB pool, therefore the impact of the acquisition on pooling was minimal, and - the proposed acquisition was unlikely to materially alter Tabcorp's current or future position in bidding for wagering licences."
+  }
+}

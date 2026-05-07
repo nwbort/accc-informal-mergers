@@ -1,0 +1,42 @@
+{
+  "id": "0102",
+  "title": "Culligan Group (Culligan) - Waterlogic Group Holdings Limited (Waterlogic)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/culligan-group-culligan-waterlogic-group-holdings-limited-waterlogic",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [],
+  "date_completed": "19 May 2022",
+  "date_completed_iso": "2022-05-19T12:00:00Z",
+  "date_commenced": "4 March 2022",
+  "date_commenced_iso": "2022-03-04T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Culligan Group (Culligan)"
+  ],
+  "targets": [
+    "Waterlogic Group Holdings Limited (Waterlogic)"
+  ],
+  "timeline": [
+    {
+      "date": "4 Mar 2022",
+      "date_iso": "2022-03-04T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Mar 2022",
+      "date_iso": "2022-03-21T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "19 May 2022",
+      "date_iso": "2022-05-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Culligan is controlled by Osmosis Buyer Limited ( Osmosis ). Culligan is headquartered is the USA and operates a global water systems treatment company. In Australia, Culligan owns the Zip brand, which manufactures and supplies multi-functional taps, bottle-free coolers, wall mounted boilers, bubblers and other drinking water solutions. Firewall Holding S.À R.L. ( Firewall ) is the holding company of Waterlogic Group Holdings Limited ( Waterlogic ).  Waterlogic is headquartered in the UK and operates in various countries. In Australia, Waterlogic supplies water products and services through Australian subsidiaries, including: Billi Australia Pty Ltd ( Billi business ) manufactures, supplies and services multi-functional taps; and Waterlogic Australia Holdings Pty Ltd which supplies rentals and servicing of bottle-free coolers, wall mounted boilers, bubblers and other drinking water products. On 21 December 2021, Osmosis entered into a Share Purchase Agreement to acquire 100% of the shares in Firewall. The ACCC commenced its public review on 4 March 2022. On 19 May 2022, the ACCC decided to not oppose Culligan’s proposed acquisition of Waterlogic, subject to the ACCC accepting a court-enforceable undertaking from Osmosis to divest the Billi business.",
+    "Market definition": "Refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Refer to the attached Public Competition Assessment."
+  }
+}

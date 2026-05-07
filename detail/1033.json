@@ -1,0 +1,44 @@
+{
+  "id": "1033",
+  "title": "CSR Limited (Pilkington) - proposed acquisition of Don Mathieson and Staff Glass Pty Ltd (DMS Glass)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/csr-limited-pilkington-proposed-acquisition-of-don-mathieson-and-staff-glass-pty-ltd-dms-glass",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29270",
+  "industries": [
+    "Glass products"
+  ],
+  "date_completed": "2 October 2007",
+  "date_completed_iso": "2007-10-02T12:00:00Z",
+  "date_commenced": "22 August 2007",
+  "date_commenced_iso": "2007-08-22T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "CSR Limited (Pilkington)"
+  ],
+  "targets": [
+    "Don Mathieson and Staff Glass Pty Ltd (DMS Glass)"
+  ],
+  "timeline": [
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "5 Sep 2007",
+      "date_iso": "2007-09-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Oct 2007",
+      "date_iso": "2007-10-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CSR Limited proposes to acquire Don Mathieson and Staff Glass Pty Ltd. CSR is a manufacturer and supplier of sugar, a manufacturer and supplier of building products (including flat glass and value added glass) and has interests in aluminium smeltering and property development. DMS is a glass merchant and processor and supplier of value added glass products.",
+    "Market definition": "The proposed acquisition was considered in the context of separate markets for the supply of flat glass products and the supply of value added glass products.",
+    "Competition analysis": "On 2 October 2007 the ACCC formed the view that the proposed acquisition is not likely to substantially lessen competition in the relevant markets due to a number of actual and potential competitors of flat glass and value added glass products which would be likely to constrain CSR from attempting to exercise market power. Additionally, the ACCC considered that the glass products supplied  by DMS are not likely to be sufficiently complementary to CSR's building products range (due to different customer bases for the respective products) so as to raise conglomerate merger concerns under section 50 of the Act."
+  }
+}

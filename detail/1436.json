@@ -1,0 +1,25 @@
+{
+  "id": "1436",
+  "title": "Carter Holt Harvey Limited - proposed acquisition of Wadepack Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/carter-holt-harvey-limited-proposed-acquisition-of-wadepack-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20711",
+  "industries": [
+    "Folded carton packaging"
+  ],
+  "date_completed": "20 December 2004",
+  "date_completed_iso": "2004-12-20T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Carter Holt Harvey Limited proposed to acquire Wadepack Limited.",
+    "Market definition": "The ACCC considered the most relevant market to be the market for the manufacture of folded cartonboard packaging. The ACCC considers the manufacture of folded cartonboard packaging to be a separate market from other elements of the packaging industry, such as corrugated box manufacturing.",
+    "Competition analysis": "Following inquiries with market participants the ACCC decided not to oppose the transaction.  The ACCC considered that Carter Holt Harvey will continue to face competition from other folded cartonboard packaging manufacturers such as Colorpak Limited, Anzpac Services (Australia) Pty Ltd, Amcor Limited and Hannapak.  The ACCC found that cartonboard packaging manufacturers are able to import raw cartonboard from overseas and also import the machines necessary for converting raw cartonboard into cartonboard packaging.",
+    "Merger type": "Horizontal"
+  }
+}

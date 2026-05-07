@@ -1,0 +1,31 @@
+{
+  "id": "1595",
+  "title": "Acquirer: Healthguard Health Benefits Funds Ltd, HBF Health Funds Incorporated; Target: Goldfields Medical Fund (GMF Health)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-healthguard-health-benefits-funds-ltd-hbf-health-funds-incorporated-target-goldfields-medical-fund-gmf-health",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16778",
+  "industries": [],
+  "date_completed": "26 November 2002",
+  "date_completed_iso": "2002-11-26T12:00:00Z",
+  "date_commenced": "19 September 2002",
+  "date_commenced_iso": "2002-09-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Healthguard Health Benefits Funds Ltd, HBF Health Funds Incorporated"
+  ],
+  "targets": [
+    "Goldfields Medical Fund (GMF Health)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 17 October 2002 the Commission received a submission from the administrator of Goldfields Medical Fund Incorporated (GMF) regarding its proposed acquisition by the  Healthguard Health Benefits Fund (Healthguard).  Healthguard has the same management as another private health insurance provider in HBF Health Funds Incorporated (HBF), so in effect GMF is being acquired by HBF. In December 2001, an administrator for GMF was appointed by the Private Health Insurance Administration Council (PHIAC).  This decision was taken because GMF had breached the capital adequacy standards required for private health insurance funds.",
+    "Market definition": "Private health insurance in Western Australia.",
+    "Competition analysis": "On 26 November 2002 the Commission decided that it would not intervene in the proposed acquisition of Goldfields Medical Fund (GMF) by Healthguard Health Benefits Fund. The main area of overlap between HBF and GMF is in the provision of private health insurance products in Western Australia.  HBF is the largest private health insurance fund in Western Australia.   GMF is the fourth largest provider of private health insurance products in Western Australia with the bulk of its membership located outside of the Perth metropolitan area. The Commission conducted extensive market inquiries into this proposed acquisition, consulting with competitors and customers of the merging parties. Although the proposed merger between GMF and HBF will cross the Commission's concentration thresholds for the exercise of unilateral market power, the Commission decided that on the basis of several substantive reasons that it was unlikely to constitute a substantial lessening of competition.  Even though GMF is the fourth largest private health insurance fund in Western Australia, its market share is only very small at around 3% as compared with HBF of around 70%.  Under these circumstances, it is doubtful that the incremental increase in market share of HBF as a consequence of its takeover of GMF is going to dramatically impact on the market.  Furthermore, the takeover of GMF will not result in the removal of a vigorous and effective competitor as it was no longer a financially viable operation due to its failure to meet the necessary prudential standards.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Other",
+    "ANZSIC code": "7421"
+  }
+}

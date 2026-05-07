@@ -1,0 +1,49 @@
+{
+  "id": "1123",
+  "title": "AGL and TRUenergy - proposed swap of South Australian electricity assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-and-truenergy-proposed-swap-of-south-australian-electricity-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27099",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "4 April 2007",
+  "date_completed_iso": "2007-04-04T12:00:00Z",
+  "date_commenced": "2 February 2007",
+  "date_commenced_iso": "2007-02-02T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "TRUenergy Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Feb 2007",
+      "date_iso": "2007-02-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "26 Feb 2007",
+      "date_iso": "2007-02-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Mar 2007",
+      "date_iso": "2007-03-15T12:00:00Z",
+      "event": "Indicative timeline extended by 1 week."
+    },
+    {
+      "date": "4 Apr 2007",
+      "date_iso": "2007-04-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed transaction."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL Energy and TRUenergy proposed to enter into an agreement whereby TRUenergy would transfer its gas fired 1280MW Torrens Island electricity generation facility, and associated gas supply contracts and facilities, to AGL, and AGL would transfer its 180MW gas fired electricity generator at Hallet to TRUenergy.",
+    "Market definition": "See detailed Public Competition Assessment below.",
+    "Competition analysis": "See detailed Public Competition Assessment below."
+  }
+}

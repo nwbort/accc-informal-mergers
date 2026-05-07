@@ -1,0 +1,31 @@
+{
+  "id": "1486",
+  "title": "Acquirer: Collex Pty Ltd; Target: Cleanaway",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-collex-pty-ltd-target-cleanaway",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18934",
+  "industries": [],
+  "date_completed": "12 May 2004",
+  "date_completed_iso": "2004-05-12T12:00:00Z",
+  "date_commenced": "5 March 2004",
+  "date_commenced_iso": "2004-03-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Collex Pty Ltd"
+  ],
+  "targets": [
+    "Cleanaway"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Collex Pty Ltd has acquired Cleanaway's waste collection business in Tasmania. The value of the assets sold were $1 million.",
+    "Market definition": "The relevant markets are the Northern, North-Western and Southern regional markets for the collection of: i.\tCommercial Waste; and ii.\tMedical and Sanitary Waste.",
+    "Competition analysis": "The acquisition would strengthen Collex's dominant position in the relevant regional markets. However, the acquisition is unlikely to substantially lessen competition in the relevant markets, on the basis that: * the heights of barriers to entry and expansion appears to be moderate as economies of scale appear possible for regional competitors with low overhead costs and there is evidence of successful new entrants in the regional markets; * there are a number of existing local competitors which would constrain the pricing of the merged entity; and * customers possess a significant degree of countervailing power due to the number of alternate suppliers and through the competitive tender process utilised by some customers.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "9634"
+  }
+}

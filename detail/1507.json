@@ -1,0 +1,30 @@
+{
+  "id": "1507",
+  "title": "Acquirer: Australia Postal Corporation, Qantas Airways Ltd; Target: Star Track Express",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australia-postal-corporation-qantas-airways-ltd-target-star-track-express",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18651",
+  "industries": [],
+  "date_completed": "17 December 2003",
+  "date_completed_iso": "2003-12-17T12:00:00Z",
+  "date_commenced": "21 November 2003",
+  "date_commenced_iso": "2003-11-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australia Postal Corporation, Qantas Airways Ltd"
+  ],
+  "targets": [
+    "Star Track Express"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Australia Post and Qantas are seeking, by way of a joint bid, to acquire all of the issued share capital in Tubuli Pty Limited, the parent company of the group that trades as Star Track Express. Australia Post and Qantas are proposing to establish a special purpose vehicle to acquire Star Track, which will be jointly (50%/50%) owned and controlled by Australia Post and Qantas.  This vehicle will be separate from Australian Air Express, which is also jointly owned by Australia Post and Qantas.",
+    "Market definition": "For the purposes of competition assessment the following market definition was adopted: the market for express freight services in which express road freight and express air freight services compete with each other, particularly in the provision of freight services in the short haul corridors (which account for the majority of freight movements); however it was noted that competition between express road and express air freight is limited by factors such as, in particular, distance, time, pricing and the nature of the good to be transported; and the structure of the express freight market is such that, while in the express road segment participants frequently undertake all of the components of the service, including the linehaul component, the position is different in express air freight where the linehaul component is almost always subcontracted.  Accordingly, the linehaul component of the service is a separate functional part of the express air freight segment of the market. The Commission also noted that if the alternative market definition of separate markets for air and road freight were adopted the degree of overlap between the target and acquirers would be very small and accordingly no substantial lessening of competition would be likely.",
+    "Competition analysis": "The Commission will not oppose the proposed acquisition since no substantial lessening of competition is considered likely. In reaching this conclusion the Commission noted the presence of strong competitors in the industry and the potential for new entry or expansion of existing competitors.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties"
+  }
+}

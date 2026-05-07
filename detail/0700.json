@@ -1,0 +1,78 @@
+{
+  "id": "0700",
+  "title": "Thomson Reuters (Professional) Australia Limited - proposed acquisition of Ernst & Young's tax compliance software products",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/thomson-reuters-professional-australia-limited-proposed-acquisition-of-ernst-youngs-tax-compliance-software-products",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38060",
+  "industries": [
+    "Tax compliance software products"
+  ],
+  "date_completed": "14 October 2009",
+  "date_completed_iso": "2009-10-14T12:00:00Z",
+  "date_commenced": "6 July 2009",
+  "date_commenced_iso": "2009-07-06T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "Thomson Reuters (Professional) Australia Limited"
+  ],
+  "targets": [
+    "Ernst & Young Information Systems Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jul 2009",
+      "date_iso": "2009-07-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Jul 2009",
+      "date_iso": "2009-07-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Aug 2009",
+      "date_iso": "2009-08-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Aug 2009",
+      "date_iso": "2009-08-27T12:00:00Z",
+      "event": "ACCC requested further information from merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "1 Sep 2009",
+      "date_iso": "2009-09-01T12:00:00Z",
+      "event": "Former proposed date of 23 September 2009 for announcement of ACCC's findings, amended to allow the merger parties to provide further information."
+    },
+    {
+      "date": "10 Sep 2009",
+      "date_iso": "2009-09-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "24 Sep 2009",
+      "date_iso": "2009-09-24T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "5 Oct 2009",
+      "date_iso": "2009-10-05T12:00:00Z",
+      "event": "Former proposed date of 7 October 2009 for announcement of ACCC's findings amended in response to a request by Thomson Reuters to allow it additional time to provide further information to the ACCC. ACCC timeline suspended pending receipt of this information."
+    },
+    {
+      "date": "8 Oct 2009",
+      "date_iso": "2009-10-08T12:00:00Z",
+      "event": "ACCC received further information from Thomson Reuters. ACCC timeline recommenced."
+    },
+    {
+      "date": "14 Oct 2009",
+      "date_iso": "2009-10-14T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please refer to Public Competition Assessment.",
+    "Competition analysis": "Please refer to Public Competition Assessment."
+  }
+}

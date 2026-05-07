@@ -1,0 +1,49 @@
+{
+  "id": "1232",
+  "title": "Godfrey Hirst - proposed acquisition of Feltex Carpets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/godfrey-hirst-proposed-acquisition-of-feltex-carpets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24929",
+  "industries": [
+    "Carpet manufacturing and supply"
+  ],
+  "date_completed": "24 August 2006",
+  "date_completed_iso": "2006-08-24T12:00:00Z",
+  "date_commenced": "6 July 2006",
+  "date_commenced_iso": "2006-07-06T12:00:00Z",
+  "total_review_days": 36,
+  "acquirers": [
+    "Godfrey Hirst Australia Pty Ltd"
+  ],
+  "targets": [
+    "Feltex Carpets"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jul 2006",
+      "date_iso": "2006-07-06T12:00:00Z",
+      "event": "ACCC commenced review based upon speculation regarding several unknown acquirers"
+    },
+    {
+      "date": "31 Jul 2006",
+      "date_iso": "2006-07-31T12:00:00Z",
+      "event": "Closing date for market inquiries"
+    },
+    {
+      "date": "2 Aug 2006",
+      "date_iso": "2006-08-02T12:00:00Z",
+      "event": "ACCC became aware that Godfrey Hirst was a proposed acquirer"
+    },
+    {
+      "date": "24 Aug 2006",
+      "date_iso": "2006-08-24T12:00:00Z",
+      "event": "ACCC announced findings"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Godfrey Hirst Australia Pty Ltd - proposed acquisition of Feltex Australia Pty Ltd",
+    "Market definition": "National market for carpet manufacturing and supply.",
+    "Competition analysis": "The merged business would manufacture and distribute to retailers and the commercial sector (e.g. property developers and building owners) a substantial proportion of carpet sold in Australia.  However, the ACCC was satisfied that the merged business would be competitively constrained by: * imports at all quality levels (excluding carpet imported by the merger parties).  Market inquiries suggested that lower quality carpet imports from China were becoming increasingly competitive, as were higher quality imports from e.g. New Zealand and the US.  Tariffs on carpet have fallen from 35 per cent in 1990 to 10 per cent in 2006, and are scheduled to fall to 5 per cent by 2010; * other Australian carpet manufacturers, particularly at higher quality levels; and * the potential for at least some consumers to switch to other types of flooring if carpet prices rise.  Market inquiries generally, but not universally, supported the contention that other types of flooring compete with carpet.  All major carpet retailers sell other types of flooring.  While there appears to be a general consumer preference for carpet in some areas (e.g. bedrooms) and for hard flooring in others (e.g. bathrooms), there are some areas (e.g. living areas) where either is used.  In these areas, while some customers have a pre-existing preference for one type of flooring, market inquiries suggested that a not-insignificant group of consumers compare prices and quality for different types of flooring before choosing a flooring type. During market inquiries, a concern was raised that the merged business would be the only Australian manufacturer of wet-dyed nylon carpet.  However, market inquiries indicated that other types of carpet would be acceptable substitutes for Australian-manufactured wet dyed nylon."
+  }
+}

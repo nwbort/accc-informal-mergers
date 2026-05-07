@@ -1,0 +1,43 @@
+{
+  "id": "1247",
+  "title": "Little Company of Mary Health Care Ltd - proposed acquisition of The John James Memorial Hospital Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/little-company-of-mary-health-care-ltd-proposed-acquisition-of-the-john-james-memorial-hospital-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24928",
+  "industries": [
+    "Private hospitals"
+  ],
+  "date_completed": "8 August 2006",
+  "date_completed_iso": "2006-08-08T12:00:00Z",
+  "date_commenced": "19 July 2006",
+  "date_commenced_iso": "2006-07-19T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Little Company of Mary Health Care Ltd"
+  ],
+  "targets": [
+    "The John James Memorial Hospital Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jul 2006",
+      "date_iso": "2006-07-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jul 2006",
+      "date_iso": "2006-07-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "8 Aug 2006",
+      "date_iso": "2006-08-08T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the acquisition in the Canberra markets for: (i) the supply to health funds (and entities undertaking similar functions - for example, the Repatriation Commission) of the right for their members to be supplied with general overnight hospital services at specified rates; and (ii) the supply to health funds (and similar entities) of the right for their members to be supplied with psychiatric hospital services at specified rates.",
+    "Competition analysis": "The ACCC considered that the acquisition would be unlikely to result in a substantial lessening of competition.  Post-acquisition, the Little Company of Mary Health Care Ltd would own two of the three general overnight private hospitals in Canberra.  However, this was unlikely to significantly increase the level of bargaining power of the Little Company of Mary Health Care Ltd when negotiating with hospital services purchasers. Among other things, the ACCC took into account the negotiation of Hospital Purchaser Provider Agreements on a national basis, and Little Company of Mary Health Care Ltd's relatively small portfolio of hospitals nationally.  Market inquiries were largely unconcerned with the proposed acquisition."
+  }
+}

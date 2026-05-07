@@ -1,0 +1,31 @@
+{
+  "id": "1687",
+  "title": "Acquirer: OPSM Group Ltd; Target: Kays Optical Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-opsm-group-ltd-target-kays-optical-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15035",
+  "industries": [],
+  "date_completed": "8 February 2002",
+  "date_completed_iso": "2002-02-08T12:00:00Z",
+  "date_commenced": "13 November 2001",
+  "date_commenced_iso": "2001-11-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "OPSM Group Ltd"
+  ],
+  "targets": [
+    "Kays Optical Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "OPSM Protector Limited's proposed acquisition of Kays Optical Limited",
+    "Market definition": "The relevant market was the national market for optical dispensing.",
+    "Competition analysis": "The Commission considered that the proposed acquisition would not substantially lessen competition in the relevant market because of the following factors: - the proposed acquisition did not exceed Merger Guideline thresholds ; - the low barriers to entry or expansion that would be faced by optical dispensers seeking to constrain any price increases by the merged entity ; - examples of effective entry in the past and possible new entry by health funds ; - close and vigorous competition from independent optometrists and retail optical dispensers at the local level of competition that will remain post acquisition ; and - countervailing power in the hands of health funds arising from preferred provider arrangements with national and regional optical chains.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "8632"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1575",
+  "title": "Acquirer: Xstrata Coal Pty Ltd; Target: MIM Holdings Ltd, Mount Isa Mines Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-xstrata-coal-pty-ltd-target-mim-holdings-ltd-mount-isa-mines-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17008",
+  "industries": [],
+  "date_completed": "10 March 2003",
+  "date_completed_iso": "2003-03-10T12:00:00Z",
+  "date_commenced": "22 November 2002",
+  "date_commenced_iso": "2002-11-22T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Xstrata Coal Pty Ltd"
+  ],
+  "targets": [
+    "MIM Holdings Ltd, Mount Isa Mines Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Xstrata acquiring (through one of its subsidiaries Xstrata Coal Investments Australian Limited) all of the issued ordinary shares of MIM.",
+    "Market definition": "The Commission considered that the relevant markets for the purpose of this analaysis, taking into account the extent of overlap between the operations of the parties are: the national market for the supply of thermal coal; and the national market for the supply of coking coal.",
+    "Competition analysis": "The proposed acquisition would not appear to lead to a substantial lessening of competition in the relevant markets.  This is because: \"\tThe large volume of exports from domestic suppliers, indicates that Australian coal is priced at internationally competitive levels.  Suppliers are likely to be able to divert supply from export markets to defeat a rise in domestic prices; \"\tThe presence of well placed alternate suppliers; \"\tBarriers to entry do not appear to be high; and \"\tCountervailing power appears to be present among the customers of the Parties particularly in view of the presence of well informed customers and buying groups, which almost eliminating the opportunity of the merged party to raise prices or act independently of the market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "1101"
+  }
+}

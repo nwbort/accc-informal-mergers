@@ -1,0 +1,53 @@
+{
+  "id": "0581",
+  "title": "Woolworths Limited - proposed acquisition of liquor licence in Kempsey NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquor-licence-in-kempsey-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43604",
+  "industries": [
+    "Liquor retailing"
+  ],
+  "date_completed": "29 October 2010",
+  "date_completed_iso": "2010-10-29T12:00:00Z",
+  "date_commenced": "1 October 2010",
+  "date_commenced_iso": "2010-10-01T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor licence in Kempsey NSW"
+  ],
+  "timeline": [
+    {
+      "date": "1 Oct 2010",
+      "date_iso": "2010-10-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Oct 2010",
+      "date_iso": "2010-10-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Oct 2010",
+      "date_iso": "2010-10-21T12:00:00Z",
+      "event": "ACCC requested further information from Woolworths. Former proposed decision date of 21 October 2010 delayed. A new proposed date for the announcement of the ACCC's findings will be advised in due course."
+    },
+    {
+      "date": "28 Oct 2010",
+      "date_iso": "2010-10-28T12:00:00Z",
+      "event": "ACCC received further information from Woolworths. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Oct 2010",
+      "date_iso": "2010-10-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the competition effects of the proposed acquisition in the following markets: (1)  the local market for the retail sale of packaged liquor for off-premises consumption within a 3-5km radius of the target liquor site; and (2) the New South Wales market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to the presence and constraint imposed by a number of other independent retail liquor outlets in the local retail liquor market. In the wholesale liquor market, the ACCC considered that the proposed acquisition was unlikely to significantly increase the buying power of Woolworths, nor diminish the buying power of competing wholesale purchasers."
+  }
+}

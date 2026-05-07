@@ -1,0 +1,43 @@
+{
+  "id": "1213",
+  "title": "Origin Energy (Australia) Ltd - proposed acquisition of Sun Retail",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/origin-energy-australia-ltd-proposed-acquisition-of-sun-retail",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25133",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "26 September 2006",
+  "date_completed_iso": "2006-09-26T12:00:00Z",
+  "date_commenced": "9 August 2006",
+  "date_commenced_iso": "2006-08-09T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Origin Energy (Australia) Ltd"
+  ],
+  "targets": [
+    "Sun Retail"
+  ],
+  "timeline": [
+    {
+      "date": "9 Aug 2006",
+      "date_iso": "2006-08-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "4 Sep 2006",
+      "date_iso": "2006-09-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "26 Sep 2006",
+      "date_iso": "2006-09-26T12:00:00Z",
+      "event": "ACCC decided not to oppose proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Origin sought to acquire Sun Retail, which was being sold as part of tender process being conducted by the Queensland Government.",
+    "Competition analysis": "Electricity The acquisition would have resulted in a small but substantial increase in Origin's market share in the possible relevant markets.  Nevertheless, the ACCC considered that the presence of a number of effective competitors in the market was likely to impose sufficient competitive discipline on Origin such that it would be unlikely to be able to raise prices or lower service levels post merger without fear of losing customers. The ACCC also noted that the purchaser of another Queensland electricity retailer, PowerDirect, which was being sold after Sun Retail, was also likely to provide significant competition for the merged entity. LPG The ACCC considered that the proposed acquisition would not have resulted in a substantial lessening of competition in the market for retailing 'traditional' LPG in south east Queensland and northern NSW.  The ACCC noted that barriers to entry did not appear to be insurmountable and the merged entity was likely to face sufficient competition from other existing players in the market. In relation to barriers to entry, it was recognised that new entrants would need to acquire land, storage tanks and a fleet of vehicles to enter on a reasonable scale, however these were not considered to be very significant barriers.  Further, market inquiries indicated that in the south east Queensland and Northern NSW area, there are independent sources of gas available from the refineries as well as other potential sources.  Evidence of recent new entry was considered an indication that barriers to entry were not very significant. Although the proposed acquisition would have resulted in an increase in market concentration, the ACCC considered that the presence of national LPG retailers, Elgas and Kleenheat, in the market, as well as the threat of new entry, would have provided a sufficient competitive constraint on the merged entity's ability to raise prices or decrease service levels post-acquisition."
+  }
+}

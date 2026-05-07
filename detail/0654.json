@@ -1,0 +1,44 @@
+{
+  "id": "0654",
+  "title": "Goodstart Childcare Limited - proposed acquisition of various childcare centres from ABC Learning Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/goodstart-childcare-limited-proposed-acquisition-of-various-childcare-centres-from-abc-learning-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40686",
+  "industries": [
+    "Childcare"
+  ],
+  "date_completed": "17 March 2010",
+  "date_completed_iso": "2010-03-17T12:00:00Z",
+  "date_commenced": "3 March 2010",
+  "date_commenced_iso": "2010-03-03T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Goodstart Childcare Limited"
+  ],
+  "targets": [
+    "ABC Learning Centres Limited"
+  ],
+  "timeline": [
+    {
+      "date": "3 Mar 2010",
+      "date_iso": "2010-03-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Mar 2010",
+      "date_iso": "2010-03-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Goodstart Childcare Limited proposed to acquire 678 ABC Learning Centres. Goodstart was a syndicate comprised of the following four not-for-profit organisations: - Mission Australia, - the Benevolent Society, - the Brotherhood of St Laurence, and - Social Ventures Australia. Mission Australia operated 29 childcare centres throughout Australia.",
+    "Market definition": "The ACCC noted that an area of overlap between Mission Australia's centres and the proposed Goodstart centres was in the south east of Melbourne where post-acquisition, Goodstart and Mission Australia would own and operate 23 centres within a 10 kilometre radius. The ACCC considered the proposed acquisition in the context of the market for the supply of long day childcare services within an approximate 10 kilometre radius surrounding Mission Australia's existing centres located in Eumemmerring and Doveton in the south east of Melbourne.",
+    "Competition analysis": "The ACCC concluded that, due to a significant number of alternative long day childcare centres and that the large majority of these centres had vacancies, the proposed acquisition was unlikely to substantially lessen competition in the relevant market."
+  }
+}

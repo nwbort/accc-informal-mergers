@@ -1,0 +1,44 @@
+{
+  "id": "0951",
+  "title": "Icon Film Distribution Pty Limited - proposed acquisition of Dendy Cinema and Film Distribution business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/icon-film-distribution-pty-limited-proposed-acquisition-of-dendy-cinema-and-film-distribution-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30360",
+  "industries": [
+    "Cinema and Film Distribution"
+  ],
+  "date_completed": "3 March 2008",
+  "date_completed_iso": "2008-03-03T12:00:00Z",
+  "date_commenced": "22 February 2008",
+  "date_commenced_iso": "2008-02-22T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Icon Film Distribution Pty Limited"
+  ],
+  "targets": [
+    "Dendy Cinema and Film Distribution business"
+  ],
+  "timeline": [
+    {
+      "date": "22 Feb 2008",
+      "date_iso": "2008-02-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Mar 2008",
+      "date_iso": "2008-03-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Becker Group Limited proposed to sell the Dendy Cinema Chain and the Dendy Film Distribution business (Dendy) to Icon Film Distribution Pty Limited (Icon), as reported via the Australian Stock Exchange on 22 February 2008.",
+    "Market definition": "Given that Icon does not own cinema assets in Australia and Dendy is not involved in film production, there is no competitive overlap in these two areas.  Accordingly, the proposed acquisition was assessed within the context of the national market for the distribution of limited release films.",
+    "Competition analysis": "On 3 March 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. In reaching this view, the ACCC considered that: - Post-acquisition, there will continue to be a number of other sizeable distributors of limited release films, including the major studios and a number of mid sized independent distributors. Further, barriers to entry as a distributor are moderate and not insurmountable. As a result, film exhibitors (as downstream customers of the distribution business of the merged firm) are likely to continue to have a variety of other options for purchasing film titles. - The merged firm is unlikely to have the ability or the incentive to foreclose rival distributors via significantly limiting or denying access to the Dendy Cinema Chain, or by imposing significant adverse changes to trading terms (the split of box office proceeds between distributors and exhibitors). The volume of films the merged firm distributes is unlikely to be sufficient to fill the Dendy Cinema program, so it will continue to rely heavily on other distributors. The potential for distributors to bypass Dendy in a number of locations, including through negotiating with more mainstream exhibitors to change their product mix, is also likely to limit the ability of the merged firm to adversely change trading terms."
+  }
+}

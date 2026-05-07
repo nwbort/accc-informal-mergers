@@ -1,0 +1,46 @@
+{
+  "id": "1115",
+  "title": "Proposed variation to undertakings given by Toll Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-variation-to-undertakings-given-by-toll-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26608",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "18 April 2007",
+  "date_completed_iso": "2007-04-18T12:00:00Z",
+  "date_commenced": "13 December 2006",
+  "date_commenced_iso": "2006-12-13T12:00:00Z",
+  "total_review_days": 84,
+  "acquirers": [
+    "Toll Holdings Ltd"
+  ],
+  "targets": [],
+  "timeline": [
+    {
+      "date": "13 Dec 2006",
+      "date_iso": "2006-12-13T12:00:00Z",
+      "event": "ACCC commenced market inquiries."
+    },
+    {
+      "date": "20 Dec 2006",
+      "date_iso": "2006-12-20T12:00:00Z",
+      "event": "Closing date for submissions on the proposed variation in relation to the East-West Rail Assets."
+    },
+    {
+      "date": "19 Jan 2007",
+      "date_iso": "2007-01-19T12:00:00Z",
+      "event": "Closing date for submission on all other aspects of the proposed variation."
+    },
+    {
+      "date": "18 Apr 2007",
+      "date_iso": "2007-04-18T12:00:00Z",
+      "event": "ACCC announced it would consent to the 5th Variation and accepted the additional undertakings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The fifth variation to the Toll undertakings, originally offered to the Commission in March 2006, is a result of Toll's planned restructure of its group businesses.  The restructure is proposed by Toll to involve the creation of a new listed company, Asciano Limited, and the transfer of the assets, entities and/or businesses that comprise Toll's infrastructure assets, including Pacific National, to this company. The fifth Variation amends Toll's undertakings so that, if the restructure of the Toll business occurs and if certain pre-conditions are met, then Toll is relieved of its obligations to divest 50 per cent of Pacific National, the Vehicle Transport Business and the PrixCar Interest. If the restructure does not occur, or the pre-conditions are not met, Toll's obligations will not be waived and it must still carry out the divestments. The obligations in the original undertakings to make available the 'Starter's Kit' of East West Rail Assets and not to discriminate in the operation of Pacific National or at Patrick's container terminals will, however, remain in place and will be assumed by Asciano if the restructure occurs. Further, if the restructure occurs, Toll and Asciano will become subject to new obligations to ensure the separation of Toll and Asciano. The ACCC's decision to consent to a waiver of Toll's obligations will be given effect through the following documents: o a variation to Toll's undertakings o a new undertaking from Asciano Lim",
+    "Undertakings": "Fourth variation to the undertakings given by Toll Holdings Ltd to the ACCC on 11 March 2006 accepted by the ACCC on 13 December 2006. A procedural variation which amends the Initial Sale Period for the divestment of a 50% interest in Pacific National (PN) while market inquiries are being made in relation to Toll's request to have its obligation to divest that 50% interest waived."
+  }
+}

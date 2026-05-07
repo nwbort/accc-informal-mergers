@@ -1,0 +1,79 @@
+{
+  "id": "0642",
+  "title": "AMP Limited - proposed acquisition of AXA Asia Pacific Holdings' Australian and New Zealand businesses",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amp-limited-proposed-acquisition-of-axa-asia-pacific-holdings-australian-and-new-zealand-businesses",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39604",
+  "industries": [
+    "Wealth management"
+  ],
+  "date_completed": "19 April 2010",
+  "date_completed_iso": "2010-04-19T12:00:00Z",
+  "date_commenced": "4 December 2009",
+  "date_commenced_iso": "2009-12-04T12:00:00Z",
+  "total_review_days": 88,
+  "acquirers": [
+    "AMP Limited"
+  ],
+  "targets": [
+    "AXA Asia Pacific Holdings' Australian and New Zealand businesses"
+  ],
+  "timeline": [
+    {
+      "date": "4 Dec 2009",
+      "date_iso": "2009-12-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Dec 2009",
+      "date_iso": "2009-12-11T12:00:00Z",
+      "event": "ACCC requested further information from AMP Limited."
+    },
+    {
+      "date": "18 Dec 2009",
+      "date_iso": "2009-12-18T12:00:00Z",
+      "event": "In light of AMP's announcement to the ASX on 17 December 2009, ACCC timeline suspended."
+    },
+    {
+      "date": "21 Dec 2009",
+      "date_iso": "2009-12-21T12:00:00Z",
+      "event": "Upon AMP's request that the ACCC continue with its review of the proposed acquisition, ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Dec 2009",
+      "date_iso": "2009-12-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Feb 2010",
+      "date_iso": "2010-02-10T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date for announcement of ACCC's findings, amended to allow for Statement of Issues."
+    },
+    {
+      "date": "26 Feb 2010",
+      "date_iso": "2010-02-26T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 17 March 2010, amended to allow the ACCC to consider further information requested from the merger parties."
+    },
+    {
+      "date": "30 Mar 2010",
+      "date_iso": "2010-03-30T12:00:00Z",
+      "event": "The ACCC deferred its former proposed date for announcement of 1 April 2010. It is continuing to receive relevant information and will make a decision as soon as all relevant information has been considered."
+    },
+    {
+      "date": "19 Apr 2010",
+      "date_iso": "2010-04-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AMP Limited (AMP) proposed to acquire AXA Asia Pacific Holdings Limited's Australian and New Zealand businesses (AXA). AMP and AXA overlap in the areas of retail investment platforms, life insurance, superannuation, wealth management and financial planning and advisory services.",
+    "Market definition": "Please see the Public Competition Assessment below outlining the reasons for the ACCC's decision.",
+    "Competition analysis": "Please see the Public Competition Assessment below outlining the reasons for the ACCC's decision."
+  }
+}

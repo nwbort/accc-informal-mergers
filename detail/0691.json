@@ -1,0 +1,44 @@
+{
+  "id": "0691",
+  "title": "BHP Billiton Limited - proposed acquisition of United Minerals Corporation NL",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bhp-billiton-limited-proposed-acquisition-of-united-minerals-corporation-nl",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39314",
+  "industries": [
+    "Iron Ore"
+  ],
+  "date_completed": "16 November 2009",
+  "date_completed_iso": "2009-11-16T12:00:00Z",
+  "date_commenced": "21 October 2009",
+  "date_commenced_iso": "2009-10-21T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "BHP Billiton Limited"
+  ],
+  "targets": [
+    "United Minerals Corporation NL"
+  ],
+  "timeline": [
+    {
+      "date": "21 Oct 2009",
+      "date_iso": "2009-10-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Oct 2009",
+      "date_iso": "2009-10-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Nov 2009",
+      "date_iso": "2009-11-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BHP Billiton proposed to acquire United Minerals Corporation NL (United Minerals).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - global seaborne markets for the supply of each of iron ore lump and iron ore fines (the global seaborne markets); and - national markets for the supply of each of iron ore lump and iron ore fines (the national markets).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to raise competition concerns in any of the relevant markets. Factors informing this conclusion included: - with respect to the global seaborne markets, the proposed acquisition would represent only a very small potential increase in BHP Billiton's share of supply of iron ore and there would also continue to be significant alternative suppliers of iron ore lump and fines; and - with respect to the national markets, the proposed acquisition would not materially impact on the domestic supply of iron ore lump and iron ore fines given that the majority of Australia's iron ore production is exported and United Minerals was unlikely to be an alternative domestic supplier in Australia."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0784",
+  "title": "BG Group Plc - proposed acquisition of Pure Energy Resources Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bg-group-plc-proposed-acquisition-of-pure-energy-resources-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36450",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "18 March 2009",
+  "date_completed_iso": "2009-03-18T12:00:00Z",
+  "date_commenced": "11 February 2009",
+  "date_commenced_iso": "2009-02-11T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "BG Group Plc"
+  ],
+  "targets": [
+    "Pure Energy Resources Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Mar 2009",
+      "date_iso": "2009-03-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Mar 2009",
+      "date_iso": "2009-03-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BG Group plc proposes to acquire all of the issued shares in Pure Energy Resources Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: -the market for production and supply of wholesale gas in the southern Queensland region connected by pipeline infrastructure; and -the market for production and supply of wholesale gas in the southern states of Australia. The ACCC notes that Pure Energy Resources has coal seam gas reserves (CSG) in Tasmania, however BG does not have any CSG exploration or production interests in Tasmania. Accordingly, there is no overlap between the parties in respect of Tasmania",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included the existence of several competitors which would continue to provide alternative supply options, and that the proposed acquisition would result in a relatively minor aggregation of gas reserves."
+  }
+}

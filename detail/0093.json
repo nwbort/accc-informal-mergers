@@ -1,0 +1,44 @@
+{
+  "id": "0093",
+  "title": "IVE Group - Ovato Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ive-group-ovato-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Catalogue and magazine printing"
+  ],
+  "date_completed": "30 August 2022",
+  "date_completed_iso": "2022-08-30T12:00:00Z",
+  "date_commenced": "10 August 2022",
+  "date_commenced_iso": "2022-08-10T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "IVE Group"
+  ],
+  "targets": [
+    "Ovato Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Aug 2022",
+      "date_iso": "2022-08-10T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Aug 2022",
+      "date_iso": "2022-08-17T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "30 Aug 2022",
+      "date_iso": "2022-08-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "IVE Group ( IVE ) (ASX: IGL) proposes to acquire all or substantially all, or a material part or parts of, the business or assets of Ovato Limited ( Ovato ) (ASX: OVT) and its subsidiaries. IVE is a publicly listed Australian marketing and print-communications company. Ovato's principal business is Print Australia. Ovato entered voluntary administration on 21 July 2022.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the market for the supply of heatset web offset printing services used to print advertising catalogues and magazines in Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would combine the two largest suppliers of heatset web offset printing services in Australia. Post-acquisition, IVE would be the main supplier of these printing services. For some customers, IVE would likely be the only supplier who could meet their print volume and timeliness requirements. Market participants raised concerns that IVE could therefore increase prices and/or reduce service levels. The ACCC took into account the circumstances of Ovato being in voluntary administration and closely considered whether Ovato is a ‘failing firm’ in accordance with the criteria outlined in the Merger Guidelines : the relevant firm is in imminent danger of failure and is unlikely to be successfully restructured without the merger, in the absence of the merger, the assets associated with the relevant firm, including its brands, will leave the industry, and the likely state of competition with the merger would not be substantially less than the likely state of competition after the target has exited and the target’s customers have moved their business to alternative sources of supply. Detailed information available to the ACCC indicated that without the sale to IVE, there would be no other purchasers and the only alternative for Ovato’s administrators would be liquidation of the assets. The ACCC considered that following liquidation, there was not a real chance that Ovato’s heatset web offset printing assets will be used to compete in the Australian market, as it was highly likely that these assets would either be sold to overseas purchasers or sold for scrap, exiting the Australian market altogether. The ACCC also noted several market participants’ concerns about the loss of heatset web offset printing capacity in Australia if Ovato and its assets were to exit the Australian market. Therefore, the ACCC concluded that the proposed acquisition met the ‘failing firm’ criteria as outlined above, as there was no real chance that Ovato or its key heatset web offset printing assets would continuing operating in the market absent the proposed acquisition. As such, the ACCC found that the proposed acquisition is unlikely to substantially lessen competition."
+  }
+}

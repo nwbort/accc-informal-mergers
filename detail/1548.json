@@ -1,0 +1,31 @@
+{
+  "id": "1548",
+  "title": "Acquirer: Amcor Ltd; Target: ACI Operations Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-amcor-ltd-target-aci-operations-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19120",
+  "industries": [],
+  "date_completed": "26 June 2003",
+  "date_completed_iso": "2003-06-26T12:00:00Z",
+  "date_commenced": "6 June 2003",
+  "date_commenced_iso": "2003-06-06T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Amcor Ltd"
+  ],
+  "targets": [
+    "ACI Operations Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Amcor Ltd  are seeking to acquire the \"metal closures\" business of ACI Ltd ('ACI').  Amcor Ltd and ACI are the 2 largest producers of metal closures in Australia.",
+    "Market definition": "Staff assessed this merger in both a broad market for closures and a narrow market for metal closures.",
+    "Competition analysis": "The Commission concluded that the acquisition was unlikely to cross any concentration thresholds in the closures market. In metal closures the Commission acknowledged that concentration levels are high, however, the Commission concluded that imports would be likely to act as a competitive constraint (primarily a pricing constraint) on the activities of Amcor in the domestic market. The Commission concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2566"
+  }
+}

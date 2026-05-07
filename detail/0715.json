@@ -1,0 +1,44 @@
+{
+  "id": "0715",
+  "title": "Woolworths Limited - proposed acquisition of a liquor licence located in Kiama Downs, New South Wales",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-a-liquor-licence-located-in-kiama-downs-new-south-wales",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38352",
+  "industries": [
+    "Liquor licence"
+  ],
+  "date_completed": "21 August 2009",
+  "date_completed_iso": "2009-08-21T12:00:00Z",
+  "date_commenced": "30 July 2009",
+  "date_commenced_iso": "2009-07-30T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor Licence located in Kiama Downs New South Wales"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jul 2009",
+      "date_iso": "2009-07-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Aug 2009",
+      "date_iso": "2009-08-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Aug 2009",
+      "date_iso": "2009-08-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed to acquire the licence and stock of a takeaway packaged liquor licencee located in Kiama Downs, NSW. The licence is located at 5 Johnson Street, Kiama Downs and is identified as \"Jones Beach Liquor Store\". Woolworths intends to relocate the licence to new premises within the Kiama region. Until Woolworths finds alternative premises from which to trade, the licence will become dormant.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - a local retail market for the supply of liquor for off-premises consumption, within a 3-5 km geographic radius surrounding the target; and - a state-based wholesale market for the supply and procurement of packaged liquor products for subsequent sale in the retail market for off-premises consumption.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - in the retail market, the presence of a number of other retail liquor outlets; and - in the wholesale market, the proposed acquisition was unlikely to significantly increase the buying power of Woolworths, nor diminish the buying power of competing wholesale purchasers."
+  }
+}

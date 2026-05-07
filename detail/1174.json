@@ -1,0 +1,44 @@
+{
+  "id": "1174",
+  "title": "Coles Group Ltd - proposed acquisition of Mr Corks Liquor Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-group-ltd-proposed-acquisition-of-mr-corks-liquor-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25993",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "19 December 2006",
+  "date_completed_iso": "2006-12-19T12:00:00Z",
+  "date_commenced": "5 December 2006",
+  "date_commenced_iso": "2006-12-05T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Coles Group Ltd"
+  ],
+  "targets": [
+    "Mr Corks Liquor Group"
+  ],
+  "timeline": [
+    {
+      "date": "5 Dec 2006",
+      "date_iso": "2006-12-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "13 Dec 2006",
+      "date_iso": "2006-12-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "19 Dec 2006",
+      "date_iso": "2006-12-19T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles Group Ltd - proposed acquisition of Mr Corks Liquor Group",
+    "Market definition": "This merger has been considered within the context of: 1.\trelevant local markets (within Queensland) in liquor retailing for off-premises consumption; 2.\tthe market for wholesale liquor; and 3.\tmarkets for the sale of liquor for on-premises consumption, gaming and live music.",
+    "Competition analysis": "1. Each of the local markets in which Coles will acquire new hotels and bottle shops will remain relatively unconcentrated.  In some markets (around the Beenleigh Hotel and Jindalee Hotel) it is likely that the acquisition is essentially a bare transfer of market share.  In each local market, Woolworths and a number of independent hotels and associated detached bottle shops will remain to provide competition to Coles.  Therefore, it appears unlikely that the merger will lead to a substantial lessening of competition in any of the relevant retail markets. 2. Given the relatively minor increase in Coles' share of liquor wholesale buying on a state basis, and correspondingly small loss of scale for independent liquor buying groups, it appears unlikely that the proposed acquisition will result in a substantial lessening of competition in any market for wholesaling of liquor. 3. It appears unlikely that the proposed acquisition will lessen competition in this market, given the existence of a number of competing hotels in all local areas of overlap, as well as the variety of entertainment venues likely to offer similar experiences to attending a hotel."
+  }
+}

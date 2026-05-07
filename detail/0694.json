@@ -1,0 +1,44 @@
+{
+  "id": "0694",
+  "title": "Thomson Reuters (Professional) Australia Limited - completed acquisition of Allume Technology Partners Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/thomson-reuters-professional-australia-limited-completed-acquisition-of-allume-technology-partners-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38648",
+  "industries": [
+    "Tax compliance software"
+  ],
+  "date_completed": "11 November 2009",
+  "date_completed_iso": "2009-11-11T12:00:00Z",
+  "date_commenced": "27 August 2009",
+  "date_commenced_iso": "2009-08-27T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Thomson Reuters (Professional) Australia Limited"
+  ],
+  "targets": [
+    "Allume Technology Partners Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 Aug 2009",
+      "date_iso": "2009-08-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Sep 2009",
+      "date_iso": "2009-09-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Nov 2009",
+      "date_iso": "2009-11-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In 2008 Thomson Reuters acquired the Allume business, which was previously jointly owned by KPMG and Deloitte.  Allume was a tax technology company which specialised in providng technology solutions in tax compliance and management.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of national markets for the supply of income tax compliance software and fringe benefits tax (FBT) compliance software.",
+    "Competition analysis": "The ACCC's investigation indicated that post-acquisition, there remained two firms competing with the merged entity in each market.  In particular, the ACCC found that Ernst & Young's tax compliance software business continued to pose a signficant competitive constraint on the merged entity. Therefore, the ACCC concluded that the completed acquisition was unlikely to have resulted in a substantial lessening of competition in either of the relevant markets."
+  }
+}

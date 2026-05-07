@@ -1,0 +1,31 @@
+{
+  "id": "1544",
+  "title": "Acquirer: Futuris Corporation Limited; Target: Timbercorp (WA) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-futuris-corporation-limited-target-timbercorp-wa-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18014",
+  "industries": [],
+  "date_completed": "1 July 2003",
+  "date_completed_iso": "2003-07-01T12:00:00Z",
+  "date_commenced": "1 May 2003",
+  "date_commenced_iso": "2003-05-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Futuris Corporation Limited"
+  ],
+  "targets": [
+    "Timbercorp (WA) Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Futuris Corporation is to acquire a 50% interest in Timbercorp (WA) Pty Ltd. At the same time Futuris and Timbercorp Ltd (an entity in which Timbercorp (WA) Pty Ltd holds a 30% interest) are establishing a joint venture company to manage and exploit hardwood plantations. The forestry assets of Timbercorp Limited and Integrated Tree Cropping (a company controlled by Futuris) will be transferred to the new joint venture company. The Commission decided not to intervene in the proposed transactions.",
+    "Market definition": "The market for the development and management of hardwood plantations in Australia; and The market in Australia for the processing and exporting of woodchips.",
+    "Competition analysis": "The proposed arrangements do not appear to cross the concentration thresholds for the exercise of either unilateral or co-ordinated market power. Barriers to entry and expansion would not appear to be high and there are a number of other market participants who will continue to develop, manage and exploit sizeable hardwood plantation resources in Australia. Accordingly, the arrangements are unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "0301"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0391",
+  "title": "Reece Pty Ltd - proposed acquisition of Ken Aaron consolidated plumbing group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/reece-pty-ltd-proposed-acquisition-of-ken-aaron-consolidated-plumbing-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50635",
+  "industries": [
+    "Plumbing supplies"
+  ],
+  "date_completed": "11 April 2013",
+  "date_completed_iso": "2013-04-11T12:00:00Z",
+  "date_commenced": "13 February 2013",
+  "date_commenced_iso": "2013-02-13T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Reece Pty Ltd"
+  ],
+  "targets": [
+    "Ken Aaron consolidated plumbing group"
+  ],
+  "timeline": [
+    {
+      "date": "13 Feb 2013",
+      "date_iso": "2013-02-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Mar 2013",
+      "date_iso": "2013-03-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Apr 2013",
+      "date_iso": "2013-04-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Reece Pty Ltd proposed to acquire the business and assets of Ken Aaron Consolidated Plumbing Group.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of local markets for the retail supply of plumbing and bathroom supplies. The ACCC also considered the impact of the acquisition on retail markets for the supply of plumbing supplies more broadly.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant local markets for the supply of retail plumbing products. The ACCC considered that the merged entity would be constrained by the likelihood of entry or expansion by existing or potential retailers of plumbing supplies in the relevant local areas. The ACCC also considered that the extent of the competitive constraint that other existing or potential retail competitors would impose on Reece in the relevant markets would not be significantly reduced by the proposed acquisition."
+  }
+}

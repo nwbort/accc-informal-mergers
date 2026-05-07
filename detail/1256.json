@@ -1,0 +1,59 @@
+{
+  "id": "1256",
+  "title": "Clipsal Australia Pty Ltd - proposed acquisition of Moduline Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/clipsal-australia-pty-ltd-proposed-acquisition-of-moduline-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24670",
+  "industries": [
+    "Electrical products"
+  ],
+  "date_completed": "25 July 2006",
+  "date_completed_iso": "2006-07-25T12:00:00Z",
+  "date_commenced": "23 June 2006",
+  "date_commenced_iso": "2006-06-23T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Clipsal Australia Pty Ltd"
+  ],
+  "targets": [
+    "Moduline Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "23 Jun 2006",
+      "date_iso": "2006-06-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "30 Jun 2006",
+      "date_iso": "2006-06-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Jul 2006",
+      "date_iso": "2006-07-07T12:00:00Z",
+      "event": "ACCC requested further information from Clipsal. Clipsal requested a meeting with the ACCC on 12 July 2006. ACCC's indicative timeline suspended."
+    },
+    {
+      "date": "7 Jul 2006",
+      "date_iso": "2006-07-07T12:00:00Z",
+      "event": "Further market inquiries directed to industry participants with responses sought by 12 July 2006."
+    },
+    {
+      "date": "12 Jul 2006",
+      "date_iso": "2006-07-12T12:00:00Z",
+      "event": "ACCC received further information from Clipsal. ACCC indicative timeline recommenced."
+    },
+    {
+      "date": "25 Jul 2006",
+      "date_iso": "2006-07-25T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Clipsal Australia Pty Ltd's proposed acquisition of Moduline Pty Ltd.",
+    "Market definition": "The ACCC considered separate but complementary national markets for electrical products and cable management systems used for commercial and industrial applications.",
+    "Competition analysis": "The ACCC considered that the merged firm would face sufficient competitive constraints in the event of a price increase or reduced services for its electrical or CMS products. This conclusion is informed by the following factors: - to the extent that the merged firm will possess any market power in electrical products and/or CMS, the ACCC considered that attempted leveraging in the form of bundling, tying and other financial incentives, would be unlikely to succeed due to the likely response of customers in the face of such leveraging; - in particular, there would remain alternative suppliers for electrical and CMS products to whom customers could turn in the event of a price rise by the merged firm; - although there is not an alternative supplier providing an integrated package of CMS and electrical products, inquiries indicate that existing CMS and electrical product suppliers could form teaming arrangements to provide a viable alternative bundle to the merged firm or enter into the supply of the complementary product as barriers to entry for the relevant markets appear to be low; - although imports of CMS are unlikely to be an effective constraint, there appears to be significant actual and potential import competition in relation to electrical products; and - customers would appear to have significant countervailing power."
+  }
+}

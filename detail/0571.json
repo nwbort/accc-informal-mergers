@@ -1,0 +1,79 @@
+{
+  "id": "0571",
+  "title": "Metcash Trading Limited - proposed acquisition of Interfrank Group Holdings Pty Ltd (Franklins)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metcash-trading-limited-proposed-acquisition-of-interfrank-group-holdings-pty-ltd-franklins",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "42640",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "17 November 2010",
+  "date_completed_iso": "2010-11-17T12:00:00Z",
+  "date_commenced": "29 July 2010",
+  "date_commenced_iso": "2010-07-29T12:00:00Z",
+  "total_review_days": 70,
+  "acquirers": [
+    "Metcash Trading Limited"
+  ],
+  "targets": [
+    "Interfrank Group Holdings Pty Ltd (Franklins)"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jul 2010",
+      "date_iso": "2010-07-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Aug 2010",
+      "date_iso": "2010-08-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Sep 2010",
+      "date_iso": "2010-09-08T12:00:00Z",
+      "event": "ACCC timeline suspended to await further information from the merger parties."
+    },
+    {
+      "date": "15 Sep 2010",
+      "date_iso": "2010-09-15T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Sep 2010",
+      "date_iso": "2010-09-22T12:00:00Z",
+      "event": "ACCC published Statement of Issues outlining its preliminary competition concerns with the proposed acquisition."
+    },
+    {
+      "date": "14 Oct 2010",
+      "date_iso": "2010-10-14T12:00:00Z",
+      "event": "Decision date delayed from 11 November 2010 to 18 November 2010 to allow for the provision of documents by the merger parties."
+    },
+    {
+      "date": "15 Oct 2010",
+      "date_iso": "2010-10-15T12:00:00Z",
+      "event": "Closing date for submissions in relation to the Statement of Issues."
+    },
+    {
+      "date": "18 Oct 2010",
+      "date_iso": "2010-10-18T12:00:00Z",
+      "event": "ACCC timeline suspended to await further information from the merger parties."
+    },
+    {
+      "date": "21 Oct 2010",
+      "date_iso": "2010-10-21T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "17 Nov 2010",
+      "date_iso": "2010-11-17T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 29 July the ACCC commenced a review of Metcash Trading Limited's proposed acquisition of the Franklins supermarket business. Metcash is Australia's largest wholesaling and distribution company servicing independent grocery retailers throughout Australia, including those under the IGA and Supa IGA banners. Franklins operates 80 corporate owned and 8 franchised Franklins supermarkets in NSW, and is currently owned by Pick n Pay Retailers (Pty) Ltd, South Africa's largest retailer.",
+    "Market definition": "Please see below.",
+    "Competition analysis": "This matter was the subject of litigation in the Federal Court in 2010 and 2011 [NSD 1714/2010, NSD 1533/2011]. Please refer to the Federal Court's published judgments in those matters for further details about the ACCC's analysis of this matter."
+  }
+}

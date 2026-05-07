@@ -1,0 +1,31 @@
+{
+  "id": "1608",
+  "title": "Acquirer: Cashcard Australia Ltd; Target: Electronic Banking Solutions Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cashcard-australia-ltd-target-electronic-banking-solutions-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16723",
+  "industries": [],
+  "date_completed": "15 October 2002",
+  "date_completed_iso": "2002-10-15T12:00:00Z",
+  "date_commenced": "24 September 2002",
+  "date_commenced_iso": "2002-09-24T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Cashcard Australia Ltd"
+  ],
+  "targets": [
+    "Electronic Banking Solutions Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 18 September 2002 Cashcard Australia provided the Commission with a submission regarding its proposed acquisition of Electronic Banking Solutions (EBS).",
+    "Market definition": "The main area of competitive overlap between Cashcard Australia and EBS is in the deployment of automatic teller machines (ATMs) to merchants.",
+    "Competition analysis": "EBS is the largest deployer of merchant ATMs in Australia with Cashcard Australia being the third largest deployer.  EBS has undergone rapid growth as a result of its innovative offering to merchants, especially through its offer of free placement of ATMs. Barriers to entry into this market are low.  ATMs have fallen dramatically in price.  The provision of settlement services for ATM deployers is not an insurmountable barrier with at least three specialist suppliers being available for non-financial institution providers. Although the proposed acquisition will cross the Commission's concentration threshold for the exercise of unilateral market power, barriers to entry are low and other ATM deployers have now adopted the business model which led to the rapid expansion of EBS.  On this basis, the proposed acquisition is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "2841"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0584",
+  "title": "Transpacific Industries Group Ltd - proposed acquisition of WSN Environmental Solutions",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-proposed-acquisition-of-wsn-environmental-solutions",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43189",
+  "industries": [
+    "Waste Management"
+  ],
+  "date_completed": "21 October 2010",
+  "date_completed_iso": "2010-10-21T12:00:00Z",
+  "date_commenced": "13 September 2010",
+  "date_commenced_iso": "2010-09-13T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "WSN Environmental Solutions"
+  ],
+  "timeline": [
+    {
+      "date": "13 Sep 2010",
+      "date_iso": "2010-09-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "30 Sep 2010",
+      "date_iso": "2010-09-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Oct 2010",
+      "date_iso": "2010-10-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group proposes to acquire WSN Environmental Solutions, which is subject to a sale process by the NSW Government.",
+    "Market definition": "For the purposes of its assessment, the ACCC considered the proposed acquisition in the context of the following relevant markets: -  the supply of waste management services (including collection and disposal) to commercial and industrial customers (C&I) in metropolitan Sydney; -  the supply of waste collection services to councils in metropolitan Sydney; -  the supply of alternative waste treatment (AWT) services in metropolitan Sydney; and -  the development and future supply of AWT services (AWT tender competition) in metropolitan Sydney.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In forming this view, the ACCC had regard to: -  the limited aggregation in competition for the supply of waste management services to C&I customers; -  the likely constraint on the merged firm by other significant council waste collectors; -  the limited competition between the merger parties' existing AWT processing facilities; and -  the likely constraint on the merged firm by other significant AWT service providers in respect of the development and future supply of AWT services. In forming this view, the ACCC also considered that the merged firm would not have any increased ability or incentive to foreclose any competitors in upstream waste management services (to C&I customers) and waste collection services (to councils) markets as a result of the proposed acquisition, particularly given the presence of alternative putrescible waste disposal options now and in the foreseeable future."
+  }
+}

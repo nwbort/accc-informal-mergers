@@ -1,0 +1,47 @@
+{
+  "id": "0209",
+  "title": "PrixCar Services Pty Ltd - proposed acquisition of Wallenius Wilhelmsen Logistics Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/prixcar-services-pty-ltd-proposed-acquisition-of-wallenius-wilhelmsen-logistics-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62198",
+  "industries": [
+    "Logistics"
+  ],
+  "date_completed": "26 March 2018",
+  "date_completed_iso": "2018-03-26T12:00:00Z",
+  "date_commenced": "23 November 2017",
+  "date_commenced_iso": "2017-11-23T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "PrixCar Services Pty Ltd"
+  ],
+  "targets": [
+    "Wallenius Wilhelmsen Logistics Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "23 Nov 2017",
+      "date_iso": "2017-11-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "11 Dec 2017",
+      "date_iso": "2017-12-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Feb 2018",
+      "date_iso": "2018-02-06T12:00:00Z",
+      "event": "Former proposed decision date of 22 February 2018 delayed to allow the merger parties time to provide previously requested information."
+    },
+    {
+      "date": "26 Mar 2018",
+      "date_iso": "2018-03-26T12:00:00Z",
+      "event": "Following notification by the merger parties that the proposed merger has been terminated, the ACCC has discontinued this review."
+    }
+  ],
+  "body_sections": {
+    "Summary": "PrixCar proposed to acquire WWLA. As consideration for the sale, WWL (the owner of WWLA) would acquire a 20 per cent equity interest in PrixCar."
+  }
+}

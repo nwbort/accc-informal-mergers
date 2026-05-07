@@ -1,0 +1,31 @@
+{
+  "id": "1497",
+  "title": "Acquirer: Komatsu Ltd; Target: Kone Corporation, Partek Forest",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-komatsu-ltd-target-kone-corporation-partek-forest",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18606",
+  "industries": [],
+  "date_completed": "17 February 2004",
+  "date_completed_iso": "2004-02-17T12:00:00Z",
+  "date_commenced": "12 November 2003",
+  "date_commenced_iso": "2003-11-12T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Komatsu Ltd"
+  ],
+  "targets": [
+    "Kone Corporation, Partek Forest"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Komatsu is to aqcuire Kone's shares in its subsidiaries, Partek Forest.  Komatsu is primarily engaged in manufacture of construction and mining equipemnt.  Partek Forest manufactures purpose built forestry equipment.",
+    "Market definition": "Retail supply of purpose built forestry equipment.",
+    "Competition analysis": "Komatsu is not, and had not previously, been involved in the manufacturing of forestry equipment.  The Australian operation of Komatsu, has been involved in the retail of forestry equipment, but this was as an agent of Partek. Therefore, there should be no change in market shares for either the manufacturing of forestry equipment internationally (as Komatsu is a new entrant) or for the retailing of forestry equipment within Australia (as Komatsu had previously acted as Partek's agent). While not involved in the manufacturing of purpose buily forestry equipment, it is possible for the construction and mining equipment (such as bull-dozers and excavators) produced by Komatsu to be converted to forestry equipment.  However, information provided by the merger parties suggests that the scope of converted machinery is limited and their application in Australia is not common.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2861"
+  }
+}

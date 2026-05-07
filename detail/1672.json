@@ -1,0 +1,31 @@
+{
+  "id": "1672",
+  "title": "Acquirer: Pace Farms; Target: Bartter Enterprises Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-pace-farms-target-bartter-enterprises-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15535",
+  "industries": [],
+  "date_completed": "19 March 2002",
+  "date_completed_iso": "2002-03-19T12:00:00Z",
+  "date_commenced": "18 February 2002",
+  "date_commenced_iso": "2002-02-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Pace Farms"
+  ],
+  "targets": [
+    "Bartter Enterprises Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "It is proposed that Pace Farm Pty Ltd will acquire the egg business of Bartter Enterprises Pty Limited and associated entities.",
+    "Market definition": "No conclusion was reached on market definition, since even on the narrowest definition no slc is likely.",
+    "Competition analysis": "The Commission concluded that it should not intervene in the proposed acquisition based on Bartter's position in the industry.  The Panel noted that post transaction the firm will continue to face competition from other significant competitors.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "0142"
+  }
+}

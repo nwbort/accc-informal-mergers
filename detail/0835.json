@@ -1,0 +1,59 @@
+{
+  "id": "0835",
+  "title": "APN News & Media Ltd - proposed acquisition of Northern Rivers Echo",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/apn-news-media-ltd-proposed-acquisition-of-northern-rivers-echo",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33353",
+  "industries": [
+    "Community News Paper"
+  ],
+  "date_completed": "18 November 2008",
+  "date_completed_iso": "2008-11-18T12:00:00Z",
+  "date_commenced": "19 August 2008",
+  "date_commenced_iso": "2008-08-19T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "APN News & Media Ltd"
+  ],
+  "targets": [
+    "Northern Rivers Echo"
+  ],
+  "timeline": [
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Aug 2008",
+      "date_iso": "2008-08-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Sep 2008",
+      "date_iso": "2008-09-02T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "2 Sep 2008",
+      "date_iso": "2008-09-02T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 9 September amended to allow for APN's response to the information request of 2 September 2008."
+    },
+    {
+      "date": "3 Nov 2008",
+      "date_iso": "2008-11-03T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Nov 2008",
+      "date_iso": "2008-11-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "APN News & Media Ltd (APN) proposed to acquire the Northern Rivers Echo, a free weekly community newspaper distributed primarily in Lismore in northern New South Wales. APN published the Northern Star, a paid daily newspaper distributed in Lismore and the surrounding regions, and a number of local community newspapers distributed in the areas surrounding Lismore.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on the supply of advertising opportunities to advertisers, the supply of content to readers and the acquisition of content from content suppliers.",
+    "Competition analysis": "The ACCC considered that there was significant overlap in the context of the supply of advertising opportunities between the APN owned Northern Star and the Northern Rivers Echo. Following extensive market inquiries the ACCC formed the view that although each of the other options available to advertisers, on its own, was an imperfect substitute for newspaper advertising, their combined effect would be sufficient to constrain the merged entity. Most advertisers were confident that they had alternatives available to them in the event that the merged entity sought to increase prices above competitive levels. In relation to the supply of content to readers, the ACCC formed the view that while their circulation areas and formats differed, there was competition between the parties. However, there were also a number of alternative suppliers of content to readers, including smaller newspapers, radio, television and other suppliers. Consequently, the ACCC formed the view that no competition issues arose in relation to the supply of content to readers. The ACCC formed the view that the majority of content in the newspapers is self supplied and as such, no competition issues arose in relation to the acquisition of content from content suppliers."
+  }
+}

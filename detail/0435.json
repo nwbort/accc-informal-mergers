@@ -1,0 +1,55 @@
+{
+  "id": "0435",
+  "title": "Cargill Australia Limited - proposed acquisition of Goodman Fielder Limited's edible fats and oils business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cargill-australia-limited-proposed-acquisition-of-goodman-fielder-limiteds-edible-fats-and-oils-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48783",
+  "industries": [
+    "Food manufacturing"
+  ],
+  "date_completed": "9 July 2012",
+  "date_completed_iso": "2012-07-09T12:00:00Z",
+  "date_commenced": "25 May 2012",
+  "date_commenced_iso": "2012-05-25T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Cargill Australia Limited"
+  ],
+  "targets": [
+    "Goodman Fielder Limited's edible fats and oils business"
+  ],
+  "timeline": [
+    {
+      "date": "25 May 2012",
+      "date_iso": "2012-05-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jun 2012",
+      "date_iso": "2012-06-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Jun 2012",
+      "date_iso": "2012-06-20T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 19 July 2012 delayed."
+    },
+    {
+      "date": "28 Jun 2012",
+      "date_iso": "2012-06-28T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "3 Jul 2012",
+      "date_iso": "2012-07-03T12:00:00Z",
+      "event": "ACCC requested information from Cargill. ACCC timeline suspended pending receipt. Former proposed decision date of 26 July 2012 delayed to allow provision of infomation. ACCC will announce a new proposed decision date in due course."
+    },
+    {
+      "date": "9 Jul 2012",
+      "date_iso": "2012-07-09T12:00:00Z",
+      "event": "ACCC discontinued its public review after Cargill advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {}
+}

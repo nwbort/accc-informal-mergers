@@ -1,0 +1,25 @@
+{
+  "id": "1383",
+  "title": "Proposed asset sale of Bright Telecommunications",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-asset-sale-of-bright-telecommunications",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20810",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "5 July 2005",
+  "date_completed_iso": "2005-07-05T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Bright Telecommunications, a wholly-owned subsidiary of Western Power, is a provider of fibre optic customer access networks to a small number of suburbs in Perth.",
+    "Market definition": "The supply of broadband customer access networks in metropolitan Perth.",
+    "Competition analysis": "Bright Telecommunications has only a small market share. Consequently the proposed sale of the Bright Telecommunications assets by Western Power is unlikely to substantially lessen competition.",
+    "Initiation": "Complaint"
+  }
+}

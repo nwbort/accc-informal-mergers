@@ -1,0 +1,75 @@
+{
+  "id": "0261",
+  "title": "DYWIDAG-Systems International Group - proposed acquisition of Jennmar Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dywidag-systems-international-group-proposed-acquisition-of-jennmar-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58172",
+  "industries": [
+    "Steel manufacturing"
+  ],
+  "date_completed": "20 July 2016",
+  "date_completed_iso": "2016-07-20T12:00:00Z",
+  "date_commenced": "29 February 2016",
+  "date_commenced_iso": "2016-02-29T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "DYWIDAG-Systems International Group"
+  ],
+  "targets": [
+    "Frank Calandra Inc"
+  ],
+  "timeline": [
+    {
+      "date": "29 Feb 2016",
+      "date_iso": "2016-02-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Mar 2016",
+      "date_iso": "2016-03-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "21 Mar 2016",
+      "date_iso": "2016-03-21T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "4 Apr 2016",
+      "date_iso": "2016-04-04T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "21 Apr 2016",
+      "date_iso": "2016-04-21T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "5 May 2016",
+      "date_iso": "2016-05-05T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "12 May 2016",
+      "date_iso": "2016-05-12T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "30 May 2016",
+      "date_iso": "2016-05-30T12:00:00Z",
+      "event": "Former proposed decision date of 16 June 2016 delayed at the request of the merger parties to allow them to provide additional information."
+    },
+    {
+      "date": "30 Jun 2016",
+      "date_iso": "2016-06-30T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Jul 2016",
+      "date_iso": "2016-07-20T12:00:00Z",
+      "event": "The parties withdrew their application for informal clearance. The ACCC had expressed competition concerns with the proposed acquisition in the Statement of Issues published on 21 April 2016 and was about to announce its final decision on 21 July. If the parties choose to do so, they may make a fresh application for a restructured proposal in due course."
+    }
+  ],
+  "body_sections": {}
+}

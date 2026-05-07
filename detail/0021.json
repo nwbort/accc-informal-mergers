@@ -1,0 +1,64 @@
+{
+  "id": "0021",
+  "title": "DP World Australia Limited - Silk Logistics Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dp-world-australia-limited-silk-logistics-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Containerised freight"
+  ],
+  "date_completed": "4 July 2025",
+  "date_completed_iso": "2025-07-04T12:00:00Z",
+  "date_commenced": "9 December 2024",
+  "date_commenced_iso": "2024-12-09T12:00:00Z",
+  "total_review_days": 115,
+  "acquirers": [
+    "DP World Australia Limited"
+  ],
+  "targets": [
+    "Silk Logistics Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 Dec 2024",
+      "date_iso": "2024-12-09T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Dec 2024",
+      "date_iso": "2024-12-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "13 Mar 2025",
+      "date_iso": "2025-03-13T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "27 Mar 2025",
+      "date_iso": "2025-03-27T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "8 Apr 2025",
+      "date_iso": "2025-04-08T12:00:00Z",
+      "event": "ACCC is seeking further information from the merger parties. Former date for announcement of ACCC's findings (5 June 2025) is delayed. The ACCC will announce a revised decision date in due course."
+    },
+    {
+      "date": "22 May 2025",
+      "date_iso": "2025-05-22T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC amended former provisional date for announcement of findings to 10 July 2025."
+    },
+    {
+      "date": "4 Jul 2025",
+      "date_iso": "2025-07-04T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (10 July 2025) brought forward to 4 July 2025.  ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 11 November 2024, it was announced that DP World Australia Limited proposes to acquire 100% of the issued share capital in Silk Logistics Holdings Limited by means of a scheme of arrangement. DP World Australia operates container terminals and provides container stevedoring services at each of the Ports of Melbourne, Botany (Sydney), Brisbane and Fremantle. Silk is a logistics services provider that offers road transportation of containerised freight to and from several Australian ports, including at each of the ports where DP World Australia operates container terminals.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in markets for the supply of: container stevedoring services at each of the Relevant Ports container transport services to and from each of the Relevant Ports empty container park services at or near each of the Ports of Botany, Brisbane and Melbourne, and freight forwarding services for containerised freight to and from each of the Relevant Ports. ‘Relevant Ports’ refers to the Ports of Botany (Sydney), Brisbane, Fremantle and Melbourne. For the purposes of this assessment, it was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any market. The ACCC’s investigation focused on whether DP World Australia would likely have the ability and incentive to foreclose Silk’s rival container transport providers by raising their rivals’ costs or lowering the quality of their access to DP World Australia’s terminals and whether such conduct was likely to substantially lessen competition in the supply of container transport services. The ACCC found that while DP World Australia may have the ability to engage in some subtle forms of discrimination, such as providing Silk with priority access to booking slots or deprioritising access or service levels for Silk’s rivals, DP World Australia’s incentive to engage in discriminatory conduct is limited due to the impact of such conduct on terminal efficiency. A material reduction in terminal efficiency risks the profitability of the terminal and the loss of terminal volumes due to likely switching by shipping lines. The ACCC found that to the extent DP World Australia is able to engage in discriminatory conduct that doesn’t impact its primary function as a container terminal, such conduct is unlikely to substantially lessen competition, particularly because DP World Australia would remain competitively constrained by a range of established and prospective container transport providers. The ACCC also considered whether, post-acquisition, DP World Australia could adopt an exclusionary bundling strategy by offering combined stevedoring and container transport services, through Silk, at below-cost prices, and whether the acquisition could give DP World Australia access to commercially sensitive information about rival transport providers in a way that would distort competition. The ACCC found that implementing such strategies would likely be commercially and operationally impractical for DP World Australia. While these forms of conduct could not be entirely ruled out, the ACCC considered that, to the extent they might occur, they were unlikely to result in a substantial lessening of competition in any market."
+  }
+}

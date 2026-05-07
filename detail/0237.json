@@ -1,0 +1,64 @@
+{
+  "id": "0237",
+  "title": "Healthe Care - proposed acquisition of Pulse Health",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/healthe-care-proposed-acquisition-of-pulse-health",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61113",
+  "industries": [
+    "Healthcare service facilities"
+  ],
+  "date_completed": "23 March 2017",
+  "date_completed_iso": "2017-03-23T12:00:00Z",
+  "date_commenced": "10 January 2017",
+  "date_commenced_iso": "2017-01-10T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Healthe Care Australia Pty Ltd"
+  ],
+  "targets": [
+    "Pulse Health Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jan 2017",
+      "date_iso": "2017-01-10T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Jan 2017",
+      "date_iso": "2017-01-24T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "31 Jan 2017",
+      "date_iso": "2017-01-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "9 Mar 2017",
+      "date_iso": "2017-03-09T12:00:00Z",
+      "event": "Former proposed decision date of 16 March 2017 delayed to allow the ACCC to consider additional information provided by the parties and other information."
+    },
+    {
+      "date": "14 Mar 2017",
+      "date_iso": "2017-03-14T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "21 Mar 2017",
+      "date_iso": "2017-03-21T12:00:00Z",
+      "event": "Former proposed decision date of 30 March 2017 brought forward."
+    },
+    {
+      "date": "23 Mar 2017",
+      "date_iso": "2017-03-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Healthe Care proposed to acquire Pulse Health.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of markets for the supply of: -\tprivate hospital services (encompassing general medical and surgical services) and private rehabilitation services to health insurance funds and the Department of Veterans' Affairs. The ACCC did not consider it necessary to form a concluded view on the geographic scope of this market, but noted that there are national, state and local elements to competition in this market; and -\t  private hospital services (encompassing general medical and surgical services) and private rehabilitation services to insured and uninsured patients in the Forster/Taree region of the lower mid-north coast of New South Wales.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets. Healthe Care and Pulse Health both operate private hospitals in Australia; however there are currently limited areas of overlap between the parties' hospital networks. The key area of overlap between the parties' hospital networks, and the focus of the ACCC's review, was the Taree/Forster region of New South Wales; where Healthe Care operates the Mayo Private Hospital in Taree, and Pulse Health operates the Forster Private Hospital. These hospitals are the only private hospitals in the region, and have a similar service offering with many doctors practising at both facilities. The ACCC concluded that there is currently limited competition between the Mayo Private Hospital and the Forster Private Hospital to attract patients and doctors in the area. There was also limited evidence of patients travelling to the alternate hospital when they could receive treatment locally. When patients did travel, they were more likely to go outside the relevant local area. The ACCC also concluded that the proposed acquisition of the Pulse Health hospital network would be unlikely to materially alter Healthe Care's bargaining position with private health funds and the Department of Veterans' Affairs. The ACCC noted that, while the proposed acquisition would significantly increase the total number of hospitals in the Healthe Care network (from 17 to 29), Healthe Care will still be significantly smaller than the two largest Australian hospital operators."
+  }
+}

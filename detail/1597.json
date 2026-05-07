@@ -1,0 +1,31 @@
+{
+  "id": "1597",
+  "title": "Acquirer: Carter Holt Harvey Ltd; Target: Starwood Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-carter-holt-harvey-ltd-target-starwood-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16375",
+  "industries": [],
+  "date_completed": "19 November 2002",
+  "date_completed_iso": "2002-11-19T12:00:00Z",
+  "date_commenced": "19 July 2002",
+  "date_commenced_iso": "2002-07-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Carter Holt Harvey Ltd"
+  ],
+  "targets": [
+    "Starwood Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Starwood Australia Pty Ltd by Carter Holt Harvey Ltd",
+    "Market definition": "The Commission considered the relevant market to be the national market for the manufacture and supply of raw medium density fibreboard (MDF).",
+    "Competition analysis": "In the national market for the manufacture and supply of raw medium density fibreboard (MDF), the proposed acquisition would result in the merged firm exceeding the Commission's concentration thresholds. While the Commission noted that barriers to entry to into the relevant market appeared to be high, the Commission considered that the following factors indicated that the proposed acquisition was unlikely to substantially lessen competition in the relevant market: - Starwood exports the majority of its raw MDF production and, consequently, has not been a significant participant in the domestic market; - further, CHH would acquire minimal market share given the export focus of Starwood; - there are two alternative domestic suppliers to whom customers could turn, namely Laminex and Dominance Industries; - there is presently a significant level of domestic over-capacity which would potentially constrain any attempt by the merged firm to reduce supply and increase prices; - actual and potential imports of raw MDF appear to represent a credible competitive constraint. Independent imports of raw MDF presently account for approximately 18% of the domestic market; and - some degree of countervailing power possessed by major customers in the form of alternative sources of supply.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2322"
+  }
+}

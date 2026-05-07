@@ -1,0 +1,50 @@
+{
+  "id": "0948",
+  "title": "Cabcharge Australia Limited - proposed acquisition of Suburban Transport Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cabcharge-australia-limited-proposed-acquisition-of-suburban-transport-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30807",
+  "industries": [
+    "Taxi services"
+  ],
+  "date_completed": "7 March 2008",
+  "date_completed_iso": "2008-03-07T12:00:00Z",
+  "date_commenced": "14 January 2008",
+  "date_commenced_iso": "2008-01-14T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Cabcharge Australia Limited"
+  ],
+  "targets": [
+    "Suburban Transport Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jan 2008",
+      "date_iso": "2008-01-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Feb 2008",
+      "date_iso": "2008-02-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Feb 2008",
+      "date_iso": "2008-02-25T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "28 Feb 2008",
+      "date_iso": "2008-02-28T12:00:00Z",
+      "event": "Timeline suspended pending receipt of further information from merger parties."
+    },
+    {
+      "date": "7 Mar 2008",
+      "date_iso": "2008-03-07T12:00:00Z",
+      "event": "Cabcharge announced it will not be proceeding with the proposed acquisition of Suburban Transport Services. ACCC review discontinued."
+    }
+  ],
+  "body_sections": {}
+}

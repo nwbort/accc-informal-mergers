@@ -1,0 +1,31 @@
+{
+  "id": "1482",
+  "title": "Acquirer: Coates Hire Ltd; Target: Compressor Hire Services Pty Ltd (trading as \"CHS Hire\")",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coates-hire-ltd-target-compressor-hire-services-pty-ltd-trading-as-chs-hire",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19318",
+  "industries": [],
+  "date_completed": "18 May 2004",
+  "date_completed_iso": "2004-05-18T12:00:00Z",
+  "date_commenced": "29 April 2004",
+  "date_commenced_iso": "2004-04-29T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coates Hire Ltd"
+  ],
+  "targets": [
+    "Compressor Hire Services Pty Ltd (trading as \"CHS Hire\")"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of the equipment hire business of Compressor Hire Services Pty Ltd (trading as 'CHS Hire') by Coates Hire Ltd",
+    "Market definition": "The relevant market was considered to the Queensland market for equipment hire with local areas of close competition.",
+    "Competition analysis": "The Commission considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant market due to the following: * the Commission's concentration thresholds would not be exceeded; * the merged firm appears likely to face a credible competitive constraint from the significant number of other local equipment hire firms including specialist and general equipment hire firms. There would be no regional areas in which the merged firm would remain as the sole equipment hire firm; and *barriers to entering the relevant market at the local level appear to be low. Barriers to expansion to a scale similar to the merged firm, having a full range of hire equipment and a network of branches throughout Australia, would be more significant but they are largely in the form of capital investment and to a large extent would not be sunk. The merged firm appears likely to be constrained by actual and potential entry and expansion. On this basis, the Commission decided to not intervene in the proposed acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "7743"
+  }
+}

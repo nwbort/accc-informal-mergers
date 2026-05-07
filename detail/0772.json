@@ -1,0 +1,49 @@
+{
+  "id": "0772",
+  "title": "Unimin Australia Limited - acquisition of Hyrock Pty Limited, Westcal Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/unimin-australia-limited-acquisition-of-hyrock-pty-limited-westcal-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35439",
+  "industries": [
+    "Limestone and Lime Production business"
+  ],
+  "date_completed": "24 March 2009",
+  "date_completed_iso": "2009-03-24T12:00:00Z",
+  "date_commenced": "7 January 2009",
+  "date_commenced_iso": "2009-01-07T12:00:00Z",
+  "total_review_days": 53,
+  "acquirers": [
+    "Unimin Australia Limited"
+  ],
+  "targets": [
+    "Hyrock Pty Limited<br/> Westcal Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jan 2009",
+      "date_iso": "2009-01-05T12:00:00Z",
+      "event": "The acquisition was completed."
+    },
+    {
+      "date": "7 Jan 2009",
+      "date_iso": "2009-01-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jan 2009",
+      "date_iso": "2009-01-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Mar 2009",
+      "date_iso": "2009-03-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Unimin Australia Limited has acquired the limestone and lime production businesses operated by Hyrock Pty Ltd and Westcal Pty Ltd (collectively Hyrock).",
+    "Market definition": "The ACCC considered the acquisition in the context of the market for the manufacturing and distribution of quicklime and hydrated lime (lime) in New South Wales. The ACCC noted the strong regional character to competition in the relevant market. The ACCC noted that the competition analysis in this review would be unchanged by the precise market delineation.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant market due to the existence of a significantly larger supplier which would continue to constrain the merged firm from attempting to unilaterally exercise market power in the relevant market. The ACCC noted that the acquisition was unlikely to have increased the likelihood of coordinated conduct in the relevant market between the merged firm and the remaining competitor."
+  }
+}

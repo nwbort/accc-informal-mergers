@@ -1,0 +1,31 @@
+{
+  "id": "1653",
+  "title": "Acquirer: MM Kembla Copper Systems; Target: McKechnie Metals Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mm-kembla-copper-systems-target-mckechnie-metals-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15777",
+  "industries": [],
+  "date_completed": "30 April 2002",
+  "date_completed_iso": "2002-04-30T12:00:00Z",
+  "date_commenced": "5 April 2002",
+  "date_commenced_iso": "2002-04-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "MM Kembla Copper Systems"
+  ],
+  "targets": [
+    "McKechnie Metals Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "MM Kembla New Zealand Limited proposes to acquire the MCK Metals plumbing tube business in Australia and New Zealand.",
+    "Market definition": "The relevant market was found to be the national market for plumbing tube.",
+    "Competition analysis": "It appears that the proposed acquisition would not lead to a substantial lessening of competition in the national market for supply of plumbing tube for the following reasons: - local and imported plastic plumbing tube appears to be a substitute for copper tube and has taken market share from copper tube for several years; - sustained and significant levels of copper and plastic tube imports independent of the parties appear to exercise a strong competitive constraint on the market, with a market share of approximately 20 per cent; - substantial competitors in Australia and overseas face few constraints in increasing production or imports respectively; and - four organised, large and well informed customers account for 90 per cent of sales of plumbing tube in Australia.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2769"
+  }
+}

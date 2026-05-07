@@ -1,0 +1,54 @@
+{
+  "id": "0530",
+  "title": "WANH - proposed acquisition of Seven Media Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/wanh-proposed-acquisition-of-seven-media-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45076",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "8 April 2011",
+  "date_completed_iso": "2011-04-08T12:00:00Z",
+  "date_commenced": "21 February 2011",
+  "date_commenced_iso": "2011-02-21T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "West Australian Newspaper Holdings Ltd (WANH)"
+  ],
+  "targets": [
+    "Seven Media Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Feb 2011",
+      "date_iso": "2011-02-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Mar 2011",
+      "date_iso": "2011-03-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Mar 2011",
+      "date_iso": "2011-03-17T12:00:00Z",
+      "event": "ACCC requested further information from a party to the transaction. ACCC timeline suspended."
+    },
+    {
+      "date": "23 Mar 2011",
+      "date_iso": "2011-03-23T12:00:00Z",
+      "event": "ACCC received further information from a party to the transaction. ACCC timeline recommenced."
+    },
+    {
+      "date": "8 Apr 2011",
+      "date_iso": "2011-04-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "West Australian Newspaper Holdings Limited (WANH) proposed to acquire Seven Media Group Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in relation to three product classes: - the supply of advertising opportunities to advertisers; - the supply of content to consumers; and - the acquisition of content from content providers. Within each of these product classes, the ACCC considered the likely impact on competition of the proposed acquisition both where television and newspapers are in separate product markets and where they are in common product markets. The most significant overlap between the operations of the merger parties occurred in the Perth metropolitan region.",
+    "Competition analysis": "Advertising The ACCC considered that the proposed acquisition would not be likely to substantially lessen competition in advertising markets for the following key reasons: - If television and newspaper advertising are considered to be in the same market, market inquiries indicated that an attempt by Channel Seven or The West Australian to raise the price of advertising is likely to be constrained by competing suppliers of advertising, primarily Channel Nine and Channel Ten as well as The Sunday Times. - If television and newspaper advertising are considered to be in separate markets, an attempt by the merged entity to bundle advertising anti-competitively is unlikely to be successful. The ACCC considered that Channel Nine and Channel Ten in Perth would be likely to impose an enduring competitive constraint on any attempts by the merged entity to foreclose them from accessing advertising customers by bundling newspaper and television advertising. Consumers The ACCC considered that the proposed acquisition by WANH of Seven was unlikely to substantially lessen competition in markets for the supply of content to consumers. In reaching this conclusion, the ACCC had regard to a number of key factors, including that: - If there is a single market for the supply of Perth news and information through television and newspapers, the presence of existing competitors such as other television networks, is likely to constrain the merged entity from lowering the quality of the content it supplies. - If there are separate markets for the supply of Perth news and information through television and through newspapers, the proposed acquisition would not result in any aggregation in these markets. - Any attempt to cross-promote the various media outlets owned by the merged entity, such as Channel Seven Perth and The West Australian, was unlikely to raise competition concerns due to the ability of other media outlets to promote their own content via other means (in particular, on their own media and through the remaining other media outlets). Content The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in markets for the acquisition of content from content suppliers, primarily due to the presence of other media outlets, including other television networks, The Sunday Times and other media outlets."
+  }
+}

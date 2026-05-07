@@ -1,0 +1,31 @@
+{
+  "id": "1506",
+  "title": "Acquirer: John Fairfax Publications Pty Ltd; Target: The Text Media Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-john-fairfax-publications-pty-ltd-target-the-text-media-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18630",
+  "industries": [],
+  "date_completed": "20 December 2003",
+  "date_completed_iso": "2003-12-20T12:00:00Z",
+  "date_commenced": "17 November 2003",
+  "date_commenced_iso": "2003-11-17T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "John Fairfax Publications Pty Ltd"
+  ],
+  "targets": [
+    "The Text Media Group Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "John Fairfax Holdings Limited (\"Fairfax\") proposes to acquire the central Melbourne magazines of Text Media Limited (\"Text\").",
+    "Market definition": "For the purposes of competition assessment the following market definition was adopted: 1. The market in which real estate agents acquire display advertising services from local newspapers and magazines circulating in the central Melbourne area (\"the display real estate advertising market\"); and 2. The market in which real estate agents acquire classified advertising from newspapers circulating in the central Melbourne area (\"the classified real estate advertising market\").",
+    "Competition analysis": "Market inquiries suggest that entry to the market is likely and that the countervailing power of advertisers and emerging competition from the internet may impose a possible constraint on the behaviour of the merged firm despite its high market share. On this basis the Commission finds that no substantial lessening of competition appears likely. The Commission does not intend to oppose the proposed transaction.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2421"
+  }
+}

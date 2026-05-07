@@ -1,0 +1,31 @@
+{
+  "id": "1678",
+  "title": "Acquirer: Ericsson Australia Pty Ltd, Damovo (Australia) Pty Ltd; Target: Telstra Corporation Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ericsson-australia-pty-ltd-damovo-australia-pty-ltd-target-telstra-corporation-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14094",
+  "industries": [],
+  "date_completed": "1 March 2002",
+  "date_completed_iso": "2002-03-01T12:00:00Z",
+  "date_commenced": "25 June 2001",
+  "date_commenced_iso": "2001-06-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ericsson Australia Pty Ltd, Damovo (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Telstra Corporation Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Damovo (formerly Ericsson Corporate Networks) acquires Telstra's PABX maintenance and service business.",
+    "Market definition": "The market appears to be appropriately defined as either that for the sales and maintenance of switched business telephony systems, or as that for PABX maintenance services",
+    "Competition analysis": "Some PABX maintenance service customers have technical expertise to carry out their own PABX maintenance. There are indications that convergence between traditional PABX technologies and computer based systems will open up competitive options for businesses seeking telephony systems and associated maintenance. Indications from the market suggest that there is little concern about any competitive effects of this merger.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4259"
+  }
+}

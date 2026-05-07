@@ -1,0 +1,64 @@
+{
+  "id": "0698",
+  "title": "Amcor Limited - proposed acquisition of certain businesses of Alcan Packaging from Rio Tinto Plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amcor-limited-proposed-acquisition-of-certain-businesses-of-alcan-packaging-from-rio-tinto-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36549",
+  "industries": [
+    "Packaging"
+  ],
+  "date_completed": "20 October 2009",
+  "date_completed_iso": "2009-10-20T12:00:00Z",
+  "date_commenced": "8 September 2009",
+  "date_commenced_iso": "2009-09-08T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Amcor Limited"
+  ],
+  "targets": [
+    "Alcan Packaging"
+  ],
+  "timeline": [
+    {
+      "date": "8 Sep 2009",
+      "date_iso": "2009-09-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Sep 2009",
+      "date_iso": "2009-09-11T12:00:00Z",
+      "event": "ACCC requested further information from Amcor Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "18 Sep 2009",
+      "date_iso": "2009-09-18T12:00:00Z",
+      "event": "ACCC received further information from Amcor Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Sep 2009",
+      "date_iso": "2009-09-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Sep 2009",
+      "date_iso": "2009-09-22T12:00:00Z",
+      "event": "ACCC requested further information from Amcor Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "28 Sep 2009",
+      "date_iso": "2009-09-28T12:00:00Z",
+      "event": "ACCC received further information from Amcor Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Oct 2009",
+      "date_iso": "2009-10-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Amcor Limited proposed to acquire the following businesses of Alcan Packaging from Rio Tinto plc: - Global Tobacco, - Global Pharmaceuticals, - Food Europe, and - Food Asia.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a national market for screwcap wine closures. However, for the purposes of the competition analysis, the ACCC did not consider it necessary to reach a definitive view in relation to market definition. The ACCC also noted there was some limited overlap between the merger parties in the supply of flexible retort pouches in Australia.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market on a horizontal or conglomerate merger basis. Factors informing this conclusion included: - post-acquisition there would remain two local competitors to the merged entity, including the largest screwcap wine closure manufacturer in Australia; - independent imports would be likely to provide a constraint on the merged entity; - there was significant excess capacity in the relevant market; - there is a history of sponsorship of new entrants in the relevant market which indicated a likely ability by major customers to bypass the merged entity by sponsoring a new entrant or expansion of an existing manufacturer in the event that they perceived an incentive to do so; and - ACCC market inquiries confirmed that the proposed acquisition was unlikely to increase Amcor Limited's ability or incentive to bundle screwcap wine closures with other packaging products."
+  }
+}

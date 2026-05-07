@@ -1,0 +1,49 @@
+{
+  "id": "0949",
+  "title": "Codan Ltd - acquisition of Minelab Electronics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/codan-ltd-acquisition-of-minelab-electronics-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30505",
+  "industries": [
+    "Communication and metal-detection products"
+  ],
+  "date_completed": "3 March 2008",
+  "date_completed_iso": "2008-03-03T12:00:00Z",
+  "date_commenced": "18 February 2008",
+  "date_commenced_iso": "2008-02-18T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Codan Limited"
+  ],
+  "targets": [
+    "Minelab Electronics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Feb 2008",
+      "date_iso": "2008-02-18T12:00:00Z",
+      "event": "Parties advised estimated completion date of 6 March 2008. ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "Parties publicly announced completion of the acquisition."
+    },
+    {
+      "date": "3 Mar 2008",
+      "date_iso": "2008-03-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Codan Limited acquired all shares and options in Minelab Electronics Pty Limited",
+    "Market definition": "The ACCC considered the acquisition in the context of the national market for each of the following: - the supply of countermine products; - the supply of communication products (High Frequency (HF) radio, satellite and digital microwave radio); and - the supply of printed circuit boards (for use in printed circuit assemblies).",
+    "Competition analysis": "On 3 March 2008, the ACCC formed the view that the acquisition would be unlikely to result in a substantial lessening of competition in each of the relevant markets. Factors informing this conclusion included the following: -  in relation to countermine products and communication products; the acquisition is a bare transfer of market share. The ability for the merged entity to bundle or leverage its products is likely to be minimal with a number of alternate suppliers and potential import competition in each market acting as a competitive restraint; and - in relation to printed circuit boards; the large number of alternate suppliers and high level of import competition."
+  }
+}

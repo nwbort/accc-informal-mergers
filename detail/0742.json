@@ -1,0 +1,44 @@
+{
+  "id": "0742",
+  "title": "Parmalat Food Products Pty Limited - proposed acquisition of certain assets from National Foods Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/parmalat-food-products-pty-limited-proposed-acquisition-of-certain-assets-from-national-foods-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37698",
+  "industries": [
+    "Dairy Products"
+  ],
+  "date_completed": "25 June 2009",
+  "date_completed_iso": "2009-06-25T12:00:00Z",
+  "date_commenced": "27 May 2009",
+  "date_commenced_iso": "2009-05-27T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Parmalat Food Products Pty Limited"
+  ],
+  "targets": [
+    "National Foods Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 May 2009",
+      "date_iso": "2009-05-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Jun 2009",
+      "date_iso": "2009-06-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Jun 2009",
+      "date_iso": "2009-06-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 24 July 2008, the ACCC announced its decision not to oppose the proposed acquisition of Australian Co-operative Foods Limited (Dairy Farmers) by National Foods Limited (National Foods), subject to section 87B undertakings. The undertaking addresses competition concerns identified by the ACCC in the central New South Wales and South Australian markets for the acquisition of raw milk, and the New South Wales and South Australian markets for the wholesale supply of fresh white milk and flavoured milk. Under the undertaking, National Foods is required to divest certain assets to one or more purchasers approved by the ACCC. Parmalat Food Products Pty Ltd proposes to acquire the divestiture assets from National Foods.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the markets for: - the acquisition of raw milk in central NSW and SA; - the NSW and SA markets for the wholesale supply of fresh white milk; and - the NSW, SA and QLD markets for the wholesale supply of flavoured milk.",
+    "Competition analysis": "As there is no overlap between the parties in respect of the acquisition of raw milk in central NSW and SA, the proposed acquisition would result in a transfer of National Foods' market share to Parmalat. The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the other relevant markets due to the limited aggregation in the relevant markets and the existence of competing suppliers which would constrain the merged firm."
+  }
+}

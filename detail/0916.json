@@ -1,0 +1,44 @@
+{
+  "id": "0916",
+  "title": "Moreton Island Ferries Pty Ltd - proposed acquisition of assets of Stradbroke Ferries Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/moreton-island-ferries-pty-ltd-proposed-acquisition-of-assets-of-stradbroke-ferries-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31580",
+  "industries": [
+    "Ferry services"
+  ],
+  "date_completed": "20 May 2008",
+  "date_completed_iso": "2008-05-20T12:00:00Z",
+  "date_commenced": "9 April 2008",
+  "date_commenced_iso": "2008-04-09T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Moreton Island Ferries Pty Ltd"
+  ],
+  "targets": [
+    "Stradbroke Ferries Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 Apr 2008",
+      "date_iso": "2008-04-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Apr 2008",
+      "date_iso": "2008-04-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 May 2008",
+      "date_iso": "2008-05-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Moreton Island Ferries Pty Ltd proposed to acquire certain assets of Stradbroke Ferries Limited. The assets included properties on Moreton Island and the Combie Trader ferry business, though not the ferry (barge) itself.",
+    "Market definition": "The ACCC did not reach a definitive view on market definition in this matter as the outcome of the competition analysis was unaffected if a broader or narrower approach was adopted. The ACCC considered, however, that there were likely to be separate product markets for passenger, vehicle and freight ferry serivces. The ACCC also gave consideration to a geographic market encompassing south east Queensland, as well as to more localised markets. The ACCC noted that there were also likely to be additional markets relating to other assets involved in the transaction, such as for the properties on Moreton Island.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in terms of section 50 of the Trade Practices Act. In reaching this view the ACCC had regard to a number of factors, including the likelihood that the Combie Trader service would cease to operate even if the acquisitions did not occur, and the likelihood of a new operator emerging to constrain the pricing of Moreton Island Ferries. Please refer to the ACCC's media release for more information."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0936",
+  "title": "AOL LLC - proposed acquisition of Bebo Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aol-llc-proposed-acquisition-of-bebo-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31501",
+  "industries": [
+    "Supply of online content"
+  ],
+  "date_completed": "9 April 2008",
+  "date_completed_iso": "2008-04-09T12:00:00Z",
+  "date_commenced": "18 March 2008",
+  "date_commenced_iso": "2008-03-18T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "AOL LLC"
+  ],
+  "targets": [
+    "Bebo Inc"
+  ],
+  "timeline": [
+    {
+      "date": "18 Mar 2008",
+      "date_iso": "2008-03-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Apr 2008",
+      "date_iso": "2008-04-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Apr 2008",
+      "date_iso": "2008-04-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AOL LLC proposes to acquire Bebo Inc.",
+    "Market definition": "The ACCC did not form a definitive view in relation to market definition. However, the ACCC considered that the transaction would be unlikely to result in a substantial lessening of competition regardless of the way the market was defined.",
+    "Competition analysis": "The ACCC considered that the transaction was unlikely to result in a substantial lessening of competition, primarily due to the dynamic nature of the industry, the presence of a large number of other significant competitors and the differences in service offerings of each party."
+  }
+}

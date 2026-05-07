@@ -1,0 +1,74 @@
+{
+  "id": "0389",
+  "title": "Virgin Australia Holdings Limited and Tiger Airways - proposed joint venture to operate Tiger Airways Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/virgin-australia-holdings-limited-and-tiger-airways-proposed-joint-venture-to-operate-tiger-airways-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50019",
+  "industries": [
+    "Airways"
+  ],
+  "date_completed": "23 April 2013",
+  "date_completed_iso": "2013-04-23T12:00:00Z",
+  "date_commenced": "2 November 2012",
+  "date_commenced_iso": "2012-11-02T12:00:00Z",
+  "total_review_days": 88,
+  "acquirers": [
+    "Virgin Australia Holdings Limited"
+  ],
+  "targets": [
+    "Tiger Airways Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Nov 2012",
+      "date_iso": "2012-11-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Nov 2012",
+      "date_iso": "2012-11-28T12:00:00Z",
+      "event": "Closing date of submissions from interested parties."
+    },
+    {
+      "date": "11 Jan 2013",
+      "date_iso": "2013-01-11T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of information requested from the merger parties."
+    },
+    {
+      "date": "16 Jan 2013",
+      "date_iso": "2013-01-16T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced. Former proposed decision date of 31 January 2013 postponed to allow the ACCC time to consider the further information."
+    },
+    {
+      "date": "7 Feb 2013",
+      "date_iso": "2013-02-07T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "22 Feb 2013",
+      "date_iso": "2013-02-22T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "8 Mar 2013",
+      "date_iso": "2013-03-08T12:00:00Z",
+      "event": "ACCC requested further information from Virgin Australia and Tiger Australia. ACCC timeline suspended. Former proposed decision date of 14 March 2013 delayed to allow provision of requested information."
+    },
+    {
+      "date": "11 Apr 2013",
+      "date_iso": "2013-04-11T12:00:00Z",
+      "event": "ACCC received further information from Virgin Australia and Tiger Australia. ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Apr 2013",
+      "date_iso": "2013-04-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Virgin Australia Holdings Limited and Tiger Airways Holdings Limited proposed to enter into a joint venture for the operation of Tiger Airways Australia Pty Ltd. Under the proposed joint venture Virgin Australia Holdings Limited will acquire a 60% interest in Tiger Airways Australia Pty Ltd, with a 40% shareholding remaining with Tiger Airways Holdings Limited.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment. Correction to Public Competition Assessment\n- Paragraph 27 contains a list of the largest regional and charter service operators in Australia. While this list made reference to the Regional Express subsidiary Pel-Air, Regional Express' larger regional operation known as Rex was inadvertently omitted from this list. This omission does not affect the ACCC's assessment of this acquisition."
+  }
+}

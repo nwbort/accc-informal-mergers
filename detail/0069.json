@@ -1,0 +1,84 @@
+{
+  "id": "0069",
+  "title": "Australian Clinical Labs Limited - Healius Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-clinical-labs-limited-healius-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Pathology services"
+  ],
+  "date_completed": "15 December 2023",
+  "date_completed_iso": "2023-12-15T12:00:00Z",
+  "date_commenced": "12 April 2023",
+  "date_commenced_iso": "2023-04-12T12:00:00Z",
+  "total_review_days": 102,
+  "acquirers": [
+    "Australian Clinical Labs Limited"
+  ],
+  "targets": [
+    "Healius Limited"
+  ],
+  "timeline": [
+    {
+      "date": "12 Apr 2023",
+      "date_iso": "2023-04-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "3 May 2023",
+      "date_iso": "2023-05-03T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "30 May 2023",
+      "date_iso": "2023-05-30T12:00:00Z",
+      "event": "Timeline suspended. Former provisional date for announcement of ACCC’s findings (22 June) delayed at ACL’s request. ACCC will announce a revised provisional decision date in due course."
+    },
+    {
+      "date": "4 Jul 2023",
+      "date_iso": "2023-07-04T12:00:00Z",
+      "event": "ACCC received further information from ACL. Timeline recommenced."
+    },
+    {
+      "date": "20 Jul 2023",
+      "date_iso": "2023-07-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "10 Aug 2023",
+      "date_iso": "2023-08-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "22 Sep 2023",
+      "date_iso": "2023-09-22T12:00:00Z",
+      "event": "Timeline suspended pending receipt of further information.  Former proposed decision date for announcement of ACCC's findings (12 October 2023) is delayed."
+    },
+    {
+      "date": "3 Oct 2023",
+      "date_iso": "2023-10-03T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking."
+    },
+    {
+      "date": "17 Oct 2023",
+      "date_iso": "2023-10-17T12:00:00Z",
+      "event": "Closing date for submissions relating to the proposed s87B undertaking."
+    },
+    {
+      "date": "30 Nov 2023",
+      "date_iso": "2023-11-30T12:00:00Z",
+      "event": "ACCC received further information. Timeline recommenced."
+    },
+    {
+      "date": "15 Dec 2023",
+      "date_iso": "2023-12-15T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 20 March 2023, Australian Clinical Labs Limited ( ACL ) announced that it was seeking to acquire Healius Limited ( Healius ) by way of an off-market takeover offer to acquire all the fully paid ordinary shares in Healius. ACL and Healius provide human pathology services to out-patients, in-patients (at public and private hospitals), and commercial and government customers, as well as veterinary pathology services. Healius also provides diagnostic imaging services.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

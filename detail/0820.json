@@ -1,0 +1,44 @@
+{
+  "id": "0820",
+  "title": "BAE Systems Australia Ltd - proposed acquisition of a further 50% interest in TenixToll Defence Logistics",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bae-systems-australia-ltd-proposed-acquisition-of-a-further-50-interest-in-tenixtoll-defence-logistics",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33838",
+  "industries": [
+    "Defence"
+  ],
+  "date_completed": "17 December 2008",
+  "date_completed_iso": "2008-12-17T12:00:00Z",
+  "date_commenced": "27 November 2008",
+  "date_commenced_iso": "2008-11-27T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "BAE Systems Australia Ltd"
+  ],
+  "targets": [
+    "TenixToll Defence Logistics"
+  ],
+  "timeline": [
+    {
+      "date": "27 Nov 2008",
+      "date_iso": "2008-11-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Dec 2008",
+      "date_iso": "2008-12-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Dec 2008",
+      "date_iso": "2008-12-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BAE Systems proposes to acquire the remaining 50% share in the TenixToll joint venture. The proposed acquisition would lead to BAE holding 100% of the shares in TenixToll.",
+    "Market definition": "The ACCC considered the proposed acquisition in relation to separate national markets for the sustainment of defence vehicles and land products and for the acquisition of base and garrison support services.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching this view, the ACCC considered that the merged firm's pricing decisions are likely to be constrained by the presence of existing competitors."
+  }
+}

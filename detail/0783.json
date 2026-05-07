@@ -1,0 +1,44 @@
+{
+  "id": "0783",
+  "title": "MyState Financial Credit Union of Tasmania Limited proposed acquisition of Tasmanian Perpetual Trustees Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mystate-financial-credit-union-of-tasmania-limited-proposed-acquisition-of-tasmanian-perpetual-trustees-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36713",
+  "industries": [
+    "Financial services"
+  ],
+  "date_completed": "18 March 2009",
+  "date_completed_iso": "2009-03-18T12:00:00Z",
+  "date_commenced": "25 February 2009",
+  "date_commenced_iso": "2009-02-25T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "MyState Financial Credit Union of Tasmania Limited"
+  ],
+  "targets": [
+    "Tasmanian Perpetual Trustees Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 Feb 2009",
+      "date_iso": "2009-02-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Mar 2009",
+      "date_iso": "2009-03-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Mar 2009",
+      "date_iso": "2009-03-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "MyState Financial Credit Union of Tasmania Limited proposes to merge with Tasmanian Perpetual Trustees Limited. The merger parties propose that (subject to member and shareholder approval) both parties will become wholly owned subsidiaries of a newly created holding company, MyState Limited.",
+    "Market definition": "The ACCC considered the following relevant markets: - a number of national markets for certain types of financial and banking services offered by the parties; and - markets for personal transaction accounts within Tasmania.",
+    "Competition analysis": "On 18 March 2009 the ACCC formed the view that the proposed merger would be unlikely to substantially lessen competition in the relevant markets. The ACCC considered that given the scope of the operations of the proposed merged entity (being confined to Tasmania) and the existence of a number of other significant competitors, the proposed merger was unlikely to have an effect of substantially lessening competition in any of the relevant national markets for banking and financial services. The ACCC considered that consumers in markets for personal transaction accounts would continue to have the option to use several alternative providers, and accordingly the proposed merger was unlikely to have an effect of substantially lessening competition in these markets."
+  }
+}

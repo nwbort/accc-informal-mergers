@@ -1,0 +1,84 @@
+{
+  "id": "0218",
+  "title": "BP - proposed acquisition of Woolworths' retail service station sites",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bp-proposed-acquisition-of-woolworths-retail-service-station-sites",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61057",
+  "industries": [
+    "Retail service station sites"
+  ],
+  "date_completed": "14 December 2017",
+  "date_completed_iso": "2017-12-14T12:00:00Z",
+  "date_commenced": "15 March 2017",
+  "date_commenced_iso": "2017-03-15T12:00:00Z",
+  "total_review_days": 130,
+  "acquirers": [
+    "BP"
+  ],
+  "targets": [
+    "Woolworths' retail service station sites"
+  ],
+  "timeline": [
+    {
+      "date": "15 Mar 2017",
+      "date_iso": "2017-03-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Apr 2017",
+      "date_iso": "2017-04-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Jul 2017",
+      "date_iso": "2017-07-10T12:00:00Z",
+      "event": "Former proposed decision date of 13 July 2017 delayed by agreement to allow the parties to provide additional information."
+    },
+    {
+      "date": "28 Jul 2017",
+      "date_iso": "2017-07-28T12:00:00Z",
+      "event": "ACCC received information from the parties."
+    },
+    {
+      "date": "10 Aug 2017",
+      "date_iso": "2017-08-10T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "7 Sep 2017",
+      "date_iso": "2017-09-07T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "19 Sep 2017",
+      "date_iso": "2017-09-19T12:00:00Z",
+      "event": "ACCC published Local Market Screening."
+    },
+    {
+      "date": "28 Sep 2017",
+      "date_iso": "2017-09-28T12:00:00Z",
+      "event": "Closing date for submissions relating to Local Market Screening."
+    },
+    {
+      "date": "4 Oct 2017",
+      "date_iso": "2017-10-04T12:00:00Z",
+      "event": "Former proposed decision date of 26 October 2017 delayed to allow more time for data analysis, and to consider information provided by parties and market participants."
+    },
+    {
+      "date": "29 Nov 2017",
+      "date_iso": "2017-11-29T12:00:00Z",
+      "event": "Former proposed decision date of 30 November 2017 delayed on request from the parties to allow the ACCC to consider further information from the parties."
+    },
+    {
+      "date": "14 Dec 2017",
+      "date_iso": "2017-12-14T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "B P Australia Pty Limited proposes to acquire Woolworths Limited's network of retail service station sites.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

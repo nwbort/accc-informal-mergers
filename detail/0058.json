@@ -1,0 +1,44 @@
+{
+  "id": "0058",
+  "title": "CS Energy Limited - Callide C",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cs-energy-limited-callide-c",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "23 May 2024",
+  "date_completed_iso": "2024-05-23T12:00:00Z",
+  "date_commenced": "13 March 2024",
+  "date_commenced_iso": "2024-03-13T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "CS Energy Limited"
+  ],
+  "targets": [
+    "Callide C"
+  ],
+  "timeline": [
+    {
+      "date": "13 Mar 2024",
+      "date_iso": "2024-03-13T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Mar 2024",
+      "date_iso": "2024-03-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "23 May 2024",
+      "date_iso": "2024-05-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CS Energy Limited ( CS Energy ), through its wholly owned subsidiary Callide Energy Pty Limited ( Callide Energy ), proposes to acquire IG Power (Callide) Ltd (Administrators Appointed)’s ( IG Callide ) 50% interest in the Callide C power station, which would increase its ownership interest in the Callide C power station to 100%. CS Energy is a Queensland Government owned energy company that generates and supplies electricity to the National Electricity Market ( NEM ). CS Energy is also a retailer of energy to commercial and industrial businesses, including the Queensland Government, mines and ports. It has a 50/50 joint venture with Alinta Energy, which supplies electricity to residential and commercial customers in South-East Queensland. Callide C is one of two coal fired power stations at the Callide Power Station, located in Central Queensland. Callide C is owned in a 50/50 joint venture between IG Callide and Callide Energy. Callide C has a registered capacity of 848MW and is comprised of two generating units (“C3” and “C4”). C3 was offline between 31 October 2022 and 1 April 2024, due to the failure of its cooling tower; C4 has been offline since 25 May 2021 due to a catastrophic failure, with a staged return to service scheduled to take place from 30 June 2024. Callide B is the other coal fired power station at the Callide Power Station. It is 100% owned by CS Energy and has a capacity of 700MW.",
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition on competition in market(s) for: the generation and wholesale supply of electricity in Queensland and the NEM the supply of wholesale hedging contracts settled at the Queensland Regional Reference Price the wholesale supply of Frequency Control Ancillary Services (FCAS) in Queensland and the NEM The retail supply of electricity in Queensland. The ACCC did not form definite views on the product and geographic dimensions of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market. CS Energy owns multiple power station assets in Queensland. In addition to the sale of electricity from these power stations, CS Energy provides frequency control ancillary services from some of its plants to help maintain system security and reliability in the NEM. IG Callide entered voluntary administration in March 2023. This process is ongoing, having been the subject of several extensions and ongoing litigation brought by one of the upstream owners of IG Callide. The ACCC considered that there was considerable uncertainty around the outcome of the administration process and whether, absent the proposed acquisition, there would be viable alternative purchaser(s) of IG Callide’s 50% interest. In this context the ACCC considered the current period of the Joint Venture Agreement and other contractual arrangements relating to the Callide C power station. The ACCC considered that these agreements may limit the potential for the Callide C power station to operate beyond the medium term. The ACCC considered this would likely limit the viability of alternative purchase proposals and, even if an alternative buyer emerged, there would be a limited period in which that buyer’s share of the output from the Callide C power station would compete independently. The ACCC also considered that the proposed acquisition would result in a reasonably small increase in CS Energy’s share of future generation capacity and wholesale supply in Queensland and the broader NEM. Further, single ownership of Callide C is likely to support its efficient operation which should, other things held equal, enable and encourage the dispatch of higher levels of its output. In addition, having considered the uncertainty surrounding the future of Callide C if the proposed acquisition does not proceed, and the likely impact of the proposed acquisition on wholesale energy market(s), the ACCC concluded there was not likely to be a substantial lessening of competition in any related hedging contract or downstream retail market either."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1684",
+  "title": "Acquirer: Mayne Nickless Healthcare Holdings Pty Ltd; Target: Endeavour Healthcare",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mayne-nickless-healthcare-holdings-pty-ltd-target-endeavour-healthcare",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15341",
+  "industries": [],
+  "date_completed": "19 February 2002",
+  "date_completed_iso": "2002-02-19T12:00:00Z",
+  "date_commenced": "15 January 2002",
+  "date_commenced_iso": "2002-01-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Mayne Nickless Healthcare Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Endeavour Healthcare"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Endeavour Healthcare's Melbourne Assets by Mayne Nickless.",
+    "Market definition": "The Commission considered radiology, pathology and diagnostic services markets within metropolitan Melbourne (inlcuding several localised areas).",
+    "Competition analysis": "The Commission decided not to intervene in the acquisition of Endeavour Health Care by the Mayne Group Limited (Mayne).  The Commission concluded that the acquisition was unlikely to substantially lessen competition given the parties share of radiology services and the continuing presence of a number of established competitors.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "8611"
+  }
+}

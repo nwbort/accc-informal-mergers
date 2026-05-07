@@ -1,0 +1,49 @@
+{
+  "id": "0302",
+  "title": "Macquarie Radio Network Limited (MRN) - proposed acquisition of the radio assets of Fairfax Media Limited (FML) and FML's proposed acquisition of 54.5% of MRN",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macquarie-radio-network-limited-mrn-proposed-acquisition-of-the-radio-assets-of-fairfax-media-limited-fml-and-fmls-proposed-acquisition-of-545-of-mrn",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56527",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "27 February 2015",
+  "date_completed_iso": "2015-02-27T12:00:00Z",
+  "date_commenced": "13 January 2015",
+  "date_commenced_iso": "2015-01-13T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Macquarie Radio Network Limited"
+  ],
+  "targets": [
+    "Fairfax Media Limited's radio assets"
+  ],
+  "timeline": [
+    {
+      "date": "13 Jan 2015",
+      "date_iso": "2015-01-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "3 Feb 2015",
+      "date_iso": "2015-02-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Feb 2015",
+      "date_iso": "2015-02-25T12:00:00Z",
+      "event": "ACCC amended the formal provisional decision date of 5 March 2015 for announcement of findings."
+    },
+    {
+      "date": "27 Feb 2015",
+      "date_iso": "2015-02-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Macquarie Radio Network Limited (MRN) proposes to acquire the radio assets of Fairfax Media Limited (FML). FML proposes to acquire a 54.5% interest in MRN.",
+    "Market definition": "The ACCC considered the impact of the proposed transaction on the following broad product categories: - the supply of content (including news and current affairs) to consumers/listeners; - the supply of advertising opportunities; and - the supply of content to radio stations (as both MRN and Fairfax syndicate and supply their radio programmes to smaller radio stations). For the purpose of this review, the ACCC focussed on the impact on the supply of news and other content to Sydney radio listeners and the sale of advertising on Sydney commercial radio stations. However, the ACCC did not consider it necessary to form a definitive view on the boundaries of the relevant markets as competition concerns were unlikely to arise regardless of the market definition adopted.",
+    "Competition analysis": "The ACCC's competition assessment was focussed on any competitive impact caused by the common ownership of MRN's 2GB and Fairfax's 2UE in Sydney, both talk back radio stations which have particularly high audience market shares among older listeners. The ACCC notes that MRN has stated that, due to regulatory requirements under the Broadcasting Services Act 1992, it would divest 2CH in Sydney (as well as 4LM in Mt Isa) following the completion of the proposed transaction. The ACCC determined that the proposed acquisition was unlikely to raise concerns in the supply of content to radio listeners. Factors informing this conclusion included that: - a number of alternative radio stations and networks would be available to consumers and would continue to provide listeners with a choice of radio programmes, including talkback radio; and - commercial radio stations operate in a dynamic environment and would be able to change to a talkback format if it made commercial sense to do so. The ACCC also notes that the changing landscape of media consumption means that traditional radio is likely to face increasing competition from new media. The ACCC determined that the proposed acquisition was unlikely to raise concerns in the sale of advertising on commercial radio stations in Sydney. Following the proposed transaction, there will remain multiple commercial radio station networks independent of MRN in Sydney providing advertising opportunities to advertisers. While few other radio stations currently focus on a talkback format, radio stations are able to change their programming and/or format relatively easily. Accordingly, if higher returns were available to radio stations operating a talkback format and attracting the older demographic currently attracted to 2GB or 2UE (for example, if the price of advertising on such stations increased), then other radio stations could add talkback programmes to their format in order to attract these listeners. This would be expected to constrain any potential increase in advertising rates on such stations. Finally, the ACCC determined that the proposed acquisition was unlikely to raise concerns in the supply of syndicated radio programmes and content. Market inquiries confirmed that there are a number of current and potential alternative providers of syndicated radio content."
+  }
+}

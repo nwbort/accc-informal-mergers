@@ -1,0 +1,31 @@
+{
+  "id": "1473",
+  "title": "Acquirer: Caltex Australia Petroleum Pty Ltd, Woolworths Ltd; Target: No data available",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-caltex-australia-petroleum-pty-ltd-woolworths-ltd-target-no-data-available",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18250",
+  "industries": [],
+  "date_completed": "12 July 2004",
+  "date_completed_iso": "2004-07-12T12:00:00Z",
+  "date_commenced": "21 August 2003",
+  "date_commenced_iso": "2003-08-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Caltex Australia Petroleum Pty Ltd, Woolworths Ltd"
+  ],
+  "targets": [
+    "No data available"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 21 August 2003 Woolworths and Caltex announced a joint venture for the retailing of petrol.  The parties subsequently entered into a short term arrangement.  In March 2004, Woolworths and Caltex advised the Commission they had negotiated a long term arrangement for the retailing of petrol.",
+    "Market definition": "Markets for petrol retailing, petrol wholesaling, grocery retailing and grocery wholesaling",
+    "Competition analysis": "While the Long Term Arrangement may breach the Commission's market concentration thresholds, there is insufficient evidence to support that this would result in an SLC in the petrol retailing market. There is also insufficient evidence to suggest that the Long Term Arrangement is likely to result in an SLC in the petrol wholesaling market. The Long Term Arrangement does not currently account for non-fuel goods.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "5321"
+  }
+}

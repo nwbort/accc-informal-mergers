@@ -1,0 +1,44 @@
+{
+  "id": "1160",
+  "title": "News Ltd - acquisition of three newspaper titles from Times Publications",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/news-ltd-acquisition-of-three-newspaper-titles-from-times-publications",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24821",
+  "industries": [
+    "Suburban newspaper publishing"
+  ],
+  "date_completed": "30 January 2007",
+  "date_completed_iso": "2007-01-30T12:00:00Z",
+  "date_commenced": "19 December 2006",
+  "date_commenced_iso": "2006-12-19T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "News Ltd"
+  ],
+  "targets": [
+    "Times Publications"
+  ],
+  "timeline": [
+    {
+      "date": "19 Dec 2006",
+      "date_iso": "2006-12-19T12:00:00Z",
+      "event": "ACCC commences market inquiries"
+    },
+    {
+      "date": "17 Jan 2007",
+      "date_iso": "2007-01-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "30 Jan 2007",
+      "date_iso": "2007-01-30T12:00:00Z",
+      "event": "ACCC decided that it would not oppose the acquisitions"
+    }
+  ],
+  "body_sections": {
+    "Summary": "News Limited has aquired three newspaper titles owned by Times Publications.  The newspapers are free delivered prublications circulated weekly in suburban Melbourne with the following titles: The Western Times (circulated in the City of Maribyrnong), Hobson Bay Times (circulated in the City of Hobsons Bay) and the Werribee Times (Circulated in the City of Wyndham).",
+    "Market definition": "The ACCC considered the relevant market to be the market for suburban newspaper advertising, with the relevant geographical dimension for this matter defined by the ciruclation areas of each of the Times newspapers.",
+    "Competition analysis": "The ACCC concluded that the acquisition of the the three Times newspapers by News Ltd is unlikely to lead to a substantial lessening of competition in any of the relevant markets identified because: there is minimal overlap between News Limited's existing newspapers and the target newspapers; Fairfax and Star remain as substantial competitors to the merged entity in each market; and alternative advertising media would pose a competitive constraint for some advertisers."
+  }
+}

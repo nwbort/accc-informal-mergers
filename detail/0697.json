@@ -1,0 +1,54 @@
+{
+  "id": "0697",
+  "title": "Pentana Solutions Pty Ltd - completed acquisition of AutoLedgers & NOVA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pentana-solutions-pty-ltd-completed-acquisition-of-autoledgers-nova",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38208",
+  "industries": [
+    "Automotive dealer management software (DMS)"
+  ],
+  "date_completed": "27 October 2009",
+  "date_completed_iso": "2009-10-27T12:00:00Z",
+  "date_commenced": "16 July 2009",
+  "date_commenced_iso": "2009-07-16T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "Pentana Solutions Pty Ltd"
+  ],
+  "targets": [
+    "AutoLedgers<br/> NOVA"
+  ],
+  "timeline": [
+    {
+      "date": "17 Nov 2006",
+      "date_iso": "2006-11-17T12:00:00Z",
+      "event": "Pentana acquired AutoLedgers and NOVA."
+    },
+    {
+      "date": "10 Jul 2009",
+      "date_iso": "2009-07-10T12:00:00Z",
+      "event": "ACCC market inquiries into Carsales completed acquisition of Redbook revealed Pentana's completed acquisition of AutoLedgers and NOVA."
+    },
+    {
+      "date": "16 Jul 2009",
+      "date_iso": "2009-07-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Aug 2009",
+      "date_iso": "2009-08-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Oct 2009",
+      "date_iso": "2009-10-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 17 November 2006 Pentana (then trading as Reynolds and Reynolds) acquired the Business Systems Division of Infomedia Ltd, which included the DMS products AutoLedgers and NOVA.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of both a national market for the supply of DMS products and a national market for the supply of spare parts trading systems.",
+    "Competition analysis": "The ACCC's investigation indicated that certain customers were unlikely to switch from using Pentana's DMS products, which were integrated with its parts trading system. However, the ACCC concluded that the completed acquisition did not have the direct result of substantially lessening the competitive constraints on Pentana in this market. The ACCC's inquiries indicated that other customers do not trade in spare parts to a large degree. For these customers, the ACCC noted that while the completed acquisition had increased Pentana's share of DMS customers considerably, the merged entity would be likely to face effective competition in the DMS market from other DMS suppliers. Furthermore, the ACCC's investigation did not reveal evidence that the completed acquisition enabled Pentana to increase prices or reduce service levels in the relevant markets. Therefore, the ACCC concluded that the completed acquisition did not result in a substantial lessening of competition in the relevant markets."
+  }
+}

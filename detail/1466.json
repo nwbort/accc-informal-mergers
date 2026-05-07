@@ -1,0 +1,31 @@
+{
+  "id": "1466",
+  "title": "Acquirer: National Australia Bank Limited, Westpac Banking Corporation, Commonwealth Bank of Australia; Target: No data available",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-national-australia-bank-limited-westpac-banking-corporation-commonwealth-bank-of-australia-target-no-data-available",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18904",
+  "industries": [],
+  "date_completed": "20 August 2004",
+  "date_completed_iso": "2004-08-20T12:00:00Z",
+  "date_commenced": "15 December 2003",
+  "date_commenced_iso": "2003-12-15T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "National Australia Bank Limited, Westpac Banking Corporation, Commonwealth Bank of Australia"
+  ],
+  "targets": [
+    "No data available"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The ACCC has been advised that the Parties are proposing to enter into a joint venture for voucher processing services. The joint venture will run a competitive tender process to identify an operator who will provide voucher processing services to the joint venture parties. The banks will continue to compete for the provision of voucher processing services to downstream customers.",
+    "Market definition": "The national wholesale voucher processing market and the wholesale supply of agency voucher processing services on a national basis.",
+    "Competition analysis": "The ACCC conducted extensive market inquiries about the proposed transaction. The ACCC considered the competitive impact of the proposed joint venture in various markets including the national wholesale voucher processing market and the national wholesale supply of agency voucher processing services market. Whilst the ACCC considers that the barriers to entry to the market are high, it does not consider that there will be any change to those customers who acquire voucher processing services. In addition, the maturity of the voucher processing market has, in effect, foreclosed much of the market to potential entrants. The ACCC also notes the continued decline of vouchers as a payment instrument. On this basis, the ACCC concluded that the proposed joint venture is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "7321"
+  }
+}

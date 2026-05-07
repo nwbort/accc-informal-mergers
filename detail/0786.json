@@ -1,0 +1,44 @@
+{
+  "id": "0786",
+  "title": "Woolworths Limited - proposed acquisition of Liquorstop liquor store and licence located in Keiraville NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-liquorstop-liquor-store-and-licence-located-in-keiraville-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36753",
+  "industries": [
+    "Takeaway packaged liquor licence"
+  ],
+  "date_completed": "16 March 2009",
+  "date_completed_iso": "2009-03-16T12:00:00Z",
+  "date_commenced": "27 February 2009",
+  "date_commenced_iso": "2009-02-27T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquorstop liquor store and licence located in Keiraville NSW"
+  ],
+  "timeline": [
+    {
+      "date": "27 Feb 2009",
+      "date_iso": "2009-02-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Mar 2009",
+      "date_iso": "2009-03-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Mar 2009",
+      "date_iso": "2009-03-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths proposed acquisition of a takeaway packaged liquor store and licence located in Keiraville, NSW.",
+    "Market definition": "The proposed acquisition was considered in the context of two markets: 1. The local market for the retail sale of packaged liquor for off-premises consumption, within a geographic region of 3-5 km surrounding the target (Market 1). 2. A NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption (Market 2).",
+    "Competition analysis": "On 16 March 2009, the ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets.  Factors informing this conclusion were: Market 1 After conducting market inquiries, the ACCC considered that Woolworths would likely continue to be constrained by a significant number of other retail liquor outlets in the relevant market. Market 2 After conducting market inquiries, the ACCC considered that the proposed acquisition would not significantly increase the market share or buying power of Woolworths, or weaken any competing wholesale purchaser by diminishing its buying power."
+  }
+}

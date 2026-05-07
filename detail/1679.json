@@ -1,0 +1,30 @@
+{
+  "id": "1679",
+  "title": "Acquirer: Australian Dried Fruits Sales Pty Ltd (Sunbeam Foods); Target: Irymple Packing Pty Ltd, Mildura Co-operative Fruit Company Ltd The",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-dried-fruits-sales-pty-ltd-sunbeam-foods-target-irymple-packing-pty-ltd-mildura-co-operative-fruit-company-ltd-the",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15384",
+  "industries": [],
+  "date_completed": "28 February 2002",
+  "date_completed_iso": "2002-02-28T12:00:00Z",
+  "date_commenced": "21 December 2001",
+  "date_commenced_iso": "2001-12-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Dried Fruits Sales Pty Ltd (Sunbeam Foods)"
+  ],
+  "targets": [
+    "Irymple Packing Pty Ltd, Mildura Co-operative Fruit Company Ltd The"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Sunbeam Foods (a marketing operation) proposes to acquire the dried vine fruit operations of the processors and packers Irymple (IPPL) and Mildura Co-op (MCFC).  IPPL and MCFC each own 50% of the issued capital of Sunbeam Foods.",
+    "Market definition": "Market for processing/packing of dried vine fruit; market for marketing of dried vine fruit",
+    "Competition analysis": "Under this proposal, Sunbeam Foods is acquiring the two companies which jointly own it.  These two shareholders are acquirers, processors and packers of dried vine fruit (sultanas, raisins and currants) and Sunbeam  Foods is a marketer of these products.  These acquisitions will result in increased concentration in processing of dried vine fruit.  However, there is a significant proportion of imports of dried vine fruit into Australia.  At the date of these acquisitions, imports account for approximately 45% of local consumption of dried vine fruit.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "0119"
+  }
+}

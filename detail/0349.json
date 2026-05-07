@@ -1,0 +1,60 @@
+{
+  "id": "0349",
+  "title": "Woolworths Ltd - proposed acquisition of Lindisfarne Cellars (liquor licence and associated assets) in Tasmania",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-proposed-acquisition-of-lindisfarne-cellars-liquor-licence-and-associated-assets-in-tasmania",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50848",
+  "industries": [
+    "Liquor retailing"
+  ],
+  "date_completed": "10 February 2014",
+  "date_completed_iso": "2014-02-10T12:00:00Z",
+  "date_commenced": "10 October 2013",
+  "date_commenced_iso": "2013-10-10T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "Lindisfarne Cellars (liquor licence and associated assets) in Tasmania"
+  ],
+  "timeline": [
+    {
+      "date": "10 Oct 2013",
+      "date_iso": "2013-10-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "28 Oct 2013",
+      "date_iso": "2013-10-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "13 Nov 2013",
+      "date_iso": "2013-11-13T12:00:00Z",
+      "event": "Woolworths has requested additional time to respond to an information request from the ACCC. Provisional date for announcement of ACCC's findings (28 November) is delayed."
+    },
+    {
+      "date": "26 Nov 2013",
+      "date_iso": "2013-11-26T12:00:00Z",
+      "event": "ACCC received information from Woolworths."
+    },
+    {
+      "date": "19 Dec 2013",
+      "date_iso": "2013-12-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "17 Jan 2014",
+      "date_iso": "2014-01-17T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "10 Feb 2014",
+      "date_iso": "2014-02-10T12:00:00Z",
+      "event": "Woolworths has withdrawn its request for an informal merger review. Consequently, the ACCC has discontinued its review without making a final decision. The former proposed decision date of the review was 13 February 2014."
+    }
+  ],
+  "body_sections": {}
+}

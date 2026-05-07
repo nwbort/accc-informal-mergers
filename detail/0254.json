@@ -1,0 +1,83 @@
+{
+  "id": "0254",
+  "title": "Seven West Media Limited - proposed acquisition of The Sunday Times publication and website from News Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-west-media-limited-proposed-acquisition-of-the-sunday-times-publication-and-website-from-news-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59784",
+  "industries": [
+    "Newspaper and web media"
+  ],
+  "date_completed": "15 September 2016",
+  "date_completed_iso": "2016-09-15T12:00:00Z",
+  "date_commenced": "27 May 2016",
+  "date_commenced_iso": "2016-05-27T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "Seven West Media Limited"
+  ],
+  "targets": [
+    "Certain assets of News Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 May 2016",
+      "date_iso": "2016-05-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2016",
+      "date_iso": "2016-06-03T12:00:00Z",
+      "event": "ACCC requested further information from News."
+    },
+    {
+      "date": "17 Jun 2016",
+      "date_iso": "2016-06-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "20 Jun 2016",
+      "date_iso": "2016-06-20T12:00:00Z",
+      "event": "ACCC received further information from News."
+    },
+    {
+      "date": "19 Jul 2016",
+      "date_iso": "2016-07-19T12:00:00Z",
+      "event": "Parties requested more time to provide further information. Former proposed date for announcement of findings (28th July) is delayed."
+    },
+    {
+      "date": "29 Jul 2016",
+      "date_iso": "2016-07-29T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "4 Aug 2016",
+      "date_iso": "2016-08-04T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "18 Aug 2016",
+      "date_iso": "2016-08-18T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "18 Aug 2016",
+      "date_iso": "2016-08-18T12:00:00Z",
+      "event": "ACCC requested further information from News."
+    },
+    {
+      "date": "25 Aug 2016",
+      "date_iso": "2016-08-25T12:00:00Z",
+      "event": "ACCC received further information from News."
+    },
+    {
+      "date": "15 Sep 2016",
+      "date_iso": "2016-09-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC's review considered the likely effects of the proposed acquisition on: - the supply of news and information to readers/consumers in Western Australia - the supply of Western Australian advertising opportunities in print newspapers - the acquisition of news content from content providers. The ACCC did not reach a concluded position on the delineation of the consumer-side market. In particular, the ACCC did not form a final view as to whether print newspapers and online news sites are in the same or separate product markets from a consumer perspective. Instead the ACCC focussed on the degree of constraint the print newspapers and online sites provide on each other for different types of readers. The ACCC also took into account the two-sided nature of media markets, noting that each of SWM and News supply content to readers and advertising opportunities to advertisers.",
+    "Competition analysis": "Supply of news and information to readers/consumers The ACCC's review focussed on the effects on WA-related news, given the broader range of options available for national news. The Sunday Times is published on Sundays, whereas the SWM papers (The West Australian and The Weekend West) are published on weekdays and Saturdays respectively. Despite being published on different days, the information before the ACCC indicated that News and SWM were close competitors, and that some consumers considered SWM's Saturday paper and News' Sunday paper to be substitutes. News and SWM also competed directly through their PerthNow and TheWest websites. The ACCC noted that despite the general decline in print newspaper readership there are still readers who value the print newspaper format and the convenient package of news and information it provides. These consumers in particular would face reduced choice post-acquisition. However, the ACCC concluded that overall, a sufficient range of news choices would remain available to Western Australians, with competing online options including Fairfax's WAtoday and ABC online, as well as TV and radio news. The ACCC also considered that, in the face of growing competition from alternative advertising opportunities, the need for SWM to maintain readership levels in order to ensure advertising revenues would constrain SWM and likely limit its ability to increase prices to consumers or decrease quality as a result of the proposed acquisition. Supply of Western Australian advertising opportunities The ACCC noted that the importance of print newspaper advertising has declined for many categories of advertisers, who have a range of other advertising choices available to them. There has been a significant reduction in newspaper advertising revenue.  However, there are still some categories of advertisers who value the ability to access print readership newspapers, for example because of its older readership profile, the ability to place time-sensitive ads or to target potential purchasers (particularly of higher value items) who are just browsing rather than actively searching for a product. Nevertheless, even advertisers who were concerned about the proposed acquisition were often able to point to alternate media that they could use for some or all of their advertising if SWM attempted to increase advertising rates post-acquisition. While no single alternate form of advertising would replace the constraint that News currently imposes on SWM, the ACCC considered that the various advertising alternatives, including online, radio and TV, would collectively impose sufficient constraint on SWM post-acquisition. Content markets In relation to the acquisition of news content from content providers, the ACCC considered that the removal of a single customer was unlikely to adversely affect competition."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1629",
+  "title": "Acquirer: Coles Myer Ltd; Target: IGA Narrandera",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coles-myer-ltd-target-iga-narrandera",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16264",
+  "industries": [],
+  "date_completed": "10 July 2002",
+  "date_completed_iso": "2002-07-10T12:00:00Z",
+  "date_commenced": "2 July 2002",
+  "date_commenced_iso": "2002-07-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coles Myer Ltd"
+  ],
+  "targets": [
+    "IGA Narrandera"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 2 July Coles Myer Ltd advised the Commission of Bi Lo's intention to purchase the business currently operating as Narrandera IGA at Narrandera NSW.",
+    "Market definition": "The parties own numerous grocery retailing supermarkets.",
+    "Competition analysis": "On 9 July 2002, the Commission decided that the acquisition would be unlikely to substantially lessen competition in the relevant market because: - there is no change in market shares if Narrandera is considered as the relevant market; and - the incremental increase in Coles market share, if a broad, State based market is used is minimal.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "5110"
+  }
+}

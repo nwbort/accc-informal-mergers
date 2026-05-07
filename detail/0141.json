@@ -1,0 +1,44 @@
+{
+  "id": "0141",
+  "title": "London Stock Exchange Group plc - Refinitiv Parent Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/london-stock-exchange-group-plc-refinitiv-parent-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Financial Services Information"
+  ],
+  "date_completed": "1 October 2020",
+  "date_completed_iso": "2020-10-01T12:00:00Z",
+  "date_commenced": "26 June 2020",
+  "date_commenced_iso": "2020-06-26T12:00:00Z",
+  "total_review_days": 69,
+  "acquirers": [
+    "London Stock Exchange Group plc"
+  ],
+  "targets": [
+    "Refinitiv Parent Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 Jun 2020",
+      "date_iso": "2020-06-26T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Jul 2020",
+      "date_iso": "2020-07-24T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Oct 2020",
+      "date_iso": "2020-10-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "London Stock Exchange Group plc ( LSEG ) proposes to acquire Refinitiv Parent Limited ( Refinitiv ). LSEG and Refinitiv are global companies involved in the supply of a broad range of financial markets infrastructure products and services. Refinitiv also has a 54% interest in Tradeweb Markets Inc ( Tradeweb ). LSEG and Refinitiv (including Tradeweb) (together the merged entity ) overlap in the supply of certain financial markets infrastructure products and services. LSEG, Refinitiv and Tradeweb also supply inputs to each other’s’ products and/or services.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on the supply of financial markets infrastructure products and services to financial industry professionals in Australia, including the supply of: trading and clearing services, financial index licensing and benchmark licensing services, and financial data and information via real-time data feeds and terminals. The ACCC did not reach a concluded view on market definition, including whether there are separate markets based on asset classes, as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC examined a number of vertical relationships between LSEG and Refinitiv (including Tradeweb) where one party supplies inputs to the other or its competitors, and horizontal overlaps where both parties supply competing products and services. The ACCC concluded that the proposed acquisition would be unlikely to result in a substantially lessening of competition in any relevant market. Horizontal overlap The ACCC considered the horizontal overlaps in relation to the supply of financial index licensing services, and the development and operation of electronic trading venues for financial instruments. The ACCC concluded there is limited overlap in LSEG and Refinitiv’s activities in these areas in Australia, and therefore did not consider the proposed acquisition raised material horizontal competition concerns. Vertical relationships The ACCC noted that aspects of the relevant markets are subject to forms of regulation. The ACCC considered full and partial foreclosure scenarios that could occur within the scope of the applicable regulations, including both price and non-price based foreclosure (for example, limiting or restricting access or usage of inputs, bundling or tying the supply of inputs, degrading quality and/or latency of inputs). The ACCC also noted that the markets for financial markets infrastructure products are, in general, characterised by interconnected relationships, where large, sophisticated market participants are both customers and competitors of each other across different products and services. Accordingly, the ACCC considered that in many circumstances, the merged entity would likely be constrained by the commercial risk of potential retaliatory foreclosure, in addition to a negative response from industry and the potential for increased regulatory scrutiny. Supply of trading and clearing services LSEG supplies clearing services for over-the-counter interest rate derivatives and foreign exchange derivatives. Refinitiv and Tradeweb operate trading venues for over-the-counter interest rate derivatives and foreign exchange derivatives. The ACCC considered whether the merged entity could favour Refinitiv’s trading venues in the provision of LSEG’s clearing services. The ACCC considered the merged entity would likely have the ability to engage in such a foreclosure strategy, as LSEG’s clearing services are regarded as important to trading venues and participants. The ACCC also considered whether the merged entity could restrict rival clearing services from accessing Refinitiv’s trading venues. The ACCC considered the merged entity may have the ability to engage in a foreclosure strategy. However, the ACCC concluded the merged entity would be unlikely to engage in either form of anticompetitive foreclosure, as a change to the established open access approach would likely lead to commercial, reputational and regulatory risks for the merged entity. Supply of financial data and information via real-time data feeds and terminals LSEG supplies its venue data (e.g. from London Stock Exchange, Borsa Italiana) and SEDOL security identifiers to customers. Customers typically access venue data via a third party real-time data feed and/or terminal provider. Refinitiv currently distributes LSEG venue data via Refinitiv’s Elektron real-time data feed product, and its Eikon terminal product. Refinitiv also supplies RIC security identifiers. The ACCC considered whether the merged entity could foreclose competitors’ access to LSEG’s venue data, SEDOLs and Refinitiv’s real-time data feeds and terminals (including RICs). The ACCC also considered whether the merged entity could foreclose competitors’ ability to distribute their competing financial markets infrastructure products through Refinitiv’s real-time data feeds and terminal products. The ACCC determined the merged entity would likely have the ability to foreclose competitors’ access to certain products including LSEG’s venue data, SEDOLs and Refinitiv’s real-time data feeds (including RICs). These products have unique characteristics that make them important to customers, and are often deeply embedded in customers’ work flows which makes switching difficult and costly. However, in light of the interconnected relationships in the industry, the ACCC considered that the merged entity would likely be constrained by commercial, reputational and regulatory risks. Further, foreclosure could diminish the value of the merged entity’s offering relative to competitors, thus reducing the incentive to foreclose. Supply of index licensing and benchmark licensing services LSEG’s FTSE Russell business supplies indices (including equities and fixed income indices). Refinitiv’s indices and benchmark business includes the WM/Reuters foreign exchange benchmark rates. The ACCC considered whether the merged entity could foreclose competitors’ access to its indices and benchmarks. The merged entity would likely have the ability to foreclose competitors, as its indices and benchmarks have unique characteristics that are important to customers. The WM/Reuters foreign exchange benchmark rates are recognised as the industry standard with no substitute, despite the availability of similar products. Market participants also indicated that for their products which require indices as inputs, once an index is chosen switching is costly and may be undesirable for end customers. However, the ACCC concluded the merged entity would be unlikely to engage in anticompetitive foreclosure given the interconnected relationships in the industry, as it would lead to commercial, reputational and regulatory risks. In addition, the merged entity has incentives to distribute its indices and benchmarks widely to ensure greater uptake, industry recognition and to increase network effects, thus reducing the incentive to foreclose."
+  }
+}

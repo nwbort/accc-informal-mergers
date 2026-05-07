@@ -1,0 +1,44 @@
+{
+  "id": "1164",
+  "title": "TRUEnergy Australia Pty Ltd - proposed acquisition of Powerdirect Australia Pty Ltd, Powerdirect Utility Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/truenergy-australia-pty-ltd-proposed-acquisition-of-powerdirect-australia-pty-ltd-powerdirect-utility-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26808",
+  "industries": [
+    "Electricity"
+  ],
+  "date_completed": "23 January 2007",
+  "date_completed_iso": "2007-01-23T12:00:00Z",
+  "date_commenced": "20 December 2006",
+  "date_commenced_iso": "2006-12-20T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "TRUEnergy Australia Pty Ltd"
+  ],
+  "targets": [
+    "Powerdirect Australia Pty Ltd<br/> Powerdirect Utility Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Dec 2006",
+      "date_iso": "2006-12-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "17 Jan 2007",
+      "date_iso": "2007-01-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "23 Jan 2007",
+      "date_iso": "2007-01-23T12:00:00Z",
+      "event": "ACCC decided that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "TRUenergy Australia Pty Ltd requested an informal review of its proposed acquisition of Powerdirect Australia Pty Ltd and Powerdirect Utility Services Pty Ltd (together Powerdirect), which are being sold as part of a tender process being run by the Queensland Government.",
+    "Market definition": "In terms of analysing energy retailing, the ACCC took an approach of looking at aggregation on a state by state basis.  The ACCC did not reach a concluded view on whether there were state-based markets in retailing or a wider market, since geographic market definition was not critical to the outcome of the competition analysis, but the ACCC noted that a state by state analysis was important in order to fully consider the competition issues given that: -\tseveral retailers, particularly those that are government-owned, have limited operations outside of their home state; -\tconcentration measures vary widely in different areas. The ACCC noted that the Queensland Government intended to introduce full retail contestability on 1 July 2007. The ACCC considered that the relevant product was the retailing of electricity.  The ACCC considered the possibility that gas and electricity retailing might be in the same market, at least in some areas, and the possibility that retailing to small customers can be quite distinct from retailing to large commercial and industrial customers.",
+    "Competition analysis": "The ACCC noted that in Queensland TRUenergy's electricity retail interests were very limited.  The ACCC noted that TRUenergy supplied a small number of gas commercial and industrial customers.   Given TRUenergy's limited operations in Queensland, the ACCC considered that the proposed acquisition would not raise any concerns in Queensland. In terms of the other states, the ACCC noted that Powerdirect had a not insignificant retail presence, particularly in South Australia and Victoria.  The proposed acquisition would have resulted in aggregation of Powerdirect's retail operations with TRUenergy's retail operations in these states, particularly in Victorian electricity retailing.  However, given the relatively small increase in TRUenergy's share of electricity retail customers in each state and given the competition that would be provided by other retailers, in particular AGL Energy and Origin Energy, the ACCC concluded that a substantial lessening of comeptition was unlikely outside of Queensland. The ACCC also assessed the broader implications of the proposed acquisition.  While TRUenergy's position as a significant retailer across the eastern seaboard would have been further cemented by the proposed acquisition, the existence of other large retailers, in particular AGL Energy and Origin Energy, was recognised as a constraint."
+  }
+}

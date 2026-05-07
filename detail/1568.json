@@ -1,0 +1,31 @@
+{
+  "id": "1568",
+  "title": "Acquirer: Healthscope Limited; Target: Mayne Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-healthscope-limited-target-mayne-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17316",
+  "industries": [],
+  "date_completed": "2 April 2003",
+  "date_completed_iso": "2003-04-02T12:00:00Z",
+  "date_commenced": "6 February 2003",
+  "date_commenced_iso": "2003-02-06T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Healthscope Limited"
+  ],
+  "targets": [
+    "Mayne Group Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Healthscope Ltd proposes to acquire 6 hospital businesses from Mayne Group Ltd. After considering a wide range of information, the Commission decided not to oppose this acquisition.",
+    "Market definition": "The relevant markets are for the provision of private hospital services to patients and private health insurers in Canberra, Geelong, North Sydney, Southern Tasmania and Northern Tasmania.",
+    "Competition analysis": "In North Sydney, Geelong, Canberra and Southern Tasmnaia there will be no change to the current market structure and Healthscope is merely replacing Mayne as a competitor in these markets. Hence, an SLC is unlikely.  In Northern Tasmania, an SLC is unlikely because there are other significant competitors in the market, the oversupply of beds in Tasmania acts as an incentive to remain competitive and health funds will exercise some degree of countervailing power.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Press",
+    "ANZSIC code": "8611"
+  }
+}

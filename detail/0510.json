@@ -1,0 +1,44 @@
+{
+  "id": "0510",
+  "title": "Sportingbet PLC - possible acquisition of Centrebet International Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sportingbet-plc-possible-acquisition-of-centrebet-international-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45865",
+  "industries": [
+    "Wagering"
+  ],
+  "date_completed": "1 July 2011",
+  "date_completed_iso": "2011-07-01T12:00:00Z",
+  "date_commenced": "16 May 2011",
+  "date_commenced_iso": "2011-05-16T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Sportingbet PLC"
+  ],
+  "targets": [
+    "Centrebet International Limited"
+  ],
+  "timeline": [
+    {
+      "date": "16 May 2011",
+      "date_iso": "2011-05-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2011",
+      "date_iso": "2011-06-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Jul 2011",
+      "date_iso": "2011-07-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sportingbet PLC (Sportingbet) proposed to acquire 100% of the shares of Centrebet International Limited (CIL).",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of a national market for wagering on racing events and a national market for wagering on sporting events.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market for the following reasons: - post acquisition, the merged firm would continue to be constrained by the totalisators and other corporate bookmakers; - punters would continue to have many alternative suppliers of wagering services; - the ability of punters to readily compare odds and minimal switching costs would constrain the merged firm from an attempted increase in margin or diminished service offering; and - although barriers to entry appear to be high, growth in the size of wagering markets in recent years has provided incentive for new entry."
+  }
+}

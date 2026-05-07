@@ -1,0 +1,49 @@
+{
+  "id": "1176",
+  "title": "Proposed merger of Medical Defence Association of Victoria and United Medical Protection Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-of-medical-defence-association-of-victoria-and-united-medical-protection-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25663",
+  "industries": [
+    "Medical Insurance"
+  ],
+  "date_completed": "19 December 2006",
+  "date_completed_iso": "2006-12-19T12:00:00Z",
+  "date_commenced": "18 October 2006",
+  "date_commenced_iso": "2006-10-18T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "Medical Defence Association Victoria"
+  ],
+  "targets": [
+    "United Medical Protection Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Oct 2006",
+      "date_iso": "2006-10-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "2 Nov 2006",
+      "date_iso": "2006-11-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Dec 2006",
+      "date_iso": "2006-12-14T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings delayed to allow for further consideration."
+    },
+    {
+      "date": "19 Dec 2006",
+      "date_iso": "2006-12-19T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Medical Defence Association of Victoria proposes to merge with United Medical Protection Limited (UNITED).",
+    "Market definition": "The relevant market was considered to be the national market for the provision of medical indemnity insurance (MII).",
+    "Competition analysis": "The ACCC's inquiries indicated that in the national market for the provision of MII, the merged entity would continue to face a credible competitive constraint from other MII providers. Issues were raised by several market participants regarding the potential ability of all components of the merged entity to enjoy the benefits currently granted only to UNITED through its participation in the Commonwealth's Incurred But Not Reported (IBNR) liability scheme. However, the ACCC's inquiries indicated that a merger involving UNITED would not reduce or extend the Commonwealth's liability in relation to the IBNR scheme. After consideration of the merger factors the ACCC formed the view that the proposed merger was unlikely to result in a substantial lessening of competition in the relevant market."
+  }
+}

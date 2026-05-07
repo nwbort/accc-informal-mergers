@@ -1,0 +1,49 @@
+{
+  "id": "0060",
+  "title": "Metcash Trading Limited - SFG Group Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metcash-trading-limited-sfg-group-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Food services"
+  ],
+  "date_completed": "26 April 2024",
+  "date_completed_iso": "2024-04-26T12:00:00Z",
+  "date_commenced": "26 February 2024",
+  "date_commenced_iso": "2024-02-26T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Metcash Trading Limited (Metcash)"
+  ],
+  "targets": [
+    "SFG Group Holdings Pty Ltd (Superior Foods)"
+  ],
+  "timeline": [
+    {
+      "date": "27 Feb 2024",
+      "date_iso": "2024-02-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Mar 2024",
+      "date_iso": "2024-03-12T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "18 Apr 2024",
+      "date_iso": "2024-04-18T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (23 May 2024) brought forward."
+    },
+    {
+      "date": "26 Apr 2024",
+      "date_iso": "2024-04-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 5 February 2024, Metcash announced that it is seeking to acquire Superior Foods by way of a Share Sale Agreement. Metcash is an ASX-listed wholesale distribution company with a food division that supplies dry grocery and fresh foods to independent supermarkets and convenience stores, including IGA, Foodland, Foodworks and Lucky 7 brands. Metcash also operates Campbells, which supplies food and food adjacent products to customers in all states and territories in Australia (excluding Tasmania). Superior Foods is a privately-owned food services distributor and supplies a wide range of dry, chilled, frozen, meat, small goods and seafood lines to food service businesses in all states and territories in Australia (excluding Northern Territory). It trades under Superior Food Services, Mooloolah River Fisheries, Kay’s Meats, Global Meats and Sealanes. Metcash and Superior Foods overlap in the supply of food services in Australia. The parties also overlap in the acquisition of certain food products from manufacturers and processors.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition in: Market/s for the acquisition of food products from manufacturers and suppliers. These markets are typically national markets, but in some cases may be regional/state based. National and regional market/s for the wholesale supply and distribution of products to food services customers (such as restaurants, cafes, hotels, hospitals and convenience outlets).",
+    "Competition analysis": "The ACCC considered a number of potential theories of harm and concluded that the proposed acquisition is not likely to substantially lessen competition in any market. Effect on suppliers Although Metcash and Superior acquire overlapping categories of food products, the combined entity will account for a small percentage of total acquisitions in the food acquisition market. There will remain several significant acquirers of these products, including supermarkets and the other competing national and regional food services wholesalers. Effect on food service customers The parties overlap, to a limited degree, in the wholesale supply and distribution of food products to food services customers. The ACCC found that although Metcash does supply some products to some food services customers, it does not have a core food service offering and has a different operating model for the food services industry. Metcash predominantly supplies the food services industry through its Campbells business, which mainly operates through a warehouse cash and carry model with very limited distribution capability, whereas Superior Foods is focused on delivery to food services customers. Accordingly, Metcash does not have a significant market share and any horizontal aggregation will be limited.  This is consistent with market feedback that Metcash does not compete closely with Superior. Post acquisition the merger parties will continue to be constrained by a number of close competitors including Woolworths-PFD, Bidfood and national buying groups. Potential for vertical foreclosure The ACCC also heard that Metcash currently supplies some products to some smaller food service wholesalers. The ACCC considered whether, post‑acquisition, Metcash would have the ability and/or incentive to foreclose supply to these wholesalers, in order to preference Superior. The ACCC found that to the extent Metcash is supplying competing food service wholesalers, such supply is minimal. The ACCC found that the larger food service wholesalers, such as PFD and Bidfood are able to bypass Metcash and acquire goods directly from manufacturers. In relation to smaller wholesalers, the ACCC also found that Metcash is unlikely to have the incentive to foreclose supply, particularly given that it would face strong competition in the downstream wholesale food service market, and it would therefore be unlikely to capture foreclosed sales."
+  }
+}

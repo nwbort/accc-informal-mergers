@@ -1,0 +1,90 @@
+{
+  "id": "0289",
+  "title": "Sea Swift Pty Ltd - proposed acquisition of Toll Marine Logistics Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sea-swift-pty-ltd-proposed-acquisition-of-toll-marine-logistics-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56246",
+  "industries": [
+    "Coastal and community shipping"
+  ],
+  "date_completed": "9 July 2015",
+  "date_completed_iso": "2015-07-09T12:00:00Z",
+  "date_commenced": "9 December 2014",
+  "date_commenced_iso": "2014-12-09T12:00:00Z",
+  "total_review_days": 81,
+  "acquirers": [
+    "Sea Swift Pty Ltd"
+  ],
+  "targets": [
+    "Toll Marine Logistics Australia"
+  ],
+  "timeline": [
+    {
+      "date": "9 Dec 2014",
+      "date_iso": "2014-12-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Jan 2015",
+      "date_iso": "2015-01-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Feb 2015",
+      "date_iso": "2015-02-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "25 Feb 2015",
+      "date_iso": "2015-02-25T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "13 Mar 2015",
+      "date_iso": "2015-03-13T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "16 Mar 2015",
+      "date_iso": "2015-03-16T12:00:00Z",
+      "event": "ACCC received responses to the ACCC's request on 25 February from the merger parties. The ACCC also issued a separate information request to both parties. Original proposed decision date of 16 April 2015 delayed."
+    },
+    {
+      "date": "2 Apr 2015",
+      "date_iso": "2015-04-02T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "29 Apr 2015",
+      "date_iso": "2015-04-29T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "7 May 2015",
+      "date_iso": "2015-05-07T12:00:00Z",
+      "event": "ACCC received further information requested from the parties on 29 April."
+    },
+    {
+      "date": "11 Jun 2015",
+      "date_iso": "2015-06-11T12:00:00Z",
+      "event": "Former ACCC decision date of 11 June delayed at the merger parties' request to allow them to provide information about the revised transaction and offer undertakings to resolve the competition concerns."
+    },
+    {
+      "date": "29 Jun 2015",
+      "date_iso": "2015-06-29T12:00:00Z",
+      "event": "The ACCC accepted a short-term section 87B undertaking, under which Toll commits to maintain the Toll Marine Logistics business until 30 November 2015 unless the matter is resolved sooner or in other agreed circumstances. This is separate from the undertakings offered by the parties to address the competition concerns, which the ACCC did not ultimately accept."
+    },
+    {
+      "date": "9 Jul 2015",
+      "date_iso": "2015-07-09T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sea Swift Pty Ltd proposed to acquire assets associated with the Toll Marine Logistics business. Click here for answers to some frequently asked questions about the ACCC's decision.",
+    "Market definition": "Please see below.",
+    "Competition analysis": "This matter was the subject of a merger authorisation application to the Australian Competition Tribunal in 2016 [ACT 2 of 2016]. Please refer to the Australian Competition Tribunal's published decision for further details about the ACCC's analysis of this matter.",
+    "Undertakings": "On 29 June 2015 the ACCC accepted an undertaking from Toll that Toll will not cease providing marine freight services in the Northern Territory and Far North Queensland before 30 November 2015 unless the matter is resolved sooner or in other agreed circumstances. The undertaking formalises commitments Toll provided to the ACCC on 11 June 2015."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0026",
+  "title": "Pace Farm Pty Ltd - Kinross Farm Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pace-farm-pty-ltd-kinross-farm-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Agriculture, Chicken Eggs, Egg Products"
+  ],
+  "date_completed": "22 May 2025",
+  "date_completed_iso": "2025-05-22T12:00:00Z",
+  "date_commenced": "30 January 2025",
+  "date_commenced_iso": "2025-01-30T12:00:00Z",
+  "total_review_days": 101,
+  "acquirers": [
+    "Pace Farm Pty Ltd"
+  ],
+  "targets": [
+    "Kinross Farm Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jan 2025",
+      "date_iso": "2025-01-30T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Feb 2025",
+      "date_iso": "2025-02-13T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "4 Apr 2025",
+      "date_iso": "2025-04-04T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of ACCC's findings (17 April 2025) was delayed."
+    },
+    {
+      "date": "17 Apr 2025",
+      "date_iso": "2025-04-17T12:00:00Z",
+      "event": "Provisional date for announcement of ACCC’s findings (as outlined in the Informal Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues)."
+    },
+    {
+      "date": "1 May 2025",
+      "date_iso": "2025-05-01T12:00:00Z",
+      "event": "ACCC received further information from the parties. ACCC amended former provisional date for announcement of findings to 29 May 2025."
+    },
+    {
+      "date": "22 May 2025",
+      "date_iso": "2025-05-22T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (29 May 2025) brought forward to 22 May 2025. ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pace Farm Pty Ltd (Pace Farm), proposes to acquire the business and assets of Kinross Farm Pty Ltd (Kinross Farms) located in Victoria (the Proposed Acquisition). Both Pace Farm and Kinross Farms supply shell eggs and egg products to customers including retailers, food manufacturers and distributors . Pace Farm is a New South Wales-based egg producer, owned by Roc Partners Pty Ltd, a private equity firm. It is a large supplier of shell eggs in Australia, as well as egg products including fresh and frozen liquid egg products, as well as dried egg products. Kinross Farms is a Victoria-based egg producer. It supplies shell eggs, fertilised eggs, and egg products, including fresh and frozen liquid egg products. Both Pace Farm and Kinross Farms are vertically integrated at various levels of the egg production supply chain. Both parties also : acquire day-old chicks from third party suppliers, own or outsource egg farming facilities, including egg rearing farms and egg laying farms, and operate egg production, grading, and chicken feed facilities.",
+    "Market definition": "The ACCC considered the likely effect of the proposed acquisition on competition in markets for the: supply of shell eggs on the East Coast of Australia supply of liquid egg products on the East Coast of Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the Proposed Acquisition is not likely to substantially lessen competition in any market in Australia. The ACCC’s investigation focused on the impact of the Proposed Acquisition in the supply of shell eggs and liquid egg products on the East Coast of Australia. The ACCC found that the Proposed Acquisition is unlikely to materially increase market concentration in the supply of shell eggs on the East Coast of Australia. Post-acquisition, Pace Farm would likely be competitively constrained by other large and medium sized shell egg suppliers. The ACCC also found that, post-acquisition, Pace Farm would likely be competitively constrained by other suppliers of liquid egg products on the East Coast of Australia. The ACCC also considered that Pace Farm would likely be constrained by the threat of new entry into the supply of liquid egg products or expansion by existing suppliers."
+  }
+}

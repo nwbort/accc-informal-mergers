@@ -1,0 +1,44 @@
+{
+  "id": "0771",
+  "title": "Chinalco (Aluminium Corporation of China) - proposed acquisition of interests in Rio Tinto plc and Rio Tinto Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/chinalco-aluminium-corporation-of-china-proposed-acquisition-of-interests-in-rio-tinto-plc-and-rio-tinto-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36476",
+  "industries": [
+    "Mining"
+  ],
+  "date_completed": "25 March 2009",
+  "date_completed_iso": "2009-03-25T12:00:00Z",
+  "date_commenced": "18 February 2009",
+  "date_commenced_iso": "2009-02-18T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Chinalco (Aluminium Corporation of China)"
+  ],
+  "targets": [
+    "Rio Tinto Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Feb 2009",
+      "date_iso": "2009-02-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Mar 2009",
+      "date_iso": "2009-03-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Mar 2009",
+      "date_iso": "2009-03-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Please refer to the Public Competition Assessment.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1620",
+  "title": "Acquirer: Statehealth Credit Union Ltd; Target: Transport Industries Credit Union Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-statehealth-credit-union-ltd-target-transport-industries-credit-union-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16547",
+  "industries": [],
+  "date_completed": "26 August 2002",
+  "date_completed_iso": "2002-08-26T12:00:00Z",
+  "date_commenced": "19 August 2002",
+  "date_commenced_iso": "2002-08-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Statehealth Credit Union Ltd"
+  ],
+  "targets": [
+    "Transport Industries Credit Union Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission was notified of a pending transfer of the entire business of the Transport Industries Credit Union Limited to the Statehealth Credit Union Limited on 19 August 2002 by the Australian Prudential Regulation Authority.",
+    "Market definition": "Credit unions offer a broad range of financial services.  In the main, credit unions offer savings products including term deposit accounts and transaction accounts, loan products which include personal loans, car loans, mortgage loans and credit cards, as well as financial planning advice and business accounts.  The relevant geographic market is for New South Wales.",
+    "Competition analysis": "The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power.  Given that the proposed merger will not cross the Commission's market power concentration thresholds, a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7323"
+  }
+}

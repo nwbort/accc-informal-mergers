@@ -1,0 +1,53 @@
+{
+  "id": "0954",
+  "title": "Clifford Hallam Healthcare Pty Ltd - proposed acquisition of Cottman Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/clifford-hallam-healthcare-pty-ltd-proposed-acquisition-of-cottman-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30990",
+  "industries": [
+    "Pharmaceuticals and medical consumables"
+  ],
+  "date_completed": "27 February 2008",
+  "date_completed_iso": "2008-02-27T12:00:00Z",
+  "date_commenced": "1 February 2008",
+  "date_commenced_iso": "2008-02-01T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Clifford Hallam Healthcare Pty Ltd"
+  ],
+  "targets": [
+    "Cottman Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Feb 2008",
+      "date_iso": "2008-02-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "5 Feb 2008",
+      "date_iso": "2008-02-05T12:00:00Z",
+      "event": "ACCC requested further information from Clifford Hallam Healthcare. ACCC timeline suspended."
+    },
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "ACCC received further information from Clifford Hallam Healthcare. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Feb 2008",
+      "date_iso": "2008-02-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Feb 2008",
+      "date_iso": "2008-02-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the Western Australian, South Australian, Northern Territory and Victorian markets for the distribution of pharmaceuticals and medical consumable products to non-retail customers (such as hospitals and medical centres).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any market due to: - the effective competitive constraint provided by alternative wholesalers; - the ability of purchasing authorities, buying groups and manufacturers to establish in-house warehousing and distribution or sponsor expansion by an existing wholesaler of pharmaceuticals and/or medical consumable products; and - the existence of potential entrants to the SA, WA, NT and Victorian markets that already have some of the expertise and/or assets required."
+  }
+}

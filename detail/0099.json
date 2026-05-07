@@ -1,0 +1,49 @@
+{
+  "id": "0099",
+  "title": "Liverpool Partners Pty Ltd - Genea Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/liverpool-partners-pty-ltd-genea-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Fertility clinic"
+  ],
+  "date_completed": "23 June 2022",
+  "date_completed_iso": "2022-06-23T12:00:00Z",
+  "date_commenced": "13 May 2022",
+  "date_commenced_iso": "2022-05-13T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Liverpool Partners Pty Ltd"
+  ],
+  "targets": [
+    "Genea Limited"
+  ],
+  "timeline": [
+    {
+      "date": "17 May 2022",
+      "date_iso": "2022-05-17T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "31 May 2022",
+      "date_iso": "2022-05-31T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "23 Jun 2022",
+      "date_iso": "2022-06-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "Liverpool Partners ( LVP ) proposes to acquire 100% of the issued share capital of Genea Limited ( Genea ). LVP is a private equity investor that acquired Adora Fertility Pty Ltd ( Adora ) on 1 June 2022. Adora and Genea both provide fertility services, including In Vitro Fertilisation ( IVF ). Adora operates one fertility clinic in each of Brisbane, Sydney, Melbourne and Perth, with the majority of its treatments being low cost, bulk-billed treatments. Genea provides fertility services in NSW at nine locations and at one location in each of Canberra, Melbourne and Perth. Genea’s fertility services include full service and more affordable offerings. Its more affordable offering operates through one clinic in Wollongong, NSW.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in markets for the supply of fertility services (including IVF) in the metropolitan regions of Perth, Sydney and Melbourne. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise product and geographic scope of these markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Adora and Genea overlap in the supply of fertility services in Perth, Sydney and Melbourne. The ACCC’s investigation focused on competition in Perth and Sydney, as there was limited overlap in Melbourne. In Perth, post-acquisition market concentration would likely be relatively high and there are state-specific regulatory barriers to entry which may reduce the likelihood of new entry. Nevertheless, the ACCC concluded that there was not likely to be a substantial lessening of competition. The merged entity will be competitively constrained by the four remaining competitors in Perth, with a mix of low-cost and full service offerings. Adora and Genea also do not appear to be one another’s closest competitor. They offer differentiated products, targeting different customer segments. Adora focuses on low-cost services and Genea provides a more costly full service offering. The ACCC considered the merged firm was unlikely to significantly alter these offerings. In Sydney, the ACCC concluded a substantial lessening of competition was unlikely as, in addition to the product differentiation discussed above, there are a number of competitors, including recent new entrants, which will competitively constrain the merged firm post-acquisition."
+  }
+}

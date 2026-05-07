@@ -1,0 +1,44 @@
+{
+  "id": "0411",
+  "title": "Woolworths Ltd - completed acquisition of Logan Village Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-completed-acquisition-of-logan-village-centre",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48334",
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "27 November 2012",
+  "date_completed_iso": "2012-11-27T12:00:00Z",
+  "date_commenced": "25 July 2012",
+  "date_commenced_iso": "2012-07-25T12:00:00Z",
+  "total_review_days": 88,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "Logan Village Centre"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jul 2012",
+      "date_iso": "2012-07-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Aug 2012",
+      "date_iso": "2012-08-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Nov 2012",
+      "date_iso": "2012-11-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths acquired the existing retail centre and adjoining vacant land at the corner of North Street and Albert Street, Logan Village, Queensland",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following retail markets: - the local retail supermarket market; - the state-wide retail supermarket market; and - the state-wide market for the wholesale procurement and supply of packaged groceries.",
+    "Competition analysis": "In assessing the completed acquisition of the Logan Village Centre and an adjoining parcel of land by Woolworths Limited, the ACCC examined whether the establishment of a Woolworths supermarket to replace the existing IGA at Logan Village would be likely to substantially lessen competition in the local retail supermarket market surrounding Logan Village. The most likely geographic dimension of this local retail market was considered to be the suburb of Logan Village and proximate surrounding areas, extending up to approximately 5 kilometres from the Logan Village Centre. The ACCC noted that the existing IGA, which was a small format or convenience store of 280 square metres, was the only supermarket within the immediate surrounding area of Logan Village, and was therefore the only convenient supermarket shopping option for local residents. The ACCC had regard to information before it in order to understand the shopping patterns of consumers in Logan Village. This information showed that consumers relied on the existing IGA primarily for its convenience, and visited supermarkets 10km to 15km away to make their more substantial grocery purchases. However, if a full-line supermarket of any brand were established in Logan Village, the information indicated that local consumers would primarily patronise that new supermarket. The more distant full line supermarkets currently patronised would then provide a weak substitute and not provide any significant competitive constraint on the Logan Village supermarket. These findings indicated that, both with and without the completed acquisition, the supermarket at Logan Village would be the only supermarket in the local retail supermarket market. On this basis, the ACCC considered that the completed acquisition resulted in the only supermarket in the local retail supermarket market being substituted for another. The ACCC did not consider that the resulting transfer of market share in that local retail supermarket market would be likely to lead to a substantial lessening of competition. The ACCC took account of alternative potential definitions of the local market. In particular, the Logan Village supermarket might be considered to face some competition from supermarkets across a broader region.  In the wider Logan area, including the towns of Logan Central, Marsden, Waterford, Beenleigh and Jimboomba, there were a number of non-Woolworths supermarket shopping options, including Coles, ALDI and IGA supermarkets. Therefore, the ACCC considered that the acquisition would not be likely to lead to a substantial lessening of competition over that broader area. The ACCC noted the likely establishment of new supermarkets in this area. For example, the ACCC understood a supermarket site would shortly become available in the Yarrabilba development, some 4km by road south of Logan Village. The ACCC also considered the impact of the completed acquisition on the relevant state-wide retail supermarket market and the relevant wholesale procurement and supply markets in Queensland. The ACCC concluded that the completed acquisition was unlikely to substantially lessen competition in these markets."
+  }
+}

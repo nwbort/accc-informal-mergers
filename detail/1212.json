@@ -1,0 +1,49 @@
+{
+  "id": "1212",
+  "title": "Boom Logistics Ltd - acquisitions of the James Group, Camilleri Industries Australia and Sherrin Hire",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/boom-logistics-ltd-acquisitions-of-the-james-group-camilleri-industries-australia-and-sherrin-hire",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25230",
+  "industries": [
+    "Crane distribution and hire"
+  ],
+  "date_completed": "26 September 2006",
+  "date_completed_iso": "2006-09-26T12:00:00Z",
+  "date_commenced": "25 August 2006",
+  "date_commenced_iso": "2006-08-25T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Boom Logistics Ltd"
+  ],
+  "targets": [
+    "James Group"
+  ],
+  "timeline": [
+    {
+      "date": "25 Aug 2006",
+      "date_iso": "2006-08-25T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Sep 2006",
+      "date_iso": "2006-09-01T12:00:00Z",
+      "event": "Market inquiries commence."
+    },
+    {
+      "date": "12 Sep 2006",
+      "date_iso": "2006-09-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Sep 2006",
+      "date_iso": "2006-09-26T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisitions"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Boom Logistics Ltd - acquisitions of the James Group, Camilleri Industries Australia and Sherrin Hire. Boom Logistics Ltd provides lifting solutions to companies including the provision of crane-hire services. James Group, Camilleri Industries Australia and Sherrin Hire provided crane-hire services prior to the acquisitions. James Group also had an exclusive distributorship arrangement with Tadano cranes, which has also been acquired by Boom Logistics Ltd.",
+    "Market definition": "The ACCC considered the following markets in its review of Boom Logistics Ltd's acquisitions: - Regional markets for wet and dry hire of franna and other small cranes; - Regional markets for wet and dry hire of associated lifting equipment; - A national market for the wet and dry hire of crawler and pin jib cranes; - A national market for the wet and dry hire of tower cranes; - A state-wide market for wet and dry hire of rough terrain cranes; - A state-wide market for wet and dry hire of all terrain and hydraulic cranes; and - A national market for the sale and distribution of cranes.",
+    "Competition analysis": "The ACCC considers that Boom Logistics Ltd faces sufficient competitive constraints post-acquisitions and that the acquisitions are unlikely to have caused a substantial lessening of competition in any of the relevant markets. This conclusion is informed by the following factors: -  There are substitutes available to customers in the supply of cranes; - There are other crane-hire competitors available in each relevant crane-hire market; and - Customers of wet and dry hire of rough terrain, all terrain and hydraulic cranes have some countervailing power."
+  }
+}

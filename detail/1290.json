@@ -1,0 +1,26 @@
+{
+  "id": "1290",
+  "title": "WASS Nominees Pty Ltd - proposed acquisition of Quality Salt Co Pty Ltd.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/wass-nominees-pty-ltd-proposed-acquisition-of-quality-salt-co-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23682",
+  "industries": [
+    "Salt"
+  ],
+  "date_completed": "26 April 2006",
+  "date_completed_iso": "2006-04-26T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "WASS Nominees Pty Ltd - proposed acquisition of Quality Salt Co Pty Ltd",
+    "Market definition": "The relevant market is the market for the supply of salt in Western Australia.",
+    "Competition analysis": "WASS and Quality Salt both supply salt in south-west Western Australia. The ACCC considers that the potential for salt to be supplied into south-west Western Australia from, for example, north-west Western Australia, where a substantial amount of salt is produced, would be likely to provide a competitive constraint on the merged company. Consequently, the ACCC considers that the proposed acquisition is unlikely to substantially lessen competition in the relevant market.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

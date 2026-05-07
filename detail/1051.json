@@ -1,0 +1,49 @@
+{
+  "id": "1051",
+  "title": "Village Roadshow Limited - acquisition of Roadshow Distributors Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/village-roadshow-limited-acquisition-of-roadshow-distributors-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29287",
+  "industries": [
+    "Film and DVD distribution"
+  ],
+  "date_completed": "22 August 2007",
+  "date_completed_iso": "2007-08-22T12:00:00Z",
+  "date_commenced": "16 August 2007",
+  "date_commenced_iso": "2007-08-16T12:00:00Z",
+  "total_review_days": 5,
+  "acquirers": [
+    "Village Roadshow Limited"
+  ],
+  "targets": [
+    "Roadshow Distributors Group"
+  ],
+  "timeline": [
+    {
+      "date": "15 Aug 2007",
+      "date_iso": "2007-08-15T12:00:00Z",
+      "event": "Village Roadshow Limited obtained full ownership of Roadshow Distributors Group by acquiring the 50% shareholding held by Amalgamated Holdings Limited."
+    },
+    {
+      "date": "16 Aug 2007",
+      "date_iso": "2007-08-16T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Aug 2007",
+      "date_iso": "2007-08-21T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Village Roadshow Limited has obtained full ownership of Roadshow Distributors Group by acquiring Amalgamated Holdings Limited's holding of 50%.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the national market for film distribution.",
+    "Competition analysis": "On 22 August 2007, the ACCC decided to not intervene in the acquisition. The ACCC considered that the completed acquisition is unlikely to substantially lessen competition in the national market for film distribution because the exit of Amalgamated Holdings Limited from film distribution creates a new non-vertically integrated exhibitor with which film distributors will be able to deal."
+  }
+}

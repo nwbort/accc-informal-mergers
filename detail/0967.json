@@ -1,0 +1,90 @@
+{
+  "id": "0967",
+  "title": "A&R Whitcoulls Group Holdings Pty Limited (Angus & Robertson) - proposed acquisition of Borders Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ar-whitcoulls-group-holdings-pty-limited-angus-robertson-proposed-acquisition-of-borders-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29740",
+  "industries": [
+    "Books"
+  ],
+  "date_completed": "13 February 2008",
+  "date_completed_iso": "2008-02-13T12:00:00Z",
+  "date_commenced": "8 October 2007",
+  "date_commenced_iso": "2007-10-08T12:00:00Z",
+  "total_review_days": 67,
+  "acquirers": [
+    "A&R Whitcoulls Group Holdings Pty Limited (Angus & Robertson)"
+  ],
+  "targets": [
+    "Borders Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Oct 2007",
+      "date_iso": "2007-10-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Oct 2007",
+      "date_iso": "2007-10-12T12:00:00Z",
+      "event": "ACCC to commence market inquiries."
+    },
+    {
+      "date": "26 Oct 2007",
+      "date_iso": "2007-10-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Nov 2007",
+      "date_iso": "2007-11-13T12:00:00Z",
+      "event": "ACCC requested further information from A&R Whitcoulls. ACCC timeline suspended."
+    },
+    {
+      "date": "22 Nov 2007",
+      "date_iso": "2007-11-22T12:00:00Z",
+      "event": "ACCC received further information from A&R Whitcoulls. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Nov 2007",
+      "date_iso": "2007-11-28T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "5 Dec 2007",
+      "date_iso": "2007-12-05T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "19 Dec 2007",
+      "date_iso": "2007-12-19T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings - amended to allow for provision of additional information from A&R Whitcoulls, and analysis of information gathered during market inquiries."
+    },
+    {
+      "date": "20 Dec 2007",
+      "date_iso": "2007-12-20T12:00:00Z",
+      "event": "ACCC requested further information from A&R Whitcoulls. ACCC timeline suspended."
+    },
+    {
+      "date": "15 Jan 2008",
+      "date_iso": "2008-01-15T12:00:00Z",
+      "event": "ACCC received further information from A&R Whitcoulls. ACCC timeline recommenced."
+    },
+    {
+      "date": "30 Jan 2008",
+      "date_iso": "2008-01-30T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for analysis of additional information provided by A&R Whitcoulls."
+    },
+    {
+      "date": "6 Feb 2008",
+      "date_iso": "2008-02-06T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for analysis of additional information provided by A&R Whitcoulls."
+    },
+    {
+      "date": "13 Feb 2008",
+      "date_iso": "2008-02-13T12:00:00Z",
+      "event": "ACCC announced its decision to not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {}
+}

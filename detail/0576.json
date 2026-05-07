@@ -1,0 +1,44 @@
+{
+  "id": "0576",
+  "title": "Allianz Australia Insurance Limited - completed acquisition of shares in Primacy Underwriting Agency Pty Limited and Agicola Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/allianz-australia-insurance-limited-completed-acquisition-of-shares-in-primacy-underwriting-agency-pty-limited-and-agicola-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41649",
+  "industries": [
+    "Insurance"
+  ],
+  "date_completed": "10 November 2010",
+  "date_completed_iso": "2010-11-10T12:00:00Z",
+  "date_commenced": "1 June 2010",
+  "date_commenced_iso": "2010-06-01T12:00:00Z",
+  "total_review_days": 114,
+  "acquirers": [
+    "Allianz Australia Insurance Limited"
+  ],
+  "targets": [
+    "Agricola Holdings Pty Ltd<br/> Primacy Underwriting Agency Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "1 Jun 2010",
+      "date_iso": "2010-06-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jun 2010",
+      "date_iso": "2010-06-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Nov 2010",
+      "date_iso": "2010-11-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Allianz Australia Insurance Limited has acquired 70% of the shares in Primacy Underwriting Agency Pty Ltd and 60% of the shares in Agricola Holdings Pty Ltd.",
+    "Market definition": "The ACCC considered the completed acquisitions within the context of the national market for the supply of underwriting agency services to crop insurers. These services may include the distribution of crop insurance products to brokers and consumers.",
+    "Competition analysis": "Due to the availability of substitutes, the availability of new entry and the significant countervailing power of insurance companies, the ACCC considered that the completed acquisitions were unlikely to substantially lessen competition in the market for the supply of crop insurance underwriting agency services to crop insurers, including the distribution of crop insurance products to brokers and consumers."
+  }
+}

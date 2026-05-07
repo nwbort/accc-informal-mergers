@@ -1,0 +1,54 @@
+{
+  "id": "0055",
+  "title": "Datasite LLC- Ansarada Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/datasite-llc-ansarada-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Software - Technology as a service"
+  ],
+  "date_completed": "24 July 2024",
+  "date_completed_iso": "2024-07-24T12:00:00Z",
+  "date_commenced": "27 March 2024",
+  "date_commenced_iso": "2024-03-27T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "DS Answer Pty Ltd"
+  ],
+  "targets": [
+    "Ansarada Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 Mar 2024",
+      "date_iso": "2024-03-27T12:00:00Z",
+      "event": "ACCC commenced review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Apr 2024",
+      "date_iso": "2024-04-12T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "8 May 2024",
+      "date_iso": "2024-05-08T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties.  Former provisional date for announcement of ACCC's findings (6 June 2024) is delayed.  The ACCC will announce a revised proposed decision date in due course."
+    },
+    {
+      "date": "9 Jul 2024",
+      "date_iso": "2024-07-09T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "24 Jul 2024",
+      "date_iso": "2024-07-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "DS Answer Pty Ltd is a wholly owned subsidiary of Mermaid EquityCo L.P., which owns and controls Datasite, LLC ( Datasite ). On 13 February 2024, Ansarada announced that it signed a scheme implementation deed with Datasite to acquire 100% of the fully diluted share capital in Ansarada Group Limited ( Ansarada ) by way of a Scheme of Arrangement. Datasite is a US incorporated software as a service ( SaaS ) platform used by enterprises to execute strategic projects. Datasite’s product suite includes virtual data room ( VDR ) solutions, board reporting solutions, a pipeline management application, a market intelligence application and a project marketing platform. Datasite provides services in Australia and overseas, with its users primarily located in North America and EMEA. Ansarada is an ASX listed provider of a SaaS platform comprising 5 solutions: VDR and transaction management, board management, compliance, ESG and procurement solutions. Ansarada’s largest product is ‘Deals’, a VDR solution for an end-to-end transaction process. It also offers a centralised platform for procurement processes, and secure file sharing and storage tools. Datasite and Ansarada overlap in the supply of VDRs and transaction management software solutions in Australia. VDR and transaction management software solutions are part of the enterprise content and collaboration ( ECC ) industry, used by organisations to manage and share documents, data and information for transaction use cases, such as mergers and acquisitions, debt and equity capital raising transactions or bankruptcy.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in market(s) for: the supply of VDR solutions in Australia the supply of transaction management software solutions in Australia the supply of ECC solutions in Australia. It was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market. The ACCC considered that Datasite is unlikely to have been a strong competitive constraint on Ansarada in the absence of the proposed acquisition. The ACCC also found that the merged entity would likely be constrained by alternative providers of VDR solutions in Australia, including Intralinks, and, to some extent, providers of ECC solutions, including Dropbox, Box, Microsoft SharePoint, and Google Drive. In addition, the ACCC recognised the global nature of VDR solutions and considered the threat of entry or expansion by a large overseas based VDR and/or ECC provider into the supply of VDR solutions in Australia would likely constrain the merged entity. Certain customers may also hold countervailing buyer power due to their ability to either develop internal solutions or sponsor new entry or expansion. The ACCC also concluded that outside of the supply of VDR solutions, the parties do not compete strongly in the broader supply of transaction management software in Australia and considered they were unlikely to be close competitors in the foreseeable future."
+  }
+}

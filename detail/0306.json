@@ -1,0 +1,44 @@
+{
+  "id": "0306",
+  "title": "Mayborn Group Limited - proposed acquisition of certain assets of Jackel Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mayborn-group-limited-proposed-acquisition-of-certain-assets-of-jackel-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "56276",
+  "industries": [
+    "Baby and toddler feeding accessories"
+  ],
+  "date_completed": "28 January 2015",
+  "date_completed_iso": "2015-01-28T12:00:00Z",
+  "date_commenced": "26 November 2014",
+  "date_commenced_iso": "2014-11-26T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Mayborn Group Limited"
+  ],
+  "targets": [
+    "Jackel Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "26 Nov 2014",
+      "date_iso": "2014-11-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Dec 2014",
+      "date_iso": "2014-12-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Jan 2015",
+      "date_iso": "2015-01-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Mayborn Group Limited proposed to acquire certain assets of Jackel Pty Ltd relating to the manufacture and distribution of baby and toddler feeding accessories. Mayborn supplied the 'Closer to Nature' and 'Explora' brands. Jackel supplied the 'Tommee Tippee' and 'Happy Baby' brands.",
+    "Market definition": "The ACCC considered the likely effect of the proposed acquisition on competition in separate, national, wholesale markets for the supply of the following types of baby and toddler feeding accessories: -bottles and bottle accessories; -breast pumps and accessories; -soothers; -sterilisers; -formula dispensers; -cups; -cutlery/utensils; and -tableware. The ACCC did not consider it necessary to form a definitive view on the relevant markets because competition concerns were unlikely to arise regardless of the product dimension adopted.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to have the effect of substantially lessening competition in any of the relevant markets. In reaching this view, the ACCC considered each of the product categories in which the merger parties overlapped. The ACCC found that: -For product categories used by infants such as bottles and soothers, consumers have a strong preference to purchase from known and trusted brands. Following the proposed acquisition, the ACCC found that there would be a sufficient number of alternative established and trusted brands to constrain the merged entity in relation to the supply of these products. -For product categories relating to toddler feeding such as cups, cutlery and tableware, brand is less important and that a number of competitors would remain to constrain the merged entity."
+  }
+}

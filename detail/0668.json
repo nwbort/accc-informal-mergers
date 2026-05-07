@@ -1,0 +1,64 @@
+{
+  "id": "0668",
+  "title": "Virbac Group - proposed acquisition of the Fort Dodge livestock business of Pfizer Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/virbac-group-proposed-acquisition-of-the-fort-dodge-livestock-business-of-pfizer-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39636",
+  "industries": [
+    "Pharamaceuticals"
+  ],
+  "date_completed": "27 January 2010",
+  "date_completed_iso": "2010-01-27T12:00:00Z",
+  "date_commenced": "18 November 2009",
+  "date_commenced_iso": "2009-11-18T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Virbac Group"
+  ],
+  "targets": [
+    "Fort Dodge livestock business of Pfizer Inc"
+  ],
+  "timeline": [
+    {
+      "date": "18 Nov 2009",
+      "date_iso": "2009-11-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Nov 2009",
+      "date_iso": "2009-11-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Dec 2009",
+      "date_iso": "2009-12-09T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, indicative decision date amended at Pfizer's request."
+    },
+    {
+      "date": "14 Jan 2010",
+      "date_iso": "2010-01-14T12:00:00Z",
+      "event": "ACCC commenced review of proposed purchaser notice submitted by Pfizer."
+    },
+    {
+      "date": "15 Jan 2010",
+      "date_iso": "2010-01-15T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, indicative decision date amended due to receipt of proposed purchaser notice."
+    },
+    {
+      "date": "21 Jan 2010",
+      "date_iso": "2010-01-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties in relation to proposed purchaser criteria."
+    },
+    {
+      "date": "27 Jan 2010",
+      "date_iso": "2010-01-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 30 September 2009, the ACCC announced its decision not to oppose Pfizer Inc's proposed merger with Wyeth Corp, subject to a section 87B undertaking (the Undertaking).  The Undertaking addressed competition concerns identified by the ACCC in a number of animal health markets. Under the Undertaking, Pfizer was required to divest the Fort Dodge livestock business in Australia to a purchaser approved by the ACCC. Pfizer proposed to sell the Fort Dodge livestock business to Virbac Group and therefore lodged a proposed purchaser notice seeking the ACCC's approval of Virbac as the proposed purchaser of the Fort Dodge livestock business pursuant to the Undertaking (proposed acquisition).",
+    "Market definition": "The ACCC considered Virbac's suitability as a proposed purchaser according to the criteria established in clause 7.3(b) of the Undertaking and pursuant to s50 of the Trade Practies Act 1974. The following markets were considered relevant to the proposed acquisition: - the national market for the supply of endectocides  for worm control in cattle; and - the national market for the supply of endoparasiticides  and endectocides for worm control in sheep.",
+    "Competition analysis": "The ACCC considered that there was no reason for it to withhold approval from Virbac as an approved purchaser of the Fort Dodge livestock business, in accordance with the criteria set out in clause 7.3(b) of the Undertaking. In addition, the ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - Virbac's products would face strong competition from generic alternatives; and - the proposed acquisition was unlikely to result in the removal of a significant source of competitive tension from the relevant markets."
+  }
+}

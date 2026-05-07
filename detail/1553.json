@@ -1,0 +1,31 @@
+{
+  "id": "1553",
+  "title": "Acquirer: OneSteel Reinforcing Pty Ltd; Target: Marner Steel and Mesh",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-onesteel-reinforcing-pty-ltd-target-marner-steel-and-mesh",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17783",
+  "industries": [],
+  "date_completed": "4 June 2003",
+  "date_completed_iso": "2003-06-04T12:00:00Z",
+  "date_commenced": "19 May 2003",
+  "date_commenced_iso": "2003-05-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "OneSteel Reinforcing Pty Ltd"
+  ],
+  "targets": [
+    "Marner Steel and Mesh"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "OneSteel Reinforcing Pty Ltd located in Adelaide proposes to acquire Marner Steel and Mesh also based in Adelaide.",
+    "Market definition": "The South Australian market for steel reinforcing bar and mesh",
+    "Competition analysis": "Following market inquiries with competitors and customers, the Commission considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition because: OneSteel intends to maintain the Marner operations and service its present customer base; Two other producers, Smorgon ARC and Bianco, are capable of competing actively with the merged entity; and Recent entry by Bianco and price discounting suggest the market will remain both contestable and competitive.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2741"
+  }
+}

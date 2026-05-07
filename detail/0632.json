@@ -1,0 +1,49 @@
+{
+  "id": "0632",
+  "title": "Woolworths Limited - completed acquisition of a supermarket site at Tura Beach NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-completed-acquisition-of-a-supermarket-site-at-tura-beach-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41039",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "1 June 2010",
+  "date_completed_iso": "2010-06-01T12:00:00Z",
+  "date_commenced": "19 March 2010",
+  "date_commenced_iso": "2010-03-19T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Supermarket site at Tura Beach NSW"
+  ],
+  "timeline": [
+    {
+      "date": "14 Aug 2009",
+      "date_iso": "2009-08-14T12:00:00Z",
+      "event": "Woolworths acquired the Tura Beach supermarket site."
+    },
+    {
+      "date": "19 Mar 2010",
+      "date_iso": "2010-03-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Apr 2010",
+      "date_iso": "2010-04-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Jun 2010",
+      "date_iso": "2010-06-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths acquired a supermarket site located at the corner of Sapphire Coast Drive and Tura Beach Drive, Tura Beach, NSW.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of separate local retail markets within a geographic radius of 5-10 kilometres surrounding the target supermarket site for the supply of supermarket and takeaway packaged liquor products. The ACCC also considered separate state-based markets for the acquisition of supermarket and takeaway package liquor products.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in any of the relevant markets. The ACCC considered that, in the absence of the completed acquisition by Woolworths, it was unlikely that a rival supermarket would have commenced trading at the Tura Beach supermarket site in the foreseeable future. It appeared likely that Woolworths would have continued to operate the only full-line supermarket/s in the relevant local retail supermarket market, with or without the completed acquisition. Accordingly, the ACCC concluded that the completed acquisition by Woolworths did not hinder or prevent competition in the relevant markets. The ACCC also noted the potential for increased competition in the future given the presence of development sites in nearby Merimbula, NSW, that may facilitate the entry of an alternative full-line supermarket in the relevant local retail supermarket market."
+  }
+}

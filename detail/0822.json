@@ -1,0 +1,50 @@
+{
+  "id": "0822",
+  "title": "Woolworths Ltd - proposed acquisition of a supermarket lease in Wallaroo, South Australia.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-proposed-acquisition-of-a-supermarket-lease-in-wallaroo-south-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33588",
+  "industries": [
+    "Retail"
+  ],
+  "date_completed": "11 December 2008",
+  "date_completed_iso": "2008-12-11T12:00:00Z",
+  "date_commenced": "22 October 2008",
+  "date_commenced_iso": "2008-10-22T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "Supermarket lease in Wallaroo South Australia"
+  ],
+  "timeline": [
+    {
+      "date": "22 Oct 2008",
+      "date_iso": "2008-10-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Nov 2008",
+      "date_iso": "2008-11-26T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Proposed date for announcement of ACCC's findings amended from 3 December 2008 to 21 January 2009."
+    },
+    {
+      "date": "10 Dec 2008",
+      "date_iso": "2008-12-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Dec 2008",
+      "date_iso": "2008-12-11T12:00:00Z",
+      "event": "ACCC review terminated as the proposed transaction will no longer proceed for commercial reasons as between the land owner and the developer."
+    }
+  ],
+  "body_sections": {}
+}

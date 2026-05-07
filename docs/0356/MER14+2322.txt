@@ -1,0 +1,931 @@
+Page 1 of 18 
+ 
+Public Competition Assessment 
+25 February 2014 
+Thermo Fisher Scientific Inc – proposed acquisition of Life 
+Technologies Corporation 
+Introduction 
+1. On 19 December 2013, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of Life 
+Technologies Corporation by Thermo Fisher Scientific Inc (proposed 
+acquisition), subject to section 87B undertakings accepted by the ACCC on 19 
+December 2013 (the undertakings). The ACCC decided that the proposed 
+acquisition, in conjunction with the undertakings, would be unlikely to have the 
+effect of substantially lessening competition in the markets for the manufacture and 
+supply of foetal bovine serum (FBS) sourced from Australia and New Zealand, the 
+supply of cell culture media, and the supply of siRNA in Australia in contravention 
+of section 50 of the Competition and Consumer Act 2010 (the Act). 
+2. The ACCC made its decision on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ 
+a merger is opposed; 
+ 
+a merger is subject to enforceable undertakings; 
+ 
+the merger parties seek such disclosure; or 
+ 
+a merger is not opposed but raises important issues that the ACCC 
+considers should be made public. 
+4. This Public Competition Assessment has been issued because Thermo Fisher 
+Scientific Inc’s proposed acquisition of Life Technologies Corporation is subject to 
+a court enforceable undertaking. 
+5. By issuing Public Competition Assessments, the ACCC aims to provide the public 
+with a better understanding of the ACCC's analysis of various markets and the 
+
+
+ 
+Page 2 of 18 
+associated merger and competition issues. It also alerts the public to 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change. 
+6. Each Public Competition Assessment is specific to the particular transaction under 
+review by the ACCC. While some transaction proposals may involve the same or 
+related markets, it should not be assumed that the analysis and decision outlined 
+in one Public Competition Assessment will be conclusive of the ACCC’s view in 
+respect of other transaction proposals, as each matter will be considered on its 
+own merits. 
+7. Public Competition Assessments outline the ACCC’s principal reasons for forming 
+views on a proposed acquisition at the time the decision was made. As such Public 
+Competition Assessments may not definitively identify and explain all issues that 
+the ACCC considers arise from a proposed acquisition. Further, the ACCC’s 
+decisions generally involve consideration of both non-confidential and confidential 
+information provided by the merger parties and market participants. In order to 
+maintain the confidentiality of particular information, Public Competition 
+Assessments do not contain any confidential information or its sources. 
+The parties 
+8. Thermo Fisher and Life Technologies (the merger parties) are global companies 
+that operate in the life sciences sector.  
+Thermo Fisher 
+9. Thermo Fisher is a diversified global manufacturing company. Its principal activity 
+is the production and sale of analytical instruments, scientific equipment, 
+consumables, reagents, services and software for research, analysis, discovery 
+and diagnostics.  
+10. Thermo Fisher’s business in Australia includes the distribution of scientific 
+instruments and consumables to scientific, environmental and medical customers, 
+the manufacture and sale of mining analysis equipment, the provision of infomatics 
+solutions, chemical manufacturing, the distribution of medical testing equipment 
+and reagents, serum manufacturing, the manufacture of microbiological culture, 
+and the sale of chromatography systems.  
+Life Technologies 
+11. Life Technologies is a global biotechnology tools company. It is active in the 
+production and supply of technologies for a range of life sciences applications, 
+including gene sequencing, polymerase chain reaction, sample preparation, cell 
+culture, RNA interference analysis, functional genomics research, proteomics and 
+cell biology applications, as well as clinical diagnostic applications, forensics and 
+animal, food, pharmaceutical and water testing analysis. 
+12. In Australia, Life Technologies distributes its products in the areas of protein 
+biology, molecular biology, cell culture and transplant diagnostics. It also produces 
+sera in Australia and New Zealand.  
+
+
+ 
+Page 3 of 18 
+Other industry participants 
+13. As explained further below, the primary areas in which the merger parties both 
+supply products are cell culture, molecular biology and protein biology. Other 
+suppliers in these areas are set out below. 
+Table 1: Key competitors 
+Supplier 
+Cell culture Molecular biology Protein biology 
+Bio-Rad 
+ 
+ 
+ 
+GE Healthcare 
+ 
+ 
+ 
+Merck Millipore 
+ 
+ 
+ 
+Moregate Biotech 
+ 
+ 
+ 
+New England Biolabs 
+ 
+ 
+ 
+Promega 
+ 
+ 
+ 
+Qiagen 
+ 
+ 
+ 
+Roche 
+ 
+ 
+ 
+Serana 
+ 
+ 
+ 
+Sigma-Aldrich 
+ 
+ 
+ 
+The proposed transaction 
+14. Thermo Fisher proposed to acquire all of the shares of Life Technologies. 
+15. Thermo Fisher sought regulatory clearance for the proposed acquisition in other 
+jurisdictions, including the United States, the European Union, New Zealand, 
+Canada and China. 
+Review timeline 
+16. The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+20-Sep-2013 
+ 
+11-Oct-2013 
+ 
+11-Nov-2013 
+ 
+ 
+ 
+13-Dec-2013 
+ 
+ 
+19-Dec-2013 
+ 
+ACCC commenced review under the Merger Process Guidelines. 
+ 
+Closing date for submissions from interested parties. 
+ 
+ACCC timeline suspended and former proposed decision date of 
+14 November 2013 delayed to allow the merger parties to provide 
+additional information to the ACCC.  
+ 
+Thermo Fisher provided additional information to the ACCC. ACCC 
+timeline recommenced. 
+ 
+ACCC announced it would not oppose the proposed acquisition, subject 
+to a section 87B undertaking accepted by ACCC.  
+ 
+ 
+
+
+ 
+Page 4 of 18 
+Market inquiries 
+17. The ACCC conducted market inquiries with a range of industry participants 
+including suppliers, customers, competitors of the merger parties and interested 
+third parties.  
+18. Submissions were sought in relation to the substantive competition issues and 
+targeted inquiries were conducted regarding the undertakings. 
+Future with/without the proposed acquisition 
+19. Section 50 of the Act prohibits mergers or acquisitions that would have the effect or 
+be likely to have the effect of substantially lessening competition in a market. In 
+assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment post-acquisition if the acquisition proceeds (the “with” position) to the 
+likely future competitive environment if the acquisition does not proceed (the 
+“without” position) to determine whether the proposed acquisition is likely to 
+substantially lessen competition in any relevant market. 
+20. In the absence of the proposed acquisition, the ACCC considered that the likely 
+future competitive environment would be the status quo, that is, both Thermo 
+Fisher and Life Technologies would continue to operate as independent, viable 
+and effective competitors in the relevant markets.  
+Areas of overlap 
+Table 2: List of products supplied in Australia by both merger parties 
+Area 
+Products 
+Cell culture 
+Calf sera 
+FBS 
+Media 
+Standard process liquids 
+Molecular 
+biology 
+Gene silencing effectors 
+siRNA 
+shRNA 
+ 
+Delivery 
+Transfection reagents 
+ 
+Nucleic acid synthesis  
+Oligonucleotides 
+ 
+Gene content  
+Standard genes 
+ 
+ 
+Cloning enzymes 
+Restriction enzymes 
+Modifying enzymes 
+ 
+Nucleic acid purification 
+Agarose gel  
+Horizontal gel boxes 
+Magnetic bead-based instruments 
+NA purification kits 
+Nucleic acid / molecular weight standards 
+
+
+ 
+Page 5 of 18 
+Area 
+Products 
+ 
+Nucleic acid amplification 
+Thermal cyclers 
+qPCR instruments and PCR instruments  
+Taq polymerase, high fidelity polymerase, 
+Hot Start polymerase, other specialty 
+polymerase 
+PCR kits, RT PCR kits, dye based qPCR 
+kits 
+RT enzymes 
+cDNA synthesis kits 
+Protein 
+biology 
+Protein expression 
+In vitro expression 
+ 
+Protein isolation and 
+purification 
+Affinity chromatography kits 
+Cell lysis detergents, reagents and 
+protease inhibitors 
+SDS-PAGE vertical gel boxes, power 
+supplies, pre-cast gels and gel stains  
+ 
+Protein detection, 
+identification and 
+quantification 
+ELISA assays  
+Western blotting membranes, 
+chemiluminescent substrates and transfer 
+boxes  
+ 
+Protein modification 
+Chemical modification reagents 
+Cross-linking reagents 
+Proteases 
+ 
+Antibodies 
+Biotin reagents 
+Immunoassays – primary antibodies and 
+secondary antibodies 
+Streptavidin and Avidin reagents 
+ 
+Other 
+Mass spectrometry  
+Reactive dyes 
+Western blotting – detection kits 
+Transplant diagnostics 
+Tests 
+Liquid chromatography 
+Analytical HPLC columns 
+Fluorescent spectroscopy 
+Fluorescent spectroscopy 
+Particles 
+Magnetics 
+Industry background 
+21. The life sciences sector comprises a number of interrelated fields which involve the 
+scientific study of living organisms, from microorganisms to human beings. For 
+example: 
+
+
+ 
+Page 6 of 18 
+ 
+biochemistry – the study of chemical processes within and relating to living 
+organisms (for example, structures, functions and interactions of proteins, 
+nucleic acids, carbohydrates and lipids); 
+ 
+biotechnology – technological applications that use biological systems to 
+make or modify products or processes for specific uses, which 
+predominantly have had applications in medical, agricultural, industrial and 
+environmental applications; 
+ 
+cell biology – the study of the physiological composition of cells, which is 
+fundamental to all biological sciences and is closely related to genetics, 
+and other developmental biologies; 
+ 
+molecular biology – the application of recombinant DNA, DNA sequencing 
+methods and bioinformatics to sequence, assemble and analyse the 
+function and structure of genomics (the complete set of DNA within a 
+single cell of an organism);  
+ 
+protein biology – the study of the structure and functions of proteins. 
+22. The applications of life sciences products range from pharmaceutical and 
+biotechnology manufacturing processes, to academic and government 
+applications, and to industrial and applied uses such as healthcare. 
+23. The primary overlaps in the products supplied by the merger parties are in the 
+areas of cell culture, molecular biology and protein biology. Within these broad 
+product categories, there are several relevant product markets. However, this 
+Public Competition Assessment primarily focuses on the areas where the 
+proposed acquisition raised competition concerns, due to the closeness of 
+competition between the merger parties and where market inquiries indicated that 
+the merged entity was not likely to be adequately constrained by existing 
+competitors or new entrants in the relevant markets.  
+24. Accordingly, the remainder of this Public Competition Assessment outlines the 
+ACCC’s competition assessment in the areas of Cell Culture and Molecular 
+Biology. The ACCC did not identify any competition concerns in the field of protein 
+biology. Therefore, protein biology markets are not considered further in this Public 
+Competition Assessment. 
+25. In addition, the ACCC considered the potential for the merged entity to foreclose 
+competition in other markets. This is outlined further below. 
+Cell culture 
+Overview 
+26. 'Cell culture' describes the process of growing cells from plants, animals, or other 
+sources (e.g. bacteria) in artificial environments. Cell culture is used to grow cells 
+for use in academic research and vaccine production. 
+27. Cell culture products can be categorised into the areas of sera, media, and 
+standard process liquids.  
+28. The supply of foetal bovine serum and the supply of cell culture media were 
+identified by the ACCC as areas of competition concern relating to the proposed 
+acquisition.  
+
+
+ 
+Page 7 of 18 
+Sera and foetal bovine sera 
+29. Cell culture sera are blood-based liquids that are a by-product of the meat 
+processing industry. They contain growth factors, proteins and other biological 
+components which are combined with cell culture media to provide an advanced 
+level of nutrients to facilitate the growth of cells for further research and product 
+development by end users.  
+30. Foetal serum is often preferred to serum from more mature animals since it 
+contains a higher level of hormones, growth factors, and lower levels of antibodies. 
+While there are many types of animals from which sera can be derived, the most 
+significant portion of the sera market is made up of foetal bovine sera (FBS). This 
+is because of the abundance of cows and their large volume of foetal blood relative 
+to other animals. 
+31. Since FBS is a biologically-sourced product, its precise content is inherently 
+inconsistent, so many customers engage in batch testing. This involves the testing 
+of a small sample of FBS from a number of suppliers before placing an order.  
+Supply chain for FBS 
+32. Three stages are generally involved for the transformation of raw foetal blood to 
+the final product. These are collection, centrifugation, and filtration. 
+ 
+Collection: Raw foetal blood is harvested in a sterile room within an 
+abattoir.  
+ 
+Centrifugation: Raw foetal blood yields raw serum (raw FBS) after it is 
+spun in a centrifuge and separated. Raw foetal blood is either spun on-site 
+at the abattoir before being sold or is supplied to an intermediary or reseller 
+who spins it.  
+ 
+Filtration: Raw FBS must be filtered before it can be sold as a final 
+product (processed FBS). This is done either by intermediaries or, more 
+commonly, by resellers (including the merger parties). Abattoirs do not 
+typically possess the sterile facilities necessary for filtration. The filtered 
+serum is bottled, branded, and sold to end customers in the bio-
+manufacturing or research sectors both in Australia and overseas. 
+Intermediaries 
+33. The primary role of intermediaries is to source raw foetal blood from abattoirs. In 
+general, intermediaries also centrifuge raw foetal blood, while some may also filter 
+the resultant raw sera into FBS for sale to end customers. Some, but not all 
+intermediaries are involved in centrifugation and sterile filtering. As such they may 
+be suppliers of raw FBS only, or competitors in the supply of processed FBS. 
+Where intermediaries are not involved in any part of the sera manufacturing 
+process, they provide value to customers (resellers) through their established 
+commercial relationships with abattoirs, and vice versa).  
+Resellers 
+34. The suppliers of the final FBS product to end users are known as resellers. These 
+include the merger parties. As well as selling to end customers, resellers may 
+engage in the upstream activities of centrifuging raw foetal blood and sterile 
+filtration of raw FBS, as well as the bottling stage of the manufacturing process.  
+
+
+ 
+Page 8 of 18 
+End users 
+35. End users for processed FBS can generally be grouped into two categories, 
+comprising scientists in the academic research sector, and companies in the 
+pharmaceutical manufacturing sector. In Australia, the majority of end users and 
+customers of FBS are in the research sector and typically comprise university 
+departments, research institutes, and specialised laboratories.  
+Australian and New Zealand-sourced FBS 
+36. FBS sourced from Australia and New Zealand is perceived to be of a higher quality 
+than FBS sourced from other countries because biodiseases such as mad cow 
+disease have never been known to occur in either country. This is of particular 
+concern for customers using FBS for therapeutic applications, but other customers, 
+including research institutions, also consider Australian and New Zealand sourced 
+FBS to be superior. Australian and New Zealand FBS therefore commands a 
+substantial price premium relative to sera from other countries. 
+Cell culture media and standard process liquids 
+37. Cell culture media are powders or liquids that promote cell growth through 
+supplying cells with essential nutrients such as basic amino acids. Standard 
+process liquids are saline solutions and water-based buffers which facilitate the cell 
+culture process and ensure that the cell culture environment remains at a constant 
+pH. 
+38. Thermo Fisher and Life Technologies sell their cell culture media and standard 
+process liquids under the brands of HyClone and Gibco, respectively. 
+Molecular biology 
+39. Molecular biology is concerned with the study of the molecular components 
+present in the cells of living organisms, primarily RNA and DNA. The study of 
+molecular biology and, in particular, the function of genes within cells, is of 
+important application to academic and bio-industrial researchers, for example in 
+developing new therapies for particular diseases, or producing crops capable of 
+generating greater yields. 
+40. Molecular biology techniques have applications in a number of end-use segments, 
+including diagnostics, microbiology, forensics and agriculture. 
+41. The merger parties supply several products which are used in molecular biology 
+processes. Within this range of products, the merger parties were found to be 
+particularly close competitors in respect of products supplied for a process known 
+as gene modification. This is a process where the functions and characteristics of 
+genes (known in the industry as gene ‘expression’) can be studied either by 
+promoting or suppressing a gene.  
+42. In particular, the merger parties supply a product known as siRNA, a type of gene 
+effector which is used to silence genes for a short period of time. The supply of 
+siRNA was the only area of molecular biology identified by the ACCC’s market 
+inquiries as an area of competition concern relating to the proposed acquisition. 
+43. siRNA products are commonly sold in portfolios known in the life sciences industry 
+as ‘libraries’. A library is a collection of individual siRNAs. Market inquiries 
+indicated that some customers buy individual siRNA which target individual genes, 
+
+
+ 
+Page 9 of 18 
+while other customers obtain products to conduct research across the entire 
+genome. The merger parties supply libraries which can comprise thousands of 
+individual siRNAs, each one designed to target a specific gene. There are also 
+sub-libraries within that collection that target a subset of the human genome. Some 
+sub-libraries are associated with a particular pathway, for example the cell growth 
+pathway. A research group may only be interested in that pathway, and so acquire 
+the sub-library for that pathway. Market participants noted that the merger parties 
+were market leaders in this respect. 
+Market definition 
+44. The ACCC has considered in some detail the relevant markets in relation to the 
+supply of processed FBS and siRNA, since these were principal areas of concern 
+arising from the proposed acquisition.  
+Geographic dimension – all markets 
+45. The ACCC has observed that suppliers of life sciences products are often active 
+globally. In many cases, it is not necessary to have manufacturing capabilities in 
+Australia in order to supply Australian customers. However, market inquiries have 
+indicated that the geographic scope of the relevant markets (including the supply of 
+FBS) is no more than Australia-wide due to the following factors: 
+ 
+Not all suppliers may be active in Australia. 
+ 
+Those suppliers that are active in Australia may not sell their full range of 
+products in Australia.  
+ 
+Prices may not be set by reference to global prices. 
+ 
+Suppliers may need to have a subsidiary in Australia or appoint a local 
+distributor. 
+ 
+Suppliers may need to engage in local sales, marketing and after-sales 
+activities. 
+ 
+Suppliers may need to comply with local regulatory requirements. 
+46. The relevance of these factors varies as between the different products supplied 
+by the merger parties, but some or all of them apply to each product. 
+47. Market inquiries have not suggested that any of the relevant markets are narrower 
+than Australia-wide. 
+48. The ACCC therefore considers that the relevant geographic scope of the markets 
+affected by the proposed acquisition is Australia-wide. This means that global 
+suppliers not already active in Australia would be considered as potential new 
+entrants. 
+Market One – Processed FBS  
+Product dimension 
+49. As noted above, the merger parties are major suppliers of processed FBS, which is 
+processed from raw blood sourced directly from abattoirs or via an intermediary. 
+With regard to the merger parties’ products, the ACCC’s market inquiries indicated 
+that: 
+
+
+ 
+Page 10 of 18 
+ 
+calf or adult bovine sera are not substitutes for FBS; 
+ 
+sera sourced from other animals is not a substitute for FBS; 
+ 
+FBS is sourced primarily from cattle in Australia, New Zealand, the United 
+States and Canada; 
+ 
+due to the relative absence of disease in cattle, Australian and New 
+Zealand FBS are regarded as superior to FBS sourced from other 
+countries and therefore attract a higher price; 
+ 
+Australian and New Zealand FBS are regarded as essentially equivalent; 
+ 
+for some customers, particularly those manufacturing products for 
+therapeutic use in humans, FBS from countries other than Australia or New 
+Zealand is not an alternative to Australian or New Zealand FBS. 
+50. The ACCC therefore considered the relevant product market was likely to be no 
+wider than the supply of FBS; and Australian and New Zealand FBS either 
+constitute a distinct product market or a distinct segment of the market for the 
+supply of FBS. 
+51. As explained in the Industry background section above, market inquiries indicated 
+that Australian and New Zealand FBS suppliers source FBS: 
+ 
+by acquiring raw foetal blood from abattoirs, centrifuging it to produce raw 
+FBS, then filtering and bottling it to produce processed FBS; and/or 
+ 
+by acquiring raw FBS from abattoirs or intermediaries (i.e. after they have 
+centrifuged the raw foetal blood) then filtering and bottling it to produce 
+processed FBS. 
+52. In either case, the product supplied to end customers is processed FBS and 
+suppliers compete in relation to the price and quality of that processed FBS. 
+Competition analysis 
+Unilateral effects: Absent the undertakings, the proposed acquisition would give 
+the merged entity market power in the supply of processed FBS, particularly 
+Australian and New Zealand FBS 
+53. Market inquiries indicated that Thermo Fisher and Life Technologies are close 
+competitors for the supply of FBS to end users on the basis of the volumes they 
+are capable of supplying and the strength of their brands and reputations for 
+supplying very high quality FBS. The merger parties’ strong reputations for 
+producing high quality processed FBS reinforces their place as buyers of the raw 
+materials necessary to manufacture and supply processed FBS. 
+54. This section sets out a number of factors underpinning the closeness of 
+competition between the merger parties, which were relevant to the ACCC’s 
+overall assessment.  
+Brand  
+55. Market inquiries indicated that the merger parties have particularly strong brands 
+for the supply of cell culture products. However, since FBS customers tend to test 
+each batch of FBS that they acquire, ultimately the performance of the sera against 
+quality, volume and price metrics will determine which suppliers are chosen by 
+end-users, rather than simply brand reputation. Nonetheless, the ACCC’s market 
+
+
+ 
+Page 11 of 18 
+inquiries indicated that brand reputation is very significant in cell culture markets. 
+For example: 
+ 
+The volumes of raw foetal blood or raw FBS ultimately supplied by 
+abattoirs and intermediaries are unpredictable and the material is 
+expensive.  
+ 
+Testing batches of FBS can also take a considerable amount of time.  
+ 
+To minimise these factors, many customers only test FBS from a limited 
+range of suppliers. The brand reputation is highly relevant to the selection 
+of (and indeed awareness of) potential FBS suppliers. In some cases, 
+customers only test batches supplied by the merger parties, whose brand 
+reputation was established and is supported by its ability to supply a large 
+customer base globally. 
+Relationships with upstream suppliers 
+56. Market inquiries indicated that outside the merger parties, there are limited 
+alternative sources of supply. Sigma-Aldrich was the only other supplier of 
+processed FBS that was generally identified by customers.  
+57. The ability to secure supply of a scarce resource is partly a function of FBS 
+resellers’ long-standing commercial relationships with abattoirs and intermediaries. 
+The ACCC understands that abattoirs typically sell all the raw foetal blood 
+collected to a single customer. In addition, intermediaries carefully select their 
+customers, having regard to a number of factors including the long-term strategy, 
+reputation, knowledge and customer base of the potential purchaser.  
+58. Market inquiries indicated that the merger parties have strong commercial 
+relationships with abattoirs and/or intermediaries in Australia and New Zealand, 
+largely due to their strong position in the downstream supply of processed FBS to 
+end-users. 
+Barriers to entry and expansion 
+Procurement of and expansion of supply 
+59. The ACCC’s market inquiries suggest that there are material fixed costs involved in 
+being able to take supply of and process raw foetal blood over a period of time. 
+Abattoirs do not typically sell their supply of raw foetal blood to multiple customers. 
+This means that prospective entrants (or smaller intermediaries and resellers) may 
+not have the necessary infrastructure, financial capital and established customer 
+base to be able to viably participate in some tenders.  
+60. The ability to be able to reliably purchase and manage the supply of raw foetal 
+blood or raw FBS consistently is an important consideration when abattoirs and 
+intermediaries choose their customers for raw foetal blood or raw FBS. Relevant 
+factors include a strong brand, reliable customer base, and favourable reputation 
+and track record. 
+61. The ACCC’s market inquiries have indicated that not all types of abattoirs may be 
+suited to collecting raw foetal blood, and that most (if not all) abattoirs which are 
+capable of collecting raw foetal blood already do so.  
+Role of industry relationships 
+62. The ACCC’s market inquiries indicated that relationships between abattoirs, 
+intermediaries, and resellers are important in the supply decision for raw foetal 
+
+
+ 
+Page 12 of 18 
+blood and raw FBS, and that these may serve to hinder potential new entry, 
+supplier-switching, and bypassing of the merger parties by end users. 
+63. Commercial relationships between abattoirs and intermediaries are often 
+established over a long period of time and may span a wider breadth of products 
+and operations than raw foetal blood. That is, relationships between intermediaries 
+and abattoirs may extend and have originated from different areas to raw foetal 
+blood (a by-product). 
+Likelihood of competitive constraint from existing competitors 
+64. The ACCC considered whether, post-acquisition, the merged entity would be 
+constrained by:  
+ 
+other FBS resellers – the key competitor in this regard is Sigma-Aldrich. 
+Smaller competitors include Moregate, Serana, Bovagen, GE Healthcare 
+and Merck Millipore;  
+ 
+other participants in the supply chain, in particular, intermediaries and 
+abattoirs who may be able to integrate down the supply chain and supply 
+processed FBS to end customers; 
+ 
+end customers, who may be able to bypass the merged entity and acquire 
+raw FBS or processed FBS directly from intermediaries and abattoirs. 
+65. The ACCC concluded that the merged entity is unlikely to be competitively 
+constrained by existing competitors and other market participants for the following 
+reasons: 
+ 
+The other resellers constitute a relatively small volume of the processed 
+FBS supplied to end customers, and are constrained in their ability to 
+acquire greater volumes of raw foetal blood or raw FBS (see ‘Barriers to 
+entry and expansion’ above). This means that those resellers would not be 
+likely to expand their supply of processed FBS to customers to a level that 
+is likely to be sufficient to constrain the merger parties. 
+ 
+The barriers to forward-integration into the supply of processed FBS by 
+abattoirs are high – the ACCC’s market inquiries have indicated that:  
+o the processes of sterile filtration and dispensing/bottling are technically 
+complex and require specialised equipment requiring significant capital 
+outlays; and 
+o abattoirs are extremely unlikely to possess the facilities and technical 
+expertise necessary to engage in both the centrifugation of raw foetal 
+blood and the sterile filtration of raw FBS and dispensing of the final 
+product. 
+66. The ACCC’s market inquiries have indicated that end-users are not typically able 
+to bypass resellers:  
+ 
+The supply of raw foetal blood and raw FBS from abattoirs is not generally 
+available to end customers, due to abattoirs’ long standing commercial 
+relationships with intermediaries.  
+ 
+Many customers face budget constraints, knowledge and technical 
+barriers, staffing requirements, difficulty establishing the required logistical 
+arrangements, and the need to ensure quality control across batches. Only 
+a few customers, such as pharmaceutical manufacturing companies, may 
+have the facilities necessary for sterile filtration and bottling. 
+
+
+ 
+Page 13 of 18 
+67. The ACCC considered that absent the undertakings, the proposed acquisition 
+would be likely to substantially lessen competition in the market for the supply of 
+FBS in Australia, by further strengthening the position of the merged entity in the 
+supply of FBS and eliminating the actual or potential competitive constraint 
+between the merger parties. In particular, the ACCC considered that post-
+acquisition, Thermo Fisher would have the ability and incentive to raise prices for 
+the supply of processed FBS.  
+Market Two – siRNA reagents  
+Market definition 
+68. As noted in the section titled ‘Areas of Overlap’, the merger parties both supply 
+gene silencing products known as ‘Small Interfering RNA’, known as ‘siRNA’, and 
+‘Short Hairpin RNA’, or ‘shRNA’. As the main area of overlap and increase in 
+market concentration as a result of the proposed acquisition would be in the supply 
+of siRNA, the ACCC considered whether there is a distinct product market for 
+siRNA or whether it was a part of a broader market for gene silencing products. 
+69. Market inquiries indicated that siRNA and shRNA are the two principal gene 
+silencing technologies. While they are both used to silence genes, there are 
+functional differences between the two products. Principally, these differences 
+relate to the duration of the effects of applying these products – siRNA delivers a 
+short term effect on a gene, while shRNA delivers a longer-lasting reaction. The 
+latter was described in market inquiries as more complex for end-users to use and 
+having limited clinical applications compared to siRNA. 
+70. Market inquiries also indicated that end-users typically have very specific functional 
+requirements meaning there can be little or no substitutability between different 
+types of gene silencing products. Market inquiries indicated that, due to an end-
+user’s intended clinical application or research objectives, an increase in the price 
+of siRNA is unlikely to cause large numbers of end-users to switch to shRNA or 
+any other form of gene silencing product.  
+71. Market participants also noted the development of new gene silencing 
+technologies, including a technology known as transcription activator-like effector 
+nucleases (‘TALENs’). However, market inquiries indicated that neither TALENs 
+nor other developing technologies were likely to competitively constrain the supply 
+of siRNA in Australia in the foreseeable future.  
+72. Accordingly, the ACCC considered it was appropriate to assess the competitive 
+effects of the proposed acquisition in a market for the supply of siRNA in Australia. 
+Competition analysis 
+73. The merger parties are significant suppliers of siRNA in Australia. Market inquiries 
+indicated that the merger parties’ position in relation to the supply of these 
+products is underpinned by related patents (known as the “Tuschl patents”) which 
+have been licensed to only four suppliers. This patent provides for a specific 
+design of siRNA product. 
+74. The licensed suppliers are the merger parties, Sigma-Aldrich and Qiagen. Between 
+them, these four suppliers currently have a very substantial share of supply of 
+siRNA in Australia, and no other single supplier has a comparable share of supply 
+to any one of them. In addition, market inquiries indicated that many suppliers do 
+
+
+ 
+Page 14 of 18 
+not provide a full “library” of gene modulation products and so provide only a 
+marginal constraint on the merger parties. 
+75. Despite there being four licensees to the Tuschl patent of siRNA, market inquiries 
+indicated that Thermo Fisher and Life Technologies were the closest competitors 
+of each other. Market participants distinguished the merger parties from their 
+competitors, mostly on the basis of their capacity to undertake high levels of 
+investment in product development and quality assurance processes. Market 
+participants considered that these attributes resulted in the merger parties offering 
+vast portfolios of siRNA products and product libraries, which were superior in the 
+market. 
+76. The ACCC considered that barriers to entry into the siRNA market appeared to be 
+high. Market inquiries indicated that effective competition in the siRNA market 
+requires high levels of investment in R&D and intellectual property, and the 
+development of a strong brand reputation and customer relationships, and that 
+these entry requirements are high risk and take several years to establish.   
+77. In addition, market inquiries suggested that existing or new manufacturers and 
+suppliers of siRNA who are not licensees of the Tuschl patent, are limited in their 
+ability to compete effectively in the market, relative to the existing licence holders.  
+78. The ACCC also understands that it is unlikely that further Tuschl licences will be 
+provided. The ACCC therefore considered that the merged entity was not likely to 
+be constrained by the threat of new entry in the siRNA market. 
+79. The ACCC was therefore concerned that, absent the undertakings, the proposed 
+acquisition would be likely to substantially lessen competition in this market. The 
+ACCC considered there would be limited competitive constraints on the merged 
+entity following the Proposed Acquisition, and that the merged entity would have 
+the ability and incentive to reduce innovation and product development, or raise 
+prices for the supply of siRNA to customers in Australia.  
+Other issues  
+Cell culture media  
+80. The ACCC’s market inquiries suggested that the proposed acquisition would raise 
+competition concerns in the supply of cell culture media. Market participants 
+indicated that the merger parties' cell culture media products, and particularly Life 
+Technologies' brand, Gibco, are considered superior to those of their rivals.  
+81. The closeness of competition between the merger parties was based primarily on 
+the strength of their respective brands. Market participants frequently referred to 
+the role of brand and trust in the supply of cell culture media, and it was also noted 
+that these reputations were to some extent derived from the parties’ strong 
+reputations for the supply of FBS. 
+82. Market inquiries indicated that some customers may be able to self-supply cell 
+culture media to some extent. However, for many customers, self-supply was not a 
+viable alternative in the event of a small but significant increase in price or 
+decrease in quality of products. 
+83. The ACCC did not reach a concluded view on the scope of the relevant market or 
+whether the proposed acquisition would be likely to substantially lessen 
+competition effects in the supply of cell culture media.  
+
+
+ 
+Page 15 of 18 
+84. As explained below, the undertakings offered by Thermo Fisher include a 
+commitment to divest its entire HyClone business, which incorporates cell culture 
+sera and cell culture media. Accordingly, to the extent that the proposed 
+acquisition would have raised competition concerns in this market, they would be 
+alleviated by the undertakings. 
+Other products supplied by the merger parties 
+85. The ACCC considered concerns raised by some market participants in relation to 
+other products supplied by the merger parties, including Quantitative PCR 
+(‘qPCR’) and magnetic bead-based instruments.  
+qPCR 
+86. (qPCR, also known as 'real-time' PCR) is a technique used in the process of 
+copying short segments of DNA molecules. Market inquiries indicated that the 
+merger parties are strong competitors in the area of qPCR, with Life Technologies 
+possessing particularly leading-edge technology for qPCR systems and a number 
+of key patents associated with qPCR. 
+87. However, market inquiries indicated that Thermo Fisher does not necessarily 
+appear to be a particularly strong competitor in the field of qPCR and that there 
+would be alternative suppliers and/or technologies (some of which are continually 
+emerging) available to customers. 
+Magnetic bead-based instruments 
+88. Magnetic bead-based instruments are a type of instrument used in certain 
+molecular biology processes. Market inquiries have indicated that these products 
+can be supplied within a package of reagents or on a stand-alone basis. The 
+ACCC understands that Thermo Fisher manufactures magnetic bead-based 
+instruments and supplies these to Life Technologies (among other customers), and 
+that Life Technologies resells these products as part of a reagent kit. Market 
+participants generally considered that the reagent kits supplied by Life 
+Technologies are a particularly close substitute for the instruments supplied by 
+Thermo Fisher. 
+89. However, Thermo Fisher’s magnetic bead-based instruments are designed as 
+open systems, meaning that there are alternative suppliers of reagents and 
+reagent kits based on this technology. In addition, since Life Technologies was 
+already a reseller of Thermo Fisher magnetic bead-based instruments. The ACCC 
+considered this may have limited the degree of competitive constraint that it 
+imposed on Thermo Fisher and indicated that other manufacturers of magnetic 
+bead-based instruments represent a stronger competitive constraint on Thermo 
+Fisher. Therefore, the ACCC considered that the proposed acquisition would not 
+increase Thermo Fisher’s ability or incentive to restrict alternative suppliers from 
+using its instruments and that alternative suppliers were therefore likely to remain 
+available to customers. 
+Conclusions on qPCR and magnetic bead-based instruments  
+90. The ACCC concluded that the proposed acquisition was not likely to lead to an 
+increase in market power constituting a substantial lessening of competition in 
+relation to qPCR, magnetic bead-based instruments. 
+
+
+ 
+Page 16 of 18 
+Potential for vertical foreclosure of rivals 
+91. A number of market participants noted that post-acquisition, Thermo Fisher would 
+have the ability to supply a vast range of life sciences products. The ACCC 
+considered whether, as a result of the proposed acquisition, Thermo Fisher would 
+have the ability and incentive to offer a ‘package’ of products to customers on the 
+basis that: 
+ 
+a particular product (for instance, product ‘A’) is supplied only if the 
+customer also purchases another product (e.g. product ‘B’) (‘tying’); or 
+ 
+customers are supplied a ‘bundle’ of products in such a way that the 
+incremental price of product B (for example), is so low that efficient firms 
+who only supply product B cannot recover the costs of supply that matches 
+the incremental price under the bundle, and are foreclosed from supplying 
+those customers who need both products (‘bundling’).  
+92. Competition concerns would arise if such conduct would be likely to limit, or raise 
+the cost of, rivals’ abilities to access a sufficient customer base, or to deny them 
+the ability to access customers altogether. Bundling or tying therefore has the 
+potential to reduce the competitive constraint that competitors provide, allowing the 
+merged entity to increase the price of a tied product or the overall price of a bundle 
+at a later time. 
+93. The ACCC considered that for this to arise, the merged firm would need to : 
+ 
+identify a substantial proportion of customers who must purchase both 
+products A and B (to use the illustrative example above), whether from one 
+or more suppliers; and 
+ 
+have market power in the supply of a particular product, often referred to 
+as a 'must have' product (e.g. Product A), which could be combined with 
+other products (e.g. Product B) in a way that would foreclose competing 
+suppliers from accessing customers of Product B, thus leveraging market 
+power in the supply of Product A into the supply of the previously 
+competitive Product B.  
+94. However, the ACCC’s market inquiries indicated that it was unlikely that these 
+conditions would be fully satisfied in the present case. The combination of the 
+merger parties’ product portfolios may create a 'one stop shop' that could cover 
+some customers’ requirements, which may be an appealing offer to customers. 
+Barriers to entry for several life sciences products also appeared to be high. 
+However, the ACCC’s market inquiries revealed that: 
+ 
+there isn’t always a ‘must have’ product – that is, the products required by 
+many customers, particularly those in the academic research field, may 
+differ according to their particular research objectives. Therefore, it did not 
+appear likely that a substantial proportion of customers would frequently 
+need to purchase a particular combination of products; and in light of this 
+ 
+there are likely to be sufficient competitors who are likely to be capable of 
+offering substitutes for the products offered by the merged entity (either 
+alone or combined with another product) such that they would not be 
+foreclosed from accessing customers who require both products.  
+95. The ACCC therefore concluded that the proposed acquisition was not likely to lead 
+to foreclosure of the merged entity’s competitors, constituting a substantial 
+lessening of competition in any relevant markets. 
+
+
+ 
+Page 17 of 18 
+Undertakings 
+96. Thermo Fisher offered to the ACCC section 87B undertakings in order to address 
+the ACCC’s concerns arising from the proposed acquisition. On 19 December 
+2013 the ACCC accepted these undertakings. 
+97. Given the global nature of Thermo Fisher’s businesses and the supply links 
+between Thermo Fisher’s business in Australia and businesses overseas, the 
+undertakings rely upon a remedy that the European Commission (EC) has 
+accepted from Thermo Fisher (EC commitments).  The ACCC considered 
+whether the court enforceable undertakings proposed by Thermo Fisher Scientific 
+Inc, pursuant to section 87B of the Act, would address the issues of concern 
+identified by the ACCC. 
+98. The undertakings provide that Thermo Fisher must: 
+(a) divest its Australian cell culture business (a component of the global cell 
+culture business to be divested under the EC commitments) to an ACCC-
+approved purchaser; 
+(b) divest its Australian siRNA business (a component of the global gene 
+modulation business to be divested under the EC commitments) to an 
+ACCC-approved purchaser; and 
+(c) appoint an ACCC-approved Australian-based independent manager, who 
+will manage the Australian cell culture business in the period between 
+completion of the acquisition and divestiture. 
+99. Thermo Fisher offered divestitures of the Australian cell culture business and 
+Australian siRNA business in order to address the ACCC’s competition concerns in 
+relation to FBS and siRNA reagents respectively. 
+100. The Australian cell culture business includes a manufacturing facility in Melbourne 
+that processes high quality FBS.  This facility is an important part of the Australian 
+FBS market and the global cell culture business. An Australian-based independent 
+manager would provide day to day management of the Australian cell culture 
+business, including the Melbourne facility, with a view to successfully transitioning 
+the business to the approved purchaser.  
+101. The ACCC considered the undertakings would remedy the competition concerns 
+raised by the proposed acquisition on the basis that they: 
+ 
+will remove the competitive overlap between Thermo Fisher and Life 
+Technologies in the national supply of FBS and siRNA reagents;  
+ 
+provide an approved purchaser with the assets, rights and agreements 
+necessary to enable the purchaser to compete effectively in Australia in the 
+supply of FBS and siRNA reagents;  
+ 
+will bind Thermo Fisher to the EC Commitments as they relate to the 
+Australian cell culture and siRNA businesses; 
+ 
+require that Thermo Fisher only divest the divestiture businesses to a 
+purchaser or purchasers approved by the ACCC; and 
+ 
+require that Thermo Fisher appoint an ACCC-approved Australian-based 
+independent manager to implement the transition of the Australian cell 
+culture business, which is an important element of the global supply of 
+FBS.  
+
+
+ 
+Page 18 of 18 
+Conclusion 
+102. On the basis of the information outlined above, the ACCC considered that the 
+proposed acquisition would raise competition concerns in the market for the supply 
+of FBS in Australia and in the market for the supply of siRNA in Australia. 
+103. However, taking into account the undertakings, the ACCC formed the view that the 
+proposed acquisition of Life Technologies Corporation by Thermo Fisher Scientific 
+Inc would not be likely to result in a substantial lessening of competition in the 
+market for the manufacture and supply of FBS, cell culture media, or the supply of 
+siRNA in Australia, in contravention of section 50 of the Act. 

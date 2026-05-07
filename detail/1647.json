@@ -1,0 +1,32 @@
+{
+  "id": "1647",
+  "title": "Acquirer: Australian Pharmaceutical Industries Ltd; Target: Sigma Company Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-pharmaceutical-industries-ltd-target-sigma-company-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15556",
+  "industries": [],
+  "date_completed": "15 May 2002",
+  "date_completed_iso": "2002-05-15T12:00:00Z",
+  "date_commenced": "18 February 2002",
+  "date_commenced_iso": "2002-02-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Pharmaceutical Industries Ltd"
+  ],
+  "targets": [
+    "Sigma Company Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission announced on 17 April 2002 that it will oppose the proposed merger between API and Sigma. Both companies manufacture, wholesale and distribute pharmaceutical and healthcare products to retail pharmacies and hospitals. They also both provide support services to retail pharmacies, including the operation of retail pharmacy banner groups.",
+    "Market definition": "(A) State-based or regional markets for the wholesale and distribution of pharmaceutical and healthcare products (by full-line and short-line wholesalers); (B) A national market for the manufacture of pharmaceuticals; and (C) A national market for the provision of marketing and financial support services to retail pharmacies.",
+    "Competition analysis": "The merger would reduce the number of full-line pharmaceutical wholesalers in Australia from three to two and together API and Sigma would account for about 60-70 per cent of products wholesaled to retail pharmacies.  The Commission was concerned about the proposed merger because: -  there are high barriers to entry (the high costs of entering the market and the marketing arrangements in place between pharmacies and wholesalers); -  retail pharmacies requiring a wide range of products need to use full-line pharmaceutical wholesalers; and -  an effective competitive force would be lost. Market inquiries showed that pharmacists generally use full-line pharmaceutical wholesalers as primary suppliers. Other pharmaceutical wholesalers operate in niches but do not compete across the full range of products and cannot meet the full requirements of retail pharmacies.  The Commission is concerned that the reduction of full-line wholesalers from 3 to 2 would result in a reduction in the quality of service provided to pharmacies and, consequently, to consumers. The Commission concluded that the proposed merger would be likely to result in a substantial lessening of competition. The parties have announced that they intend to lodge an application for authorisation of the merger.  Authorisation is a different process to that already undertaken by the Commission under s. 50 of the Act and involves a different statutory test.  In an authorisation, the Commission must decide whether the proposed merger would result, or be likely to result, in such a benefit to the public that it be allowed to take place.",
+    "Resolution": "Authorisation",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "4796"
+  }
+}

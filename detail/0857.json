@@ -1,0 +1,88 @@
+{
+  "id": "0857",
+  "title": "BHP Billiton Ltd - proposed acquisition of Rio Tinto Ltd and Rio Tinto plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bhp-billiton-ltd-proposed-acquisition-of-rio-tinto-ltd-and-rio-tinto-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30278",
+  "industries": [
+    "Mining"
+  ],
+  "date_completed": "1 October 2008",
+  "date_completed_iso": "2008-10-01T12:00:00Z",
+  "date_commenced": "6 June 2008",
+  "date_commenced_iso": "2008-06-06T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "BHP Billiton Ltd"
+  ],
+  "targets": [
+    "Rio Tinto plc<br/> Rio Tinto Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jun 2008",
+      "date_iso": "2008-06-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "17 Jun 2008",
+      "date_iso": "2008-06-17T12:00:00Z",
+      "event": "ACCC requested further information from BHP Billiton. ACCC timeline suspended."
+    },
+    {
+      "date": "1 Jul 2008",
+      "date_iso": "2008-07-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "4 Jul 2008",
+      "date_iso": "2008-07-04T12:00:00Z",
+      "event": "ACCC received partial response from BHP Billiton to the information request of 17 June 2008."
+    },
+    {
+      "date": "11 Jul 2008",
+      "date_iso": "2008-07-11T12:00:00Z",
+      "event": "ACCC received outstanding information from BHP Billiton in response to the information request of 17 June 2008. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Jul 2008",
+      "date_iso": "2008-07-22T12:00:00Z",
+      "event": "ACCC requested further information from BHP Billiton. ACCC timeline suspended."
+    },
+    {
+      "date": "30 Jul 2008",
+      "date_iso": "2008-07-30T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings of 13 August, amended to allow for BHP Billiton's response to the information request of 22 July 2008."
+    },
+    {
+      "date": "20 Aug 2008",
+      "date_iso": "2008-08-20T12:00:00Z",
+      "event": "ACCC received further information from BHP Billiton. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Aug 2008",
+      "date_iso": "2008-08-22T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining potential competition concerns."
+    },
+    {
+      "date": "5 Sep 2008",
+      "date_iso": "2008-09-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties regarding the Statement of Issues. ACCC timeline suspended pending receipt of further information requested from BHP Billiton."
+    },
+    {
+      "date": "18 Sep 2008",
+      "date_iso": "2008-09-18T12:00:00Z",
+      "event": "ACCC received further information from BHP Billiton. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Oct 2008",
+      "date_iso": "2008-10-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Refer to attached Public Competition Assessment.",
+    "Competition analysis": "Refer to attached Public Competition Assessment."
+  }
+}

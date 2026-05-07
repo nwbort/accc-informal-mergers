@@ -1,0 +1,44 @@
+{
+  "id": "1056",
+  "title": "Australian Pipeline Trust (APT) - proposed acquisition of SEAGas",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-pipeline-trust-apt-proposed-acquisition-of-seagas",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29000",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "15 August 2007",
+  "date_completed_iso": "2007-08-15T12:00:00Z",
+  "date_commenced": "16 July 2007",
+  "date_commenced_iso": "2007-07-16T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Australian Pipeline Trust (APT)"
+  ],
+  "targets": [
+    "SEAGas"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jul 2007",
+      "date_iso": "2007-07-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Jul 2007",
+      "date_iso": "2007-07-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Aug 2007",
+      "date_iso": "2007-08-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Natural gas pipeline owner Australian Pipeline Trust (APT) sought to acquire the remaining 66% of SEAGas that it did not already own.  SEAGas is a joint venture established to develop and operate the SEAGas pipeline.  Prior to the proposed acquisition, APT owned approximately one third of SEAGas and also operated the pipeline.",
+    "Market definition": "Both parties own natural gas transmission pipelines that deliver gas from the Otway region in Victoria into Victoria (APT via GasNet) and Adelaide (SEAGas).  APT also owns and operates the Moomba to Sydney pipeline (MSP), one of two pipelines supplying Sydney with gas.  GasNet is the natural gas transmission network that supplies Melbourne with gas. The ACCC therefore considered that the relevant markets in this instance were: - the wholesale supply of gas into Adelaide; and - the wholesale supply of gas into Melbourne.",
+    "Competition analysis": "Adelaide The ACCC noted that, post-acquisition, the merged entity would be likely to face competition for the supply of gas into Adelaide from the Moomba to Adelaide pipeline (MAP).  Market inquiries revealed that MAP has spare capacity that could be used to compete with SEAGas.  Market inquiries also revealed that the main driver behind gas contracts is the price of wholesale gas, rather than the price of transmission, meaning that APT's ability to influence gas prices in, and flows into, Adelaide was likely to be constrained post-acquisition by wholesale gas supplies from the Cooper Basin. Melbourne The acquisition would have resulted in the aggregation of the only two transmission pipelines transporting gas out of the Otway region.  However, the ACCC did not consider that competition issues arose from this aggregation because GasNet is regulated, thereby constraining APT's ability to extract monopoly rents on this pipeline.  GasNet is also operated by an independent entity, VENCorp, which would further constrain APT's ability to exercise market power, including restricting access to GasNet, post-transaction."
+  }
+}

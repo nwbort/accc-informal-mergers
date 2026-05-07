@@ -1,0 +1,44 @@
+{
+  "id": "1144",
+  "title": "Onex Corporation - proposed acquisition of Eastman Kodak Company's Health Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onex-corporation-proposed-acquisition-of-eastman-kodak-companys-health-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27279",
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "21 February 2007",
+  "date_completed_iso": "2007-02-21T12:00:00Z",
+  "date_commenced": "12 February 2007",
+  "date_commenced_iso": "2007-02-12T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Onex Corporation"
+  ],
+  "targets": [
+    "Eastman Kodak Company's Health Group"
+  ],
+  "timeline": [
+    {
+      "date": "12 Feb 2007",
+      "date_iso": "2007-02-12T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Informal review commences."
+    },
+    {
+      "date": "19 Feb 2007",
+      "date_iso": "2007-02-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Feb 2007",
+      "date_iso": "2007-02-28T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Onex Corporation - proposed acquisition of Eastman Kodak Company's Health Group",
+    "Market definition": "It appears that the merger parties provide a broad range of products and services used in the healthcare industry. However, there does not appear to be any horizontal overlaps or vertical links between the merger parties' operations in Australia.",
+    "Competition analysis": "On 21 February 2007, the ACCC decided not to oppose the proposed acquisition of Eastman Kodak Company's Health Group by Onex Corporation. It appears that there is a lack of competitive overlap between the acquirer and target parties' products and services in Australia. Accordingly, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1067",
+  "title": "Gunns Ltd - proposed acquisition of Auspine Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gunns-ltd-proposed-acquisition-of-auspine-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28295",
+  "industries": [
+    "Timber"
+  ],
+  "date_completed": "31 July 2007",
+  "date_completed_iso": "2007-07-31T12:00:00Z",
+  "date_commenced": "21 June 2007",
+  "date_commenced_iso": "2007-06-21T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Gunns Ltd"
+  ],
+  "targets": [
+    "Auspine Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jun 2007",
+      "date_iso": "2007-06-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Jul 2007",
+      "date_iso": "2007-07-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Aug 2007",
+      "date_iso": "2007-08-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Gunns business is focused on the production of hardwood products, primarily hardwood chips for export and sawn hardwood timber products sold both domestically and into export markets. Auspine's business is focused on the production of softwood products, primarily softwood woodchips for export and structural softwood timber to the Australian housing industry. Gunns intends to acquire Auspine.",
+    "Market definition": "The ACCC considered Gunns proposed acquisition of Auspine in the context of the following markets: - national market for appearance grade timber; - regional markets for structural sawn timber; - Tasmanian market for the supply of harvest forestry contracting services. The ACCC did not consider it necessary to form a definitive view in relation to the market definitions for the purposes of this acquisition, and noted that other appropriate market definitions may potentially exist.  However, regardless of which market definitions were adopted, the ACCC did not consider the acquisition would be likely to raise significant competition concerns.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant markets.  The following factors informed this conclusion: - Gunns is largely focused on hardwood appearance grade timbers, while Auspine is focused on softwood structural timber.  The ACCC is aware that some overlap exists between Gunns and Auspine in the end uses of these products, but considers that it is unlikely that Gunns and Auspine are each other's strongest competitors due to cost factors and customer preferences.  Other competitors will be likely to constrain the merged entity; - The markets for appearance grade and structural timber are subject to imports and a degree of countervailing power by timber purchasers; - In relation to the Tasmanian market for the supply of harvest forestry contracting services, the ACCC considered that the proposed acquisition is unlikely to substantially impact the dynamics in this market."
+  }
+}

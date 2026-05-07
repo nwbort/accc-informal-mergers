@@ -1,0 +1,31 @@
+{
+  "id": "1455",
+  "title": "Acquirer: Inghams Enterprises Pty Ltd; Target: Chickadee Foods Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-inghams-enterprises-pty-ltd-target-chickadee-foods-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20306",
+  "industries": [],
+  "date_completed": "12 October 2004",
+  "date_completed_iso": "2004-10-12T12:00:00Z",
+  "date_commenced": "30 August 2004",
+  "date_commenced_iso": "2004-08-30T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Inghams Enterprises Pty Ltd"
+  ],
+  "targets": [
+    "Chickadee Foods Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Inghams Enterprises P/L seeks to acquire the remaining shares in Chickadee Foods P/L. Inghams has owned a 26% share in the company since 1988",
+    "Market definition": "The market was considered to be the national market for processed chicken meat products",
+    "Competition analysis": "On the basis of the information supplied by the parties and market inquiries the proposed acquisition does not appear to result in a substantial lessening of competition in the relevant market for the following reasons (1) Other market participants are able to compete effectively for supply contracts (2) Customers exercise a signficant degree of market power (3) Vertical integration is not necessary to compete effectively in the market",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2112"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1583",
+  "title": "Acquirer: Mayne Group Ltd; Target: Pacific Health Care Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mayne-group-ltd-target-pacific-health-care-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16647",
+  "industries": [],
+  "date_completed": "21 January 2003",
+  "date_completed_iso": "2003-01-21T12:00:00Z",
+  "date_commenced": "10 September 2002",
+  "date_commenced_iso": "2002-09-10T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Mayne Group Ltd"
+  ],
+  "targets": [
+    "Pacific Health Care Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 21 January 2003 the Commission decided that it would not intervene in the proposed acquisition by the Mayne Group of 10 diagnostic imaging clinics located in Sydney and regional New South Wales.",
+    "Market definition": "The provision of diagnostic imaging services.  Within metropolitan areas, market inquiries suggested that the scope of the relevant geographic market is generally confined to a radius of around 5 km within which a patient either lives or works.",
+    "Competition analysis": "On 2 December 2002 the Mayne Group publicly announced its intention to acquire the operations of 10 diagnostic imaging clinics owned by Pacific Healthcare.  Those sites are at Liverpool, Baulkham Hills, Fairfield, Burwood, Maroubra, Bondi, Eastlakes, Randwick in Sydney and Mudgee and Cooma in regional New South Wales. The Commission conducted extensive market inquiries into the proposed acquisition. Overall, there was little geographic overlap between the diagnostic imaging practices of the Mayne Group and Pacific Healthcare. The area of greatest geographic overlap between the Mayne Group and Pacific Healthcare was in the Sydney suburbs of Fairfield and Burwood and the surrounding areas.  However, the material gathered during market inquiries suggested that the presence of numerous other diagnostic imaging service providers in the Fairfield and Burwood areas would act as a sufficient competitive constraint to prevent the Mayne Group from raising its prices post-merger.  On this basis, the proposed acquisition is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "8622"
+  }
+}

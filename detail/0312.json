@@ -1,0 +1,62 @@
+{
+  "id": "0312",
+  "title": "Greencross Ltd (Greencross Vets) - completed acquisition of CF Group Holdings Pty Ltd (City Farmers)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/greencross-ltd-greencross-vets-completed-acquisition-of-cf-group-holdings-pty-ltd-city-farmers",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54915",
+  "industries": [
+    "Pet supplies and services"
+  ],
+  "date_completed": "27 November 2014",
+  "date_completed_iso": "2014-11-27T12:00:00Z",
+  "date_commenced": "7 July 2014",
+  "date_commenced_iso": "2014-07-07T12:00:00Z",
+  "total_review_days": 102,
+  "acquirers": [
+    "Greencross Ltd (Greencross Vets)"
+  ],
+  "targets": [
+    "CF Group Holdings Pty Ltd (City Farmers)"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jul 2014",
+      "date_iso": "2014-07-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Jul 2014",
+      "date_iso": "2014-07-17T12:00:00Z",
+      "event": "Greencross completed the acquisition."
+    },
+    {
+      "date": "25 Jul 2014",
+      "date_iso": "2014-07-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Aug 2014",
+      "date_iso": "2014-08-19T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "22 Sep 2014",
+      "date_iso": "2014-09-22T12:00:00Z",
+      "event": "ACCC received further information from Greencross."
+    },
+    {
+      "date": "6 Oct 2014",
+      "date_iso": "2014-10-06T12:00:00Z",
+      "event": "ACCC received additional further information from Greencross."
+    },
+    {
+      "date": "27 Nov 2014",
+      "date_iso": "2014-11-27T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available, it would discontinue its investigation into the completed acquisition at this stage. The ACCC will however continue to monitor the effect of the acquisition on competition among pet specialty retailers."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Greencross Ltd has acquired CF Group Holdings Pty Ltd (City Farmers). City Farmers is a speciality pet care retailer with 42 stores across Australia."
+  }
+}

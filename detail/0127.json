@@ -1,0 +1,44 @@
+{
+  "id": "0127",
+  "title": "salesforce.com, inc. - proposed acquisition of Slack Technologies, Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/salesforcecom-inc-proposed-acquisition-of-slack-technologies-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "CRM solutions and team collaboration software"
+  ],
+  "date_completed": "20 May 2021",
+  "date_completed_iso": "2021-05-20T12:00:00Z",
+  "date_commenced": "11 March 2021",
+  "date_commenced_iso": "2021-03-11T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "salesforce.com, inc."
+  ],
+  "targets": [
+    "Slack Technologies, Inc."
+  ],
+  "timeline": [
+    {
+      "date": "11 Mar 2021",
+      "date_iso": "2021-03-11T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Apr 2021",
+      "date_iso": "2021-04-01T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "20 May 2021",
+      "date_iso": "2021-05-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "salesforce.com, inc ( Salesforce ) proposes to acquire Slack Technologies, Inc ( Slack ). Salesforce is a global supplier of CRM software solutions. Slack is an enterprise collaboration platform, which allows users to engage in direct messaging, group channel messaging, document sharing and limited intra-organisation voice-and-video-calling.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on: ·       the supply of CRM solutions to business customers in Australia, and · the supply of team collaboration solutions to business customers in Australia. The ACCC did not reach a concluded view on market definition, as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to have the effect or likely effect of substantially lessening competition. Salesforce’s CRM solution and Slack’s team collaboration solution are differentiated and complementary offerings. The ACCC notes that users of CRM solutions value the ability to integrate their solution with third party software and applications, and the same is true for users of team collaboration solutions. Foreclosure of Slack’s rivals in team collaboration solutions The ACCC considered whether the proposed acquisition would give Salesforce the ability and incentive to engage in bundling techniques, or restrict Slack’s rivals’ team collaboration solutions from integrating with Salesforce’s CRM solution, to the detriment of Slack’s rivals. The ACCC found that Salesforce may have the ability to engage in such conduct, as Salesforce’s CRM solution is regarded as one of the few comprehensive CRM offerings in Australia. However, the ACCC concluded that Salesforce is unlikely to have the incentive to do so. This is because Salesforce’s customers could switch to alternative CRM providers, and degrading the interoperability of Salesforce’s CRM solution with third party software and applications would have significant commercial and reputational risks. Foreclosure of Salesforce’s rivals in CRM solutions The ACCC considered whether the proposed acquisition would give Salesforce the ability and incentive to engage in bundling techniques, or restrict Salesforce’s rivals’ CRM solutions from integrating with Slack’s team collaboration solution, to the detriment of Salesforce’s rivals. The ACCC determined that Salesforce is unlikely to have the ability to engage in such conduct, as Slack’s team collaboration solution is not a ‘must have’ and Australian businesses generally use multiple team collaboration solutions. Further, the ACCC found that Salesforce is unlikely to have the incentive to do so. This is because Slack’s customers could readily switch to alternative team collaboration solutions, and degrading the interoperability of Slack’s team collaboration solution with third party software and applications would have significant commercial and reputational risks. Aggregation in team collaboration solutions The ACCC found that Salesforce has a small share of supply in team collaboration solutions and its offering only overlaps with limited aspects of Slack’s functionality. As such, the proposed acquisition is unlikely to result in any material concerns regarding direct competition between Salesforce and Slack."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1637",
+  "title": "Acquirer: Boral Limited; Target: Canberra Mini-Mixed Concrete Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-boral-limited-target-canberra-mini-mixed-concrete-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16213",
+  "industries": [],
+  "date_completed": "27 June 2002",
+  "date_completed_iso": "2002-06-27T12:00:00Z",
+  "date_commenced": "12 June 2002",
+  "date_commenced_iso": "2002-06-12T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Boral Limited"
+  ],
+  "targets": [
+    "Canberra Mini-Mixed Concrete Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Canberra Mini-mixed Pty Ltd by Boral ltd.",
+    "Market definition": "The manufacture and supply of pre-mixed concrete in the ACT and surrounding areas.",
+    "Competition analysis": "The market definition applicable includes both maxi-mix and mini-mix concrete due to both demand and supply side substitution possibilities. Canberra Mini-Mixed is a small and fairly highly regarded competitor in the industry, however it does not appear to be an especially vigorous competitor. Barriers to expansion and barriers to entry for an entrant on a small scale do not appear to be high. Based on the above factors it was not clear that the proposed acquisition would lead to a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "2633"
+  }
+}

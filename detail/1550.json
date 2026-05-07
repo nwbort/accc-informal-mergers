@@ -1,0 +1,31 @@
+{
+  "id": "1550",
+  "title": "Acquirer: Coca Cola Amatil Ltd; Target: Neverfail Springwater",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coca-cola-amatil-ltd-target-neverfail-springwater",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17700",
+  "industries": [],
+  "date_completed": "12 June 2003",
+  "date_completed_iso": "2003-06-12T12:00:00Z",
+  "date_commenced": "1 May 2003",
+  "date_commenced_iso": "2003-05-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coca Cola Amatil Ltd"
+  ],
+  "targets": [
+    "Neverfail Springwater"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Neverfail Springwater Ltd by Coca-Cola Amatil Ltd",
+    "Market definition": "The relevant market was considered to be the national market for the bottling and distribution of wholesale packaged water (WPW).",
+    "Competition analysis": "Neverfail's primary business is in relation to the supply of bulk bottled water (BBW), delivered directly to households and business consumers. Neverfail also distributes WPW to retailers in WA, NSW, VIC, SA and QLD.  CCA also distributes WPW nationally. CCA does not operate a BBW business. The Commission considered the BBW and WPW markets to be separate, after taking into account demand and supply-side substitution. Accordingly, the proposed acquisition would result in a bare transfer of market share to CCA in respect of BBW. The principal area of overlap between the parties was in relation to WPW and the Commission considered the relevant market to be the national market for the bottling and distribution of WPW. On this basis, the proposed acquisition would cross the Commission's concentration thresholds. However, the Commission noted that Neverfail presently accounts for a very small percentage of the national wholesale packaged water market and there would remain a number of alternative suppliers to whom customers could turn. On this basis, the Commission considered that proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market and decided to not oppose.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Press",
+    "ANZSIC code": "2181"
+  }
+}

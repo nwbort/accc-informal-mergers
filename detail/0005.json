@@ -1,0 +1,74 @@
+{
+  "id": "0005",
+  "title": "Igneo Infrastructure Partners - Benedict Recycling Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/igneo-infrastructure-partners-benedict-recycling-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Waste management services"
+  ],
+  "date_completed": "3 December 2025",
+  "date_completed_iso": "2025-12-03T12:00:00Z",
+  "date_commenced": "13 May 2025",
+  "date_commenced_iso": "2025-05-13T12:00:00Z",
+  "total_review_days": 102,
+  "acquirers": [
+    "Igneo Infrastructure Partners"
+  ],
+  "targets": [
+    "Benedict Recycling Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "13 May 2025",
+      "date_iso": "2025-05-13T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 May 2025",
+      "date_iso": "2025-05-28T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "19 Jun 2025",
+      "date_iso": "2025-06-19T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of findings 28 August 2025 is delayed."
+    },
+    {
+      "date": "6 Aug 2025",
+      "date_iso": "2025-08-06T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. Timeline recommenced."
+    },
+    {
+      "date": "11 Sep 2025",
+      "date_iso": "2025-09-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "25 Sep 2025",
+      "date_iso": "2025-09-25T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "12 Nov 2025",
+      "date_iso": "2025-11-12T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former date for announcement of ACCC's decision 20 November 2025 is delayed."
+    },
+    {
+      "date": "26 Nov 2025",
+      "date_iso": "2025-11-26T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "3 Dec 2025",
+      "date_iso": "2025-12-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In May 2025, the ACCC commenced its informal review of IWS Group Asset Co Pty Ltd, as trustee of the IWS Group Asset Trust ( IWS ), an entity managed by Igneo Infrastructure Partners ( Igneo )’s proposal to acquire 100% of the shares of Benedict Recycling Pty Ltd ( Benedict Recycling ). IWS (through its subsidiaries) and Benedict Recycling both own and operate waste management facilities in NSW that accept and process various types of building and demolition ( B&D ) and commercial and industrial ( C&I ) waste. The primary overlap between the parties is in the supply of mixed B&D waste processing in the Newcastle region of NSW. In response to preliminary competition concerns raised by the ACCC in its Statement of Issues, and following further engagement with the ACCC, Igneo and Benedict Recycling restructured the transaction to exclude Benedict Recycling’s Newcastle Recycling Centre (the Newcastle Recycling Centre ) in Mayfield West from the proposed acquisition ( Revised Proposed Acquisition ). Under the Revised Proposed Acquisition, the Newcastle Recycling Centre, including its assets, equipment and staff, will be retained by the existing owners of Benedict Recycling. Igneo Igneo is an infrastructure asset management business of the First Sentier Investors Group. Igneo provides waste management services in Australia through IWS, Eco Resources Group and Recycle Central Group ( Recycle Central ). IWS (and its subsidiaries) provide a range of waste management services including resource recovery, commercial composting, and disposal. IWS operates in Western Australia (through Eco Resources Group), South Australia and NSW (through Recycle Central). Recycle Central is a subsidiary of IWS and is responsible for all of IWS’s operations in Newcastle. Recycle Central’s services include waste collections, processing and recovery of B&D and C&I waste. Recycle Central operates two waste management facilities in Newcastle: a waste management station at Kurri Kurri, and a waste transfer station at Cardiff. Benedict Recycling Benedict Recycling provides landfill, processing and recovery services for B&D, C&I, household and green waste across NSW. Benedict Recycling operates and/or has an ownership interest in waste management, greenfield and landfill sites in Bowral, Chipping Norton, Newcastle, Unanderra, Smeaton Grange and Belrose. The Bowral landfill site and Newcastle site are not included in the Revised Proposed Acquisition. In Newcastle, Benedict Recycling operates the Newcastle Recycling Centre. Benedict Recycling also has interests in other, currently non-operational sites in NSW, including a waste management and recycling centre in Girraween and a greenfield waste recycling and transfer centre in Penrith.",
+    "Market definition": "The ACCC considered the effect of the Revised Proposed Acquisition on competition in market(s) for the supply of mixed B&D waste processing services and B&D waste collection services in the Newcastle region of New South Wales. For the purposes of this assessment, it was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the Revised Proposed Acquisition is unlikely to substantially lessen competition in any market in Australia. The ACCC found the proposed restructure removes the horizontal overlap that would have arisen under the earlier version of the proposed acquisition. Under the Revised Proposed Acquisition, there would be no change to the number of competitors in the supply of mixed B&D waste processing services and B&D waste collection services in the Newcastle region. The ACCC also found that following the restructure of the transaction, Igneo would not have the ability to foreclose rival B&D waste collections businesses in the Newcastle region as the Newcastle Recycling Centre would continue to operate as an alternative facility for B&D waste collections businesses in the region."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0532",
+  "title": "Inghams proposed acquisition of Sunnybrand Chickens",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/inghams-proposed-acquisition-of-sunnybrand-chickens",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38535",
+  "industries": [
+    "Poultry - growing services"
+  ],
+  "date_completed": "6 April 2011",
+  "date_completed_iso": "2011-04-06T12:00:00Z",
+  "date_commenced": "10 March 2011",
+  "date_commenced_iso": "2011-03-10T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Inghams Enterprises Pty Ltd (Chicken)"
+  ],
+  "targets": [
+    "Sunnybrand Chickens"
+  ],
+  "timeline": [
+    {
+      "date": "10 Mar 2011",
+      "date_iso": "2011-03-10T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Procees Guidelines."
+    },
+    {
+      "date": "14 Mar 2011",
+      "date_iso": "2011-03-14T12:00:00Z",
+      "event": "ACCC requested further information from Inghams. ACCC timeline suspended."
+    },
+    {
+      "date": "16 Mar 2011",
+      "date_iso": "2011-03-16T12:00:00Z",
+      "event": "ACCC received further information from Inghams. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Mar 2011",
+      "date_iso": "2011-03-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Apr 2011",
+      "date_iso": "2011-04-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered a range of markets in relation to the proposed acquisition and identified three areas of overlap: - without forming a definitive view on market definition, a market for the supply of day old chicks (DOCs) and eggs across the Eastern Seaboard. However, the ACCC also considered whether the supply of DOCs and eggs might represent an input to the acquistion of broiler growing services; - a market for the acquisition of broiler growing services. Without forming a definitive view on the geographic dimension of the market, the ACCC considered both a narrower geographic dimension of 1 1/2  hours by road from the Casino growing region, or a wider geographic dimension of 3 1/2 hours by road from the Casino growing region; and - a market for the wholesale supply of processed chicken meat in New South Wales and Queensland.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant markets. It does not appear likely that significant competition issues will arise as a result of the proposed acquisition in the market for the supply of DOCs and eggs or the market for the acquisition of broiler growing services. Applying a narrower geographic dimension of 1 1/2 hours travel time from the Casino growing region, there is no geographic overlap between Inghams and Sunnybrand for the acquisition of growers' services. Alternatively, applying a wider geographic dimension of 3 1/2 hours travel time from the Casino growing region other chicken meat processors would potentially provide options for supply by growers. The acquisition of Sunnybrand by Inghams is likely to have a relatively small impact on competition in the relevant market and post acquisition there would remain a number of chicken meat processors in New South Wales and Queensland that would be able to constrain the merged firm."
+  }
+}

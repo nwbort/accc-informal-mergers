@@ -1,0 +1,44 @@
+{
+  "id": "0673",
+  "title": "Woolworths Ltd - completed acquisition of a supermarket site at Newport, NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-ltd-completed-acquisition-of-a-supermarket-site-at-newport-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39929",
+  "industries": [
+    "Grocery"
+  ],
+  "date_completed": "24 December 2009",
+  "date_completed_iso": "2009-12-24T12:00:00Z",
+  "date_commenced": "8 December 2009",
+  "date_commenced_iso": "2009-12-08T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Woolworths Ltd"
+  ],
+  "targets": [
+    "Supermarket site at Newport in New South Wales"
+  ],
+  "timeline": [
+    {
+      "date": "8 Dec 2009",
+      "date_iso": "2009-12-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Dec 2009",
+      "date_iso": "2009-12-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 Dec 2009",
+      "date_iso": "2009-12-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths had recently acquired two pieces of land in Newport, NSW from the Pittwater Council and in 2007 acquired an adjoining piece of land from a third party. Woolworths intended to develop a new supermarket on the combined sites.",
+    "Market definition": "The completed acquisition was considered in the context of the following markets: - the local retail supermarket market, - the NSW wholesale market for products sold in supermarkets, and - the NSW market for the procurement of products sold in supermarkets by supermarket wholesalers from growers and suppliers of products sold in supermarkets.",
+    "Competition analysis": "The ACCC considered that if the completed acquisition by Woolworths did not proceed, it was unlikely that the site would have been developed to include a supermarket operated by an alternative supermarket operator. When comparing the likely state of competition 'with' the completed acquisition to the likely state of competition 'without' the completed acquisition, the ACCC considered that the completed acquisition was unlikely to result in a substantial lessening of competition in any relevant market."
+  }
+}

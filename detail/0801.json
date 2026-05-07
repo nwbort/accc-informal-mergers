@@ -1,0 +1,44 @@
+{
+  "id": "0801",
+  "title": "Metcash Trading Limited - proposed acquisition of Solomon Food Group Pty Ltd (foodservice wholesaling businesses)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/metcash-trading-limited-proposed-acquisition-of-solomon-food-group-pty-ltd-foodservice-wholesaling-businesses",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36283",
+  "industries": [
+    "Food services"
+  ],
+  "date_completed": "11 February 2009",
+  "date_completed_iso": "2009-02-11T12:00:00Z",
+  "date_commenced": "13 January 2009",
+  "date_commenced_iso": "2009-01-13T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Metcash Trading Limited"
+  ],
+  "targets": [
+    "Solomon Food Group Pty Ltd (foodservice wholesaling businesses)"
+  ],
+  "timeline": [
+    {
+      "date": "13 Jan 2009",
+      "date_iso": "2009-01-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jan 2009",
+      "date_iso": "2009-01-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Metcash Trading Limited proposes to acquire the food service wholesaling and food service produce wholesaling businesses of Solomon Food Group Pty Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: i) the Queensland market for the wholesale supply of broadline foodservice products (frozen, chilled and dry and packaged products); and ii) the Queensland market for the wholesale supply of specialty foodservice products (fresh produce) to the foodservice channel. The ACCC noted that the competition analysis in this review would be unchanged by the precise market delineation.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets due to the existence of a number of rival wholesale suppliers which would be likely to continue to constrain the merged firm from attempting to exercise unilateral market power in each of the relevant markets. The ACCC noted the small degree of horizontal aggregation that would occur as a result of the proposed acquisition."
+  }
+}

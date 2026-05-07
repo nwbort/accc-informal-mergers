@@ -1,0 +1,48 @@
+{
+  "id": "0636",
+  "title": "S & K Car Park Management Pty Ltd (trading as Secure Parking) - completed acquisition of various assets of Premier Parking (NSW) and Premier Parking (VIC)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/s-k-car-park-management-pty-ltd-trading-as-secure-parking-completed-acquisition-of-various-assets-of-premier-parking-nsw-and-premier-parking-vic",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38520",
+  "industries": [
+    "Carpark operation"
+  ],
+  "date_completed": "23 April 2010",
+  "date_completed_iso": "2010-04-23T12:00:00Z",
+  "date_commenced": "25 February 2010",
+  "date_commenced_iso": "2010-02-25T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Secure Parking"
+  ],
+  "targets": [
+    "Assets of Premier Parking (NSW) and Premier Parking (VIC)"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2010",
+      "date_iso": "2010-01-22T12:00:00Z",
+      "event": "Secure Parking completed the acquisition of certain assets of Premier Parking."
+    },
+    {
+      "date": "25 Feb 2010",
+      "date_iso": "2010-02-25T12:00:00Z",
+      "event": "ACCC commenced a public review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Apr 2010",
+      "date_iso": "2010-04-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following relevant markets: - separate local markets based on local government areas for the provision of car parking services to the public; and - a national market for the provision of car park operator or management services to car park owners.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in the relevant markets due to: - the small increase in the market concentration; and - alternatives in each relevant market would continue to provide an effective competitive constraint on the merged entity."
+  }
+}

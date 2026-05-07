@@ -1,0 +1,37 @@
+{
+  "id": "0236",
+  "title": "DC Payments Australasia Pty Ltd - completed acquisition of First Data Corporation's \"Cashcard\" ATM business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dc-payments-australasia-pty-ltd-completed-acquisition-of-first-data-corporations-cashcard-atm-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61068",
+  "industries": [
+    "Financial services"
+  ],
+  "date_completed": "18 April 2017",
+  "date_completed_iso": "2017-04-18T12:00:00Z",
+  "date_commenced": "8 November 2016",
+  "date_commenced_iso": "2016-11-08T12:00:00Z",
+  "total_review_days": 106,
+  "acquirers": [
+    "DC Payments Australasia Pty Ltd"
+  ],
+  "targets": [
+    "First Data Corporation's \"Cashcard\" ATM business"
+  ],
+  "timeline": [
+    {
+      "date": "8 Nov 2016",
+      "date_iso": "2016-11-08T12:00:00Z",
+      "event": "ACCC commenced review. As this acquisition has already been completed, no expected decision date for the ACCC's review will be posted."
+    },
+    {
+      "date": "18 Apr 2017",
+      "date_iso": "2017-04-18T12:00:00Z",
+      "event": "The ACCC announced that, based on the information available at this time, it would discontinue its investigation into the completed acquisition. The ACCC will however continue to monitor the effect of the acquisition on competition in the relevant market."
+    }
+  ],
+  "body_sections": {
+    "Summary": "DC Payments Australasia acquired First Data Corporation's \"Cashcard\" ATM business. The acquisition occurred in September 2016."
+  }
+}

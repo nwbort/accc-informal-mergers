@@ -1,0 +1,24 @@
+{
+  "id": "1309",
+  "title": "Transurban Group - acquisition of Tollaust Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transurban-group-acquisition-of-tollaust-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23418",
+  "industries": [
+    "Toll roads"
+  ],
+  "date_completed": "14 February 2006",
+  "date_completed_iso": "2006-02-14T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Transurban Group - Acquisition of Tollaust Pty Ltd",
+    "Market definition": "The following markets were considered relevant: -the market for the provision of electronic toll collection to motorists in NSW; -the market for the provision of electronic toll collection to tollroads in NSW; and -tollroad construction and ownership market in Australia.",
+    "Competition analysis": "The ACCC consider that the acquisition by Transurban of Tollaust would not lead to a substantial lessening of competition for: -the provision of electronic toll collection to motorists; -the provision of electronic toll collection to tollroads; and -tollroad construction and ownership. In relation to the provision of electronic toll collection to motorists, the ACCC is of the view that following the acquisition Transurban would face competition from competing tag issuers, particularly Interlink Roads, such that it would not be able to raise administration fees to its tag users.  There is recent evidence of motorists' preparedness to switch tag providers in response to price changes. In relation to the provision of electronic toll collection to tollroads, given that following the acquisition there would be a fairly even spread of the total NSW tags and consequent interdependence for toll revenues between Transurban, Interlink Roads and the RTA, Transurban would be prevented from increasing the roaming fees it charges to other tollroad owners. Finally, the acquisition would not undermine the competitive bidding processes for any new tollroads in NSW because potential bidders could also align with Interlink Roads. Notwithstanding this, the ACCC is of the view that competition concerns may arise in each of these markets in the future if there is further consolidation among NSW electronic tolling service providers (tag issuers).  Such consolidation may: -enable a tag issuer with market power to raise administration fees to motorists; -enable a tag issuer to increase roaming fees charged to other tollroad owners, effectively increasing these rivals' costs; and -affect the upstream tollroad construction and ownership market, as a tag issuer with market power in the negotiation of roaming fees may be able to align itself with a particular prospective bidder for a new tollroad, thereby undermining the competitive bidding process for any new tollroad construction in NSW."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0987",
+  "title": "Boral Limited - proposed acquisition of Carter Holt Harvey Limited's Australian timber building supplies operations",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/boral-limited-proposed-acquisition-of-carter-holt-harvey-limiteds-australian-timber-building-supplies-operations",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30236",
+  "industries": [
+    "Timber building supplies"
+  ],
+  "date_completed": "12 December 2007",
+  "date_completed_iso": "2007-12-12T12:00:00Z",
+  "date_commenced": "21 November 2007",
+  "date_commenced_iso": "2007-11-21T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Boral Limited"
+  ],
+  "targets": [
+    "Carter Holt Harvey Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Nov 2007",
+      "date_iso": "2007-11-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "26 Nov 2007",
+      "date_iso": "2007-11-26T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information from Boral Limited."
+    },
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Dec 2007",
+      "date_iso": "2007-12-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Boral Limited proposed to acquire the Australian timber building supplies operations of Carter Holt Harvey Limited.",
+    "Market definition": "The proposed acquisition was considered in the context of separate national markets for the production and supply of softwood sawn timber and plywood.",
+    "Competition analysis": "On 12 December 2007 the ACCC formed the view, after conducting market inquiries, that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included that the merged entity would continue to be constrained by: - the presence of alternative domestic producers of softwood sawn timber and plywood; and - the presence of imported softwood sawn timber and plywood."
+  }
+}

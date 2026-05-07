@@ -1,0 +1,873 @@
+ 
+ 
+Page 1 of 16 
+ 
+ 
+Public Competition Assessment 
+4 August 2014 
+BlueScope Steel Ltd – proposed acquisition of the OneSteel 
+Sheet & Coil business from Arrium Limited 
+Introduction 
+1. 
+On 6 March 2014, the Australian Competition and Consumer Commission (ACCC) 
+announced its decision not to oppose the proposed acquisition of certain assets of the 
+OneSteel Sheet and Coil business and other associated entities (OS&C) from Arrium 
+Limited by BlueScope Steel Ltd (BlueScope) (the proposed acquisition), subject to a 
+court enforceable undertaking (the undertaking) pursuant to section 87B of the 
+Competition and Consumer Act 2010 (the Act).  
+2. 
+The ACCC decided that, with the undertaking, the proposed acquisition would be 
+unlikely to have the effect of substantially lessening competition in any market in 
+contravention of section 50 of the Act.  
+3. 
+The ACCC made its decision on the basis of information provided by the merger 
+parties, information arising from its market inquiries and other relevant industry 
+sources of publicly available and confidential information. This Public Competition 
+Assessment outlines the basis on which the ACCC reached its decision on the 
+proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+4. 
+To provide an enhanced level of transparency and procedural fairness in its decision 
+making process, the ACCC issues a Public Competition Assessment for all transaction 
+proposals where: 
+ 
+a proposed acquisition is opposed; 
+ 
+a proposed acquisition is subject to enforceable undertakings; 
+ 
+the merger parties seek such disclosure; or 
+ 
+a proposed acquisition is not opposed but raises important issues that the ACCC 
+considers should be made public. 
+5. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition is considered to raise issues of public interest in relation to the steel 
+industry and is subject to a court enforceable undertaking.  
+6. 
+By issuing Public Competition Assessments, the ACCC aims to provide the public with 
+a better understanding of the ACCC's analysis of various markets and the associated 
+merger and competition issues.  
+
+
+ 
+ 
+Page 2 of 16 
+ 
+7. 
+Each Public Competition Assessment is specific to the particular transaction under 
+review by the ACCC. While some transaction proposals may involve the same or 
+related markets, it should not be assumed that the analysis and decision outlined in 
+one Public Competition Assessment will be conclusive of the ACCC’s view in respect 
+of other transaction proposals, as each matter will be considered on its own merits. 
+8. 
+Public Competition Assessments outline the ACCC’s principal reasons for forming 
+views on a proposed acquisition at the time the decision was made. As such, Public 
+Competition Assessments may not definitively identify and explain all issues that the 
+ACCC considers arise from a proposed acquisition. Further, the ACCC’s decisions 
+generally involve consideration of both non-confidential and confidential information 
+provided by the merger parties and market participants. In order to maintain the 
+confidentiality of particular information, Public Competition Assessments do not refer to 
+any confidential information or its sources. 
+9. 
+This Public Competition Assessment outlines the circumstances and assessment at 
+the time of the ACCC decision. Events that have occurred post the ACCC decision that 
+are relevant to this matter are clearly identified. 
+The parties 
+The acquirer: BlueScope  
+10. 
+BlueScope is a large vertically integrated steel manufacturer and distributor listed on 
+the Australian Securities Exchange (ASX). 
+11. 
+BlueScope is the only manufacturer in Australia of steel slab through its Port Kembla 
+steelworks. The steelworks has a capacity of 2.6 million tonnes per annum. Through 
+its subsidiary Coated and Industrial Products Australia (CIPA), BlueScope processes 
+steel slab into a range of steel products classified as ‘flat steel’ products. Further 
+information on the flat steel products supply chain is provided below. 
+12. 
+In addition to CIPA, BlueScope owns and operates a number of businesses at various 
+levels of the flat steel supply chain, including in steel products distribution and 
+processing and steel product manufacturing. Of particular relevance to the proposed 
+acquisition are BlueScope's sheet and coil distribution businesses.  
+Sheet Metal Supplies and Impact Steel  
+13. 
+Sheet Metal Supplies (SMS) and Impact Steel are BlueScope's sheet and coil 
+processing and distribution subsidiaries. They both process and distribute flat steel 
+products throughout Australia to customers in a range of industries including 
+residential and non-residential construction, mining, transport, automotive 
+components, farming and other manufacturing sectors. 
+14. 
+BlueScope also has a steel and tube distribution subsidiary called BlueScope 
+Distribution. It distributes mainly long steel products (for example, pipe and tube 
+products) and steel plate.  
+Arrium 
+15. 
+Arrium (formerly OneSteel) is an international mining and materials company listed on 
+the ASX. Of most relevance to the proposed acquisition is Arrium's sheet and coil 
+processing and distribution business.  
+16. 
+The ACCC also notes, although unrelated to the proposed acquisition, that Arrium's 
+OneSteel Manufacturing business is the only manufacturer of long steel products in 
+Australia.  
+
+
+ 
+ 
+Page 3 of 16 
+ 
+The target: OS&C 
+17. 
+OS&C is a processor and distributor of flat steel products including hot rolled coil 
+(HRC), plate, cold rolled coil (CRC), galvanized coil, aluminium zinc coated coil, and 
+painted coil. OS&C operates from four sites in Granville (Sydney), Hemmant 
+(Brisbane), Kilburn (Adelaide) and Bibra Lake (Perth). 
+Industry Background  
+Flat steel products  
+18. 
+The steel supply chain in Australia is complex with a number of functional levels, 
+numerous types of steel products, multiple inputs into various manufacturing 
+processes and a global dynamic through imports and exports. 
+19. 
+Steel producers use inputs such as iron ore, coal and steel scrap to form raw steel 
+either through the method of using a basic oxygen furnace, or an electric arc furnace. 
+Raw steel is then passed through a casting machine which moulds and solidifies the 
+steel into semi-finished steel products known as 'slab', 'billets' or 'blooms'. Steel slab 
+then undergoes further processing to produce a range of 'flat' steel products. Billets 
+and blooms are further processed into 'long' steel products. It is flat steel products 
+which are relevant to the proposed acquisition.  
+20. 
+Flat steel products are steel products produced from steel slab. Specifically, steel slab 
+is reheated and passed through a rolling mill to produce HRC or a form of 'steel plate'. 
+HRC may be subject to further processing to manufacture CRC and coil plate. CRC 
+may be sold 'as is', or may undergo further processing to produce 'metallic coated 
+steel/coil' or 'painted steel/coil'. Figure 1 shows the place of sheet and coil distribution 
+in the flat steel supply chain, which is relevant to the proposed acquisition.  
+Figure 1: Sheet and Coil distribution in the flat steel supply chain 
+ 
+
+
+ 
+ 
+Page 4 of 16 
+ 
+21. 
+As noted above, with the limited exception of some painted coil products, BlueScope 
+CIPA is the only Australian manufacturer of flat steel products. These flat steel 
+products are then supplied by BlueScope CIPA to manufacturers for use as inputs to 
+further downstream manufacturing (such as roll-forming, pipe and tube manufacturing, 
+other general manufacturing such as automotive). BlueScope CIPA also supplies 
+these flat steel products to sheet and coil distributors.  
+22. 
+The other source of flat steel products is via imports, either directly from an overseas 
+steel mill or through an Australian based import trader. Imports may be in a processed 
+or unprocessed form.   
+23. 
+Relevant to the proposed acquisition is the processing and distribution of sheet and 
+coil products. This industry sector is outlined below.  
+Sheet and coil processing and distribution  
+24. 
+Sheet and coil distributors generally sell the main flat steel product categories being 
+HRC, plate, CRC, galvanized coil, aluminium zinc coated coil and painted coil. Sheet 
+and coil distributors source inputs from either BlueScope CIPA or through imports. 
+Imports are sourced either via locally based traders or directly from overseas steel 
+mills.  
+25. 
+Sheet and coil distributors can be vertically integrated with a steel mill, as is the case 
+with SMS, or they can be a BlueScope-aligned distributor where they choose to 
+purchase the bulk of their inputs from BlueScope, or they may be independent 
+purchasers of steel products that source from a mix of BlueScope CIPA and imports or 
+solely from imports.   
+26. 
+Sheet and coil distributors in most cases do not stock long steel products, such as 
+merchant bar and structural pipe and tube products. These products are distributed by 
+what the industry refers to as 'steel and tube' distributors. In some limited cases, 
+particularly in regional areas, a distributor may stock both flat and long steel products, 
+however these instances appear to be rare due to different customer profiles and 
+distinct storage and processing equipment requirements. 
+27. 
+Sheet and coil products may be distributed as unprocessed (i.e. ex-mill) or processed. 
+The processing function in sheet and coil distribution is outlined below.   
+28. 
+Distributors form a link between the steel mills and customers who, due to the size of 
+their purchasing, are not able to obtain supply directly from a steel mill. The other 
+features or characteristics of sheet and coil distribution compared to supply from a 
+steel mill are:  
+ 
+distributors are located close to customers (there are distribution outlets in each 
+of the major metropolitan centres);  
+ 
+distributors provide a wide product range, short order to delivery times, low 
+minimum volumes and other associated services such as product support and 
+less onerous credit terms than if the customer were to acquire steel direct from a 
+manufacturer; and 
+ 
+some distributors offer processing services.  
+29. 
+Customers that acquire sheet and coil direct from steel mills, as opposed to through a 
+distributor, tend to be large manufacturers with the requisite large volume of demand 
+to purchase product direct. These customers also have sizeable warehouse space to 
+store large volumes of sheet and coil products and the cash flow to pay mills for large 
+volumes of sheet and coil.  
+ 
+
+
+ 
+ 
+Page 5 of 16 
+ 
+Processing 
+30. 
+Some sheet and coil distributors have in-house processing capability through the 
+presence of slitting (cutting steel coil length-wise), and/or shearing (cutting steel coil 
+cross-wise) and/or recoiling equipment. Processing enables the distributor to supply 
+individual customers with sheet and coil products that meet their dimensional 
+requirements. The distributor undertakes the processing function at its site prior to 
+delivery to the customer's premises. It appears that a large proportion of sheet and coil 
+distribution customers require processed sheet and coil in some form.  
+31. 
+The common industry practice is for sheet and coil distributors without in-house 
+processing capability to enter into 'toll processing' arrangements with rival distributors 
+that do have in-house processing capability, or in some cases standalone processing 
+businesses. Toll processing arrangements enable distributors without in-house 
+processing capability to supply processed sheet and coil products. Processing is 
+discussed further below in the market definition section. 
+32. 
+Figure 2 provides a broad representation of the sheet and coil distribution supply chain 
+and the proposed acquisition's place in the supply chain. 
+Figure 2: Sheet and coil distribution and the proposed acquisition 
+ 
+Other industry participants  
+Southern Steel Group (Southern Steel) 
+33. 
+Southern Steel is a large privately owned steel distributor. It provides processing and 
+distribution services for a range of flat steel products from sites in Sydney, Melbourne, 
+Brisbane and Adelaide. Brice Metals is a subsidiary of Southern Steel based in South 
+Australia.  
+
+
+ 
+ 
+Page 6 of 16 
+ 
+CMC Australia (CMC) 
+34. 
+CMC is part of a global steel recycling, manufacturing, fabricating and trading 
+company (Commercial Metals Company). CMC processes and distributes sheet and 
+coil from sites in Sydney, Melbourne and Brisbane. CMC also distributes sheet and 
+coil products from a site in Perth but does not offer processing services.  
+Selection Steel Group (Selection Steel) 
+35. 
+Selection Steel is predominantly an importer of flat steel products and distributor from 
+a number of sites throughout Australia. Selection Steel has processing equipment in 
+Melbourne and utilises toll processing arrangements in other states. 
+Apex Steel 
+36. 
+Apex Steel is a sheet and coil distributor with sites in New South Wales, Queensland, 
+Victoria and South Australia. Apex Steel has processing equipment in New South 
+Wales and Victoria and utilises toll processing arrangements in other states.  
+Vulcan Steel 
+37. 
+Vulcan Steel is based in Brisbane providing distribution and processing services for a 
+range of flat steel products in Queensland.  
+The proposed transaction 
+38. 
+On 14 October 2013, BlueScope announced that it proposed to acquire from Arrium 
+certain assets of the OS&C processing and distribution business. 
+39. 
+At that time, the ACCC was also conducting simultaneous public reviews of 
+BlueScope’s proposed acquisitions of certain assets of: 
+ 
+the Orrcon Steel pipe and tube manufacturing and steel and tube distribution 
+businesses; and 
+ 
+the Fielders roll formed products business,  
+both from Hills Holdings Limited.  
+40. 
+The ACCC announced on 5 December 2013 that it would not oppose the Orrcon Steel 
+proposed acquisition. The ACCC published a Statement of Issues in respect of the 
+Fielders acquisition on 5 December 2013 and announced that it would not oppose the 
+proposed acquisition on 30 January 2014. The ACCC has published Public 
+Competition Assessments in both these matters.  
+Review timeline 
+41. 
+The following table outlines the timeline of key events in this matter.  
+Date  
+Event  
+15 October 2013 
+ACCC commenced review under the Merger Review 
+Process Guidelines. 
+1 November 2013 
+Closing date for submissions from interested parties. ACCC 
+assessing information provided during market inquiries and 
+consulting with merger parties on any relevant issues or 
+concerns arising. 
+
+
+ 
+ 
+Page 7 of 16 
+ 
+14 November 2013 
+ACCC requested further information from merger parties. 
+3 December 2013 
+ACCC received further information from the merger parties. 
+ACCC amended former provisional date for announcement 
+of findings (5 December). 
+19 December 2013 
+ACCC published a Statement of Issues outlining preliminary 
+competition concerns. 
+24 January 2014 
+Closing date for submissions relating to Statement of Issues. 
+ACCC assessing information provided during market 
+inquiries and consulting with merger parties on relevant 
+issues or concerns arising. 
+7 February 2014 
+Draft 87B undertaking proffered by BlueScope. 
+11 February 2014 
+ACCC commenced market inquiries on draft s87B 
+undertaking. 
+12 February 2014 
+Closing date for submissions regarding BlueScope's draft 
+s87B undertaking. 
+6 March 2014 
+ACCC announced it would not oppose the proposed 
+acquisition subject to an undertaking accepted by the ACCC. 
+Statement of Issues 
+42. 
+The ACCC issued a Statement of Issues (SoI) on 19 December 2013. In the SoI, the 
+ACCC identified one issue which raised significant competition concerns, and three 
+issues which it considered were unlikely to raise competition concerns. 
+43. 
+The ACCC considered that the proposed acquisition was likely to result in a substantial 
+lessening of competition in the sheet and coil processing and distribution market in 
+Western Australia. The ACCC noted that BlueScope and OS&C were each other’s 
+closest competitors in Western Australia. In particular, market inquiries indicated that 
+BlueScope and OS&C were the only significant distributors with processing capability. 
+Due to this processing capability, for a large pool of customers, the merger parties 
+were considered the only viable alternatives for the distribution of sheet and coil 
+products.  
+44. 
+In the SoI the ACCC expressed the preliminary view that the merged firm would be 
+unlikely to be constrained by alternative distributors, such as CMC, and the ability of 
+customers to utilise direct imports of processed sheet and coil products.  
+45. 
+The ACCC identified in the SoI that the proposed acquisition was unlikely to raise 
+competition concerns in regard to: 
+ 
+sheet and coil distribution in other markets;  
+ 
+rival sheet and coil distributors’ access to inputs; and 
+ 
+rival sheet and coil distribution input suppliers’ access to customers. 
+
+
+ 
+ 
+Page 8 of 16 
+ 
+Market inquiries  
+46. 
+The ACCC conducted market inquiries with a range of interested parties, including 
+rival distributors, customers of distributors and industry associations. Following the 
+release of the SoI and the provision of the draft undertaking by BlueScope, market 
+inquiries focused on customers and distributors in Western Australia and whether the 
+undertaking would remedy the ACCC’s competition concerns.  
+Future with/without the proposed acquisition 
+47. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect or be 
+likely to have the effect of substantially lessening competition in a market. In assessing 
+a proposed acquisition pursuant to section 50 of the Act, the ACCC considers the 
+effects of the acquisition by comparing the likely future competitive environment post-
+acquisition if the acquisition proceeds (the “with” position) to the likely future 
+competitive environment if the acquisition does not proceed (the “without” position) to 
+determine whether the proposed acquisition is likely to substantially lessen competition 
+in any relevant market. 
+48. 
+Arrium publicly indicated its intention to divest its non-integrated steel businesses, 
+including OS&C. The ACCC considered that absent the proposed acquisition Arrium 
+would look to divest OS&C in its entirety to another purchaser or would sell individual 
+sites and associated assets (e.g. processing equipment) to other purchasers. As a 
+consequence, the ACCC concluded that in the absence of the proposed acquisition, 
+the OS&C business and its associated assets would remain in the relevant markets as 
+an independent alternative to BlueScope’s sheet and coil distribution businesses.  
+Areas of overlap  
+49. 
+BlueScope and OS&C overlapped in sheet and coil processing and distribution in the 
+following regions:  
+ 
+North-Eastern Australia (centred in Brisbane); 
+ 
+Central-Eastern Australia (centred in Sydney);  
+ 
+South Australia (centred in Adelaide); and 
+ 
+Western Australia (centred in Perth).  
+Relevant Markets 
+50. 
+The ACCC considered the proposed acquisition in the context of the following markets:  
+ 
+regional markets for sheet and coil processing and distribution in: 
+o 
+North-Eastern Australia; 
+o 
+Central-Eastern Australia;  
+o 
+South Australia; and 
+o 
+Western Australia. 
+ 
+national markets for the supply of each of the following sheet and coil distribution 
+inputs: 
+o 
+ plate; 
+o 
+ HRC;  
+o 
+ galvanised coil;  
+
+
+ 
+ 
+Page 9 of 16 
+ 
+o 
+ aluminium zinc coil;  
+o 
+ CRC; and 
+o 
+ painted coil,  
+(collectively, sheet and coil distribution inputs). 
+51. 
+An overview of these markets is provided below.   
+Sheet and coil processing and distribution 
+Product dimension 
+52. 
+Sheet and coil distributors supply a range of flat steel products, including HRC, CRC, 
+galvanised coil, aluminium zinc coil, and painted coil in both processed and 
+unprocessed forms. To the extent that distributors do not offer a certain product 
+category, it appears they can readily expand utilising their existing warehousing and 
+equipment to offer a wider range. These products can be sourced with relative ease 
+from either BlueScope CIPA or through imports. 
+53. 
+The ACCC considered that distributors can be distinguished by whether they have in-
+house processing capability (e.g. shearing and slitting equipment) or not.  Distributors 
+that have in-house processing capability distribute processed and unprocessed 
+products, and may offer toll processing to distributors that do not have processing 
+capability. Distributors that do not have in-house processing capability supply 
+unprocessed products, and may also supply processed products through utilising a toll 
+processing arrangement.  
+54. 
+The equipment necessary to offer processing services (e.g. a shear line) is capital 
+intensive, involves economies of scale such that minimum efficient scale may be large 
+relative to market size, takes a lengthy period to source and install and also consumes 
+a significant area of land. For these reasons, smaller distributors often enter into toll 
+processing agreements with distributors that have processing equipment (or 
+standalone processing businesses). The ability of distributors to enter a toll processing 
+agreement on competitive terms will be dependent on the number of parties that offer 
+such services in the geographic area. 
+55. 
+In most markets customers generally do not distinguish between distributors that have 
+processing capability and those that do not. The industry practice of entering into toll 
+processing arrangements means that distributors without processing capability may 
+often be substitutable from a customer perspective with distributors that do have 
+processing capability.  
+56. 
+Due to specific end-use requirements, there is little scope for demand side substitution 
+between various sheet and coil products (e.g. HRC and CRC), and further between 
+specific grades and dimensions of products. In addition, there is no scope to substitute 
+between processed sheet and coil products and unprocessed sheet and coil products. 
+A customer that requires coil to be slitted to a particular dimension would not consider 
+non-slitted coil to be an alternative.   
+57. 
+In addition, in most cases direct imports by customers of unprocessed, and in 
+particular processed, products are not a substitute for domestic sheet and coil 
+products distributed by companies such as OS&C. Customers in most cases do not 
+have the volume requirements to make direct purchases from a steel mill or via an 
+intermediary (e.g. import traders) viable.  Further, direct imports by customers face 
+other barriers such as the lengthy timeframes for delivery, difficulty matching supply 
+volumes with demand, and the risk of damage to product during shipment.  
+
+
+ 
+ 
+Page 10 of 16 
+ 
+58. 
+The ACCC concluded that for the purposes of considering the proposed acquisition, a 
+broad market encompassing distributors with and without processing capability was 
+appropriate. Nonetheless, the ACCC noted that BlueScope and OS&C had processing 
+capabilities at all sites and as a consequence the focus of the ACCC’s review was on 
+whether the removal of OS&C as a distributor with processing capability, including 
+offering toll processing arrangements to rival distributors, would impact on the large set 
+of customers that require processed sheet and coil products.  
+Geographic dimension 
+59. 
+As noted above BlueScope and OS&C overlapped in four separate regions of Australia 
+(Western Australia, South Australia, North-Eastern Australia and Central-Eastern 
+Australia). The ACCC considered that these regions represent relevant geographic 
+markets for considering the proposed acquisition. Market inquiries indicated that due to 
+high transport costs and the need for short delivery times, customers did not consider 
+that distributors located in another region are alternatives to a closely located 
+distributor. 
+Supply of sheet and coil distribution inputs 
+Product dimension 
+60. 
+The following flat steel products are the key product inputs into sheet and coil 
+distribution:  
+ 
+plate; 
+ 
+HRC;  
+ 
+galvanised coil; 
+ 
+aluminium zinc coil; 
+ 
+CRC; and 
+ 
+painted coil.  
+61. 
+Due to the specific end use requirements of their customers, distributors are not able 
+to substitute between the different types of input (e.g. HRC and galvanised coil) and 
+grades and dimensions of coil. 
+62. 
+Most suppliers of inputs (BlueScope CIPA, import traders, overseas steel mills) supply 
+a wide range of the flat steel inputs in the grades and dimensions required by 
+Australian sheet and coil distributors. As a consequence, the ACCC concluded that it 
+was appropriate to define separate product markets for each of the main sheet and coil 
+distribution inputs as opposed to narrower markets based on other factors, such as 
+grade or dimension. In the competition assessment below the ACCC has referred to 
+these separate product markets as collectively ‘sheet and coil distribution inputs’.   
+Geographic dimension 
+63. 
+The ACCC concluded that the geographic scope of the sheet and coil distribution input 
+markets is national. BlueScope CIPA from its Port Kembla steelworks and other 
+suppliers, such as import traders, supply sheet and coil distributors across Australia. 
+Competition Assessment 
+64. 
+As noted above, BlueScope and OS&C overlapped in sheet and coil distribution in four 
+regions. As a consequence, the ACCC considered whether the aggregation of 
+BlueScope and OS&C would provide the merged firm with the ability to unilaterally 
+
+
+ 
+ 
+Page 11 of 16 
+ 
+increase the price and/or decrease service in sheet and coil distribution in each of 
+these regions.  
+65. 
+The ACCC also considered the potential competition issues resulting from the 
+proposed acquisition by virtue of BlueScope being the only Australian manufacturer of 
+almost all sheet and coil distribution inputs. The acquisition of OS&C would increase 
+BlueScope’s vertical integration into sheet and coil distribution. This increased vertical 
+integration raised two potential theories of harm which were considered by the ACCC: 
+ 
+whether BlueScope would have the ability and incentive to raise rival distributors’ 
+costs by foreclosing the supply of these inputs, potentially reducing competition 
+in sheet and coil distribution in the relevant regional markets; and 
+ 
+whether BlueScope may have the ability and incentive to significantly foreclose 
+competing suppliers’ (i.e. import traders) access to customers, potentially 
+resulting in a substantial lessening of competition in the supply of sheet and coil 
+distribution inputs.  
+66. 
+These potential competition issues are considered below.  
+Reduced competition in sheet and coil distribution in Western Australia 
+67. 
+Market inquiries prior to the publication of the SoI indicated that the horizontal 
+aggregation of BlueScope and OS&C was most likely to raise competition concerns in 
+the sheet and coil distribution market in Western Australia. The SoI considered that the 
+removal of OS&C as a distributor with processing capability would likely provide 
+BlueScope with unilateral market power to increase prices and/or decrease service in 
+that region. 
+Closeness of competition and alternative distributors 
+68. 
+The ACCC’s investigation found BlueScope and OS&C to be each other’s closest 
+competitors in sheet and coil distribution in Western Australia. In particular, the merger 
+parties competed closely in respect of pricing, service, range of products and terms of 
+delivery for the processing and distribution of sheet and coil products.  
+69. 
+Importantly the merger parties were the only two significant sheet and coil distributors 
+in Western Australia with processing capability. For a large pool of customers the 
+merger parties were considered the main alternatives for sheet and coil distribution. 
+70. 
+ Market inquiries indicated that OS&C was considered by many customers as a strong 
+competitor which regularly offered sheet and coil products at lower prices than 
+BlueScope and on more favourable terms of supply, including longer payment periods. 
+In addition, OS&C offered customers imported sheet and coil products, including 
+products requested by individual customers. The ACCC considered that post-
+acquisition BlueScope would be unlikely to offer imported sheet and coil products due 
+to its vertically integrated sheet and coil manufacturing operations in BlueScope CIPA.  
+71. 
+The ACCC concluded that post-acquisition alternative distributors were unlikely to 
+impose a strong competitive constraint on the merged firm’s sheet and coil distribution 
+business in Western Australia. Alternative sheet and coil distributors in Western 
+Australia, including CMC, West Coast Steel and Brice Metals, do not have their own 
+processing capability and would be dependent on the merged firm for access to toll 
+processing arrangements. This would limit their ability to compete for the large pool of 
+customers who require processed flat steel products.  In addition, customers 
+expressed the view that these alternative distributors were not competitive with the 
+merger parties in terms of price and product range.  
+72. 
+Smaller distributors and new entrants in regions other than Western Australia often 
+rely on toll processing arrangements in order to offer processed sheet and coil 
+
+
+ 
+ 
+Page 12 of 16 
+ 
+products. In these regions there are a number of distributors that offer toll processing. 
+However, in Western Australia it is only the merger parties that offer toll processing 
+arrangements to other distributors. Post-acquisition the ability of rival distributors 
+without processing capability, such as CMC and West Coast Steel, to provide a 
+constraint on the merged firm would be further restricted through only having the 
+merged firm as an option for a toll processing arrangement. 
+Imports as an alternative 
+73. 
+The ACCC concluded that direct imports of processed and unprocessed sheet and coil 
+products would not be a strong alternative to the merged firm post-acquisition.  
+74. 
+The ACCC was aware of instances where large customers in Western Australia 
+directly imported unprocessed and processed sheet and coil products. Imports are 
+often managed on the customer’s behalf by an import trader or distributor, such as 
+Brice Metals, and are transported to Perth and then delivered to the customer’s site. 
+75. 
+The ACCC found that direct imports by customers tend to be only feasible for 
+customers that utilise large volumes of sheet and coil products and have predictable 
+manufacturing operations and downstream demand for their products. The lengthy 
+lead time (3 – 4 months) associated with the delivery of imports means they are not 
+suitable for customers that utilise the sheet and coil products in the manufacture of 
+items that have variable demand or short lead times for delivery, such as project based 
+work.  
+76. 
+Market inquiries with large customers also indicated that barriers to utilising direct 
+imports include the need for additional warehousing at the customer’s site to store the 
+coil and the cash flow implications of having to order large volumes of inventory that 
+have a long lead time for delivery.  
+77. 
+To the extent that processed sheet and coil products are imported it tends to be by 
+large customers that import in standard dimensions, not customised dimensions which 
+often requires further processing. Imports of processed products appear to be sporadic 
+in nature and often on a spot basis. The ACCC understands that imported processed 
+product is much more susceptible to damage than unprocessed product. The ACCC 
+considered that direct imports would not represent a competitive alternative to the 
+supply of processed sheet and coil products from the merged firm.   
+Barriers to entry and expansion 
+78. 
+The ACCC concluded that barriers to entry and expansion in sheet and coil distribution 
+are high and the merged firm would not be constrained by the threat of entry.  
+79. 
+In order to provide a viable constraint on the merged firm the ACCC considered that 
+any new entrant or expanding incumbent would require processing capability either by 
+buying processing equipment or entering into tolling arrangements with a third party.  
+80. 
+Distributors submitted to the ACCC that the cost of new processing equipment (shear 
+and slitting lines) is capital intensive, approximately $4–-5 million, particularly in a 
+market of low or declining demand. The market for second hand equipment appears to 
+be limited. Further, market inquiries indicated that a distributor would be reluctant to 
+invest this capital, adding significant additional capacity to a market which is 
+experiencing negative sales growth and low profitability, and with incumbent 
+distributors currently having significant excess capacity that could be deployed against 
+any new entrant or expanding distributor.  
+81. 
+The timeframe for installing and making operational the processing equipment would 
+be approximately 12 – 18 months and the equipment requires a significant area of land 
+at a distribution site.   
+
+
+ 
+ 
+Page 13 of 16 
+ 
+82. 
+Based on market inquiries, the ACCC considered that if the merged firm were to 
+increase prices and/or decrease service, it would be unlikely that rival distributors or 
+potential new entrants (e.g. distributors based in other regions) would invest in the 
+processing capability and incur the other associated entry/expansion costs necessary 
+to constrain the merged firm.  
+83. 
+The ACCC also considered that the proposed acquisition was likely to raise barriers to 
+entry and expansion for sheet and coil distribution in Western Australia. Some sheet 
+and coil distributors have previously utilised toll processing arrangements as a means 
+to facilitate entry in other markets and build up a critical mass of customers prior to 
+making a decision on whether investment in processing capability is warranted.  
+84. 
+The merger would result in BlueScope being the only significant provider of toll 
+processing arrangements in Western Australia and would decrease its incentive to 
+offer a new entrant competitive toll processing services. As a consequence, a new 
+entrant in Western Australia would likely have to enter with processing capability which 
+would significantly increase the investment associated with entry as opposed to 
+utilising toll processing to facilitate entry.   
+Conclusion – sheet and coil distribution in Western Australia 
+85. 
+The ACCC concluded that absent the undertaking offered by BlueScope the proposed 
+acquisition would likely have resulted in a substantial lessening of competition in the 
+market for sheet and coil distribution in Western Australia. The ACCC’s assessment of 
+the undertaking is provided later in this Public Competition Assessment.  
+Sheet and coil distribution in other regional markets 
+86. 
+The ACCC also considered whether the aggregation of BlueScope and OS&C would 
+enable the merged firm to unilaterally raise prices or decrease customer service in 
+sheet and coil distribution in the North-Eastern Australia, Central-Eastern Australia and 
+South Australian regional markets. 
+87. 
+The ACCC concluded that in each of the three markets the merged firm would be 
+constrained by a number of alternative distributors which offer a similar range of sheet 
+and coil products and have excess capacity to expand were the merged firm to attempt 
+to increase price or degrade service levels.  
+88. 
+The ACCC noted that in each of these regional markets there are a number of 
+alternative distributors with in-house processing capability. These alternative 
+distributors offer processed sheet and coil products to customers and additionally enter 
+into toll processing arrangements with other sheet and coil distributors. 
+89. 
+Switching costs are low for customers wishing to move between distributors as formal 
+supply agreements or contracts are not common. Indeed, large customers often have 
+a dual sourcing strategy. In addition, a number of customers often obtain sheet and 
+coil products on a spot or project basis and are able to obtain quotes from a number of 
+distributors before selecting the supplier based on price, service and product 
+availability.  
+90. 
+Market inquiries identified that customers were not concerned with the effect of the 
+acquisition on sheet and coil distribution in South Australia, North-Eastern Australia 
+and Central-Eastern Australia.  
+91. 
+As with Western Australia the ACCC is of the view that barriers to entry are high and 
+the merged firm is unlikely to be constrained in the foreseeable future by the threat of 
+entry in these markets. Nonetheless, the merged firm would be constrained by the 
+presence of alternative distributors with in-house processing capability in all states, 
+which also offer toll processing arrangements.  
+
+
+ 
+ 
+Page 14 of 16 
+ 
+Foreclosure of rival sheet and coil distributors’ access to inputs 
+92. 
+As outlined above, BlueScope’s CIPA subsidiary is, with the exception of painted coil, 
+the only domestic manufacturer of sheet and coil distribution inputs. As a 
+consequence, the ACCC investigated whether the proposed acquisition would provide 
+BlueScope with an increased ability and/or incentive to leverage any market power it 
+may have in the supply of these inputs to raise rival distributors’ costs by foreclosing 
+access to sheet and coil inputs or supplying at discriminatory prices (and/or other 
+terms of supply). 
+93. 
+The ACCC’s review focused on the extent to which imports represented a viable 
+alternative to BlueScope CIPA in the supply of sheet and coil distribution inputs and 
+thereby an option for sheet and coil distributors in the event that BlueScope pursued a 
+foreclosure strategy.  
+94. 
+The ACCC considered that imports represent a strong alternative source of supply to 
+BlueScope CIPA and therefore a close competitive constraint. The ACCC concluded 
+that the constraint that imports provide on BlueScope CIPA’s supply is represented by 
+the significant volumes of imports over a number of years.  
+95. 
+Imports of aluminium zinc and galvanised coil have represented 35% – 40% over the 
+past three years for the overall supply of these products, including supply to sheet and 
+coil distributors. The ACCC was aware of a number of sheet and coil distributors that 
+rely predominantly on overseas steel mills or domestic import traders for their supply of 
+inputs. 
+96. 
+In addition, the ACCC received information that indicated a strong correlation between 
+BlueScope CIPA’s price of most sheet and coil distribution inputs and import prices for 
+the respective inputs.  
+97. 
+Market inquiries and other information received by the ACCC indicated that 
+BlueScope’s applications for anti-dumping and countervailing duties in respect of 
+certain steel products, including sheet and coil distribution inputs (e.g. HRC and 
+galvanised coil) have had an impact on the competitive constraint imposed by imports 
+on BlueScope CIPA. This impact appears to be reflected in lower volumes and higher 
+pricing of imported steel products following the lodgement of a number of anti-dumping 
+applications since May 2012. Nevertheless, the overall import levels of the major sheet 
+and coil distribution inputs remain significant. 
+98. 
+The ACCC recognised that importing sheet and coil distribution inputs imposes 
+additional logistical challenges, particularly through longer lead times. However, the 
+ACCC considered that these challenges can be overcome as evidenced by the volume 
+of sheet and coil distribution inputs that are imported.  
+99. 
+Consistent with the review of BlueScope’s proposed acquisition of Fielders, the ACCC 
+found that BlueScope’s COLORBOND range of painted coil products enjoy strong 
+customer loyalty and a dominant share of the painted coil products supplied in 
+Australia. However, for sheet and coil distributors painted coil products represent a 
+small proportion of the overall value and volume of sales and the acquisition is unlikely 
+to increase BlueScope’s ability or incentive to engage in anti-competitive bundling.  
+100. The ACCC concluded that imports represent a viable alternative source of supply for 
+the majority of sheet and coil distribution inputs and that were BlueScope to attempt to 
+pursue a foreclosure strategy then rival sheet and coil distributors would be able to 
+defeat it through utilising imports.  
+
+
+ 
+ 
+Page 15 of 16 
+ 
+Foreclosure of rival steel coil suppliers’ access to customers 
+101. The ACCC considered whether BlueScope’s rival sheet and coil distribution input 
+suppliers (i.e. import traders) would lack sufficient alternative customers following the 
+loss of OS&C as an independent customer. This could reduce rivals’ economies of 
+scale, thereby increasing their costs and reducing competition to BlueScope in the 
+supply of these inputs. 
+102. The ACCC concluded that the acquisition was unlikely to cause a substantial lessening 
+of competition in the market for the supply of sheet and coil distribution inputs. While 
+OS&C is a significant acquirer of sheet and coil distribution inputs, from BlueScope 
+CIPA and via imports, rival suppliers would continue to have a large pool of potential 
+customers post-acquisition. These potential customers include other sheet and coil 
+distributors and the large pool of other contestable customers of steel products present 
+in other markets, including downstream manufacturing of various steel products.   
+Undertaking 
+103. In order to remedy competition concerns identified by the ACCC in respect of sheet 
+and coil distribution in Western Australia, BlueScope proposed to divest its processing 
+equipment, associated assets and transfer the lease of its sheet and coil distribution 
+site in Western Australia (divestiture assets) to a purchaser to be approved by the 
+ACCC. BlueScope offered the ACCC a court enforceable undertaking, pursuant to 
+section 87B of the Act, to commit to this divestiture. 
+104. The ACCC investigated whether the court enforceable undertaking proposed by 
+BlueScope would address the competition concerns identified by the ACCC in sheet 
+and coil distribution in Western Australia.  
+Proposed Purchaser – Selection Steel 
+105. The ACCC considered that Selection Steel Trading Pty Ltd (Selection Steel) would be 
+able to operate the divestiture assets effectively in Western Australia and that following 
+the divestiture of the assets and transfer of the lease to BlueScope’s sheet and coil 
+distribution site in Perth, would represent a standalone, long term, independent and 
+effective competitor in sheet and coil distribution in Western Australia.   
+106. In its assessment of Selection Steel as the proposed purchaser of the divestiture 
+assets the ACCC noted: 
+ 
+Selection Steel is an experienced distributor of sheet and coil steel products in 
+Western Australia and a distributor of sheet and coil steel products, including 
+with processing capability, in other states; 
+ 
+customers of Selection Steel in Victoria provided positive feedback regarding 
+Selection Steel’s price competitiveness, service, delivery times and product 
+quality; and 
+ 
+processing and distribution customers in Western Australia indicated a 
+willingness to switch to obtaining supply of processed sheet and coil steel 
+products from Selection Steel if Selection Steel is price competitive.  
+107. The ACCC was satisfied that the scope of the divestiture package was sufficient to 
+provide Selection Steel with the assets, technical assistance, and interim supply of 
+sheet and coil products necessary to establish itself as a viable, independent and long 
+term competitor to BlueScope in sheet and coil distribution in Western Australia. The 
+divestiture package included BlueScope’s shear line and slitter, and the lease over the 
+site at which these machines are installed.  
+
+
+ 
+ 
+Page 16 of 16 
+ 
+108. The ACCC considered that Selection Steel was sufficiently independent of BlueScope 
+and the fact that Selection Steel purchases small volumes of flat steel products from 
+BlueScope was unlikely to result in Selection Steel having a reduced incentive to 
+compete with BlueScope in sheet and coil distribution in Western Australia.  
+109. Accordingly, the ACCC was satisfied that Selection Steel was a suitable purchaser of 
+the divestiture assets.   
+Conclusion  
+110. On the basis of the above, including taking into account the proposed undertaking, the 
+ACCC formed the view that the proposed acquisition of OS&C by BlueScope would be 
+unlikely to result in a substantial lessening of competition in any market in 
+contravention of section 50 of the Act. 
+ 

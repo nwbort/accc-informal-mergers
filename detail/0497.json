@@ -1,0 +1,45 @@
+{
+  "id": "0497",
+  "title": "Santos Limited - proposed acquisition of Eastern Star Gas Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/santos-limited-proposed-acquisition-of-eastern-star-gas-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46457",
+  "industries": [
+    "Oil & Gas"
+  ],
+  "date_completed": "6 September 2011",
+  "date_completed_iso": "2011-09-06T12:00:00Z",
+  "date_commenced": "28 July 2011",
+  "date_commenced_iso": "2011-07-28T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Santos Limited",
+    "Truenergy Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Eastern Star Gas Limited"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jul 2011",
+      "date_iso": "2011-07-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Aug 2011",
+      "date_iso": "2011-08-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Sep 2011",
+      "date_iso": "2011-09-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Santos proposed to acquire 100% of ESG. The  proposed arrangements also involved the subsequent sale of a 20% working level interest in ESG's permits in the Gunnedah Basin to TRUenergy Holdings Pty Ltd",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in terms of a market for the wholesale supply of gas in eastern Australia. However, the ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant market for the following reasons: - the proposed acquisition would only lead to a small horizontal aggregation; - there would continue to be a number of alternative sources of gas for domestic gas use in eastern Australia; and - the proposed acquisition was unlikely to have any vertical effects. TRUenergy was involved in related downstream retail markets (e.g. the retail supply of gas in NSW) but TRUenergy's upstream interests post acquisition would remain insignificant."
+  }
+}

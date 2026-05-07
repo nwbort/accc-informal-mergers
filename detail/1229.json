@@ -1,0 +1,44 @@
+{
+  "id": "1229",
+  "title": "TRUEnergy Australia Pty Ltd - proposed acquisition of Sun Gas, Sun Retail",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/truenergy-australia-pty-ltd-proposed-acquisition-of-sun-gas-sun-retail",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25058",
+  "industries": [
+    "Gas & electricity"
+  ],
+  "date_completed": "29 August 2006",
+  "date_completed_iso": "2006-08-29T12:00:00Z",
+  "date_commenced": "2 August 2006",
+  "date_commenced_iso": "2006-08-02T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "TRUenergy Pty Ltd"
+  ],
+  "targets": [
+    "Sun Gas<br/> Sun Retail"
+  ],
+  "timeline": [
+    {
+      "date": "2 Aug 2006",
+      "date_iso": "2006-08-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "23 Aug 2006",
+      "date_iso": "2006-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "29 Aug 2006",
+      "date_iso": "2006-08-29T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "TRUenergy sought an informal clearance to acquire Sun Retail and Sun Gas, which were being sold by the Queensland Government pursuant to a tender process.",
+    "Market definition": "The ACCC did not consider it was necessary to reach a conclusive view in relation to market definition for this matter.  However, the likely key relevant markets were electricity retailing and gas retailing markets.",
+    "Competition analysis": "TRUenergy and Sun Retail are both retailers of electricity to large or industrial customers in Queensland.  As such, the proposed acquisition will result in some horizontal aggregation in Queensland. Nevertheless, this aggregation is likely to be minor, given the relatively small scale of TRUenergy's operations in Queensland.  No vertical integration issues arose in the ACCC's assessment. Therefore, the ACCC considered that the proposed acquisition was unlikely to lead to a substantial lessening of competition."
+  }
+}

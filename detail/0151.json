@@ -1,0 +1,82 @@
+{
+  "id": "0151",
+  "title": "Proposed merger between Cengage Learning and McGraw-Hill Education",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-between-cengage-learning-and-mcgraw-hill-education",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Text Book supplies"
+  ],
+  "date_completed": "5 May 2020",
+  "date_completed_iso": "2020-05-05T12:00:00Z",
+  "date_commenced": "2 September 2019",
+  "date_commenced_iso": "2019-09-02T12:00:00Z",
+  "total_review_days": 71,
+  "acquirers": [
+    "Cengage Learning"
+  ],
+  "targets": [
+    "McGraw-Hill Education."
+  ],
+  "timeline": [
+    {
+      "date": "2 Sep 2019",
+      "date_iso": "2019-09-02T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Sep 2019",
+      "date_iso": "2019-09-17T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "4 Oct 2019",
+      "date_iso": "2019-10-04T12:00:00Z",
+      "event": "ACCC requested further information from the parties"
+    },
+    {
+      "date": "15 Oct 2019",
+      "date_iso": "2019-10-15T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (21 November) is delayed to allow the parties more time to provide additional information."
+    },
+    {
+      "date": "28 Oct 2019",
+      "date_iso": "2019-10-28T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "12 Dec 2019",
+      "date_iso": "2019-12-12T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "23 Dec 2019",
+      "date_iso": "2019-12-23T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "20 Jan 2020",
+      "date_iso": "2020-01-20T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "6 Feb 2020",
+      "date_iso": "2020-02-06T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of ACCC’s findings (12 March 2020) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "5 May 2020",
+      "date_iso": "2020-05-05T12:00:00Z",
+      "event": "ACCC discontinued its public review after Cengage and McGraw-Hill advised that the merger would not be proceeding."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "The parties are both active in education publishing and the transaction involves the combination of Cengage's and McGraw-Hill's global publishing businesses."
+  }
+}

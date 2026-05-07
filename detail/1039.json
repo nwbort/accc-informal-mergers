@@ -1,0 +1,59 @@
+{
+  "id": "1039",
+  "title": "ACP Magazines Pty Ltd - acquisition of EMAP Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acp-magazines-pty-ltd-acquisition-of-emap-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29195",
+  "industries": [
+    "Magazine publishing"
+  ],
+  "date_completed": "18 September 2007",
+  "date_completed_iso": "2007-09-18T12:00:00Z",
+  "date_commenced": "16 August 2007",
+  "date_commenced_iso": "2007-08-16T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "ACP Magazines Pty Ltd"
+  ],
+  "targets": [
+    "EMAP Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "16 Aug 2007",
+      "date_iso": "2007-08-16T12:00:00Z",
+      "event": "ACCC commences review under the Mergers Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "23 Aug 2007",
+      "date_iso": "2007-08-23T12:00:00Z",
+      "event": "ACCC requested further information from ACP Magazines. ACCC timeline suspended."
+    },
+    {
+      "date": "31 Aug 2007",
+      "date_iso": "2007-08-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Sep 2007",
+      "date_iso": "2007-09-03T12:00:00Z",
+      "event": "ACCC received further information from ACP Magazines. ACCC timeline recommenced."
+    },
+    {
+      "date": "12 Sep 2007",
+      "date_iso": "2007-09-12T12:00:00Z",
+      "event": "Acquisition completed."
+    },
+    {
+      "date": "18 Sep 2007",
+      "date_iso": "2007-09-18T12:00:00Z",
+      "event": "ACCC decided not to oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ACP Magazines has acquired EMAP Australia.",
+    "Market definition": "The acquisition was considered in the context of separate markets for the acquisition of content, supply of advertising space and supply of magazines to consumers for each of men's lifestyle, women's fashion and parenting magazines.",
+    "Competition analysis": "On 18 September 2007 the ACCC formed the view after conducting market inquiries that the acquisition is unlikely to substantially lessen competition in the relevant markets. The ACCC concluded it is unlikely that the merged firm would have the ability and incentive to unilaterally exercise market power. Factors informing this conclusion included: - the merged firm would continue to face effective competition from domestic publishers and imported magazines; - recent successful entry suggests that cover prices and advertising rates are likely to be constrained by entry and expansion of rival publishers; and - a rival publisher has publicly stated it intends to expand its magazine business."
+  }
+}

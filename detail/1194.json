@@ -1,0 +1,44 @@
+{
+  "id": "1194",
+  "title": "Danaher Corporation - proposed acquisition of Vision Systems Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/danaher-corporation-proposed-acquisition-of-vision-systems-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25738",
+  "industries": [
+    "Medical Technology"
+  ],
+  "date_completed": "16 November 2006",
+  "date_completed_iso": "2006-11-16T12:00:00Z",
+  "date_commenced": "18 October 2006",
+  "date_commenced_iso": "2006-10-18T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Danaher Corporation"
+  ],
+  "targets": [
+    "Vision Systems Limited"
+  ],
+  "timeline": [
+    {
+      "date": "18 Oct 2006",
+      "date_iso": "2006-10-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "8 Nov 2006",
+      "date_iso": "2006-11-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "16 Nov 2006",
+      "date_iso": "2006-11-16T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Danaher Corporation proposed to acquire Vision Systems Ltd by way of a tender offer.  Vision and Leica, a wholly-owned subsidiary of Danaher, supplied a range of products to the pathology industry.",
+    "Market definition": "Without forming a definitive view on market definition, the ACCC considered a range of markets related to various stages of pathology testing.",
+    "Competition analysis": "On the basis of market inquiries, the ACCC considered that a range of alternative suppliers in the relevant markets would be likely to act as a constraint on the merged entity and the proposed acquisition was therefore unlikely to result in a substantial lessening of competition."
+  }
+}

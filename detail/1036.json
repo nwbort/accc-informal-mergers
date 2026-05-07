@@ -1,0 +1,49 @@
+{
+  "id": "1036",
+  "title": "Tasmanian Port Corporation Pty Ltd - acquisition of North Western Shipping and Towage Company Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tasmanian-port-corporation-pty-ltd-acquisition-of-north-western-shipping-and-towage-company-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28911",
+  "industries": [
+    "Shipping and Cargo"
+  ],
+  "date_completed": "27 September 2007",
+  "date_completed_iso": "2007-09-27T12:00:00Z",
+  "date_commenced": "22 August 2007",
+  "date_commenced_iso": "2007-08-22T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Tasmanian Port Corporation Pty Ltd"
+  ],
+  "targets": [
+    "North Western Shipping and Towage Company Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 Aug 2007",
+      "date_iso": "2007-08-17T12:00:00Z",
+      "event": "TasPorts acquired the tug towage business of North Western Shipping."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Sep 2007",
+      "date_iso": "2007-09-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Sep 2007",
+      "date_iso": "2007-09-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Tasmanian Ports Corporation Pty Ltd proposed to acquire North Western Shipping and Towage Company Ptd Ltd's Tasmanian tug towage business.",
+    "Market definition": "The ACCC considered the relevant markets likely to be the provision of harbour towage services for single ports in Tasmania, and where two ports were very close together, the ACCC considered there may be markets for harbour towage in port areas.",
+    "Competition analysis": "The ACCC determined that the potential competition in the market prior to the transaction was likely to have been limited and was unlikely to have changed following the acquisition.  Subsequently, the ACCC formed the view that the proposed acquisition was unlikely to substantiallly lessen competition in the relevant market."
+  }
+}

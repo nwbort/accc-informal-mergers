@@ -1,0 +1,31 @@
+{
+  "id": "1493",
+  "title": "Acquirer: Sensis Pty Ltd; Target: LookSmart Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-sensis-pty-ltd-target-looksmart-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19092",
+  "industries": [],
+  "date_completed": "5 March 2004",
+  "date_completed_iso": "2004-03-05T12:00:00Z",
+  "date_commenced": "18 February 2004",
+  "date_commenced_iso": "2004-02-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Sensis Pty Ltd"
+  ],
+  "targets": [
+    "LookSmart Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Sensis (advertising subsidiary of Telstra) acquired a range of assets of LookSmart Ltd (the Australian assets of LookSmart International Pty Ltd).  Assets include online search tools and staff.",
+    "Market definition": "Various relevant markets were considered, including online directory services, online advertising and marketing, and online search services.",
+    "Competition analysis": "Based on the information provided and other material, staff considered that there was unlikely to be a substantial lessening of competition, due to: - LookSmart and Sensis essentially operating in different segments of the market for Online Advertising and Marketing; - The acquisition allowing Sensis to become more involved in Online Search Services through the use of a \"pay for performance\" auctioning tool, which it did not previously have; and - Looksmart is able to continue operations in its own right.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "7852"
+  }
+}

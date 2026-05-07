@@ -1,0 +1,44 @@
+{
+  "id": "0401",
+  "title": "Industrea Ltd - completed acquisition of AJ Lucas Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/industrea-ltd-completed-acquisition-of-aj-lucas-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47301",
+  "industries": [
+    "Mining / Drilling"
+  ],
+  "date_completed": "12 February 2013",
+  "date_completed_iso": "2013-02-12T12:00:00Z",
+  "date_commenced": "15 March 2012",
+  "date_commenced_iso": "2012-03-15T12:00:00Z",
+  "total_review_days": 228,
+  "acquirers": [
+    "Industrea Ltd"
+  ],
+  "targets": [
+    "AJ Lucas Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Mar 2012",
+      "date_iso": "2012-03-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Apr 2012",
+      "date_iso": "2012-04-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Feb 2013",
+      "date_iso": "2013-02-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Industrea acquired AJ Lucas Group Limited's Underground In-Seam Services (UIS) Business.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following markets: - National market for the supply of directional guidance systems certified for use in underground methane rich environments (the 'upstream market'); and - National market for the supply of underground in-seam directional drilling services (the 'downstream market').",
+    "Competition analysis": "The ACCC concluded that the completed acquisition had not resulted, and was unlikely to result, in a substantial lessening of competition in the relevant markets. At the time of the acquisition, Industrea was the sole supplier of directional guidance systems certified for use in underground methane rich environments in Australia. The completed acquisition enabled Industrea to enter the downstream market for the supply of underground in-seam directional drilling services. The ACCC considered whether this vertical integration would provide Industrea with the ability and incentive to damage its competitors in the drilling services market. The ACCC concluded that the upstream market was characterised by barriers to entry that were sufficiently low such that the threat of new entry (or actual new entry), particularly by existing customers, was likely to constrain Industrea post-acquisition from pursuing a foreclosure strategy against competitors in the downstream market."
+  }
+}

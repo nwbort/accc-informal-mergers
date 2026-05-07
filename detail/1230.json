@@ -1,0 +1,43 @@
+{
+  "id": "1230",
+  "title": "Neverfail Springwater - proposed acquisition of Palm Springs Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/neverfail-springwater-proposed-acquisition-of-palm-springs-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24574",
+  "industries": [
+    "Bottled water retailing"
+  ],
+  "date_completed": "25 August 2006",
+  "date_completed_iso": "2006-08-25T12:00:00Z",
+  "date_commenced": "1 August 2006",
+  "date_commenced_iso": "2006-08-01T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Neverfail Springwater"
+  ],
+  "targets": [
+    "Palm Springs Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 Aug 2006",
+      "date_iso": "2006-08-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "25 Aug 2006",
+      "date_iso": "2006-08-25T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The relevant markets are regional markets in Queensland, New South Wales, ACT and Victoria for the supply of bottled and filtered water.",
+    "Competition analysis": "The acquisition is unlikely to result in a substantial lessening of competition in any regional markets for the supply of bottled and filtered water. In particular, barriers to entry appear to be relatively low and a number of competitors supplying either bottled water or water filtration units will remain."
+  }
+}

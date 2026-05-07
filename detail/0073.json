@@ -1,0 +1,59 @@
+{
+  "id": "0073",
+  "title": "Coles - Fresh milk processing facilities from Saputo Dairy Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-fresh-milk-processing-facilities-from-saputo-dairy-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Milk processing facilities"
+  ],
+  "date_completed": "1 December 2023",
+  "date_completed_iso": "2023-12-01T12:00:00Z",
+  "date_commenced": "2 May 2023",
+  "date_commenced_iso": "2023-05-02T12:00:00Z",
+  "total_review_days": 92,
+  "acquirers": [
+    "Coles Group Limited"
+  ],
+  "targets": [
+    "Fresh milk processing facilities from Saputo Dairy Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 May 2023",
+      "date_iso": "2023-05-02T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 May 2023",
+      "date_iso": "2023-05-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "20 Jul 2023",
+      "date_iso": "2023-07-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "3 Aug 2023",
+      "date_iso": "2023-08-03T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "7 Sep 2023",
+      "date_iso": "2023-09-07T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of ACCC's findings (14 September 2023) is delayed."
+    },
+    {
+      "date": "1 Dec 2023",
+      "date_iso": "2023-12-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles Group Limited (ASX: COL) ( Coles ) proposes to acquire two fresh milk processing facilities from Saputo Dairy Australia Pty Ltd ( Saputo ). Saputo produces and wholesales a wide range of dairy products from processing facilities across Australia. Coles proposes to acquire Saputo’s facilities in Laverton North (Victoria) and Erskine Park (New South Wales). These facilities produce fresh milk for Saputo’s Devondale brand, and for other parties, including Coles, for on-sale as own brand products.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on: Market/s for the acquisition of raw milk in New South Wales, Victoria and South Australia Market/s for the processing and wholesale supply of dairy products",
+    "Competition analysis": "In relation to market/s for the acquisition of raw milk in Victoria and South Australia, the ACCC found that the acquisition was unlikely to change the number and strength of acquirers of raw milk. Therefore the ACCC found that there was unlikely to be a substantial lessening of competition in these markets. In relation to the market/s for the acquisition of raw milk in New South Wales, the ACCC found that Saputo has a commercial incentive to continue selling Devondale branded milk in NSW and has recently entered into a five year toll-processing agreement with Coles. Taking these factors into consideration, the ACCC considers that the transaction is unlikely to change Saputo’s incentives to continue acquiring raw milk in NSW for at least the next five years. The ACCC also found that Bega and Lactalis would continue to operate as strong competitors in NSW post acquisition, with Norco continuing to provide some constraint in the northern dairy regions of NSW. In relation to the market/s for the wholesale supply of dairy products, and the threat of foreclosure or frustration the ACCC found: Coles will face a high level of fixed costs when operating the processing plants, therefore it will be incentivised to maximise throughputs and would, accordingly, be unlikely to foreclose access to the processing plant to Saputo or any other third parties. Whilst Coles has a strong position at the retail level, the proposed acquisition is unlikely to provide it with a dominant position in any other segment of the dairy supply chain. Whilst Coles will now operate the processing facilities and it may be incentivised to increase throughput (including through the consolidation of some milk volumes that are currently processed for Coles by other dairy processors), we consider it likely that Coles will continue to have an incentive to maintain a range of branded milk products from other processors on its shelves, given the significantly higher margin it makes on branded products versus private label products. The ACCC found that Coles’ economic incentives to consolidate supply are likely to exist even absent the transaction. Coles will also continue to be constrained at the retail level in terms of price and range by competitors such as Woolworths, ALDI, and independent retailers."
+  }
+}

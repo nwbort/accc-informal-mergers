@@ -1,0 +1,83 @@
+{
+  "id": "0504",
+  "title": "Experian Australia Holdings Pty Ltd , Consortium of investors - proposed acquisition of Experian Australia Credit Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/experian-australia-holdings-pty-ltd-consortium-of-investors-proposed-acquisition-of-experian-australia-credit-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45724",
+  "industries": [
+    "Credit reporting services"
+  ],
+  "date_completed": "3 August 2011",
+  "date_completed_iso": "2011-08-03T12:00:00Z",
+  "date_commenced": "6 May 2011",
+  "date_commenced_iso": "2011-05-06T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Consortium of investors",
+    "Experian Australia Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Experian Australia Credit Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 May 2011",
+      "date_iso": "2011-05-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 May 2011",
+      "date_iso": "2011-05-20T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture partners. ACCC timeline suspended."
+    },
+    {
+      "date": "27 May 2011",
+      "date_iso": "2011-05-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 May 2011",
+      "date_iso": "2011-05-27T12:00:00Z",
+      "event": "ACCC received further information from the joint venture partners. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Jun 2011",
+      "date_iso": "2011-06-02T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture partners. ACCC timeline suspended."
+    },
+    {
+      "date": "8 Jun 2011",
+      "date_iso": "2011-06-08T12:00:00Z",
+      "event": "ACCC received further information from the joint venture partners. ACCC timeline recommenced."
+    },
+    {
+      "date": "14 Jun 2011",
+      "date_iso": "2011-06-14T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture partners. Former proposed date for announcement of ACCC's findings of 30 June 2011 amended to allow for further information to be provided by the joint venture partners."
+    },
+    {
+      "date": "21 Jun 2011",
+      "date_iso": "2011-06-21T12:00:00Z",
+      "event": "ACCC received further information from the joint venture partners. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Jun 2011",
+      "date_iso": "2011-06-29T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture partners. ACCC timeline suspended."
+    },
+    {
+      "date": "12 Jul 2011",
+      "date_iso": "2011-07-12T12:00:00Z",
+      "event": "ACCC received further information from the joint venture partners. ACCC timeline recommenced."
+    },
+    {
+      "date": "3 Aug 2011",
+      "date_iso": "2011-08-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "Please see Public Competition Assessment below."
+  }
+}

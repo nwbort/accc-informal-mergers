@@ -1,0 +1,44 @@
+{
+  "id": "0316",
+  "title": "Viva Energy Australia Ltd - proposed acquisition of an interest in Liberty Oil Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viva-energy-australia-ltd-proposed-acquisition-of-an-interest-in-liberty-oil-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55747",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "28 October 2014",
+  "date_completed_iso": "2014-10-28T12:00:00Z",
+  "date_commenced": "2 September 2014",
+  "date_commenced_iso": "2014-09-02T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Viva Energy Australia Ltd"
+  ],
+  "targets": [
+    "Liberty Oil Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "2 Sep 2014",
+      "date_iso": "2014-09-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "25 Sep 2014",
+      "date_iso": "2014-09-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Oct 2014",
+      "date_iso": "2014-10-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viva Energy Australia Ltd (Viva) proposed to acquire an interest in Liberty Oil Holdings Pty Ltd (Liberty), which in certain circumstances could amount to a controlling interest.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - state-based wholesale markets for the supply of fuels (primarily petrol and diesel); - local retail markets for the supply of fuels; and - markets for the supply and distribution of fuels to commercial customers (e.g. transport companies, mining companies, farmers). The geographic scope of these markets is likely to be metropolitan (in cities) and regional (in regional areas).",
+    "Competition analysis": "The ACCC considered whether the proposed acquisition would reduce competition in fuel retail markets, due to Liberty being a major wholesale supplier to independent retailers.  However, the ACCC did not consider that the proposed acquisition would significantly reduce the wholesale supply choices available to independent retailers, as Viva's presence in wholesale supply to independents is currently small, and there are other large independent wholesalers including United and Puma Energy.  The ACCC noted that Liberty, unlike United and Puma Energy, does not own any fuel import terminals. In respect of supply to commercial customers, Liberty is active in supplying farmers and other rural customers but Viva is not. Viva's business concentrates on supply to larger industrial customers including mining companies. Neither Viva nor Liberty conducts its own fuel retailing operations (apart from some limited specialty operations). However, the ACCC considered whether Viva's incentives in supplying Liberty-branded retailers would be different from Liberty's incentives. The ACCC noted that a key incentive for Viva is likely to be to sell sufficient volumes of fuel to ensure that its Geelong refinery remains viable. The ACCC therefore concluded the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets."
+  }
+}

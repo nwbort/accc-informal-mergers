@@ -1,0 +1,44 @@
+{
+  "id": "1235",
+  "title": "PPG Industries Inc - proposed acquisition of Protec Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ppg-industries-inc-proposed-acquisition-of-protec-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24774",
+  "industries": [
+    "Paint manufacturing"
+  ],
+  "date_completed": "22 August 2006",
+  "date_completed_iso": "2006-08-22T12:00:00Z",
+  "date_commenced": "7 August 2006",
+  "date_commenced_iso": "2006-08-07T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "PPG Industries Inc"
+  ],
+  "targets": [
+    "Protec Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "7 Aug 2006",
+      "date_iso": "2006-08-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "16 Aug 2006",
+      "date_iso": "2006-08-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "PPG Industries and Protec Pty Ltd are manufacturers and distributors of industrial coatings.",
+    "Market definition": "The ACCC considered the relevant market to be the market for the manufacture and distribution of industrial coatings in Australia. The ACCC noted that there are a number of different segments, or types, of industrial coatings, and that this proposed acquisition had greater effect in the Refinish coatings segment. The ACCC found that while there appeared to be low demand-side substitutability between the different types of industrial coatings, there appeared to be sufficient supply side substitutability. The ACCC found that manufacturers were able to produce different types of industrial coatings using similar plant and equipment. There also appeared to be few barriers to switching manufacturing capabilities between the different types of coatings. The ACCC also found that most manufacturers distributed product nationally (and some extended the distribution to New Zealand).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition. In reaching this conclusion, the ACCC considered the following: - Level of imports: the ACCC found that imports are a competitive constraint in this market. The ACCC also found, in relation to Refinish coatings, that a number of imported products were competitive in terms of price and product quality. - Barriers to entry: market inquiries indicated that barriers to entry were not substantial. The ACCC noted that there had been new entry into the industrial coatings market in recent years. The ACCC also noted that, for some types of industrial coatings, customers appeared to have little brand loyalty. - Ability to increase prices: the ACCC found that post acquisition PPG would be unlikely to be in a position to increase prices and/or restrict supply. Market inquiries indicated that there would remain a number of competitors and, as noted above, customers appeared to have little brand loyalty. The ACCC noted that customers acquiring industrial coatings are price sensitive, appear to face few barriers to switching suppliers and regularly do so."
+  }
+}

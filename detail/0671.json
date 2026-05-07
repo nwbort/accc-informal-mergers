@@ -1,0 +1,45 @@
+{
+  "id": "0671",
+  "title": "Argenta Manufacturing Limited - proposed acquisition of the Fort Dodge livestock business of Pfizer Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/argenta-manufacturing-limited-proposed-acquisition-of-the-fort-dodge-livestock-business-of-pfizer-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39689",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "14 January 2010",
+  "date_completed_iso": "2010-01-14T12:00:00Z",
+  "date_commenced": "18 November 2009",
+  "date_commenced_iso": "2009-11-18T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Argenta Manufacturing Limited"
+  ],
+  "targets": [
+    "Fort Dodge livestock business of Pfizer Inc"
+  ],
+  "timeline": [
+    {
+      "date": "18 Nov 2009",
+      "date_iso": "2009-11-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Nov 2009",
+      "date_iso": "2009-11-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Dec 2009",
+      "date_iso": "2009-12-09T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings. Indicative decision date amended at Pfizer's request."
+    },
+    {
+      "date": "14 Jan 2010",
+      "date_iso": "2010-01-14T12:00:00Z",
+      "event": "The ACCC ceased its review of the proposed acquisition at Pfizer's request."
+    }
+  ],
+  "body_sections": {}
+}

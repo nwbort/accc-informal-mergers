@@ -1,0 +1,44 @@
+{
+  "id": "0840",
+  "title": "Proposed merger of Queensland Turf Club Ltd and Brisbane Turf Club Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-of-queensland-turf-club-ltd-and-brisbane-turf-club-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34478",
+  "industries": [
+    "horse racing"
+  ],
+  "date_completed": "11 November 2008",
+  "date_completed_iso": "2008-11-11T12:00:00Z",
+  "date_commenced": "30 September 2008",
+  "date_commenced_iso": "2008-09-30T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Queensland Turf Club Ltd"
+  ],
+  "targets": [
+    "Brisbane Turf Club Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Sep 2008",
+      "date_iso": "2008-09-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Oct 2008",
+      "date_iso": "2008-10-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Nov 2008",
+      "date_iso": "2008-11-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Queensland Turf Club Ltd and Brisbane Turf Club Ltd proposal to merge into a new entity to be called Brisbane Racing Club Ltd.",
+    "Market definition": "The ACCC considered the likely effects of the proposed merger in the following relevant markets: - the market for the conduct of race meetings in south-east Queensland (although the precise boundary of the market may be broader or narrower depending on the standard of the race meeting); - the market for the provision of thoroughbred racing services in south-east Queensland; - markets for the provision of services to racing clubs; and - the market for function venue hire in Brisbane.",
+    "Competition analysis": "The ACCC's market inquiries did not reveal any concerns from interested parties about the competition effects of the proposed merger, and the ACCC formed the view that the proposed merger would be unlikely to substantially lessen competition in any of the relevant markets. Factors informing this conclusion included: - the very limited extent of current competition between the two clubs due to regulation by Queensland Racing Limited (for example, the two clubs are not permitted to hold race meetings on the same day); - the extent to which regulation by Queensland Racing Limited will constrain the merged entity in the conduct of race meetings; - the availability of alternative thoroughbred training facilities in the south-east Queensland region; and - the presence of several competing providers in the function venue hire market and markets for the provision of services to racing clubs."
+  }
+}

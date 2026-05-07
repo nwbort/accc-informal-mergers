@@ -1,0 +1,54 @@
+{
+  "id": "0039",
+  "title": "Integral Diagnostics - Capitol Health",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/integral-diagnostics-capitol-health",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Health - Medical Imaging"
+  ],
+  "date_completed": "10 December 2024",
+  "date_completed_iso": "2024-12-10T12:00:00Z",
+  "date_commenced": "5 September 2024",
+  "date_commenced_iso": "2024-09-05T12:00:00Z",
+  "total_review_days": 67,
+  "acquirers": [
+    "Integral Diagnostics Limited (Integral)"
+  ],
+  "targets": [
+    "Capitol Health Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Sep 2024",
+      "date_iso": "2024-09-05T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Sep 2024",
+      "date_iso": "2024-09-19T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "25 Nov 2024",
+      "date_iso": "2024-11-25T12:00:00Z",
+      "event": "Former proposed decision date (28 November) delayed to allow the ACCC to consider a proposed divestiture remedy. The ACCC will announce a new proposed decision date in due course."
+    },
+    {
+      "date": "6 Dec 2024",
+      "date_iso": "2024-12-06T12:00:00Z",
+      "event": "ACCC conducted targeted market consultation on the proposed divestiture remedy. Timeline recommenced with a revised provisional decision date of 10 December 2024."
+    },
+    {
+      "date": "10 Dec 2024",
+      "date_iso": "2024-12-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Integral Diagnostics Limited ( Integral Diagnostics ) is proposing to acquire Capitol Health Limited ( Capitol Health ) (the Proposed Acquisition ). Integral Diagnostics (ASX: IDX) and Capitol Health (ASX: CAJ) are both listed on the Australian Stock Exchange, and each operate radiology (or “diagnostic imaging”) businesses in Australia. The merging parties supply general diagnostic imaging, magnetic resonance imaging (MRI), and nuclear medicine services (together radiology services) at clinics across Australia, but only overlap in Victoria and Western Australia. In Victoria, Integral Diagnostics has 21 sites which it operates under the brands ‘Lake Imaging’ and the ‘X-Ray Group’. Capitol Health has 46 sites in Victoria which it operates under the brand names ‘Capital Radiology’, ‘Imaging @ Olympic Park’, ‘Direct Radiology’, ‘Future Medical Imaging Group’ and ‘Lime Avenue Radiology’. In Western Australia, Integral Diagnostics has 6 sites which it operates under the brand ‘Apex Radiology’, and Capitol Health has 8 sites which it operates under the ‘Capital Radiology’ brand. The Proposed Acquisition has been structured as a scheme of arrangement. Post-acquisition, it is anticipated that existing IDX shareholders would own approximately 63% of the merged entity, with the balance being held by existing CAJ shareholders. On 10 December 2024, the ACCC decided to not oppose the proposed acquisition subject to the ACCC accepting a court-enforceable undertaking from Integral Diagnostics to divest Capitol Heath’s diagnostic imaging clinic located at 1/211 Barries Road, Melton West, Victoria 3337.",
+    "Market definition": "Refer to the Public Competition Assessment.",
+    "Competition analysis": "Refer to the Public Competition Assessment."
+  }
+}

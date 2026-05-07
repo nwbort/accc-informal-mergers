@@ -1,0 +1,54 @@
+{
+  "id": "0693",
+  "title": "GrainCorp Limited - proposed acquisition of United Malt Holdings",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/graincorp-limited-proposed-acquisition-of-united-malt-holdings",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39019",
+  "industries": [
+    "Malt and barley"
+  ],
+  "date_completed": "11 November 2009",
+  "date_completed_iso": "2009-11-11T12:00:00Z",
+  "date_commenced": "6 October 2009",
+  "date_commenced_iso": "2009-10-06T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "GrainCorp Limited"
+  ],
+  "targets": [
+    "United Malt Holdings"
+  ],
+  "timeline": [
+    {
+      "date": "6 Oct 2009",
+      "date_iso": "2009-10-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "20 Oct 2009",
+      "date_iso": "2009-10-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Oct 2009",
+      "date_iso": "2009-10-28T12:00:00Z",
+      "event": "ACCC requested further information from GrainCorp. ACCC timeline suspended."
+    },
+    {
+      "date": "3 Nov 2009",
+      "date_iso": "2009-11-03T12:00:00Z",
+      "event": "ACCC received further information from GrainCorp. ACCC timeline recommenced."
+    },
+    {
+      "date": "11 Nov 2009",
+      "date_iso": "2009-11-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "GrainCorp proposed to acquire the global operating businesses of United Malt Holdings, including its Australian subsidiary Barrett Burston Malting.",
+    "Market definition": "For the purposes of this competition assessment, the ACCC considered the proposed acquisition in the context of Queensland, New South Wales and Victorian markets for: - the acquisition of malt barley; - the provision of grain storage and handling services; - the provision of port terminal services for the bulk and containerised shipment of grain; and - the production and supply of malt.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in markets for the acquisition of malt barley due to the existence of significant alternative buyers of malt barley for both domestic use and export. In relation to vertical issues, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets due to factors including: - the existence of viable storage alternatives in most areas; - limitations on GrainCorp's knowledge of rivals' use of its storage facilities arising from the ability of GrainCorp's customers to transfer ownership of malt barley during the time it is held in GrainCorp facilities, including via the independent CLEAR system, such that the merged firm would not know the end user for whom the grain is destined; - significant commercial incentives to maximise throughput in GrainCorp's storage and handling network; and - the threat of retaliation by foreclosed rivals in other areas."
+  }
+}

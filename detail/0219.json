@@ -1,0 +1,53 @@
+{
+  "id": "0219",
+  "title": "Merger of Foxtel and Fox Sports",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/merger-of-foxtel-and-fox-sports",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63019",
+  "industries": [
+    "Media and Communication"
+  ],
+  "date_completed": "7 December 2017",
+  "date_completed_iso": "2017-12-07T12:00:00Z",
+  "date_commenced": "12 October 2017",
+  "date_commenced_iso": "2017-10-12T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "FOXTEL"
+  ],
+  "targets": [
+    "FOX SPORTS Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "12 Oct 2017",
+      "date_iso": "2017-10-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "25 Oct 2017",
+      "date_iso": "2017-10-25T12:00:00Z",
+      "event": "The ACCC requested further information from the parties."
+    },
+    {
+      "date": "27 Oct 2017",
+      "date_iso": "2017-10-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Nov 2017",
+      "date_iso": "2017-11-08T12:00:00Z",
+      "event": "The ACCC received further information from the parties."
+    },
+    {
+      "date": "7 Dec 2017",
+      "date_iso": "2017-12-07T12:00:00Z",
+      "event": "The ACCC announced it would not oppose the merger."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: -\tA market for the acquisition of sports content -\tA market for the acquisition of non-sports content -\tA market for the acquisition of channels of packaged linear audio visual content -\tA market for the supply of STV audio visual content to consumers -\tA market for the wholesale supply of fixed line and mobile broadband and voice services -\tA market for the retail supply of fixed line broadband and voice services -\tA market for the retail supply of mobile broadband and voice services For the purposes of this assessment it was not necessary to reach a concluded position on the precise definition or geographic dimension of these markets. In particular, the ACCC did not form a final view on whether there are separate markets for digital rights for sports content.",
+    "Competition analysis": "The ACCC considered that the merger was unlikely to substantially lessen competition in any of these markets. News Corporation owns 100 per cent of Fox Sports and owns Foxtel jointly with Telstra, each owning 50 per cent. After the merger, News Corporation would have a 65 per cent share of a merged Fox Sports and Foxtel, with Telstra holding the remaining 35 per cent. The ACCC considered that apart from the markets for the acquisition of content and the retail supply of voice and broadband services, the parties' commercial incentives, and constraints would be similar with or without the merger. In relation to the markets for the acquisition of content the ACCC considered that Telstra and Fox Sports are not close competitors. The ACCC considered that the merged entity would continue to be constrained by new entrants, options for rights holders to supply content directly to consumers and the bargaining power of premium sports rights holders. With respect to the retail telecommunications markets, while the merger involves agreements between the merged entity and Telstra that restrict other telecommunications suppliers from including Foxtel's digital products as part of their triple play bundles, the ACCC did not consider that this was likely to substantially lessen competition. The ACCC took account of the circumstances that consumers who choose alternative suppliers of broadband services will still be able to access Foxtel's digital products and that there are alternative sources of content for telecommunications suppliers wanting to offer triple play bundles. Similarly, the ACCC considered it important that where triple play bundles include subscription television services, often additional payment is required to access the service or the premium components of the service."
+  }
+}

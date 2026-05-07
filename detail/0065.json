@@ -1,0 +1,44 @@
+{
+  "id": "0065",
+  "title": "Westpac Banking Corporation - HealthPoint",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/westpac-banking-corporation-healthpoint",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Health - digital platform"
+  ],
+  "date_completed": "29 February 2024",
+  "date_completed_iso": "2024-02-29T12:00:00Z",
+  "date_commenced": "20 December 2023",
+  "date_commenced_iso": "2023-12-20T12:00:00Z",
+  "total_review_days": 45,
+  "acquirers": [
+    "Westpac Banking Corporation"
+  ],
+  "targets": [
+    "HealthPoint"
+  ],
+  "timeline": [
+    {
+      "date": "20 Dec 2023",
+      "date_iso": "2023-12-20T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jan 2024",
+      "date_iso": "2024-01-16T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "29 Feb 2024",
+      "date_iso": "2024-02-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Westpac Investment Vehicle Pty Ltd, a wholly owned subsidiary of Westpac Banking Corporation (Westpac), proposes to acquire HealthPoint, from Dedalus DH Australia Pty Ltd and Dedalus eHealth Australia Pty Ltd (together, Dedalus). Westpac is one of four major banking organisations in Australia and provides a broad range of consumer, business, and institutional banking and wealth management services. Westpac’s Cash and Transactional Banking (CTB) line of business supports its customers’ cash and transactional banking needs. Westpac’s payment solutions business sits within CTB and assists merchants to accept and process card payments, both in person and online. Westpac is the only major Australian bank that does not currently offer an integrated healthcare e-claiming and payment solution. HealthPoint is an application which enables healthcare providers to process real time private health insurance claiming at the Point of Sale. Through partnership with banking and other channel partners, HealthPoint supports EFTPOS and Medicare functionality. HealthPoint is a business of Dedalus, which is part of the Dedalus Group who is the leading global provider of healthcare and diagnostic software based in Europe.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in markets for the supply of: private health insurance digital claiming services to Channel and Banking Partners; real time private health insurance claiming services to healthcare providers; and other banking products and services to healthcare providers. In reaching its final decision, the ACCC considered the effects of the proposed acquisition on these markets from a number of perspectives and did not consider that a precise definition of these markets would significantly alter the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any market in Australia. The ACCC’s review focused on whether the proposed acquisition would provide Westpac with the ability or incentive to foreclose competing Channel and Banking Partners’ access to the HealthPoint application. Westpac is currently a very small supplier of banking services to healthcare providers, with no current ability to process real time private health insurance claims at the point of sale. The only alternative to HealthPoint is HICAPS, which is wholly owned and exclusive to NAB. HICAPS is by far the largest supplier of private health insurance point of sale claiming services. Following careful examination of the arrangements between HealthPoint, Westpac, Channel and Banking Partners and private health insurers, the ACCC considered that Westpac was unlikely to have the ability or incentive to foreclose competing Channel and Banking Partners in the short term, and beyond that a substantial lessening of competition in any market was unlikely because of a combination of: the duration of some Channel and Banking Partners’ existing Healthpoint contracts, the potential for Westpac’s expected investment in the HealthPoint application to result in a combined Westpac - Healthpoint being a vigorous competitor to NAB - HICAPs, and the potential for alternatives to HICAPS and HealthPoint to be developed in the future."
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "0231",
+  "title": "DowDuPont Inc - proposed acquisition of EI du Pont de Nemours and Company and The Dow Chemical Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dowdupont-inc-proposed-acquisition-of-ei-du-pont-de-nemours-and-company-and-the-dow-chemical-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59032",
+  "industries": [
+    "Agriculture products"
+  ],
+  "date_completed": "8 June 2017",
+  "date_completed_iso": "2017-06-08T12:00:00Z",
+  "date_commenced": "18 July 2016",
+  "date_commenced_iso": "2016-07-18T12:00:00Z",
+  "total_review_days": 133,
+  "acquirers": [
+    "DowDuPont Inc"
+  ],
+  "targets": [
+    "EI du Pont de Nemours and Company and The Dow Chemical Company"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jul 2016",
+      "date_iso": "2016-07-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "5 Aug 2016",
+      "date_iso": "2016-08-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Aug 2016",
+      "date_iso": "2016-08-25T12:00:00Z",
+      "event": "Former proposed decision date of 15 September 2016 delayed to allow provision of requested information."
+    },
+    {
+      "date": "19 Sep 2016",
+      "date_iso": "2016-09-19T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "25 Oct 2016",
+      "date_iso": "2016-10-25T12:00:00Z",
+      "event": "Former proposed decision date of 27 October 2016 delayed for one week at the request of the merger parties so that they can provide further information to the ACCC."
+    },
+    {
+      "date": "1 Nov 2016",
+      "date_iso": "2016-11-01T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "3 Nov 2016",
+      "date_iso": "2016-11-03T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "23 Nov 2016",
+      "date_iso": "2016-11-23T12:00:00Z",
+      "event": "Timeline suspended to allow provision of requested information."
+    },
+    {
+      "date": "24 Nov 2016",
+      "date_iso": "2016-11-24T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "9 Dec 2016",
+      "date_iso": "2016-12-09T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "23 Jan 2017",
+      "date_iso": "2017-01-23T12:00:00Z",
+      "event": "Former proposed decision date of 2 February 2017 delayed to allow the merger parties to provide additional information."
+    },
+    {
+      "date": "11 Apr 2017",
+      "date_iso": "2017-04-11T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "8 Jun 2017",
+      "date_iso": "2017-06-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Dow Chemical Company (Dow) and E.I. Du Pont de Nemours and Company (DuPont) propose to merge their two companies and spin the merged entity off into three separate companies focusing on Agriculture, Material Science and Speciality Products.",
+    "Market definition": "The ACCC considered the effects of the proposed acquisition on the following markets: national markets for the supply of various crop protection products (including insecticides, herbicides and fungicides) a national market for the breeding, development and supply of canola seed varieties The scope of the individual crop protection product markets was determined according to how the products were used by farmers, and was considered on a case by case basis. The ACCC considered that, in general, products with the same active ingredients were likely to be close substitutes. However, in many cases, there were alternative products based on other active ingredients that could be used for the same purposes. This analysis was informed by many factors, including: the pest or disease targeted, or the range of different pests or diseases against which a product can provide protection the crop the stage in the growing season at which protection is required the growing conditions in which the crop protection is applied the application method, and consideration of environmental impact (including impact on beneficial insects), health and safety, and residues remaining on the crop after treatment. The scope of the market for breeding, development and supply of canola seed varieties was determined according to the factors farmers consider when selecting seeds. The ACCC considered that, in general, seeds for a particular crop are likely to be close substitutes, although seasonal and geographic factors will impact substitutability. In some cases, alternative crops may be substitutable for each other.",
+    "Competition analysis": "The ACCC took into consideration DuPont's commitments to the European Commission relating to: Divestiture of DuPont's insecticides Divestiture of DuPont's herbicides Divestiture of DuPont's research and development business Divestitures of Dow's ionomer and acid copolymer businesses. These commitments remove the overlap between DuPont and Dow in relation to the supply of insecticides and herbicides, including in Australia. The ACCC concluded that the proposed acquisition would not substantially lessen competition in any relevant market after taking into consideration these divestments. In relation to canola seeds, an area of possible concern discussed in the Statement of Issues, the ACCC found that there are other breeders, developers and suppliers of canola seed with larger market share than the parties and will continue to stimulate competition tension in canola research and development post-merger. The ACCC also considered that Dow's offering targeted a specific segment of the canola seed market that was not targeted by DuPont."
+  }
+}

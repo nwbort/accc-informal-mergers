@@ -1,0 +1,39 @@
+{
+  "id": "0752",
+  "title": "Her Majesty's Treasury - proposed acquisition of additional shares in Lloyds Banking Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/her-majestys-treasury-proposed-acquisition-of-additional-shares-in-lloyds-banking-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37729",
+  "industries": [
+    "Banking and financial services"
+  ],
+  "date_completed": "4 June 2009",
+  "date_completed_iso": "2009-06-04T12:00:00Z",
+  "date_commenced": "26 May 2009",
+  "date_commenced_iso": "2009-05-26T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Her Majesty's Treasury"
+  ],
+  "targets": [
+    "Lloyds Banking Group plc"
+  ],
+  "timeline": [
+    {
+      "date": "26 May 2009",
+      "date_iso": "2009-05-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Jun 2009",
+      "date_iso": "2009-06-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "HMT proposed to acquire additional shares in Lloyds, taking its total interest from 43.4% to up to 77%.",
+    "Market definition": "The ACCC considered it unnecessary to define a relevant market.",
+    "Competition analysis": "As the activities of HMT and Lloyds did not overlap, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant Australian markets."
+  }
+}

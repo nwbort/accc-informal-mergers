@@ -1,0 +1,44 @@
+{
+  "id": "0341",
+  "title": "Environmental Plastics Pty Ltd - proposed acquisition of Superior Pak plastics business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/environmental-plastics-pty-ltd-proposed-acquisition-of-superior-pak-plastics-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "53469",
+  "industries": [
+    "Material handling and storage products"
+  ],
+  "date_completed": "12 March 2014",
+  "date_completed_iso": "2014-03-12T12:00:00Z",
+  "date_commenced": "30 January 2014",
+  "date_commenced_iso": "2014-01-30T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Environmental Plastics Pty Ltd"
+  ],
+  "targets": [
+    "Superior Pak plastics business"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jan 2014",
+      "date_iso": "2014-01-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2014",
+      "date_iso": "2014-02-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "12 Mar 2014",
+      "date_iso": "2014-03-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Environmental Plastics Pty Ltd proposed to acquire the plastics business of Superior Pak.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of national markets for the supply of: - 2-wheel mobile garbage bins (MGBs); - 4-wheel MGBs; - kitchen tidies / organics; and - industrial bin lids. The ACCC considered that the relevant markets may include the supply of plastic bin products more generally, because it may be that manufacturers are able to switch quickly between manufacturing the above products without significant investment. However, given its findings on the basis of the narrower markets listed above, it was not necessary to form a definitive view on market definition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. The ACCC considered that the merged entity would continue to be competitively constrained by Mastec, a local manufacturer of MGBs, and a number of smaller competitors in the market who import plastic bin products, and that manufacturers engaged in injection moulding for other industries would be capable of expanding their operations into the supply of plastic bin products. The ACCC also considered that local government councils, being the largest customers of 2-wheel MGBs, may have some countervailing power through their ability to support new entry or expansion of suppliers in that market."
+  }
+}

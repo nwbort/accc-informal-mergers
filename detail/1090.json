@@ -1,0 +1,44 @@
+{
+  "id": "1090",
+  "title": "International Power plc - proposed acquisition of EA-IPR Retail Partnership",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/international-power-plc-proposed-acquisition-of-ea-ipr-retail-partnership",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28425",
+  "industries": [
+    "Electricity and gas"
+  ],
+  "date_completed": "20 June 2007",
+  "date_completed_iso": "2007-06-20T12:00:00Z",
+  "date_commenced": "28 May 2007",
+  "date_commenced_iso": "2007-05-28T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "International Power plc"
+  ],
+  "targets": [
+    "EA-IPR Retail Partnership"
+  ],
+  "timeline": [
+    {
+      "date": "28 May 2007",
+      "date_iso": "2007-05-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "8 Jun 2007",
+      "date_iso": "2007-06-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Jun 2007",
+      "date_iso": "2007-06-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "IPower Pty Ltd (a wholly owned subsidiary of International Power plc), proposes to increase its stake in the EA-IPR Retail Partnership to 100%. Currently, IPower owns 50% of the EA-IPR Retail Partnership. Energy Australia Pty Ltd (a wholly owned subsidiary of NSW energy retailer EnergyAustralia), owns the other 50% share of the Partnership. Thus, IPower seeks to acquire Energy Australia Pty Ltd's 50% share in the EA-IPR Retail Partnership.",
+    "Market definition": "The relevant markets appear to be the electricity and gas retail and wholesale markets in Victoria and South Australia. However, the ACCC considers it not necessary to form a definitive view of market definition for the purposes of this acquisition.",
+    "Competition analysis": "The ACCC considered that the proposed transaction was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion are below. The acquisition represents a change in the ownership structure of an existing participant in the retail supply of gas and electricity to customers in Victoria and South Australia.  This acquisition does not affect concentration in any market. The ACCC formed the view that this acquisition is not likely to change the vertically integrated relationship between International Power's wholesale electricity and gas assets and the EA-IPR Retail Partnership.  The Retail Partnership is already 50% owned by International Power, so this acquisition is unlikely to affect the practical or commercial relationship between International Power and the retail body. This acquisition is not likely to affect the availability or liquidity of the electricity financial contracts market in either Victoria or South Australia."
+  }
+}

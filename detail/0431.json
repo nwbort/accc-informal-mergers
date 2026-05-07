@@ -1,0 +1,54 @@
+{
+  "id": "0431",
+  "title": "ALH Group Pty Ltd (75% owned by Woolworths Limited) - proposed acquisition of a lease for a new BWS outlet in Ayr, Queensland",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alh-group-pty-ltd-75-owned-by-woolworths-limited-proposed-acquisition-of-a-lease-for-a-new-bws-outlet-in-ayr-queensland",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48165",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "26 July 2012",
+  "date_completed_iso": "2012-07-26T12:00:00Z",
+  "date_commenced": "20 April 2012",
+  "date_commenced_iso": "2012-04-20T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "ALH Group Pty Ltd (75% owned by Woolworths Limited)"
+  ],
+  "targets": [
+    "Lease for new BWS outlet"
+  ],
+  "timeline": [
+    {
+      "date": "20 Apr 2012",
+      "date_iso": "2012-04-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 May 2012",
+      "date_iso": "2012-05-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 May 2012",
+      "date_iso": "2012-05-31T12:00:00Z",
+      "event": "ACCC requested further information from ALH. ACCC timeline suspended pending receipt. Former proposed decision date of 15 June 2012 delayed."
+    },
+    {
+      "date": "6 Jul 2012",
+      "date_iso": "2012-07-06T12:00:00Z",
+      "event": "ACCC received further information from ALH. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 Jul 2012",
+      "date_iso": "2012-07-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The ACCC has decided not to oppose ALH's proposed acquisition of a lease to open a new BWS store in Ayr, Queensland. The transaction did not involve the acquisition of an existing business; ALH owns a commercial hotel licence in Ayr that enables it to open up to three detached bottleshops within a 10km radius. The new BWS store the subject of the lease will be located next to a Woolworths supermarket in Ayr.",
+    "Market definition": "The ACCC has considered the impact of the proposed acquisition in the following relevant markets: - the retail sale of packaged liquor for off-premises consumption in the local area surrounding the proposed new outlet (the local retail liquor market); - the retail sale of packaged liquor for off-premises consumption in Queensland (the QLD retail liquor market); and - the QLD market for the wholesale acquisition of liquor (the QLD wholesale liquor market).",
+    "Competition analysis": "With regard to the local liquor retail market, the ACCC found that: - while the proposed acquisition would lead to an increase in the presence of Woolworths' BWS bottleshops in the market, it is likely that there will continue to be a number of bottleshops and banner group alternatives to the BWS stores post-acquisition. These competitors would limit ALH/Woolworths' ability to increase prices or reduce service at the relevant BWS outlets; - the location of the new BWS next to a supermarket would provide increased convenience for consumers; - as there are already a number of bottleshops in the local market, it appeared there was unlikely to be new entry with or without the proposed acquisition; and - it is unlikely there would be any reduction in the number and diversity of promotions available to consumers post-acquisition. In the QLD retail liquor market, the ACCC found that the proposed acquisition would be unlikely to have the effect of substantially lessening competition as it would result in only a very small increase in market share and would not result in a reduction in the number of banner groups or retail chains competing with Woolworths brands on a state-wide level. In the QLD wholesale liquor acquisition market, the ACCC found that the proposed acquisition would be unlikely to have the effect of substantially lessening competition as the proposed acquisition would result in only a very small increase in market share of significantly less than one per cent to ALH/Woolworths."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "0875",
+  "title": "Campion Education (Aust) Pty Ltd - acquisition of Landmark School Supplies Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/campion-education-aust-pty-ltd-acquisition-of-landmark-school-supplies-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32998",
+  "industries": [
+    "Stationery and Secondary school textbook retail"
+  ],
+  "date_completed": "25 August 2008",
+  "date_completed_iso": "2008-08-25T12:00:00Z",
+  "date_commenced": "4 August 2008",
+  "date_commenced_iso": "2008-08-04T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Campion Education (Aust) Pty Ltd"
+  ],
+  "targets": [
+    "Landmark School Supplies Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2008",
+      "date_iso": "2008-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Aug 2008",
+      "date_iso": "2008-08-14T12:00:00Z",
+      "event": "The parties advised the ACCC that the acquisition was completed on 31 July 2008."
+    },
+    {
+      "date": "18 Aug 2008",
+      "date_iso": "2008-08-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Aug 2008",
+      "date_iso": "2008-08-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Campion Education (Aust) Pty Ltd (Campion) acquired Landmark School Supplies Pty Ltd (Landmark).",
+    "Market definition": "In the product dimension, the ACCC considered the relevant market to be limited to 'back to school' book retailers. The ACCC considered the acquisition on the basis of several alternative geographic markets; local, regional and state wide. It was not necessary to form a concluded view on the relevant geogrpahic scope of the market as the acquisition was unlikely to lead to a substantial lessening of competition based on any geographic market definition. The ACCC also considered the effect of the proposed acquisition in the relevant procurement market. This market was defined as the national market for the wholesale acquisition of books sold by back to school retailers (i.e. the acquisition of books by retailers from publishers and wholesalers).",
+    "Competition analysis": "Retail markets When considering the acquisition in a series of local retail markets, there was very little overlap between Campion and Landmark stores. In addition, there were a number of competing back to school retailers closer to each Landmark store than the nearest Campion store. When considering the acquisiton in either a Melbourne regional or state-wide market, while the acquisition brought together the two largest back to school retailers, the ACCC considered that the merged entity would continue to be constrained by a number of alternative back to school retailers, as well as relatively low barriers to entry and expansion. As such, the ACCC considered that the acquisition was unlikely to result in a substantial lessening of competition in any relevant retail market. Procurement market The ACCC considered that the acquisition was unlikely to lead to a significant increase in the merged entity's negotiating power in the procurement market given that there will remain many other buyers of varying sizes. As such, the ACCC considered that the acquisition was unlikely to lead to a substantial lessening of competition in this market."
+  }
+}

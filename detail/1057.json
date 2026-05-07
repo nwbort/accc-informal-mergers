@@ -1,0 +1,44 @@
+{
+  "id": "1057",
+  "title": "Linfox Australia Pty Ltd - acquisition of Westgate Logistics",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/linfox-australia-pty-ltd-acquisition-of-westgate-logistics",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29078",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "14 August 2007",
+  "date_completed_iso": "2007-08-14T12:00:00Z",
+  "date_commenced": "25 July 2007",
+  "date_commenced_iso": "2007-07-25T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Linfox Australia Pty Ltd"
+  ],
+  "targets": [
+    "Westgate Logistics"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jul 2007",
+      "date_iso": "2007-07-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Aug 2007",
+      "date_iso": "2007-08-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Aug 2007",
+      "date_iso": "2007-08-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transport and logistics company, Linfox, sought to acquire transport and storage company, Westgate Logistics.  Linfox did not seek to acquire Westgate Logistics' port operations.",
+    "Market definition": "In this instance, the ACCC considered that the markets were likely to be: - the market for the transportation of containerised freight on the east coast of Australia; - the market for the transportation of non-containerised freight on the east coast of Australia; and - the market for the provision of warehousing services in each of Melbourne, Sydney and Brisbane.",
+    "Competition analysis": "In each of the above markets, the ACCC found that the merged entity was likely to face significant competition from large, well-resourced competitors.  Accordingly, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets."
+  }
+}

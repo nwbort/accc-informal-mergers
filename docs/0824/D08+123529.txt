@@ -1,0 +1,801 @@
+ 
+Public Competition Assessment 
+10 December 2008 
+Commonwealth Bank of Australia - proposed acquisition of 
+BankWest and St Andrew’s Australia 
+A  Introduction 
+1. 
+On 10 December 2008, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of Bank 
+of Western Australia Ltd and St Andrew’s Australia Pty Ltd by Commonwealth 
+Bank of Australia (proposed acquisition). The ACCC was of the view that the 
+proposed acquisition would not be likely to have the effect of substantially 
+lessening competition in any relevant market, in contravention of section 50 of 
+the Trade Practices Act 1974 (the Act). 
+2. 
+The ACCC formed its view on the proposed acquisition on the basis of the 
+information provided by the merger parties and information arising from its 
+market inquiries. This Public Competition Assessment outlines the basis on 
+which the ACCC has reached its decision on the proposed acquisition, subject to 
+confidentiality considerations. 
+B 
+Public competition assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+• a merger is opposed; 
+• a merger is subject to enforceable undertakings; 
+• the merger parties seek such disclosure; or 
+• a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition is considered to raise issues of interest to the public. 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-2- 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets and 
+the associated merger and competition issues. It also alerts the market to the 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change, because of developments.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own merits.  
+7. 
+Many of the ACCC’s decisions will involve consideration of both 
+non-confidential and confidential information provided by the merger parties and 
+market participants. In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources. While the ACCC aims to provide an appropriately 
+detailed explanation of the basis for the ACCC decision, where this is not 
+possible, maintaining confidentiality will be the ACCC’s paramount concern, and 
+accordingly a Public Competition Assessment may not definitively explain all 
+issues and the ACCC’s analysis of such issues. 
+C 
+The parties 
+The acquirer – Commonwealth Bank of Australia (CBA) 
+8. 
+CBA is the largest retail bank in Australia by market capitalisation, valued at 
+approximately $42 billion. CBA’s principal business activities include:  
+• personal banking: transaction, saving/term products, home loans, personal 
+loans, credit cards and hybrid personal loans; 
+• business banking: small to medium enterprise (SME) banking services, 
+agribusiness, lending and deposit products, equipment finance and merchant 
+acquiring services; 
+• corporate and institutional banking: includes the provision of a range of 
+financial services to corporate and institutional customers; 
+• wealth management: through its Colonial First State and First Choice 
+brands, the provision of funds management;  
+• insurance: through its CommInsure brand, the provision of a range of 
+insurance products; and 
+• stockbroking: through its CommSec brand, the provision of online-discount 
+stockbroking services. 
+9. 
+CBA operates the largest branch and ATM network throughout Australia.  
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-3- 
+The target – Bank of Western Australia Ltd (BankWest)  
+10. 
+BankWest is an Australian retail bank primarily based in Western Australia. 
+Since 2003, BankWest has been a wholly-owned subsidiary of HBOS Australia, 
+which is wholly owned by HBOS plc (HBOS). It is one of HBOS Australia’s 
+four businesses. 
+11. 
+BankWest’s parent company, HBOS, is a major UK-based bank providing retail, 
+business and corporate banking, insurance and investment services. 
+12. 
+BankWest’s principal business activities include: 
+• personal banking: transaction accounts, saving/term products, credit cards, 
+home loans and personal loans; and 
+• business and corporate banking: SME banking services, agribusiness, and 
+corporate banking. 
+13. 
+BankWest operates a large branch and ATM network in Western Australia and 
+has recently undertaken significant branch and ATM expansion in New South 
+Wales, Victoria and Queensland. 
+The target - St Andrew’s Australia Pty Ltd (St Andrew’s) 
+14. 
+St Andrew’s is a specialist provider of wealth management and insurance 
+products. St Andrew’s began operations in Australia in 1998 and is located in 
+Western Australia, New South Wales, Victoria and Queensland. St Andrew’s also 
+distributes wealth management and insurance products through financial 
+advisors, BankWest branches, telemarketing and online. 
+15. 
+St Andrew’s has more than $2 billion in funds under management. 
+D 
+Industry background 
+16. 
+For general industry background, the ACCC refers readers to the Public 
+Competition Assessment released in relation to its 13 August 2008 decision not to 
+oppose the acquisition of St George Bank Limited by Westpac Banking 
+Corporation. This document is available on the ACCC’s website at 
+www.accc.gov.au/publiccompetitionassessments. 
+17. 
+Other recent industry developments relevant to this assessment are discussed 
+briefly below. 
+Credit crunch 
+18. 
+Since July 2007, the credit crunch has had an impact on the competitive dynamic 
+in banking markets. With the virtual closure of asset securitisation markets and 
+the increased cost of wholesale funds since late 2007, many non-bank lenders 
+who were reliant on wholesale markets for their funding have had to exit the 
+Australian market.  
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-4- 
+19. 
+Other market players, including smaller authorised deposit-taking institutions 
+(ADIs) with low deposit bases, have had to withdraw from lending in some areas 
+or to some customers.  
+Australian Government Guarantees 
+20. 
+In response to the credit crunch, the Australian Government introduced two 
+guarantees – (1) a guarantee on retail deposits; and (2) a wholesale funding 
+guarantee for the debt issues of ADIs.  
+21. 
+The retail deposit guarantee was announced and came into effect on 12 October 
+2008. At the time of the announcement, the guarantee was not capped and was set 
+to apply to all retail bank deposits. It was later clarified by the Australian 
+Government that the guarantee would apply to all ADIs, including foreign banks 
+with operations in Australia.  
+22. 
+In addition, after following advice from the RBA, APRA, Treasury and ASIC, the 
+Australian Government introduced a cap on the guarantee of $1 million. 
+Depositors with amounts greater than $1 million can pay a fee to access the 
+guarantee. 
+23. 
+The guarantee on retail deposits operates for three years and is available for 
+deposits with ADIs which are regulated by APRA. The Australian Government 
+has also announced that other institutions can apply for ADI status so that their 
+depositors can access the guarantee, if they are willing to meet the associated 
+prudential requirements. 
+24. 
+The wholesale funding guarantee, which came into effect on 28 November 2008,  
+relates to the issuing of senior unsecured debt instruments — including short-
+term liabilities (e.g. bank bills and certificates of deposit) and long-term liabilities 
+(e.g. bonds and notes). The guarantee applies to eligible ADIs that register for the 
+scheme. However, for foreign bank branches, such as BankWest, the guarantee 
+only applies in respect of their short term wholesale funding raised from 
+Australian residents with maturities up to the end of 2009. 
+E 
+Background to the proposed acquisition  
+25. 
+On 8 October 2008, CBA announced its proposal to acquire BankWest and St 
+Andrew’s from HBOS. At the time of announcement, HBOS was experiencing 
+considerable funding pressures despite its announced sale to Lloyds TSB Group 
+plc (Lloyds) (see below). HBOS stated that the transaction would result in an 
+immediate and substantial funding benefit. 
+26. 
+CBA’s offer for the BankWest business is low in the context of the price to book 
+ratios of other Australian banking acquisitions (figure 1).  
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-5- 
+Figure 1 
+Price-to-book values for Australian banking acquisitions 
+ 
+Source: CBA Investor Pack, 8 October 2008. 
+ 
+Proposed acquisition of HBOS by Lloyds  
+27. 
+Lloyds, a leading UK-based bank, announced a proposal to acquire HBOS in mid 
+September 2008. The sale was negotiated in the context of the sharp worsening of 
+global financial markets, when the position of HBOS became increasingly 
+vulnerable in terms of share price and funding.  
+28. 
+On 19 November 2008, Lloyds’ shareholders voted in favour of the proposed 
+acquisition. HBOS’ shareholders will vote on 12 December 2008. If granted 
+shareholder approval, the acquisition is likely to complete in January 2009. As 
+part of a package of measures introduced by the UK Government to assist 
+financial institutions, the UK Government will acquire a 40% stake of the merged 
+firm. 
+F 
+Timing 
+29. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+20 Oct 2008 
+ACCC commenced its review under the Merger Review Process Guidelines. 
+Market inquiries commenced. 
+22 Oct 2008 
+ACCC requested further information from Commonwealth Bank of 
+Australia. ACCC timeline suspended. 
+10 Nov 2008 
+Closing date for submissions from interested parties. 
+11 Nov 2008 
+ACCC received further information from Commonwealth Bank of Australia. 
+ACCC timeline recommenced. 
+10 Dec 2008 
+Announcement of ACCC’s decision. 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-6- 
+G 
+Market inquiries 
+30. 
+The ACCC conducted extensive market inquiries in relation to the proposed 
+acquisition. A range of interested parties provided responses including 
+competitors, industry and consumer associations, mortgage brokers and interested 
+third parties.  
+31. 
+The ACCC sent an ‘open letter’ to banking customers in Western Australia as 
+part of its inquiry process welcoming customers’ views on the proposed 
+acquisition. The focus of the letter was on whether BankWest was considered to 
+be a particularly vigorous competitor in terms of price and/or service. Over 50 
+responses from personal banking customers were received. 
+32. 
+The ACCC also held discussions and requested information from a range of 
+parties regarding the likely future of BankWest if the acquisition did not proceed. 
+These included the merger parties, HBOS and Lloyds, Australian regulators and 
+other potential buyers of the BankWest business.  
+H 
+The ACCC’s merger assessment process – the ‘with and 
+without’ test 
+33. 
+Section 50 of the Act prohibits an acquisition if it would be likely to have the 
+effect of substantially lessening competition in a market.  
+34. 
+In assessing a merger pursuant to section 50 of the Act, the ACCC must consider 
+the effects of the transaction by comparing the likely future state of competition if 
+the transaction proceeds (the “with” or “factual” position) to the likely future 
+state of competition if the transaction does not proceed (the “without” or 
+“counterfactual” position).  
+35. 
+This with or without test is crucial to the ACCC’s assessment of this matter. The 
+ACCC has received compelling evidence to suggest that the competitive 
+constraint provided by BankWest without the transaction is likely to be different 
+from the constraint they previously provided. This is explored in detail in section 
+J below.  
+I 
+Market definition 
+36. 
+The ACCC considered a number of relevant markets under each of the key 
+product areas where the activities of the parties overlapped, in particular, personal 
+banking, business banking, wealth management and insurance.  
+Retail (personal and business) banking 
+37. 
+The market definitions adopted by the ACCC for the purposes of assessing this 
+matter are summarised in table 1.  
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-7- 
+Table 1 
+Retail banking markets 
+Product dimension 
+Geographic 
+dimension 
+Functional characteristics 
+Personal banking markets 
+Transaction accounts 
+Local but price and 
+service competition is 
+predominantly national 
+Provide day-to-day deposit and payment functionality in 
+the form of cheque books, debit cards, BPay, internet 
+and phone banking.  
+Saving/term products 
+National 
+Savings instrument with a focus on growth in the capital 
+value of the deposited funds. 
+Credit cards 
+National 
+Short-term unsecured lending product for individual 
+consumers.  
+Home loans 
+National  
+Mortgage lending to individuals for the purpose of 
+acquiring residential property. 
+Personal loans 
+National 
+Lending to individuals for the purpose of purchasing 
+large personal consumption items. 
+Business banking markets 
+SME banking 
+Local but price and 
+service competition is 
+predominantly national 
+A ‘cluster’ of banking products encompassing credit 
+products, transaction/cash facilities, merchant acquiring 
+services and banking advice.  
+Agribusiness banking 
+Local but price and 
+service competition is 
+predominantly national 
+A ‘cluster’ of banking products for agricultural 
+businesses with a central element being specialised 
+lending products including very long-term credit 
+instruments.  
+ 
+38. 
+The ACCC has considered the geographic dimension of competition for each of 
+the retail banking markets based on: 
+• the importance of a physical presence (branch and ATM networks) in 
+consumer choice of provider; and 
+• the geographic scope of decision making of financial institutions in terms of 
+their product range, prices and service levels.  
+39. 
+The ACCC considers that there are several banking products for which a physical 
+presence is a key determinant of consumer choice — namely transaction 
+accounts, SME and agribusiness banking. Market inquiries suggested that 
+consumers take account of the physical presence of providers — the presence of a 
+branch in a convenient location and the extent of the ATM network — in 
+choosing between financial institutions for these products. This was also 
+supported by market survey data provided to the ACCC in its consideration of 
+this matter and in its assessment of the Westpac-St George merger. 
+40. 
+In contrast, the evidence provided to the ACCC suggests that a physical presence 
+is not an important determinant of consumer choice for other retail banking 
+products — namely, saving/term products, credit cards, home loans and personal 
+loans. 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-8- 
+41. 
+The ACCC notes there is strong evidence to suggest that price competition in 
+retail banking product markets is almost always national. Market inquiries 
+indicated that most financial institutions manufacture, distribute, market and price 
+products on a national basis. The merger parties provided comprehensive 
+information about their internal processes for developing products and setting 
+prices that provided further support for this. 
+42. 
+However, in this matter CBA provided some limited examples of varying prices 
+at a state level.  
+43. 
+Other aspects of the merger parties’ service provision, including staffing levels, 
+marketing and branch opening hours, are also centrally determined. In the case of 
+staffing levels, these are set according to a formula based on historic levels of 
+customer demand. Competition for these aspects of the service offering is 
+therefore also national.  
+44. 
+A more detailed discussion around the relevant product and geographic 
+dimensions of these markets can been found in the ACCC’s Public Competition 
+Assessment released in relation to its decision not to oppose the acquisition of St 
+George Bank Limited by Westpac Banking Corporation. 
+Wealth management and insurance 
+45. 
+The ACCC did not consider it necessary to reach a definitive view on the 
+appropriate market definition for wealth management and insurance products 
+because it was considered that the proposed acquisition was not likely to raise 
+competition concerns regardless of the market definition adopted. 
+J 
+Competition analysis 
+Impact of the proposed acquisition on national retail banking markets  
+ 
+46. 
+It was found that the proposed acquisition would result in the aggregation of the 
+retail banking assets of BankWest and CBA in several national retail banking 
+markets — saving/term products, home loans, credit cards and personal loans.  
+47. 
+Table 2 illustrates that BankWest holds a modest share in each of the relevant 
+markets. 
+Table 2  
+National market shares (%)1 
+  
+Deposit/term 
+products 
+Home loans 
+Personal loans 
+Credit cards 
+CBA 
+26.9 
+18.8 
+11.6 
+16.9 
+Bank West 
+3.9 
+2.8 
+3.9 
+2.0 
+Merged entity 
+30.8 
+21.6 
+15.5 
+18.9 
+                                               
+1 The market share figures are derived from a number of sources. The ACCC considers these figures to 
+be the best estimates available for the purposes of this assessment. 
+ 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-9- 
+48. 
+However, a number of parties put to the ACCC, that despite BankWest’s 
+relatively small presence in these markets, it has played an important role in 
+driving national price competition and innovation. The ACCC has therefore 
+investigated BankWest’s role as a vigorous and effective competitor in national 
+retail banking markets.  
+Has BankWest been a vigorous and effective competitor? 
+49. 
+Many market participants commented on BankWest’s role as a vigorous and 
+effective competitor in retail banking markets. In 2006, BankWest announced a 
+plan to open 160 branches in the eastern states of Australia over a period of 4 
+years. BankWest also began an aggressive roll out of ATMs outside of Western 
+Australia, including an agreement to supply and operate ATMs in 7-11 stores.  
+50. 
+Consistent with its strategy of building a national presence, BankWest was 
+targeting growth in its market share across retail banking products. For certain 
+banking products considered to be ‘key acquisition priorities’, BankWest aimed 
+to offer market leading prices to attract new customers. The ACCC understands 
+that BankWest has offered the market leading prices for transaction accounts 
+(discussed separately below), saving/term products and home loans for most of 
+this year.  
+51. 
+BankWest’s product offering has also been innovative — for example, its 
+‘RateTracker’ home loan offers an interest rate set at 1% less than the average of 
+the standard variable rates of the big four banks for the first two years. Similarly, 
+with its service offering, BankWest pioneered open plan layouts for its branches 
+with ‘mobile service pods’ rather than teller bays and zones for kids including 
+toys and DVDs. BankWest has also adopted extended trading hours, including 
+Thursday night and weekend trading, at many of its branches. 
+52. 
+In recognition of both its aggressive pricing and innovative product offerings, 
+BankWest has been well recognised in industry awards particularly for its home 
+loan and savings products. BankWest has also been successful in growing its 
+presence in these markets, attracting a share of new and switching customers 
+considerably above its existing market share.  
+53. 
+The ACCC has also received evidence of competitors responding directly to 
+BankWest’s pricing decisions and service model.  
+54. 
+On the basis of BankWest’s pricing behaviour, service model and east coast 
+expansion strategy, the ACCC considers that BankWest has been a vigorous and 
+effective competitor, particularly in the saving/term products and home loan 
+markets.  
+55. 
+However, as set out in section H, the ACCC must consider the competitive 
+effects of the transaction by comparing the likely future state of competition if the 
+transaction proceeds to the counterfactual — the likely future state of competition 
+if the transaction does not proceed. 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-10- 
+56. 
+Despite the role BankWest has previously played in driving retail banking 
+competition, the ACCC has received compelling evidence from a range of parties 
+to suggest that BankWest will not be in a position to continue to compete 
+aggressively or act as a price leader under the counterfactual.  
+Will BankWest continue to compete aggressively in the absence of the acquisition? 
+57. 
+The ACCC’s view on the counterfactual was informed by discussions with a 
+range of parties, including APRA and the RBA; BankWest and HBOS Australia; 
+HBOS and Lloyds, as well as other parties initially approached to acquire the 
+HBOS Australia assets. 
+58. 
+Based on the information from these sources, the ACCC has formed the view that 
+the relevant counterfactual in this case is that HBOS/Lloyds would continue to 
+operate the BankWest business in the short to medium term. However, it was 
+found that BankWest’s operating model would change considerably under this 
+scenario. 
+59. 
+The financial situation and risk appetite of HBOS (or a merged Lloyds/HBOS 
+with 40% UK Government ownership) is such that these companies would no 
+longer continue to grow the BankWest business. Not only would this likely see a 
+cessation of the bank’s east coast expansion plan, but also the aggressive pricing 
+targeted at growing market share.  
+60. 
+HBOS Australia and BankWest provided submissions and internal documents 
+that support this view of the bank’s likely strategy should it continue to be owned 
+by HBOS. The RBA and APRA also indicated that they did not consider that 
+BankWest would be in a position to provide strong and sustainable competition 
+going forward.  
+61. 
+The ACCC has investigated the possibility that another buyer might acquire the 
+BankWest assets. Any buyer would need to be in a position not only to raise the 
+purchase price but to repay the approximately than $16 billion in intra-group 
+loans from HBOS.   
+62. 
+Following inquiries with financial regulators, BankWest’s parent company, 
+Australian and overseas banks (including all of those initially approached by 
+HBOS advisors in relation to the sale) and other consortia who may have had an 
+interest in acquiring BankWest, the ACCC concluded that an alternative buyer for 
+BankWest is unlikely in the current funding environment. 
+63. 
+However, even if another buyer were to acquire BankWest, the ACCC took the 
+view that it is not clear that an alternative buyer would have continued to pursue 
+the aggressive growth strategy adopted by HBOS. The rapid expansion being 
+pursued by HBOS with the BankWest business (160 branches over 4 years), was 
+unprecedented in Australian banking.  
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-11- 
+64. 
+Information provided by HBOS Australia suggested that the BankWest growth 
+strategy was a function of the parent’s business model and its search for ongoing 
+expansion opportunities. It was able to underwrite this growth because: 
+• the Australian operations are only a small part of its total business 
+(approximately 5%); and 
+• it was able to offer BankWest access to low cost wholesale funding through its 
+AA credit rating. 
+65. 
+The ACCC considered that it is unlikely that any new buyer would be willing and 
+able to offer to underwrite such growth going forward, particularly in the absence 
+of a significant improvement in the global funding environment. 
+66. 
+Given a counterfactual under which BankWest will continue to operate as an 
+independent player but will no longer be the competitive force it once was, the 
+ACCC considered the proposed acquisition was unlikely to substantially lessen 
+competition in the relevant national retail banking markets (including home loans 
+and saving/term products). Given BankWest’s relatively modest market share in 
+these markets, and the number of other significant competitors, the ACCC found 
+that it was unlikely that the acquisition of such a small competitor, no longer 
+offering market leading prices, would substantially lessen competition.  
+67. 
+The ACCC notes that its views regarding the counterfactual are specific to the 
+facts of this particular acquisition. The financial situation of BankWest’s UK 
+parent, and the associated changes it is likely to make to BankWest’s operating 
+model in the absence of the transaction, have strongly informed the ACCC’s 
+conclusions.  
+68. 
+The ACCC will closely analyse the competition implications of any further 
+proposed acquisitions of regional banks.  
+Impact of the proposed acquisition on other retail banking markets 
+Transaction accounts 
+69. 
+As noted in section I, transaction account markets were considered as local 
+because a physical (branch and/or ATM) presence is still an important 
+determinant of consumer choice of provider.  
+70. 
+However, it was found that most of the key aspects of the service provision, 
+including product manufacture, price, opening hours and staffing levels, are 
+determined centrally by banks in response to national (or at the narrowest, state) 
+rather than local competitive conditions.  
+71. 
+The key aspect of local competition relates to the availability of a branch 
+presence. Therefore the ACCC considered the effect of the acquisition in each 
+local market in terms of consumer choice, as well as whether the acquisition 
+would impact on price and service at a national or state-wide level, which would 
+have a flow on effect to every local market in which CBA and/or BankWest is a 
+competitor. 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-12- 
+Likely effects on the national elements of decision making for transaction accounts 
+72. 
+BankWest prices its transaction accounts nationally. BankWest’s ‘Hero’ and 
+‘Zero’ products have been the national price leaders in this market over the last 
+year. However, as outlined at paragraph 57 above, under the counterfactual 
+BankWest is unlikely to continue to offer market leading products because HBOS 
+will not be in a position to continue to finance its expansion strategy. 
+73. 
+BankWest is a relatively small player in terms of its national presence, with a 
+3.2% share of deposits. Therefore, the ACCC found that the proposed acquisition 
+by CBA was unlikely to have a significant effect on banks national prices or 
+service levels for transaction accounts compared to the counterfactual.   
+Potential for Western Australia-specific price increases 
+74. 
+As noted at paragraph 41, CBA has submitted some examples to the ACCC of 
+revisions to product prices on a state basis, including waiving transaction account 
+fees for their Western Australian consumers (if their account is linked to a CBA 
+savings account). CBA acknowledged this was in response to the competitive 
+threat posed by BankWest.  
+75. 
+Given this demonstrated willingness to vary the price for this product at a state 
+level, the ACCC therefore explored the possibility that the proposed acquisition 
+may result in: 
+• CBA winding back this Western Australia-specific discount; and 
+• CBA increasing transaction account prices in Western Australia above 
+national prices.  
+76. 
+The proposed acquisition will see the aggregation of the two largest providers of 
+transaction accounts in Western Australia — CBA with 23% (by value of 
+deposits) and BankWest with 24%. The only other significant competitors are the 
+other ‘big four’ banks — ANZ with 14%, NAB with 11% and Westpac/St George 
+15% (table 2). 
+77. 
+By share of branches, the aggregation is less significant with the merged entity 
+representing 27% Western Australian branches post-acquisition, with Westpac/St 
+George, ANZ and NAB with 15%, 15% and 10% respectively (table 3). 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-13- 
+Table 3  
+Transaction accounts – Western Australia (%)2 
+ 
+Western Australia 
+ 
+Deposits 
+Branches 
+ATMs 
+CBA 
+22.5 
+11.9 
+19.7 
+Bank West 
+23.5 
+13.5 
+18.5 
+Merged entity 
+46.0 
+25.4 
+38.1 
+ANZ 
+14.3 
+13.2 
+22.6 
+NAB 
+11.9 
+11.3 
+10.3 
+WBC / St George 
+15.1 
+18.1 
+16.7 
+Bendigo / Adelaide 
+2.6 
+6.0 
+3.1 
+Elders 
+< 1 
+15.6 
+- 
+Rabobank 
+< 1 
+1.4 
+- 
+Other institutions 
+~ 10.0 
+9.0 
+9.1 
+TOTAL 
+100.0 
+100.0 
+100.0 
+ 
+78. 
+While the discount offered by CBA for its Western Australian transaction 
+account customers is likely to be removed, the ACCC considered this would 
+occur even in the absence of the transaction. As discussed above, under the 
+counterfactual, BankWest is unlikely to continue to act as a price leader in this 
+market and therefore CBA’s competitive response would also be wound back.  
+79. 
+The ACCC considered whether CBA would be likely to increase prices in 
+Western Australia above the national price. Despite what will be a more 
+concentrated market in Western Australia than in other states post-acquisition, 
+three significant competitors will remain for transaction accounts that would be 
+likely to constrain CBA’s ability and incentive to significantly and sustainably 
+increase prices.  
+80. 
+In particular, the ACCC noted that both ANZ and Westpac have a branch 
+network that is as comprehensive as those of the two merger parties.  
+81. 
+Further, the ACCC noted CBA is currently the dominant provider of transaction 
+accounts in Tasmania (38% of deposits, nearest competitor 13%) and Victoria 
+(33% of deposits, nearest competitor 16%) but it has never introduced differential 
+fees and charges in these states.  
+82. 
+The ACCC considered that the reputational effects from charging higher prices in 
+one state may be a strong disincentive from doing so.  
+83. 
+The ACCC did not consider that the aggregation arising from the proposed 
+acquisition was likely to be sufficient to give CBA the ability and incentive to 
+institute a significant and sustainable increase in its in price for its Western 
+Australian transaction account customers. 
+                                               
+2 The market share figures are derived from a number of sources. The ACCC considers these figures to 
+be the best estimates available for the purposes of this assessment. 
+ 
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-14- 
+Local markets - likely impact of the acquisition on consumer choice  
+84. 
+With no variation in either the products, prices or key service dimensions 
+(staffing levels and opening hours) occurring at a local level, the key dimension 
+of local competition is the existence of a physical (branch and ATM) presence. 
+85. 
+Banking industry market research obtained by the ACCC indicates that a 
+common reason for switching transaction account providers is customer 
+dissatisfaction with an existing account provider. Therefore, the availability of an 
+alternative provider in a given local market is important for consumer welfare.  
+86. 
+The ACCC has explored the impact of the acquisition on consumer choice based 
+on the following local markets for transaction accounts: 
+• (at its widest) a metropolitan Perth transaction account market; and 
+• various local transaction account markets in regional and remote areas of 
+Western Australia. 
+87. 
+Minimal aggregation arises in local markets outside of Western Australia   
+88. 
+The ACCC considered that on a Perth metropolitan-wide basis, consumers will 
+retain a number of choices after the acquisition, including ANZ and Westpac both 
+with a significant branch and ATM presence, and to a lesser extent, NAB and 
+Bendigo. Even on an individual suburb level, in nearly every suburb where both 
+BankWest and CBA have branches, each of the other big four banks also have 
+branches. There is only one suburb, Kwinana, where no alternative competitor 
+with a branch presence will remain. However, the ACCC notes that both ANZ 
+and NAB have an ATM presence in Kwinana. In Rockingham, 9 kms (or a 15 
+minute drive) away, each of ANZ, NAB, Westpac and Bendigo has a branch and 
+ATM presence. 
+89. 
+In regional areas, in each of the towns where there is aggregation arising from the 
+transaction, there is at least one other major financial institution with a branch 
+and ATM presence.  
+SME and agribusiness markets 
+90. 
+As for transaction account markets, the ACCC considered whether the acquisition 
+may manifest in concerns for SME or agribusiness banking at either a national, 
+state or local level. 
+91. 
+The ACCC considered that concerns were unlikely to arise in terms of the 
+national prices or service levels because BankWest has a relatively small share of 
+SME and agribusiness customers on a national basis (2.6% and 3.3%, 
+respectively).  
+92. 
+In Western Australia, the merged entity will have around 27% by share of loans 
+for business and agribusiness banking. Westpac, ANZ, NAB, Rabobank, and in 
+the case of agribusiness banking, Elders, will all remain as significant 
+competitors.  
+
+
+Commonwealth Bank - proposed acquisition of BankWest and St Andrew’s Australia 
+-15- 
+93. 
+In each local market considered by the ACCC where merger parties overlap in 
+terms of a business or agribusiness presence, a number of competitors offering 
+specialised business banking services will remain post-acquisition. 
+Impact of the proposed acquisition on wealth management and insurance markets  
+ 
+94. 
+CBA provides wealth management services under its CommSec, Colonial First 
+State and First Choice brands. St Andrew’s is a relatively small specialist 
+provider of wealth management services. 
+95. 
+The operations of CBA and St Andrew’s in relation to the supply of investment, 
+superannuation and retirement products, and the provision of financial advice. 
+The ACCC found that St Andrew’s has a very small presence in each of the 
+wealth management markets for which it overlaps with CBA, and accordingly 
+took the view that the proposed acquisition is unlikely to raise competition 
+concerns. 
+K 
+Conclusion 
+96. 
+The ACCC considers that BankWest has been a particularly vigorous and 
+effective competitor in retail banking markets nationally, especially for 
+transaction accounts, home loans and saving products. However, under the 
+counterfactual it will not continue with its east coast expansion or continue to act 
+as the aggressive competitor it was previously.  
+97. 
+In the absence of the global financial crisis, and the funding difficulties faced by 
+BankWest’s parent company, the ACCC’s conclusion may have been different. 
+However, with BankWest no longer capable of competing as aggressively, the 
+ACCC found that it is unlikely that the removal of BankWest as an independent 
+competitor would result in a substantial lessening of competition, relative to the 
+counterfactual. 
+98. 
+In Western Australia, the proposed acquisition will significantly increase CBA’s 
+market share, particularly for transaction accounts, but a number of other 
+significant competitors remain. It is likely that the key aspects of the transaction 
+account offer (product manufacture, price, staffing levels and opening hours) will 
+continue to be determined nationally and therefore must reflect national rather 
+than state or local competitive conditions. 
+99. 
+While the acquisition will result in less consumer or business choice in the local 
+markets where the branch presence of the two banks overlaps, in almost every 
+local area there remains several other competitors with a physical presence in the 
+same suburb, or at least in a major suburb nearby.  
+100. On the basis of the factors set out above, the ACCC formed the view that the 
+proposed acquisition would be unlikely to result in a substantial lessening of 
+competition in any of the relevant markets.  
+ 

@@ -1,0 +1,64 @@
+{
+  "id": "0071",
+  "title": "Viva Energy - OTR Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viva-energy-otr-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Fuel and convenience - retail and wholesale operations"
+  ],
+  "date_completed": "14 December 2023",
+  "date_completed_iso": "2023-12-14T12:00:00Z",
+  "date_commenced": "4 July 2023",
+  "date_commenced_iso": "2023-07-04T12:00:00Z",
+  "total_review_days": 116,
+  "acquirers": [
+    "Viva Energy Retail Pty Ltd"
+  ],
+  "targets": [
+    "OTR 330 Pty Ltd;   OTR 328 Pty Ltd;   Reliable Petroleum Pty Ltd;   Peregrine Energy Pty Ltd and DF Wholesalers Pty Ltd (together, the OTR Group)"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jul 2023",
+      "date_iso": "2023-07-06T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jul 2023",
+      "date_iso": "2023-07-20T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "15 Sep 2023",
+      "date_iso": "2023-09-15T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of ACCC's findings (21 September 2023) is delayed. The ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "16 Nov 2023",
+      "date_iso": "2023-11-16T12:00:00Z",
+      "event": "ACCC commenced consultation on the divestiture proposal."
+    },
+    {
+      "date": "27 Nov 2023",
+      "date_iso": "2023-11-27T12:00:00Z",
+      "event": "Closing date for submissions on the divestiture proposal."
+    },
+    {
+      "date": "14 Dec 2023",
+      "date_iso": "2023-12-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "26 Mar 2024",
+      "date_iso": "2024-03-26T12:00:00Z",
+      "event": "ACCC accepted a further section 87B undertaking from Peregrine"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viva Energy Retail Pty Ltd ( Viva Energy ) proposes to acquire the entities which constitute the On the Run business ( OTR Group ). Viva Energy (with its related bodies corporate) is a fuel refiner, importer, wholesaler, distributor and retailer, operating a nationwide fuel supply chain with retail sites in each Australian state and territory, including Coles Express convenience sites. Viva Energy is the exclusive supplier of Shell-branded fuels and lubricants in Australia. The OTR Group is a fuel and convenience retailer operating predominantly in South Australia with some locations in other states and territories across Australia, including the Northern Territory under the Puma brand. The OTR Group also supplies wholesale fuels and distribution services to small commercial customers and independent retail fuel sites through the Reliable Petroleum, Mogas Regional and Ausfuel businesses. The proposed acquisition will combine the entities’ retail fuel, wholesale fuel and retail convenience and grocery offerings. On 16 November 2023, the ACCC commenced market consultation on a draft undertaking. On 14 December 2023, the ACCC decided to not oppose Viva Energy’s proposed acquisition of the OTR Group, subject to the ACCC accepting a court-enforceable undertaking from Viva Energy to divest 25 retail fuel and convenience sites in South Australia (24 in Adelaide and one in Ceduna) to Chevron Australia Downstream Fuels Pty Limited and Chevron Australia Downstream Stores Pty Ltd. On 16 October 2023, the Peregrine Corporation ( Peregrine ), the vendors of OTR Group, acquired a retail fuel and convenience site at Boolaroo in Newcastle, New South Wales. On 17 December 2023, Peregrine acquired three additional retail fuel and convenience sites in Newcastle, New South Wales, located at Hamilton Tudor Street, Newcastle West and Hamilton South On 6 February 2024, Viva Energy sought pre-assessment of the four additional sites. On 25 March 2024, the ACCC decided to not oppose Viva Energy acquiring the sites at Boolaroo and Hamilton Tudor Street, and accepted a court-enforceable undertaking from Peregrine to divest the Newcastle West and Hamilton South sites to a purchaser approved by the ACCC.",
+    "Market definition": "Refer to the Public Competition Assessment.",
+    "Competition analysis": "Refer to the Public Competition Assessment."
+  }
+}

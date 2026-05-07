@@ -1,0 +1,44 @@
+{
+  "id": "0942",
+  "title": "Ramsay Health Care Limited - proposed acquisition of Bowral Day Surgery",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ramsay-health-care-limited-proposed-acquisition-of-bowral-day-surgery",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31295",
+  "industries": [
+    "Health Care"
+  ],
+  "date_completed": "20 March 2008",
+  "date_completed_iso": "2008-03-20T12:00:00Z",
+  "date_commenced": "29 February 2008",
+  "date_commenced_iso": "2008-02-29T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "Ramsay Health Care Limited"
+  ],
+  "targets": [
+    "Bowral Day Surgery"
+  ],
+  "timeline": [
+    {
+      "date": "29 Feb 2008",
+      "date_iso": "2008-02-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Mar 2008",
+      "date_iso": "2008-03-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Mar 2008",
+      "date_iso": "2008-03-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ramsay Health Care Limited (Ramsay) proposed to acquire the Bowral Day Surgery (BDS).  Ramsay also owns the nearby Southern Highlands Private Hospital.",
+    "Market definition": "This proposed acquisition was assessed within the context of the following markets: - the market for the supply of private day surgery services to health funds and the Department of Veterans Affairs (DVA) in Bowral and the surrounding region; and - the market for the supply of private day surgery services to patients (with specialists acting as agents) in Bowral and the surrounding region.",
+    "Competition analysis": "On 20 March 2008, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets, on the basis that barriers to entry did not appear to be high in Bowral and the surrounding region, with evidence of planned entry, and there was limited overlap in the services provided by the BDS and the Southern Highlands Private Hospital."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0442",
+  "title": "Veolia Environmental Services (Australia) Pty Ltd - proposed acquisition of the assets of Andreco Hurll Refractory Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/veolia-environmental-services-australia-pty-ltd-proposed-acquisition-of-the-assets-of-andreco-hurll-refractory-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48739",
+  "industries": [
+    "Refractory services"
+  ],
+  "date_completed": "21 June 2012",
+  "date_completed_iso": "2012-06-21T12:00:00Z",
+  "date_commenced": "1 May 2012",
+  "date_commenced_iso": "2012-05-01T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Veolia Environmental Services (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Andreco Hurll Refractory Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "1 May 2012",
+      "date_iso": "2012-05-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 May 2012",
+      "date_iso": "2012-05-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Jun 2012",
+      "date_iso": "2012-06-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Veolia Environmental Services (Australia) Pty Ltd proposed to acquire the assets of Andreco Hurll Refractory Services Pty Ltd",
+    "Market definition": "The ACCC considered the competition effects of the proposed acquisition in two separate but related markets: - the national market for the supply of refractory services (including maintenance and one-off projects); and - the national market for the supply of refractory materials. In particular, the ACCC focused its assessment on the direct area of overlap between Veolia and Andreco Hurll for the supply of refractory services, as well as the likely impact of the proposed acquisition for the supply of refractory materials, having regard to the proposed supply agreement between Veolia and Vesuvius.",
+    "Competition analysis": "The ACCC decided that the proposed acquisition was unlikely to substantially lessen competition in either of the relevant markets. In making this decision, the ACCC conducted detailed market inquiries and examined closely whether or not the merged firm would have the ability and incentive to increase prices above a competitive level or reduce service levels. Post acquisition, the ACCC noted that the merged firm would have a relatively high share of the market for the supply of refractory services. However, the ACCC considered the following factors would be likely to constrain the merged firm: - a number of alternative suppliers of refractory services would remain in the market, including mid-sized suppliers which would have the capability to expand their operations to service new customers; - barriers to expansion for existing alternative suppliers were considered to be lower than barriers to new entry because existing suppliers have established credentials and experience, and these were considered to be important factors to customers when choosing a service provider; - existing mid-sized suppliers provided a degree of competitive constraint, and had demonstrated an ability to win contracts from Veolia and Andreco Hurll; and - customers of refractory services providers, many of whom were large national or mulitnational companies, provided some countervailing power. In particular, larger customers would have the ability to facilitate the expansion of alternative suppliers by offering substantial contracts. As part of the proposed acquisition, the ACCC considered the proposed long-term agreement between Veolia and Vesuvius for the supply of refractory materials. The ACCC considered that any increase in purchases directed to Vesuvius from Veolia would represent a relatively small portion of total sales in the market for the supply of refractory materials. The ACCC had regard to market feedback that customers would have the ability to purchase refractory materials directly from the manufacturer, rather than via the refractory services provider. Customers would also have the ability to specify the type of material to be used, and the manufacturer. The ACCC also noted that the market for the supply of refractory materials was relatively fragmented, with numerous local and overseas producers. Accordingly, customers would continue to have a range of supply options for refractory materials following the acquisition. Further, the proposed acquisition would separate Vesuvius, as a manufacturer and supplier of refractory materials, from Andreco Hurll, as a supplier of refractory services. Therefore the extent of vertical integration in the industry would be reduced."
+  }
+}

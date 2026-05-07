@@ -1,0 +1,54 @@
+{
+  "id": "1026",
+  "title": "Luxottica Group SpA - proposed acquisition of Oakley Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/luxottica-group-spa-proposed-acquisition-of-oakley-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29505",
+  "industries": [
+    "Optical"
+  ],
+  "date_completed": "15 October 2007",
+  "date_completed_iso": "2007-10-15T12:00:00Z",
+  "date_commenced": "3 September 2007",
+  "date_commenced_iso": "2007-09-03T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Luxottica Group SpA"
+  ],
+  "targets": [
+    "Oakley Inc"
+  ],
+  "timeline": [
+    {
+      "date": "3 Sep 2007",
+      "date_iso": "2007-09-03T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "19 Sep 2007",
+      "date_iso": "2007-09-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Sep 2007",
+      "date_iso": "2007-09-20T12:00:00Z",
+      "event": "ACCC requested further information from Luxottica. ACCC timeline suspended."
+    },
+    {
+      "date": "28 Sep 2007",
+      "date_iso": "2007-09-28T12:00:00Z",
+      "event": "ACCC received further information from Luxottica. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Oct 2007",
+      "date_iso": "2007-10-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Luxottica Group SpA propose to acquire Oakley Inc.",
+    "Market definition": "The proposed acquisition was considered in the context of separate markets for the retail supply of sunglasses, the wholesale supply of sunglasses, and the wholesale supply of prescription frames.",
+    "Competition analysis": "On 15 October 2007 the ACCC formed the view, after conducting market inquiries, that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the merged firm was likely to face sufficient actual and potential competitive constraints at the retail level from increasing sunglass prices above competitive levels; - the presence of a large number of competing wholesale distributors and the availability of brands which compete with those of Luxottica and Oakley, was likely to constrain the merged firm's ability to raise the costs of competing sunglass retailers (for example, by foreclosing supply or increasing prices for Luxottica and Oakley branded sunglasses); - it was unlikely that the merged firm could raise the costs of its wholesale competitors by refusing to stock or limiting the acquisition of their products because independent wholesalers could expand their supply of sunglasses and prescription frames to independent stores; and - low barriers to entry with examples of effective entry."
+  }
+}

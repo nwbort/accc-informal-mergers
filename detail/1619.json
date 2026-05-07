@@ -1,0 +1,31 @@
+{
+  "id": "1619",
+  "title": "Acquirer: Consolidated Press Holdings Limited, Teys Bros Pty Ltd; Target: No data available",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-consolidated-press-holdings-limited-teys-bros-pty-ltd-target-no-data-available",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16551",
+  "industries": [],
+  "date_completed": "26 August 2002",
+  "date_completed_iso": "2002-08-26T12:00:00Z",
+  "date_commenced": "2 August 2002",
+  "date_commenced_iso": "2002-08-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Consolidated Press Holdings Limited, Teys Bros Pty Ltd"
+  ],
+  "targets": [
+    "No data available"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Consolidated Meat Group (CMG) and Teys Bros. (Teys) proposed to enter a joint venture arangement to which they would each contribute their abattoirs and related meat processing assets.  Most of the proposed merged entity's assets are located in Queensland.  It was also proposed that Teys would contribute its abattoir at Naracoorte in South Australia to the merged entity.  Additionally CMG had a moth-balled plant at Katherine in the Northern Territory which it intended to contribute to the joint venture, and CMG intended contributing land and abattoirs associated with its Lakes Creek abattoir in Rockhampton to the joint venture.  (The imminent closure of the Lakes Creek abattoir had been announced by CMG at around the same time as the proposed joint venture was announced.)",
+    "Market definition": "For the purposes of this analysis the Commission examined the acquisition of cattle for slaughter; the slaughter and processing of beef; and the wholesale supply of processed beef to domestic consumers.  The Commission noted the 1988 Federal Court determination that there was a north-Queensland (i.e, north of Mackay) and rest-of-Queensland geographic market. (Australia Meat Holdings Pty Limited v Trade Practices Commission.)",
+    "Competition analysis": "Market inquiries indicated no concerns with the proposed merger no matter what the geographic market was taken to be.  On a national basis the merged entity's market shares would fall well below the safe-harbour thresholds specified in the Commission's merger guidelines.  Available data also suggested that the merged entity was unlikely to breach these safe harbour thresholds in the Queensland context. The Commission conducted market inquiries with cattle producer representatives, competing abattoirs and meat processors, and domestic buyers of processed beef.  These market participants indicated that the merger of CMG and Teys Bros was unlikely to lead to a reduction in competition in terms of the prices that producers were likely to receive for their cattle, or in terms of the processing and supply of processed meat for domestic consumption. Given these factors the Commission decided not to intervene against the proposed merger.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2111"
+  }
+}

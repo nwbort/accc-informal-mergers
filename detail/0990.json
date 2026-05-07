@@ -1,0 +1,45 @@
+{
+  "id": "0990",
+  "title": "AGL Energy Limited and Arrow Energy N L - proposed acquisition of Enertrade's Gas Pipeline Assets and Gas Merchant Business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-and-arrow-energy-n-l-proposed-acquisition-of-enertrades-gas-pipeline-assets-and-gas-merchant-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30394",
+  "industries": [
+    "Gas/Electricity"
+  ],
+  "date_completed": "5 December 2007",
+  "date_completed_iso": "2007-12-05T12:00:00Z",
+  "date_commenced": "23 November 2007",
+  "date_commenced_iso": "2007-11-23T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "AGL Energy Limited",
+    "Arrow Energy N L"
+  ],
+  "targets": [
+    "Enertrade's Gas Pipeline Assets and Gas Merchant Business"
+  ],
+  "timeline": [
+    {
+      "date": "23 Nov 2007",
+      "date_iso": "2007-11-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "30 Nov 2007",
+      "date_iso": "2007-11-30T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    },
+    {
+      "date": "5 Dec 2007",
+      "date_iso": "2007-12-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL and Arrow formed a joint venture to acquire Enertrade's 'Gas Merchant Business' and the 'Gas Pipeline Assets' from the Queensland Government. The joint venture acquired: the North Queensland  Gas Pipeline; the Moranbah Gas Processing Facility; an agreement for the purchase of gas from the Moranbah Gas Project; agreements to supply gas to third parties in Townsville;  the Central Queensland Gas Pipeline Development Project; and dispatch management of the Yabulu Power Station in Townsville. AGL and Arrow have a 50/50 joint venture in the Moranbah Gas Project, while AGL also has dispatch rights over the Oakey Power Station.",
+    "Market definition": "The relevant markets are likely to be the markets for the supply and transmission of gas from Moranbah to Townsville; the wholesale supply of gas to Gladstone; and the wholesale supply of electricity into the Queensland region of the National Electricity Market (NEM).",
+    "Competition analysis": "The ACCC formed the view, after taking into consideration information received from the parties and from market inquiries, that the acquisition is unlikely to substantially lessen competition in the relevant markets. In forming this view the ACCC had regard to the following non-exhaustive list of factors: The supply and transmission of gas to Townsville:  the transaction has the effect of consolidating the different functional levels of gas supply: production, transmission and retail, into the one entity. In considering the likely effects of the joint venture, the ACCC considered whether there was competition between these functional levels, and the merger parties' competitive position at these functional levels relative to downstream customers in Townsville. The wholesale supply of gas to customers in Gladstone: the ACCC had regard to the likely competitive constraints offered by alternative suppliers of wholesale gas including gas production and transmission. The wholesale supply of electricity into the Queensland region of the NEM: the ACCC had regard to the extent of horizontal aggregation and vertical integration arising from the acquisition, and the likely competitive constraints offered by other suppliers of wholesale electricity in Queensland."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1657",
+  "title": "Acquirer: Kronos Inc; Target: SimplexGrinnell Workforce Solution Division Worldwide",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-kronos-inc-target-simplexgrinnell-workforce-solution-division-worldwide",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15698",
+  "industries": [],
+  "date_completed": "18 April 2002",
+  "date_completed_iso": "2002-04-18T12:00:00Z",
+  "date_commenced": "19 March 2002",
+  "date_commenced_iso": "2002-03-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Kronos Inc"
+  ],
+  "targets": [
+    "SimplexGrinnell Workforce Solution Division Worldwide"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Kronos Inc proposed acquisition of SimplexGrinnell Workforce Solution Division Worldwide in Australia.",
+    "Market definition": "Time and attendance software. General human resource management/payroll software",
+    "Competition analysis": "Kronos Incorporated propose to acquire Simplex Workforce Solution Division Worldwide. In Australia Kronos will acquire operations from Simplex under the name Simplex Australia Pty Ltd. The relevant market is the development and distribution of time and attendance software products Australia-wide. Market inquiries indicated medium to low barriers to entry and strong import competition. The US anti-trust authorities did not oppose this acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Yes"
+  }
+}

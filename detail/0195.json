@@ -1,0 +1,68 @@
+{
+  "id": "0195",
+  "title": "Arrow Pharmaceuticals Pty Ltd - proposed merger with Apotex Pharmaceuticals Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/arrow-pharmaceuticals-pty-ltd-proposed-merger-with-apotex-pharmaceuticals-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "64023",
+  "industries": [
+    "Pharmaceuticals"
+  ],
+  "date_completed": "20 September 2018",
+  "date_completed_iso": "2018-09-20T12:00:00Z",
+  "date_commenced": "3 July 2018",
+  "date_commenced_iso": "2018-07-03T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Arrow Pharmaceuticals Pty Ltd"
+  ],
+  "targets": [
+    "Apotex Pharmaceuticals Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2018",
+      "date_iso": "2018-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "20 Jul 2018",
+      "date_iso": "2018-07-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Aug 2018",
+      "date_iso": "2018-08-01T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "16 Aug 2018",
+      "date_iso": "2018-08-16T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "29 Aug 2018",
+      "date_iso": "2018-08-29T12:00:00Z",
+      "event": "ACCC requested further information from the parties."
+    },
+    {
+      "date": "3 Sep 2018",
+      "date_iso": "2018-09-03T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "4 Sep 2018",
+      "date_iso": "2018-09-04T12:00:00Z",
+      "event": "Former provisional decision date of 13 September 2018 delayed until 20 September to allow the ACCC time to consider additional information."
+    },
+    {
+      "date": "20 Sep 2018",
+      "date_iso": "2018-09-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the likely effects of the proposed merger on the following potential markets: - the supply of a range of generic prescription pharmaceuticals to pharmacies in Australia - the supply of a range of over the counter (OTC) pharmaceuticals to pharmacies in Australia, and - the supply of individual generic molecules to state and territory purchasing authorities in Australia.",
+    "Competition analysis": "The ACCC concluded that the proposed merger was unlikely to substantially lessen competition in any relevant market. Supply of a range of generic prescription pharmaceuticals The ACCC noted that many pharmacies prefer to appoint a single supplier to supply the majority of their generic prescription products (known as a 'first line' supply agreement), in order to minimise transaction costs and maximise discounts. However, pharmacies also regularly purchase outside their first line supply agreements due to the availability of better discounts or products being unavailable. The ACCC considered whether the proposed merger was likely to enable the merged entity to reduce the discounts and other incentives offered to pharmacies (including buying and banner groups). The ACCC considered that a combined Arrow-Apotex would continue to face competition from suppliers such as Mylan and Sandoz when responding to requests for tender for first line supply arrangements. A combined Arrow-Apotex would also face competitive constraint during the contract term from Mylan, Sandoz and short range suppliers as pharmacies can purchase off contract where there is a more attractive offer from a competitor. Additionally, pharmacies may use the threat of purchasing off contract to negotiate better terms from their first line supplier. The ACCC also considered the level of barriers to expansion for existing suppliers. The ACCC noted that: some short range suppliers have expanded their portfolios in recent years; most of Arrow's and Apotex's competitors are owned by large international pharmaceutical manufacturers; and adding a limited number of further generic molecules does not involve significant sunk costs. Supply of a range of OTC pharmaceuticals The ACCC considered that a combined Arrow-Apotex was likely to face competitive constraint from a number of alternative suppliers of generic OTC pharmaceuticals, as well as competition from suppliers of brand name OTC pharmaceuticals. The ACCC also considered whether a combined Arrow-Apotex would have an enhanced ability to bundle generic prescription and OTC pharmaceuticals. However, the ACCC found that many pharmacies do not currently acquire these products in one tender process and, for those pharmacies that do, they are able to disaggregate those tenders. The ACCC also considered that other suppliers were able to expand their OTC portfolios if a bundle of generic prescription and OTC products was valued by pharmacies. Supply of individual molecules to purchasing authorities The ACCC noted that state and territory purchasing authorities typically conduct tenders on a molecule by molecule basis. The ACCC considered that a combined Arrow-Apotex would continue to be constrained due to the number of competitors competing for these contracts. The ACCC considered that a combined Arrow-Apotex would also be constrained by the threat of new entry and/or expansion for those molecules. The ACCC also considered whether a combined Arrow-Apotex would have the ability and incentive to: - foreclose rivals' access to the Pharmacy Alliance buying group (which Arrow has interests in) - supply Pharmacy Alliance on more favourable terms, reducing rival pharmacies' ability to compete, and - foreclose rivals' access to molecules manufactured by Generic Partners and/or Oraderm (which Arrow has interests in). The ACCC considered that any attempt by Arrow-Apotex to foreclose its rivals from supplying Pharmacy Alliance is unlikely to impact those rivals' ability to access customers as the vast majority of pharmacy customers are not part of the Pharmacy Alliance banner group. Further, pharmacies within a banner group are able to switch suppliers and negotiate prices with suppliers. The ACCC also concluded that a combined Arrow-Apotex would not have the ability to foreclose competitors' access to molecules manufactured by Generic Partners or Oraderm as there are a number of alternative manufacturers of these molecules that competitors would be able to source supply from."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0535",
+  "title": "Southern Cross National Network Pty Ltd - proposed acquisition of Austereo Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/southern-cross-national-network-pty-ltd-proposed-acquisition-of-austereo-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44872",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "17 March 2011",
+  "date_completed_iso": "2011-03-17T12:00:00Z",
+  "date_commenced": "31 January 2011",
+  "date_commenced_iso": "2011-01-31T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Southern Cross National Network Pty Ltd"
+  ],
+  "targets": [
+    "Austereo Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jan 2011",
+      "date_iso": "2011-01-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Feb 2011",
+      "date_iso": "2011-02-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Mar 2011",
+      "date_iso": "2011-03-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Southern Cross National Network Pty Ltd - proposed acquisition of Austereo Group Limited. Southern Cross owns and operates commercial radio stations and commercial free-to-air television stations in regional Australia. Austereo operates commercial radio stations in metropolitan areas in Australia and supplies syndicated radio content to radio broadcasters in regional Australia. The merger parties are also buyers of radio content from content providers.",
+    "Market definition": "The most significant overlap between the operations of the merger parties is in the radio broadcast licence areas of Brisbane and Nambour (Sunshine Coast). The ACCC considered the likely impact on competition with regard to the following markets: - a market for the supply of advertising opportunities on radio in the Brisbane and Nambour (Sunshine Coast) radio licence areas; - a market for the supply of various types of radio content to consumers in the Brisbane and Nambour (Sunshine Coast) radio licence areas; - a market for the supply of local news radio content to consumers in the Brisbane and Nambour (Sunshine Coast) radio licence areas; - a national market for the acquisition of content for radio broadcasters; and - markets for the supply of content to radio broadcasters (incorporating a national market for the supply of various types of content and state-based markets for the supply of state-based news content). The ACCC found that if the proposed acquisition was unlikely to result in a substantial lessening of competition in radio-specific markets, then it was not likely to result in a substantial lessening of competition in a market incorporating other media platforms. Therefore the ACCC did not consider it necessary to form a conclusion with regard to the substitutability of other media platforms for radio.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the merger parties' radio and television licences do not currently overlap except for the radio licences held in Brisbane and the Sunshine Coast, which allows both parties to broadcast within that region; - in the Brisbane and Sunshine Coast radio licence areas, there is limited competition between Southern Cross and Austereo for both the supply of advertising opportunities and the supply of content to consumers and a number of existing competitors in these markets; - the presence of alternative acquirers of radio content for radio broadcasting; - the presence of alternative suppliers of radio content for radio broadcasting; and - the presence of existing competitors in the supply of both television and radio advertising opportunities were likely to constrain the merged entity from engaging in any anti-competitive bundling in the supply of advertising opportunities."
+  }
+}

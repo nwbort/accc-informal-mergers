@@ -1,0 +1,49 @@
+{
+  "id": "0766",
+  "title": "Toll Holdings Limited - completed acquisition of Golden Riverland Express",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-completed-acquisition-of-golden-riverland-express",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36871",
+  "industries": [
+    "Express Freight"
+  ],
+  "date_completed": "7 April 2009",
+  "date_completed_iso": "2009-04-07T12:00:00Z",
+  "date_commenced": "23 March 2009",
+  "date_commenced_iso": "2009-03-23T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Golden Riverland Express"
+  ],
+  "timeline": [
+    {
+      "date": "1 Mar 2008",
+      "date_iso": "2008-03-01T12:00:00Z",
+      "event": "Toll Holdings Limited acquired Golden Riverland Express."
+    },
+    {
+      "date": "23 Mar 2009",
+      "date_iso": "2009-03-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Apr 2009",
+      "date_iso": "2009-04-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Apr 2009",
+      "date_iso": "2009-04-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In March 2008, Toll Holdings Limited acquired Golden Riverland Express Partnership and S.E. Express Partnership (together known as Golden Riverland Express). Golden Riverland provided intrastate express freight services between Adelaide and South Australian regional areas.",
+    "Market definition": "For the purposes of assessing this acquisition, the ACCC considered the market for the supply of express freight services in South Australia.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to substantially lessen competition in the relevant market.  The ACCC considered that Toll will continue to face competitive constraints from a number of alternative suppliers of express freight services and the threat of new entry or expansion."
+  }
+}

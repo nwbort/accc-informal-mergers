@@ -1,0 +1,26 @@
+{
+  "id": "1440",
+  "title": "Cooper Companies Inc - proposed acquisition of Ocular Sciences Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cooper-companies-inc-proposed-acquisition-of-ocular-sciences-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20605",
+  "industries": [
+    "Contact Lenses"
+  ],
+  "date_completed": "7 December 2004",
+  "date_completed_iso": "2004-12-07T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Hydron Pty Ltd proposed merger with Ocular Sciences Australia, arising from the global merger between The Cooper Companies Inc and Ocular Sciences Inc.",
+    "Market definition": "Distribution of contact lenses in Australia.",
+    "Competition analysis": "In December 2004, the ACCC decided not to oppose the merger due to competition from three other international suppliers, namely Johnson & Johnson, CIBA Vision and Bausch & Lomb. The majority of all product supplied to the Australian market is imported.  The ACCC concluded that the merger would not substantially lessen competition.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

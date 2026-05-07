@@ -1,0 +1,50 @@
+{
+  "id": "0238",
+  "title": "Tabcorp Holdings and Tatts Group - proposed merger",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tabcorp-holdings-and-tatts-group-proposed-merger",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61092",
+  "industries": [
+    "Gaming and wagering"
+  ],
+  "date_completed": "13 March 2017",
+  "date_completed_iso": "2017-03-13T12:00:00Z",
+  "date_commenced": "25 November 2016",
+  "date_commenced_iso": "2016-11-25T12:00:00Z",
+  "total_review_days": 71,
+  "acquirers": [
+    "Tabcorp Holdings Limited"
+  ],
+  "targets": [
+    "Tatts Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 Nov 2016",
+      "date_iso": "2016-11-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "16 Dec 2016",
+      "date_iso": "2016-12-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Feb 2017",
+      "date_iso": "2017-02-14T12:00:00Z",
+      "event": "Former provisional date for announcement of ACCC's findings (23rd February 2017) delayed to allow the merger parties to provide additional information."
+    },
+    {
+      "date": "9 Mar 2017",
+      "date_iso": "2017-03-09T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "13 Mar 2017",
+      "date_iso": "2017-03-13T12:00:00Z",
+      "event": "Tabcorp announced that it has withdrawn its request for ACCC informal merger review and has lodged an application for merger authorisation with the Australian Competition Tribunal. Consequently, the ACCC has discontinued its review without making a final decision. The former proposed decision date of the review was 4 May 2017."
+    }
+  ],
+  "body_sections": {}
+}

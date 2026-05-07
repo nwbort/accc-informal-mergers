@@ -1,0 +1,54 @@
+{
+  "id": "0291",
+  "title": "Proposed joint venture between Patrick Container Ports Pty Ltd and Australian Container Freight Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-joint-venture-between-patrick-container-ports-pty-ltd-and-australian-container-freight-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57191",
+  "industries": [
+    "Logistics & Freight Services"
+  ],
+  "date_completed": "25 June 2015",
+  "date_completed_iso": "2015-06-25T12:00:00Z",
+  "date_commenced": "16 April 2015",
+  "date_commenced_iso": "2015-04-16T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Patrick Container Ports Pty Ltd"
+  ],
+  "targets": [
+    "Australian Container Freight Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "16 Apr 2015",
+      "date_iso": "2015-04-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "1 May 2015",
+      "date_iso": "2015-05-01T12:00:00Z",
+      "event": "ACCC requested information from the joint venture parties."
+    },
+    {
+      "date": "6 May 2015",
+      "date_iso": "2015-05-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with joint venture parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "14 May 2015",
+      "date_iso": "2015-05-14T12:00:00Z",
+      "event": "ACCC received the joint venture parties' response to the 1 May 2015 information request. Earlier proposed decision date of 18 June 2015 delayed."
+    },
+    {
+      "date": "25 Jun 2015",
+      "date_iso": "2015-06-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Patrick Container Ports Pty Ltd trading as Patrick Ports and Logistics (PPL) (part of Asciano Limited's Terminals & Logistics division) proposed to enter into a 50/50 joint venture with Australian Container Freight Services Pty Ltd (and related entities). The joint venture would combine the parties' activities in the provision of wharf cartage (the transport of containers to/from container ports), warehousing and distribution, and empty container parks.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed joint venture in the markets for: -\tthe supply of wharf cartage (container transport) services (including depot services); -\tthe supply of empty container park services; and -\tthe supply of warehousing and distribution services in Sydney, Melbourne, Brisbane and Fremantle. The ACCC also considered whether there may be a market for integrated landside logistics incorporating wharf cartage as well as warehousing and distribution services. The ACCC did not consider it necessary to form a definitive view on the boundaries of the relevant markets as the proposed joint venture was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC concluded the proposed joint venture was unlikely to lead to a substantial lessening of competition in any of the markets identified above. Patrick and ACFS both supply wharf cartage as well as warehousing and distribution services in Sydney, Melbourne, and Brisbane. Both parties also have interests in empty container parks in Sydney. ACFS was also expected to commence operations in Fremantle and compete with Patrick in that market in the future. The focus of the ACCC review was on: -\twhether the proposed joint venture would have the ability to increase price (and/or decrease service) for the provision of wharf cartage in the relevant metropolitan areas -\twhether the proposed joint venture would increase the ability and/or incentive of Asciano to foreclose the proposed joint venture's rivals' access to the Patrick terminals, which could have the effect or likely effect of substantially lessening competition in the provision of wharf cartage in the relevant ports. The ACCC concluded that competition concerns were unlikely to arise in the provision of wharf cartage services because: -\tthe level of aggregation resulting from the proposed joint venture was not significant -\tthere are numerous competitors in the provision of wharf cartage in each metropolitan area -\twhile there may be fewer alternative providers able to meet the requirements of large customers, there would continue to be a number of alternative providers with large scale operations capable of providing an effective constraint on the proposed joint venture The ACCC concluded there was unlikely to be a material increase in Asciano's ability and/or incentive to foreclose the joint venture's rivals from accessing the Patrick terminals. The ACCC considered that even if Asciano has the ability and incentive to foreclose the proposed joint venture's rivals' access to its terminals, this incentive was unlikely to be increased by the proposed joint venture. Asciano already operated a wholly owned wharf cartage business in the relevant markets and while the proposed joint venture would have larger operations than Asciano alone, Asciano would only have a 50 per cent interest in the proposed joint venture. Therefore, Asciano was unlikely to have any significantly greater incentive as a result of the proposed joint venture to favour its downstream operations than it does currently. The ACCC concluded competition concerns were unlikely to arise in the provision of empty container park services and warehousing and distribution services. The overlap in the joint venture parties' activities in these markets was not significant and there are a number of alternatives available."
+  }
+}

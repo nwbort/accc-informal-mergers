@@ -1,0 +1,69 @@
+{
+  "id": "0210",
+  "title": "Bayer AG - proposed acquisition of Monsanto Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bayer-ag-proposed-acquisition-of-monsanto-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61093",
+  "industries": [
+    "Agriculture products and chemicals"
+  ],
+  "date_completed": "22 March 2018",
+  "date_completed_iso": "2018-03-22T12:00:00Z",
+  "date_commenced": "16 February 2017",
+  "date_commenced_iso": "2017-02-16T12:00:00Z",
+  "total_review_days": 54,
+  "acquirers": [
+    "Bayer AG"
+  ],
+  "targets": [
+    "Monsanto Company"
+  ],
+  "timeline": [
+    {
+      "date": "16 Feb 2017",
+      "date_iso": "2017-02-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "16 Mar 2017",
+      "date_iso": "2017-03-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Mar 2017",
+      "date_iso": "2017-03-23T12:00:00Z",
+      "event": "ACCC requested additional information from Bayer. Former proposed decision date of 20 April 2017 delayed to allow Bayer to provide the information."
+    },
+    {
+      "date": "26 Apr 2017",
+      "date_iso": "2017-04-26T12:00:00Z",
+      "event": "ACCC received further information from Bayer. ACCC timeline recommenced."
+    },
+    {
+      "date": "26 Apr 2017",
+      "date_iso": "2017-04-26T12:00:00Z",
+      "event": "ACCC requested further information from Bayer. ACCC timeline suspended."
+    },
+    {
+      "date": "16 May 2017",
+      "date_iso": "2017-05-16T12:00:00Z",
+      "event": "ACCC received further information from Bayer. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Jun 2017",
+      "date_iso": "2017-06-21T12:00:00Z",
+      "event": "Proposed decision date of 13 July 2017 suspended to allow the parties to provide further information."
+    },
+    {
+      "date": "22 Mar 2018",
+      "date_iso": "2018-03-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bayer AG proposed to acquire Monsanto Company. This was a global transaction being considered by multiple competition regulators around the world.",
+    "Market definition": "For the purposes of this review it was not necessary to reach a concluded view on the precise definition of markets. The key products considered were: weed management systems, comprising non-selective herbicides and genetic traits conferring tolerance to that herbicide, for use in the production of canola vegetable seeds digital agriculture software solutions research and development in relation to traits and herbicides the supply of cotton seed treatments",
+    "Competition analysis": "The ACCC took into consideration Bayer's commitments to the European Commission relating to: Divestiture of Bayer's glufosinate ammonium (Liberty, Basta) business Divestiture of Bayer's canola business Divestiture of Bayer's LibertyLink trait technology Divestitures of a number of Bayer's and Monsanto's research activities and IP Divestiture of Bayer's vegetable seeds business The licencing of Bayer's IP in its digital agriculture products These commitments remove the overlap between Bayer and Monsanto in relation to the supply of weed management systems for canola and the supply of vegetable seeds, including in Australia. The divestiture of certain areas of research and the licencing of Bayer's digital agriculture products enhances future competition in these areas. The ACCC concluded that the proposed acquisition would not substantially lessen competition in any relevant market after taking into consideration these divestments. There were two cotton seed related issues considered by the ACCC that were specific to Australia: The ability of Bayer to bundle the supply of traits and seed treatments once it acquires Monsanto Bayer's decision to cancel its Australian cotton seed breeding program. With respect to the first issue, Bayer already supplies seed treatments and will acquire Monsanto's cotton traits business. The review considered the ability of the merged entity to bundle the supply of traits and seed treatments in Australia in order to exclude competing suppliers of seed treatments. We considered that there were sufficient constraints that would limit the ability of the merged entity to do this. The ACCC's review also considered the decision of Bayer to cancel a program to develop cotton seed for sale in Australia. Shortly before the merger was announced, Bayer announced that it was closing its Australian cotton seed breeding program. Concerns about the coincidence of these announcements were raised by a number of people. Consideration of this decision was an important part of the ACCC's investigation. Based on the investigation, including information provided by Bayer, the ACCC considered that the closure of the breeding program was not connected to the proposed acquisition."
+  }
+}

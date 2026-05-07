@@ -1,0 +1,27 @@
+{
+  "id": "1270",
+  "title": "Genworth Financial Mortgage Insurance Pty Ltd - proposed acquisition of Vero Lenders Mortgage Insurance Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/genworth-financial-mortgage-insurance-pty-ltd-proposed-acquisition-of-vero-lenders-mortgage-insurance-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24055",
+  "industries": [
+    "Mortgage insurance"
+  ],
+  "date_completed": "16 June 2006",
+  "date_completed_iso": "2006-06-16T12:00:00Z",
+  "date_commenced": "1 June 2006",
+  "date_commenced_iso": "2006-06-01T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Genworth Financial Mortgage Insurance Pty Ltd"
+  ],
+  "targets": [
+    "Vero Lenders Mortgage Insurance Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the national market for the supply of 'lender's mortgage insurance' to retailers of residential mortgage products (including banks, building societies, credit unions and non-bank mortgage originators).  Lender's mortgage insurance protects lenders against loss arising from the failure of borrowers to meet their financial obligations under residential mortgages. Where a borrower defaults on a loan, and the proceeds of the mortgagee sale are insufficient to repay the balance of the loan, the lender's mortgage insurance provider will pay the difference to the extent of the cover purchased by the lender under the policy.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would be unlikely to raise competition concerns given that Vero LMI has not competed for new insurance since July 2003."
+  }
+}

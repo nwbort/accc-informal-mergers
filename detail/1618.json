@@ -1,0 +1,31 @@
+{
+  "id": "1618",
+  "title": "Acquirer: Dentsply (Australia) Pty Ltd; Target: Astrazeneca Pty Ltd (Astra Zeneca)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-dentsply-australia-pty-ltd-target-astrazeneca-pty-ltd-astra-zeneca",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16249",
+  "industries": [],
+  "date_completed": "3 September 2002",
+  "date_completed_iso": "2002-09-03T12:00:00Z",
+  "date_commenced": "31 May 2002",
+  "date_commenced_iso": "2002-05-31T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Dentsply (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Astrazeneca Pty Ltd (Astra Zeneca)"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition by subsidiary of Dentsply International of certain local assets of Astra Zeneca Plc",
+    "Market definition": "dental local injectable anaesthetics",
+    "Competition analysis": "In September 2002 the Commission decided that the acquisition and subsequent changes to distribution arrangements for AstraZeneca products were unlikely to substantially lessen competition in the national market for the supply of dental local injectable anaesthetics due to import competition, the surrender of distribution rights for Septodont, and the potential for new entry.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "4796"
+  }
+}

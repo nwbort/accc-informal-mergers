@@ -1,0 +1,39 @@
+{
+  "id": "1112",
+  "title": "Xstrata Coal Pty Ltd - proposed acquisition of Gloucester Coal Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/xstrata-coal-pty-ltd-proposed-acquisition-of-gloucester-coal-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27964",
+  "industries": [
+    "Coal Mining"
+  ],
+  "date_completed": "26 April 2007",
+  "date_completed_iso": "2007-04-26T12:00:00Z",
+  "date_commenced": "18 April 2007",
+  "date_commenced_iso": "2007-04-18T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "Xstrata Coal Pty Ltd"
+  ],
+  "targets": [
+    "Gloucester Coal Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Apr 2007",
+      "date_iso": "2007-04-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "26 Apr 2007",
+      "date_iso": "2007-04-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Xstrata coal proposes to acquire Gloucester Coal Limited.",
+    "Market definition": "The proposed acquisition was considered in the context of the markets for thermal and metallurgical coal production.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - Gloucester's coal production represents a small proportion of overall Australian production. The acquisition would result in a marginal increase in Xstrata's market shares. - Both parties export a vast majority of their coal. - There are alternative suppliers, including Rio Tinto and BHP Billiton."
+  }
+}

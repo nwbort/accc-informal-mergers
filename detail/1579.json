@@ -1,0 +1,31 @@
+{
+  "id": "1579",
+  "title": "Acquirer: Linfox Transport Australia Pty Ltd; Target: Mayne Logistics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-linfox-transport-australia-pty-ltd-target-mayne-logistics-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16552",
+  "industries": [],
+  "date_completed": "11 February 2003",
+  "date_completed_iso": "2003-02-11T12:00:00Z",
+  "date_commenced": "27 August 2002",
+  "date_commenced_iso": "2002-08-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Linfox Transport Australia Pty Ltd"
+  ],
+  "targets": [
+    "Mayne Logistics Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Acquisition of Mayne Group Limited's contract and cash logistics businesses by Linfox Australia Pty Limited",
+    "Market definition": "In relation to the acquisition of Mayne's contract logistics business, the Commission considered there were two relevant markets, these being the national markets for the supply of: - third party freight transport within Australia excluding express freight transport and those freight transport services provided as part of a broader third party logistics service; and - third party logistics services. The term \"third party\" is used in this context to exclude the in-house provision of these services.",
+    "Competition analysis": "As Linfox did not have any interests in the provision of cash logistics services, the Commission considered only the acquisition of Mayne's contract logistics business. The Commission noted that while there was insufficient data to estimate with any certainty the degree of market concentration and the share of that market which Linfox would control post-acquisition, it was of the view that the acquisition would not substantially lessen competition in the national markets for third party freight transport within Australia and third party logistics services.  The reasons for this conclusion were: - at both a national and regional level customers would continue to have an extensive range of alternative external providers (both small and large-scale) to turn to should the merged entity raise prices; - barriers to entry and expansion, although higher for large scale entrants and those seeking to enter specialist areas, were not insurmountable and thus the threat of entry would continue to operate as an on-going source of competitive constraint; and - the ability of large customers to bypass external providers by internalising freight and logistics services would provide large customers with a significant degree of countervailing power which would in turn provide a constraint upon the pricing and service decisions of the merged entity. Accordingly, the Commission decided to not intervene in the acquisition.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "6110"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0172",
+  "title": "Viva Energy - proposed acquisition of Liberty Oil",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/viva-energy-proposed-acquisition-of-liberty-oil",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Wholesale and retail fuel"
+  ],
+  "date_completed": "10 October 2019",
+  "date_completed_iso": "2019-10-10T12:00:00Z",
+  "date_commenced": "18 April 2019",
+  "date_commenced_iso": "2019-04-18T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Viva Energy Australia Pty Ltd"
+  ],
+  "targets": [
+    "Liberty Oil Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Apr 2019",
+      "date_iso": "2019-04-18T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 May 2019",
+      "date_iso": "2019-05-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Jun 2019",
+      "date_iso": "2019-06-05T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (27 June) delayed."
+    },
+    {
+      "date": "14 Jun 2019",
+      "date_iso": "2019-06-14T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "8 Jul 2019",
+      "date_iso": "2019-07-08T12:00:00Z",
+      "event": "ACCC requested further information from the parties. Former provisional date for announcement of findings (18 July) is delayed."
+    },
+    {
+      "date": "4 Oct 2019",
+      "date_iso": "2019-10-04T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "10 Oct 2019",
+      "date_iso": "2019-10-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Viva Energy Australia Pty Ltd (Viva) proposes to acquire the remaining 50 per cent interest in Liberty Oil Holdings Pty Ltd (Liberty). As a part of the transaction, the assets of Liberty’s retail business will be transferred to a new company. Viva will hold a 50 per cent interest in the new retail company. Viva's operations in Australia include refining, importing, wholesale and retail supply of fuel products. Liberty is a wholesaler and retailer of fuel products.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in Australia for: wholesale supply of fuel products (petrol, diesel and LPG) nationally and at the State/Territory level; city-wide metropolitan markets in Adelaide and Melbourne for the retail supply of fuel products; and retail supply of fuel products in local areas where both Viva (including Coles Express) and Liberty sites are present.",
+    "Competition analysis": "Under the proposed acquisition, Viva’s interest in Liberty’s wholesale business would increase from 50 per cent to 100 per cent. Viva’s interest in Liberty’s retail business would remain at 50 per cent. The ACCC’s assessment of the proposed acquisition focused on the effect of the increase of Viva’s interest in Liberty’s wholesale business. Under a restructured arrangement between Viva and Coles Group, from 1 March 2019, Viva sets retail prices at Coles Express/Shell co-branded sites and Coles Express operates those sites as Viva’s commission agent. In assessing the proposed acquisition, the ACCC considered the overlap between Liberty branded sites and Coles Express sites and other Viva sites. Wholesale supply The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition for the wholesale supply of fuel products to independent service stations, independent distributors and commercial and rural customers. Liberty accounts for small percentages of wholesale fuel sales nationally and at the State/Territory level. The ACCC found that there are alternative wholesale fuel suppliers available to wholesale customers and alternative brands available to independent retailers. The ACCC considered that post-acquisition, those alternatives would likely constrain Viva and Liberty regarding wholesale prices and other supply terms. City-wide metropolitan markets The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in city-wide metropolitan markets of Adelaide and Melbourne, where Liberty branded retail sites (including company sites where Liberty sets retail prices and sites operated by Liberty dealers) operate. The ACCC noted that the retail prices at Liberty branded sites are generally lower. The ACCC considered whether post-acquisition Viva would likely cause Liberty branded retail sites in each of the two cities to price less aggressively. This strategy could potentially lead to city-wide price increases and therefore benefit Coles Express sites and other Viva sites. The ACCC considered that in Adelaide Viva’s ability to influence retail prices at Liberty branded sites is likely to be limited. Most Liberty branded sites in Adelaide are dealer sites. Post-acquisition Viva could potentially use its full control of wholesale prices for Liberty dealers to influence their retail prices. However, this may be constrained by Liberty dealers’ ability to switch wholesale suppliers. Viva’s ability to influence retail prices at Liberty company sites is also limited by its half ownership of those sites. In addition, the share of Liberty branded sites in Adelaide is relatively small. The ACCC considered that other retailers in Adelaide, such as United and X Convenience, are likely to constrain the size of any city-wide price increase. The ACCC also considered that given the limited share of Coles Express sites and other Viva sites in Adelaide, the potential benefits of any city-wide price increases to Viva are unlikely to be significant. This would limit Viva’s incentive to cause prices at Liberty branded sites to increase, which would risk the volumes sold through those sites. In Melbourne, Liberty branded sites account for a very small percentage of all retail sites, and therefore, the proposed acquisition is unlikely to have a significant impact on the city-wide Melbourne market. Local areas The ACCC considered a number of local areas where Liberty sites overlap with Coles Express and other Viva sites. The ACCC took into account the following factors in assessing the impact of the proposed acquisition on competition in local areas: the closeness of competition between the Viva and Liberty sites; the degree to which third party sites compete with the Viva and Liberty sites; the quality and geographic proximity of the sites within the local area; the pricing behaviours of retailers; traffic flows; and topography. The ACCC raised with the parties potential competition concerns regarding some local areas. The parties provided further information (such as information about competition from new sites) or implemented changes in respect of these local areas, which addressed the ACCC’s competition concerns."
+  }
+}

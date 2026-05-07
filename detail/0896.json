@@ -1,0 +1,43 @@
+{
+  "id": "0896",
+  "title": "Repco Group Holdings Pty Ltd - completed acquisition of Coventry Group Ltd's Northern Territory automotive businesses",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/repco-group-holdings-pty-ltd-completed-acquisition-of-coventry-group-ltds-northern-territory-automotive-businesses",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32431",
+  "industries": [
+    "Automotive parts"
+  ],
+  "date_completed": "10 July 2008",
+  "date_completed_iso": "2008-07-10T12:00:00Z",
+  "date_commenced": "17 June 2008",
+  "date_commenced_iso": "2008-06-17T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Repco Group Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Coventry Group Ltd's Northern Territory automotive businesses"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jun 2008",
+      "date_iso": "2008-06-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Jul 2008",
+      "date_iso": "2008-07-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Jul 2008",
+      "date_iso": "2008-07-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For the purposes of this competition assessment, the relevant markets considered were for the distribution of automotive parts and accessories via resellers in the Alice Springs, Darwin and Katherine regions.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in any of the relevant markets. In particular, the ACCC considered that competition concerns were unlikely to arise in the Alice Springs region due to the lack of competitive overlap between Repco and Coventry. As regards the Darwin and Katherine regions, where there was some overlap, the ACCC considered that the transaction was unlikely to substantially lessen competition due to the constraints imposed by existing competitors as well as relatively low barriers to entry."
+  }
+}

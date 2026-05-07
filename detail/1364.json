@@ -1,0 +1,26 @@
+{
+  "id": "1364",
+  "title": "Bill Express Limited - proposed acquisition of Ezipin Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bill-express-limited-proposed-acquisition-of-ezipin-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22073",
+  "industries": [
+    "Telephone re-charge services"
+  ],
+  "date_completed": "30 August 2005",
+  "date_completed_iso": "2005-08-30T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition by Bill Express Ltd of Ezipin Group Ltd",
+    "Market definition": "The Australian market for the distribution of prepaid telecommunication products",
+    "Competition analysis": "In August 2005 the ACCC decided not to oppose the proposed acquisition of Ezipin Group Ltd by Bill Express Ltd, pursuant to section 50 of the Trade Practices Act 1974. The ACCC concluded that the proposed acquisition would be unlikely to result in a substantial lessening of competition in relation to the Australian market for the distribution of prepaid telecommunication products, for the following reasons: * there are a variety of alternative suppliers of prepaid telecommunications products that end-consumers and retail distributors can turn to; * these alternative suppliers and distribution channels would likely constrain the equipment charges that the merged firm charges to its retail distributors; and * the merged firm would not be able to exercise market power in relation to end-consumers, as telecommunication carriers set the prices at which telecommunications products are sold.",
+    "Merger type": "Horizontal",
+    "Initiation": "Complaint"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0283",
+  "title": "Macquarie Bank Limited - proposed acquisition of Esanda Dealer Finance business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/macquarie-bank-limited-proposed-acquisition-of-esanda-dealer-finance-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57804",
+  "industries": [
+    "Finance facilities"
+  ],
+  "date_completed": "17 September 2015",
+  "date_completed_iso": "2015-09-17T12:00:00Z",
+  "date_commenced": "21 July 2015",
+  "date_commenced_iso": "2015-07-21T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Macquarie Bank Limited"
+  ],
+  "targets": [
+    "Esanda Dealer Finance business"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jul 2015",
+      "date_iso": "2015-07-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "10 Aug 2015",
+      "date_iso": "2015-08-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on any relevant issues or concerns arising."
+    },
+    {
+      "date": "17 Sep 2015",
+      "date_iso": "2015-09-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Macquarie Bank is proposing to acquire the Esanda Dealer Finance business which is currently owned and operated by ANZ.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the provision of bailment ('floor plan') finance and point-of-sale (POS) finance facilities to motor vehicle dealerships. Bailment finance is acquired by automotive dealerships to finance the new and used vehicles held in their dealerships before they are sold to customers. Dealerships also acquire POS finance facilities to enable them to offer finance to customers purchasing vehicles. The dealer acts as an agent in arranging the finance contract between the finance provider and the customer. Dealerships earn commissions on the POS finance sales they arrange. Dealerships tend to have a preferred POS finance provider to which they direct the majority of sales, in order to maximise their commissions.  This provider is usually also the dealership's bailment provider. The ACCC understands that POS finance is generally much more profitable than bailment finance, so financiers tend to supply the two products as a bundle.",
+    "Competition analysis": "The ACCC concluded that Macquarie's proposed acquisition was unlikely to substantially lessen competition in the market for the provision of bailment finance and POS finance facilities to motor vehicle dealerships. Bailment finance and POS finance facilities are provided by both manufacturer aligned financiers, including Toyota Financial Services, Nissan Financial Services, BMW/Alphera, Mercedes-Benz Financial, Volkswagen Finance, and unaligned financiers, including Westpac/St. George, Esanda and Macquarie. Manufacturer aligned financiers compete against the unaligned financiers to provide bailment finance and POS finance facilities to associated motor vehicle dealerships (i.e. dealerships which sell vehicle brands associated with the manufacturer aligned financiers). The ACCC considered that the motor vehicle dealerships most likely to be affected by the merger would be those that do not have any affiliation with a manufacturer aligned financier (i.e. they do not sell any vehicles from a manufacturer that has its own finance arm, such as Toyota or Nissan).  Given that the majority of dealerships in Australia sell multiple brands of vehicles, the ACCC understands that the proportion of dealerships without access to a manufacturer aligned financier is relatively small. The ACCC noted that the proposed acquisition would result in a reduction in unaligned financiers from three to two, leaving just Macquarie and Westpac/St George as the main providers of finance to unaffiliated dealerships.  However, the ACCC understands that the Alphera arm of BMW Finance also competes to provide finance to dealerships which do not sell BMW vehicles. The ACCC concluded that on balance the combination of existing and potential competitive constraints would be sufficient to prevent a substantial lessening of competition as a result of the proposed acquisition. The merged entity will face continuing competition from Westpac/St George for all customers and from a number of other providers for most customers. In addition, should the merged entity seek to increase bailment rates and/or decrease POS commissions, this would provide an incentive for other providers (including manufacturer aligned financiers such as Toyota Finance and Nissan Finance) to begin to compete for the business of unaffiliated dealerships. Further, the ACCC noted that vehicle manufacturers (OEMs) without their own finance arms (such as GM Holden, Ford and Mazda) have a strong incentive to ensure that their dealers remain competitive with other OEMs' dealers, and may intervene if they perceived that increased finance costs were affecting sales of their vehicles.  OEMs already seek to ensure competitive finance options are available to their dealers by running tenders and appointing financiers to be the 'white label' finance provider to their dealerships.  OEMs may be able to use these tender processes to introduce another financier into  the market, if they considered that there was insufficient competition."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1132",
+  "title": "Lion Nathan Australia Pty Ltd - proposed acquisition of Inner Circle Rum Pty Limited and Inner Circle Rum (Sales) Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lion-nathan-australia-pty-ltd-proposed-acquisition-of-inner-circle-rum-pty-limited-and-inner-circle-rum-sales-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27592",
+  "industries": [
+    "Alcoholic beverages"
+  ],
+  "date_completed": "8 March 2007",
+  "date_completed_iso": "2007-03-08T12:00:00Z",
+  "date_commenced": "7 March 2007",
+  "date_commenced_iso": "2007-03-07T12:00:00Z",
+  "total_review_days": 2,
+  "acquirers": [
+    "Lion Nathan Australia Pty Ltd"
+  ],
+  "targets": [
+    "Inner Circle Rum Pty Limited<br/> Inner Circle Rum (Sales) Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "7 Mar 2007",
+      "date_iso": "2007-03-07T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines"
+    },
+    {
+      "date": "8 Mar 2007",
+      "date_iso": "2007-03-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lion Nathan Australia Pty Limited has entered into an agreement to acquire 100% of the issued share capital of Inner Circle Rum Pty Ltd and Inner Circle Rum (Sales) Pty Limited.",
+    "Market definition": "For the purposes of this competition assessment the relevant markets were considered to be at least state-based markets for the production and wholesale supply of: (i) rum; and (ii) ready-to-drink rum products.",
+    "Competition analysis": "The ACCC formed the view that the acquisition is unlikely to substantially lessen competition in the relevant markets, as it would only lead to a small increase in Lion Nathan Australia Pty Limited's market share in both markets, and there are a number of large competitors which are likely to be able to constrain the merged firm."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0680",
+  "title": "Origin Energy Resources Limited - proposed acquisition of Woodside Energy Limited's interest in Otway Gas Project",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/origin-energy-resources-limited-proposed-acquisition-of-woodside-energy-limiteds-interest-in-otway-gas-project",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39584",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "15 December 2009",
+  "date_completed_iso": "2009-12-15T12:00:00Z",
+  "date_commenced": "12 November 2009",
+  "date_commenced_iso": "2009-11-12T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Origin Energy Resources Limited"
+  ],
+  "targets": [
+    "Woodside Energy Limited interest in Otway Gas Project"
+  ],
+  "timeline": [
+    {
+      "date": "12 Nov 2009",
+      "date_iso": "2009-11-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "27 Nov 2009",
+      "date_iso": "2009-11-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Dec 2009",
+      "date_iso": "2009-12-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Origin proposed to acquire Woodside's interest in the Otway Gas Project. Post-acquisition, Origin would hold the following interests in the Otway Gas Project: - a 67.23% interest in the Development Joint Venture; - a 67.23% interest in Exploration Joint Venture (T/30P and VIC/P43); and -  a 82.3% interest in Exploration Joint Venture (T/34P).",
+    "Market definition": "In respect of natural gas, the ACCC considered the relevant markets to be the southern states (VIC, NSW, SA) markets for the: - exploration and development of natural gas; - production of natural gas; and - wholesale supply of natural gas. In respect of LPG, the ACCC considered the relevant markets to be the Victorian and South Australian markets for the: - production and sale of LPG; - wholesale supply and distribution of automotive LPG; and - local markets for the retail supply of automotive LPG. In respect of condensates, the ACCC considered the relevant markets to be the Victorian markets for the: - production of condensate; and - wholesale supply of condensate.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the small level of concentration which resulted in each market; - the existence of several competitors who continued to provide alternative supply options for customers; - in addition to existing sources of supply, several gas field developments were underway in areas offshore of Victoria; and - Woodside's long term gas supply contract with TRUenergy would be binding upon Origin."
+  }
+}

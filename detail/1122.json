@@ -1,0 +1,60 @@
+{
+  "id": "1122",
+  "title": "OneSteel Limited - proposed acquisition of certain assets of Smorgon Steel Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-limited-proposed-acquisition-of-certain-assets-of-smorgon-steel-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27208",
+  "industries": [
+    "Steel"
+  ],
+  "date_completed": "10 April 2007",
+  "date_completed_iso": "2007-04-10T12:00:00Z",
+  "date_commenced": "5 February 2007",
+  "date_commenced_iso": "2007-02-05T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "OneSteel Limited"
+  ],
+  "targets": [
+    "Smorgon Steel Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Feb 2007",
+      "date_iso": "2007-02-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Feb 2007",
+      "date_iso": "2007-02-07T12:00:00Z",
+      "event": "ACCC requested further information from OneSteel."
+    },
+    {
+      "date": "14 Feb 2007",
+      "date_iso": "2007-02-14T12:00:00Z",
+      "event": "ACCC received requested information from OneSteel."
+    },
+    {
+      "date": "16 Feb 2007",
+      "date_iso": "2007-02-16T12:00:00Z",
+      "event": "Market inquiries commence."
+    },
+    {
+      "date": "1 Mar 2007",
+      "date_iso": "2007-03-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Mar 2007",
+      "date_iso": "2007-03-20T12:00:00Z",
+      "event": "At the request of OneSteel, the announcement of the ACCC's decision has been delayed."
+    },
+    {
+      "date": "10 Apr 2007",
+      "date_iso": "2007-04-10T12:00:00Z",
+      "event": "Request for informal clearance withdrawn. OneSteel has requested informal clearance for an acquisition of Smorgon Steel Group Limited except for the Smorgon distribution business. The ACCC will conduct a separate assessment of this proposal. Details of this assessment can be found under 'Public informal merger clearances under consideration'."
+    }
+  ],
+  "body_sections": {}
+}

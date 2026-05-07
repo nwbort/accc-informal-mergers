@@ -1,0 +1,31 @@
+{
+  "id": "1510",
+  "title": "Acquirer: Alcan South Pacific Pty Limited; Target: Pechiney SA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-alcan-south-pacific-pty-limited-target-pechiney-sa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18616",
+  "industries": [],
+  "date_completed": "4 December 2003",
+  "date_completed_iso": "2003-12-04T12:00:00Z",
+  "date_commenced": "14 November 2003",
+  "date_commenced_iso": "2003-11-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Alcan South Pacific Pty Limited"
+  ],
+  "targets": [
+    "Pechiney SA"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition globally by Alcan of Pechiney.",
+    "Market definition": "The national markets for Bauxite, Alumina and Aluminium. The national market for engineered products. The national market for flat-rolled products. The national market for packaging.",
+    "Competition analysis": "Due to global factors, there would not appear to be any substantial lessening of competition in the relevant markets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "1312"
+  }
+}

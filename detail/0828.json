@@ -1,0 +1,44 @@
+{
+  "id": "0828",
+  "title": "Woolworths Limited - proposed acquisition of Northshore Liquor licence, Cammeray NSW",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-northshore-liquor-licence-cammeray-nsw",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35338",
+  "industries": [
+    "Liquor Licence"
+  ],
+  "date_completed": "1 December 2008",
+  "date_completed_iso": "2008-12-01T12:00:00Z",
+  "date_commenced": "21 November 2008",
+  "date_commenced_iso": "2008-11-21T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Liquor Licence at Cammeray NSW"
+  ],
+  "timeline": [
+    {
+      "date": "21 Nov 2008",
+      "date_iso": "2008-11-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Nov 2008",
+      "date_iso": "2008-11-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Dec 2008",
+      "date_iso": "2008-12-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire the takeaway packaged liquor licence, goodwill, intellectual property and plant and equipment associated with the Northshore Liquor retail liquor outlet, located in Cammeray NSW.",
+    "Market definition": "The proposed acquisition was considered in the context of two markets: 1.  The local market for the retail sale of liquor for off-premises consumption, with a geographic dimension of 3-5km surrounding the target liquor outlet. (Market 1) 2.  A NSW market for the wholesale supply of packaged liquor for subsequent sale in the retail market for off-premises consumption. (Market 2)",
+    "Competition analysis": "On 1 December 2008 the ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion were: Market 1 After conducting market inquiries, the ACCC considered that Woolworths would likely continue to be constrained by a significant number of other retail liquor outlets in the relevant market. Market 2 After conducting market inquiries, the ACCC considered that the proposed acquisition would not significantly increase Woolworths' buying power or substantially weaken any competing wholesale purchaser by diminishing its buying power in the relevant market."
+  }
+}

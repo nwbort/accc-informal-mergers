@@ -1,0 +1,49 @@
+{
+  "id": "0745",
+  "title": "Shell Company of Australia Limited - completed acquisition of storage capacity from Vopak Terminals Australia Pty Ltd at its Port Botany fuel terminal",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/shell-company-of-australia-limited-completed-acquisition-of-storage-capacity-from-vopak-terminals-australia-pty-ltd-at-its-port-botany-fuel-terminal",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36888",
+  "industries": [
+    "Petrol"
+  ],
+  "date_completed": "23 June 2009",
+  "date_completed_iso": "2009-06-23T12:00:00Z",
+  "date_commenced": "1 April 2009",
+  "date_commenced_iso": "2009-04-01T12:00:00Z",
+  "total_review_days": 55,
+  "acquirers": [
+    "Shell Company of Australia Limited"
+  ],
+  "targets": [
+    "Vopak Terminals Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Nov 2008",
+      "date_iso": "2008-11-19T12:00:00Z",
+      "event": "Shell acquired an additional 80,000 cubic metres of storage capacity at the Port Botany fuel terminal owned and operated by Vopak."
+    },
+    {
+      "date": "1 Apr 2009",
+      "date_iso": "2009-04-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Apr 2009",
+      "date_iso": "2009-04-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Jun 2009",
+      "date_iso": "2009-06-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 19  November 2008, Shell acquired an additional 80,000 cubic meters of storage capacity at the Port Botany fuel terminal owned and operated by Vopak.",
+    "Market definition": "The ACCC considered the completed acquisition (of storage capacity) in the context of the market for the wholesale supply of refined petroleum products in NSW.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. In reaching its conclusion the ACCC had regard to whether potential independent importers would be likely to be foreclosed as a result of the completed acquisition. The ACCC noted that potential independent importers face difficulties which are non-specific to the completed acquisition, including: - the high costs of storage capacity and diseconomies of scale faced by smaller independent wholesalers and retailers in importing small volumes, relative to the existing alternative of obtaining supply locally; and - the limited customer base available, given the large share of the retail market held by refiner-marketers and supermarket alliances. The ACCC also had regard to further storage capacity which will become available at the Vopak facility shortly, as well as the availability of undeveloped land at competing terminals in Port Botany. The ACCC will continue to monitor future acquisitions of storage capacity at Vopak's Port Botany terminal."
+  }
+}

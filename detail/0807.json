@@ -1,0 +1,49 @@
+{
+  "id": "0807",
+  "title": "Ingenico International (Pacific) Pty Ltd - acquisition of Sagem Monetel SAS",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ingenico-international-pacific-pty-ltd-acquisition-of-sagem-monetel-sas",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35660",
+  "industries": [
+    "Transaction terminal manufacturing"
+  ],
+  "date_completed": "3 February 2009",
+  "date_completed_iso": "2009-02-03T12:00:00Z",
+  "date_commenced": "4 December 2008",
+  "date_commenced_iso": "2008-12-04T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Ingenico International (Pacific) Pty Ltd"
+  ],
+  "targets": [
+    "Sagem Monetel SAS"
+  ],
+  "timeline": [
+    {
+      "date": "14 Mar 2008",
+      "date_iso": "2008-03-14T12:00:00Z",
+      "event": "Ingenico International (Pacific) Pty Ltd acquired Sagem Monetel SAS."
+    },
+    {
+      "date": "4 Dec 2008",
+      "date_iso": "2008-12-04T12:00:00Z",
+      "event": "ACCC became aware of the acquisition and commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Jan 2009",
+      "date_iso": "2009-01-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Feb 2009",
+      "date_iso": "2009-02-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ingenico International (Pacific) Pty Ltd aquired Sagem Monetel SAS in March 2008. Ingenico International (Pacific) Pty Ltd notified the ACCC on 4 December 2008.",
+    "Market definition": "The ACCC considered the acquisition in the context of the national market for the manufacture and supply of transaction terminals in Australia.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. The ACCC considered that whilst there are some barriers to entry which international entrants may face, Ingenico is likely to be constrained by the existing competing suppliers which are vigorous global competitors."
+  }
+}

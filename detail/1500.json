@@ -1,0 +1,31 @@
+{
+  "id": "1500",
+  "title": "Acquirer: Ultradata Australia Pty Ltd; Target: Corvis Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ultradata-australia-pty-ltd-target-corvis-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18900",
+  "industries": [],
+  "date_completed": "27 January 2004",
+  "date_completed_iso": "2004-01-27T12:00:00Z",
+  "date_commenced": "16 January 2004",
+  "date_commenced_iso": "2004-01-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ultradata Australia Pty Ltd"
+  ],
+  "targets": [
+    "Corvis Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Ultradata is intending to acquire Corvis.  Corvis is owned by Credit Union Services Corporation (Australia) Limited (\"CUSCAL\").",
+    "Market definition": "The Commission considered that the relevant market is an Australian market for the supply of core banking software to credit unions.  The Commission did not consider market definition to be a decisive issue in relation to this matter and so did not consider market definition issues in detail.",
+    "Competition analysis": "The Commission considers it unlikely that the proposed acquisition would substantially lessen competition in any market.  The Commission has taken into consideration the presence of alternative suppliers of core banking software and the fact that Corvis mostly supplies only the smaller credit unions.  In addition the Commission notes that CUSCAL, because it is controlled by the credit unions, is unlikely to sell Corvis in circumstances that would lessen competition against the interests of the credit unions.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "4613"
+  }
+}

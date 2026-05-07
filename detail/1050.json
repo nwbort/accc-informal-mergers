@@ -1,0 +1,54 @@
+{
+  "id": "1050",
+  "title": "Schering Plough Corporation - proposed acquisition of Organon BioSciences NV (Akzo Nobel NV)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/schering-plough-corporation-proposed-acquisition-of-organon-biosciences-nv-akzo-nobel-nv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28832",
+  "industries": [
+    "Human and Animal Healthcare"
+  ],
+  "date_completed": "22 August 2007",
+  "date_completed_iso": "2007-08-22T12:00:00Z",
+  "date_commenced": "6 July 2007",
+  "date_commenced_iso": "2007-07-06T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Schering Plough Corporation"
+  ],
+  "targets": [
+    "Organon BioSciences NV (Akzo Nobel NV)"
+  ],
+  "timeline": [
+    {
+      "date": "6 Jul 2007",
+      "date_iso": "2007-07-06T12:00:00Z",
+      "event": "ACCC commences review under Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "13 Jul 2007",
+      "date_iso": "2007-07-13T12:00:00Z",
+      "event": "ACCC requested further information from Schering Plough Corporation. ACCC timeline suspended."
+    },
+    {
+      "date": "25 Jul 2007",
+      "date_iso": "2007-07-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jul 2007",
+      "date_iso": "2007-07-31T12:00:00Z",
+      "event": "ACCC received further information from Schering Plough Corporation. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Aug 2007",
+      "date_iso": "2007-08-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Schering-Plough Corporation proposed to acquire Organon BioSciences NV from Akzo Nobel NV.",
+    "Market definition": "The proposed acquisition was considered in the context of the national markets for research, development, manufacture and wholesale supply of: -cattle stable and nuisance fly control products; -cattle tick control products; and -campylobacter sheep vaccines. The ACCC also considered the effect on competition in relation to the supply of other relevant human and animal health products.",
+    "Competition analysis": "On 22 August 2007 the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In relation to the market for cattle tick control, the merged entity would face competition from alternative suppliers including Novartis, Ancare, Bayer, Fort Dodge and Jurox. In relation to the market for cattle stable and nuisance fly control, the merged entity would face competition from Fort Dodge and going forward, the new entrant Agvantage. In addition, a significant increase in the price of cattle stable and nuisance fly control products would be likely to lead to the introduction of new products by new and existing suppliers, potentially with the support of major resellers. In relation to the market for campylobacter vaccines for sheep, the nature of the Australian climate gives rise to very limited demand and there appears to be limited competition in this market. In addition, the ability of end-users to choose not to vaccinate is likely to impose a constraint on the merged entity."
+  }
+}

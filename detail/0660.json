@@ -1,0 +1,44 @@
+{
+  "id": "0660",
+  "title": "Bucyrus International Inc - proposed acquisition of the mining equipment business of Terex Corporation (Terex Mining)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bucyrus-international-inc-proposed-acquisition-of-the-mining-equipment-business-of-terex-corporation-terex-mining",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40342",
+  "industries": [
+    "Mining Equipment"
+  ],
+  "date_completed": "12 February 2010",
+  "date_completed_iso": "2010-02-12T12:00:00Z",
+  "date_commenced": "19 January 2010",
+  "date_commenced_iso": "2010-01-19T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Bucyrus International Inc"
+  ],
+  "targets": [
+    "the mining equipment business of Terex Corporation (Terex Mining)"
+  ],
+  "timeline": [
+    {
+      "date": "19 Jan 2010",
+      "date_iso": "2010-01-19T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Feb 2010",
+      "date_iso": "2010-02-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Feb 2010",
+      "date_iso": "2010-02-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bucyrus International, Inc. entered into an agreement to purchase the mining equipment business of Terex Corporation (Terex Mining).",
+    "Market definition": "The proposed acquisition was considered in the context of the following markets: - the global market for the manufacture and supply of electric shovels; - the global market for the manufacture and supply of hydraulic excavators; - the global market for the manufacture and supply of draglines; - the global market for the manufacture and supply of small rotary blasthole drills; and - the global market for the manufacture and supply of large rotary blasthole drills.",
+    "Competition analysis": "In light of the limited competitive overlap between the parties and little likelihood that the proposed acquisition would lead to conglomerate effects, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets."
+  }
+}

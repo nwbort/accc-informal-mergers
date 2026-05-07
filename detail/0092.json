@@ -1,0 +1,54 @@
+{
+  "id": "0092",
+  "title": "Korean Air Lines Co., Ltd - Asiana Airlines, Inc.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/korean-air-lines-co-ltd-asiana-airlines-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Airlines"
+  ],
+  "date_completed": "1 September 2022",
+  "date_completed_iso": "2022-09-01T12:00:00Z",
+  "date_commenced": "12 January 2022",
+  "date_commenced_iso": "2022-01-12T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Korean Air Lines Co., Ltd"
+  ],
+  "targets": [
+    "Asiana Airlines, Inc."
+  ],
+  "timeline": [
+    {
+      "date": "13 Jan 2022",
+      "date_iso": "2022-01-13T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jan 2022",
+      "date_iso": "2022-01-28T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "4 Mar 2022",
+      "date_iso": "2022-03-04T12:00:00Z",
+      "event": "Timeline suspended pending receipt of further information.  Former provisional decision date for announcement of ACCC's findings (24 March) is delayed."
+    },
+    {
+      "date": "1 Aug 2022",
+      "date_iso": "2022-08-01T12:00:00Z",
+      "event": "ACCC received further information from parties."
+    },
+    {
+      "date": "1 Sep 2022",
+      "date_iso": "2022-09-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Korean Air proposes to acquire all or substantially all, or a material part or parts of, the business or assets of Asiana and its subsidiaries. Korean Air and Asiana are both full-service airlines based in South Korea, offering air passenger and air cargo services, with domestic and international operations.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the markets for the supply of: direct air passenger services, between Sydney and Seoul ( Sydney – Seoul Route ); and air cargo services, between Sydney and Seoul.",
+    "Competition analysis": "Direct air passenger services – Sydney – Seoul Route At the time of the ACCC’s decision, the only two providers of direct air passenger services on the Sydney – Seoul Route were the merger parties, Korean Air and Asiana. Some market participants raised concerns that if Korean Air were the only provider of air passenger services on this route, it could increase prices and/or reduce service levels. However, the ACCC noted that Qantas and Jetstar would be commencing the supply of air passenger services on the Sydney – Seoul Route from late 2022. At the time of the ACCC’s decision, Qantas and Jetstar had begun selling tickets on this route with flights beginning in November and December 2022, providing consumers with both a full service and low-cost flight option. Taking into account this imminent new entry by Qantas and Jetstar, the ACCC found that a substantial lessening of competition is not likely to result from the proposed acquisition. The ACCC also took into account Asiana’s circumstances and considered whether Asiana is a ‘failing firm’ in accordance with the criteria outlined in the Merger Guidelines : the relevant firm is in imminent danger of failure and is unlikely to be successfully restructured without the merger, in the absence of the merger, the assets associated with the relevant firm, including its brands, will leave the industry, and the likely state of competition with the merger would not be substantially less than the likely state of competition after the target has exited and the target’s customers have moved their business to alternative sources of supply. The ACCC’s investigation concluded that Asiana did not meet the above criteria. Air cargo services – Sydney – Seoul The ACCC noted that Korean Air and Asiana were both significant providers of direct air cargo services between Sydney and Seoul, through belly freight on air passenger services. As well as the direct air passenger services described above, the ACCC noted that the Qantas Group would be supplying air cargo services on both its Qantas and Jetstar flights from late 2022, through belly freight on its air passenger services. As a result, the ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in the market for air cargo services between Sydney and Seoul."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1005",
+  "title": "Transpacific Industries Group Ltd - acquisition of Riteway Engineering & Manufacturing Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-riteway-engineering-manufacturing-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30029",
+  "industries": [
+    "Manufacture of waste compaction bodies and bins"
+  ],
+  "date_completed": "8 November 2007",
+  "date_completed_iso": "2007-11-08T12:00:00Z",
+  "date_commenced": "23 October 2007",
+  "date_commenced_iso": "2007-10-23T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Riteway Engineering & Manufacturing Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Oct 2007",
+      "date_iso": "2007-10-05T12:00:00Z",
+      "event": "Transpacific acquired the business and assets of Riteway Engineering and Manufacturing Pty Ltd."
+    },
+    {
+      "date": "23 Oct 2007",
+      "date_iso": "2007-10-23T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "29 Oct 2007",
+      "date_iso": "2007-10-29T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. ACCC timeline suspended."
+    },
+    {
+      "date": "6 Nov 2007",
+      "date_iso": "2007-11-06T12:00:00Z",
+      "event": "ACCC received further information from TPI. ACCC timeline recommenced."
+    },
+    {
+      "date": "7 Nov 2007",
+      "date_iso": "2007-11-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Nov 2007",
+      "date_iso": "2007-11-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific acquired the business and assets of Riteway Engineering and Manufacturing Pty Ltd.",
+    "Market definition": "Manufacture and supply of bins in South Australia, and the manufacture and supply of waste compaction bodies for waste vehicle on a national basis.",
+    "Competition analysis": "On 8 November 2007, the ACCC announced its decision not to oppose the acquisition by Transpacific of Riteway. The ACCC considered the information provided by Transpacific and other information available to it. Based on that information, the ACCC considered that the acquisition of Riteway was unlikely to remove a significant source of competitive constraint in the relevant markets. A key factor in reaching this view was the fact that (in relation to the relevant markets) there are a number of alternative competitive providers which will remain available to customers."
+  }
+}

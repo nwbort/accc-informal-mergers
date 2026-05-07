@@ -1,0 +1,50 @@
+{
+  "id": "0933",
+  "title": "JBS Southern Australia Pty Ltd, a company related to Swift Australia Pty Ltd - proposed acquisition of Tasman Group Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jbs-southern-australia-pty-ltd-a-company-related-to-swift-australia-pty-ltd-proposed-acquisition-of-tasman-group-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30531",
+  "industries": [
+    "Meat processing"
+  ],
+  "date_completed": "23 April 2008",
+  "date_completed_iso": "2008-04-23T12:00:00Z",
+  "date_commenced": "14 March 2008",
+  "date_commenced_iso": "2008-03-14T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "JBS Southern Australia Pty Ltd",
+    "Swift Australia Pty Ltd"
+  ],
+  "targets": [
+    "Tasman Group Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Mar 2008",
+      "date_iso": "2008-03-05T12:00:00Z",
+      "event": "Merger parties announce the proposed acquisition."
+    },
+    {
+      "date": "14 Mar 2008",
+      "date_iso": "2008-03-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "31 Mar 2008",
+      "date_iso": "2008-03-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Apr 2008",
+      "date_iso": "2008-04-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JBS Southern Australia Pty Ltd, a company related to Swift Australia Pty Ltd, proposal to acquire Tasman Group Services Pty Ltd.",
+    "Market definition": "The ACCC considered relevant markets for: - the acquisition of fat cattle in Victoria, South Australia and New South Wales (south of Dubbo), possibly including Tasmania (the Fat Cattle Market); and - the sale of processed beef in Australia (the Processed Beef Market).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the geographical overlap between the merger parties was such that the number of fat cattle acquired by the merged entity in the relevant markets would likely increase by only a marginal amount; - the availability of substitutes from other similar sized meat processors; and - the ability for the major grocery chains to exercise countervailing power by way of their service kill arrangements."
+  }
+}

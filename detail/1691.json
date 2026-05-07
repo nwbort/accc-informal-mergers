@@ -1,0 +1,31 @@
+{
+  "id": "1691",
+  "title": "Acquirer: Coates Hire Ltd; Target: Wreckair Hire",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coates-hire-ltd-target-wreckair-hire",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14485",
+  "industries": [],
+  "date_completed": "6 February 2002",
+  "date_completed_iso": "2002-02-06T12:00:00Z",
+  "date_commenced": "21 December 2001",
+  "date_commenced_iso": "2001-12-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coates Hire Ltd"
+  ],
+  "targets": [
+    "Wreckair Hire"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Coates Limited proposes to acquire Wreckair business from Brambles Australia Limited.",
+    "Market definition": "State-based markets for general equipment hire.",
+    "Competition analysis": "The Commission considered that the proposed acquisition will not substantially lessen competition in the relevant market due to: - Barriers to entering the market at a small scale (particularly for the DIY segment) appear to be low and there appears to be a number of potential sources of entry to local markets, particularly equipment hire firms currently operating on the east coast of Australia that might enter the Western Australian and Northern Territory markets. - Barriers to entering the market on a scale similar to the merged firm, having a full range of hire equipment and a network of branches throughout Australia, would be more significant but they are largely in the form of capital investment and they do not appear to be sunk. - Competitors are the major participants in the major infrastructure and roadworks segment. - Concentrations in the commercial, industrial and construction segment are high.  However, barriers to expansion into the commercial, industrial and construction segment and on a geographic basis do not appear to be high.   Such supply side substitution appears likely to constrain prices in the commercial, industrial and construction segment. - On a national basis, there will be no other significant full line supplier of hire equipment.  However, demand generally arises at more localised levels and the merged firm appears likely to face a credible competitive constraint from the large number of smaller local equipment hire firms. - There are a significant number of available substitutes in each of the State markets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Complaint",
+    "ANZSIC code": "7869"
+  }
+}

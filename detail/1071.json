@@ -1,0 +1,47 @@
+{
+  "id": "1071",
+  "title": "Tattersall's Limited - proposed acquisition of Golden Casket Lottery Corporation Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tattersalls-limited-proposed-acquisition-of-golden-casket-lottery-corporation-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28194",
+  "industries": [
+    "Lotteries and gaming machine monitoring services"
+  ],
+  "date_completed": "20 July 2007",
+  "date_completed_iso": "2007-07-20T12:00:00Z",
+  "date_commenced": "14 May 2007",
+  "date_commenced_iso": "2007-05-14T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Tattersall's Limited"
+  ],
+  "targets": [
+    "Golden Casket Lottery Corporation Limited"
+  ],
+  "timeline": [
+    {
+      "date": "14 May 2007",
+      "date_iso": "2007-05-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 May 2007",
+      "date_iso": "2007-05-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jun 2007",
+      "date_iso": "2007-06-27T12:00:00Z",
+      "event": "ACCC and Tattersall's enter into undertaking negotiations. ACCC timeline suspended."
+    },
+    {
+      "date": "20 Jul 2007",
+      "date_iso": "2007-07-20T12:00:00Z",
+      "event": "87B undertaking accepted by ACCC. ACCC decided that it would not intervene pursuant to section 50 of the Trade Practices Act."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "A PDF version of the Public Competition Assessment for this matter is available below."
+  }
+}

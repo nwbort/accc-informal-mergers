@@ -1,0 +1,31 @@
+{
+  "id": "1621",
+  "title": "Acquirer: GrainCorp Services Ltd (NSW Grain Corporation), Cargill Australia Ltd; Target: Milling Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-graincorp-services-ltd-nsw-grain-corporation-cargill-australia-ltd-target-milling-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15914",
+  "industries": [],
+  "date_completed": "16 August 2002",
+  "date_completed_iso": "2002-08-16T12:00:00Z",
+  "date_commenced": "2 May 2002",
+  "date_commenced_iso": "2002-05-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "GrainCorp Services Ltd (NSW Grain Corporation), Cargill Australia Ltd"
+  ],
+  "targets": [
+    "Milling Australia"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "A GrainCorp / Cargill joint venture proposed to acquire \"Milling Australia\" from Goodman Fielder.  Milling Australia is a flour milling and mixing operation.",
+    "Market definition": "The relevant markets are for grain storage and handling services in New South Wales and Victoria, and for flour milling and mixing in New South Wales and south eastern Australia.",
+    "Competition analysis": "The Commission found that there were strong constraints on GrainCorp's ability to discriminate against particular users of its storage and handling facilities: - The main constraint was that the ownership of grain within GrainCorp's facilities was not fixed and millers could, and did, buy and sell large amounts of grain within GrainCorp's storage system.  This means that GrainCorp would not be able to target grain within its system because the ownership of that grain could change; - In terms of access to storage, a large amount of grain entered GrainCorp's system in the name of growers or traders and was then purchased by millers.  Therefore GrainCorp would not know who the grain was destined for when it entered GrainCorp's storage facilities; - In terms of raising rival millers' storage costs, the Commission considered that millers' ability to contract for traders to hold grain on their behalf, thereby defeating a price rise, would deter GrainCorp from attempting to raise charges; - In terms of GrainCorp using knowledge of millers' stocks to identify their shortages of particular types of wheat and bidding up the prices of those stocks, the Commission found that GrainCorp did not have complete information of millers' stocks either because millers used some storage other than GrainCorp's, or because wheat was held for millers by traders in the traders' names, effectively disguising the wheat's ownership; and - In terms of GrainCorp blending differing qualities of grain, within a defined band, known in the industry as \"co-mingling\", to disadvantage millers, the Commission found that co-mingling was a current practice in the industry and would be unlikely to be used to any greater extent against rival millers in the future. On this basis, the Commission concluded that the proposed acquisition would be unlikely to lead to a substantial lessening of competition in the market for flour milling and mixing in New South Wales, and south eastern Australia.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2151"
+  }
+}

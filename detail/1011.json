@@ -1,0 +1,49 @@
+{
+  "id": "1011",
+  "title": "Transpacific Industries Group Ltd - acquisition of Earthpower Technologies Sydney Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-earthpower-technologies-sydney-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29050",
+  "industries": [
+    "Waste disposal and \"green\" electricity generation"
+  ],
+  "date_completed": "2 November 2007",
+  "date_completed_iso": "2007-11-02T12:00:00Z",
+  "date_commenced": "24 August 2007",
+  "date_commenced_iso": "2007-08-24T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Earthpower Technologies Sydney Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Aug 2007",
+      "date_iso": "2007-08-08T12:00:00Z",
+      "event": "Transpacific acquired 50% of the shares in Earthpower."
+    },
+    {
+      "date": "24 Aug 2007",
+      "date_iso": "2007-08-24T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "31 Oct 2007",
+      "date_iso": "2007-10-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Nov 2007",
+      "date_iso": "2007-11-02T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific acquired 50% of the shares in Earthpower Technologies Sydney Pty Ltd (Earthpower). Veolia acquired the remaining 50% of the shares of Earthpower.",
+    "Market definition": "The regional NSW market for the supply of organic waste collection services, waste disposal services, and the generation of electricity from organic waste.",
+    "Competition analysis": "On the 2 November 2007, the ACCC decided not to oppose the acquisition by Transpacific of the business and assets of Earthpower. The ACCC considered the information provided by Transpacific and other information available to it. Based on that information, the ACCC did not consider that the acquisition would result in a substiantial lessening of competition in the relevant markets. The main factors that informed this view included that: * it was unlikely that the acquisition by Transpacific of Earthpower's relatively small-scale business and operations would result in the removal of a significant source of competitive constraint in the relevant markets; * it was unlikely that Transpacific had the incentive or ability to foreclose the supply of waste collection and transport services in the NSW region to rivals in the waste disposal industry (i.e. landfill operators); and * it was unlikely that Transpacific had the incentive or ability to foreclose the supply of waste disposal services in the NSW region to rivals in the waste collection industry (i.e. waste collection operators)."
+  }
+}

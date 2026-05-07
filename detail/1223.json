@@ -1,0 +1,49 @@
+{
+  "id": "1223",
+  "title": "Epworth Foundation - proposed acquisition of Cedar Court Private Hospital",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/epworth-foundation-proposed-acquisition-of-cedar-court-private-hospital",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25119",
+  "industries": [
+    "Private hospitals"
+  ],
+  "date_completed": "7 September 2006",
+  "date_completed_iso": "2006-09-07T12:00:00Z",
+  "date_commenced": "4 August 2006",
+  "date_commenced_iso": "2006-08-04T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Epworth Foundation"
+  ],
+  "targets": [
+    "Cedar Court Private Hospital"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2006",
+      "date_iso": "2006-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "25 Aug 2006",
+      "date_iso": "2006-08-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "5 Sep 2006",
+      "date_iso": "2006-09-05T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings."
+    },
+    {
+      "date": "7 Sep 2006",
+      "date_iso": "2006-09-07T12:00:00Z",
+      "event": "ACCC announcement that it will not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Epworth Foundation propose to acquire Cedar Court Private Hospital.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on the local market (in southern and eastern Melbourne) for private rehabilitation services to private rehabilitation service purchasers. The ACCC also considered the effect of the proposed acquisition on the local markets (Melbourne CBD and eastern Melbourne) for general overnight private hospital services to hospital services purchases.",
+    "Competition analysis": "The ACCC considers that Epworth's proposed acquisition of Cedar Court will not result in a substantial lessening of competition in any market. This view is based on the fact that a number of competitors exist in the relevant markets that will provide service purchasers (health funds, Department of Veterans Affairs, WorkCover and the Transport Accident Commission) with viable alternatives. Further, service purchasers will continue to have countervailing power in their dealings with Epworth."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1636",
+  "title": "Acquirer: Visy Industries Holdings Pty Ltd; Target: Coca Cola Amatil Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-visy-industries-holdings-pty-ltd-target-coca-cola-amatil-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16122",
+  "industries": [],
+  "date_completed": "28 June 2002",
+  "date_completed_iso": "2002-06-28T12:00:00Z",
+  "date_commenced": "3 June 2002",
+  "date_commenced_iso": "2002-06-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Visy Industries Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Coca Cola Amatil Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition by Visy Industries Holdings Pty Ltd of the Beverage Packaging Division (BPD) of Coca Cola Amatil Ltd.  The BPD's operations includes manufacturing PET soft drink containers, and acquiring and reprocessing recycled PET (RPET) containers. The proposed transaction includes the sale of the BPD's assets to Visy, that Visy supply CCA with its PET container requirements and increase this volume in proportion to CCA's growth in use over 10 years, and that Visy continue to acquire the same volume as CCA's of existing RPET container requirements and increase this volume in proportion to CCA's growth in use over 10 years.",
+    "Market definition": "On 25 June 2002, the Commission for the purpose of competition analysis, decided that there are two markets, being firstly, the national market for the supply of PET containers, and secondly, the national market for the acquisition of recycled PET containers.",
+    "Competition analysis": "Supply of PET containers for various applications (beverage, food and other) The following factors appear to indicate that the proposed transaction is unlikely to substantially lessen competition in the national market for the supply of PET containers: - CCA's demand for PET containers has not been contestable as the BPD assets proposed to be acquired by Visy have been used by CCA for the internal supply of PET bottles; - existing customers for PET containers are likely to possess countervailing power, including in terms of the ability to self-manufacture PET bottles, especially for small - medium sized production; and - some degree of product substitution for PET containers from other types of packaging. Acquisition of RPET The following factors appear to indicate that the proposed transaction is unlikely to substantially lessen competition in the national market for the acquisition of RPET: - exports are likely to significantly constrain Visy's ability to decrease domestic prices for RPET acquired from RPET collectors/sorters; - collectors/sorters are likely to readily change their supply of RPET in response to any decrease in domestic RPET prices, since they collect/sort other types of recyclable materials; and - Visy will continue to acquire the same volumes of RPET and increase this volume in accordance with CCA's increasing use of PET containers. Accordingly, the Commission decided not to intervene with the proposed transaction.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2533"
+  }
+}

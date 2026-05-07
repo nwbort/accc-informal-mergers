@@ -1,0 +1,84 @@
+{
+  "id": "0154",
+  "title": "Asahi Group Holdings - Carlton & United Breweries (owned by Anheuser Busch InBev SA/NV)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/asahi-group-holdings-carlton-united-breweries-owned-by-anheuser-busch-inbev-sanv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Beer, cider and spirits"
+  ],
+  "date_completed": "1 April 2020",
+  "date_completed_iso": "2020-04-01T12:00:00Z",
+  "date_commenced": "23 August 2019",
+  "date_commenced_iso": "2019-08-23T12:00:00Z",
+  "total_review_days": 142,
+  "acquirers": [
+    "Asahi Group Holdings"
+  ],
+  "targets": [
+    "Carlton & United Breweries (owned by Anheuser Busch InBev SA/NV)"
+  ],
+  "timeline": [
+    {
+      "date": "23 Aug 2019",
+      "date_iso": "2019-08-23T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Sep 2019",
+      "date_iso": "2019-09-05T12:00:00Z",
+      "event": "ACCC requested further information from Asahi and CUB."
+    },
+    {
+      "date": "6 Sep 2019",
+      "date_iso": "2019-09-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Sep 2019",
+      "date_iso": "2019-09-30T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (31st October) is delayed to allow Asahi more time to provide additional information."
+    },
+    {
+      "date": "18 Oct 2019",
+      "date_iso": "2019-10-18T12:00:00Z",
+      "event": "ACCC received further information from Asahi."
+    },
+    {
+      "date": "21 Nov 2019",
+      "date_iso": "2019-11-21T12:00:00Z",
+      "event": "Former provisional date for announcement of ACCC's findings (5th December) is delayed to allow Asahi more time to provide additional information."
+    },
+    {
+      "date": "12 Dec 2019",
+      "date_iso": "2019-12-12T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "22 Jan 2020",
+      "date_iso": "2020-01-22T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "28 Feb 2020",
+      "date_iso": "2020-02-28T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking. Former provisional date for announcement of ACCC’s findings (19 March 2020) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "18 Mar 2020",
+      "date_iso": "2020-03-18T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed divestment undertaking."
+    },
+    {
+      "date": "1 Apr 2020",
+      "date_iso": "2020-04-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to section 87B undertakings accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Asahi proposes to acquire Carlton & United Breweries (CUB). Asahi and CUB both supply a range of beer, cider and spirits products.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

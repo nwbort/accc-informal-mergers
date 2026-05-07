@@ -1,0 +1,64 @@
+{
+  "id": "0633",
+  "title": "Medibank Private Limited - proposed acquisition of McKesson Asia Pacific Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/medibank-private-limited-proposed-acquisition-of-mckesson-asia-pacific-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41494",
+  "industries": [
+    "Health management services"
+  ],
+  "date_completed": "25 May 2010",
+  "date_completed_iso": "2010-05-25T12:00:00Z",
+  "date_commenced": "12 April 2010",
+  "date_commenced_iso": "2010-04-12T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Medibank Private Limited"
+  ],
+  "targets": [
+    "McKesson Asia Pacific Limited"
+  ],
+  "timeline": [
+    {
+      "date": "12 Apr 2010",
+      "date_iso": "2010-04-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Apr 2010",
+      "date_iso": "2010-04-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Apr 2010",
+      "date_iso": "2010-04-28T12:00:00Z",
+      "event": "ACCC requested further information from the parties. ACCC timeline suspended."
+    },
+    {
+      "date": "5 May 2010",
+      "date_iso": "2010-05-05T12:00:00Z",
+      "event": "ACCC received further information from merger parties, in response to the ACCC's request of 28 April 2010. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 May 2010",
+      "date_iso": "2010-05-06T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "13 May 2010",
+      "date_iso": "2010-05-13T12:00:00Z",
+      "event": "ACCC received further information from merger parties, in response to the ACCC's request of 6 May 2010. ACCC timeline recommenced."
+    },
+    {
+      "date": "25 May 2010",
+      "date_iso": "2010-05-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Medibank Private Limited (Medibank) proposed to acquire McKesson Asia Pacific Limited from McKesson Corporation (McKesson).  Medibank and McKesson supplied certain health management services to a range of government, private health insurers and/or corporate customers. Health management services encompass programs designed to promote health and wellbeing and to prevent and manage chronic health conditions.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition.  However, for the purpose of conducting this review, the ACCC considered the proposed acquisition in the context of: (i) the national market for the supply of health management services; and (ii) state-based markets for the supply of private health insurance.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market. In relation to the national market for the supply of health management services, the ACCC concluded that: - there appeared to be a number of alternative suppliers of health management services which would be likely to pose an effective competitive constraint on the merged firm; - there was evidence of sufficient new entry and expansion in the supply of health management services and the market was likely to grow in the foreseeable future; and - there appeared to be viable opportunities for acquirers of certain health management services to by-pass the merged firm by vertically integrating into the supply of those services or sponsoring new entry and expansion. In relation to the state-based markets for the supply of private health insurance, the ACCC concluded that it appeared unlikely that the merged firm would have an ability and incentive to foreclose rival private health insurers by restricting access to health management services and/or raise rivals' costs, particularly in light of a number of alternative providers of these services which would be likely to pose an effective competitive constraint on the merged firm."
+  }
+}

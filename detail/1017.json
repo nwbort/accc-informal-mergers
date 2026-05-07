@@ -1,0 +1,28 @@
+{
+  "id": "1017",
+  "title": "BUPA Australia Pty Ltd - acquisition of DCA Agedcare Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bupa-australia-pty-ltd-acquisition-of-dca-agedcare-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29841",
+  "industries": [
+    "Aged healthcare"
+  ],
+  "date_completed": "25 October 2007",
+  "date_completed_iso": "2007-10-25T12:00:00Z",
+  "date_commenced": "12 October 2007",
+  "date_commenced_iso": "2007-10-12T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "BUPA Australia Pty Ltd"
+  ],
+  "targets": [
+    "DCA Agedcare Group"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "BUPA has acquired DCA Aged Care Group from CVC Asia Pacific (Australia) Limited.",
+    "Market definition": "The relevant markets were defined as the regional market(s) for the supply of aged care facility services (as determined by government planning) and regional market(s) for retirement villages.",
+    "Competition analysis": "The ACCC considered the information provided by the merging parties and other information available to it and, based on that information, did not consider that the acquisition was likely to result in a substantial lessening of competition. The main factor informing this view was the fact that BUPA did not operate any aged care facilities in Australia, which meant that no horizontal competition issues would have arisen as a result of the acquisition."
+  }
+}

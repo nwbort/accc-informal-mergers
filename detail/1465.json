@@ -1,0 +1,32 @@
+{
+  "id": "1465",
+  "title": "Acquirer: International Power plc; Target: Edison Mission Energy Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-international-power-plc-target-edison-mission-energy-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18907",
+  "industries": [],
+  "date_completed": "27 August 2004",
+  "date_completed_iso": "2004-08-27T12:00:00Z",
+  "date_commenced": "19 January 2004",
+  "date_commenced_iso": "2004-01-19T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "International Power plc"
+  ],
+  "targets": [
+    "Edison Mission Energy Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "International Power PLC proposed to acquire the generation portfolio of Edison Mission Energy in a 70/30 consortium with Mitsui and Co.  The Australian assets being sold included the Loy Yang B coal-fired generator in Victoria, a 60% interest in the Valley Power gas-fired peaking plant in Victoria and a 70% interest in the Kwinana gas-fired generator, located in Perth.",
+    "Market definition": "For the purposes of analysing this acquisition, the ACCC considered the market for the supply of wholesale electricity in Victoria, and also in Victoria and South Australia combined, to be the most relevant.  Within this market trade occurs through the NEM.  Other markets were also taken into consideration, however the above market was considered to be the most relevant to the competition analysis.",
+    "Competition analysis": "The ACCC considered that the most significant competition issues arising from the proposed acquisition related to aggregation of control of electricity generation assets in Victoria and South Australia.  In particular, the acquisition involves common ownership between two of the four coal-fired base load electricity generators in Victoria. International Power's existing assets included a 91.8% interest in Hazelwood Power, which has a registered capacity of 1600MW, as well as the Synergen peaking plant in South Australia and the Pelican Point power station in South Australia.  The ACCC also took into consideration Mitsui's 5.53% interest in the Great Energy Alliance Corporation Pty Ltd, the owner of Loy Yang A power station. The Loy Yang B station and the Valley Power station have registered capacities of 1000MW and 300MW respectively.  In relation to Loy Yang B, the ACCC took into consideration the existence of a hedge agreement with the State Electricity Commission of Victoria ('SECV Hedge Agreement'), which provides for the owners to receive a fixed price, escalated for CPI, for the hedged portion of electricity in exchange for the payment to the SECV of the spot price applicable to that portion.  Over 70% of the Loy Yang B generation through to July 2014 is hedged with SECV, with the figure dropping after August 2014. In response to competition concerns identified by the ACCC, the International Power-Mitsui consortium proffered a section 87B undertaking with the following key provisions: * the consortium entity is required to divest Edison Mission Energy's 60 per cent interest in Valley Power; and * the consortium entity has given an undertaking to the ACCC that it will procure the Loy Yang B Plant Entities to execute the market operations of the Loy Yang B Plant in the NEM in a manner that ensures that the effect of the SECV Hedge Agreement in the NEM after the acquisition will be similar to the effect that the SECV Hedge Agreement would have had in the NEM if the acquisition had not occurred. The ACCC was satisfied that the proffered section 87B undertaking addressed the identified competition concerns and that upon acceptance of the undertaking the acquisition would not lead to a substantial lessening of competition.  The non-confidential sections of the undertaking are available on the ACCC website.",
+    "Resolution": "Undertakings",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "3610"
+  }
+}

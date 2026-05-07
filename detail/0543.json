@@ -1,0 +1,43 @@
+{
+  "id": "0543",
+  "title": "Coates Hire Operations Pty Limited - completed acquisition of SBH Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coates-hire-operations-pty-limited-completed-acquisition-of-sbh-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43077",
+  "industries": [
+    "Equipment Hire"
+  ],
+  "date_completed": "1 March 2011",
+  "date_completed_iso": "2011-03-01T12:00:00Z",
+  "date_commenced": "24 January 2011",
+  "date_commenced_iso": "2011-01-24T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Coates Hire Operations Pty Limited"
+  ],
+  "targets": [
+    "SBH Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jan 2011",
+      "date_iso": "2011-01-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Feb 2011",
+      "date_iso": "2011-02-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Mar 2011",
+      "date_iso": "2011-03-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of separate markets for the supply of shoring and pump equipment for hire in Victoria, New South Wales and Queensland. The ACCC noted that the geographic dimension of the market was likely to be narrower than State based markets. However, for the purposes of assessing the completed acquisition the ACCC did not consider it necessary to form a concluded view on geographic scope of the market.",
+    "Competition analysis": "The ACCC considered that the completed acquisition would not result in a substantial lessening of competition in any of the relevant markets due to the following factors: * the merged entity would continue to be constrained by existing rivals; * barriers to entry and expansion do not appear significant; and * some large customers may have a degree of countervailing power, by being able to purchase shoring or pump equipment themselves."
+  }
+}

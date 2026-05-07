@@ -1,0 +1,25 @@
+{
+  "id": "1272",
+  "title": "Melbourne IT Ltd - proposed acquisition of WebCentral Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/melbourne-it-ltd-proposed-acquisition-of-webcentral-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24429",
+  "industries": [
+    "Telecommunications Industry"
+  ],
+  "date_completed": "13 June 2006",
+  "date_completed_iso": "2006-06-13T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "The Australian markets for domain name registration and web hosting",
+    "Competition analysis": "Melbourne IT is primarily a supplier of domain name services but also supplies webhosting services.  WebCentral is primarily a supplier of webhosting services but also supplies domain name registration services. Consequently, there is little overlap between the businesses. The ACCC was also satisfied that Melbourne IT did not possess market power in the market for domain name services; particularly because of the existence of other vigorous and effective competitors. The ACCC was also satisfied that WebCentral did not possess market power in the market for web hosting, particularly given that barriers to entry are low.  Consequently no vertical concerns arose.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

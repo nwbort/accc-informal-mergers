@@ -1,0 +1,64 @@
+{
+  "id": "0501",
+  "title": "Sucrogen Limited - proposed acquisition of Proserpine Co-operative Sugar Milling Association Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sucrogen-limited-proposed-acquisition-of-proserpine-co-operative-sugar-milling-association-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46119",
+  "industries": [
+    "Sugar"
+  ],
+  "date_completed": "18 August 2011",
+  "date_completed_iso": "2011-08-18T12:00:00Z",
+  "date_commenced": "15 June 2011",
+  "date_commenced_iso": "2011-06-15T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Sucrogen Limited"
+  ],
+  "targets": [
+    "Proserpine Co-operative Sugar Milling Association Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jun 2011",
+      "date_iso": "2011-06-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Jun 2011",
+      "date_iso": "2011-06-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Jul 2011",
+      "date_iso": "2011-07-14T12:00:00Z",
+      "event": "ACCC requested further information from Sucrogen. Former proposed decision date of 28 July 2011 delayed. ACCC timeline suspended pending receipt of information requested."
+    },
+    {
+      "date": "22 Jul 2011",
+      "date_iso": "2011-07-22T12:00:00Z",
+      "event": "ACCC received further information from Sucrogen. ACCC timeline recommenced."
+    },
+    {
+      "date": "11 Aug 2011",
+      "date_iso": "2011-08-11T12:00:00Z",
+      "event": "ACCC timeline suspended at Sucrogen's request. Former proposed decision date of 11 August 2011 delayed to allow provision of further information."
+    },
+    {
+      "date": "16 Aug 2011",
+      "date_iso": "2011-08-16T12:00:00Z",
+      "event": "ACCC received further information from Sucrogen. ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Aug 2011",
+      "date_iso": "2011-08-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sucrogen proposed to acquire the business assets of Proserpine Co-operative Sugar Milling Association Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - the market for the acquisition of cane and supply of milling services to growers within a 50 kilometre radius of the Proserpine mill; - the market for the provision of sugar export and marketing services; - the market or markets for the provision of bulk storage and handling services for raw sugar; and - the global market for the supply of raw sugar. The ACCC also considered the likely effects of the proposed acquisition in relation to the supply of by-products including molasses, electricity and mill mud. However, for the purposes of the competition analysis in respect of these products, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market. Factors informing this conclusion are outlined below. Due to the nature of the sugar cane product, which required that cane  be milled within a relatively short time of being harvested, the practical distance that sugar cane could be transported post-harvesting is limited to approximately 50 kilometres. The merger parties did not compete to acquire cane or supply milling services as Sucrogen's closest mill was around 160 kilometres from the Proserpine mill. Australian production of raw sugar represents a relatively small proportion of the overall amount of raw sugar traded annually on the global market. The proposed acquisition would only result in a small increase in Sucrogen's share of this market and would be unlikely to give Sucrogen the ability to increase prices given the large number of competitors in this market. Competition between the merger parties in the supply of by-products was limited, and there were several other suppliers of these products. The proposed acquisition was therefore unlikely to raise competition concerns in relation to the supply of molasses, electricity and mill mud. The ACCC considered that Sucrogen's acquisition of PCSMA's shares in Sugar Terminals Limited (STL) would be unlikely to give Sucrogen the ability or incentive to foreclose competitors' access to bulk sugar terminals for the following reasons: - The proposed acquisition would result in a small increase in Sucrogen's current shareholding in STL, from approximately 17 to 19 per cent. Sucrogen would not acquire any additional G class shares through the proposed acquisition. - Although Sucrogen would be likely to have the ability to control the appointment of miller directors to the STL Board (by virtue of holding the majority of M class shares), Sucrogen's small holding of G class shares (0.5 per cent) would be unlikely to give it the ability to influence the appointment of grower directors to the STL Board. Under STL's Constitution, there were to be an equal number of miller and grower directors on STL's Board. STL's Constitution also provided that the directors may appoint independent director/s. The Chairman of the STL Board was an independent director. - Queensland Sugar Limited (QSL) held the sublease to the six bulk sugar terminals in Queensland. If this sublease were to terminate, the independent and grower directors on STL's Board would be unlikely to have the incentive to foreclose access to bulk sugar terminals by Sucrogen's competitors, and would constrain any attempt by Sucrogen to engage in foreclosure strategies. The ACCC considered that Sucrogen's increased voting rights in QSL as a result of the proposed acquisition would be unlikely to give Sucrogen the ability or incentive to foreclose competing mills' access to QSL's export and marketing services for the following reasons: - Sucrogen already held a majority of the miller vote in QSL, and the increase in voting rights it would obtain through the proposed acquisition would be unlikely to significantly increase its influence within QSL. - The QSL Board was comprised of independent directors elected by a Board Selection Committee consisting of an equal number of miller and grower representatives. Sucrogen held no grower voting rights in QSL."
+  }
+}

@@ -1,0 +1,907 @@
+ 
+1 
+ 
+ 
+Public Competition Assessment 
+13 January 2015 
+Expedia, Inc – proposed acquisition of Wotif.com Holdings 
+Limited 
+Introduction 
+1. 
+On 2 October 2014, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition by 
+Expedia, Inc. (Expedia) of Wotif.com Holdings (Wotif) (proposed acquisition). 
+2. 
+The ACCC decided that the proposed acquisition was unlikely to have the effect 
+of substantially lessening competition in a market in contravention of section 50 
+of the Competition and Consumer Act 2010 (the Act). 
+3. 
+The ACCC made its decision on the basis of the information provided by the 
+parties to the acquisition (the parties) and information arising from its market 
+inquiries. This Public Competition Assessment outlines (subject to confidentiality 
+considerations) the basis on which the ACCC has reached its decision. 
+Public Competition Assessments 
+4. 
+To provide an enhanced level of transparency in its decision making process, the 
+ACCC issues a Public Competition Assessment where: 
+ 
+an acquisition is opposed; 
+ 
+an acquisition is subject to enforceable undertakings; 
+ 
+the parties to the acquisition seek such disclosure; or 
+ 
+an acquisition is not opposed but raises important issues that the ACCC 
+considers should be made public. 
+5. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition was not opposed by the ACCC but raises some important issues that 
+the ACCC considers should be made public. 
+6. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC's analysis of various markets and 
+the associated competition issues. Public Competition Assessments can also 
+alert the public to circumstances where the ACCC’s assessment of the 
+competition conditions in particular markets is changing, or is likely to change. 
+
+
+ 
+2 
+ 
+7. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis outlined in 
+one Public Competition Assessment will be conclusive of the ACCC’s view in 
+respect of other transaction proposals, as each matter will be considered on a 
+case-by-case basis. 
+8. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition. As such, Public Competition 
+Assessments may not definitively identify and explain all issues that the ACCC 
+considers arise from a proposed acquisition. Further, the ACCC’s decisions 
+generally involve consideration of confidential information provided by the parties 
+and market participants. In order to maintain confidentiality, Public Competition 
+Assessments do not contain any confidential information nor identify its sources. 
+The parties 
+The acquirer: Expedia 
+9. 
+Expedia is a global online travel agency (OTA) that offers consumers the ability 
+to book accommodation, flights, vacation packages, car rentals, cruises and 
+other travel services. Retail travel products can be booked through Expedia both 
+online and via telephone. Expedia is also a relatively small supplier of corporate 
+travel management services through its Egencia business. 
+10. 
+Expedia’s online platforms provide an information service enabling consumers to 
+compare the prices and attributes of accommodation offered by a large number 
+of accommodation providers in Australia and abroad. 
+11. 
+Expedia’s portfolio of brands include: 
+ 
+Expedia.com – a full service OTA with localised sites in 31 countries 
+ 
+Hotels.com – an accommodation specialist with sites in more than 60 
+countries 
+ 
+Hotwire.com – a travel discount company with sites in 12 countries 
+throughout North America, Europe and Asia 
+ 
+Egencia – a corporate travel management company 
+ 
+Venere.com – an online accommodation reservation specialist in Europe; 
+and 
+ 
+a majority shareholding in trivago – an online accommodation metasearch 
+company with sites in 45 countries. 
+The target: Wotif 
+12. 
+Wotif is an ASX-listed and Australian-based OTA that is predominantly active in 
+relation to the supply of online accommodation booking services. These services 
+represent approximately 87 per cent of its revenue.1 Wotif is also active in the 
+provision of booking services for flights, travel packages and other travel 
+products.  
+13. 
+Wotif’s main brands include Wotif.com, lastminute.com.au, travel.com.au, Asia 
+Web Direct, LateStays.com, Go Do and Arnold Travel Technology. 
+                                                 
+1 Wotif.com Holdings Limited 2014 Annual Report, page 18. 
+
+
+ 
+3 
+ 
+Other industry participants  
+The Priceline Group 
+14. 
+The Priceline Group provides online accommodation, flights and related travel 
+services through a number of brands globally. It has invested heavily in 
+marketing and has a strong presence in Australia. Its major OTA brands include 
+Booking.com, the most visited OTA website in Australia,2 and Agoda. The 
+Priceline Group also owns Kayak, a travel metasearch website and mobile 
+application. 
+Orbitz Worldwide 
+15. 
+Orbitz Worldwide is a global OTA with an Australian presence in online 
+accommodation bookings through its HotelClub.com brand. 
+Webjet 
+16. 
+Webjet is an Australian-based OTA that has historically focused on flight sales, 
+but has expanded its accommodation business with the acquisition of Zuji in 
+2013. Zuji is an OTA which offers flights, accommodation, packages and car 
+hire. 
+Hooroo 
+17. 
+Hooroo is part of the Qantas Group and offers online accommodation bookings 
+through the Qantas, Jetstar and Hooroo websites. 
+Flight Centre 
+18. 
+Flight Centre is primarily a ‘bricks and mortar’ travel agent with retail outlets 
+across Australia, offering accommodation bookings (as well as other travel 
+related services) to consumers in-store and over the phone. Flight Centre also 
+offers online accommodation bookings through its OTA business Quickbeds. 
+Helloworld 
+19. 
+Helloworld (formerly Jetset Travelworld/Stella Travel) is another bricks and 
+mortar travel agent chain, which has also launched an online booking arm. In 
+2013, Helloworld announced an alliance with Orbitz Worldwide, giving it access 
+to Orbitz Worldwide’s global technology platform to power its new OTA, 
+helloworld.com.au. 
+STA Travel 
+20. 
+STA Travel is a global travel agency brand owned by Zurich-based Diethelm 
+Keller Ltd. In Australia it started life on university campuses as ‘Student Travel 
+Australia’. It provides accommodation booking services through both its bricks 
+and mortar stores and online. 
+                                                 
+2 http://www.traveltrends.biz/ttn555-global-sites-grow-fastest-as-locals-struggle-to-stay-with-the-pace-
+2014-hitwise-hottest-100-reveals/   
+
+
+ 
+4 
+ 
+Metasearch websites 
+21. 
+Metasearch sites aggregate online listings of travel products from a range of 
+OTAs and other sites and provide reviews and price comparisons for those 
+products. A customer is usually redirected to an OTA or hotel website after 
+clicking on a link to book the product.  
+22. 
+Metasearch sites which focus on accommodation listings and are popular in 
+Australia include: 
+ 
+TripAdvisor, a Nasdaq-listed company which is one of the largest 
+accommodation metasearch websites globally and within Australia 
+ 
+trivago, which is majority owned by Expedia, and  
+ 
+HotelsCombined. 
+23. 
+Metasearch websites are discussed in further detail from paragraph 39. 
+Other 
+24. 
+There are a range of companies which provide online distribution/booking 
+services primarily for non-hotel accommodation in Australia and overseas, 
+including AirBnB, Stayz and Hostelworld. 
+The proposed acquisition 
+25. 
+Expedia proposed to acquire 100 per cent of the issued shares in Wotif by way 
+of a scheme of arrangement.  
+Review timeline 
+26. 
+The following table outlines the timeline of key events in this matter. 
+16 July 2014 
+ACCC commenced review under the Merger Process Guidelines. 
+6 August 2014 
+Closing date for submissions from interested parties. 
+15 August 2014 
+ACCC requested further information from Expedia. 
+18 August 2014 
+ACCC requested further information from Wotif. 
+4 September 2014 
+ACCC published a Statement of Issues outlining preliminary 
+competition concerns. 
+17 September 2014 
+Closing date for submissions relating to Statement of Issues. 
+2 October 2014 
+ACCC announced it would not oppose the proposed acquisition. 
+Market inquiries 
+27. 
+The ACCC conducted market inquiries with a range of industry participants and 
+interested parties, including hotel operators, other accommodation providers, 
+airlines and competing OTAs. The ACCC also liaised with the New Zealand 
+
+
+ 
+5 
+ 
+Commerce Commission which was conducting a merger review of the 
+acquisition in New Zealand at the same time as the ACCC’s review.   
+Statement of Issues  
+28. 
+The ACCC published a Statement of Issues on 4 September 2014. In the 
+Statement of Issues the ACCC expressed the preliminary view that the proposed 
+acquisition may raise competition concerns in the market for the online 
+distribution/booking of Australian accommodation. In particular, the ACCC 
+expressed concern that the proposed acquisition may result in the following 
+effects:  
+ 
+an increase in the commission rates charged by Expedia to Australian 
+accommodation providers; 
+ 
+a reduction in the amount of promotional opportunities offered by OTAs to 
+Australian accommodation providers.   
+29. 
+The ACCC also expressed the preliminary view that the proposed acquisition 
+was unlikely to raise competition concerns in the following related markets: 
+ 
+the consumer side of the two-sided market for the online 
+distribution/booking of Australian accommodation;3  
+ 
+the market for online distribution/booking of air travel (which is also a two-
+sided market); 
+ 
+markets for the distribution/booking of other travel products, including 
+holiday packages, car hire and cruises (which are also two-sided markets). 
+Areas of overlap 
+30. 
+The activities of Expedia and Wotif overlap in the areas of online booking 
+services for accommodation, flights, holiday packages, car hire, cruises and 
+other travel products.  Of these different products, the primary area of overlap 
+that the ACCC focused on was online booking services for Australian 
+accommodation. 
+Future with and without the proposed acquisition  
+31. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment if the acquisition proceeds (the “with” position) to the likely future 
+competitive environment if the acquisition does not proceed (the “without” 
+position) to determine whether the proposed acquisition is likely to substantially 
+lessen competition in any relevant market. 
+32. 
+The ACCC’s view is that absent the proposed acquisition (the “without” position), 
+Wotif is likely to continue to operate as an independent competitor in the relevant 
+markets.  
+Industry background 
+33. 
+There are a number of media platforms through which accommodation is 
+distributed both online and offline, with the primary ones being: 
+                                                 
+3 A two-sided market is defined at paragraph 40. 
+
+
+ 
+6 
+ 
+ 
+Online travel agencies – OTAs sell one or multiple travel tourism 
+products direct to consumers, allowing consumers to search, compare and 
+book accommodation via their websites (e.g. Expedia.com, Wotif.com). 
+ 
+Directly via accommodation providers – many accommodation 
+providers have their own websites where consumers can book rooms 
+directly. Consumers may also book directly with the provider by phone, 
+email or as a “walk-in”. 
+ 
+Bricks and mortar travel agencies – many travel agents have a physical 
+retail presence that involves consumers meeting directly with the travel 
+agent. Some bricks and mortar agencies also have an online presence.  
+ 
+Corporate travel booking services – companies such as Corporate 
+Travel Management and Carlson Wagonlit supply accommodation to 
+organisations. 
+ 
+Destination websites – some local tourism organisations operate 
+websites which offer accommodation bookings, for example Tourism 
+Noosa. 
+34. 
+There has been significant growth in online travel bookings in recent years and 
+this trend is expected to continue, with increases in the usage of mobile devices 
+and tablets for bookings driving this growth. 
+35. 
+OTAs generally operate by two models: 
+ 
+Merchant model – the OTA acts as a wholesaler, selling inventory at a 
+rate comprising the hotel’s net rate and the OTA’s commission fee. Hotels 
+are paid by the OTA after the consumer has concluded their stay. OTAs 
+that use the merchant model include Expedia and Orbitz. 
+ 
+Retail model – the consumer books through an OTA and pays the hotel 
+directly. The hotel will then pay the OTA a commission on the booking. 
+This model is also referred to as the published model. Expedia and Orbitz 
+also operate this model in addition to Booking.com. 
+36. 
+Wotif operates a model similar to the merchant model except that the consumer 
+pays Wotif an additional booking fee of $5.50 at the time of booking. 
+37. 
+OTAs generally charge a base commission rate to accommodation providers, 
+and then charge a higher commission rate to those accommodation providers 
+that wish to appear on the front page of the OTA’s unrefined/unfiltered search 
+results. An exception to this is Wotif, which lists accommodation providers 
+alphabetically by star rating. Consumers are able to refine/filter results on OTA 
+sites by price, customer reviews, specific locations or features of the room and/or 
+hotel. 
+38. 
+OTAs attract consumers to their websites by advertising through both online 
+(e.g. Google AdWords), and offline media (e.g. TV and print media) in addition to 
+providing an attractive and functional website with a broad range of 
+accommodation inventory. The ACCC understands that the primary form of 
+competition between OTAs centres on attracting consumers to their websites, 
+which is in part dependent on OTAs being able to offer a broad range of 
+accommodation inventory.  
+Metasearch websites 
+39. 
+Metasearch sites such as TripAdvisor allow consumers to compare a range of 
+accommodation options (based on ratings, price, availability, location etc.) and 
+
+
+ 
+7 
+ 
+then provide booking options for each hotel (unless the hotel has chosen not to 
+make bookings available). TripAdvisor’s TripConnect function allows OTAs (and 
+the hotel itself) to bid against each other to appear in the booking options for a 
+particular hotel. The value of the bids determines the ranking of each booking 
+option, and the OTA or hotel is charged if a consumer clicks on their link. 
+40. 
+TripAdvisor also offers accommodation providers a ‘Business Listings’ product.  
+This is a subscription service (rather than a cost-per-click product) which allows 
+the accommodation provider to display its direct contact details (including a link 
+to its own website) on the TripAdvisor page for its property. An accommodation 
+provider can also post special offers on its TripAdvisor page. However, the 
+display of the Business Listings contact and special offer information is smaller 
+and less prominent than the booking buttons provided by the TripConnect 
+function. 
+Market definition 
+41. 
+The ACCC assessed the impact of the proposed acquisition in the context of the 
+following online markets for the distribution/booking of: 
+i. 
+Australian accommodation. This is a two-sided market where there are 
+two groups of customers: 
+ 
+accommodation providers who wish to attract consumers to their 
+properties; and 
+ 
+consumers who wish to book accommodation. 
+ii. 
+air travel (which is also a two-sided market); and 
+iii. 
+other travel products, including packages, car hire and cruises (which are 
+also two-sided markets). 
+42. 
+The relevant markets identified above are consistent with those outlined in the 
+Statement of Issues. The consumer side of market (i), and the markets 
+comprising (ii) and (iii) were identified in the Statement of Issues as markets 
+where the proposed acquisition was unlikely to raise concerns. Market inquiries 
+following the Statement of Issues did not reveal any further information to 
+change the ACCC’s views in relation to these markets and as such these are not 
+considered further. This Public Competition Assessment therefore only analyses 
+competition impacts in the market for the online distribution/booking of Australian 
+accommodation, focussing on the impact on Australian accommodation 
+providers. 
+Market for online distribution/booking of Australian 
+accommodation 
+Product dimension of the market 
+43. 
+The market for the online distribution/booking of Australian accommodation is a 
+two-sided market where positive network effects exist.4 The importance of an 
+OTA to an accommodation provider is directly related to the volume of traffic that 
+an OTA generates through its access to consumer ‘eyeballs’. Therefore, most 
+                                                 
+4 That is, an increase in the number of accommodation providers listing on OTAs increases the value of 
+the OTA to consumers who want to book accommodation, therefore attracting more consumers to the 
+OTA, and vice versa. 
+
+
+ 
+8 
+ 
+fees tend to be levied on accommodation providers rather than consumers 
+because their demand is likely to be less elastic than that of consumers, who are 
+readily able to switch between OTAs and access similar accommodation. It is the 
+eyeballs that OTAs generate through their large investment in advertising and 
+promotion (a sunk cost incurred by OTAs) that are of value to accommodation 
+providers, therefore the ACCC’s analysis has focussed on this side of the 
+market.     
+Accommodation versus other travel products 
+44. 
+The ACCC analysed whether the distribution of travel products, including hotels, 
+flights, car rental, cruises, etc. comprise separate distribution markets for each 
+travel product or a single market for the distribution of travel products. 
+45. 
+From the consumer perspective, different travel products such as hotel rooms 
+and flights are mainly complements rather than substitutes. Industry participants 
+indicated that a large proportion of consumers purchase travel products on a 
+standalone basis through OTAs, although there has been an increase in the 
+number of consumers purchasing travel products as a package (e.g. flight and 
+hotel packages), particularly by consumers travelling overseas. On the supplier 
+side, accommodation providers need to access distribution services which attract 
+consumers to book accommodation and are unlikely to have the ability to readily 
+commence supplying other travel products (e.g. flights or cruises) even if given 
+an incentive to do so.  
+46. 
+Many OTAs offer booking services for travel products other than 
+accommodation, such as airline flights and leisure cruises. Further, some 
+providers offering booking services for other travel products have recently 
+started offering booking services for accommodation. However, given the costs 
+associated with establishing a sufficient pool of accommodation inventory5 and 
+attracting a sufficient consumer audience,6 the ACCC considered that switching 
+from offering online distribution/booking of other travel products to 
+accommodation is not likely to be sufficiently quick and free of investment for 
+accommodation listings to be considered a supply-side substitute for other travel 
+product listings. 
+47. 
+On balance, the ACCC considered it appropriate to define a product market for 
+distribution/booking of Australian accommodation, taking into account the 
+primary overlap between the merger parties, the complementary nature of other 
+travel products from a consumer perspective and the inability of most 
+accommodation providers to readily switch between supplying different travel 
+products. Providers of booking services for other travel products are considered 
+potential entrants into this market. 
+Online distribution versus bricks and mortar stores 
+48. 
+As identified in the Statement of Issues, there is a range of ways in which 
+accommodation providers distribute and consumers book accommodation. The 
+                                                 
+5 As an alternative to contracting directly with accommodation providers, some OTAs acquire inventory 
+from other OTAs (e.g. from Expedia through its Expedia Affiliate Network). However, this reduces the 
+margin available to the re-selling OTA and may also impact its ability to compete by offering innovative 
+offers to consumers. 
+6 The ACCC notes that airlines and their affiliates (e.g. Hooroo) may be well placed to sell accommodation 
+by selling it in conjunction with flights. On the other hand, not all accommodation bookings are associated 
+with flights and many consumers who have booked flights are still likely to search separately for their 
+accommodation to ensure they obtain the best deal. 
+
+
+ 
+9 
+ 
+key consideration for an accommodation provider is typically to ensure as wide a 
+distribution of their accommodation inventory as possible to minimise the number 
+of empty rooms. 
+49. 
+The ACCC defined a market for the distribution/booking of Australian 
+accommodation through the online channel only, as accommodation providers 
+are unlikely to switch enough inventory from online channels to bricks and mortar 
+travel agents to make a small but significant increase in online distribution costs 
+(e.g. an increase in commission rates charged by OTAs) unprofitable. Online 
+channels capture unique consumer eyeballs that are not captured through the 
+bricks and mortar channel as, for a significant proportion of consumers, bricks 
+and mortar travel agents are not a close substitute for OTAs. These consumers 
+have a preference for comparing a wide range of accommodation providers, 
+accessing reviews from fellow travellers to inform their decision and favour the 
+convenience of booking online without the need to visit a store or speak to a 
+customer service person.  
+50. 
+The ACCC also found that OTAs were not a close substitute for a significant 
+proportion of consumers that frequent bricks and mortar travel agents. These 
+consumers often have a preference for drawing on the advice and expertise 
+offered by sales agents and favour the ability to book personalised holiday 
+packages, particularly when travelling overseas.  
+51. 
+Accordingly, the ACCC considered it appropriate to consider the competitive 
+effects of the proposed acquisition with reference to a market for 
+distribution/booking of accommodation that is limited to online channels, taking 
+into account bricks and mortar agents only to the extent that they offer online 
+booking services (for example, as Flight Centre does through 
+Quickbeds.com.au). 
+Other online booking channels 
+52. 
+The ACCC considered that the market for online distribution/booking of 
+Australian accommodation includes distribution and booking through a range of 
+channels including OTAs, directly through accommodation providers’ own 
+websites (e.g. Hilton.com) and destination websites (e.g. surfersparadise.com).  
+53. 
+Most hotels offer consumers the option of booking accommodation through the 
+hotel’s own website. In many instances, a link to a hotel’s website is provided in 
+the search results on a metasearch site.  
+54. 
+Market inquiries indicated that hotels also implement strategies to funnel 
+consumers to their direct channel and avoid paying commission fees to OTAs. 
+For example, hotels can reduce the volume of inventory made available to OTAs 
+and make this volume available to be booked directly through their own website 
+instead.  
+55. 
+Therefore, the ACCC considered that Expedia and Wotif compete not only with 
+other OTAs, but with other forms of online distribution including the 
+accommodation providers’ own websites and destination websites. The 
+proportion of bookings made through each channel varies between 
+accommodation providers, with OTAs generating one third to over half of the 
+bookings received by an accommodation provider. The extent to which these 
+channels constrain OTAs is discussed further in the competition assessment. 
+56. 
+The ACCC also considered the role of metasearch sites. The ACCC found that 
+metasearch sites increasingly compete with OTAs for consumer eyeballs. 
+Metasearch websites do not currently provide a booking function in their own 
+
+
+ 
+10 
+ 
+right, but connect consumers to an OTA or other site to complete a booking. 
+Accordingly, the ACCC did not consider metasearch sites to be in the same 
+market as OTAs. However, as discussed further below, the ACCC considered 
+metasearch sites to be important to the competitive dynamic in the market for 
+online distribution/booking of Australian accommodation as they provide an 
+expanding avenue for accommodation providers to bypass OTAs and transact 
+directly with consumers. 
+Geographic scope of the market  
+57. 
+The ACCC defined the geographic scope of the market to be the 
+distribution/booking of Australian accommodation, encompassing bookings 
+made by Australian residents and inbound bookings from overseas residents. 
+Competition Assessment  
+58. 
+The ACCC’s preliminary concerns outlined in the Statement of Issues were that 
+the proposed acquisition may have the potential to substantially lessen 
+competition in the market for online distribution/booking of Australian 
+accommodation and may result in an increase in commission rates charged by 
+OTAs to accommodation providers. 
+Competitive significance of Wotif 
+59. 
+A significant number of industry participants, particularly smaller accommodation 
+providers, identified Wotif as a vigorous and effective competitor for the 
+distribution/booking of Australian accommodation, having regard to the volume 
+of bookings generated by Wotif (for some accommodation providers more than 
+half of all bookings received via OTAs are from Wotif) and its lower rates of 
+commission compared to the other two major OTAs in Australia, Expedia and 
+Booking.com.  
+60. 
+Other OTAs, including Orbitz Worldwide, Webjet, Quickbeds, Hooroo and 
+Helloworld have significantly smaller shares of bookings than the top three and 
+were not generally identified by accommodation providers as a significant source 
+of bookings.  
+61. 
+Wotif’s competitive strength appears to be based primarily on: 
+ 
+its brand awareness: Wotif was the first major accommodation OTA in 
+Australia and continues to enjoy strong brand recognition in Australia; 
+ 
+its wide range of inventory: Wotif has more Australian hotels listed than 
+any other OTA. 
+62. 
+Industry participants noted that the base commission charged by Expedia and 
+Booking.com in Australia is less than they charge in other parts of the world, and 
+considered that it was the presence of Wotif that constrained Expedia and 
+Booking.com from increasing commissions. Some industry participants raised 
+concerns that the acquisition of Wotif would result in Expedia increasing 
+commission rates to accommodation providers.  
+63. 
+Although Wotif is one of the three major competitors in the market and an 
+important source of bookings for many accommodation providers, the ACCC’s 
+inquiries indicate that it has lost its position as the leading OTA in the Australian 
+market. Some market participants questioned its ability to remain competitive 
+
+
+ 
+11 
+ 
+with Expedia, Booking.com, newer OTAs and new business models in the future 
+without the acquisition. 
+64. 
+Wotif has experienced a decline in its market share of Australian accommodation 
+bookings since 2011, a period that has seen Booking.com experience significant 
+growth. This decline is attributed to the lack of ongoing investment in Wotif’s 
+online platform, its booking fee levied to consumers (which puts it at a 
+competitive disadvantage to its competitors who do not charge a booking fee) 
+and its failure to match the advertising spend of its key competitors, especially 
+for key search terms on Google AdWords.  
+65. 
+Booking.com has experienced very strong growth in Australia, particularly over 
+the past two years. Booking.com is now, by most measures, the largest OTA in 
+Australia and has increased its hotel inventory to a level that gives it comparable 
+(although still lower) coverage to Wotif. The ACCC understands that 
+Booking.com is continuing to sign more accommodation providers in regional 
+areas, which has traditionally been Wotif’s competitive strength.   
+66. 
+The ACCC understands that Booking.com has leveraged its recognition among 
+Australian consumers who travel overseas to build its profile for domestic 
+accommodation bookings by Australian consumers. The ACCC notes that other 
+major overseas OTAs may be in a similar position to expand their presence in 
+the Australian market as Booking.com did, particularly if there were a price 
+incentive post-acquisition. 
+67. 
+As a result of Wotif’s declining market share, many industry participants 
+considered that without the acquisition Wotif would need to remove its booking 
+fee, invest in modernising its booking platform and increase its advertising spend 
+to counteract the continued expansion of Booking.com. Although Wotif remains a 
+profitable business, its performance in terms of accommodation bookings has 
+declined in recent years. For example, The Wotif Group’s number of room nights 
+booked in Australia and New Zealand decreased by 9.4% in 2013-147, which 
+Wotif considers is due to it being out-spent on advertising by its competitors.  
+68. 
+The ACCC notes that Wotif has previously increased its commission rate to 
+accommodation providers from 10% to 11% in 2013 and to 12% in 2014. Many 
+industry participants considered that, given the investment Wotif would need to 
+make to arrest its declining performance, it was likely that Wotif would further 
+increase its commission rates to accommodation providers at some point in the 
+near future without the acquisition. 
+69. 
+The ACCC notes that some industry participants raised concerns that the growth 
+of Booking.com and the declining performance of Wotif would result in 
+Booking.com becoming the dominant player in the market in the foreseeable 
+future. These industry participants considered that the proposed acquisition may 
+create a stronger competitor to Booking.com compared to the current market 
+structure.  
+Dynamic nature of online accommodation booking industry 
+70. 
+As noted in the Statement of Issues, there has been a substantial shift from 
+bricks and mortar travel agents to online sales channels for the distribution and 
+sale of accommodation. 
+                                                 
+7 Wotif, FY14 Results – Presentation Materials, http://www.wotifgroup.com/wp-
+content/uploads/2014/08/ASX294-12Aug14-Presentation-Materials.pdf 
+
+
+ 
+12 
+ 
+71. 
+Market inquiries also confirmed that within the online market itself, the methods 
+by which accommodation booking options are offered to consumers have 
+diversified. Evolution in the market is illustrated by the emergence of new OTAs, 
+metasearch/aggregator websites (such as TripAdvisor and Google Hotel Finder), 
+new business models such as AirBnB (an online distribution/booking platform 
+which facilitates the letting of private accommodation, including individual rooms 
+in private houses), and web applications which respond to consumers’ 
+increasing use of mobile devices to make bookings.  
+72. 
+Metasearch websites such as TripAdvisor originally provided the opportunity for 
+travellers to read and review travel-related content. However, they have since 
+introduced features such as price comparisons for accommodation and links to 
+book directly with an accommodation provider that have seen the functionality 
+much more closely resemble that of an OTA. Such websites capture consumers’ 
+preferences for combining independent and comprehensive information about 
+accommodation options and easy booking processes. As detailed below, these 
+websites provide a substantial platform for OTAs and hotels to promote their 
+offerings and are likely to play an increasingly important role in the distribution of 
+accommodation.  
+73. 
+Industry participants also considered that metasearch websites and OTAs are 
+continually testing and introducing new services and products in order to attract 
+consumers and accommodation owners to their websites. Recent examples 
+include TripAdvisor’s Instant Bookings (a mobile application which allows the 
+consumer to complete a booking without leaving the TripAdvisor platform)8 and 
+Business Listings products, Google Hotel Finder (a map-based metasearch 
+product), and TripAdvisor’s FlipKey, a website which specialises in the 
+distribution of apartment/home rentals incorporating TripAdvisor reviews. 
+74. 
+There has also been substantial change within the OTA industry. Until recently in 
+Australia, Wotif, and to a lesser extent Expedia, were market leaders in terms of 
+accommodation booked through OTAs. As outlined at paragraphs 63-65, this 
+has changed rapidly with the entry and expansion of Priceline Group through its 
+Booking.com and Agoda websites.  
+75. 
+In addition, in recent years a number of ‘channel managers’ have developed 
+systems to facilitate connections between their booking systems and consumer-
+focused websites such as OTAs and TripAdvisor. Channel manager systems, 
+such as that offered by SiteMinder, allow accommodation providers to manage 
+the distribution of their inventory across a range of distribution channels, 
+including integration with the systems of leading OTAs and aggregator sites.9 
+76. 
+These developments indicate that there have been many innovative commercial 
+responses to consumer demand for better online booking facilities, including, for 
+example: 
+ 
+combining the ability to personally research travel options and easily make 
+a booking; and 
+ 
+the ability to make bookings on a mobile or last-minute basis while the 
+consumer is travelling.  
+                                                 
+8 The actual transaction service is still provided by an OTA, but the OTA’s role is much less prominent 
+compared to a standard booking than originates with TripAdvisor. 
+9 For example, Site Minder’s Channel Manager product allows a hotel to list all available rooms on a 
+range of booking sites at the one time and the number of available rooms is automatically reduced across 
+all those sites when a booking is made from any site. 
+
+
+ 
+13 
+ 
+77. 
+The ACCC considered that the pace and breadth of the introduction of new 
+methods for the online distribution of accommodation and the fact that new 
+products continue to be developed, strongly suggests that it is a dynamically 
+competitive market. The ACCC’s market inquiries did not reveal any information 
+to suggest that the proposed acquisition would be likely to impede the degree of 
+dynamic change in the market.  
+Competition from other online distribution channels 
+78. 
+The ACCC considers that developments such as those outlined above have 
+expanded the range of options for hotels to distribute their accommodation 
+inventory, either through booking intermediaries (such as OTAs) or their own 
+websites.  
+79. 
+On the flip-side of this two sided market, the dynamic nature of competition has 
+also manifested in the emergence of a large range of options by which 
+consumers can and do book accommodation online. Market inquiries indicated 
+that consumers research their options through several websites before ultimately 
+making a booking. The majority of consumers commence their accommodation 
+research with a Google search of generic terms largely based on a location (for 
+example “Melbourne hotels”), then browse metasearch websites such as 
+TripAdvisor, HotelsCombined and Google Hotel Finder, which display a range of 
+booking options offered by multiple OTAs and accommodation providers.  
+Role of Metasearch websites 
+80. 
+The ACCC found that metasearch websites, particularly TripAdvisor and Google 
+Hotel Finder, assist hotels to bypass OTAs and provide a meaningful platform for 
+new entry or expansion by OTAs. For example, independent accommodation 
+providers, through the subscription-based TripAdvisor Business Listings service, 
+can list their property on TripAdvisor, provide contact information (including a link 
+to the provider’s website) and offer specials (e.g. free breakfast) to consumers. 
+An accommodation provider with a TripAdvisor Business Listing also has the 
+option to participate in the TripConnect service. The TripConnect service allows 
+independent accommodation providers to compete against OTAs for placement 
+on the price comparison booking panel on TripAdvisor’s website, a function 
+introduced in 2013. Prior to this, only OTAs and large hotel franchises were able 
+to bid for placement in the booking panel on TripAdvisor’s website.    
+81. 
+The ACCC considers that new developments by metasearch sites are increasing 
+the ability of accommodation providers to reduce their reliance on the major 
+OTAs, as well as obtain a greater proportion of bookings directly through their 
+own websites. 
+82. 
+The growth in the popularity of metasearch websites has caused a shift of 
+consumers from OTAs to these websites as their first point in searching for 
+accommodation. This appears to have two effects: 
+i. 
+it provides a platform for the entry and expansion of lesser known OTAs by 
+making it possible for them to obtain bookings (via a metasearch site); and 
+ii. 
+hotels are more able to reduce their reliance on particular OTAs to access 
+a potential customer base, whether through smaller OTAs or the ability to 
+promote direct bookings.   
+
+
+ 
+14 
+ 
+83. 
+Market inquiries indicate that metasearch websites, in particular TripAdvisor and 
+Google Hotel Finder, pose a significant competitive threat to OTAs because 
+these websites:  
+ 
+display a larger number of hotels than any one OTA, have the ability to 
+display the best available price for rooms to consumers, and increasingly 
+have similar booking functionality to an OTA; and 
+ 
+increasingly facilitate direct transactions between hotels and consumers 
+with the introduction of new features (such as TripAdvisor’s instant booking 
+function).  
+84. 
+The ACCC considers that ongoing growth in the popularity of metasearch 
+websites will likely erode any temporary market power currently enjoyed by 
+particular OTAs. 
+Direct bookings 
+85. 
+As noted in the Statement of Issues, accommodation providers can engage in 
+strategies to increase the volume of consumers booking directly through their 
+websites in order to minimise or avoid paying commissions to OTAs. These 
+strategies include the following: 
+ 
+taking positive steps to attract more consumers to their own websites, e.g. 
+by offering discounts, other bonuses or loyalty schemes; and 
+ 
+withholding their inventory from OTAs, i.e. making only a limited number or 
+type of rooms available via OTAs as opposed to their own websites. 
+86. 
+Market inquiries indicated that the extent to which these strategies are effective 
+can be influenced by factors including: 
+ 
+the price and volume parity requirements that most OTAs include in their 
+contractual arrangements with accommodation providers; 
+ 
+difficulties faced by accommodation providers in attracting consumers to 
+their own websites, due to the complexity and expense of promoting them 
+(see further below).  This is more likely to be an issue for smaller 
+accommodation providers without a strong brand name; and 
+ 
+the risk of lost sales (and therefore empty rooms) if accommodation 
+providers miscalculate the number of rooms to withhold from OTAs. 
+87. 
+Notwithstanding these issues, the ACCC’s post-SOI market inquiries indicated 
+that hotels do exercise a flexible approach in their dealings with OTAs. For 
+instance: 
+ 
+Many accommodation providers regularly offer accommodation promotions 
+and sales by offering inventory which is differentiated from the rooms sold 
+through OTAs; and 
+ 
+There is evidence that accommodation providers of various sizes in 
+overseas markets are increasingly using products such as TripAdvisor’s 
+Instant Bookings and Business Listings, on the basis that they are a cost-
+effective means of generating bookings relative to commissions paid to 
+OTAs. 
+
+
+ 
+15 
+ 
+Barriers to entry and expansion 
+88. 
+The ACCC’s review indicated that a new OTA would be able to access a 
+sufficient volume of hotel inventory to enter the market as accommodation 
+providers generally have an incentive to distribute their inventory across a wide 
+range of platforms to access as many potential consumers as possible. This is 
+facilitated by channel manager applications (such as SiteMinder’s) which allow a 
+hotel to list a particular room on multiple OTAs at the same time. However, as 
+noted above, a new OTA would face significant costs in engaging a sufficient 
+number of staff to approach, enter contracts and maintain relationships with 
+those accommodation providers. 
+89. 
+The ACCC’s review also indicated that a new OTA would incur significant sunk 
+costs through advertising to attract a sufficient number of eyeballs to compete 
+successfully in the market. While there are a number of smaller, independently-
+owned OTAs in the market, some market participants suggested that the sunk 
+costs involved with advertising, particularly on Google and metasearch websites 
+presents a barrier to new OTAs achieving a sufficient scale to constrain the 
+incumbents such as Expedia and Booking.com.  
+90. 
+The ACCC considered that if the industry were to remain in its current form, 
+there may be significant barriers to a new entrant or existing player in the market 
+expanding to an equivalent size to Wotif, Expedia or Booking.com. 
+91. 
+However, the ACCC considered that despite the barriers to entry, recent 
+changes in the market suggest that there are significant global players who have 
+the ability and incentive to overcome those barriers.10 The ACCC considered that 
+competition would continue to be dynamic in the future, and this would result in 
+the ongoing development of differentiated products and business models. 
+Companies in adjacent markets (e.g. TripAdvisor and Google) are likely to place 
+significant competitive constraint on incumbent OTAs by developing new 
+products which allow either those companies or other new entrants to compete 
+more vigorously with the incumbent OTAs.   
+Likelihood of increased commission rates 
+92. 
+The key theory of harm raised in the Statement of Issues related to the potential 
+for Expedia to raise commission rates to accommodation providers post-
+acquisition.   
+93. 
+Industry participants submitted to the ACCC that in the absence of the proposed 
+acquisition, Wotif would need to remove the $5.50 booking fee it currently 
+charges consumers to maintain a competitive position in the market. The ACCC 
+considers that if this were to occur, it is likely that Wotif would attempt to 
+increase commissions to accommodation providers in order to compensate for 
+removing the consumer booking fee, bringing its pricing model into line with that 
+adopted by other OTAs. Therefore, the ACCC considers that a change in Wotif’s 
+pricing structure is likely with or without the acquisition.    
+94. 
+The ACCC also acknowledges that the removal of an independent Wotif could 
+lead to Expedia and Booking.com increasing commission rates above their 
+current levels.   
+                                                 
+10 For example, Amazon is reported to be entering the OTA market (this was not known at the time of the 
+ACCC’s decision): http://www.economist.com/blogs/gulliver/2014/11/online-travel-
+firms?fsrc=scn/tw/te/bl/enteramazon.  
+
+
+ 
+16 
+ 
+95. 
+However, the ACCC considered that the dynamic nature of the market provides 
+opportunities for accommodation providers to reduce their reliance on OTAs for 
+the distribution of inventory and will continue to do so in the future, restricting the 
+ability of OTAs to increase commissions beyond what was likely to occur absent 
+the acquisition. The ACCC therefore considered that to the extent that Expedia 
+and Booking.com raise commission rates post-acquisition, any such increase 
+would be likely to: 
+ 
+cause a significant proportion of accommodation providers to reduce the 
+proportion of inventory they sell through OTAs, for example by 
+withholding inventory from OTAs and investing more into promoting 
+direct bookings through metasearch options; 
+ 
+encourage at least some entry or expansion by other OTAs;  
+ 
+be increasingly constrained directly by metasearch websites such as 
+TripAdvisor; and 
+ 
+accelerate the development of new products and business models which 
+may further reduce accommodation providers’ reliance on OTAs.   
+Conclusion 
+96. 
+Based on the above analysis, the ACCC concluded that the proposed acquisition 
+was unlikely to substantially lessen competition in the market for the online 
+distribution/booking of Australian accommodation. 

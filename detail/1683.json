@@ -1,0 +1,31 @@
+{
+  "id": "1683",
+  "title": "Acquirer: Tarong Energy, Tokyo Electric Power Company, Mitsui & Co (Australia) Ltd; Target: Tarong North Power Station",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-tarong-energy-tokyo-electric-power-company-mitsui-co-australia-ltd-target-tarong-north-power-station",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15371",
+  "industries": [],
+  "date_completed": "20 February 2002",
+  "date_completed_iso": "2002-02-20T12:00:00Z",
+  "date_commenced": "18 January 2002",
+  "date_commenced_iso": "2002-01-18T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Tarong Energy, Tokyo Electric Power Company, Mitsui & Co (Australia) Ltd"
+  ],
+  "targets": [
+    "Tarong North Power Station"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Tarong Energy propose to enter into a joint venture with Tokyo Electric Power Company and Mitsui & Co to construct and operate the Tarong North Power Station.",
+    "Market definition": "Electricity generation.",
+    "Competition analysis": "A subsiairy of Tokyo Electric Power Company and Mitsui will purchase a 50% interest in the Tarong North Power Station currently being constructed.  Tarong Energy willl retain ownership of the remaining 50% interest and will perform all marketing and trading functions for the new plant including the determination of the prices at which the capacity of the new generator is bid into the NEM. The Tarong North Power Station is one of several new electricity generators proposed to be built in Queensland over the coming years and the proposed joint venture arrangements do not appear to raise competition concerns under the Trade Practices Act.",
+    "Merger type": "New Entry",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "3610"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0053",
+  "title": "Experian - Illion",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/experian-illion",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Credit reporting services"
+  ],
+  "date_completed": "15 August 2024",
+  "date_completed_iso": "2024-08-15T12:00:00Z",
+  "date_commenced": "5 April 2024",
+  "date_commenced_iso": "2024-04-05T12:00:00Z",
+  "total_review_days": 64,
+  "acquirers": [
+    "Experian Australia Credit Services Pty Ltd (Experian Bureau, or Experian)"
+  ],
+  "targets": [
+    "Credit Data Solutions Pty Ltd (illion)"
+  ],
+  "timeline": [
+    {
+      "date": "5 Apr 2024",
+      "date_iso": "2024-04-05T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Apr 2024",
+      "date_iso": "2024-04-19T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "12 Jun 2024",
+      "date_iso": "2024-06-12T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties and targeted market participants. Former provisional date for announcement of ACCC’s findings (27 June 2024) is delayed."
+    },
+    {
+      "date": "22 Jul 2024",
+      "date_iso": "2024-07-22T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "15 Aug 2024",
+      "date_iso": "2024-08-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 4 April 2024, Experian Australia Credit Services Pty Ltd (Experian Bureau, or Experian) announced that it is seeking to acquire 100% of the shares in Credit Data Solutions Pty Ltd (illion) pursuant to the terms of a share sale agreement with the existing shareholders of illion. Experian Bureau is a joint venture, with Experian Australia Pty Ltd (Experian Australia) holding a majority share, and the four major banks (ANZ, CBA, NAB and Westpac), Latitude Financial Services Australia Pty Ltd and American Express Australia Limited, each holding minority interests (JV Shareholders). illion is majority owned by funds that are managed and advised by Archer Capital. Experian and illion each provide consumer credit reporting services in Australia. Their respective customers are credit providers, for example, lenders, utilities, telecommunication providers and loan providers who both use data and provide data to the providers of reporting services. Experian and illion both also supply related services, including software for managing customer originations, marketing services, categorisation solutions and identity verification services.",
+    "Market definition": "The ACCC considered the likely impact of the proposed acquisition on competition in markets(s) for: consumer credit reporting services credit decisioning software solutions consumer marketing services categorisation services software solutions identity verification services. The ACCC considered the supply of these services to customers on a national basis.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any market. The ACCC found that the market for the supply of consumer credit reporting services in Australia is concentrated with services supplied by three market participants. The proposed acquisition is a merger between 2 of the 3 consumer credit reporting bureaux in Australia, with the remaining competitor – Equifax – being the largest consumer credit bureau in Australia. The ACCC found that there is limited competition currently in consumer credit reporting services in Australia. Our investigations indicate that Experian and illion provide only a weak competitive constraint against the market leader Equifax and this is unlikely to change if the merger does not go ahead. This lack of competitive constraint is a result of factors particular to consumer credit reporting and to the entrenched position of Equifax. The majority of credit providers appear to use a single credit bureau and most often that bureau is Equifax. The ACCC also found that even where the large credit providers contract with multiple bureaux, some see Equifax as the primary bureau and utilise Experian and illion as a secondary data source. Primary bureau status is considered important to a credit reporting body. Where customers tend to direct more enquiries to their primary bureau, this allows the bureau to obtain more enquiry data than if they were a secondary bureau. Barriers to entry and expansion in consumer credit reporting are very high and the most fundamental barrier to expansion is access to large and high quality dataset assets. The ACCC’s review found that the datasets of Experian and illion are less comprehensive than that of Equifax, which reduces the competitive constraint they are able to provide. It is this lack of superior data quality that affects Experian’s ability to attract more customers and gain market share. Access to a large set of high quality consumer credit data is paramount for credit bureaux to effectively compete and secure customers (i.e. credit providers). This is because the scale and quality of the data is fundamental to a credit provider’s ability to assess potential borrowers and therefore the success of their business. This reflects the network effects in this market, where credit providers find credit reports from a credit bureau more useful the more other credit providers are supplying data to, and using that bureau, given the greater amount of data accessible to that bureau. As credit providers are generally only required to share data with bureaux with which they have a credit services agreement, the more agreements a bureau has, the greater the amount of data accessible to that bureau, and the more detailed their credit reports will be. Without the merger and given their lack of scale and access to a large, high quality comprehensive dataset, it is difficult to see how Experian or illion could, by operating separately, materially expand their individual service offerings to compete effectively with Equifax for primary bureau status.  Due to its lack of scale, Experian has failed to gain traction in the market for consumer credit reporting services in Australia despite its joint venture arrangements with the four major banks, which are key sources of credit data Although the merger would reduce the number of market participants from three to two, the merged entity is likely to be more competitive than Experian and illion currently are with each operating separately. This is because it would be able to offer a larger, higher quality dataset and provide a more competitive alternative to customers. The ACCC also found that the proposed acquisition is unlikely to further raise barriers to new entry or expansion in consumer credit reporting services. The market for the supply of credit decisioning software solutions consists of several product categories including originations, customer management and collections/debt management software. Experian and illion overlap in the supply of software for managing customer originations. The ACCC found that, due to the absence of high barriers to enter this market and the presence of other competitors, the merger is unlikely to substantially lessen competition for these software services. The ACCC found that for marketing, categorisation and identity verification services there is limited overlap between Experian and illion, and they do not appear to be close competitors. Additionally, due to the availability of alternative providers for each of the relevant services, the proposed acquisition is unlikely to raise competition concerns in any of these markets."
+  }
+}

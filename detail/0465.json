@@ -1,0 +1,54 @@
+{
+  "id": "0465",
+  "title": "Caltex Australia Petroleum Pty Ltd - proposed acquisition of capacity from Terminals Pty Ltd at a new Port Adelaide fuel storage terminal",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/caltex-australia-petroleum-pty-ltd-proposed-acquisition-of-capacity-from-terminals-pty-ltd-at-a-new-port-adelaide-fuel-storage-terminal",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46923",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "27 January 2012",
+  "date_completed_iso": "2012-01-27T12:00:00Z",
+  "date_commenced": "21 September 2011",
+  "date_commenced_iso": "2011-09-21T12:00:00Z",
+  "total_review_days": 61,
+  "acquirers": [
+    "Caltex Australia Petroleum Pty Ltd"
+  ],
+  "targets": [
+    "Fuel storage terminal to be developed by Terminals Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Sep 2011",
+      "date_iso": "2011-09-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Oct 2011",
+      "date_iso": "2011-10-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Oct 2011",
+      "date_iso": "2011-10-21T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information requested from Caltex. Former proposed decision date of 3 November 2011 delayed to allow provision of information."
+    },
+    {
+      "date": "6 Dec 2011",
+      "date_iso": "2011-12-06T12:00:00Z",
+      "event": "ACCC received further information from Caltex. ACCC timeline recommenced."
+    },
+    {
+      "date": "27 Jan 2012",
+      "date_iso": "2012-01-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Caltex Australia Petroleum Pty Ltd proposed to acquire a lease over the site of a new fuel storage terminal at Port Adelaide to be developed by Terminals Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the supply of fuel terminal services in Port Adelaide, which involved the services of fuel storage, loading (by ship) and unloading (by truck).  The ACCC had regard to the fact that the supply of fuel terminal services in Port Adelaide was an important input for the wholesale supply of refined petroleum products in much of South Australia.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was not likely to substantially lessen competition in any market. Factors informing this conclusion included: -  the significant increase in fuel storage capacity in the Port Adelaide market relative to the status quo as a result of the proposed acquisition; -  in the absence of the proposed acquisition, it did not appear likely that any  alternative party would underwrite construction of a new fuel storage terminal in Port Adelaide; -   the availability of alternative land at the Outer Harbour in Port Adelaide suitable for construction of an additional fuel storage terminal in the future; and -   the potential for third parties to undertake fuel storage developments on part of the site if it remains undeveloped after Caltex's five year exclusivity period ends."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "1501",
+  "title": "Acquirer: OneSteel Trading Pty Ltd; Target: Midalia Steel",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-onesteel-trading-pty-ltd-target-midalia-steel",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18574",
+  "industries": [],
+  "date_completed": "23 January 2004",
+  "date_completed_iso": "2004-01-23T12:00:00Z",
+  "date_commenced": "3 November 2003",
+  "date_commenced_iso": "2003-11-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "OneSteel Trading Pty Ltd"
+  ],
+  "targets": [
+    "Midalia Steel"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "OneSteel Trading Pty Ltd acquired Midalia Steel, a West Australian steel products distributor.",
+    "Market definition": "The market for distribution of steel and other metal products in Western Australia",
+    "Competition analysis": "The ACCC considered the acquisition of Midalia Steel by OneSteel is not likely to result in a substantial lessening of competition in the Western Australian market for metals distribution because: Another distributor of similar size (Smorgon) and a range of smaller distributors are capable of competing actively with the merged entity; The level of imports overall and across most product segments suggests the market will remain both contestable and competitive.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4522"
+  }
+}

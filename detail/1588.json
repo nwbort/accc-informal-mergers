@@ -1,0 +1,31 @@
+{
+  "id": "1588",
+  "title": "Acquirer: Logica PLC; Target: CMG PLC",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-logica-plc-target-cmg-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17028",
+  "industries": [],
+  "date_completed": "17 December 2002",
+  "date_completed_iso": "2002-12-17T12:00:00Z",
+  "date_commenced": "27 November 2002",
+  "date_commenced_iso": "2002-11-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Logica PLC"
+  ],
+  "targets": [
+    "CMG PLC"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 5 November 2002, Logica and CMG announced that they had agreed on the terms of a recommended merger between the two companies to create LogicaCMG.",
+    "Market definition": "Markets for the supply of technology for mobile phone short messaging services and for the supply of technology for multimedia messaging services",
+    "Competition analysis": "On 17 December 2002 the Commission decided that it would not intervene in the proposed acquisition of CMG by Logica. The main area of competitive overlap between the merging parties is in the supply of technology for the provision of mobile phone phone short messaging services (SMS) and multimedia messaging services (MMS).   SMS is basically the ability to send text messages from mobile phone to mobile phone.  MMS allows users to send pictures and animations with text and sound and even audio and video clips from mobile phone to mobile phone. Although the merged entity will become the dominant supplier around the world for the provision of SMS technology, there is a competitive alternative as it appears that SMS will eventually be superseded by MMS for mobile phone messaging services.  In regard to MMS technology, the position of the merged entity will be much less dominant as it faces a far greater competitive challenge from rivals.  So far, Logica has failed to secure any contracts for the supply of MMS technology in Australia.  On this basis, the proposed acquisition is unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2430"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "0905",
+  "title": "Transpacific Industries Group Ltd - acquisition of Roads & Robinson Rubbish & Recycling",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-acquisition-of-roads-robinson-rubbish-recycling",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30595",
+  "industries": [
+    "Municipal waste collection and recycling services"
+  ],
+  "date_completed": "27 June 2008",
+  "date_completed_iso": "2008-06-27T12:00:00Z",
+  "date_commenced": "6 June 2008",
+  "date_commenced_iso": "2008-06-06T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Roads & Robinson Rubbish & Recycling"
+  ],
+  "timeline": [
+    {
+      "date": "31 May 2008",
+      "date_iso": "2008-05-31T12:00:00Z",
+      "event": "Transpacific Industries Group Ltd acquired Roads & Robinson Rubbish & Recycling."
+    },
+    {
+      "date": "4 Jun 2008",
+      "date_iso": "2008-06-04T12:00:00Z",
+      "event": "ACCC notified of acquisition."
+    },
+    {
+      "date": "6 Jun 2008",
+      "date_iso": "2008-06-06T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jun 2008",
+      "date_iso": "2008-06-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jun 2008",
+      "date_iso": "2008-06-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group Ltd has acquired Roads & Robinson Rubbish & Recycling.",
+    "Market definition": "The acquisition was considered in the context of: -\tPerth regional market for the collection and transportation of municipal waste; -\tPerth regional market for the supply of waste recycling facilities -\tWA markets for the supply of: -\trecycled glass; -\trecycled paper; -\trecycled cardboard; -\trecycled plastic (PET and HDPE); and -\trecycled metals (steel and aluminium)",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets due to a number of actual and potential competitors who would be likely to constrain the merged firm."
+  }
+}

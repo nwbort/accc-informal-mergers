@@ -1,0 +1,54 @@
+{
+  "id": "0472",
+  "title": "Western Digital Corporation - proposed acquisition of Hitachi Global Storage Technologies Holdings Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/western-digital-corporation-proposed-acquisition-of-hitachi-global-storage-technologies-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45266",
+  "industries": [
+    "Computer hardware"
+  ],
+  "date_completed": "13 December 2011",
+  "date_completed_iso": "2011-12-13T12:00:00Z",
+  "date_commenced": "15 July 2011",
+  "date_commenced_iso": "2011-07-15T12:00:00Z",
+  "total_review_days": 85,
+  "acquirers": [
+    "Western Digital Corporation"
+  ],
+  "targets": [
+    "Hitachi Global Storage Technologies Holdings Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jul 2011",
+      "date_iso": "2011-07-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Aug 2011",
+      "date_iso": "2011-08-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Aug 2011",
+      "date_iso": "2011-08-16T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 25 August 2011 delayed to allow for provision of the information."
+    },
+    {
+      "date": "16 Sep 2011",
+      "date_iso": "2011-09-16T12:00:00Z",
+      "event": "The ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Dec 2011",
+      "date_iso": "2011-12-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Western Digital Corporation (WD) proposed to acquire Hitachi Global Storage Technologies (recently renamed Viviti Technologies)(HGST). WD and HGST manufacture and sell hard disk drives (HDDs) and branded external hard disk drives, also known as external storage devices (ESDs). WD and HGST are both vertically integrated upstream in the manufacturing of key components. In Australia, WD and HGST do not have any manufacturing facilities, subsidiary or registered office. Sales in Australia are made primarily through distributors. The ACCC has conducted its review of this matter concurrently with its assessment of Seagate Technology PLC's (Seagate) proposed acquisition of the HDD business of Samsung Electronics Co Ltd (Samsung). The ACCC has liaised closely with overseas regulators throughout its review.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following HDD global markets: - HDDs for desktop computers - 3.5\" HDDs - HDDs for mobile devices - 2.5\" HDDs - HDDs for consumer electronic devices - both 3.5\" and 2.5\" HDDs - HDDs for 'mission critical' enterprise storage systems - both 3.5\" and 2.5\" HDDs - HDDs for 'business critical' enterprise servers - both 3.5\" and 2.5\" HDDs The ACCC considered that ESDs form a separate product market with a geographic scope limited to the Asia Pacific region.",
+    "Competition analysis": "The proposed acquisition will increase concentration in what are already highly concentrated markets. In particular, the ACCC considered that competition concerns may arise in markets for 3.5\" desktop and 3.5\" consumer electronic HDDs. This is because post-mergers of both WD/HGST and Seagate/Samsung, the number of manufacturers in these HDD markets would reduce from four global suppliers to only two global suppliers. The ACCC also considered competition concerns may arise in the market for 3.5\" business critical HDDs, where Toshiba currently has only a minimal presence. The ACCC considered that HGST is a close competitor to WD, with the vertically-integrated HGST being an industry leader in terms of innovation and product quality. The ACCC therefore considered the removal of the competitive constraint imposed by HGST would likely heighten competition concerns in these markets. On 23 November 2011, the European Commission cleared the WD/HGST transaction subject to conditions requiring the divestment of essential production assets for 3.5\" HDDs, including a production plant located in China, intellectual property and accompanying measures. The transaction cannot be completed until a suitable purchaser has been approved by the European Commission. The ACCC considered that, subject to the divestiture remedy commitments provided by WD, the competition concerns arising from an acquisition of HGST by WD appear likely to be alleviated in the relevant global markets. On this basis, the ACCC has decided not to oppose the proposed acquisition. Should the divestiture remedy commitments provided by WD to the European Commission not be met, the ACCC will review its decision."
+  }
+}

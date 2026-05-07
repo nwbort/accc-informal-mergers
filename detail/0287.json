@@ -1,0 +1,69 @@
+{
+  "id": "0287",
+  "title": "Staples Inc - proposed acquisition of Office Depot Inc (trading as OfficeMax)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/staples-inc-proposed-acquisition-of-office-depot-inc-trading-as-officemax",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "57197",
+  "industries": [
+    "Office Supplies"
+  ],
+  "date_completed": "13 August 2015",
+  "date_completed_iso": "2015-08-13T12:00:00Z",
+  "date_commenced": "24 April 2015",
+  "date_commenced_iso": "2015-04-24T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "Staples Inc"
+  ],
+  "targets": [
+    "Office Depot Inc."
+  ],
+  "timeline": [
+    {
+      "date": "24 Apr 2015",
+      "date_iso": "2015-04-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 May 2015",
+      "date_iso": "2015-05-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Jun 2015",
+      "date_iso": "2015-06-05T12:00:00Z",
+      "event": "ACCC requested further information from Staples."
+    },
+    {
+      "date": "12 Jun 2015",
+      "date_iso": "2015-06-12T12:00:00Z",
+      "event": "ACCC requested further information from OfficeMax."
+    },
+    {
+      "date": "15 Jun 2015",
+      "date_iso": "2015-06-15T12:00:00Z",
+      "event": "ACCC requested further information from Staples."
+    },
+    {
+      "date": "18 Jun 2015",
+      "date_iso": "2015-06-18T12:00:00Z",
+      "event": "Former proposed decision date of 9 July 2015 delayed to allow provision of requested information."
+    },
+    {
+      "date": "14 Jul 2015",
+      "date_iso": "2015-07-14T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "13 Aug 2015",
+      "date_iso": "2015-08-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Staples, Inc. proposes to acquire Office Depot, Inc. Staples Inc.'s operating subsidiary in Australia is Staples Australia Pty Limited. Office Depot Inc.'s operating subsidiary in Australia is OfficeMax Australia Limited.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the market for supply of office products to large corporate and government customers in Australia. The ACCC did not consider it necessary to precisely identify or define 'large corporate and government customers' as it would not be determinative of the ACCC's competition assessment.",
+    "Competition analysis": "The proposed acquisition would bring together the two largest suppliers to large corporate and government customers in Australia. However, the ACCC decided that the proposed acquisition is unlikely to substantially lessen competition in the relevant market for the following reasons: - office products are generally highly commoditised and customer switching costs are low. These features of the market would facilitate switching by large customers in the event that the merged entity attempted to increase prices and/or offer lower levels of service; - the merged entity's main competitors would have the ability and incentive to expand supply in the event that the merged entity attempted to increase prices and/or offer lower levels of service. Lyreco and COS are both capable of high volume business-to-business supply. They both have extensive product ranges, wide geographic distribution and electronic data interface capability. Lyreco is a well-resourced global supplier and COS's share of supply has been growing. Lyreco and COS's smaller shares of supply understate their current competitive impact in the market; - it is likely that Officeworks, which is the largest supplier in the wider office products industry in Australia as a result of its retail operations, will in the future be a credible competitive threat to the merged entity for supply to large customers. Officeworks already supplies medium-sized corporate customers and some large corporate customers, and has been actively tendering to large government customers; and - while large customers generally prefer their office products supplier to be a 'one-stop shop', category specialists and original equipment manufacturers such as Fuji Xerox and Canon provide an alternative source of supply for large customers that are prepared to unbundle or disaggregate their purchases. Large customers may also use these suppliers' prices to benchmark against Staples during negotiations."
+  }
+}

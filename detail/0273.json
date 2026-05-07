@@ -1,0 +1,44 @@
+{
+  "id": "0273",
+  "title": "Pact Group Pty Ltd - proposed acquisition of Power Plastics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-power-plastics-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58792",
+  "industries": [
+    "Plastic packaging products"
+  ],
+  "date_completed": "18 February 2016",
+  "date_completed_iso": "2016-02-18T12:00:00Z",
+  "date_commenced": "14 December 2015",
+  "date_commenced_iso": "2015-12-14T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Power Plastics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "14 Dec 2015",
+      "date_iso": "2015-12-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Jan 2016",
+      "date_iso": "2016-01-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Feb 2016",
+      "date_iso": "2016-02-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group Pty Ltd proposed to acquire 100% of the shares in Power Plastics Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - a market for the manufacture and supply of polyethylene terephthalate (PET) containers (including PET jars, bottles and other containers) in NSW; and - a market for the manufacture and supply of non-beverage rigid plastic containers (being non-PET containers including jars, bottles and other containers up to 10L in size using low-density polyethylene (LDPE), high-density polyethylene (HDPE), and polypropylene (PP)) in NSW. However, the ACCC did not consider it necessary to reach a definitive view on the exact boundaries of the markets identified. In particular: - the ACCC did not reach a definitive view on whether there was a single market for the manufacture and supply of PET containers or separate markets for those PET containers manufactured on two-stage equipment (such as PET beverage bottles) and PET containers manufactured on single stage equipment. - the ACCC's market inquiries suggested that competition for the manufacture and supply of non-beverage rigid plastic containers with capacity up to approximately 300ml may occur over a broader geographic region than competition for the manufacture and supply of larger containers. These smaller containers can be stacked and shipped more efficiently than larger containers and accordingly have lower freight costs per unit.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition would be likely to lessen competition, but that it did not have sufficient information to be satisfied that the lessening of competition would be substantial. PET containers The ACCC understands that Pact is the second largest supplier of PET containers in NSW, and that Power Plastics is the third largest supplier. Accordingly, the proposed acquisition would remove a firm that is a significant competitor in the market. Nonetheless, the ACCC considered that if the merged firm attempted to increase the price of, or decrease service levels associated with the supply of, PET containers, it would be constrained to some extent by: - alternative manufacturers and suppliers of PET containers in NSW. While these manufacturers are currently not as large as Pact or Power Plastics, some could possibly expand to meet the requirements of large customers and constrain the merged firm - the countervailing power held by some customers who would be able to bypass the merged firm by either sponsoring the expansion of smaller manufacturers or commencing in-house PET container production. Non-beverage rigid plastic containers The ACCC understands that Pact is the largest supplier of non-beverage rigid plastic containers in NSW, and that Power Plastics is the second or third largest. Again, the ACCC considered Power Plastics to be a significant competitor in the market. However, the ACCC considered that the merged firm would be constrained to some extent by alternative smaller manufacturers, some of whom could expand, and by the countervailing power held by some customers who could sponsor expansion by smaller manufacturers or commence in-house manufacture."
+  }
+}

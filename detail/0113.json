@@ -1,0 +1,59 @@
+{
+  "id": "0113",
+  "title": "Cleanaway Waste Management Limited - Certain Suez Recycling & Recovery Pty Ltd post-collection waste assets in Sydney",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cleanaway-waste-management-limited-certain-suez-recycling-recovery-pty-ltd-post-collection-waste-assets-in-sydney",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Waste Management"
+  ],
+  "date_completed": "9 December 2021",
+  "date_completed_iso": "2021-12-09T12:00:00Z",
+  "date_commenced": "16 June 2021",
+  "date_commenced_iso": "2021-06-16T12:00:00Z",
+  "total_review_days": 125,
+  "acquirers": [
+    "Cleanaway Waste Management Limited"
+  ],
+  "targets": [
+    "Certain Suez Recycling & Recovery Pty Ltd post-collection waste assets in Sydney"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jun 2021",
+      "date_iso": "2021-06-16T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Jul 2021",
+      "date_iso": "2021-07-02T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "1 Sep 2021",
+      "date_iso": "2021-09-01T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (2 September 2021) delayed to allow Cleanaway more time to provide additional information."
+    },
+    {
+      "date": "8 Oct 2021",
+      "date_iso": "2021-10-08T12:00:00Z",
+      "event": "ACCC received further information from Cleanaway."
+    },
+    {
+      "date": "1 Dec 2021",
+      "date_iso": "2021-12-01T12:00:00Z",
+      "event": "Former proposed date for announcement of findings (2 December 2021) delayed."
+    },
+    {
+      "date": "9 Dec 2021",
+      "date_iso": "2021-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cleanaway Waste Management Limited ( Cleanaway ) proposes to acquire certain Suez Recycling & Recovery Pty Ltd ( Suez ) post-collection waste assets in Sydney. These include a non-putrescible landfill at Kemps Creek, a putrescible landfill at Lucas Heights, and five transfer stations capable of processing putrescible waste across Sydney. Cleanaway and Suez both supply waste processing and disposal services in Australia.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in markets for waste processing and disposal services in Sydney, including for: putrescible waste disposal non-putrescible waste disposal contaminated soils disposal. The ACCC also considered the impact of the proposed acquisition on markets for other waste services that use the relevant disposal services, in particular, national and multi-regional commercial and industrial (C&I) waste collection services. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition or scope of these markets (for example, if transfer stations and landfills are separate markets or part of a single waste disposal market), as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the transaction is unlikely to substantially lessen competition. For putrescible waste disposal, Cleanaway has a small presence in Sydney with only one transfer station and no landfill. Suez and Veolia are the only fully vertically integrated waste processors in Sydney, both with a network of transfer stations and a putrescible landfill. The ACCC found that the proposed acquisition was unlikely to significantly alter the competitive dynamics for putrescible waste disposal as a similar market structure would remain post-acquisition to that already in place. The proposed acquisition would transfer a significant vertically integrated network, and any associated market power, from one of three large ‘tier 1’ competitors to another. That is, it would strengthen the vertical integration of Cleanaway and weaken the vertical integration of Suez. For non-putrescible waste processing and disposal, and contaminated soils disposal in Sydney, the ACCC concluded that there would remain a number of alternatives to Cleanaway that would provide a competitive constraint on its operations post-acquisition. For national and multi-regional C&I waste collection, the ACCC found that although the proposed acquisition could potentially improve Cleanaway’s position in Sydney, it would not, in itself, remove Suez from the market. Cleanaway would not acquire any collections assets with the proposed acquisition. The ACCC is separately reviewing Veolia’s proposed acquisition of Suez. Given the factors above, the ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any relevant market in Australia."
+  }
+}

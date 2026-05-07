@@ -1,0 +1,57 @@
+{
+  "id": "0074",
+  "title": "Greencross - Habitat",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/greencross-habitat",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Pet supplies and services"
+  ],
+  "date_completed": "29 November 2023",
+  "date_completed_iso": "2023-11-29T12:00:00Z",
+  "date_commenced": "26 May 2023",
+  "date_commenced_iso": "2023-05-26T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Greencross Pty Ltd"
+  ],
+  "targets": [
+    "One Stop Pets Pty Ltd and D&R Pantalleresco Pty Ltd, trading as Habitat Pet Supplies"
+  ],
+  "timeline": [
+    {
+      "date": "26 May 2023",
+      "date_iso": "2023-05-26T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jun 2023",
+      "date_iso": "2023-06-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Jul 2023",
+      "date_iso": "2023-07-06T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties.  Former provisional date for announcement of ACCC's findings (10 August 2023) is delayed.  The ACCC will announce a provisional decision date in due course."
+    },
+    {
+      "date": "28 Jul 2023",
+      "date_iso": "2023-07-28T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "8 Aug 2023",
+      "date_iso": "2023-08-08T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from Greencross.  Former provisional date for announcement of findings (14 September 2023) is delayed.  The ACCC will announce a provisional decision date in due course."
+    },
+    {
+      "date": "29 Nov 2023",
+      "date_iso": "2023-11-29T12:00:00Z",
+      "event": "ACCC discontinued its public review after Greencross advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Greencross Pty Ltd ( Greencross ) proposes to acquire One Stop Pets Pty Ltd and D&R Pantalleresco Pty Ltd, trading as Habitat Pet Supplies ( Habitat ). Habitat is a privately-owned and operated retailer of pet products and services with a network of five specialty pet retail stores in Melbourne, as well as an online store. It supplies a wide range of pet supplies including food, accessories, health products and pet services such as grooming and DIY dog washing facilities. Its retail stores are located at Altona North, Burwood, North Melbourne, Port Melbourne and Chirnside Park. Greencross owns and operates specialty pet retail stores (through Petbarn and City Farmers retail banners), veterinary clinics and veterinary hospital businesses across Australia. Greencross also owns PetWise Pty Ltd, a wholesale distributor of pet and animal supplies, and Vepa Labs Pty Ltd (Vepalabs), a supplier of veterinary pathology and diagnostic equipment, devices and consumables for in-clinic use. Greencross and Habitat both supply pet food, pet accessories, pet health products and pet services."
+  }
+}

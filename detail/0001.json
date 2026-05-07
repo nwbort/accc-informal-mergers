@@ -1,0 +1,54 @@
+{
+  "id": "0001",
+  "title": "Coles – proposed acquisition of a leasehold interest at Mt Atkinson Major Town Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-%E2%80%93-proposed-acquisition-of-a-leasehold-interest-at-mt-atkinson-major-town-centre",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Supermarket"
+  ],
+  "date_completed": "19 December 2025",
+  "date_completed_iso": "2025-12-19T12:00:00Z",
+  "date_commenced": "25 September 2025",
+  "date_commenced_iso": "2025-09-25T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Coles Supermarkets Australia Pty Ltd"
+  ],
+  "targets": [
+    "A leasehold interest at Mt Atkinson Major Town Centre"
+  ],
+  "timeline": [
+    {
+      "date": "25 Sep 2025",
+      "date_iso": "2025-09-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Oct 2025",
+      "date_iso": "2025-10-08T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "27 Oct 2025",
+      "date_iso": "2025-10-27T12:00:00Z",
+      "event": "ACCC requested further information from the acquirer. Former provisional date for announcement of findings (20 November 2025) is delayed.  ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "12 Dec 2025",
+      "date_iso": "2025-12-12T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "19 Dec 2025",
+      "date_iso": "2025-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles Supermarkets Australia Pty Ltd ( CSA ), a subsidiary of Coles Group Limited ( Coles ) proposed to acquire a leasehold interest to establish a new large-format supermarket at Mt Atkinson Major Town Centre ( Mt Atkinson ) in Victoria. Coles is an ASX-listed company that operates more than 800 supermarkets nationwide. Coles’ large-format stores typically offer standard grocery items, as well as a full-service bakery and deli service. Coles also operates smaller format ‘Coles Local’ supermarkets with a smaller range of grocery items. Coles operates an online grocery shopping and delivery platform named ‘Coles Online’, which allows customers to shop for groceries with either home delivery options or pick up from ‘Click&Collect’ locations at existing Coles stores. The lessor for the Mt Atkinson location is Mensch Investments No. 3 Partnership, the landholder and developer of the Mt Atkinson Major Town Centre site. Coles also proposes to acquire a leasehold interest to establish a new large-format supermarket at Deanside Central Town Centre ( Deanside Central ), Victoria. This is a separate proposed acquisition in the same region of west Melbourne. The ACCC therefore considered the Mt Atkinson and Deanside Central proposed acquisitions concurrently (together the Proposed Acquisitions ). Coles Group Property Development Limited ( CGPD ), a subsidiary of Coles, owns an undeveloped site at Kororoit, which is located approximately half-way between the proposed Mt Atkinson and Deanside Central stores ( the Kororoit Site ). The Kororoit Site was subject to a sale agreement and agreement for lease between CGPD and CSA and Neale Deanside Developments Pty Ltd trading as Oreana. To enable the ACCC to factor divestiture of the Kororoit Site into its public review of the Proposed Acquisitions, CGPD and CSA provided an undertaking to the ACCC to divest the Kororoit Site ( the Proposed Divestiture ).",
+    "Market definition": "The ACCC considered the Proposed Acquisitions in the retail supply of groceries and household products in local areas within approximately 3km or 5km radii of Mt Atkinson and Deanside Central ( local markets ). While there are a range of grocery retailers in Australia, supermarkets offer customers a broad range of packaged and fresh groceries in one location. Supermarkets with similar offerings, in terms of their format, size, breadth / depth of product range and services are likely to be closer substitutes to one another. As the Proposed Acquisitions were for the development of large format supermarket sites, the ACCC focused on such supermarkets, and prospective supermarkets, in the local area. However, it also considered medium and small format existing and prospective supermarket sites. The ACCC did not consider convenience stores were part of the relevant product market. The Mt Atkinson and Deanside communities are both relatively new and undergoing development. They are in the Melton local government area, located around 25km north-west of Melbourne’s CBD. In this context, the ACCC focused on supermarkets and prospective supermarkets within approximately 3km of each target store but also gave consideration to supermarkets within approximately 5km. For the purposes of this assessment, it was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "The ACCC was concerned that the Proposed Acquisitions may have led to a substantial lessening of competition in the relevant markets. This may have led to higher prices and/or reduced quality, range or service in these markets. Coles already had a significant share of large format supermarkets in the local areas, each of which faced little competitive pressure from ALDI and independent grocery retailers. When present, independent supermarkets provide an important source of competitive constraint on the large format supermarkets of Coles and Woolworths. Information provided to the ACCC indicated the Proposed Acquisitions would likely give Coles control of a substantial proportion of sites suitable for large format supermarkets within the local market of each site. This would particularly be the case for consumers between the Mt Atkinson and Deanside Central sites, in the area near the Kororoit Site. The ACCC was concerned the Proposed Acquisitions were likely to increase barriers to entry and expansion for rival supermarkets to enter the relevant local markets. This situation may have continued for a long period of time, given the long leases for the Mt Atkinson and Deanside Central sites, and long development timeframes for supermarket sites which are not already identified in relevant local area planning. The ACCC found the Proposed Divestiture would be likely to prevent a substantial lessening of competition resulting from the Proposed Acquisitions by ensuring the Kororoit Site is available to a rival supermarket operator. Refer to the undertaking below for further information. In assessing the Proposed Acquisitions, the ACCC closely considered the 2025 Supermarkets Inquiry findings, including that the Australian supermarket industry is highly concentrated and that limited availability of suitable sites for supermarket retailers is a key barrier to entry. The ACCC observed that the Melton Growth Corridor is expected to experience high population growth in coming years, so it is important that existing competition concerns are not carried into these new suburbs and their residents. The ACCC identified that the Victorian Government and Melton City Council are planning for additional sites in the Melton Growth Corridor suitable for future supermarket development, which allows for future competitive entry."
+  }
+}

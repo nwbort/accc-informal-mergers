@@ -1,0 +1,54 @@
+{
+  "id": "0018",
+  "title": "Lactalis (BSA S.A.S.) - businesses within the Fonterra Co-operative Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lactalis-bsa-sas-businesses-within-the-fonterra-co-operative-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "10 July 2025",
+  "date_completed_iso": "2025-07-10T12:00:00Z",
+  "date_commenced": "2 May 2025",
+  "date_commenced_iso": "2025-05-02T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "Lactalis (BSA S.A.S.)"
+  ],
+  "targets": [
+    "businesses within the Fonterra Co-operative Group"
+  ],
+  "timeline": [
+    {
+      "date": "2 May 2025",
+      "date_iso": "2025-05-02T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 May 2025",
+      "date_iso": "2025-05-16T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "18 Jun 2025",
+      "date_iso": "2025-06-18T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of ACCC's findings (26 June 2025) was delayed."
+    },
+    {
+      "date": "7 Jul 2025",
+      "date_iso": "2025-07-07T12:00:00Z",
+      "event": "ACCC received further information from the parties on 2 July 2025. Timeline recommenced."
+    },
+    {
+      "date": "10 Jul 2025",
+      "date_iso": "2025-07-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "BSA S.A.S. ( Lactalis ) proposes to acquire the following businesses within the Fonterra Co-operative Group ( Fonterra ): Fonterra’s consumer business globally, and Fonterra’s dairy ingredients and food services businesses in Australia. Lactalis is a global dairy group headquartered in Laval, France. In Australia, it has approximately 500 farmer-suppliers across New South Wales, Queensland, South Australia, Tasmania, Victoria and Western Australia. Lactalis processes raw milk into dairy products such as fresh milk, cheeses, chilled yellow spreads and yoghurts, as well as dairy ingredients such as milk powders. It supplies products to retail and food services businesses through brands such as Pauls, Vaalia and Kraft. Fonterra is a New Zealand-based dairy co-operative which sources raw milk from around 650 Australian farmers in Victoria, Tasmania, and parts of South Australia and New South Wales. In Australia, Fonterra acquires raw milk and processes it into a range of dairy products as part of its ingredients, consumer and food service businesses. Its brands include Mainland, Western Star and Perfect Italiano, and it also holds the licence to the Bega brand for natural and processed cheddar cheese products in Australia. Lactalis and Fonterra overlap in various parts of the dairy supply chain, including: the acquisition of raw milk from dairy farmers and milk brokers, primarily in Victoria and Tasmania the processing and production of dairy products (including cheese, dairy spreads, cream, custard and yoghurt) and dairy ingredients (including milk fat, whey powders, lactose and dairy powders), and the supply of dairy products and dairy ingredients to retailers and food service outlets.",
+    "Market definition": "For the purposes of this assessment, the ACCC examined the impact of the proposed acquisition on: the acquisition of raw milk and the supply of milk processing services in the dairy regions of Gippsland (eastern Victoria), the Murray (northern Victoria and southern New South Wales), western Victoria (extending into south-eastern South Australia) and Tasmania. the supply of dairy products to wholesalers and retailers in Australia , which includes fresh drinking milk, everyday or “hard” cheeses, chilled yellow spreads (such as butter), cream, and dairy ingredients, and the supply of dairy products to food service businesses in Australia , specifically butter, everyday cheeses, cream and ultra-high-temperature ( UHT ) long-life milk.",
+    "Competition analysis": "In relation to markets for the acquisition of raw milk and the supply of milk processing services in the Gippsland, Murray, western Victoria and Tasmania regions, the ACCC found that: while the proposed acquisition would remove competition between Lactalis and Fonterra, Lactalis would continue to be constrained by rival processors in each of the relevant regional areas of competition. in some areas, the threat of timely and sustained new entry or expansion may provide an additional constraint on Lactalis. within the identified geographic regions, Lactalis and Fonterra are not particularly close competitors for the acquisition of raw milk, as they often target different farms due to their differing production profiles. In particular, Lactalis requires a more constant supply of raw milk throughout the year, whereas Fonterra is more likely to seek milk from farms producing a “peak” volume over spring. In relation to markets for the supply of dairy products to wholesalers and retailers in Australia, the ACCC found that: the parties’ overlap in these markets is relatively limited due to their different production profiles. Fonterra primarily produces products such as everyday cheese, chilled yellow spreads and dairy ingredients which can be stored for long periods or exported, whereas Lactalis produces a wide range of dairy products, but with a greater focus than Fonterra on products consumed by the domestic market such as fresh drinking milk and yoghurt. in relation to cheese, Lactalis would continue to be constrained by competition from domestic processors in Australia, as well as from imports. in relation to chilled yellow spreads, there is minimal overlap between the parties, and Lactalis would continue to be constrained by competition from domestic suppliers and imports. in relation to cream, Lactalis would continue to have a relatively small market share and rival processors would continue to provide competition. in relation to fresh drinking milk, rival processors would continue to operate. Lactalis would also face a degree of constraint due to the countervailing power of some large retailers, in particular Woolworths and Coles. In relation to markets for the supply of dairy products to food service businesses, the ACCC found that: the parties are not particularly close competitors in any dairy product category, with the exception of cream. rival processors and suppliers of dairy products are likely to provide an effective competitive constraint on the merged firm across all categories. Lactalis would also be constrained by both existing strong import competition and the threat of increasing imports in the supply of butter and cheese."
+  }
+}

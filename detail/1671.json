@@ -1,0 +1,31 @@
+{
+  "id": "1671",
+  "title": "Acquirer: Little Company of Mary Health Care Ltd; Target: Wagga Wagga Day Surgery",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-little-company-of-mary-health-care-ltd-target-wagga-wagga-day-surgery",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15572",
+  "industries": [],
+  "date_completed": "19 March 2002",
+  "date_completed_iso": "2002-03-19T12:00:00Z",
+  "date_commenced": "1 February 2002",
+  "date_commenced_iso": "2002-02-01T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Little Company of Mary Health Care Ltd"
+  ],
+  "targets": [
+    "Wagga Wagga Day Surgery"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Calvary Health Care Riverina proposes to acquire Wagga Wagga Day Surgery",
+    "Market definition": "The provision of Day Surgery Procedures in South Western NSW",
+    "Competition analysis": "The Commission considered that the proposed acquisition was unlikely to lead to a substantial lessening of competition in the market for Day Surgery Procedures in South Western NSW because: - It appears that the barriers to entry to the relevant market are not high: - It appears that there are a number of available substitutes in the relevant market; and - It appears that there is countervailing power at the hands of the private health funds. In its consideration of this matter the Commission conducted extensive market enquiries including among private and public hospitals, day surgeries and private clinics in south-western NSW including Albury and Wagga Wagga, as well as the relevant Area Health Service and health funds.  The Commission also received submissions from a number of local doctors having a financial interest in the transaction.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "8611"
+  }
+}

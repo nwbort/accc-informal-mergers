@@ -1,0 +1,44 @@
+{
+  "id": "0495",
+  "title": "Coates Hire Operations Pty Limited - proposed acquisition of Tru-Blu Hire Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coates-hire-operations-pty-limited-proposed-acquisition-of-tru-blu-hire-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46341",
+  "industries": [
+    "Equipment Hire"
+  ],
+  "date_completed": "13 September 2011",
+  "date_completed_iso": "2011-09-13T12:00:00Z",
+  "date_commenced": "8 August 2011",
+  "date_commenced_iso": "2011-08-08T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "Coates Hire Operations Pty Limited"
+  ],
+  "targets": [
+    "Tru-Blu Hire Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Aug 2011",
+      "date_iso": "2011-08-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Aug 2011",
+      "date_iso": "2011-08-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Sep 2011",
+      "date_iso": "2011-09-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coates Hire Operations Pty Limited proposed to acquire the assets of Tru-Blu Hire Australia Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - state markets for the supply of general equipment hire in South Australia and the Northern Territory; and - regional markets for the supply of general equipment hire in the north and south of Western Australia.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any market. Factors informing this conclusion included: - the existence of a number of competitors, both general and specialist equipment hire companies, in each market; - Tru-Blu's limited presence in each market; and - barriers to expansion are relatively low."
+  }
+}

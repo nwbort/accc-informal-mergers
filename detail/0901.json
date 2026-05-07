@@ -1,0 +1,45 @@
+{
+  "id": "0901",
+  "title": "Pact Group Pty Ltd - proposed acquisition of Viscount Plastics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-viscount-plastics-pty-ltd-0",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31870",
+  "industries": [
+    "Packaging products"
+  ],
+  "date_completed": "1 July 2008",
+  "date_completed_iso": "2008-07-01T12:00:00Z",
+  "date_commenced": "30 April 2008",
+  "date_commenced_iso": "2008-04-30T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Viscount Plastics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Apr 2008",
+      "date_iso": "2008-04-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 May 2008",
+      "date_iso": "2008-05-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Jun 2008",
+      "date_iso": "2008-06-25T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "1 Jul 2008",
+      "date_iso": "2008-07-01T12:00:00Z",
+      "event": "Parties informed the ACCC that the proposed acquisition would not proceed and withdrew their request for an informal review."
+    }
+  ],
+  "body_sections": {}
+}

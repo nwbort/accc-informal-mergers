@@ -1,0 +1,44 @@
+{
+  "id": "0748",
+  "title": "M2 Telecommunications Group Limited - proposed acquisition of Commander Communications Limited's small and medium business assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/m2-telecommunications-group-limited-proposed-acquisition-of-commander-communications-limiteds-small-and-medium-business-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36636",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "18 June 2009",
+  "date_completed_iso": "2009-06-18T12:00:00Z",
+  "date_commenced": "5 June 2009",
+  "date_commenced_iso": "2009-06-05T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "M2 Telecommunications Group Limited"
+  ],
+  "targets": [
+    "Commander Communications Limited"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jun 2009",
+      "date_iso": "2009-06-05T12:00:00Z",
+      "event": "ACCC commenced informal review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Jun 2009",
+      "date_iso": "2009-06-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Jun 2009",
+      "date_iso": "2009-06-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 2 June 2009, M2 Telecommunications announced its intention to acquire all of the small and medium business assets and associated intellectual property of Commander Communications.",
+    "Market definition": "The ACCC did not consider it necessary to form a definitive view on the relevant markets as the outcome of the competition analysis was considered likely to be the same regardless of whether a broader or narrower telecommunications services market was adopted.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition for the supply of fixed voice, mobile or data services, including to small and medium enterprises, given that the merged firm is expected to be constrained by Telstra and Optus and, to a lesser extent, by the numerous smaller competitors that can offer a similar service."
+  }
+}

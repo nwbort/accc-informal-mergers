@@ -1,0 +1,44 @@
+{
+  "id": "0499",
+  "title": "The Western Union Company - proposed acquisition of Travelex GBP Australia Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/the-western-union-company-proposed-acquisition-of-travelex-gbp-australia-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46387",
+  "industries": [
+    "Foreign exchange services"
+  ],
+  "date_completed": "22 August 2011",
+  "date_completed_iso": "2011-08-22T12:00:00Z",
+  "date_commenced": "15 July 2011",
+  "date_commenced_iso": "2011-07-15T12:00:00Z",
+  "total_review_days": 27,
+  "acquirers": [
+    "The Western Union Company"
+  ],
+  "targets": [
+    "Travelex GBP Australia Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jul 2011",
+      "date_iso": "2011-07-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Aug 2011",
+      "date_iso": "2011-08-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Aug 2011",
+      "date_iso": "2011-08-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Western Union Company (Western Union) proposed to acquire Travelex Global Business Payments (TGBP).",
+    "Market definition": "The ACCC adopted a purposive approach to market definition and considered the competitive effects of the proposed acquisition in the context of a national market for the supply of foreign exchange services (including international transfers and foreign exchange risk management services) to business customers (small to medium enterprise customers, lower corporate customers and micro-businesses).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. In forming this view the ACCC considered that a number of alternative providers of foreign exchange services to business customers existed (including retail bank and foreign bank competitors and other non-bank providers) which are likely to continue to provide a competitive constraint on the merged entity post acquisition."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "0202",
+  "title": "Pacific National Pty Ltd / Linfox - proposed acquisitions of Intermodal assets from Aurizon",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pacific-national-pty-ltd-linfox-proposed-acquisitions-of-intermodal-assets-from-aurizon",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "62542",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "19 July 2018",
+  "date_completed_iso": "2018-07-19T12:00:00Z",
+  "date_commenced": "27 October 2017",
+  "date_commenced_iso": "2017-10-27T12:00:00Z",
+  "total_review_days": 78,
+  "acquirers": [
+    "Pacific National Pty Ltd / Linfox"
+  ],
+  "targets": [
+    "Intermodal assets from Aurizon"
+  ],
+  "timeline": [
+    {
+      "date": "27 Oct 2017",
+      "date_iso": "2017-10-27T12:00:00Z",
+      "event": "ACCC commenced informal review under the Merger Process Guidelines."
+    },
+    {
+      "date": "17 Nov 2017",
+      "date_iso": "2017-11-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Nov 2017",
+      "date_iso": "2017-11-29T12:00:00Z",
+      "event": "ACCC requested further information from Pacific National."
+    },
+    {
+      "date": "6 Dec 2017",
+      "date_iso": "2017-12-06T12:00:00Z",
+      "event": "ACCC requested further information from Aurizon."
+    },
+    {
+      "date": "18 Jan 2018",
+      "date_iso": "2018-01-18T12:00:00Z",
+      "event": "Former proposed decision date of 1 February 2018 delayed to allow provision of requested information."
+    },
+    {
+      "date": "31 Jan 2018",
+      "date_iso": "2018-01-31T12:00:00Z",
+      "event": "ACCC recieved further information from Aurizon."
+    },
+    {
+      "date": "28 Feb 2018",
+      "date_iso": "2018-02-28T12:00:00Z",
+      "event": "ACCC received further information from Pacific National."
+    },
+    {
+      "date": "15 Mar 2018",
+      "date_iso": "2018-03-15T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns, and a draft proposed s 87B undertaking offered by Pacific National in relation to the Acacia Ridge Terminal."
+    },
+    {
+      "date": "3 Apr 2018",
+      "date_iso": "2018-04-03T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues and proposed 87B undertaking."
+    },
+    {
+      "date": "2 May 2018",
+      "date_iso": "2018-05-02T12:00:00Z",
+      "event": "ACCC requested further information from Pacific National and Aurizon. Former provisional date for announcement of findings (24 May 2018) delayed."
+    },
+    {
+      "date": "7 Jun 2018",
+      "date_iso": "2018-06-07T12:00:00Z",
+      "event": "ACCC received further information from Pacific National and Aurizon."
+    },
+    {
+      "date": "29 Jun 2018",
+      "date_iso": "2018-06-29T12:00:00Z",
+      "event": "Former proposed decision date of 5 July 2018 delayed to allow more time to consider information provided by parties and market participants."
+    },
+    {
+      "date": "19 Jul 2018",
+      "date_iso": "2018-07-19T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisitions and not accept a s 87B undertaking proffered by Pacific National. The ACCC instituted proceedings in the Federal Court of Australia against Pacific National and Aurizon, and their related bodies corporate, alleging contraventions of sections 45 and 50 of the CCA."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "* During the course of the review the ACCC also made a number of document and information requests to Pacific National and Aurizon that are not separately identified in the entries above. Collectively, the parties took 44 business days to respond to these other requests."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 14 August 2017, Aurizon Holdings Limited (Aurizon) announced its intention to exit its intermodal business through: - the proposed sale of Aurizon's Acacia Ridge Intermodal Terminal to Pacific National Pty Ltd (Pacific National) (Acacia Ridge Acquisition) - the proposed sale of Aurizon's Queensland Intermodal Business to Pacific National, following which the pick-up and delivery side of that business would be transferred to Linfox (Queensland Intermodal Acquisition) - the closure of the remainder of Aurizon's intermodal business, being its interstate intermodal business. The ACCC investigated the Acacia Ridge Acquisition and the Queensland Intermodal Acquisition as part of a broader review of Aurizon's exit from its intermodal business.",
+    "Market definition": "As the matter is now the subject of court proceedings, the ACCC will not be making further public statements.",
+    "Competition analysis": "As the matter is now the subject of court proceedings, the ACCC will not be making further public statements."
+  }
+}

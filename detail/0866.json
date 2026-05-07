@@ -1,0 +1,49 @@
+{
+  "id": "0866",
+  "title": "InvoCare Limited - acquisition of Christian Funeral Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/invocare-limited-acquisition-of-christian-funeral-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31485",
+  "industries": [
+    "Funerals"
+  ],
+  "date_completed": "10 September 2008",
+  "date_completed_iso": "2008-09-10T12:00:00Z",
+  "date_commenced": "4 August 2008",
+  "date_commenced_iso": "2008-08-04T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "InvoCare Limited"
+  ],
+  "targets": [
+    "Christian Funeral Company"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2008",
+      "date_iso": "2008-08-04T12:00:00Z",
+      "event": "ACCC became aware that the acquisition had been completed."
+    },
+    {
+      "date": "4 Aug 2008",
+      "date_iso": "2008-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Sep 2008",
+      "date_iso": "2008-09-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Sep 2008",
+      "date_iso": "2008-09-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "InvoCare Ltd has acquired Christian Funeral Company",
+    "Market definition": "The acquisition was considered  in the context of a market for the supply of funeral direction services in the Perth region.",
+    "Competition analysis": "On 10 September 2008, the ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included the presence of a number of competitors in the region and the fact that no vertical integration issues arose as a result of the acquisition."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1533",
+  "title": "Acquirer: Medical Benefits Fund (MBF); Target: NRMA Health",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-medical-benefits-fund-mbf-target-nrma-health",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18026",
+  "industries": [],
+  "date_completed": "29 July 2003",
+  "date_completed_iso": "2003-07-29T12:00:00Z",
+  "date_commenced": "3 July 2003",
+  "date_commenced_iso": "2003-07-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Medical Benefits Fund (MBF)"
+  ],
+  "targets": [
+    "NRMA Health"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Medical Benefits Fund of Australia Limited (MBF) proposes to acquire NRMA Health Insurance Pty Limited (NRMA).",
+    "Market definition": "State based markets for the supply of private health insurance and the state based or regional markets for the acquisition of private hospital services by health funds.",
+    "Competition analysis": "The Commission considered that the proposed was unliekly to substantially lessen competition in the relevant market due to: *Barriers to entry are not insignificant and the barriers to expansion are not low; *There are a number of alternative suppliers to whom customers could turn; *Customers of MBF would appear to have some countervailing power in the form of alternative sources of supply; and *The proposed acquisition would not appear to remove a vigorous and effective competitor in the relevant markets.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7421"
+  }
+}

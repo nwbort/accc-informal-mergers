@@ -1,0 +1,31 @@
+{
+  "id": "1666",
+  "title": "Acquirer: Kronos Inc; Target: Australian Timewise Systems Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-kronos-inc-target-australian-timewise-systems-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "13213",
+  "industries": [],
+  "date_completed": "27 March 2002",
+  "date_completed_iso": "2002-03-27T12:00:00Z",
+  "date_commenced": "2 March 2001",
+  "date_commenced_iso": "2001-03-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Kronos Inc"
+  ],
+  "targets": [
+    "Australian Timewise Systems Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Kronos Incorporated (\"Kronos\") is proposing to acquire all of the issued shares in Australian Timewise Systems Pty Ltd (\"ATS\").",
+    "Market definition": "Employee time management, productivity and attendance software.",
+    "Competition analysis": "The Commission noted that its concentration thresholds were not crossed. In addition, imports hold more than 10% of the market and customers appear to have a degree of countervailing power.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "7855"
+  }
+}

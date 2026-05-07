@@ -1,0 +1,59 @@
+{
+  "id": "1188",
+  "title": "Origin Energy Ltd - proposed acquisition of Sun Gas",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/origin-energy-ltd-proposed-acquisition-of-sun-gas",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25753",
+  "industries": [
+    "Natural gas"
+  ],
+  "date_completed": "27 November 2006",
+  "date_completed_iso": "2006-11-27T12:00:00Z",
+  "date_commenced": "9 August 2006",
+  "date_commenced_iso": "2006-08-09T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Origin Energy Limited"
+  ],
+  "targets": [
+    "Sun Gas"
+  ],
+  "timeline": [
+    {
+      "date": "9 Aug 2006",
+      "date_iso": "2006-08-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "4 Sep 2006",
+      "date_iso": "2006-09-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "27 Sep 2006",
+      "date_iso": "2006-09-27T12:00:00Z",
+      "event": "ACCC requested further information from Origin.  Timeline suspended."
+    },
+    {
+      "date": "11 Oct 2006",
+      "date_iso": "2006-10-11T12:00:00Z",
+      "event": "ACCC advised Origin that it had serious competition concerns & undertaking would be required."
+    },
+    {
+      "date": "12 Oct 2006",
+      "date_iso": "2006-10-12T12:00:00Z",
+      "event": "ACCC gives Origin further time to make corporate decisions and seek information."
+    },
+    {
+      "date": "27 Nov 2006",
+      "date_iso": "2006-11-27T12:00:00Z",
+      "event": "AGL announced as winning bidder for Sun Gas.  Negotiations discontinued."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Origin sought to acquire Sun Gas, a gas retailing business that was being privatised by the Queensland Government.",
+    "Market definition": "For detailed market definition refer to Public Competition Assessment below.",
+    "Competition analysis": "For detailed competition analysis refer to Public Competition Assessment below."
+  }
+}

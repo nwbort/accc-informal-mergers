@@ -1,0 +1,53 @@
+{
+  "id": "0909",
+  "title": "Carter Holt Harvey Limited - proposed acquisition of timber processing and distribution assets of Weyerhaeuser Australia Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/carter-holt-harvey-limited-proposed-acquisition-of-timber-processing-and-distribution-assets-of-weyerhaeuser-australia-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32035",
+  "industries": [
+    "Timber processing and distribution"
+  ],
+  "date_completed": "24 June 2008",
+  "date_completed_iso": "2008-06-24T12:00:00Z",
+  "date_commenced": "14 May 2008",
+  "date_commenced_iso": "2008-05-14T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Carter Holt Harvey Limited"
+  ],
+  "targets": [
+    "Weyerhaeuser Australia Group"
+  ],
+  "timeline": [
+    {
+      "date": "14 May 2008",
+      "date_iso": "2008-05-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 May 2008",
+      "date_iso": "2008-05-23T12:00:00Z",
+      "event": "ACCC requested further information from Carter Holt Harvey Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "28 May 2008",
+      "date_iso": "2008-05-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "2 Jun 2008",
+      "date_iso": "2008-06-02T12:00:00Z",
+      "event": "ACCC received further information from Carter Holt Harvey Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Jun 2008",
+      "date_iso": "2008-06-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The proposed acquisition was considered in the context of separate markets for: -  the production and supply of structural softwood sawn timber; - the production and supply of industrial softwood sawn timber; and - the acquisition of softwood sawlogs. For the purposes of reviewing the proposed acquisition, it was not necessary to identify whether the relevant market was national or more localised based on regional areas of close competition.",
+    "Competition analysis": "The ACCC formed the view that although the proposed acquisition would result in the removal of the acquirer's closest competitor, the proposed acquisition was unlikely to substantially lessen competition in the relevant structural and industrial softwood sawn timber markets as a result of: - the presence of a large alternative domestic producer; - the presence of smaller domestic producers; and - some constraint from independent imports with respect to particular products. In relation to the acquisition of softwood sawlogs, the ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition due to the existence of alternative sawlog customers and the ability of plantation owners to by-pass the merged entity."
+  }
+}

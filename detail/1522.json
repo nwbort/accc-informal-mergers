@@ -1,0 +1,30 @@
+{
+  "id": "1522",
+  "title": "Acquirer: Schneider Electric (Australia) Pty Ltd; Target: Gerard Industries (No3) Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-schneider-electric-australia-pty-ltd-target-gerard-industries-no3-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18303",
+  "industries": [],
+  "date_completed": "30 September 2003",
+  "date_completed_iso": "2003-09-30T12:00:00Z",
+  "date_commenced": "5 September 2003",
+  "date_commenced_iso": "2003-09-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Schneider Electric (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Gerard Industries (No3) Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Gerard Industries' electrical products business by Schneider Electric Australia.",
+    "Market definition": "National market for the manufacture and sale of electrical distribution products and associated accessories.",
+    "Competition analysis": "The merged entity is estimated to have 30-35% of the national market, with a CR4 of 45-50%. However, there are a number of market segments where the merged entity would have substantially more than 50% of the market.  In each case where this arises, the high market share is the result of one of the merger parties already possessing a high market share.  The merger is complementary in that where Schneider has a high market segment share Gerard has a low share and vice versa.  There are some market segments where neither party has a significant share. Imports were found to be very high.  Although definitive data are not available, market inquiries and ABS data suggest imports account for 40-60% of the market. The four major wholesalers of electrical products were also considered to possess significant countervailing power, being able to import product rather than purchase from teh merged entity.  For major projects tender processes could achieve the same outcome. The Commission considered that although the merged entity would hold very high shares of certain market segments, its overall market share is not excessive; wholesalers possess sufficient countervailing power to deal with the merged entity; and imported product will constrain the actions of the merged entity.  It concluded that the proposal would be unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties"
+  }
+}

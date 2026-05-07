@@ -1,0 +1,31 @@
+{
+  "id": "1479",
+  "title": "Acquirer: QBE Insurance Group Ltd; Target: Mercantile Mutual Insurance (Australia) Ltd, ING Life Australia Holdings Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-qbe-insurance-group-ltd-target-mercantile-mutual-insurance-australia-ltd-ing-life-australia-holdings-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19588",
+  "industries": [],
+  "date_completed": "1 June 2004",
+  "date_completed_iso": "2004-06-01T12:00:00Z",
+  "date_commenced": "14 May 2004",
+  "date_commenced_iso": "2004-05-14T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "QBE Insurance Group Ltd"
+  ],
+  "targets": [
+    "Mercantile Mutual Insurance (Australia) Ltd, ING Life Australia Holdings Pty Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "QBE proposes to acquire ING's shares in MMI and a joint venture company owned by QBE and ING.",
+    "Market definition": "The provision of general insurance services in Australia.  Consideration also given to individual market segments, including provision of state-based motor vehicle insurance.",
+    "Competition analysis": "On the basis of a national market for the provision of general insurance, it is apparent that a number of large industry participants exist, but the market is not dominated by a single provider.  While the merged entity rises from fifth to third in terms of market share, the presence of four other large insurance providers and with the possibility of entry by international insurance providers (as established in the consideration of previous matters), provides a significant competitive constraint.  In addition, the proposed acquisition does not cross the Commission's concentration thresholds. Market share figures were not provided in relation to the individual segments of the general insurance industry.  Of particular importance is the provision of motor vehicle insurance, which the Commission has previously considered to be state-based markets.  Based on previous figures available to the Commission, the relative state-based market shares are not likely to raise any competition concerns.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7422"
+  }
+}

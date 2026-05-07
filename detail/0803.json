@@ -1,0 +1,44 @@
+{
+  "id": "0803",
+  "title": "OneSteel Ltd - completed acquisition of Independent Steel Warehouse",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/onesteel-ltd-completed-acquisition-of-independent-steel-warehouse",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35463",
+  "industries": [
+    "Steel products and fabrication services"
+  ],
+  "date_completed": "11 February 2009",
+  "date_completed_iso": "2009-02-11T12:00:00Z",
+  "date_commenced": "12 November 2008",
+  "date_commenced_iso": "2008-11-12T12:00:00Z",
+  "total_review_days": 61,
+  "acquirers": [
+    "OneSteel Ltd"
+  ],
+  "targets": [
+    "Independent Steel Warehouse"
+  ],
+  "timeline": [
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "OneSteel notified the ACCC that it had acquired Independent Steel Warehouse."
+    },
+    {
+      "date": "12 Nov 2008",
+      "date_iso": "2008-11-12T12:00:00Z",
+      "event": "ACCC commenced its review of the acquisition."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "OneSteel Ltd acquired Independent Steel Warehouse in November 2008. Independent Steel Warehouse was a retail supplier of long and flat steel based in Mackay, Queensland.",
+    "Market definition": "The markets for long and flat steel distribution were considered.",
+    "Competition analysis": "The ACCC found that OneSteel Ltd faces sufficient competitive constraint post acquisition as there are a number of other retail steel suppliers in the Mackay region and greater Queensland."
+  }
+}

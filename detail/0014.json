@@ -1,0 +1,54 @@
+{
+  "id": "0014",
+  "title": "Mitsubishi Fuso Truck and Bus Corporation (MFTBC) - Hino Motors Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitsubishi-fuso-truck-and-bus-corporation-mftbc-hino-motors-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Motor vehicle manufacturing"
+  ],
+  "date_completed": "10 September 2025",
+  "date_completed_iso": "2025-09-10T12:00:00Z",
+  "date_commenced": "16 June 2025",
+  "date_commenced_iso": "2025-06-16T12:00:00Z",
+  "total_review_days": 51,
+  "acquirers": [
+    "Mitsubishi Fuso Truck and Bus Corporation (MFTBC)"
+  ],
+  "targets": [
+    "Hino Motors Limited"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jun 2025",
+      "date_iso": "2025-06-17T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Jun 2025",
+      "date_iso": "2025-06-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "24 Jul 2025",
+      "date_iso": "2025-07-24T12:00:00Z",
+      "event": "ACCC is seeking further information from the merger parties. Former provisional date for announcement of ACCC's findings (28 August 2025) is delayed."
+    },
+    {
+      "date": "11 Aug 2025",
+      "date_iso": "2025-08-11T12:00:00Z",
+      "event": "ACCC received further information from Hino and MFTBC. Timeline recommenced."
+    },
+    {
+      "date": "10 Sep 2025",
+      "date_iso": "2025-09-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Toyota and Daimler Truck AG ( DTAG ) have entered into agreements to combine all the shares and businesses of Mitsubishi Fuso and Hino under a new entity. The newly formed company is expected to be listed on the Tokyo Stock Exchange with DTAG and Toyota each owning approximately 25% of the listed company. Mitsubishi Fuso Mitsubishi Fuso is a manufacturer of trucks and buses, incorporated and headquartered in Japan. It is a private company that is majority-owned by DTAG. Mitsubishi Fuso manufacturers a wide range of trucks and buses under its ‘Fuso’ brand. Mitsubishi Fuso primarily manufactures and assembles its vehicles and spare parts in Japan. It does not have any manufacturing or assembly facilities in Australia. These vehicles are imported into and distributed in Australia by Daimler Truck Australia Pacific Pty Ltd (DTAuP) (which is wholly-owned by DTAG), and sold to customers through a network of over 40 independent dealerships. Hino Motors Limited Hino is also a manufacturer of trucks and buses. It is a public company listed on the Tokyo Stock Exchange Prime Market and the Nagoya Stock Exchange Premier Market. Its majority shareholder is the Toyota Motor Corporation (Toyota), and the remainder of its shares are held in free float. Hino manufactures a wide range of trucks and buses, primarily in its facilities located in Japan. It imports trucks (and associated spare parts) into Australia through a wholly owned subsidiary, Hino Motor Sales Australia Pty, Ltd. (HMSA), and sells to customers through a network of over 60 independent dealerships. Like Mitsubishi Fuso, Hino does not have any facilities to manufacture or assemble vehicles (or spare parts) in Australia.",
+    "Market definition": "The ACCC considered the likely effect of the proposed merger on competition in markets for the supply of: heavy duty trucks medium duty trucks light commercial vehicles, and light buses. For the purpose of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the proposed merger was unlikely to substantially lessen competition in any market. In relation to the supply of heavy duty trucks and light commercial vehicles, the ACCC found that a merged Hino/MFTBC would be sufficiently constrained by alternative suppliers post-merger. In relation to the supply of medium duty trucks, the ACCC considered that a merged Hino/MFTBC would be sufficiently constrained by market leader Isuzu and, to a lesser extent, by smaller, emerging suppliers, particularly those developing low and zero emissions products. The ACCC also considered potential changes to Hino and MFTBC’s MDT product offerings which may impact their competitive position in the future. In relation to the supply of light buses, the ACCC considered the impact of Toyota’s partial economic interest in a merged Hino/MFTBC given Toyota supplies light buses in competition with MTFBC in Australia. The ACCC considered that that this overlapping interest was unlikely to significantly lessen competition for the supply of light buses in Australia."
+  }
+}

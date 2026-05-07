@@ -1,0 +1,54 @@
+{
+  "id": "0544",
+  "title": "Schneider Electric (Australia) Pty Ltd - proposed acquisition of the electricity distribution business of AREVA T&D Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/schneider-electric-australia-pty-ltd-proposed-acquisition-of-the-electricity-distribution-business-of-areva-td-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44115",
+  "industries": [
+    "Electricity distribution"
+  ],
+  "date_completed": "22 February 2011",
+  "date_completed_iso": "2011-02-22T12:00:00Z",
+  "date_commenced": "26 November 2010",
+  "date_commenced_iso": "2010-11-26T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "Schneider Electric (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "AREVA T&D Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 Nov 2010",
+      "date_iso": "2010-11-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Dec 2010",
+      "date_iso": "2010-12-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "17 Dec 2010",
+      "date_iso": "2010-12-17T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties on 17 December and 23 December 2010. ACCC timeline suspended. Formal proposed decision date of 13 January delayed pending receipt of information."
+    },
+    {
+      "date": "31 Jan 2011",
+      "date_iso": "2011-01-31T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "22 Feb 2011",
+      "date_iso": "2011-02-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The proposed acquisition forms part of a broader completed global transaction in which Schneider Electric Industries, through a consortium with Alstom Holdings, acquired Areva's worldwide electricity transmission and distribution business, Areva T&D Holding SA.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of competition for the supply of electrical distribution equipment nationally, having partiular regard to the impact of the transaction on the supply of equipment to utilities and industrial customers. While this was the context for the ACCC's analysis, the ACCC did not consider it necessary to reach a concluded view on market definition in relation to this matter.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition. The ACCC considered that Schneider is likely to be constrained from exercising market power by other suppliers of electrical distribution equipment, including those which import components or tender jointly in order to supply a full range of products. In making its decision the ACCC had regard to whether post-acquisition Schneider could foreclose its competitors by limiting access to important inputs, and whether the proposed acquisition would increase the likelihood of coordinated conduct in the market."
+  }
+}

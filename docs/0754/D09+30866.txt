@@ -1,0 +1,584 @@
+ 
+ 
+ 
+ 
+ 
+1 April 2009 
+ 
+Statement of Issues — Vodafone and Hutchison –
+proposed merger of Australian mobile operations 
+1. 
+Outlined below is the Statement of Issues released by the Australian Competition 
+and Consumer Commission (ACCC) in relation to the proposed merger of 
+Vodafone’s and Hutchison’s Australian mobile operations (proposed merger).  
+2. 
+A Statement of Issues published by the ACCC is not a final decision about a 
+proposed acquisition, but provides the ACCC’s preliminary views, drawing 
+attention to particular issues of varying degrees of competition concern, as well 
+as identifying the lines of further inquiry that the ACCC wishes to undertake. 
+3. 
+In line with the ACCC’s Merger Review Process Guidelines (available on the 
+ACCC’s website at www.accc.gov.au) the ACCC has established a secondary 
+timeline for further consideration of the issues. The ACCC anticipates completing 
+further market inquiries by 17 April 2009 and anticipates making a final decision 
+on 6 May 2009. However, the anticipated timeline can change in line with the 
+Merger Review Process Guidelines. To keep abreast of possible changes in 
+relation to timing and to find relevant documents, market participants should visit 
+the Mergers Register on the ACCC’s website at 
+www.accc.gov.au/mergersregister. 
+4. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+customers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide 
+the merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+Background 
+5. 
+On 11 February 2009, the ACCC commenced its informal review of the proposed 
+merger of Vodafone’s and Hutchison’s Australian mobile operations. 
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+2
+The parties 
+ 
+Vodafone 
+6. 
+Vodafone Group plc is the parent company of Vodafone International Holdings 
+BV, which in turn holds a majority interest in Vodafone Australia Limited.  
+7. 
+Vodafone Group plc is a leading telecommunications company serving 289 
+million registered customers through its operations in Africa, North Central 
+America, South American, Asia, Europe and Oceania. 
+8. 
+For the purposes of this Statement of Issues, Vodafone refers to the Australian 
+mobile business. Vodafone operates a 2G mobile network in Australia, which is 
+claimed to cover approximately 95% of the Australian population. Vodafone also 
+operates a 3G network that currently covers the metropolitan areas of Sydney, 
+Central Coast, Melbourne, Canberra, Adelaide, Perth, Brisbane and the Gold 
+Coast and Sunshine Coast. Vodafone has announced plans to expand its 3G 
+network to ultimately reach 95% of the population. 
+9. 
+In addition to its own network, Vodafone shares 3G mobile radio access network 
+(RAN) infrastructure in metropolitan areas with Optus.  
+10. 
+Vodafone has almost 4 million Australian customers, including over 100,000 
+mobile broadband (MBB) customers. There are currently 170 Vodafone branded 
+stores throughout Australia. Vodafone also retails its products through 
+non-branded retail sites. 
+11. 
+In the financial year ending 31 March 2008, Vodafone reported total revenue of 
+$2.44 billion and a consolidated net profit of $107 million. 
+Hutchison 
+12. 
+The Hutchison Group includes three companies: Hutchison Whampoa Limited 
+(HW), Hutchison Telecommunications (Australia) Limited (HTAL) and 
+Hutchison 3G Australia Pty Ltd (H3GA). HW is the parent company of the 
+Australian mobile business (comprising HTAL and H3GA).   
+13. 
+HTAL has been an ASX-listed public company since 1999. H3GA is a 
+wholly-owned subsidiary of HTAL. For the purposes of this Statement of Issues, 
+Hutchison refers to the Australian mobile business. 
+14. 
+Hutchison operates a mobile telecommunications network in Australia under the 
+‘3’ brand.  
+15. 
+Through its roaming arrangement with Telstra, Hutchison provides access to 
+2G services in areas which it claims covers 96% of Australia’s population.  
+16. 
+Hutchison operates a 3G network in Sydney / Wollongong, Melbourne / Geelong, 
+Brisbane / the Gold Coast, Adelaide, Canberra and Perth. Hutchison claims that 
+its 3G network footprint currently covers around 57% of the Australian 
+population.  
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+3
+17. 
+In addition to its own network, Hutchison shares 3G mobile RAN infrastructure 
+with Telstra under a joint venture arrangement.  
+18. 
+Hutchison has over 2 million Australian customers, including over 260,000 MBB 
+customers. There are currently 170 ‘3’ branded stores throughout Australia. 
+Hutchison also retails its products through non-branded retail sites. 
+19. 
+In the financial year ending 31 December 2008, Hutchison reported revenue of 
+$1.623 billion but also reported a net loss of $163.1 million.  
+Other industry participants 
+Telstra 
+20. 
+Telstra is a fully integrated telecommunications provider of fixed-line, mobile 
+and information services. Telstra currently provides mobile services to 
+approximately 9.4 million customers, of which 4.4 million have access to 3G 
+services. Telstra has its own 3G network —Next G — which it claims covers 
+99% of the Australian population. Telstra also operates a comprehensive 2G 
+network (which is claimed to cover 96% of the population) and shares 3G mobile 
+RAN infrastructure with Hutchison (as discussed above). 
+21. 
+In the financial year ending 30 June 2008, Telstra reported total sales revenue of 
+$24.7 billion and retail mobile services revenue of $4.92 billion.  
+Optus 
+22. 
+Optus is the second largest provider of mobile network services in Australia, 
+behind Telstra, and also provides fixed line telecommunications and subscription 
+television services. Optus currently provides mobile services to approximately 
+7.42 million customers, of which 2.16 million have access to 3G services. Optus 
+claims that its 3G network (Yes G) reaches around 96% of the Australian 
+population. 
+23. 
+In the financial year ending 31 March 2008, Optus reported total sales revenue of 
+$7.76 billion. In the half financial year ending 30 September 2008, Optus 
+reported mobile services revenue of $1.96 billion. 
+Other mobile service providers  
+24. 
+Other mobile service providers, besides the mobile network operators (MNOs) 
+described above, include mobile virtual network operators (MVNOs) and 
+resellers.  MVNOs and resellers purchase wholesale services from Telstra, Optus 
+or Vodafone and on-sell mobile services under their own brand. MVNOs also 
+own a small amount of infrastructure allowing them to provide some support 
+services.  
+25. 
+MVNOs and resellers compete to provide retail mobile telecommunication 
+services to subscribers. Key MVNOs and mobile resellers are: Soul; Dodo; 
+People Telecom; AAPT; Macquarie Telecom; Comtel and TransACT.  
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+4
+26. 
+Virgin and Crazy John’s also provide mobile products at the retail level. These 
+businesses are wholly owned subsidiaries of Optus and Vodafone, respectively. 
+Industry background 
+Mobile network evolution 
+27. 
+Mobile network technology has rapidly evolved from ‘first generation’ (1G) 
+mobile phone systems based on cellular networks in the 1980s to ‘second 
+generation’ (2G) mobile phone systems such as Global System for Mobile 
+Communication (GSM) and Code Division Multiple Access (CDMA) in the 
+1990s. 2G mobile network technology allows for voice, data and text services. 
+These services are sometimes called ‘narrowband’ services. 
+28. 
+Evolution from 2G systems occurred with the introduction of General Packet 
+Radio Service (GPRS) with cellular services combined with GSM or CDMA 
+technologies (2.5G). Essentially, 2.5G mobile network technology refers to a 2G 
+system that has implemented a packet switched domain in addition to the circuit 
+switched domain. A 2.5G network provides faster services than a 2G network but 
+uses the same infrastructure. 
+29. 
+‘Third generation’ (3G) mobile network technology enables Internet, voice, and 
+multimedia services. These services are sometimes called ‘wideband’ services. 
+3G networks are high capacity digital networks that combine voice with 
+high-speed internet-based services. 3G networks enable users to access a wide 
+range of services, beyond the voice centric 2G and 2.5G networks. Universal 
+Mobile Telecommunications System (UMTS), including High Speed Packet 
+Access (HSPA) technologies and Wideband Code Division Multiple Access 
+(W-CDMA) are types of 3G technologies. 
+30. 
+‘Fourth generation’ (4G) mobile network technology or ‘long term evolution’ is 
+expected to allow a comprehensive IP solution where voice, data and streamed 
+multimedia can be given to users on an “anytime, anywhere” basis. 4G networks 
+are expected to have significantly higher data rates than previous generations. In 
+Australia, 4G technologies are not expected to come online for at least two years. 
+Industry trends 
+31. 
+The Australian mobile market is mature. As at December 2008, the market 
+penetration rate for mobile subscriptions was 111.4% of the Australian 
+population and the 3G penetration rate was 51.6%. 
+32. 
+Given the high level of penetration for mobile services, in order to gain market 
+share, MNOs must compete to attract subscribers from competitors. This has led 
+to strong retail price-based competition. 
+33. 
+Industry analysts predict that data services will be the ‘main game’ in the mobile 
+industry space. Consumer demand for data services – both 3G “Internet on your 
+Mobile” (IOYM) and MBB – over mobile networks has been significant and is 
+expected to continue. While 3G IOYM and MBB data revenues have grown 
+strongly in recent years, revenues from voice services remain the dominant 
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+5
+revenue stream for mobile service providers. Both voice and data revenue streams 
+will continue to grow over time, however data is likely to grow at a faster rate. 
+Market inquiries 
+34. 
+On 19 February 2009, the ACCC commenced market inquiries regarding the 
+proposed merger. A range of interested parties provided responses, including 
+competitors – MNOs and MVNOs, consumers, mobile phone retailers, industry 
+associations and interested third parties. 
+35. 
+The ACCC also met with the Australian Communications and Media Authority 
+(ACMA) to discuss technical issues about radiofrequency spectrum. 
+Areas of overlap and market definition 
+36. 
+The following table lists the areas of overlap and potential relevant markets 
+identified by the ACCC for the purposes of reviewing the proposed merger: 
+Retail and wholesale markets 
+Product dimension 
+Geographic dimension 
+Wholesale markets 
+Domestic transmission capacity 
+services (DTCS) 
+Distinct transmission routes including:  
+• 
+inter-capital transmission;  
+• 
+transmission other than inter-capital routes 
+such as capital to regional routes; 
+• 
+inter-exchange local transmission; and 
+• 
+tail-end transmission 
+3G mobile and Internet content 
+National 
+Mobile services for the purposes of 
+resale to retail customers 
+National 
+Roaming services 
+National / International 
+Domestic mobile terminating access 
+service (MTAS) 
+National 
+Retail market 
+Mobile telecommunications services 
+(including mobile telephony and mobile 
+broadband) 
+National 
+37. 
+Issues arose during the course of the ACCC’s inquiries regarding the product 
+dimension for retail mobile telecommunications services and radiofrequency 
+spectrum. The ACCC also considered the appropriate geographic dimension for 
+retail mobile telecommunications services. 
+ 
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+6
+Product dimension 
+Retail mobile telecommunications services 
+38. 
+On the basis of information obtained to date, the ACCC considers that a national 
+market exists for the supply of retail mobile telecommunications services to 
+consumers by MNOs, MVNOs and resellers. The market would comprise two 
+key product segments — retail mobile telephony services and retail MBB 
+services. 
+39. 
+While there are signs of increased fixed-to-mobile substitution and an increased 
+incidence of bundling between fixed and mobile services, the ACCC considers 
+that differences in price, functionality and accessibility are such that retail mobile 
+telecommunications services — including mobile telephony and MBB — are 
+appropriately treated as a separate product market to fixed telecommunications 
+services.  
+40. 
+In respect of the MBB product segment within the retail mobile 
+telecommunications market, the ACCC considers that, while wireless broadband 
+may provide some constraint on fixed broadband services, this is likely to be to a 
+limited extent on the basis of significant differences in price. The ACCC 
+therefore considers that MBB and fixed broadband services are likely to be in 
+separate markets. 
+Spectrum 
+41. 
+The ACCC considered whether it was appropriate to consider an acquisition 
+market for spectrum as a relevant market for the purposes of this merger review. 
+In light of the fact that there is not likely to be any new spectrum allocated by the 
+ACMA nor is there likely to be any “freeing up” of existing allocations in the 
+next two to three years ‘with or without the merger’, the ACCC considered it was 
+more appropriate to characterise spectrum as an ‘input’ in the retail market for the 
+purposes of this matter. 
+Geographic dimension 
+42. 
+For some consumers, the relative abilities of the four MNOs to independently 
+provide network coverage outside of metropolitan areas may limit their choice of 
+mobile services provider. Currently, Hutchison, and to a lesser extent, Vodafone, 
+rely on roaming services to provide coverage outside of metropolitan areas. That 
+is, Hutchison and Vodafone customers that travel outside of the area covered by 
+their ‘home network’ can access mobile services via Telstra’s or Optus’ 
+networks. 
+43. 
+While there are some differences in the quality of services provided to customers 
+that are roaming in non-metropolitan areas, the ACCC considers that the supply 
+of retail mobile telecommunications services on this basis is broadly substitutable 
+to the services offered by Telstra and Optus on their home networks in these 
+areas. Therefore, the ACCC considers that the relevant geographic dimension of 
+competition in the markets for the supply retail mobile services is likely to be 
+national in nature.  
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+7
+The ACCC invites market participants to comment on market definition. 
+The ACCC welcomes any comments from market participants regarding the proposed 
+market definitions, including whether or not retail mobile telephony services and retail 
+MBB services are in the same or separate product markets. The ACCC is also 
+interested in whether there should be a distinction between customer or network type. 
+The ACCC welcomes any comments as to geographic dimension, including whether 
+there are any significant elements of local competition between MNOs. 
+Statement of issues 
+44. 
+For the purposes of this Statement of Issues, the issues in this matter are divided 
+into two categories, ‘issues of concern’ and ‘issues unlikely to pose concerns’. 
+Issues of concern 
+45. 
+The ACCC’s preliminary view is that the proposed merger raises competition 
+concerns in the short to medium term within the mobile telephony and MBB 
+segments of the national market for the supply of retail mobile 
+telecommunications services. 
+46. 
+The ACCC notes the proposed merger would result in increased concentration 
+from four to three MNOs in a market which is already highly concentrated, and 
+that the prospect for a new entrant MNO of the scale and scope necessary to 
+provide a competitive constraint on existing MNOs is practically non-existent. 
+The ACCC also considers that MVNOs and resellers are unlikely to constrain the 
+merged entity, particularly as they rely on wholesale acquisition of mobile 
+services from MNOs. 
+Removal of Hutchison as a vigorous and effective competitor 
+47. 
+The ACCC is concerned that the removal of Hutchison as a vigorous and 
+effective competitor will lead to increased prices for customers in the retail 
+mobile telephony and MBB services segments in the retail mobile 
+telecommunications services market. 
+48. 
+The ACCC understands that Hutchison is consistently attracting new subscribers 
+and has been gradually increasing its subscriber share and revenue share over 
+time. Hutchison has competed aggressively for market share in the national 
+market for supply of retail mobile telecommunications services, consistently 
+attracting a relatively high proportion of customers from the other three MNOs.  
+49. 
+The ACCC is of the view that Hutchison and Vodafone are each other’s closest 
+competitors, focusing on price-sensitive customers in metropolitan areas. 
+Hutchison is a strong competitor in the supply of lower-priced postpaid mobile 
+products, while Vodafone is a strong competitor in the supply of prepaid mobile 
+products.  The ACCC’s preliminary view is that the proposed merger may 
+increase the potential for Vodafone to exercise unilateral market power. 
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+8
+Increased potential for coordinated effects 
+50. 
+The ACCC’s preliminary view is that the proposed merger may also increase the 
+potential for coordinated effects in the mobile telephony and MBB segments of 
+the retail mobile telecommunications market. In reaching this preliminary view, 
+the ACCC notes that: 
+ 
+the four MNOs have a combined market share of almost 95% in the market 
+for the supply of retail mobile telecommunications services; 
+ 
+prices are easily observed at the retail level;  
+ 
+products are relatively homogeneous;  
+ 
+demand for retail mobile telephony is relatively stable and demand for retail 
+MBB is growing;  
+ 
+there is a high frequency of interaction between MNOs; and  
+ 
+barriers to entry as an MNO are very high, such that supra-competitive 
+pricing is unlikely to induce new entry. 
+51. 
+The ACCC is also considering the extent to which the merged entity would have 
+an increased ability to observe its competitors’ intentions for network investment 
+as a result of its being party, at least initially, to the two network sharing joint 
+venture (JV) arrangements (the Telstra and Hutchison JV and the Optus and 
+Vodafone JV).  
+52. 
+As noted above, the ACCC considers Hutchison to be a vigorous and effective 
+competitor in the retail telecommunications services market. The ACCC is 
+concerned that the removal of Hutchison as an independent competitor in the 
+market may increase the potential for coordinated effects amongst remaining 
+market participants. 
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+9
+The ACCC invites market participants to comment on the possible unilateral and 
+coordinated effects of the proposed merger. 
+Please provide comments on the following and preferably provide further information 
+and specific examples in relation to: 
+- 
+Whether Vodafone and Hutchison are each other’s closest competitors for the 
+supply of retail mobile telecommunications services, either to lower-spend 
+mobile customers, or any other mobile customer segment; 
+- 
+Whether Hutchison and/or Vodafone is a particularly aggressive price-based 
+competitor, and if so, in which particular mobile customer segments; 
+- 
+Whether Telstra and Optus are unlikely to act as effective competitors to the 
+merged entity for lower-spend mobile services; 
+- 
+Whether, in the event that Vodafone and Hutchison merge their mobile network 
+operations, the merged entity would be in a position to increase prices for  
+mobile services in a sustainable manner; 
+- 
+Whether, in the absence of Vodafone and Hutchison merging their mobile 
+network operations, there would be less aggressive price competition in the 
+retail market; 
+- 
+The likelihood that Vodafone and Hutchison, in the event that they merge their 
+mobile operations, would compete aggressively on price and/or product 
+innovations, and if so, in which particular mobile customer segments;  
+- 
+The likelihood that Telstra and Optus, or any other supplier of retail mobile 
+services (such as an MVNO), would constrain the merged entity’s attempts to 
+increase prices for lower-spend mobile services; and 
+- 
+Whether there are circumstances in the mobile market that make coordinated 
+effects more likely to occur. 
+Increased potential for infrastructure-based competition 
+53. 
+The forward-looking nature of merger analysis means that the ACCC, when 
+analysing the competitive effect of a merger, must take into account the changing 
+nature of the market. In this regard, the merger parties submit that the merged 
+entity would be of sufficient size and scope to compete strongly against Optus 
+and Telstra particularly in data-intensive markets.  
+54. 
+The ACCC considers that, in the longer term, the merged entity may be able to 
+develop as a stronger infrastructure-based mobile telecommunications services 
+provider due to the increased scale of its operations. However, the ACCC 
+recognises that significant investments in network coverage and capacity will be 
+necessary to achieve this end.  
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+10
+55. 
+As part of its investigation, the ACCC will further examine:  
+ 
+the extent to which the effective integration of the merged entity may be 
+hindered by one or both of the existing network sharing JV arrangements 
+with Telstra and Optus;  
+ 
+whether the costs of terminating one or both of these JV arrangements, along 
+with the integration costs of the proposed merger, would prevent the merged 
+entity from undertaking major network investments in the short to medium 
+term; 
+ 
+whether the merged entity can combine the spectrum owned by each party in 
+an effective manner;  
+ 
+the likely timeframes for the merged entity’s network enhancements; 
+ 
+the likely impact of such network enhancements on competition with other 
+MNOs;  
+ 
+whether significant network investments would be likely to be made in any 
+case in the absence of the proposed merger; and 
+ 
+whether infrastructure-based competition will increase in the longer term 
+with or without the proposed merger.  
+56. 
+These issues will be relevant in considering the duration of any competitive harm 
+arising from the proposed merger in the retail telecommunications services 
+market. As noted above, the ACCC is concerned that the merger may raise 
+competition concerns in the short to medium term. The ACCC notes the merger 
+parties’ submission that, in the longer term, the merged entity may develop a 
+network of a similar scale and scope to its competitors.  
+57. 
+The ACCC intends to explore the duration of anti-competitive harm and the 
+likelihood and timeliness of any advantages for competition eventuating as a 
+result of the proposed merger.  
+The ACCC invites market participants to comment on the possible longer term 
+competitive benefits from the proposed merger. 
+The ACCC welcomes any comments from market participants regarding the potential 
+for the merged entity to be a stronger infrastructure-based competitor in the longer 
+term, including the extent to which the merged entity will face any technical or legal 
+barriers to network upgrades or expansion. 
+Issues unlikely to pose concerns 
+58. 
+The ACCC’s preliminary view is that competition issues are unlikely to arise in 
+the five wholesale markets.  
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+11
+59. 
+The ACCC also considers that there are unlikely to be competition concerns 
+posed by the aggregation of the merger parties’ radiofrequency spectrum (a key 
+input in the retail market). 
+Wholesale markets 
+60. 
+The ACCC understands that Hutchison has little or no presence in the markets for 
+the: 
+ 
+the acquisition of domestic transmission capacity services (DTCS); 
+ 
+the supply of mobile services for the purposes of resale to retail customers; 
+and 
+ 
+the supply of domestic and international roaming services. 
+61. 
+The ACCC considers that Telstra and Optus would continue to constrain the 
+behaviour of the merged entity in these markets post-merger.  
+62. 
+In the markets for 3G mobile and Internet content, and mobile terminating access 
+services (MTAS), the ACCC is of the view that the proposed merger is unlikely 
+to substantially lessen competition. Indeed, the merger may leave the merged 
+entity in a stronger position to compete more effectively with Telstra and Optus 
+in these markets. 
+Aggregation of spectrum 
+63. 
+Hutchison currently owns spectrum in the 850MHz, 1800MHz, and 2100MHz 
+frequency bands. Vodafone currently owns spectrum in the 900MHz, 1800MHz 
+and 2100MHz frequency bands. The merger parties’ spectrum holdings are in all 
+metropolitan capital cities, large regional cities, and some regional/rural areas. 
+64. 
+The ACCC has considered whether the aggregation of the merger parties’ 
+spectrum will increase the ability and incentive of the merged entity to hoard 
+unused spectrum with the effect of raising barriers to expansion for existing 
+MNOs. 
+65. 
+The ACCC considers that a substantial lessening of competition is unlikely to 
+arise in relation to the aggregation of spectrum.  
+66. 
+In assessing a merger pursuant to section 50 of the Trade Practices Act 1974, the 
+ACCC must consider the effects of the transaction by comparing the likely future 
+state of competition if the transaction proceeds (the ‘with’ or ‘factual’ position) to 
+the likely future state of competition if the transaction does not proceed (the 
+‘without’ or ‘counterfactual’ position). 
+67. 
+The ACCC’s preliminary view is that ‘without’ the merger, it appears unlikely 
+that the merger parties would be likely to sell their spectrum. Therefore, while the 
+merged entity has an increased incentive to hoard its spectrum, it may have an 
+increased incentive to use previously unused spectrum to enhance network 
+capacity or rollout a new network in the longer term. 
+
+
+Vodafone Group plc and Hutchison 3G Australia Pty Ltd – proposed merger of Australian mobile operations 
+ 
+12
+The ACCC invites market participants to comment on the wholesale markets and 
+spectrum aggregation. 
+The ACCC welcomes any comments on these issues, including whether there are likely 
+to be competition concerns in these markets.  
+In terms of spectrum, the ACCC welcomes comments on the likelihood of any 
+currently used spectrum being ‘freed’ up in the near future for use by an MNO. 
+ACCC’s future steps 
+68. 
+The ACCC will finalise its view on this matter after it considers market responses 
+invited by this Statement of Issues. 
+69. 
+The ACCC now seeks submissions from market participants on each of the issues 
+identified in this Statement of Issues and on any other issue that may be relevant 
+to the ACCC’s assessment of this matter. 
+70. 
+Submissions are to be received by the ACCC no later than 17 April 2009. The 
+ACCC will consider the submissions received and will, in conjunction with 
+information and submissions already provided by the parties, come to a final 
+view as to the appropriate course of action to take to resolve any competition 
+concerns that remain. 
+71. 
+The ACCC intends to publicly announce its final view by 6 May 2009. However 
+the anticipated timeline may change in line with the Merger Review Process 
+Guidelines. A Public Competition Assessment for the purpose of explaining the 
+ACCC’s final view may be published following the ACCC’s public 
+announcement. 

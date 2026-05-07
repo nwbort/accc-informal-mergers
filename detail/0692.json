@@ -1,0 +1,27 @@
+{
+  "id": "0692",
+  "title": "Volkswagen AG - proposed acquisition of Porsche Automobil Holding SE & Porche AG",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/volkswagen-ag-proposed-acquisition-of-porsche-automobil-holding-se-porche-ag",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39615",
+  "industries": [
+    "Motor vehicle manufacturing"
+  ],
+  "date_completed": "12 November 2009",
+  "date_completed_iso": "2009-11-12T12:00:00Z",
+  "date_commenced": "4 November 2009",
+  "date_commenced_iso": "2009-11-04T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Volkswagen AG"
+  ],
+  "targets": [
+    "Porsche Automobil Holding SE"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition in this matter, the ACCC considered the proposed acquisition in the context of national markets for the manufacture and supply of luxury motor vehicles.",
+    "Competition analysis": "The ACCC noted that the proposed acquisition would have a neutral effect on competition, since it represented an internal restructure following Porsche's acquisition of a 51% controlling interest in Volkswagen in 2008. The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any relevant markets. Factors informing this conclusion included: - the vast majority of luxury motor vehicles are imported into Australia; and - the merged entity would continue to be constrained by the various alternative suppliers of luxury motor vehicles in Australia."
+  }
+}

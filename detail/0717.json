@@ -1,0 +1,44 @@
+{
+  "id": "0717",
+  "title": "UNiTAB - proposed acquisition of TOTE Tasmania Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/unitab-proposed-acquisition-of-tote-tasmania-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38144",
+  "industries": [
+    "Wagering"
+  ],
+  "date_completed": "18 August 2009",
+  "date_completed_iso": "2009-08-18T12:00:00Z",
+  "date_commenced": "27 July 2009",
+  "date_commenced_iso": "2009-07-27T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "UNITAB Limited"
+  ],
+  "targets": [
+    "TOTE Tasmania Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "27 Jul 2009",
+      "date_iso": "2009-07-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Aug 2009",
+      "date_iso": "2009-08-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Aug 2009",
+      "date_iso": "2009-08-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "UNiTAB, a wholly owned subsidiary of Tatts Group Limited, proposed to acquire TOTE Tasmania. The Tasmanian Government is currently conducting a sale process for TOTE Tasmania. The acquirer will obtain the assets of TOTE Tasmania and the Tasmanian Gaming Licence.  The Tasmanian Gaming Licence is granted for an initial 50 years, which is then renewable for a further 49 years.  The acquirer of the TOTE Tasmania will have the exclusive right to conduct totalisator wagering in Tasmania for a period of 15 years.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of: - a national wagering market; - a national sports betting market; and - a national market for pooling services.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the presence of a number of alternative suppliers of wagering and sports betting services, including other corporate bookmakers and other state based totalisators; - the transparency in pricing, and the ability of punters to readily compare odds between the totalisator and corporate bookmakers; and - the relative size, and importance, of TOTE Tasmania in the market for pooling services."
+  }
+}

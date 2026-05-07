@@ -1,0 +1,48 @@
+{
+  "id": "0190",
+  "title": "Santos Ltd - proposed acquisition of Quadrant Energy",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/santos-ltd-proposed-acquisition-of-quadrant-energy",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "64253",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "16 November 2018",
+  "date_completed_iso": "2018-11-16T12:00:00Z",
+  "date_commenced": "5 October 2018",
+  "date_commenced_iso": "2018-10-05T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Santos Ltd"
+  ],
+  "targets": [
+    "Quadrant Energy"
+  ],
+  "timeline": [
+    {
+      "date": "5 Oct 2018",
+      "date_iso": "2018-10-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Oct 2018",
+      "date_iso": "2018-10-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Nov 2018",
+      "date_iso": "2018-11-14T12:00:00Z",
+      "event": "Former proposed decision date of 29 November 2018 brought forward."
+    },
+    {
+      "date": "16 Nov 2018",
+      "date_iso": "2018-11-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the likely effects of the proposed acquisition on competition in Western Australia to supply: gas to domestic customers (‘domgas’) under longer-term contracts domgas processing services and ‘spot’ gas to domestic customers.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any of the markets identified. While Santos and Quadrant are currently the two largest domgas-only suppliers (that is, not exporting Liquefied Natural Gas) and are close competitors, the ACCC noted: Although some customers had significant concerns, most of the customers contacted were unconcerned. The ACCC also approached the relevant WA Government Departments and no concerns were expressed. The export-focused suppliers generally have agreements with the WA Government obliging them to reserve 15 per cent of their gas for the domestic market. The Australian Energy Market Operator predicts total supply is likely to continue to exceed demand for domgas in WA over coming years. With the transition away from considerable joint marketing in WA, there are now many more individual marketers of domgas than in the recent past. In terms of reserves nominally committed to domestic supply, Quadrant’s and Santos’ shares are not large and not expected to increase dramatically. Various market participants and observers have indicated that: a large proportion of domgas supply is covered by long-term contracts; and Quadrant’s and Santos’ currently operating fields are maturing. BHP owns the majority of the domgas-only Macedon project (with Quadrant having a smaller stake), which is likely to remain a competing source of domgas over coming years. The Gorgon and Wheatstone projects are significant new recent supply options and Waitsia is a medium-term possible further source of domgas supply. The North West Shelf fields that supply WA’s largest domgas plant, Karratha, are declining. However, Woodside and Chevron have announced agreements creating the opportunity for the processing at the plant of gas from other fields, including the as-yet undeveloped Browse field. While a prolonged, catastrophic outage at a major plant may give the Santos-Quadrant plants some market power, this is likely to be transient and mitigated to a degree by storage facilities, spare capacity in other plants and customers curtailing demand. The ACCC considered concerns from a small number of market participants that Santos and Quadrant (supplying from Varanus Island) are particularly close competitors for customers on the Goldfields Gas Pipeline, as gas from the Dampier to Bunbury pipeline coming through the interconnector may be less competitive. The ACCC concluded that gas from the Dampier to Bunbury pipeline would still act as a sufficient competitive constraint. The ACCC also considered whether Santos taking full ownership and operating the Devil Creek and Varanus Island domgas plants was likely to substantially lessen competition for the supply of domgas processing services to third parties.  The ACCC took into consideration information that no third-party gas producer has gas discoveries advanced enough to use these facilities; and that the combined Santos/Quadrant is unlikely to have an incentive or ability to attempt to foreclose rival developers of gas fields in a way that would substantially lessen competition in any market."
+  }
+}

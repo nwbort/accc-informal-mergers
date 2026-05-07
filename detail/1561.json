@@ -1,0 +1,31 @@
+{
+  "id": "1561",
+  "title": "Acquirer: Smith & Nephew plc; Target: Centerpulse AG",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-smith-nephew-plc-target-centerpulse-ag",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17553",
+  "industries": [],
+  "date_completed": "30 April 2003",
+  "date_completed_iso": "2003-04-30T12:00:00Z",
+  "date_commenced": "26 March 2003",
+  "date_commenced_iso": "2003-03-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Smith & Nephew plc"
+  ],
+  "targets": [
+    "Centerpulse AG"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Centerpulse AG by Smith & Nephew plc",
+    "Market definition": "The relevant market was considered to be the separate national markets for the supply of hip and knee orthopaedic implants",
+    "Competition analysis": "While the proposed acquisition would exceed the Commission's concentration thresholds for each market, the following factors indicate that the proposed acquisition is unlikely to substantially lessen competition: * Centrepulse does not appear to be a significant competitor in Australia; * imports of the relevant products account for virtually all domestic sales; * barriers to entry for the manufacture and the importing and supply of the relevant products appear to be generally low; * there will remain a number of alternative suppliers to whom customers could turn; and *public hospitals appear to possess some degree of countervailing power through competitive tendering for the relevant products.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2832"
+  }
+}

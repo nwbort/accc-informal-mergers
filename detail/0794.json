@@ -1,0 +1,59 @@
+{
+  "id": "0794",
+  "title": "Bega Cheese Limited - proposed acquisition of certain assets from Kraft Foods Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bega-cheese-limited-proposed-acquisition-of-certain-assets-from-kraft-foods-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35873",
+  "industries": [
+    "Dairy products"
+  ],
+  "date_completed": "3 March 2009",
+  "date_completed_iso": "2009-03-03T12:00:00Z",
+  "date_commenced": "24 December 2008",
+  "date_commenced_iso": "2008-12-24T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Bega Cheese Limited"
+  ],
+  "targets": [
+    "Kraft Foods Limited"
+  ],
+  "timeline": [
+    {
+      "date": "24 Dec 2008",
+      "date_iso": "2008-12-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Jan 2009",
+      "date_iso": "2009-01-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Feb 2009",
+      "date_iso": "2009-02-06T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information from the merger parties."
+    },
+    {
+      "date": "17 Feb 2009",
+      "date_iso": "2009-02-17T12:00:00Z",
+      "event": "ACCC timeline recommenced."
+    },
+    {
+      "date": "18 Feb 2009",
+      "date_iso": "2009-02-18T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for consideration of further information provided by the merger parties."
+    },
+    {
+      "date": "3 Mar 2009",
+      "date_iso": "2009-03-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 18 December Bega Cheese Limited announced that it proposed to acquire Kraft Foods Limited's cheese manufacturing plant located at Strathmerton, Victoria, and enter into a supply agreement with Kraft under which Bega Cheese will manufacture, pack and supply to Kraft those products currently produced by Kraft at the Strathmerton plant.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: i) the national market for the manufacture of cheese; and ii) the national market for the wholesale supply of cheese; of which processed cheese comprises a distinct segment.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. At the manufacturing level, the ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition, compared to the likely counterfactual in which Kraft continued to manufacture processed cheese. In reaching this conclusion, the ACCC had regard to the low barriers to expansion for existing processed cheese manufacturers, the ability of wholesale customers to source imported processed cheese products, particularly from New Zealand, and the existence of an independent domestic manufacturer providing a price competitive alternative. In relation to wholesale supply, the ACCC also concluded that the proposed acquisition was unlikely to substantially lessen competition, noting that with or without the proposed acquisition Kraft will continue to compete as a wholesale supplier of processed cheese."
+  }
+}

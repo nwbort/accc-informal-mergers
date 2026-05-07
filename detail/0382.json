@@ -1,0 +1,109 @@
+{
+  "id": "0382",
+  "title": "Woolworths Limited - proposed acquisition of supermarket site at Glenmore Ridge Village Centre",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-supermarket-site-at-glenmore-ridge-village-centre",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48058",
+  "industries": [
+    "Supermarkets"
+  ],
+  "date_completed": "5 June 2013",
+  "date_completed_iso": "2013-06-05T12:00:00Z",
+  "date_commenced": "20 June 2012",
+  "date_commenced_iso": "2012-06-20T12:00:00Z",
+  "total_review_days": 74,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "supermarket site at Glenmore Ridge Village Centre"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2012",
+      "date_iso": "2012-06-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Jul 2012",
+      "date_iso": "2012-07-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Jul 2012",
+      "date_iso": "2012-07-12T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. Former proposed decision date of 2 August 2012 delayed. ACCC timeline suspended pending receipt of further information from the merger parties."
+    },
+    {
+      "date": "16 Aug 2012",
+      "date_iso": "2012-08-16T12:00:00Z",
+      "event": "ACCC received further information from the merger parties following ACCC's request for information on 12 July 2012. ACCC timeline recommenced."
+    },
+    {
+      "date": "24 Aug 2012",
+      "date_iso": "2012-08-24T12:00:00Z",
+      "event": "ACCC timeline suspended because of delays in merger parties responding to additional information requests made previously by the ACCC. Former proposed decision date of 6 September 2012 delayed."
+    },
+    {
+      "date": "3 Sep 2012",
+      "date_iso": "2012-09-03T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Sep 2012",
+      "date_iso": "2012-09-20T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "4 Oct 2012",
+      "date_iso": "2012-10-04T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Oct 2012",
+      "date_iso": "2012-10-11T12:00:00Z",
+      "event": "Awaiting response from merger parties to the Statement of Issues. Request received from Woolworths and Stockland that the ACCC delay its decision date to allow them further time to provide a response. Former proposed decision date of 18 October 2012 delayed."
+    },
+    {
+      "date": "22 Oct 2012",
+      "date_iso": "2012-10-22T12:00:00Z",
+      "event": "Responses to the Statement of Issues received from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 Nov 2012",
+      "date_iso": "2012-11-06T12:00:00Z",
+      "event": "ACCC timeline suspended upon request from Woolworths that the ACCC delay its decision date again to allow it further time to provide additional information. Former proposed decision date of 8 November 2012 delayed."
+    },
+    {
+      "date": "19 Nov 2012",
+      "date_iso": "2012-11-19T12:00:00Z",
+      "event": "ACCC received further information from Woolworths."
+    },
+    {
+      "date": "20 Nov 2012",
+      "date_iso": "2012-11-20T12:00:00Z",
+      "event": "ACCC notified Woolworths that the information provided on 19 November 2012 was incomplete and requested further information from Woolworths in support."
+    },
+    {
+      "date": "27 Nov 2012",
+      "date_iso": "2012-11-27T12:00:00Z",
+      "event": "Proposed decision date of 29 November 2012 delayed pending receipt of complete information from Woolworths supporting the information provided by Woolworths on 19 November 2012."
+    },
+    {
+      "date": "22 May 2013",
+      "date_iso": "2013-05-22T12:00:00Z",
+      "event": "Complete information received. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 Jun 2013",
+      "date_iso": "2013-06-06T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited proposed to acquire a supermarket site at the Glenmore Ridge Village Centre. Following a public review, on 6 June 2013 the ACCC announced that it would oppose the acquisition.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0494",
+  "title": "Nuplex Industries (Aust) Pty limited - proposed acquisition of Acquos Masterbatch",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nuplex-industries-aust-pty-limited-proposed-acquisition-of-acquos-masterbatch",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46332",
+  "industries": [
+    "Chemicals, plastic additives"
+  ],
+  "date_completed": "26 September 2011",
+  "date_completed_iso": "2011-09-26T12:00:00Z",
+  "date_commenced": "24 August 2011",
+  "date_commenced_iso": "2011-08-24T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Nuplex Industries (Aust) Pty limited"
+  ],
+  "targets": [
+    "Acquos Masterbatch"
+  ],
+  "timeline": [
+    {
+      "date": "24 Aug 2011",
+      "date_iso": "2011-08-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Sep 2011",
+      "date_iso": "2011-09-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Sep 2011",
+      "date_iso": "2011-09-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nuplex proposed to acquire the Masterbatch business assets of Acquos, including plant and equipment in Melbourne and Sydney. Nuplex and Acquos both manufacture and supply Masterbatch which is a concentrate used to colour a neutral tone plastic. Masterbatches vary from standard black and white, colours, additive Masterbatches that achieve a functional aspect such as optical brighteners, UV stabilizers and flame retardant and special effects Masterbatches which achieve metallic, fluorescent and transparent effects.",
+    "Market definition": "The parties overlap in the manufacture and supply of Masterbatch. The ACCC considered the competitive effects of the proposed acquisition in a narrow market for the supply of Masterbatch and a broader market for Masterbatch and Compound. The ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: - the potential for imports to act as a competitive constraint; - barriers to expansion are relatively low; - low customer switching costs; and - the existence of a number of alternative manufacturers with excess capacity which would compete with the merged firm post-acquisition."
+  }
+}

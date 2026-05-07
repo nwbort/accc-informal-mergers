@@ -1,0 +1,28 @@
+{
+  "id": "0968",
+  "title": "Optus Networks Pty Limited - completed acquisition of spectrum licences from Austar United Communications Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/optus-networks-pty-limited-completed-acquisition-of-spectrum-licences-from-austar-united-communications-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30992",
+  "industries": [
+    "Telecommunications"
+  ],
+  "date_completed": "5 February 2008",
+  "date_completed_iso": "2008-02-05T12:00:00Z",
+  "date_commenced": "29 January 2008",
+  "date_commenced_iso": "2008-01-29T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "Optus Networks Pty Limited"
+  ],
+  "targets": [
+    "Austar United Communications Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Optus acquired certain spectrum licences from Austar",
+    "Market definition": "The ACCC did not consider it necessary to define the relevant markets for the purposes of this competition analysis.",
+    "Competition analysis": "The ACCC considered that the acquisition was unlikely to result in a substantial lessening of competition as it would facilitate new entry to broadband services provision in certain regional markets."
+  }
+}

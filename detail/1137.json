@@ -1,0 +1,37 @@
+{
+  "id": "1137",
+  "title": "Leighton Holdings Limited - proposed acquisition of Devine Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/leighton-holdings-limited-proposed-acquisition-of-devine-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27409",
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "7 March 2007",
+  "date_completed_iso": "2007-03-07T12:00:00Z",
+  "date_commenced": "2 March 2007",
+  "date_commenced_iso": "2007-03-02T12:00:00Z",
+  "total_review_days": 4,
+  "acquirers": [
+    "Leighton Holdings Limited"
+  ],
+  "targets": [
+    "Devine Limited"
+  ],
+  "timeline": [
+    {
+      "date": "2 Mar 2007",
+      "date_iso": "2007-03-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Mar 2007",
+      "date_iso": "2007-03-07T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in any relevant market or markets.  In particular, the ACCC took into account the limited overlap between the business operations of the parties.  Devine is primarily involved in the residential development business while Leighton's main focus has been non-residential property development.  The ACCC also noted the existence of other competitors in the relevant sectors."
+  }
+}

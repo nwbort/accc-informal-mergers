@@ -1,0 +1,44 @@
+{
+  "id": "0799",
+  "title": "Video Ezy Australasia Pty Ltd - completed acquisition of EzyDVD Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/video-ezy-australasia-pty-ltd-completed-acquisition-of-ezydvd-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36288",
+  "industries": [
+    "video and games (rental and retail )"
+  ],
+  "date_completed": "19 February 2009",
+  "date_completed_iso": "2009-02-19T12:00:00Z",
+  "date_commenced": "22 January 2009",
+  "date_commenced_iso": "2009-01-22T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Video Ezy Australasia Pty Ltd"
+  ],
+  "targets": [
+    "EzyDVD Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "22 Jan 2009",
+      "date_iso": "2009-01-22T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Feb 2009",
+      "date_iso": "2009-02-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Video Ezy has acquired EzyDVD.",
+    "Market definition": "The ACCC considered the acquisition in the context of the following relevant markets: - the national market for the wholesale purchase of new release DVDs - local markets for the retail supply of DVDs - local markets for the rental supply of DVDs",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in the relevant markets. Regarding the wholesale market, the ACCC considered that the acquisition was unlikely to result in Video Ezy increasing its buying power to the extent that it could foreclose on competition in downstream local DVD rental markets. The ACCC considered that the merger parties were most likely to overlap in the purchase of box office hit new release DVDs, which are purchased by both DVD rental and retail chains. In relation to these purchases, the ACCC considered that the acquisition was unlikely to significantly increase Video Ezy's buying power as wholesale suppliers will continue to sell these titles to a number of other buyers, including major DVD retail chains. The ACCC also considered that there was little overlap between the parties in the retail supply of DVDs and that there was no overlap in the rental supply of DVDs."
+  }
+}

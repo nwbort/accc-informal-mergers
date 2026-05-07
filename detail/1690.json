@@ -1,0 +1,31 @@
+{
+  "id": "1690",
+  "title": "Acquirer: AMP Bank Ltd; Target: GIO Building Society Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-amp-bank-ltd-target-gio-building-society-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15440",
+  "industries": [],
+  "date_completed": "6 February 2002",
+  "date_completed_iso": "2002-02-06T12:00:00Z",
+  "date_commenced": "24 January 2002",
+  "date_commenced_iso": "2002-01-24T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "AMP Bank Ltd"
+  ],
+  "targets": [
+    "GIO Building Society Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 24 January 2002, the Australian Prudential Regulation Authority informed the Commission of a transfer of business application it had received for the entire business of the GIO Building Society to be transferred to the AMP Bank.",
+    "Market definition": "The provision of financial services in New South Wales.",
+    "Competition analysis": "On 5 February 2002, the Commission decided that it would not oppose the proposed merger between the GIO Building Society and the AMP Bank. On 24 January 2002 the Australian Prudential Regulation Authority informed the Commission of the transfer of the entire business of the GIO Building Society to the AMP Bank. The GIO Building Society is a New South Wales-based building society and formerly owned by the GIO general insurance group.  The AMP Bank is a national retail bank. Building societies offer a broad range of financial services.  Building societies offer a similar range of products to banks and credit unions. The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7329"
+  }
+}

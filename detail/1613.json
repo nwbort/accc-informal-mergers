@@ -1,0 +1,31 @@
+{
+  "id": "1613",
+  "title": "Acquirer: Nufarm Ltd; Target: Crop Care",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-nufarm-ltd-target-crop-care",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16393",
+  "industries": [],
+  "date_completed": "8 October 2002",
+  "date_completed_iso": "2002-10-08T12:00:00Z",
+  "date_commenced": "25 July 2002",
+  "date_commenced_iso": "2002-07-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Nufarm Ltd"
+  ],
+  "targets": [
+    "Crop Care"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Crop Care Australasia Pty Ltd by Nufarm Australia Limited",
+    "Market definition": "The Commission considered that the relevant market definition is to consider each active ingredient as a separate product market.",
+    "Competition analysis": "The Commission considered that issues arising from the proposed acquisition included: - whether the merged firm would exceed the Commission's concentration thresholds for 2,4-D, diuron, glyphosate, MCPA and trifluralin; - whether the proposed acquisition would result in the removal of a vigorous and effective competitor; and - whether the proposed acquisition would reduce the level of countervailing power in the hands of distributors. Information supplied by the parties and other market participants indicated that actual and potential independent import competition may provide a competitive constraint on Nufarm's pricing decisions.  On this basis the Commission determined not to intervene in the proposed merger.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "2544"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1193",
+  "title": "Cemex S.A.B de C.V. - proposed acquisition of Rinker Group Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cemex-sab-de-cv-proposed-acquisition-of-rinker-group-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26148",
+  "industries": [
+    "Cement"
+  ],
+  "date_completed": "20 November 2006",
+  "date_completed_iso": "2006-11-20T12:00:00Z",
+  "date_commenced": "3 November 2006",
+  "date_commenced_iso": "2006-11-03T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Cemex SAB de CV"
+  ],
+  "targets": [
+    "Rinker Group Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Nov 2006",
+      "date_iso": "2006-11-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "17 Nov 2006",
+      "date_iso": "2006-11-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Nov 2006",
+      "date_iso": "2006-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Cemex S.A.B de C.V.(Cemex) proposes to acquire the outstanding shares in Rinker Group Ltd (Rinker).",
+    "Market definition": "Given the very limited overlap between the operations of the parties, for the purpose of this assessment, the relevant markets were considered to be national markets for clinker, cement, concrete, and lime. The competition assessment would be unchanged if narrower regional markets were adopted, as they have been in previous matters.",
+    "Competition analysis": "The ACCC considered that a substantial lessening of competition was unlikely to arise in the relevant markets.  In Australia, Cemex has only a very small presence in the clinker and cement markets.  Given minimal competitive overlap, the main effect of the acquisition was to change the ownership of Rinker.  Accordingly, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

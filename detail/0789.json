@@ -1,0 +1,49 @@
+{
+  "id": "0789",
+  "title": "Woolworths Limited - acquisition of Langton's Fine Wine Auctions",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-acquisition-of-langtons-fine-wine-auctions",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36483",
+  "industries": [
+    "Online Wine Auction"
+  ],
+  "date_completed": "5 March 2009",
+  "date_completed_iso": "2009-03-05T12:00:00Z",
+  "date_commenced": "11 February 2009",
+  "date_commenced_iso": "2009-02-11T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Langton's Fine Wine Auctions"
+  ],
+  "timeline": [
+    {
+      "date": "2 Feb 2008",
+      "date_iso": "2008-02-02T12:00:00Z",
+      "event": "The acquisition was completed."
+    },
+    {
+      "date": "11 Feb 2009",
+      "date_iso": "2009-02-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines, following advice that the acquisition had been completed."
+    },
+    {
+      "date": "27 Feb 2009",
+      "date_iso": "2009-02-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Mar 2009",
+      "date_iso": "2009-03-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths has completed an acquisition of Langton's Fine Wine Auctions.",
+    "Market definition": "Without reaching a concluded view, the ACCC considered the transaction in the context of the national market for online retail wine sales and auctions.",
+    "Competition analysis": "The ACCC concluded that Woolworths' acquisition of Langton's Fine Wine Auctions is unlikely to result in a substantial lessening of competition. Prior to the acquisition, Woolworths Liquor, BWS and Dan Murphy's did not have a presence in the online wine segment and Langton's had no retail store presence, therefore the acquisition does not lead to a competitor exiting either market. In addition, the presence of multiple competitors in the online wine segment enables Langton's customers to readily access substitute products and services post-acquisition. The ACCC further considered that barriers to entry in the online wine industry are low, and are unlikely to significantly impede the entry of new competitors."
+  }
+}

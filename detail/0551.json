@@ -1,0 +1,54 @@
+{
+  "id": "0551",
+  "title": "Toll Transport Pty Ltd - proposed acquisition of the NSW regional road and warehousing businesses conducted by Patrick Container Ports Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-transport-pty-ltd-proposed-acquisition-of-the-nsw-regional-road-and-warehousing-businesses-conducted-by-patrick-container-ports-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44522",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "8 February 2011",
+  "date_completed_iso": "2011-02-08T12:00:00Z",
+  "date_commenced": "15 December 2010",
+  "date_commenced_iso": "2010-12-15T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Toll Transport Pty Ltd"
+  ],
+  "targets": [
+    "Patrick Container Ports Pty Ltd NSW regional road + warehouse business"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2010",
+      "date_iso": "2010-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jan 2011",
+      "date_iso": "2011-01-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2011",
+      "date_iso": "2011-01-27T12:00:00Z",
+      "event": "Timeline suspended pending further information from Asciano."
+    },
+    {
+      "date": "1 Feb 2011",
+      "date_iso": "2011-02-01T12:00:00Z",
+      "event": "ACCC received further information from Asciano. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Feb 2011",
+      "date_iso": "2011-02-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Toll Transport Pty Ltd proposes to acquire the NSW regional road and warehousing businesses conducted by Patrick Container Ports Pty Ltd.",
+    "Market definition": "The markets for dedicated dangerous goods warehousing in regional NSW, including the Dubbo, Moree and Wagga Wagga regions.",
+    "Competition analysis": "Toll is active in dangerous goods logistics through Toll Chemical Logistics which distributes dangerous goods throughout Australia with warehouses in Sydney, Melbourne, Brisbane, Adeliade and Perth. The businesses to be acquired are in regional NSW. Toll does not currently have any dangerous goods warehouses in regional NSW, as a result the ACCC does not consider a substantial lessening of competition is likely."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0059",
+  "title": "Icon Group - proposed joint venture with Cyberknife Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/icon-group-proposed-joint-venture-with-cyberknife-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "22 May 2024",
+  "date_completed_iso": "2024-05-22T12:00:00Z",
+  "date_commenced": "22 March 2024",
+  "date_commenced_iso": "2024-03-22T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Icon Group"
+  ],
+  "targets": [
+    "Joint venture  with Cyberknife Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "22 Mar 2024",
+      "date_iso": "2024-03-22T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Apr 2024",
+      "date_iso": "2024-04-10T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "22 May 2024",
+      "date_iso": "2024-05-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "The Icon Group ( Icon ) and Cyberknife Australia Pty Ltd ( Cyberknife Australia ) propose to enter into a joint venture to establish up to 6 new radiation oncology clinics (proposed joint venture), which will provide radiation oncology treatments using the ‘Cyberknife’ system. Icon is a large provider of cancer care services. In Australia, Icon provides radiation oncology services, pharmaceutical compounding services, pharmacy management services and clinical cancer trials. Icon operates radiation oncology clinics in all states of Australia and the ACT. The Cyberknife system uses linear accelerators to provide radiation oncology treatment, specifically using Stereotactic Body Radiotherapy and Stereotactic Radiosurgery techniques. Cyberknife machines are manufactured by the US company Accuray and distributed in Australia by AlphaXRT. Neither Accuray nor AlphaXRT have any ownership interest in Cyberknife Australia. 5D Clinics ( 5D ) operates one of the two Cyberknife systems in Australia, which is based at 5D’s facility in Perth. The other Cyberknife system in Australia is at the Sir Charles Gairdner Hospital in Perth (a public hospital). 5D does not own or operate any other clinics in Australia.",
+    "Market definition": "The ACCC considered the likely impact of the proposed joint venture on competition in market(s) for the supply of radiation oncology services both in the Perth region, where both parties currently operate, and more broadly on a national level. It was not necessary for the ACCC to form a concluded view in relation to the precise scope of the market.",
+    "Competition analysis": "The ACCC concluded that the proposed joint venture was not likely to substantially lessen competition in any relevant market. Icon and Cyberknife Australia both supply radiation oncology services, however, the ACCC found that Icon and Cyberknife Australia did not generally compete for the same patients. The ACCC considered that the proposed joint venture would be constrained by alternative providers of radiation oncology services that offer similar services to Cyberknife, or would be able to offer new technologies, including Cyberknife systems, in competition with the proposed joint venture. The ACCC also considered it likely that if the proposed joint venture did not proceed, Cyberknife technology would not be made available in new locations as rapidly as it would otherwise."
+  }
+}

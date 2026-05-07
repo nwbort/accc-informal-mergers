@@ -1,0 +1,48 @@
+{
+  "id": "0687",
+  "title": "Luxottica Retail Australia Pty Limited - completed acquisition of licences in respect of 65 sunglass concessions within Myer Department Stores",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/luxottica-retail-australia-pty-limited-completed-acquisition-of-licences-in-respect-of-65-sunglass-concessions-within-myer-department-stores",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38573",
+  "industries": [
+    "Sunglass retailing"
+  ],
+  "date_completed": "25 November 2009",
+  "date_completed_iso": "2009-11-25T12:00:00Z",
+  "date_commenced": "2 September 2009",
+  "date_commenced_iso": "2009-09-02T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Luxottica Retail Australia Pty Limited"
+  ],
+  "targets": [
+    "licences in respect of 65 sunglass concessions within Myer stores"
+  ],
+  "timeline": [
+    {
+      "date": "17 Aug 2009",
+      "date_iso": "2009-08-17T12:00:00Z",
+      "event": "Luxottica acquired the licences in respect of 65 sunglass concessions within Myer Department Stores."
+    },
+    {
+      "date": "2 Sep 2009",
+      "date_iso": "2009-09-02T12:00:00Z",
+      "event": "Submission received from Luxottica. ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "17 Sep 2009",
+      "date_iso": "2009-09-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Nov 2009",
+      "date_iso": "2009-11-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following relevant markets: - local retail markets for the supply of mid and premium priced sunglasses; and - the wholesale market for the supply of mid and premium priced sunglasses in Australia.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in local retail markets for the supply of mid and premium priced sunglasses due to: - the existence of rivals to Luxottica including David Jones, independent sunglass retailers and independent optometrists; - the credible threat to Luxottica from the potential expansion of some of these rivals, given the availability of alternative brands and retail space; and - the little likelihood that the completed acquisition would significantly alter Luxottica's incentives with respect to supply of its wholesale sunglass range to rival retailers. The ACCC considered that the completed acquisition was unlikely to substantially lessen competition in the wholesale market for the supply of mid and premium priced sunglasses in Australia due to: - the existence of retail distribution alternatives to Luxottica including David Jones, independent sunglass retailers and independent optometrists; and - the potential for rival wholesalers to expand distribution by vertically integrating into retail markets."
+  }
+}

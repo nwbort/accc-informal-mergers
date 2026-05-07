@@ -1,0 +1,69 @@
+{
+  "id": "0708",
+  "title": "Pact Group Pty Ltd - proposed acquisition of certain assets from Huhtamaki Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pact-group-pty-ltd-proposed-acquisition-of-certain-assets-from-huhtamaki-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37948",
+  "industries": [
+    "Rigid packaging products"
+  ],
+  "date_completed": "15 September 2009",
+  "date_completed_iso": "2009-09-15T12:00:00Z",
+  "date_commenced": "29 June 2009",
+  "date_commenced_iso": "2009-06-29T12:00:00Z",
+  "total_review_days": 57,
+  "acquirers": [
+    "Pact Group Pty Ltd"
+  ],
+  "targets": [
+    "Huhtamaki Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jun 2009",
+      "date_iso": "2009-06-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Jul 2009",
+      "date_iso": "2009-07-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Aug 2009",
+      "date_iso": "2009-08-12T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "17 Aug 2009",
+      "date_iso": "2009-08-17T12:00:00Z",
+      "event": "ACCC requested further information from Pact Group."
+    },
+    {
+      "date": "28 Aug 2009",
+      "date_iso": "2009-08-28T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "31 Aug 2009",
+      "date_iso": "2009-08-31T12:00:00Z",
+      "event": "ACCC timeline suspended pending full receipt of information requested from Pact Group."
+    },
+    {
+      "date": "8 Sep 2009",
+      "date_iso": "2009-09-08T12:00:00Z",
+      "event": "ACCC received further information from Pact Group. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Sep 2009",
+      "date_iso": "2009-09-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Pact Group proposed to acquire the unit which manufactures and supplies a variety of rigid packaging products used in the dairy industry including tubs, lids and other containers from Huhtamaki Australia Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition within the context of the following markets: - the national market for the supply of thin-walled plastic food containers up to approximately 5L in capacity manufactured using injection moulding (IM food container market); and - the national market for the supply of thin-walled plastic food containers manufactured using extrusion & thermoforming (E&T food container market). For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets.  Factors informing this view included: - in the IM food container market, there would remain two significant alternative suppliers as well as a number of smaller suppliers.  Potential sponsorship of smaller players by large dairy companies and imports would also likely provide some competitive constraint; and - in the E&T food container market, the proposed acquisition would not remove a close competitor to Pact Group.  There would remain a significant alternative supplier as well as the potential for sponsorship of a number of smaller suppliers by large dairy companies. Also, manufacturers of IM food containers would be likely to provide some competitive constraint. The ACCC considered the proposed acquisition unlikely to raise conglomerate merger concerns."
+  }
+}

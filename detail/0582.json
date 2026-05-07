@@ -1,0 +1,44 @@
+{
+  "id": "0582",
+  "title": "Coles Group Ltd - completed acquisition of Coolum Village Shopping Centre, QLD",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coles-group-ltd-completed-acquisition-of-coolum-village-shopping-centre-qld",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40950",
+  "industries": [
+    "Grocery Retailing"
+  ],
+  "date_completed": "27 October 2010",
+  "date_completed_iso": "2010-10-27T12:00:00Z",
+  "date_commenced": "24 March 2010",
+  "date_commenced_iso": "2010-03-24T12:00:00Z",
+  "total_review_days": 150,
+  "acquirers": [
+    "Coles Group Ltd"
+  ],
+  "targets": [
+    "Coolum Village Shopping Centre QLD"
+  ],
+  "timeline": [
+    {
+      "date": "24 Mar 2010",
+      "date_iso": "2010-03-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Apr 2010",
+      "date_iso": "2010-04-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Oct 2010",
+      "date_iso": "2010-10-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coles Group Ltd acquired the Coolum Village Shopping Centre in December 2007.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of: (i) the local market for the retail supply of supermarket products within 3-5 km of the Coolum Village Shopping Centre; (ii) the Queensland market for the wholesale supply of supermarket products; and (iii) Queensland markets for the procurement of supermarket products.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to a number of factors including the following: - The closest and strongest competitive constraint on the Coolum Village Shopping Centre supermarket is the nearby Woolworths supermarket, and this will remain so even if the existing supermarket tenant in the Centre, Luke's Supa IGA, is replaced by a Coles supermarket. - The degree of overlap and potential competition between Luke's Supa IGA and Coles, the acquirer, was limited by the fact that there is no Coles supermarket in Coolum. The nearest Coles supermarket is in Peregian Springs, approximately 5.5km from Luke's IGA, and did not exist at the time of this acquisition. - The ACCC received confidential information suggesting that a new entrant intends to enter the local market in Coolum, enhancing competition. - While it is a popular and well stocked supermarket for its small size, there was little evidence that Luke's Supa IGA currently acts or would act as a strong competitive constraint on its nearby competitors (for example, by seeking to undercut Woolworths or Coles, or inducing strong pricing or promotional responses from them). - In relation to the Queensland wholesale and procurement markets, the acquisition of a single shopping centre was unlikely to have a substantial effect on state-wide markets for the supply and acquisition of supermarket products."
+  }
+}

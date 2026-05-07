@@ -1,0 +1,44 @@
+{
+  "id": "0145",
+  "title": "Mitolo Group's proposed acquisition of Thomas Foods International’s potato business.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/mitolo-groups-proposed-acquisition-of-thomas-foods-international%E2%80%99s-potato-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Agriculture - Potato business"
+  ],
+  "date_completed": "6 August 2020",
+  "date_completed_iso": "2020-08-06T12:00:00Z",
+  "date_commenced": "28 May 2020",
+  "date_commenced_iso": "2020-05-28T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "Mitolo Group Pty Ltd"
+  ],
+  "targets": [
+    "Certain assets of the fresh potato business by Thomas Foods International Fresh Produce Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "28 May 2020",
+      "date_iso": "2020-05-28T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Jun 2020",
+      "date_iso": "2020-06-19T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "6 Aug 2020",
+      "date_iso": "2020-08-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Mitolo Group proposed to acquire certain assets of the fresh potato business (the TFI Potato Business ) of Thomas Foods (the proposed acquisition ), including: · Thomas Foods’ Penfield, South Australia packing facility · freehold ownership of Acacia Farm (Pinnaroo), South Australia, and · a leasehold interest over a property, Blanchetown, South Australia. Mitolo Group grows and wholesale supplies fresh potatoes and onions, primarily in South Australia and New South Wales. The TFI Potato Business grows and packs fresh potatoes for wholesale and export, predominantly from South Australia.",
+    "Market definition": "The ACCC primarily considered the effect of the proposed acquisition on markets for: ·       the acquisition of fresh potatoes from independent growers in South Australia, including potential separate markets or market segments for washed potatoes, and brushed potatoes. ·       the wholesale supply of fresh potatoes in south/east mainland Australia (Australian Capital Territory, New South Wales, Queensland, South Australia, and Victoria), including separate markets or market segments for washed potatoes and brushed potatoes. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "Overview Mitolo and the TFI Potato Business are both partially vertically integrated and overlap in the acquisition and supply of fresh potatoes in Australia. The ACCC considered the impact of the proposed acquisition at various levels of the potato supply chain and concluded that that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Acquisition of potatoes from growers in South Australia While the proposed acquisition does lead to consolidation of the number of packing sheds in South Australia, the ACCC’s market inquiries identified that alternative packing sheds would continue to provide South Australian potato growers with credible alternatives to Mitolo post-acquisition. Additionally, some growers indicated that there were other alternatives available to them, such as growing other crops or supplying potatoes to processors. Supply of fresh potatoes in south/east mainland Australia to retailers and wholesalers The ACCC concluded that retailers and wholesalers have a range of alternative credible suppliers to Mitolo which would remain post-acquisition, and to which they could easily switch in order to defeat any attempt by Mitolo to raise prices. Access to potato varieties The ACCC also considered whether Mitolo’s acquisition of potato varieties currently held by the TFI potato business would affect competition for registered potato variety licenses. The ACCC concluded that growers and packing sheds would continue to be able to access a range of other varieties as well as future varieties that are being developed, allowing them to compete with Mitolo post-acquisition."
+  }
+}

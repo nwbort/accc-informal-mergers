@@ -1,0 +1,44 @@
+{
+  "id": "0592",
+  "title": "Billabong International Ltd - proposed acquisition of Rush Lifestyle Australia Pty Ltd retail stores",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/billabong-international-ltd-proposed-acquisition-of-rush-lifestyle-australia-pty-ltd-retail-stores",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43297",
+  "industries": [
+    "retail sports clothing"
+  ],
+  "date_completed": "21 September 2010",
+  "date_completed_iso": "2010-09-21T12:00:00Z",
+  "date_commenced": "26 August 2010",
+  "date_commenced_iso": "2010-08-26T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "Billabong International Ltd"
+  ],
+  "targets": [
+    "Rush Lifestyle Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "26 Aug 2010",
+      "date_iso": "2010-08-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Sep 2010",
+      "date_iso": "2010-09-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Sep 2010",
+      "date_iso": "2010-09-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Billabong International Ltd (Billabong), via a subsidiary GSM (Operations) Pty Ltd, proposes to acquire 36 retail stores of Rush Lifestyle Australia Pty Ltd (Rush).",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following markets: -Markets for the retail supply of casual wear, including board sports apparel, accessories and hardware in Cairns, Burleigh Heads and Mooloolaba, where the parties overlap; and -National market for the wholesale supply of casual wear, board sports apparel, accessories and hardware.",
+    "Competition analysis": "The ACCC took into account, amongst other factors: -That Billabong would continue to be competitively constrained in the local markets through the presence of other competing specialist sports apparel, accessories and hardware retailers in close proximity to Billabong/Rush stores in Cairns, Burleigh Heads and Mooloolaba; -The availability of specialist independent retailers as alternate avenues for wholesale distribution by rival wholesalers; and -The presence of alternate wholesalers of board sports apparel, accessories and hardware, including well-recognised brands. Accordingly, on 21 September 2010, the ACCC decided not to oppose the proposed acquisition."
+  }
+}

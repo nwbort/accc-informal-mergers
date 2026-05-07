@@ -1,0 +1,44 @@
+{
+  "id": "0365",
+  "title": "Liquorland (Australia) Pty Ltd - proposed acquisition of Cellarbrations in Pinjarra WA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/liquorland-australia-pty-ltd-proposed-acquisition-of-cellarbrations-in-pinjarra-wa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51269",
+  "industries": [
+    "Liquor"
+  ],
+  "date_completed": "19 September 2013",
+  "date_completed_iso": "2013-09-19T12:00:00Z",
+  "date_commenced": "5 August 2013",
+  "date_commenced_iso": "2013-08-05T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Liquorland (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Cellarbrations in Pinjarra WA"
+  ],
+  "timeline": [
+    {
+      "date": "5 Aug 2013",
+      "date_iso": "2013-08-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "16 Aug 2013",
+      "date_iso": "2013-08-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Sep 2013",
+      "date_iso": "2013-09-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Liquorland proposed to acquire the retail liquor business trading as Cellarbrations at Pinjarra Junction Shopping Centre, taking over the Cellarbrations lease for the remaining lease period. As part of the acquisition, Liquorland proposed to surrender the lease and liquor licence for its existing location within Pinjarra Junction Shopping Centre.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: i. the retail sale of packaged liquor for off-premises consumption in the local area surrounding the target business (the local retail liquor market); ii. the retail sale of packaged liquor for off-premises consumption in Western Australia (the WA retail liquor market); and iii. the Western Australia market for the wholesale acquisition of liquor (the WA wholesale liquor market).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In relation to the local retail liquor market the ACCC considered that: i. the proposed acquisition did not result in the aggregation of liquor licences, which would be likely to facilitate the entry of another liquor store in the future; ii. barriers to entry were unlikely to increase as a result of the proposed acquisition; and iii. the competitors remaining in and around Pinjarra would continue to provide a competitive constraint on Liquorland following the acquisition. In relation to the WA retail liquor market and WA wholesale liquor market, the ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition as it would result in only a very small increase in market shares as the acquisition was of a single site only."
+  }
+}

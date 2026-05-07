@@ -1,0 +1,43 @@
+{
+  "id": "0945",
+  "title": "BAE Systems Australia Ltd - proposed acquisition of Tenix Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bae-systems-australia-ltd-proposed-acquisition-of-tenix-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30425",
+  "industries": [
+    "Provision of products and services to defence"
+  ],
+  "date_completed": "11 March 2008",
+  "date_completed_iso": "2008-03-11T12:00:00Z",
+  "date_commenced": "21 January 2008",
+  "date_commenced_iso": "2008-01-21T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "BAE Systems Australia Ltd"
+  ],
+  "targets": [
+    "Tenix Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jan 2008",
+      "date_iso": "2008-01-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Mar 2008",
+      "date_iso": "2008-03-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in relation to separate national markets for the acquisition of defence products and the sustainment of defence products in the following areas: - Aerospace - Marine - Vehicles and Land - Weapons and Munitions and - Electronic Systems The ACCC also considered the national market for the acquisition of base and garrison support services, as well as a secondary market for the provision of products and services by subcontractors to prime contractors.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching this view, the ACCC considered that the merged firm's pricing decisions are likely to be constrained by the presence of existing competitors as well as actual and potential import competition. The ACCC also considered that vertical and conglomerate issues are not likely to arise, as it is unlikely that the proposed acquisition will place the merged firm in an improved position to leverage its position across the relevant markets."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "1140",
+  "title": "Monsanto Company - proposed acquisition of Delta and Pine Land Company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/monsanto-company-proposed-acquisition-of-delta-and-pine-land-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26910",
+  "industries": [
+    "Cotton seed"
+  ],
+  "date_completed": "26 February 2007",
+  "date_completed_iso": "2007-02-26T12:00:00Z",
+  "date_commenced": "24 January 2007",
+  "date_commenced_iso": "2007-01-24T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Monsanto Company"
+  ],
+  "targets": [
+    "Delta and Pine Land Company"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jan 2007",
+      "date_iso": "2007-01-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2007",
+      "date_iso": "2007-02-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Feb 2007",
+      "date_iso": "2007-02-26T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The proposed acquisition was considered in the context of: - the national market for the development and supply of cotton seed; and - the national market for the development and supply of transgenic traits to seed development and commercialisation companies.",
+    "Competition analysis": "In relation to potential horizontal concerns in the market for the development and supply of cotton seed, the proposed acquisition represents new entry into the market for the development and supply of cotton seed in Australia, and as such, is unlikely to lessen competition in this market. In relation to potential vertical concerns in the market for the development and supply of transgenic traits to seed development and commercialisation companies, there is unlikely to be a significant foreclosure issue with respect to supply of transgenic traits to cotton seed companies in Australia as the target firm holds less than 10% of the market for the development and supply of cotton seed in Australia. Accordingly, on 26 February 2007 the ACCC decided that, based on the information before it, the proposed acquisition was unlikely to substantially lessen competition in any relevant market in Australia and advised the parties that the ACCC did not intend to intervene in the proposed acquisition pursuant to section 50 of the Trade Practices Act."
+  }
+}

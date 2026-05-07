@@ -1,0 +1,31 @@
+{
+  "id": "1639",
+  "title": "Acquirer: Nuplex Industries (Aust) Pty Ltd; Target: Asia Pacific Specialty Chemicals Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-nuplex-industries-aust-pty-ltd-target-asia-pacific-specialty-chemicals-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14608",
+  "industries": [],
+  "date_completed": "25 June 2002",
+  "date_completed_iso": "2002-06-25T12:00:00Z",
+  "date_commenced": "5 September 2001",
+  "date_commenced_iso": "2001-09-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Nuplex Industries (Aust) Pty Ltd"
+  ],
+  "targets": [
+    "Asia Pacific Specialty Chemicals Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed Acquisition of Asia Pacific Specialty Chemicals Pty Ltd ('APS') by Nuplex Industries (Aust) Pty Ltd",
+    "Market definition": "The Commission found that there were two relevant markets for consideration: - the national market for the manufacture and supply of aqueous dispersions; and - the national market for the manufacture and supply of paint driers.",
+    "Competition analysis": "In the national market for the manufacture and supply of aqueous dispersions, the proposed acquisition would exceed the Commission's market concentration thresholds.  The Commission found that the following factors indicated that the proposed acquisition was unlikely to substantially lessen competition in the relevant market: - the relatively low market share that the merged firm would possess; - there are a number of domestic alternative suppliers to whom customers could turn.  The remaining competitors are also large, global manufacturers; - actual and potential imports appear to represent a credible constraint.  Imports of aqueous dispersions are presently sourced from a variety of countries; - barriers to entry and expansion by existing domestic competitors appear to be low; and - some degree of countervailing power possessed by major customers in the form of alternative supply, volume purchases and in-house production. In the national market for the manufacture and supply of paint driers, the proposed acquisition would exceed the Commission's market concentration thresholds.  The Commission found that the following factors indicated that the proposed acquisition was unlikely to substantially lessen competition in the relevant market: - paint driers appear to be a commodity product; - there is another domestic supplier that customers could turn; - actual and potential imports appear to represent a credible constraint.  Imports of paint driers are presently sourced from a variety of countries; and - significant levels of countervailing power possessed by customers in the form of alternative supply, volume purchases and in-house production.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2534"
+  }
+}

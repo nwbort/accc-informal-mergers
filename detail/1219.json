@@ -1,0 +1,44 @@
+{
+  "id": "1219",
+  "title": "Australian Pipeline Trust - proposed acquisition of Allgas Natural Gas Distribution Networks",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-pipeline-trust-proposed-acquisition-of-allgas-natural-gas-distribution-networks",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25210",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "20 September 2006",
+  "date_completed_iso": "2006-09-20T12:00:00Z",
+  "date_commenced": "5 September 2006",
+  "date_commenced_iso": "2006-09-05T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Australian Pipeline Trust (APT)"
+  ],
+  "targets": [
+    "Allgas Natural Gas Distribution Networks"
+  ],
+  "timeline": [
+    {
+      "date": "5 Sep 2006",
+      "date_iso": "2006-09-05T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "15 Sep 2006",
+      "date_iso": "2006-09-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "20 Sep 2006",
+      "date_iso": "2006-09-20T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "APT proposed to bid for the Alllgas natural gas distribution networks, which were being sold as part of the partial privatisation of the Queensland energy industry.",
+    "Market definition": "APT was the owner of the sole natural gas transmission pipeline servicing the Brisbane area, the Roma to Brisbane Pipeline.  Allgas owned the natural gas distribution networks south of the Brisbane River, which were supplied by gas from the Roma to Brisbane Pipeline.  Accordingly, the relevant market in this matter was considered to be the wholesaling of gas into south east Queensland.",
+    "Competition analysis": "The ACCC considered that, although the proposed acquisition would result in the owner of the dominant transmission pipeline becoming the owner of half the distribution networks in the Brisbane area, this would be unlikely to result in a substantial lessening of competition because all except one of the relevant distribution pipelines was regulated by the Gas Code, restricting APT's ability to engage in foreclosure strategies post-acquisition.  Further, as the Allgas distribution networks and the other distribution networks that take gas from the Roma to Brisbane, the Envestra networks, do not compete against each other to any significant extent, APT's incentive to engage in foreclosure was also deemed to be minimal."
+  }
+}

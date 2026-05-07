@@ -1,0 +1,44 @@
+{
+  "id": "0545",
+  "title": "TEC Projects Limited - completed acquisition of Tecpak Industries Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tec-projects-limited-completed-acquisition-of-tecpak-industries-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44485",
+  "industries": [
+    "Plastic injection moulding"
+  ],
+  "date_completed": "22 February 2011",
+  "date_completed_iso": "2011-02-22T12:00:00Z",
+  "date_commenced": "15 December 2010",
+  "date_commenced_iso": "2010-12-15T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "TEC Projects Limited"
+  ],
+  "targets": [
+    "Tecpak Industries Limited"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2010",
+      "date_iso": "2010-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jan 2011",
+      "date_iso": "2011-01-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Feb 2011",
+      "date_iso": "2011-02-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "TEC Projects Limited (TEC Projects) has acquired Tecpak Industries Limited (Tecpak) (the completed acquisition)",
+    "Market definition": "Although the ACCC did not form a concluded view in relation to market definition, it considered whether the completed acquisition would have an impact on competition in any market in Australia for the supply of thin-walled plastic containers.",
+    "Competition analysis": "The ACCC considered that the completed merger was unlikely to result in a substantial lessening of competition in the relevant market. In particular, Tecpak did not appear to be a particularly significant or vigorous and effective competitor in the market and a number of more significant domestic competitors remain."
+  }
+}

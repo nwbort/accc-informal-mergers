@@ -1,0 +1,84 @@
+{
+  "id": "0091",
+  "title": "Dye & Durham Corporation - Link Administration Holdings",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dye-durham-corporation-link-administration-holdings",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Information services, conveyancing software and manual property settlement services"
+  ],
+  "date_completed": "8 September 2022",
+  "date_completed_iso": "2022-09-08T12:00:00Z",
+  "date_commenced": "1 March 2022",
+  "date_commenced_iso": "2022-03-01T12:00:00Z",
+  "total_review_days": 124,
+  "acquirers": [
+    "Dye & Durham Corporation"
+  ],
+  "targets": [
+    "Link Administration Holdings"
+  ],
+  "timeline": [
+    {
+      "date": "1 Mar 2022",
+      "date_iso": "2022-03-01T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Mar 2022",
+      "date_iso": "2022-03-15T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "10 May 2022",
+      "date_iso": "2022-05-10T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (26 May 2022) is delayed pending receipt of information from the parties."
+    },
+    {
+      "date": "19 May 2022",
+      "date_iso": "2022-05-19T12:00:00Z",
+      "event": "ACCC received further information."
+    },
+    {
+      "date": "3 Jun 2022",
+      "date_iso": "2022-06-03T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (9 June 2022) delayed to allow parties more time to provide additional information."
+    },
+    {
+      "date": "16 Jun 2022",
+      "date_iso": "2022-06-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "7 Jul 2022",
+      "date_iso": "2022-07-07T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "4 Aug 2022",
+      "date_iso": "2022-08-04T12:00:00Z",
+      "event": "ACCC commenced market consultation on proposed s87B undertaking."
+    },
+    {
+      "date": "18 Aug 2022",
+      "date_iso": "2022-08-18T12:00:00Z",
+      "event": "Closing date for submissions relating to the proposed s87B undertaking."
+    },
+    {
+      "date": "8 Sep 2022",
+      "date_iso": "2022-09-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by the ACCC."
+    },
+    {
+      "date": "20 Oct 2022",
+      "date_iso": "2022-10-20T12:00:00Z",
+      "event": "The s87B undertaking was withdrawn (refer to Withdrawal Instrument above)"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Dye & Durham ( D&D ) proposed to acquire, through a subsidiary, Link Administration Holdings ( Link ). Link owns a 42.77% stake in PEXA Group Limited ( PEXA ). D&D provides information search and broking services Australia-wide and jurisdiction specific conveyancing software solutions and lodgement services. Link provides outsourced administration services for superannuation funds and corporate markets, and other related services. PEXA operates an Electronic Lodgement Network. The ACCC commenced its public review of the Proposed Acquisition on 1 March 2022. On 16 June 2022, the ACCC published a Statement of Issues outlining preliminary competition concerns in relation to the Proposed Acquisition. On 4 August 2022, the ACCC commenced market consultation on a draft proposed 87B undertaking. On 8 September 2022, the ACCC decided to not oppose D&D’s proposed acquisition of Link, subject to the ACCC accepting a court enforceable undertaking from D&D to divest its existing Australian businesses. D&D sought the ACCC’s consent to the withdrawal of the Undertaking pursuant to s 87B(2) of the Competition and Consumer Act 2010 (Cth). As D&D’s proposed acquisition of Link is no longer proceeding, the ACCC provided its consent to withdraw the Undertaking in its entirety on 20 October 2022.",
+    "Market definition": "Refer to the Public Competition Assessment below",
+    "Competition analysis": "Refer to the Public Competition Assessment below"
+  }
+}

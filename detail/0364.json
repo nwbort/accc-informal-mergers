@@ -1,0 +1,46 @@
+{
+  "id": "0364",
+  "title": "Consortium of CMA CGM SA , ANL Container Line Pty Ltd and Macquarie Specialised Asset Management Limited - proposed acquisition of new container terminal and empty container park at Port of Melbourne",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/consortium-of-cma-cgm-sa-anl-container-line-pty-ltd-and-macquarie-specialised-asset-management-limited-proposed-acquisition-of-new-container-terminal-and",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51532",
+  "industries": [
+    "Ports"
+  ],
+  "date_completed": "25 September 2013",
+  "date_completed_iso": "2013-09-25T12:00:00Z",
+  "date_commenced": "31 July 2013",
+  "date_commenced_iso": "2013-07-31T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "CMA CGM SA",
+    "ANL Container Line Pty Ltd",
+    "Macquarie Specialised Asset Management Limited"
+  ],
+  "targets": [
+    "New container terminal and empty container park at Port of Melbourne"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2013",
+      "date_iso": "2013-07-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "23 Aug 2013",
+      "date_iso": "2013-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Sep 2013",
+      "date_iso": "2013-09-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A consortium of CMA CGM S.A., ANL Container Line Pty Ltd and Macquarie Specialised Asset Management Limited proposed to develop and operate the International Container Terminal and Empty Container Park at Webb Dock East, Port of Melbourne.",
+    "Market definition": "The ACCC considered that the relevant markets for the purpose of assessing the proposed acquisition were the markets for the supply of: i. international container terminal and container stevedoring services at the Port of Melbourne (the container terminal market); ii. empty container park services in Melbourne; and iii. shipping line services for the import and export of containerised freight to/from Port of Melbourne (the container shipping market).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition by the CMA/ANL Consortium would not be likely to result in a substantial lessening of competition in a relevant market. The ACCC formed this view having regard to the following: - the CMA/ANL Consortium is likely to face significant competition from DP World and Asciano in the container terminal market; - Macquarie, as a partner in the CMA/ANL Consortium, is likely to ensure that the terminal maximises profits and would be unlikely to tolerate cross-subsidising CMA/ANL's shipping lines by charging them lower stevedoring fees; - margins in the container terminal market are high compared to the container shipping market, therefore the CMA/ANL Consortium will have a greater incentive to attract other shipping lines to its terminal and maximise container terminal throughput compared to increasing CMA/ANL shipping volumes; - the CMA/ANL Consortium will therefore not have the incentive to provide less favourable rates and services to competitive shipping lines; - the CMA/ANL Consortium's ability to attract rival shipping lines to the Webb Dock East terminal would be jeopardised by any perceived discrimination towards shipping lines; and - attempts by the CMA/ANL Consortium to offer preferential stevedoring prices and services at the Port of Melbourne would be unlikely to substantially lessen the ability of competing shipping lines to attract customers."
+  }
+}

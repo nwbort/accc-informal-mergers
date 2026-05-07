@@ -1,0 +1,30 @@
+{
+  "id": "1633",
+  "title": "Acquirer: Australian Gas Light Company The (AGL); Target: Pulse Energy Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-gas-light-company-the-agl-target-pulse-energy-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16412",
+  "industries": [],
+  "date_completed": "1 July 2002",
+  "date_completed_iso": "2002-07-01T12:00:00Z",
+  "date_commenced": "13 May 2002",
+  "date_commenced_iso": "2002-05-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Gas Light Company The (AGL)"
+  ],
+  "targets": [
+    "Pulse Energy Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "AGL sought to acquire Pulse Energy under a competitive tender sale process.",
+    "Market definition": "This proposed merger concerned electricity retailing and gas retailing in Victoria",
+    "Competition analysis": "AGL is an energy retailer operating in several states.  In Victoria AGL operated substantial electricity distribution and retail businesses.  Pulse Energy did not operate any electricity distribution business but operated electricity and gas retailing businesses in Victoria. In respect of electricity retailing, AGL's proposed acquisition of Pulse Energy would have the effect of reducing the number of Victorian electricity retailers from 5 to 4. On the basis of extensive market inquiries, it was not clear that competition would suffer if there were four major electricity retailers in Victoria, all of which would be available to service Victorian electricity consumers.  It was also noted that many businesses potentially had access to interstate electricity retailers which were prepared to sell electricity to that sector. In terms of gas retailing, the Commission noted arguments that a national market existed.  However market inquiries indicated that it was, and would for some time remain, very difficult for potential new entrant retailers to get cost effective wholesale gas in sufficient volumes for mass-market sales in Victoria.  These factors were indicative of a Victorian market for gas retailing. In this context it was noted that AGL had only a minor presence in Victorian gas retailing, despite having a substantial gas retail business in NSW.   Furthermore any acquisition of Pulse Energy's gas retailing business by AGL would maintain the situation of there being 3 mass-market gas retailers in that state. Given these factors the Commission decided not to intervene against AGL's proposed acquisition of Pulse Energy's Victorian electricity and gas retailing businesses.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "ANZSIC code": "3610"
+  }
+}

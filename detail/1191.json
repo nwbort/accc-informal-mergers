@@ -1,0 +1,54 @@
+{
+  "id": "1191",
+  "title": "Orica Australia Pty Ltd (Orica) - proposed acquisition of CSBP Limited's Western Australian chloralkali assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/orica-australia-pty-ltd-orica-proposed-acquisition-of-csbp-limiteds-western-australian-chloralkali-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25288",
+  "industries": [
+    "Chemicals"
+  ],
+  "date_completed": "21 November 2006",
+  "date_completed_iso": "2006-11-21T12:00:00Z",
+  "date_commenced": "27 September 2006",
+  "date_commenced_iso": "2006-09-27T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Orica Australia Pty Ltd"
+  ],
+  "targets": [
+    "CSBP Limited"
+  ],
+  "timeline": [
+    {
+      "date": "27 Sep 2006",
+      "date_iso": "2006-09-27T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "11 Oct 2006",
+      "date_iso": "2006-10-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Oct 2006",
+      "date_iso": "2006-10-23T12:00:00Z",
+      "event": "Having regard to submissions received, the proposed date for announcement of ACCC's findings was revised."
+    },
+    {
+      "date": "15 Nov 2006",
+      "date_iso": "2006-11-15T12:00:00Z",
+      "event": "ACCC requested further information from Orica. Proposed date for announcement of ACCC's findings was delayed to provide time for Orica's response."
+    },
+    {
+      "date": "21 Nov 2006",
+      "date_iso": "2006-11-21T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Orica Australia Pty Ltd proposes to acquire CSBP Limited's Western Australian chloralkali business.",
+    "Market definition": "For the purpose of this assessment, the relevant markets were considered to be: - the supply of bottled liquid chlorine in Western Australia; - the supply of sodium hypochlorite in Western Australia; - the supply of caustic soda in Western Australia; and - the supply of hydrochloric acid in Western Australia.",
+    "Competition analysis": "The ACCC considered that a substantial lessening of competition was unlikley to arise in the relevant markets. On the basis of market enquiries, the ACCC found that there was not a significant degree of overlap between CSBP and Orica's operations in relation to sodium hypochlorite and hydrochloric acid in the relevant markets identified, and other competitors would remain in the market. For the supply of caustic soda in Western Australia, the ACCC noted that there were significant import volumes into Western Australia. For the supply of bottled liquid chlorine in Western Australia, the ACCC noted some concerns that if Orica were to acquire CSBP, this would result in the removal of the only competitor for liquid chlorine in Australia. However, market enquiries indicated that Orica was not a significant competitor in the Western Australian market, and that there was some potential for new entry from third parties."
+  }
+}

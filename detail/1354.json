@@ -1,0 +1,26 @@
+{
+  "id": "1354",
+  "title": "Proposed sale of Southern Hydro Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-sale-of-southern-hydro-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22085",
+  "industries": [
+    "electricity"
+  ],
+  "date_completed": "5 October 2005",
+  "date_completed_iso": "2005-10-05T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed sale of Southern Hydro Ltd to AGL and other confidential bidders.",
+    "Market definition": "The Commission considered both a NEM wide and Victorian region of the NEM market.",
+    "Competition analysis": "The Commission concluded that a substantial lessening of competition did not appear likely on either market definition for any of the short listed bidders. The Commission in particular considered the significance of the incumbent Victorian generators. The short list of bidders is not yet public.",
+    "Merger type": "Horizontal, Vertical",
+    "Initiation": "Press"
+  }
+}

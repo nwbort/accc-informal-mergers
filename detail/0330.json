@@ -1,0 +1,44 @@
+{
+  "id": "0330",
+  "title": "Proposed merger of MDA National Ltd/MDA National Insurance Pty Ltd and Medical Defence Association of South Australia Limited(MIGA)/Medical Insurance Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-of-mda-national-ltdmda-national-insurance-pty-ltd-and-medical-defence-association-of-south-australia-limitedmigamedical-insurance",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54807",
+  "industries": [
+    "Insurance - Medical"
+  ],
+  "date_completed": "6 August 2014",
+  "date_completed_iso": "2014-08-06T12:00:00Z",
+  "date_commenced": "12 June 2014",
+  "date_commenced_iso": "2014-06-12T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "A new MDO formed from the proposed merger of MDA National and MIGA"
+  ],
+  "targets": [
+    "The insurance portfolios of the above Medical Defence Organisations"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jun 2014",
+      "date_iso": "2014-06-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "3 Jul 2014",
+      "date_iso": "2014-07-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Aug 2014",
+      "date_iso": "2014-08-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "MDA National Limited (which provides insurance through its insurer MDA National Insurance Pty Ltd (MDANI)) and Medical Defence Association of South Australia Limited (which provides insurance through its insurer Medical Insurance Australia Pty Ltd (Medical Insurance Australia)) proposed to merge to form a new medical defence organisation (New MDO).  As part of the merger, it was proposed that Medical Insurance Australia be acquired by the New MDO and MDANI would transfer its insurance portfolio to Medical Insurance Australia, which would then be renamed so as to be the sole insurance provider for the New MDO group and its members.",
+    "Market definition": "The ACCC assessed the effects of the proposed merger in the context of a national market for the supply of medical indemnity insurance, including associated medico-legal advice and risk management services, to medical practitioners (doctors).  In this market the merger parties compete primarily with the two other medical defence groups: Avant Mutual Group and the Medical Indemnity Protection Society. The merger parties both also supply indemnity insurance to other types of health practitioners and medical organisations, but in these areas face competition from a broader range of competitors, including general insurers.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any relevant market.  While the proposed merger will reduce the number of medical defence organisations in Australia from four to three, the remaining competitors, in particular the largest MDO, Avant, are likely to constrain the merged organisation from increasing prices or reducing quality."
+  }
+}

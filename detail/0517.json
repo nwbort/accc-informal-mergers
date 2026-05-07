@@ -1,0 +1,44 @@
+{
+  "id": "0517",
+  "title": "Genesis Care Pty Limited - proposed acquisition of Perth Radiation Oncology",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/genesis-care-pty-limited-proposed-acquisition-of-perth-radiation-oncology",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45642",
+  "industries": [
+    "Healthcare"
+  ],
+  "date_completed": "7 June 2011",
+  "date_completed_iso": "2011-06-07T12:00:00Z",
+  "date_commenced": "13 April 2011",
+  "date_commenced_iso": "2011-04-13T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Genesis Care Pty Limited"
+  ],
+  "targets": [
+    "Perth Radiation Oncology"
+  ],
+  "timeline": [
+    {
+      "date": "15 Apr 2011",
+      "date_iso": "2011-04-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 May 2011",
+      "date_iso": "2011-05-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Jun 2011",
+      "date_iso": "2011-06-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Genesis Care Pty Ltd (Genesis) proposed to acquire Perth Radiation Oncology (PRO).",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. Nonetheless, the ACCC considered the competitive effects of the proposed acquisition in the context of a market for the supply of radiation oncology services in the greater Perth region",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market for the following reasons: -  the provision of public radiation oncology services at zero cost to patients and the expansion and/or threat of expansion of those services was likely to competitively constrain Genesis; - service levels at public radiation oncology facilities operated by Genesis on behalf of the Western Australian Department of Health were likely to be maintained due to contractual obligations; and - future competition for the provision of radiation oncology services at public facilities on behalf of the Western Australian Department of Health was likely to come from service providers from the Eastern States of Australia and potentially from overseas."
+  }
+}

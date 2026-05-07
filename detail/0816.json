@@ -1,0 +1,44 @@
+{
+  "id": "0816",
+  "title": "Prime Media Group Limited - proposed acquisition of Darwin Digital Television Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/prime-media-group-limited-proposed-acquisition-of-darwin-digital-television-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36233",
+  "industries": [
+    "Media, television, advertising"
+  ],
+  "date_completed": "20 January 2009",
+  "date_completed_iso": "2009-01-20T12:00:00Z",
+  "date_commenced": "4 December 2008",
+  "date_commenced_iso": "2008-12-04T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Prime Media Group Limited"
+  ],
+  "targets": [
+    "Darwin Digital Television Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Dec 2008",
+      "date_iso": "2008-12-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jan 2009",
+      "date_iso": "2009-01-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "20 Jan 2009",
+      "date_iso": "2009-01-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 4 December 2008, Prime advised that it will acquire 50% of Darwin Digital Television Pty Ltd from Regional Television Pty Ltd (owned by Macquarie Media Group).",
+    "Market definition": "Consistent with previous ACCC reviews of acquisitions in the media industry, the ACCC considered the acquisitions in relation to three product classes: - The supply of advertising opportunities to advertisers; - The supply of content to consumers; - The acquisition of content from content providers. The ACCC considered that the appropriate geographic scope in which to consider the competitive effects of the proposed acquisition was the Darwin licence area.",
+    "Competition analysis": "The ACCC considered that the acquisition of a 50% interest in Darwin Digitial Television Pty Ltd was unlikely to give rise to a substantial lessening of competition in the relevant market as Prime does not currently have a presence in digital television in Darwin."
+  }
+}

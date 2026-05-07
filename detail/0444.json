@@ -1,0 +1,59 @@
+{
+  "id": "0444",
+  "title": "Sony Corporation of America - proposed acquisition of EMI Music Publishing",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sony-corporation-of-america-proposed-acquisition-of-emi-music-publishing",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48388",
+  "industries": [
+    "Music publishing"
+  ],
+  "date_completed": "13 June 2012",
+  "date_completed_iso": "2012-06-13T12:00:00Z",
+  "date_commenced": "7 March 2012",
+  "date_commenced_iso": "2012-03-07T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Sony Corporation of America"
+  ],
+  "targets": [
+    "EMI Music Publishing"
+  ],
+  "timeline": [
+    {
+      "date": "7 Mar 2012",
+      "date_iso": "2012-03-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Mar 2012",
+      "date_iso": "2012-03-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Apr 2012",
+      "date_iso": "2012-04-19T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 3 May 2012 delayed to allow for receipt of the information requested from the merger parties and to allow the ACCC to liaise with overseas regulators in relation to the proposed acquisition."
+    },
+    {
+      "date": "18 May 2012",
+      "date_iso": "2012-05-18T12:00:00Z",
+      "event": "ACCC received further information from merger parties."
+    },
+    {
+      "date": "24 May 2012",
+      "date_iso": "2012-05-24T12:00:00Z",
+      "event": "ACCC completed assessment of information received from merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 Jun 2012",
+      "date_iso": "2012-06-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sony Corporation and Mubadala Development Company PJSC (on behalf of other minority consortium members) proposed to acquire EMI's music publishing business.",
+    "Market definition": "The ACCC assessed the proposed acquisition in the context of the following markets: - the national market for the acquisition of rights from authors by music publishers; and - the national market for the exploitation of copyrights by music publishers.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the national market for the acquisition of rights from authors by music publishers. The ACCC considered that a number of alternative music publishers would remain in the market post-acquisition such that authors could switch in response to any attempt by the merged entity to decrease the size of advances and/or royalties, or to diminish any non-price terms and conditions. The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the national market for the exploitation of copyrights by music publishers. Factors informing the ACCC's decision were: - the ACCC noted the role of the Copyright Tribunal in determining the rates payable for mechanical and performance rights, which are licensed through collecting societies; - the proposed acquisition was unlikely to provide the merged entity with a greater ability or incentive to withdraw its rights from local collecting societies; and - unlike mechanical and performance rights, the rates for synchronisation and print rights are determined by individual publishers. The ACCC considered that a number of competitors would remain in the market post-acquisition and would likely constrain any attempt by the merged entity to increase prices for these rights."
+  }
+}

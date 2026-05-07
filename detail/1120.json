@@ -1,0 +1,44 @@
+{
+  "id": "1120",
+  "title": "Aberdeen Asset Management PLC - proposed acquisition of several asset management businesses from Deutsche Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aberdeen-asset-management-plc-proposed-acquisition-of-several-asset-management-businesses-from-deutsche-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27881",
+  "industries": [
+    "Asset management"
+  ],
+  "date_completed": "16 April 2007",
+  "date_completed_iso": "2007-04-16T12:00:00Z",
+  "date_commenced": "3 April 2007",
+  "date_commenced_iso": "2007-04-03T12:00:00Z",
+  "total_review_days": 8,
+  "acquirers": [
+    "Aberdeen Asset Management PLC"
+  ],
+  "targets": [
+    "Deutsche Australia Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Apr 2007",
+      "date_iso": "2007-04-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Apr 2007",
+      "date_iso": "2007-04-11T12:00:00Z",
+      "event": "Closing date for submissions relating to proposed acquisition"
+    },
+    {
+      "date": "16 Apr 2007",
+      "date_iso": "2007-04-16T12:00:00Z",
+      "event": "ACCC announced findings"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aberdeen proposes to acquire several asset management businesses from Deutsche Australia Ltd.",
+    "Market definition": "This matter was considered within the context of an Australian market for funds management.",
+    "Competition analysis": "On 16 April 2007, the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion included: -the merged business will have a relatively small market share within the context of the Australian market for funds management, and -a large number of competitors of varying sizes will remain."
+  }
+}

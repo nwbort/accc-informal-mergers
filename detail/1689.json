@@ -1,0 +1,31 @@
+{
+  "id": "1689",
+  "title": "Acquirer: AES Environmental Pty Ltd; Target: Cyde Apac",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-aes-environmental-pty-ltd-target-cyde-apac",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "14827",
+  "industries": [],
+  "date_completed": "7 February 2002",
+  "date_completed_iso": "2002-02-07T12:00:00Z",
+  "date_commenced": "5 October 2001",
+  "date_commenced_iso": "2001-10-05T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "AES Environmental Pty Ltd"
+  ],
+  "targets": [
+    "Cyde Apac"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Concern raised by a complainant in relation to the proposed sale of the Clyde Apac Division of Downer Group Ltd to AES Environmental Ptd Ltd.",
+    "Market definition": "Laminar air flow products.",
+    "Competition analysis": "The Commission decided on 7 February 2002 that it would not oppose the proposed acquisition of the Clyde Apac business to AES Environmental after accepting a court enforceable undertaking from AES Environmental. The Clyde Apac business is a division of Downer EDI.  Clyde Apac is a major manufacturer of specialised air filtration and contamination-control equipment for industry, health care institutions and scientific research facilities.  AES Environmental is an Australian private company that manufactures and services air filtration and pollution control equipment. The Commission undertook extensive market inquiries into this proposed acquisition. Based on information collected during market inquiries, the Commission had concerns that the proposed merger would substantially lessen competition in the market for laminar air flow products.  The proposed acquisition would result in a high market concentration post-merger with high barriers to entry created by the application of the Australian standard. The Commission accepted an undertaking from AES Environmental in order to address its concerns.  The undertaking commits AES Environmental and its representatives on the Australian Standard committee for laminar air flow products to vote for changes to the current Australian Standard which brings them into closer alignment with overseas standards. After taking account of the undertaking offered by AES Environmental, the Commission believes that the proposed acquisition is unlikely to lead to a substantial lessening of competition.",
+    "Resolution": "Undertakings",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2867"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0491",
+  "title": "Microsoft Corporation - proposed acquisition of Skype",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/microsoft-corporation-proposed-acquisition-of-skype",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "45862",
+  "industries": [
+    "Information technology and communications"
+  ],
+  "date_completed": "5 October 2011",
+  "date_completed_iso": "2011-10-05T12:00:00Z",
+  "date_commenced": "14 July 2011",
+  "date_commenced_iso": "2011-07-14T12:00:00Z",
+  "total_review_days": 47,
+  "acquirers": [
+    "Microsoft Corporation"
+  ],
+  "targets": [
+    "Skype"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jul 2011",
+      "date_iso": "2011-07-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Aug 2011",
+      "date_iso": "2011-08-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Aug 2011",
+      "date_iso": "2011-08-31T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 8 September 2011 delayed."
+    },
+    {
+      "date": "16 Sep 2011",
+      "date_iso": "2011-09-16T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "6 Oct 2011",
+      "date_iso": "2011-10-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following national markets: - the market for applications that enable consumers to engage in real-time communication via instant messages (IMs), voice calls and video calls over the internet (Consumer Real-Time Communications Applications Market); and - the market for Unified Communications (UC) products and services that integrate real-time communication services (such as telephony, IMs and video) with non-real-time communication services (such as SMS and email) to provide a consistent user experience across multiple devices and media types (UC Market). The ACCC did not consider it necessary to form a definitive view regarding market definition as the proposed acquisition was unlikely to raise concerns regardless of the market definition applied. The ACCC also considered it was necessary to consider but not define the boundaries of the vertically related PC operating system market and the mobile operating system market. These definitions are based on recognised industry delineations.",
+    "Competition analysis": "Consumer Real-Time Communications Applications Market: The ACCC recognised that Skype has successfully developed a level of brand loyalty, and that the proposed acquisition would increase market concentration and may increase the magnitude of network effects. However, the ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the Consumer Real-Time Communications Applications Market for the following reasons: - alternatives to the merged firm would be widely and freely available including alternatives supplied by Google, Apple, Yahoo! and AOL; - there are a lack of significant technological barriers to entry and consumer switching costs are low; and - the market is dynamic and innovation is driven by both incumbent firms and new entrants. Unified Communications (UC) Market: The ACCC considered that the proposed acquisition was unlikely to have the effect of substantially lessening competition in the UC market as the proposed acquisition: - does not in any meaningful way increase market concentration or reduce the number of alternative suppliers of UC products and services. Post-acquisition Cisco and IBM, as well as various smaller competitors would remain as credible constraints on Microsoft; and - it is unlikely that the proposed acquisition would have removed Skype as a potential competitor in the market for UC products and services. Vertical effects: Given Microsoft's presence in the PC and mobile operating systems markets the ACCC considered whether the proposed acquisition was likely to give rise to any anti-competitive vertical effects. For the reasons set out above, the ACCC considered that post-acquisition Microsoft would not have substantial market power in the Consumer Real-Time Communications Applications Market. Accordingly, the proposed acquisition would not provide Microsoft with the ability to foreclose its competitors in the PC operating system and mobile operating system markets. The ACCC also considered that Microsoft was unlikely to have the ability and incentive to use its presence in the PC and mobile operating systems markets to foreclose competition in the Consumer Real-Time Communications Applications Market (i.e. to foreclose competitors of Windows Live Messenger and Skype). In reaching this conclusion the ACCC had regard to interoperability principles implemented by Microsoft which aim to ensure third party software products can interoperate on an equal footing as other Microsoft products as well as the relative significance of the expected revenues associated with Skype compared to the revenues derived by Microsoft from the provision of PC operating systems in particular (which could be jeopardised if Microsoft took steps to place Skype at an advantage to competing applications on Microsoft PC operating systems)."
+  }
+}

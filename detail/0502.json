@@ -1,0 +1,43 @@
+{
+  "id": "0502",
+  "title": "Pearson Australia Group Pty Ltd - completed acquisition of certain assets of REDgroup Retail Pty Ltd (Administrators appointed)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/pearson-australia-group-pty-ltd-completed-acquisition-of-certain-assets-of-redgroup-retail-pty-ltd-administrators-appointed",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46382",
+  "industries": [
+    "Online book retail"
+  ],
+  "date_completed": "11 August 2011",
+  "date_completed_iso": "2011-08-11T12:00:00Z",
+  "date_commenced": "13 July 2011",
+  "date_commenced_iso": "2011-07-13T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Pearson Australia Group Pty Ltd"
+  ],
+  "targets": [
+    "REDgroup Retail Pty Ltd (Administrators appointed)"
+  ],
+  "timeline": [
+    {
+      "date": "13 Jul 2011",
+      "date_iso": "2011-07-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jul 2011",
+      "date_iso": "2011-07-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Aug 2011",
+      "date_iso": "2011-08-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of a national market for the wholesale supply of books to retailers (by publishers and distributors). The ACCC also considered the potential impact of the completed acquisition on competition in the retail supply of books. However, for the purposes of this assessment, the ACCC did not consider it was necessary to reach a conclusive view of whether the relevant market comprised both online retailing and 'bricks and mortar' retail stores.",
+    "Competition analysis": "The ACCC considered that the completed acquisition was unlikely to result in a substantial lessening of competition. Factors informing this conclusion are outlined below. The completed acquisition has resulted in Pearson, primarily a book publisher and distributor, vertically integrating into online book retailing. The ACCC considered whether this would provide Pearson with the ability and incentive to foreclose the supply of books to its rivals in book retailing. As a result of market inquiries, the ACCC concluded that: - Pearson faces competition from other publishers and distributors in the supply of books to retailers. The ACCC considered that competition from competing publishers and distributors would be likely to constrain Pearson from attempting to foreclose the supply of books to competing retailers; and - Pearson competes against alternative publishers for the acquisition of authors. Authors are likely to seek publishers who are able to offer a wide distribution footprint, and this is likely to provide a further constraint on Pearson. In relation to aggregation at the book retailing level, the ACCC considered that prior to the acquisition Pearson's online presence was minimal, and provided no meaningful competitive constraint on the target business. The ACCC also considered that barriers to entry into online book retailing for publishers such as Pearson did not appear to be high. The ACCC considered it was likely that Pearson would have been able to enter into online book retailing in the absence of the completed acquisition."
+  }
+}

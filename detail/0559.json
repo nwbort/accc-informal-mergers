@@ -1,0 +1,44 @@
+{
+  "id": "0559",
+  "title": "Singapore Exchange Limited - proposed acquisition of ASX Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/singapore-exchange-limited-proposed-acquisition-of-asx-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43899",
+  "industries": [
+    "Stock Exchange"
+  ],
+  "date_completed": "15 December 2010",
+  "date_completed_iso": "2010-12-15T12:00:00Z",
+  "date_commenced": "10 November 2010",
+  "date_commenced_iso": "2010-11-10T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Singapore Exchange Limited"
+  ],
+  "targets": [
+    "ASX Limited"
+  ],
+  "timeline": [
+    {
+      "date": "10 Nov 2010",
+      "date_iso": "2010-11-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Dec 2010",
+      "date_iso": "2010-12-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Dec 2010",
+      "date_iso": "2010-12-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Singapore Exchange Limited (SGX) proposes to acquire ASX Limited (ASX).",
+    "Market definition": "The ACCC considered the following markets in the context of the proposed acquisition: -the market for the supply of lit pool trading services in Australia; and -the market for the supply of dark pool trading services in Australia.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. In forming this view the ACCC had regard to the following factors: - in Australia, Singapore Exchange Limited (SGX) does not compete with ASX Limited (ASX) for trading, clearing or settlement services; - ASX and SGX do compete for listing services, but only to a limited extent; - SGX has a 50-50 joint venture with Chi-X Global (CXG) to establish Chi-East. The ACCC concluded that the joint venture relationship would not alter Chi-X Australia's incentives to establish a lit trading venue in Australia; and - SGX's 50% ownership in Chi-East may alter the economic incentives of Chi-East to compete with the merged entity. However, the extent to which Chi-East and the ASX would compete in the market for dark pool trading services is limited. Market inquiries indicated that dark pools which are located offshore are unlikely to compete with dark pools located in Australia. Further, there are a number of dark pool providers who would continue to constrain the merged entity."
+  }
+}

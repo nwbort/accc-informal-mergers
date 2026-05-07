@@ -1,0 +1,26 @@
+{
+  "id": "1303",
+  "title": "DCA Group Limited (through its subsidiary PerthRadClinic Limited) - proposed acquisition of Perth Imaging.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dca-group-limited-through-its-subsidiary-perthradclinic-limited-proposed-acquisition-of-perth-imaging",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23310",
+  "industries": [
+    "Diagnostic Imaging"
+  ],
+  "date_completed": "7 March 2006",
+  "date_completed_iso": "2006-03-07T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "PerthRadClinic Ltd acquisition of Perth Imaging.",
+    "Market definition": "Relevant markets include: a) the Perth market for the supply of diagnostic imaging services (excluding nuclear medicine and MRI), excluding all in-patients at public hospitals; and b) the Perth market for the supply of MRI services, excluding all in-patients at public hospitals.",
+    "Competition analysis": "Perth market for diagnostic imaging The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in this market, particularly as it would not significantly change market concentration. Perth market for the supply of MRI services The ACCC considered that the proposed acquisition would be unlikely to substantially lessen competition in this market, particularly because significant competitors would remain in the market post-acquisition.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

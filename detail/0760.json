@@ -1,0 +1,44 @@
+{
+  "id": "0760",
+  "title": "Unimin Australia Limited - proposed acquisition of Consolidated Rutile Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/unimin-australia-limited-proposed-acquisition-of-consolidated-rutile-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37250",
+  "industries": [
+    "Minerals"
+  ],
+  "date_completed": "5 May 2009",
+  "date_completed_iso": "2009-05-05T12:00:00Z",
+  "date_commenced": "17 April 2009",
+  "date_commenced_iso": "2009-04-17T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Unimin Australia Limited"
+  ],
+  "targets": [
+    "Consolidated Rutile Limited"
+  ],
+  "timeline": [
+    {
+      "date": "17 Apr 2009",
+      "date_iso": "2009-04-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 May 2009",
+      "date_iso": "2009-05-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 May 2009",
+      "date_iso": "2009-05-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Unimin proposed to increase its existing 19.59% interest in CRL by way of an off-market takeover for all remaining shares.",
+    "Market definition": "While the ACCC did not consider it necessary to reach a definitive view on market definition in this matter, the proposed acquisition was considered in the context of Australian segments of global markets for the supply of (i) rutile and ilmenite; and (ii) zircon.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets due to the limited overlap between Unimin's and CRL's products, and the existence of a number of alternative suppliers of rutile, ilmenite and zircon (including Iluka Resources, Exxaro Australia Sand, BeMax Resources and Doral Mineral Sands).  The ACCC also considered that, due to the existence of effective competitors, the merged firm would be unable to exercise market power in foreclosing its rivals by bundling products currently sold separately by Unimin and CRL."
+  }
+}

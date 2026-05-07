@@ -1,0 +1,44 @@
+{
+  "id": "1059",
+  "title": "CitySpring Infrastructure Trust - proposed acquisition of Basslink Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cityspring-infrastructure-trust-proposed-acquisition-of-basslink-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28616",
+  "industries": [
+    "Electricity cables"
+  ],
+  "date_completed": "13 August 2007",
+  "date_completed_iso": "2007-08-13T12:00:00Z",
+  "date_commenced": "31 July 2007",
+  "date_commenced_iso": "2007-07-31T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "CitySpring Infrastructure Trust"
+  ],
+  "targets": [
+    "Basslink Holdings Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jul 2007",
+      "date_iso": "2007-07-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Aug 2007",
+      "date_iso": "2007-08-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Aug 2007",
+      "date_iso": "2007-08-13T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 31 July 2007 it was announced that CitySpring Infrastructure Trust had entered into a sale and purchase agreement to purchase Basslink. Basslink is an unregulated the electricity interconnector which runs between Tasmania and Victoria. CitySpring is a trust listed on the Singaporean stock exchange. Temasek Holdings (Private) Limited, an investment company wholly owned by the Singaporean Government, holds 28.47% of the units in CitySpring as well as 100% of the company that manages the CitySpring trust. Temasek also owns Singapore Power Limited, which in turn owns 51% of the shares in SP AusNet. CitySpring has indicated that it is conceivable that Temasek may acquire Basslink in the event that unitholder approval is not obtained prior to completion of the transaction. It is proposed that the long term commercial arrangement between Basslink and Hydro Tasmania in relation to the operation of the link will remain in place following the acquisition.",
+    "Market definition": "The ACCC did not consider market definition to be a critical issue in this matter, but considered the markets most likely to be relevant would be: a.\tthe wholesale supply of electricity to Victoria (including flows into Victoria from interconnects); b.\tthe wholesale supply of electricity to Tasmania (including flows into Tasmania from Basslink); and c.\tthe monopoly market for high-voltage transmission of electricity in Victoria.",
+    "Competition analysis": "On 13 August 2007, the ACCC decided to not intervene in the proposed acquisition. The ACCC concluded that CitySpring's incentive and ability to operate SP AusNet's regulated transmission assets, that is the Victorian transmission network, so as to favour Basslink was limited. In reaching its conclusion the ACCC took into account the contractual arrangement between Basslink and Hydro Tasmania under which the owner of Basslink was entitled to a largely fixed revenue stream, SP AusNet's financial and legal risk should its regulatory obligations be breached and the extent to which CitySpring is able to influence SP AusNet."
+  }
+}

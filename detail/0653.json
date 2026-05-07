@@ -1,0 +1,44 @@
+{
+  "id": "0653",
+  "title": "Coogee Chemicals Pty Ltd - proposed acquisition of Gull Petroleum (WA) Pty Ltd's storage facilities at Port of Fremantle",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coogee-chemicals-pty-ltd-proposed-acquisition-of-gull-petroleum-wa-pty-ltds-storage-facilities-at-port-of-fremantle",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40974",
+  "industries": [
+    "Liquid fuel and chemical Storage"
+  ],
+  "date_completed": "23 March 2010",
+  "date_completed_iso": "2010-03-23T12:00:00Z",
+  "date_commenced": "10 March 2010",
+  "date_commenced_iso": "2010-03-10T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "Coogee Chemicals Pty Ltd"
+  ],
+  "targets": [
+    "Gull Petroleum (WA) Pty Ltd's storage facilities at Port of Fremantle"
+  ],
+  "timeline": [
+    {
+      "date": "10 Mar 2010",
+      "date_iso": "2010-03-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Mar 2010",
+      "date_iso": "2010-03-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "23 Mar 2010",
+      "date_iso": "2010-03-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Coogee Chemicals proposes to acquire Gull Petroleum's storage facilities at the Port of Fremantle.",
+    "Market definition": "The ACCC did not consider it necessary to form a concluded view in relation to market definition. However, for the purpose of conducting this review, the ACCC considered the proposed acquisition in the context of the following markets: - the market for supply of liquid fuel hosting services in Perth, and - the market for supply of liquid chemical hosting services in Perth.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In forming this view, the ACCC had regard to the following factors: - Due to the economies of scale associated with fuel hosting, it is unlikely that there would be two competitively viable independent fuel terminal operators in Perth under any of the likely future scenarios. - Barriers to entry for the provision of fuel or chemical hosting services in Perth are likely to be low. In particular, there is a substantial amount of appropriately zoned vacant land in the vicinity of the existing terminals which can be connected by pipeline to the wharf and BP refinery."
+  }
+}

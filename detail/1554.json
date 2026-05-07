@@ -1,0 +1,31 @@
+{
+  "id": "1554",
+  "title": "Acquirer: Cootes Holdings Pty Limited; Target: Stevenson Transport Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-cootes-holdings-pty-limited-target-stevenson-transport-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17701",
+  "industries": [],
+  "date_completed": "3 June 2003",
+  "date_completed_iso": "2003-06-03T12:00:00Z",
+  "date_commenced": "2 May 2003",
+  "date_commenced_iso": "2003-05-02T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Cootes Holdings Pty Limited"
+  ],
+  "targets": [
+    "Stevenson Transport Pty Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Cootes Holdings Limited (wholly owned subsidiary of ION Limited) proposes to acquire the whole of the issued share capital in Stevenson Transport Pty Limited.  The main area of overlap is in the transport of LPG and bitumen by road.",
+    "Market definition": "For the purposes of this competition assessment, the relevant markets were found to be the national markets for the road transportation of 1. bulk liquid petroleum gas; and 2. bitumen.",
+    "Competition analysis": "The Commission noted that the Commission's thresholds for the exercise of unilateral and combined market power are crossed in both markets.  However, the Commission considered that the merged entity will be constrained from raising prices and profit margins by: -\trelatively low barriers to entry - there appears to be potential for new entry and/or expansion of current competitors; and -\tcountervailing power of customers. In these circumstances the Commission found that no substantial lessening of competition was likely.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "N/A",
+    "Initiation": "Parties",
+    "ANZSIC code": "6110"
+  }
+}

@@ -1,0 +1,700 @@
+Page 1 of 14 
+ 
+Public Competition Assessment 
+14 February 2013 
+APA Group - proposed acquisition of Hastings Diversified 
+Utilities Fund  
+Introduction 
+1. 
+On 19 July 2012, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of 
+Hastings Diversified Utilities Fund (HDF) by APA Group (APA) (proposed 
+acquisition), subject to an undertaking accepted by the ACCC on 19 July 2012 
+pursuant to section 87B of the Competition and Consumer Act 2010 (Cth) (the 
+Act). The ACCC decided that the proposed acquisition, in conjunction with the 
+undertaking, would not be likely to have the effect of substantially lessening 
+competition in any market in contravention of section 50 of the Act. 
+2. 
+The ACCC made its decision on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency in its decision making process, the 
+ACCC issues a Public Competition Assessment for all transaction proposals 
+where: 
+ a transaction is opposed; 
+ a transaction is subject to court enforceable undertakings; 
+ the transaction parties seek such disclosure; or 
+ a transaction is not opposed but raises important issues that the ACCC 
+considers should be made public. 
+4. 
+This Public Competition Assessment has been issued because APA’s proposed 
+acquisition of HDF is subject to a court enforceable undertaking.  
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC's analysis of various markets and 
+
+
+ 
+Page 2 of 14 
+the associated merger and competition issues. It also alerts the public to 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change. 
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and 
+decision outlined in one Public Competition Assessment will be conclusive of the 
+ACCC’s view in respect of other transaction proposals, as each matter will be 
+considered on its own merits. 
+7. 
+Public Competition Assessments outline the ACCC’s principal reasons for 
+forming views on a proposed acquisition at the time the decision was made. As 
+such, Public Competition Assessments may not definitively identify and explain 
+all issues that the ACCC considers arise from a proposed acquisition. Further, 
+the ACCC’s decisions generally involve consideration of both non-confidential 
+and confidential information provided by the merger parties and market 
+participants. In order to maintain the confidentiality of particular information, 
+Public Competition Assessments do not contain any confidential information or 
+its sources. 
+The parties 
+The acquirer: APA  
+8. 
+APA is one of Australia’s major energy transmission companies. It owns a 
+number of major gas transmission pipelines, including: 
+a) 
+the Victorian Transmission System (VTS); 
+b) 
+the Moomba to Sydney Pipeline (MSP); 
+c) 
+the Roma to Brisbane Pipeline (RBP); 
+d) 
+the Carpentaria Gas Pipeline (CGP); and 
+e) 
+a 50% interest in the SEA Gas Pipeline (SEA Gas). 
+9. 
+APA also owns a number of distribution networks and has minority interests in  
+the following companies: 
+a) 
+Envestra Limited;  
+b) 
+Ethane Pipeline Fund; and 
+c) 
+Energy Infrastructure Investments. 
+10. 
+APA operates and maintains the assets of these companies. 
+ 
+The target: HDF 
+11. 
+HDF owns 100% of Epic Energy Pty Ltd (Epic). Epic, through its subsidiaries, 
+owns a number of Australian gas transmission pipelines, including: 
+ 
+the South West Queensland Pipeline (SWQP); 
+
+
+ 
+Page 3 of 14 
+ 
+the Queensland to South Australia/New South Wales Link (QSN); 
+ 
+the Moomba to Adelaide Pipeline System (MAPS); and 
+ 
+the Pilbara Energy Pipeline. 
+Other industry participants 
+Producers 
+12. 
+Gas producers (producers) extract raw natural gas from petroleum reservoirs 
+and coal seams. Producers then process the raw gas into pipeline quality natural 
+gas for the domestic market or liquid natural gas (LNG) for export.  
+13. 
+Gas producers in Australia include Santos, Esso, BHP Billiton, AGL Energy 
+(AGL) and Origin Energy (Origin). 
+14. 
+It is common for oil and gas producers to establish joint ventures due to the 
+capital intensive nature and high risk profile of these projects. For instance: 
+ 
+the South Australia and the South-West Queensland Cooper Basin Joint 
+Ventures –  two joint ventures led by Santos in relation to the production in 
+South Australia’s and South-West Queensland Cooper Basin. The other 
+participants, in both joint-ventures, are Beach Energy and Origin; 
+ 
+Longford gas production – a joint venture between Esso and BHP Billiton in 
+relation to the production in the Gippsland Basin; and 
+ 
+Bass Gas – a joint venture between Origin and Australian Worldwide 
+Exploration in relation to the production in the Bass Basin. 
+Shippers 
+15. 
+Parties that contract for the transmission of gas along a pipeline are referred to 
+as shippers. Shippers include gas retailers, gas wholesalers and major users of 
+gas such as electricity generators and industrial users. 
+16. 
+Producers usually sell gas to shippers at the production point. The shipper then 
+contracts with a transmission pipeline operator for the transmission of the gas. 
+The ACCC understands that, in some instances, producers may themselves 
+contract with the transmission pipeline operator to transport gas. This enables 
+the producer to sell gas to customers at the point of delivery (rather than the 
+point of injection). In these circumstances the producer is also the shipper. 
+17. 
+Large gas users often negotiate directly with producers to purchase gas, and 
+then negotiate with transmission pipeline operators for delivery of gas. Such 
+users include Xstrata, Rio Tinto, Visy, AGL and Origin. 
+18. 
+Major gas retailers, who purchase gas from producers, utilise the transmission 
+system1, and then on-sell gas to residential, commercial and industrial users 
+                                                 
+1 Gas transmission systems transport natural gas from production fields to major demand 
+centres. The pipelines typically have wide diameters and operate under high pressure to 
+optimise shipping capacity. 
+
+
+ 
+Page 4 of 14 
+through the distribution systems2, include TRUenergy, Lumo Energy, Alinta 
+Energy, AGL and Origin. 
+19. 
+Vertically integrated parties such as AGL and Origin operate at multiple levels of 
+the supply chain and are each a producer, shipper, retailer, wholesale customer 
+and major user of gas. 
+Transmission pipeline operators 
+20. 
+The gas transmission sector involves, among other things, the transportation of 
+processed natural gas through high pressure pipelines from processing facilities 
+to the entry point (‘city gate’) of the distribution system or to major 
+manufacturing/power generation sites. Gas transmission pipelines typically have 
+high operating pressure to optimise shipping capacity and act as storage vessels 
+as well as modes of transportation. 
+21. 
+APA, Epic (owned by HDF) and Jemena are the major pipeline operators in 
+eastern Australia. 
+22. 
+Jemena owns and manages the following eastern Australian gas infrastructure: 
+ 
+the Queensland Gas Pipeline (QGP); 
+ 
+the Eastern Gas Pipeline (EGP); 
+ 
+the VicHub facility; 
+ 
+the Colongra Gas Pipeline and storage facility; and 
+ 
+the Jemena Gas Network in New South Wales. 
+23. 
+Jemena also has a 50% ownership interest in the ActewAGL gas distribution 
+business.  
+24. 
+Jemena Asset Management (a Jemena entity) also manages the Central 
+Ranges Pipeline on behalf of APA, and the South Gippsland Natural Gas 
+Pipeline and Multinet Gas on behalf of the DUET Group. 
+25. 
+The following map illustrates the major transmission pipelines (including 
+ownership and regulatory status), and demand centres in eastern Australia. 
+                                                 
+2 Gas distribution systems take gas from transmission pipelines and reticulate it into residential 
+homes, offices, hospitals and businesses. Their main customers are energy retailers, which 
+aggregate loads for sale to customer. 
+
+
+ 
+Page 5 of 14 
+Figure 1 – Eastern Australian gas transmission pipelines 
+ 
+The proposed transaction 
+26. 
+On 14 December 2011, APA announced a takeover offer for all remaining HDF 
+shares. At the time of this announcement APA owned 21.11% of the shares in 
+HDF. 
+27. 
+APA’s bid for 100% of HDF was conditional on obtaining informal clearance from 
+the ACCC.  
+
+
+ 
+Page 6 of 14 
+28. 
+On 15 May 2012, HDF received a non-binding and conditional takeover proposal 
+from Pipeline Partners Australia Pty Limited (PPA) which became binding on 
+10 July 2012. On 17 August 2012 APA increased its takeover offer for HDF and 
+on 20 August 2012, PPA announced that it did not intend to exercise its right to 
+match the consideration offered by APA.   
+Review timeline 
+29. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+14 December 2011 
+ACCC commenced review under the Merger Review Process 
+Guidelines. 
+13 January 2012 
+Closing date for submissions from interested parties. 
+6 February 2012 
+ACCC requested further information from the merger parties. 
+ACCC timeline suspended and former proposed decision date 
+for announcement of ACCC's findings of 16 February 2012 
+delayed. 
+16 March 2012 
+ACCC timeline recommenced. 
+29 March 2012 
+Former proposed decision date of 29 March 2012 for 
+announcement of ACCC's findings delayed. 
+30 March 2012 
+ACCC published a Statement of Issues outlining preliminary 
+competition concerns. 
+13 April 2012 
+Closing date for submissions relating to Statement of Issues. 
+16 April 2012 
+Timeline extended at the request of APA to allow it to make 
+further submissions. ACCC timeline suspended. Former 
+proposed decision date for announcement of ACCC's findings 
+of 26 April 2012 delayed. 
+11 May 2012 
+APA requested the ACCC to consider and consult upon an in-
+principle proposal to divest MAPS and commit to behavioural 
+obligations to allow connection to the SWQP. The ACCC 
+commenced market inquiries on the new proposal as 
+described by APA in order to determine whether a section 87B 
+undertaking based on this proposal would be capable of 
+addressing its competition concerns. ACCC timeline 
+recommenced. 
+24 May 2012 
+Closing date for submissions relating to APA's proposal. 
+12 June 2012 
+Previous tentative decision date of 21 June 2012 delayed to 
+allow the ACCC to assess the information provided during 
+market inquiries and engage with APA on any relevant issues 
+arising from market inquiries. 
+19 July 2012 
+ACCC announced it would not oppose the proposed 
+acquisition, subject to the section 87B undertaking accepted 
+by the ACCC. 
+Market inquiries 
+30. 
+The ACCC conducted market inquiries with a range of industry participants, 
+including producers, shippers, energy retailers, gas transmission pipeline owners 
+and relevant industry and consumer associations. Submissions were sought in 
+relation to the substantive competition issues, the in-principle proposals put 
+forward by APA to remedy the ACCC’s competition concerns and the proposed 
+undertaking. 
+
+
+ 
+Page 7 of 14 
+Statement of Issues 
+31. 
+The ACCC published its Statement of Issues on 30 March 2012 identifying a 
+number of competition issues. The key issue of concern was that the 
+aggregation of ownership of transmission pipelines in eastern Australia would 
+give APA an increased incentive and/or ability to: 
+ 
+increase charges on the MSP and the MAPS, by removing constraints 
+currently imposed by separate ownership of these competing pipelines; 
+ 
+adopt an ‘injection and withdrawal pricing model’ which would remove the 
+incentive to provide customised service solutions that currently exist as a 
+result of separate ownership of different pipelines in the network; 
+ 
+raise the price of ancillary services, by removing the competitive tension 
+that currently exists as a result of the MSP being owned by one party and 
+the MAPS and QSN/SWQP being owned by another party; and 
+ 
+increase the already significant barriers to entry. 
+In-Principle Proposal and the Proposed Undertaking 
+32. 
+On 26 April 2012, APA provided the ACCC with an in-principle proposal for a 
+section 87B undertaking by which APA proposed to: 
+ 
+divest the MAPS following the proposed acquisition (divestment 
+proposal); and 
+ 
+provide a negotiation/arbitration regime for parties seeking to connect a 
+pipeline from the Gunnedah Basin to the SWQP (behavioural proposal),  
+(collectively the in-principle proposal). 
+33. 
+As a result of market inquiries in relation to the in-principle proposal, the ACCC 
+decided the behavioural proposal was not necessary to address the competition 
+concerns arising from the proposed acquisition.  
+34. 
+APA subsequently formalised the key terms of the divestment proposal in the 
+form of a section 87B undertaking (the proposed Undertaking). On 2 July 2012, 
+the ACCC commenced market consultation in relation to the proposed 
+Undertaking. 
+Post Statement of Issues competition concerns 
+35. 
+Based on the market inquiries conducted after the publication of the Statement 
+of Issues, the ACCC identified  the following additional competition issues that 
+might arise notwithstanding the divestment proposal: 
+ 
+whether single ownership of the MSP and the QSN/SWQP would reduce 
+the bargaining power of shippers and provide APA with the ability to 
+significantly and sustainably increase prices on those pipelines; and 
+ 
+whether the proposed acquisition would remove the threat of bypass to the 
+QSN/SWQP (represented by the potential for a new pipeline to be built 
+connecting Wallumbilla with the MSP). 
+
+
+ 
+Page 8 of 14 
+With/without test 
+36. 
+In assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the likely effect of the acquisition by comparing the likely future 
+competitive environment post-acquisition if the transaction proceeds (the “with” 
+position) to the likely future competitive environment if the acquisition does not 
+proceed (the “without” position) to determine whether the proposed acquisition is 
+likely to have the effect of substantially lessening competition in any relevant 
+market. 
+37. 
+In the absence of the proposed acquisition, the ACCC considered it is likely that 
+the status quo would prevail, that is, either HDF continues as the owner of the 
+HDF assets or PPA’s alternative bid suceeds. In either case a single owner 
+would continue to operate the HDF assets as a standalone gas transmission 
+operator.  
+Market definition 
+38. 
+The ACCC considered that the following two markets were most relevant to the 
+assessment of the competitive impact of the proposed acquisition: 
+ 
+the integrated market for the transmission of gas via one or more pipelines 
+from eastern Australian points of production to eastern Australian points of 
+demand; and  
+ 
+the integrated market for the supply of ancillary services via one or more 
+pipelines from eastern Australian points of production to eastern Australian 
+points of demand. 
+39. 
+The effect of the transaction on any upstream and downstream markets was also 
+highly relevant in the ACCC’s consideration of this matter. 
+40. 
+Within these markets, areas of close competition between the merger parties 
+were identified. These were the transport of gas to particular demand centres 
+and the transport of gas from particular points of supply. 
+41. 
+The ACCC notes that its approach to market definition is purposive, recognising 
+that market definition is a tool to identify and define the boundaries of 
+competitive overlap between the merger parties. Therefore other market 
+definitions may be relevant to future possible transactions, including markets 
+more limited in geographic scope. 
+Product dimension  
+42. 
+Both APA and Epic are involved in gas transmission and the supply of ancillary 
+services. 
+43. 
+Gas transmission services include: 
+ 
+Forward haul which involves the transportation of gas from a point of 
+production to a point of demand via one or more pipelines; 
+ 
+Back haul involves the contractual right to the transportation of gas in a 
+direction opposite to the aggregate physical flow of gas molecules in a 
+pipeline. 
+
+
+ 
+Page 9 of 14 
+44. 
+In addition to the above mentioned services, transmission pipeline operators 
+offer ancillary services to assist shippers in managing the short-term differences 
+between the available supplies of gas and the demand for gas by their 
+customers. The services offered to shippers that provide them with some degree 
+of flexibility to manage the variability in the demand for gas by end-users include:  
+ 
+Imbalance services: an imbalance will occur when the volume of gas 
+injected by the pipeline operator differs from the volume of gas withdrawn 
+by the shipper. Gas Transportation Agreements (GTAs) may allow an 
+imbalance up to a specified threshold before imposing imbalance charges. 
+ 
+Storage: this service allows a shipper to inject more gas into a pipeline than 
+it takes out on a particular day, up to a specified threshold (imbalance 
+allowance) without incurring imbalance charges. The additional gas 
+supplied into the pipeline (positive imbalance) may be withdrawn by the 
+shipper at a later point in time. 
+ 
+Storage and loan: this service allows a shipper to inject less gas than it 
+takes out on any given day (negative imbalance) up to a specified level 
+without incurring imbalance charges. The additional gas taken by the 
+shipper (the ‘loan’) must be repaid within the time specified in the contract. 
+45. 
+The ACCC formed the view that ancillary services are a separate product market 
+from gas transmission, because ancillary services are used differently from 
+transmission services and ancillary services on one pipeline are often used in 
+combination with gas transmission services on a different pipeline. 
+Geographic dimension  
+46. 
+The eastern Australian gas transmission pipeline system became fully connected 
+in 2009 with the completion of the QSN. This created an integrated pipeline 
+network between the three main supply regions (Victoria, the Cooper Basin and 
+eastern Queensland) and each of the major demand centres (Adelaide, 
+Melbourne, Sydney, Brisbane and Canberra). 
+47. 
+The dynamics surrounding gas transmission pricing and pricing incentives in 
+eastern Australia are consistent with the existence of an integrated market for 
+the transmission of gas via one or more pipelines from eastern Australian points 
+of production to eastern Australian points of demand. 
+48. 
+Shippers consider both direct and indirect routes to manage their portfolio risk at 
+the least cost. Additionally, shippers may utilise gas swaps3 to overcome the 
+physical limitations imposed by pipeline direction, pipeline capacity and the 
+location of supply and demand. Shippers may also rely on their potential use of 
+gas swaps as a competitive threat in negotiation with transmission pipeline 
+operators. 
+49. 
+The ACCC formed the view that the existence of multiple routes from a given 
+supply centre to a given demand centre in combination with the use of gas 
+swaps means that competition between gas transmission pipelines should be 
+                                                 
+3  Gas swaps are a mechanism that gas producers and shippers can use in order to bypass or 
+minimise the use of gas transmission pipelines (while still obtaining gas at the desired 
+location). Gas swaps can be conducted internally within a shipper’s or gas producer’s own 
+portfolio or externally through negotiation between at least two shippers and/or at least two 
+gas producers. 
+
+
+ 
+Page 10 of 14 
+analysed in an eastern Australian market for gas transmission and ancillary 
+services.4 
+50. 
+Importantly, the ACCC also considered it relevant to examine the possible 
+effects of the proposed acquisition on particular routes within this market, which 
+by serving the same demand centre or by providing transport services from the 
+same point of supply, are considered particularly close substitutes. These routes 
+can appropriately be considered as distinct narrower markets within the broader 
+eastern Australian market. 
+Competition analysis 
+51. 
+The ACCC considered that, in the absence of the Undertaking, the proposed 
+acquisition would have the effect, or be likely to have the effect, of substantially 
+lessening competition in the relevant markets, as identified above. 
+52. 
+The ACCC’s primary concern was that the proposed acquisition would result in 
+APA owning the majority of the gas transmission pipelines in eastern Australia, 
+including: 
+ 
+all of the pipelines servicing the Cooper Basin; and 
+ 
+all of the pipelines servicing Adelaide. 
+53. 
+The aggregation of ownership of these pipelines would give APA an increased 
+incentive and/or capacity to raise transmission charges and the price of ancillary 
+services. 
+54. 
+The ACCC also considered whether, notwithstanding the proposal to divest the 
+MAPS, the proposed acquisition would: 
+ 
+provide APA with the ability to significantly and sustainably increase prices 
+on the MSP and QSN/SWQP by reducing the bargaining power of shippers; 
+and 
+ 
+remove the threat of bypass to the QSN/SWQP (for example, by the 
+potential for a new pipeline to be built connecting Wallumbilla and the 
+MSP). 
+Aggregation of ownership of gas transmission pipelines in eastern Australia 
+55. 
+The ACCC considered that the proposed acquisition would have the effect, or be 
+likely to have the effect, of substantially lessening competition, as by aggregating 
+the ownership of gas transmission pipelines in eastern Australia, APA would be 
+likely to have an increased incentive and/or ability to: 
+ 
+increase charges on the MSP, MAPS and/or SEA Gas, because it would 
+remove the constraints currently imposed by separate ownership of these 
+competing pipelines at Moomba (the MSP and the MAPS) and at the 
+Adelaide demand centre (the MAPS and the SEA Gas); and 
+                                                 
+4 The Australian Competition Tribunal (Tribunal) in previous decisions has recognised that the 
+gas transmission market in eastern Australia is becoming more integrated, with its geographic 
+scope broadening over time. See, for instance, the Tribunal decision regarding the AGL 
+Cooper Basin supply arrangements [(1997) ATPR 41-593 at 44211] and the Duke EGP 
+decision [(2001), ATPR 41-821 paragraph 77)]. 
+ 
+
+
+ 
+Page 11 of 14 
+ 
+raise the price of ancillary services, because it would remove the 
+competitive tension that currently exists as a result of the separate 
+ownership of the MSP by one party and the MAPS and the QSN/ SWQP by 
+another party. 
+56. 
+As discussed further at paragraph 71 below, the ACCC ultimately formed the 
+view that these competition issues would likely be addressed by the proposed 
+Undertaking. 
+Reducing bargaining power of shippers on the MSP and the QSN/SWQP 
+57. 
+The ACCC also considered the extent to which the MSP currently constrains 
+prices charged to shippers for transport on the QSN/SWQP and vice versa. This 
+competition concern was not specifically addressed by the proposed 
+Undertaking.  
+58. 
+The ACCC noted that, while these pipelines do not directly serve the same 
+demand centres, they are vertically related pipelines and potentially 
+complementary, as some routes may require the transportation of gas along the 
+full length of MSP-QSN/SWQP. 
+59. 
+Where there are two separate owners of these pipelines there is uncertainty on 
+the part of each of APA and HDF about the tariff charged by the other pipeline 
+owner (for example: (i) along the route that may be currently used, without a 
+change of the flow direction, to transport gas from the Surat/Bowen Basin to 
+service demand in Sydney and surrounding regions, via the QSN/SWQP and 
+MSP; or (ii) along the route that may be used to transport gas from the 
+Gippsland Basin to Wallumbilla, via the VTS, MSP and the QSN/SWQP, in a 
+scenario where there is a reversal of flow, with gas flowing from south to north). 
+60. 
+This uncertainty constrains the two pipeline-owners, because in the event the 
+combined tariff of transporting gas along the full length of the complementary 
+pipelines (QSN/SWQP-MSP) is set too high, both APA and HDF risk ending up 
+in a situation where no transportation agreement is reached with the shipper.  
+61. 
+Therefore, each pipeline owner has an incentive to charge shippers a tariff that is 
+low enough to still allow the contract to proceed, and it has to calculate this tariff 
+without knowing the level of the tariff charged by the other pipeline owner. 
+62. 
+If APA is able to increase transportation tariffs this may lead to lower ex-field 
+prices being paid for gas (because the acquirers of the gas would have to factor 
+in the need to pay higher transport tariffs to APA) which may in turn reduce 
+future gas exploration and/or investment in gas fields. 
+63. 
+Following the market concerns described above, the ACCC considered:  
+ 
+whether the current uncertainty on the part of each of APA and HDF as to 
+the tariff charged by the other pipeline owner provides a constraint, in that 
+APA and HDF risk a situation where no transportation agreement can be 
+agreed with the shipper if the total cost of transporting gas along the MSP 
+and QSN/SWQP is too high (in which case neither pipeline owner will 
+receive any transmission revenue); and  
+ 
+if this is the case, whether the proposed acquisition would remove this 
+uncertainty, thereby putting APA in a superior position to charge higher 
+
+
+ 
+Page 12 of 14 
+tariffs with less risk that doing so would result in a failure to agree a 
+transportation agreement.  
+64. 
+The ACCC formed the view that, on balance, it was unlikely that the common 
+ownership of the MSP and QSN/SWQP would result in a substantial lessening of 
+competition.  If, in the future, gas flows from the south to north in eastern 
+Australia, with or without the proposed acquisition, the owners of the MSP and 
+QSN/SWQP would likely be constrained in their conduct by shippers’ ability to: 
+ 
+use swaps; 
+ 
+source gas from a different basin; 
+ 
+use the EGP; and/or 
+ 
+use the MAPS. 
+Removing the threat of bypass to the QSN/SWQP  
+65. 
+Without the proposed acquisition, the MSP could provide an alternative for 
+shippers to bypass the QSN/SWQP. As this option will be removed with the 
+common ownership of the MSP and the QSN/SWQP, the ACCC also considered 
+whether any market power held by the owner of the QSN/SWQP is constrained 
+by the threat of bypass by a newly constructed pipeline. For example, a new 
+pipeline connecting Wallumbilla with the MSP was identified by some market 
+participants as the least costly bypass option. Some market participants 
+considered that the possibility that such a pipeline may be built by APA 
+constrained the current owner of the QSN/SWQP. 
+66. 
+The ACCC formed the view that there are a number of possible bypass options 
+to the QSN/SWQP, including: 
+ 
+a new pipeline that, in whole or in part, duplicates the QSN/SWQP for gas 
+produced at the Cooper Basin and destined for Queensland domestic 
+demand or LNG requirements; and/or 
+ 
+a new pipeline connecting Wallumbilla and the Newcastle distribution 
+network for gas produced in the Surat/Bowen Basins and destined for 
+Sydney, Canberra and/or Melbourne. 
+67. 
+The ACCC considered that the proposed acquisition would not remove the only 
+credible threat of bypass to the QSN/SWQP.   
+Undertaking 
+68. 
+On 19 July 2012, the ACCC accepted a court enforceable undertaking given by 
+APA pursuant to section 87B of the Act (the Undertaking), to address the 
+competition concerns identified by the ACCC.  
+69. 
+The Undertaking requires APA to divest the MAPS (Divestiture Business) to a 
+purchaser approved by the ACCC. 
+70. 
+The Undertaking also requires APA to hold its interest in the Divestiture 
+Business separate from its other assets and businesses in the period after APA 
+gains control of HDF but prior to the divestiture. Independent management, ring 
+fencing and other provisions apply to the Divestiture Business during this period.  
+
+
+ 
+Page 13 of 14 
+71. 
+The Undertaking addressed the competition issues resulting from the 
+aggregation of gas transmission pipelines in eastern Australia which would 
+otherwise arise in the absence of the Undertaking (see paragraph 55 above) by: 
+ 
+preserving the status quo of two independent pipeline operators servicing 
+Moomba and ensuring that the Adelaide demand centre will continue to be 
+served by two independently owned pipelines (SEA Gas and the MAPS); 
+ 
+preserving the status quo of shippers having two independent pipeline 
+operators from which to seek storage, with shippers being able to choose 
+between the MSP and the MAPS and between the MAPS and the SWQP; 
+and 
+ 
+ensuring that APA, post-acquisition, will continue to be constrained in its 
+ability and incentive to impose prices or terms which disadvantage shippers 
+servicing the Sydney and Adelaide demand centres and/or the Moomba 
+and Wallumbilla hubs.  
+72. 
+The Undertaking addressed the ACCC’s competition concerns by : 
+ 
+the creation of a viable, effective, stand-alone independent and long term 
+competitor in the markets for the supply of gas transmission and ancillary 
+services via one or more pipelines in eastern Australia;  
+ 
+ensuring that the purchaser of the Divestiture Business (to be approved by 
+the ACCC) has the necessary assets, rights and agreements to ensure that  
+effective competition is maintained post-acquisition; 
+ 
+maintaining the economic viability, marketability, competitiveness and 
+goodwill of the Divestiture Businesses prior to divestiture including ensuring 
+effective ring fencing measures are implemented to protect the confidential 
+information of the Divestiture Business; 
+ 
+requiring APA to hold its interest in the Divestiture Business separate from 
+its other assets and businesses pending divestiture of the Divestiture 
+Business; and 
+ 
+providing for the effective oversight of APA’s compliance with the 
+Undertaking. 
+Conclusion  
+73. 
+On 19 July 2012, the ACCC accepted the court enforceable Undertaking given 
+by APA, pursuant to section 87B of the Act, to address the competition concerns 
+that would otherwise arise as a result of the proposed acquisition in the markets 
+for the supply of gas transmission and ancillary services via one or more 
+pipelines in eastern Australia. 
+74. 
+Based on market feedback and its assessment of the viability of the MAPS as a 
+viable, effective, stand-alone independent and long term competitor in the 
+relevant markets, the ACCC formed the view that the purchaser of the 
+Divestiture Business would be likely to provide an ongoing and effective 
+competitive constraint in the relevant markets.  
+75. 
+The Undertaking is available on the Section 87B Undertakings Register on the 
+ACCC website at www.accc.gov.au/content/index.phtml/itemId/1066611. 
+ 
+
+
+ 
+Page 14 of 14 
+Conclusion 
+76. 
+On the basis of the above, including taking into account the Undertaking, the 
+ACCC formed the view that the proposed acquisition would not be likely to result 
+in a substantial lessening of competition in any market in contravention of 
+section 50 of the Act. 
+ 

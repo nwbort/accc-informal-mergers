@@ -1,0 +1,64 @@
+{
+  "id": "0407",
+  "title": "carsales.com Limited - proposed acquisition of interests associated with the Trading Post brand",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/carsalescom-limited-proposed-acquisition-of-interests-associated-with-the-trading-post-brand",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49637",
+  "industries": [
+    "Advertising"
+  ],
+  "date_completed": "20 December 2012",
+  "date_completed_iso": "2012-12-20T12:00:00Z",
+  "date_commenced": "30 August 2012",
+  "date_commenced_iso": "2012-08-30T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "carsales.com Limited"
+  ],
+  "targets": [
+    "TradingPost.com.au"
+  ],
+  "timeline": [
+    {
+      "date": "30 Aug 2012",
+      "date_iso": "2012-08-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Sep 2012",
+      "date_iso": "2012-09-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Oct 2012",
+      "date_iso": "2012-10-19T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "2 Nov 2012",
+      "date_iso": "2012-11-02T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "2 Nov 2012",
+      "date_iso": "2012-11-02T12:00:00Z",
+      "event": "ACCC timeline suspended. Carsales requested more time to respond to Statement of Issues. Former decision date of 29 November 2012 delayed pending receipt of this information."
+    },
+    {
+      "date": "21 Nov 2012",
+      "date_iso": "2012-11-21T12:00:00Z",
+      "event": "ACCC received further information from Carsales. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Dec 2012",
+      "date_iso": "2012-12-20T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In August 2012, Carsales.com limited informed the ACCC that it proposed to acquire assets associated with Trading Post from Telstra Corporation Limited. Following a public review, on 20 December 2012 the ACCC announced that it would oppose the acquisition.",
+    "Market definition": "Please refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Please refer to the attached Public Competition Assessment."
+  }
+}

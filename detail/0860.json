@@ -1,0 +1,65 @@
+{
+  "id": "0860",
+  "title": "BG Group Plc - proposed acquisition of Origin Energy Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bg-group-plc-proposed-acquisition-of-origin-energy-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31916",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "26 September 2008",
+  "date_completed_iso": "2008-09-26T12:00:00Z",
+  "date_commenced": "25 June 2008",
+  "date_commenced_iso": "2008-06-25T12:00:00Z",
+  "total_review_days": 50,
+  "acquirers": [
+    "BG Group Plc"
+  ],
+  "targets": [
+    "Origin Energy Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 Jun 2008",
+      "date_iso": "2008-06-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "11 Jul 2008",
+      "date_iso": "2008-07-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Aug 2008",
+      "date_iso": "2008-08-11T12:00:00Z",
+      "event": "ACCC requested further information from BG Group. ACCC timeline suspended."
+    },
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by BG. ACCC commenced market inquiries. Timeline recommenced."
+    },
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for public consultation on draft 87B undertakings."
+    },
+    {
+      "date": "26 Aug 2008",
+      "date_iso": "2008-08-26T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "10 Sep 2008",
+      "date_iso": "2008-09-10T12:00:00Z",
+      "event": "In light of BG's announcement of 9 September 2008, the ACCC does not expect to make a decision on the proposed acquisition. The ACCC will suspend the timeline pending the expiry of BG's offer period on 26 September 2008."
+    },
+    {
+      "date": "26 Sep 2008",
+      "date_iso": "2008-09-26T12:00:00Z",
+      "event": "BG announced that its offer for Origin Energy has lapsed with conditions unfulfilled. ACCC review discontinued."
+    }
+  ],
+  "body_sections": {}
+}

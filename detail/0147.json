@@ -1,0 +1,47 @@
+{
+  "id": "0147",
+  "title": "Amcol Australia Pty Ltd - Australian bentonite business of Sibelco Australia Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amcol-australia-pty-ltd-australian-bentonite-business-of-sibelco-australia-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Minerals"
+  ],
+  "date_completed": "22 June 2020",
+  "date_completed_iso": "2020-06-22T12:00:00Z",
+  "date_commenced": "8 April 2020",
+  "date_commenced_iso": "2020-04-08T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Amcol Australia Pty Ltd"
+  ],
+  "targets": [
+    "Australian bentonite business of Sibelco Australia Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Apr 2020",
+      "date_iso": "2020-04-08T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 May 2020",
+      "date_iso": "2020-05-06T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "6 May 2020",
+      "date_iso": "2020-05-06T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of ACCC’s findings (25 June 2020) is delayed. ACCC will announce a proposed decision date in due course."
+    },
+    {
+      "date": "22 Jun 2020",
+      "date_iso": "2020-06-22T12:00:00Z",
+      "event": "The ACCC discontinued this review after Amcol withdrew its application for informal merger clearance."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Amcol Australia Pty Ltd, a wholly-owned subsidiary of Minerals Technologies Inc., proposes to acquire the assets used by Sibelco Australia Limited to mine and supply bentonite."
+  }
+}

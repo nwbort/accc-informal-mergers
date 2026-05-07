@@ -1,0 +1,32 @@
+{
+  "id": "1616",
+  "title": "Acquirer: Australian Pharmaceutical Industries Ltd; Target: Sigma Company Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-australian-pharmaceutical-industries-ltd-target-sigma-company-ltd-0",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16399",
+  "industries": [],
+  "date_completed": "12 September 2002",
+  "date_completed_iso": "2002-09-12T12:00:00Z",
+  "date_commenced": "26 July 2002",
+  "date_commenced_iso": "2002-07-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Australian Pharmaceutical Industries Ltd"
+  ],
+  "targets": [
+    "Sigma Company Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 26 July 2002 Australian Pharmaceutical Industries Limited (API) and Sigma Company Limited (Sigma) lodged an application for authorisation of their proposed merger (A30215).   The principal activities of API and Sigma are the wholesale distribution of pharmaceuticals, healthcare and personal products to retail pharmacies and hospitals.  The ACCC received over 120 submissions from a diverse range of interested parties including pharmacists, pharmaceutical manufacturers, pharmaceutical wholesalers, logisitics providers, financial analysts and Government agencies.  There was considerable diversity of opinion over the potential consequences of the merger.",
+    "Market definition": "The Applicants claim that the relevant market is the national market for the distribution of pharmaceuticals, including both ethical products and OTC products to pharmacies.  This market includes supply by full-line wholesalers, short-line wholesalers and manufacturers distributing direct to pharmacies. Whilst the Commission accepts the Applicants' product market definition it considers that the relevant geographic market is regional to state based.",
+    "Competition analysis": "On 12 September 2002 the ACCC decided to decline authorisation to API and Sigma for their proposed merger as there is insufficient public benefit to outweigh the public detriment. The merger would create a company with 60 per cent of the pharmaceutical wholesaling market in NSW, Victoria and Queensland and more than 50 per cent in other States.  Combined with the only other full-line wholesaler (Mayne), it would account for almost 90 per cent of the market. The scope for parallel conduct between the merged entity and Mayne would be significant.  Over time, the real possibility of decreased service levels and higher prices to pharmacists exists. Loyalty arrangements, such as banner groups and financial guarantees for pharmacists, which effectively tie pharmacists to wholesalers, limit the likelihood of entry by new competitors into the market. The detoriation in competitive pressures as a result of the merger would be a major public detriment. API/Sigma claimed that there would be efficiency gains worth $20 million a year flowing from the merger.  The ACCC accepted that efficiency gains were likely, but considered that they may be offset by the reduced efficiency that goes with a slackening of competitive pressure on the firm.  In addition, they would flow to the company and its shareholders rather than the community through lower prices. The ACCC found the remaining public benefits claimed by the Applicants were likely to occur in any event, or were of relatively modest sizes.  Some claimed public benefits were not accepted by the ACCC because the parties failed to substantiate them in a meaningful way. The Applicants provided the ACCC with a possible undertaking to address key competition concerns.  The ACCC was not satisfied that they were sufficient as they did not overcome the structural issues that would arise (eg reduced competition and the potential impact on price and quality).  The service levels specified in the undertaking were less than the combined level of service provided by API and Sigma now.",
+    "Resolution": "Withdrawn",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2543"
+  }
+}

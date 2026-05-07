@@ -1,0 +1,45 @@
+{
+  "id": "0823",
+  "title": "Marubeni Corporation and Osaka Gas Co Ltd - proposed acquisition of certain assets of the APA Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/marubeni-corporation-and-osaka-gas-co-ltd-proposed-acquisition-of-certain-assets-of-the-apa-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35063",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "10 December 2008",
+  "date_completed_iso": "2008-12-10T12:00:00Z",
+  "date_commenced": "24 November 2008",
+  "date_commenced_iso": "2008-11-24T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Osaka Gas Co Ltd",
+    "Marubeni Corporation"
+  ],
+  "targets": [
+    "Certain assets of the  APA Group"
+  ],
+  "timeline": [
+    {
+      "date": "24 Nov 2008",
+      "date_iso": "2008-11-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Dec 2008",
+      "date_iso": "2008-12-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Dec 2009",
+      "date_iso": "2009-12-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Marubeni and Osaka Gas propose to acquire 49.9% and 30.2% respectively of an investment vehicle that will hold the following assets of the APA Group: -\tthe Telfer, Bonaparte and Wickham Point gas pipelines; -\tthe Murraylink electricity interconnector connecting New South Wales and South Australia; -\tthe Directlink electricity interconnector connecting New South Wales and Queensland; -\tthe 32MW gas-fired X41 power station at Mt Isa, Queensland; -\tthe 27MW coal-seam gas-fired Daandine power station at Kogan, Queensland; -\tthe 29Tj/day coal-seam gas processing facility at Tipton West, Queensland; and -\tthe 12Tj/day coal-seam gas processing facility at Kogan North, Queensland.",
+    "Market definition": "The ACCC assessed the proposed acquisition in terms of markets for the wholesale supply of gas in Western Australia, and for the wholesale supply of electricity in Queensland and New South Wales.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to raise competition concerns in the market for the wholesale supply of gas in Western Australia due to the significant distance between the Crux Gas Project (in which Osaka Gas has a minority interest) and the Telfer pipeline. In relation to the Queensland market for the wholesale supply of electricity, the ACCC considered the proposed acquisition unlikely to raise horizontal competition concerns due to the existence of significant electricity generation competitors in Queensland. The ACCC also considered Marubeni's acquisition of a minority interest in electricity transmission assets unlikely to substantially lessen competition in the markets for the wholesale supply of electricity in Queensland and New South Wales. The proposed acquisition would appear unlikely to enable Marubeni to foreclose competition between generators in these markets. In conclusion, the ACCC formed the view that Osaka Gas and Marubeni's proposed acquisition of certain assets of the APA Group was unlikely to contravene section 50 of the Trade Practices Act 1974."
+  }
+}

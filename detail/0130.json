@@ -1,0 +1,64 @@
+{
+  "id": "0130",
+  "title": "MYOB Invest Co Pty Ltd - GreatSoft Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/myob-invest-co-pty-ltd-greatsoft-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "practice management solutions for accountants"
+  ],
+  "date_completed": "16 April 2021",
+  "date_completed_iso": "2021-04-16T12:00:00Z",
+  "date_commenced": "21 October 2020",
+  "date_commenced_iso": "2020-10-21T12:00:00Z",
+  "total_review_days": 127,
+  "acquirers": [
+    "MYOB Invest Co Pty Ltd"
+  ],
+  "targets": [
+    "GreatSoft Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Oct 2020",
+      "date_iso": "2020-10-21T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Nov 2020",
+      "date_iso": "2020-11-12T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "7 Dec 2020",
+      "date_iso": "2020-12-07T12:00:00Z",
+      "event": "Former provisional date for announcement of findings 28 January 2021 is delayed."
+    },
+    {
+      "date": "11 Feb 2021",
+      "date_iso": "2021-02-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "5 Mar 2021",
+      "date_iso": "2021-03-05T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "14 Apr 2021",
+      "date_iso": "2021-04-14T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's decision on 22 April brought forward to 16 April."
+    },
+    {
+      "date": "16 Apr 2021",
+      "date_iso": "2021-04-16T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "MYOB Invest Co Pty Ltd proposes to acquire GreatSoft Pty Ltd. The parties both supply practice management software to accounting firms in Australia. MYOB offers desktop practice management software, and GreatSoft offers a cloud-based solution.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on the supply of practice management software to medium-to-large accounting firms. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is unlikely to substantially lessen competition in any relevant market. The ACCC’s review indicated that GreatSoft was likely to face challenges expanding its customer base in the short to medium term if the transaction did not go ahead. GreatSoft’s growth to date has been limited, and the ACCC did not receive evidence to suggest that GreatSoft would have the ability to grow into an effective significant competitor in the short to medium term. GreatSoft’s ongoing viability also depends on maintaining integrations with third parties, some of whom are competitors. The ACCC determined that, following the proposed acquisition, MYOB and GreatSoft would continue to face competition from other desktop and cloud-based providers of practice management software, including from Xero and Reckon. The ACCC found that although Xero Practice Manager has been designed for smaller firms, it continues to attract a number of medium-to-large firms to its cloud-based product and imposes a strong competitive constraint on MYOB."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0144",
+  "title": "Alstom proposed acquisition of Bombardier Transportation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/alstom-proposed-acquisition-of-bombardier-transportation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "20 August 2020",
+  "date_completed_iso": "2020-08-20T12:00:00Z",
+  "date_commenced": "11 May 2020",
+  "date_commenced_iso": "2020-05-11T12:00:00Z",
+  "total_review_days": 73,
+  "acquirers": [
+    "Alstom"
+  ],
+  "targets": [
+    "Bombardier Transportation"
+  ],
+  "timeline": [
+    {
+      "date": "11 May 2020",
+      "date_iso": "2020-05-11T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "5 Jun 2020",
+      "date_iso": "2020-06-05T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "20 Aug 2020",
+      "date_iso": "2020-08-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Alstom S.A. proposes to acquire from Bombardier Inc. and Caisse de dépôt et placement du Québec all of the share capital and voting rights in, and thus sole control over Bombardier Transportation (Investment) UK Limited and in turn sole control over Bombardier Transportation (BT), the global rail solutions division of Bombardier inc. Alstom and BT are global companies, which are involved in the supply of a broad range of products and services to owners or operators of rail networks in Australia and around the world. In particular, they both supply: rolling stock (specifically mainline electrical multiple unit trains and trams/light rail vehicles), heavy rail signalling systems, components and maintenance for passenger rail networks and for industrial/freight rail networks, and maintenance services in respect of rolling stock.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on markets for: the supply of trams/light rail rolling stock the supply of mainline rolling stock, and the supply of communications-based train control (CBTC) signalling. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "Overview Alstom and BT are global rail mobility providers active in the Australian market. The products and services supplied in Australia include rolling stock (trains and trams/light rail), signalling systems that allow rolling stock to operate safely and rail maintenance services. The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Supply of trams/light rail and mainline rolling stock The ACCC concluded that bids from large, global suppliers that have participated in rolling stock projects in Australia recently, along with potential new entrants to Australia will continue to provide competitive tension for tenders for future rail projects. For trams/light rail rolling stock, Alstom, BT and Construcciones y Auxiliar de Ferrocarriles (CAF) have won all projects in the last 10 years, but there are at least five other suppliers that have expressed an interest in recent tender processes and who could compete in future projects. For mainline rolling stock, at least five alternative suppliers have been successful in Australian tenders in the last 10 years, including China-based CRRC, the world’s largest rolling stock manufacturer. Further, BT has not won a competitive rolling stock project in Australia in the last five years. The ACCC considered that sophisticated customers (state governments) control these tender processes, and would have the ability to structure tenders to foster competition. These tenders are often for large value projects, therefore governments have a strong incentive to maintain competitive processes. Where customers have requirements or preferences for local works, suppliers without an existing presence have options to satisfy these criteria, including by partnering with local businesses. Governments could also adjust local content preferences if they are hindering the competitive process for a particular project. Supply of CBTC signalling The ACCC concluded that there are a number of global CBTC suppliers (e.g. Siemens, Thales and Hitachi Rail) and that future entry appears to be viable for suppliers without any significant Australian presence in signalling. For example, BT was awarded the signalling and communications package for the Melbourne Metro Tunnel Project in 2017 without any significant signalling presence on passenger networks in Australia."
+  }
+}

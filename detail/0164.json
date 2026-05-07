@@ -1,0 +1,59 @@
+{
+  "id": "0164",
+  "title": "Global Forest Partners LP - proposed acquisition of Resource Management Service LLC's Tasmanian hardwood plantations",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/global-forest-partners-lp-proposed-acquisition-of-resource-management-service-llcs-tasmanian-hardwood-plantations",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Forestry"
+  ],
+  "date_completed": "28 November 2019",
+  "date_completed_iso": "2019-11-28T12:00:00Z",
+  "date_commenced": "5 September 2019",
+  "date_commenced_iso": "2019-09-05T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Global Forest Partners LP"
+  ],
+  "targets": [
+    "Resource Management Service LLC's Tasmanian hardwood plantations"
+  ],
+  "timeline": [
+    {
+      "date": "5 Sep 2019",
+      "date_iso": "2019-09-05T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Sep 2019",
+      "date_iso": "2019-09-12T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "26 Sep 2019",
+      "date_iso": "2019-09-26T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "10 Oct 2019",
+      "date_iso": "2019-10-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "27 Nov 2019",
+      "date_iso": "2019-11-27T12:00:00Z",
+      "event": "Former proposed decision date (5 December) brought forward."
+    },
+    {
+      "date": "28 Nov 2019",
+      "date_iso": "2019-11-28T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Proposed acquisition of Resource Management Service LLC's Tasmanian hardwood plantations by Global Forest Partners LP managed timber investment fund.",
+    "Market definition": "The ACCC considered that North East Tasmania and North West Tasmania form separate geographic markets in relation to supply chains for the export of plantation hardwood chips. The ACCC did not reach a concluded view on market definition, but focused on the effect of the proposed acquisition on competition for the acquisition of hardwood chipping logs in North East Tasmania (which are generally exported through Bell Bay) and, separately, North West Tasmania (which are generally exported through Burnie).",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition of RMS’ Tasmanian hardwood plantations by GFP was unlikely to substantially lessen competition in any relevant market. Acquisition of hardwood chipping logs from private plantation owners The ACCC’s primary focus was in relation to the impact of the proposed acquisition on the sellers of privately grown hardwood plantation logs for wood chipping. At Bell Bay there are currently three marketing and export operations: the GFP group, the New Forests group (both of which also own plantation assets and chipping mills) and Plantation Export Group (PEG), which markets woodchips on behalf of several exporters. At Burnie there are currently two marketing and export operations: the New Forests group and PEG. The ACCC considered that competition for the acquisition of hardwood chipping logs in Tasmania is largely dependent on the existence of multiple woodchip marketing and export operators. The ACCC found that woodchip marketing and export operators are reliant on obtaining large volumes to attract international customers and operate sustainably. RMS has one of the largest areas of hardwood plantation in northern Tasmania that is not vertically integrated with chipping and export operations. Woodchip sellers who are not vertically integrated (ie do not own their own plantations) rely on access to logs from non-vertically integrated plantations. The ACCC considered it likely that following the proposed acquisition, the GFP group would divert RMS’ woodchips from PEG (which RMS has an interest in) to a marketing and export operator owned by the GFP group. The ACCC’s investigation focussed on the impact this may have on the viability of a third woodchip marketing and export channel and the subsequent effect on competition for the acquisition of hardwood chipping logs from plantation owners. The ACCC considered the extent to which the proposed acquisition would affect the number of woodchip marketing and exporters operating from the ports of Bell Bay (North East Tasmania) and Burnie (North West Tasmania). North East Tasmania The ACCC considered that, even without the RMS volumes, there would most likely be sufficient volume of hardwood chipping logs available to sustain a viable third marketing and export operation in the North East region of Tasmania. The continuation of a third marketing and export operation would enable non-vertically integrated exporters to continue to compete with the vertically integrated buyers in the acquisition of logs from private plantation owners. The ACCC also considered that forestry brokers would impose a degree of constraint on the vertically integrated buyers. Brokers arrange for their clients’ logs to be sold to multiple buyers, including saw mills, peeling mills (for producing veneer and plywood) as well as the woodchip exporters, depending on what will produce the best return for the clients. Accordingly, they provide some additional competition in the acquisition of hardwood plantation logs. North West Tasmania The ACCC found that at the port of Burnie it is possible that PEG may be replaced by a marketing and export operator owned by a GFP fund. While the identity of the second marketing and export operator may change, the number of marketing and export operations would remain the same."
+  }
+}

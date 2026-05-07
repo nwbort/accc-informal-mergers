@@ -1,0 +1,54 @@
+{
+  "id": "0023",
+  "title": "NSC (Australia) Pty Ltd - Coregas",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nsc-australia-pty-ltd-coregas",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Industrial gases"
+  ],
+  "date_completed": "24 June 2025",
+  "date_completed_iso": "2025-06-24T12:00:00Z",
+  "date_commenced": "12 March 2025",
+  "date_commenced_iso": "2025-03-12T12:00:00Z",
+  "total_review_days": 60,
+  "acquirers": [
+    "NSC (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Coregas Pty Ltd;Coregas NZ Limited;Blacksmith Jacks Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "12 Mar 2025",
+      "date_iso": "2025-03-12T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Mar 2025",
+      "date_iso": "2025-03-26T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "14 May 2025",
+      "date_iso": "2025-05-14T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties. Former provisional date for announcement of findings (5 June 2025) was delayed."
+    },
+    {
+      "date": "3 Jun 2025",
+      "date_iso": "2025-06-03T12:00:00Z",
+      "event": "ACCC received further information from the parties and other market participants. Timeline recommenced."
+    },
+    {
+      "date": "24 Jun 2025",
+      "date_iso": "2025-06-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "NSC (Australia) Pty Ltd ( NSC ) proposes to acquire Coregas Pty Ltd, Coregas NZ Limited, and Blacksmith Jacks Pty Ltd (the Proposed A cquisition ). Coregas, Coregas NZ Limited and Blacksmith Jacks Pty Ltd (together, Coregas ) are currently ultimately owned by Wesfarmers Limited. NSC is the Australian subsidiary of Nippon Sanso Holdings Corporation (Nippon Sanso), a multinational industrial gas company which is part of the Mitsubishi Chemicals Group and the immediate parent company of Supagas Pty Limited (Supagas). The proposal would result in Nippon Sanso owning Coregas’ operations in Australia as well as Supagas. Coregas and Supagas (and their Australian subsidiaries) both produce, supply and distribute industrial, cryogenic, medical and speciality gases, and supply certain related services, consumables and equipment. Both parties also supply and distribute LPG. Coregas produces, supplies and distributes a range of industrial, medical, helium, and specialty gases across Australia. Coregas operates a number of industrial gas production facilities in Australia including, but not limited to, air separation units (ASU) in Port Kembla and Mackay, a hydrogen reformer in Port Kembla, a helium import and decant facility in Sydney, and cylinder filling facilities in most States and Territories. Coregas also supplies and distributes liquid petroleum gas (LPG) in various cylinder sizes across Australia, and welding consumables via its subsidiaries in Victoria and Queensland. Supagas is a producer and supplier of LPG, industrial, medical and specialty gases. Supagas operates a number of industrial gas production facilities in Australia including an ASU in Karratha and micro-ASUs in Victoria and Darwin, a carbon dioxide plant in Bomaderry, a helium import and decant facility in Sydney, and cylinder filling facilities in most States and Territories.",
+    "Market definition": "The ACCC considered the likely impact of the Proposed Acquisition on competition in market(s) for: the supply of industrial gas cylinders to end customers in various Australian states and territories the supply of liquid nitrogen in microbulk or bulk volumes in areas where the Parties overlap including in New South Wales and Victoria. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Supagas and Coregas (the Parties) overlap in the supply of industrial gases sold in cylinder form. Industrial gases include oxygen (regular and medical), nitrogen (regular and medical), argon, acetylene, helium, carbon dioxide, and various mixtures of gases. Industrial gases are used for a wide range of applications, including manufacturing, food processing, medical, and welding applications. The Parties also overlap in the supply of liquid nitrogen in microbulk and bulk volumes in New South Wales and Victoria. The ACCC considered the effect of the Proposed Acquisition on the supply of individual gases. However, the competition analysis summarises the ACCC’s assessment across the range of gases, except where particular issues arose with the impact of the Proposed Acquisition on a specific gas. Post acquisition, the merged entity would continue to face significant competition from BOC Australia Limited (BOC) and Air Liquide across all areas of overlap. Currently, BOC and Air Liquide each have larger production, supply and distribution footprints than each of the Parties in Australia. BOC would remain the largest supplier in Australia post acquisition. The ACCC found that the proposed acquisition is unlikely to substantially lessen competition in the supply of liquid nitrogen in bulk or microbulk volumes, including in New South Wales and Victoria. Supagas’ production facility is in Dandenong, Victoria while Coregas’ facility is in Port Kembla, New South Wales, limiting the extent of the competitive overlap. Post-acquisition BOC and Air Liquide would likely continue to provide an effective competitive constraint on the merged entity with each having significant production facilities in both New South Wales and Victoria. The ACCC also found that the proposed acquisition would be unlikely to enable the merged entity to foreclose downstream rivals’ access to industrial gases (either in cylinder or bulk form) given the presence of alternative supply sources for independent distributors."
+  }
+}

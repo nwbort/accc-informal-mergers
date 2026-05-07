@@ -1,0 +1,49 @@
+{
+  "id": "0483",
+  "title": "Paper Australia Pty Ltd - completed acquisition of certain assets of Envotec Pty Ltd (Administrator Appointed) (t/a Australian Envelopes)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/paper-australia-pty-ltd-completed-acquisition-of-certain-assets-of-envotec-pty-ltd-administrator-appointed-ta-australian-envelopes",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46491",
+  "industries": [
+    "Stationery"
+  ],
+  "date_completed": "8 November 2011",
+  "date_completed_iso": "2011-11-08T12:00:00Z",
+  "date_commenced": "29 July 2011",
+  "date_commenced_iso": "2011-07-29T12:00:00Z",
+  "total_review_days": 57,
+  "acquirers": [
+    "Paper Australia Pty Ltd"
+  ],
+  "targets": [
+    "Envotec Pty Ltd (Administrator Appointed) (t/a Australian Envelopes)"
+  ],
+  "timeline": [
+    {
+      "date": "29 Jul 2011",
+      "date_iso": "2011-07-29T12:00:00Z",
+      "event": "ACCC commenced review."
+    },
+    {
+      "date": "22 Aug 2011",
+      "date_iso": "2011-08-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Nov 2011",
+      "date_iso": "2011-11-08T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": "The ACCC requested further information from Paper Australia Pty Ltd on three occasions during this review, resulting in the timeline being suspended for 16 business days."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Paper Australia Pty Ltd acquired certain assets of Envotec Pty Ltd (Administrator Appointed) (t/a Australian Envelopes).",
+    "Market definition": "The ACCC considered the completed acquisition in the context of: - the national market for the supply of paper stock; and - the national market for the supply of envelopes.",
+    "Competition analysis": "The ACCC formed the view that the completed acquisition was not likely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - there were a number of alternative suppliers which would continue to compete with Australian Paper in the supply of envelopes; - in most segments of the market for the supply of envelopes, imported envelopes were a viable alternative to envelopes supplied by domestic manufacturers and provided a strong pricing constraint; and - due to the global decline in envelope demand, all envelope manufacturers had excess capacity and the ability to procure envelope machines, often at low prices. The ACCC had regard to price increases in the market for the supply of envelopes which occurred following the closure of Australian Envelopes. However, such price increases did not appear to be directly related to the completed acquisition of the assets of Australian Envelopes, but rather the exit of Australian Envelopes and its previous role as an aggressive price leader. The ACCC also considered the extent to which the completed acquisition had increased the ability or incentive of Australian Paper (which is the only Australian manufacturer of envelope grade paper) to foreclose its competitors in the national market for the supply of envelopes. The ACCC noted that imported envelope grade paper appeared to be a viable alternative for the majority of envelope grade paper supplied by Australian Paper. For those grades of envelope paper for which imports were not a viable alternative, the ACCC formed the view that the completed acquisition was unlikely to provide any additional ability or substantially greater incentive for Australian Paper to foreclose rival envelope manufacturers."
+  }
+}

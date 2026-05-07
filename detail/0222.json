@@ -1,0 +1,58 @@
+{
+  "id": "0222",
+  "title": "Essilor International SA - proposed merger with Luxottica Group SpA",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/essilor-international-sa-proposed-merger-with-luxottica-group-spa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "61929",
+  "industries": [
+    "Eyewear"
+  ],
+  "date_completed": "26 October 2017",
+  "date_completed_iso": "2017-10-26T12:00:00Z",
+  "date_commenced": "11 August 2017",
+  "date_commenced_iso": "2017-08-11T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "Essilor International SA"
+  ],
+  "targets": [
+    "Luxottica Group SpA"
+  ],
+  "timeline": [
+    {
+      "date": "11 Aug 2017",
+      "date_iso": "2017-08-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "25 Aug 2017",
+      "date_iso": "2017-08-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Sep 2017",
+      "date_iso": "2017-09-07T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties."
+    },
+    {
+      "date": "23 Sep 2017",
+      "date_iso": "2017-09-23T12:00:00Z",
+      "event": "ACCC received further information from the merger parties."
+    },
+    {
+      "date": "3 Oct 2017",
+      "date_iso": "2017-10-03T12:00:00Z",
+      "event": "ACCC amended former provisional date for announcement of findings (19th October) to provide time to consider the new information."
+    },
+    {
+      "date": "26 Oct 2017",
+      "date_iso": "2017-10-26T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed merger in relation to the markets for: - the retail supply of non-prescription sunglasses - the retail supply of optical dispensing services (which includes the retail supply of prescription frames, ophthalmic lenses and prescription sunglasses) - the wholesale supply of prescription frames (including frames for prescription sunglasses) - the wholesale supply of non-prescription sunglasses, and - the wholesale supply of finished ophthalmic lenses (including lenses for prescription frames and prescription sunglasses). The ACCC considered that the above markets may be narrower, in particular,  the retail supply of sunglasses may be segmented according to price or supply channel, and the wholesale supply of finished ophthalmic lenses may be further segmented into separate markets for the supply of finished ophthalmic lenses and lens processing services. However, it did not need to form a concluded view as the proposed merger would not be likely to substantially lessen competition even if narrower markets were defined.",
+    "Competition analysis": "The ACCC concluded that the proposed merger between Essilor and Luxottica was unlikely to substantially lessen competition in any relevant market. The ACCC considered that the proposed merger would result in minimal horizontal aggregation in each of the relevant markets and therefore, was unlikely to result in any horizontal anti-competitive effects. The proposed merger would result in a vertically integrated entity with operations in each of the relevant markets. The ACCC considered whether  the proposed merger would give the merged Essilor-Luxottica the ability to engage in bundling or foreclosure conduct to the detriment of competition in any market. While Luxottica has some market leading brands, these brands were not 'must have' brands for many retailers. While these brands are desirable and important for many retailers, retail customers could switch to other frames and lens suppliers in the event the merged Essilor-Luxottica attempted to bundle, restrict access or increase prices. Some retailers do not currently stock Luxottica frames. The ACCC also found that there was sufficient competition in each of the relevant markets that would effectively constrain the conduct of the merged Essilor-Luxottica. The ACCC also considered whether the proposed merger would provide the merged firm with access to downstream rivals' commercially sensitive information through Essilor's practice management system, Sunix. The ACCC found that currently most retailers' data is stored on their own private servers. While it is likely that some retailers' data will be stored on a third party 'cloud' server in the future, this data would be protected from use by the merged entity, either on an individual store or aggregate basis, through existing contractual arrangements. The ACCC found that it was unlikely that the proposed merger would raise structural and/or strategic barriers to entry for independent retail suppliers of optical dispensing services. While the merged entity would have significant presence at each stage of the supply chain, the ACCC considered that there is enough competition in wholesale markets, such that retailers would still be able to access the necessary inputs, without needing to also enter at other parts of the supply chain."
+  }
+}

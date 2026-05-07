@@ -1,0 +1,44 @@
+{
+  "id": "0204",
+  "title": "Seven & Nine - proposed acquisition of Ten's shares in TX Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/seven-nine-proposed-acquisition-of-tens-shares-in-tx-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63803",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "3 May 2018",
+  "date_completed_iso": "2018-05-03T12:00:00Z",
+  "date_commenced": "9 March 2018",
+  "date_commenced_iso": "2018-03-09T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Seven & Nine"
+  ],
+  "targets": [
+    "Ten's shares in TX Australia"
+  ],
+  "timeline": [
+    {
+      "date": "9 Mar 2018",
+      "date_iso": "2018-03-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "29 Mar 2018",
+      "date_iso": "2018-03-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 May 2018",
+      "date_iso": "2018-05-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nine Network Australia Pty Limited  and Seven Network each propose to acquire 50% of Network Ten's  one-third interest in TX Australia Pty Limited.",
+    "Market definition": "The target of the proposed acquisition, TX Australia (TXA), supplies digital television (DTV) transmission services in Melbourne, Sydney, Brisbane, Perth and Adelaide to its shareholders Seven, Nine and Ten, who are the three free to air (FTA) commercial television broadcasters in those metropolitan areas. The proposed acquisition would result in TXA being owned jointly by Seven and Nine, and not Ten. The ACCC considered whether the proposed acquisition would affect downstream markets in which Seven, Nine and Ten compete, including: - the supply of TV or FTA TV viewing content, - the acquisition by broadcasters of content, and - the supply of advertising services, TV advertising services or FTA TV advertising services. For the purposes of this review, it was not necessary to reach a concluded view on the scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market. Since Seven, Nine and Ten compete in various downstream markets, and DTV transmission services are an essential input for terrestrial television broadcasting, the ACCC considered whether Seven and Nine, through their ownership of TXA, could foreclose Ten's access to DTV transmission services. Based on its inquiries, the ACCC determined that Ten could defeat any attempted foreclosure strategy by switching to Broadcast Australia, which would be a viable alternative to TXA. The ACCC took into account the availability of an access regime under the Broadcasting Services Act. The ACCC considered that any potential for discrimination by TXA or for Ten to face higher DTV transmission costs was not likely to be sufficient to substantially lessen competition in any relevant markets."
+  }
+}

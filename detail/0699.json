@@ -1,0 +1,44 @@
+{
+  "id": "0699",
+  "title": "First East Auction Holdings Pty Ltd - proposed acquisition of Sotheby's Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/first-east-auction-holdings-pty-ltd-proposed-acquisition-of-sothebys-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38534",
+  "industries": [
+    "Auction business"
+  ],
+  "date_completed": "19 October 2009",
+  "date_completed_iso": "2009-10-19T12:00:00Z",
+  "date_commenced": "29 September 2009",
+  "date_commenced_iso": "2009-09-29T12:00:00Z",
+  "total_review_days": 14,
+  "acquirers": [
+    "First East Auction Holdings Pty Ltd"
+  ],
+  "targets": [
+    "Sotheby's Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "29 Sep 2009",
+      "date_iso": "2009-09-29T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "9 Oct 2009",
+      "date_iso": "2009-10-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Oct 2009",
+      "date_iso": "2009-10-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "First East Auction Holdings (trading as Bonhams & Goodman) proposed to acquire the auction business and associated assets of Sotheby's Australia and to obtain a licence to use the Sotheby's trademark in Australia and New Zealand.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a national market for the supply of services for the resale of fine art by auction. However, for the purposes of the competition analysis, the ACCC did not consider it necessary to reach a definitive view in relation to market definition.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. Factors informing this conclusion included: - the merged entity would continue to be constrained by other major auction houses; and - the market is characterised by a history of entry and exit by local and international players in response to market opportunities."
+  }
+}

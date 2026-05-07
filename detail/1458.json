@@ -1,0 +1,31 @@
+{
+  "id": "1458",
+  "title": "Acquirer: Associated British Foods plc; Target: Burns Philp & Company Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-associated-british-foods-plc-target-burns-philp-company-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "20105",
+  "industries": [],
+  "date_completed": "24 September 2004",
+  "date_completed_iso": "2004-09-24T12:00:00Z",
+  "date_commenced": "3 August 2004",
+  "date_commenced_iso": "2004-08-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Associated British Foods plc"
+  ],
+  "targets": [
+    "Burns Philp & Company Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed acquisition of the Yeast and Bakery Division of Burns, Philp & Company Limited by Associated British Foods plc.",
+    "Market definition": "For the purposes of competition analysis, the relevant markets were considered to be the state-based bread markets, national yeast market and national bread improver market.",
+    "Competition analysis": "The Commission has considered the likely impact of the proposed acqusition in each of the individual markets and concluded that no substantial lessening of competition is likely. Accordingly, the Commission does not intend to intervene in the proposed transaction. In the bread market, the acquisition does not involve Goodman Fielder's baking business, so there is no change in market concentration. There is no change in concentration in yeast market either, since the acquirer does not currently supply yeast. Dry yeast imports are also above 10% of the market. Furthermore, Bakels-Lesaffre Yeast, the other major fresh yeast provider in Australia, will continue to provide an effective constraint on the merged entity. In relation to the bread improver market, although the Commission's concentration threshold for coordinated market power is crossed, the merged entity will continue to face competition from several other suppliers. Customers in the market are also considered to possess countervailing power.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "4719"
+  }
+}

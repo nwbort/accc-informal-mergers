@@ -1,0 +1,44 @@
+{
+  "id": "0709",
+  "title": "National Australia Bank Ltd (NAB) - proposed acquisition of Goldman Sachs JBWere Private Wealth Management",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-ltd-nab-proposed-acquisition-of-goldman-sachs-jbwere-private-wealth-management",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38349",
+  "industries": [
+    "Stockbroking, wealth management"
+  ],
+  "date_completed": "1 September 2009",
+  "date_completed_iso": "2009-09-01T12:00:00Z",
+  "date_commenced": "6 August 2009",
+  "date_commenced_iso": "2009-08-06T12:00:00Z",
+  "total_review_days": 19,
+  "acquirers": [
+    "National Australia Bank Ltd (NAB)"
+  ],
+  "targets": [
+    "Goldman Sachs JBWere Private Wealth Management"
+  ],
+  "timeline": [
+    {
+      "date": "6 Aug 2009",
+      "date_iso": "2009-08-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Aug 2009",
+      "date_iso": "2009-08-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Sep 2009",
+      "date_iso": "2009-09-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "National Australia Bank proposed to acquire 80.1% of Goldman Sachs JBWere Private Wealth Management.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the following national markets: - the supply of full service (advisory) stockbroking services to retail customers; - the supply of online (non-advisory) stockbroking services to retail customers; and - financial planning and advisory services. For the purposes of the competition analysis, the ACCC did not consider it necessary to form a definitive view regarding market definition.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - the absence of competitive overlap between the merger parties with regard to full service stockbroking services since NAB did not offer this service; - the presence of a range of alternative non-advisory stockbrokerage service providers; and - the large number of dealer groups and independent financial advisors that would remain unaligned and not under the influence of NAB."
+  }
+}

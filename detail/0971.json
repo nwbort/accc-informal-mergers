@@ -1,0 +1,63 @@
+{
+  "id": "0971",
+  "title": "Toll Holdings Limited - acquisition of Westrans Freighters Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-acquisition-of-westrans-freighters-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30305",
+  "industries": [
+    "Transport"
+  ],
+  "date_completed": "30 January 2008",
+  "date_completed_iso": "2008-01-30T12:00:00Z",
+  "date_commenced": "8 November 2007",
+  "date_commenced_iso": "2007-11-08T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Westrans Freighters Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "19 Sep 2007",
+      "date_iso": "2007-09-19T12:00:00Z",
+      "event": "Toll Holdings Limited acquired Westrans Freighters Pty Ltd."
+    },
+    {
+      "date": "8 Nov 2007",
+      "date_iso": "2007-11-08T12:00:00Z",
+      "event": "ACCC commences review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Nov 2007",
+      "date_iso": "2007-11-08T12:00:00Z",
+      "event": "ACCC requested information from Toll Holdings Limited. ACCC timeline suspended."
+    },
+    {
+      "date": "23 Nov 2007",
+      "date_iso": "2007-11-23T12:00:00Z",
+      "event": "ACCC received information from Toll Holdings Limited. ACCC timeline recommenced."
+    },
+    {
+      "date": "5 Dec 2007",
+      "date_iso": "2007-12-05T12:00:00Z",
+      "event": "ACCC commences market inquiries."
+    },
+    {
+      "date": "19 Dec 2007",
+      "date_iso": "2007-12-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "30 Jan 2008",
+      "date_iso": "2008-01-30T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "For the purposes of this competition assessment, the relevant markets were considered to be (i) the market for the supply of long haul road transport services for general freight on the Brisbane-Darwin corridor; and (ii)  the market for the supply of long haul road transport services for refrigerated freight on the Brisbane-Darwin corridor.",
+    "Competition analysis": "The ACCC decided that the acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. For the first market (general freight), factors informing this conclusion included: - a number of competitors will remain in the market; and - barriers to entry in the case of general road freight are relatively low. For the second market (refrigerated freight), factors informing this conclusion included: - the potential for entry over a relatively short space of time by other transport companies; and - evidence that customers are likely to seek alternatives, including via sponsoring entry, in response to price rises above competitive levels or a reduction in the quality of service provided."
+  }
+}

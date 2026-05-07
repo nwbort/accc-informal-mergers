@@ -1,0 +1,26 @@
+{
+  "id": "1323",
+  "title": "Schneider Electric Australia Holdings Pty Ltd - Proposed acquisition of Citect Corporation Ltd.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/schneider-electric-australia-holdings-pty-ltd-proposed-acquisition-of-citect-corporation-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "22852",
+  "industries": [
+    "Industrial automation and control systems"
+  ],
+  "date_completed": "20 December 2005",
+  "date_completed_iso": "2005-12-20T12:00:00Z",
+  "date_commenced": null,
+  "date_commenced_iso": null,
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Schneider Electric Australia Holdings Pty Ltd - Proposed acquisition of Citect Corporation Ltd.",
+    "Market definition": "The separate but complementary national markets for the supply of sensors, actuators and control products, programmable logic controllers (PLCs), human machine interface (HMI) panels, supervisory control and data acquisition (SCADA) software and manufacturing execution systems (MES) software. The relevant markets relate to systems that monitor, automate and control production processes.",
+    "Competition analysis": "As there is no overlap between the parties in respect of SCADA, MES or any industrial automation hardware, the proposed acquisition would result in a bare transfer of Citect's SCADA and MES market share to Schneider. Nevertheless, the ACCC considered whether the merged firm may have the incentive and ability to increase sales by bundling or tying its products, or reducing the interoperability of its products with competing products. The merged firm does not appear to have market power in any of the relevant markets that it could leverage with the effect of foreclosing customers to its rivals and thereby raising rivals' costs. Market participants indicated that Citect's strong market position in SCADA software in Australia is not due to any unique or proprietary functionality and that fully substitutable alternative SCADA products are available. Market inquiries by the ACCC generally found that any attempt by the merged firm to leverage its strong sales of SCADA software would be unlikely to raise rivals' costs due to the ability of customers to switch to competitive bundles offered by existing suppliers. In this regard, the ACCC noted the pre-existing industry trend toward fully integrated providers of industrial automation systems. Accordingly, the ACCC concluded on 20 December 2005 that the proposed acquisition is unlikely to result in a substantial lessening of competition in any of the relevant markets.",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties"
+  }
+}

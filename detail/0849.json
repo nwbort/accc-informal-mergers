@@ -1,0 +1,64 @@
+{
+  "id": "0849",
+  "title": "Primus Australia Pty Ltd - acquisition of certain assets from Bromic Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/primus-australia-pty-ltd-acquisition-of-certain-assets-from-bromic-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33893",
+  "industries": [
+    "Gas camping equipment"
+  ],
+  "date_completed": "20 October 2008",
+  "date_completed_iso": "2008-10-20T12:00:00Z",
+  "date_commenced": "8 September 2008",
+  "date_commenced_iso": "2008-09-08T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Primus Australia Pty Ltd"
+  ],
+  "targets": [
+    "Bromic Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "30 Jul 2008",
+      "date_iso": "2008-07-30T12:00:00Z",
+      "event": "Primus Australia Pty Ltd acquired certain assets from Bromic Pty Ltd."
+    },
+    {
+      "date": "8 Sep 2008",
+      "date_iso": "2008-09-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Sep 2008",
+      "date_iso": "2008-09-08T12:00:00Z",
+      "event": "ACCC requested further information from Primus Australia Pty Ltd. ACCC timeline suspended."
+    },
+    {
+      "date": "15 Sep 2008",
+      "date_iso": "2008-09-15T12:00:00Z",
+      "event": "ACCC received further information from Primus Australia Pty Ltd. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Sep 2008",
+      "date_iso": "2008-09-29T12:00:00Z",
+      "event": "ACCC requested further information from Primus Australia Pty Ltd. ACCC timeline suspended."
+    },
+    {
+      "date": "10 Oct 2008",
+      "date_iso": "2008-10-10T12:00:00Z",
+      "event": "ACCC received further information from Primus Australia Pty Ltd. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Oct 2008",
+      "date_iso": "2008-10-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Primus Australia Pty Ltd has acquired certain assets from Bromic Pty Ltd, including Companion-branded gas equipment for camping and outdoor leisure use.",
+    "Market definition": "The ACCC analysed the acquisition on the basis of the narrowest possible market definition for the products supplied by the parties, namely separate markets for the wholesale supply of gas lanterns, stoves, hoses and adaptors for camping and outdoor leisure use, to independent retailers. As the ACCC considered that no substantial lessening of competition was likely on this narrow market definition, it was not necessary to conclusively determine whether a broader market definition may be appropriate.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets. Factors informing this conclusion included: - the merged entity will continue to be constrained by a number of existing competitors and the threat of expansion by these competitors; - actual and potential competition from importers is likely to constrain the merged entity; - barriers to entry are not particularly high, as evidenced by recent entry; and - the acquisition has not resulted in the loss of a maverick competitor in the relevant markets."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0898",
+  "title": "Petronas Group - proposed acquisition of 40 per cent of certain assets of Santos Ltd and joint venture",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/petronas-group-proposed-acquisition-of-40-per-cent-of-certain-assets-of-santos-ltd-and-joint-venture",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32690",
+  "industries": [
+    "Gas transmission and wholesale gas supply"
+  ],
+  "date_completed": "7 July 2008",
+  "date_completed_iso": "2008-07-07T12:00:00Z",
+  "date_commenced": "20 June 2008",
+  "date_commenced_iso": "2008-06-20T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Petronas Group"
+  ],
+  "targets": [
+    "Santos Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2008",
+      "date_iso": "2008-06-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Jun 2008",
+      "date_iso": "2008-06-27T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Jul 2008",
+      "date_iso": "2008-07-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Petronas Group proposes to acquire 40 per cent of certain Santos Ltd owned coal seam gas assets in the Fairview and Roma gas fields in Queensland.  The proposal also includes the establishment of a joint venture company for the purpose of constructing and operating a liquefied natural gas (LNG) facility and pipeline connecting the parties' jointly owned upstream assets to the LNG plant, in Gladstone, Queensland. Petronas holds a 16.7 per cent shareholding in the APA Group, which owns the Roma-Brisbane, and Carpentaria gas transmission pipelines, and the Allgas distribution network, amongst other assets in Australia.",
+    "Market definition": "Through Petronas' acquisition of 40% of certain Santos gas production assets and its 16.7% share of APA Group, the parties' interests potentially overlap by way of vertical integration of assets for the production, wholesale, transmission and distribution of gas; and horizontal aggregation of gas transmission pipelines, primarily in Queensland. Although the ACCC did not consider market definition to be determinative for its consideration of this matter, it proceeded its analysis on the basis of markets for the supply of wholesale gas in Queensland via gas transmission pipelines.",
+    "Competition analysis": "On 7 July 2008, the ACCC formed the view that the acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. The ACCC considered whether Petronas would have the ability and incentive to: - Increase gas transmission prices as a result of horizontal aggregation of pipeline assets; and - Foreclose access to pipelines as a result of vertical integration of gas production and pipeline assets. In forming its conclusion, the ACCC took a range of factors into account, including: - The presence of other pipelines enabling the supply of gas customers from gas fields to major demand centres in Queensland; and - The regulation of pipelines owned by the APA Group, particularly in relation to price and non-price terms of access to those pipelines."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1562",
+  "title": "Acquirer: Mayne Health; Target: Queensland Diagnostic Imaging Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-mayne-health-target-queensland-diagnostic-imaging-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17467",
+  "industries": [],
+  "date_completed": "30 April 2003",
+  "date_completed_iso": "2003-04-30T12:00:00Z",
+  "date_commenced": "3 March 2003",
+  "date_commenced_iso": "2003-03-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Mayne Health"
+  ],
+  "targets": [
+    "Queensland Diagnostic Imaging Pty Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Healthcare Imaging Services Pty Limited (a wholly owned subsidiary of Mayne Group Limited) proposed acquisition of Queensland Diagnostic Imaging Pty Limited",
+    "Market definition": "The Sunshine Coast market for the provision of diagnostic services to private patients",
+    "Competition analysis": "\"\tIt appears that the barriers to entry for diagnostic imaging may not be high; \"\tIt appears that there are a number of diagnostic services providers not presently competing in the relevant market which would be able to enter the relevant market easily; \"\tThere are a number of available substitutes who would be able to expand existing operations in which are located on the Sunshine Coast; and \"\tCountervailing power appears to be present among customers including private hospitals and health funds particularly through the presence of a competitive tendering process for hospital based facilities.  Additionally, medical practitioners can refer patients to a competing diagnostic imaging provider or to assist a new entrant.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "8639"
+  }
+}

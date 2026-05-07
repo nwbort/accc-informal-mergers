@@ -1,0 +1,28 @@
+{
+  "id": "1183",
+  "title": "Nokia Corporation and Siemens Aktiengesellschaft - Proposed creation of joint venture company",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nokia-corporation-and-siemens-aktiengesellschaft-proposed-creation-of-joint-venture-company",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26303",
+  "industries": [
+    "Information & Communications"
+  ],
+  "date_completed": "1 December 2006",
+  "date_completed_iso": "2006-12-01T12:00:00Z",
+  "date_commenced": "8 November 2006",
+  "date_commenced_iso": "2006-11-08T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "Siemens Aktiengesellschaft",
+    "Nokia Corporation"
+  ],
+  "targets": [
+    "Nokia Siemens Networks BV"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Nokia Corporation (Nokia) and Siemens Aktiengesellschaft (Siemens) propose to create a joint venture company Nokia Siemens Networks BV. Nokia and Siemens are global companies (with Australian subsidiaries) engaged in the supply of telecommunications equipment and related services to communications operators.",
+    "Competition analysis": "The ACCC considered that the transaction would mainly affect the mobile network equipment sector (which is the main area of overlap) since Nokia has few activities in fixed-line telecommunications. The ACCC also found that, there appeared to be sufficient credible global competitors with a presence in Australia, for example, Ericsson/Marconi and Alcatel/Lucent. Further, the ACCC concluded that post acquisition, Telstra would likely be able to exercise countervailing power as it is by far the largest purchaser of telecommunications services from telecommunications equipment suppliers. The ACCC consequently decided that the acquisition was unlikely to raise competition concerns in any relevant market in Australia."
+  }
+}

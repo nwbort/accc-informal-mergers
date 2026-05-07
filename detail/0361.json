@@ -1,0 +1,44 @@
+{
+  "id": "0361",
+  "title": "Bega Cheese Limited - proposed acquisition of Warrnambool Cheese and Butter Factory Company Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bega-cheese-limited-proposed-acquisition-of-warrnambool-cheese-and-butter-factory-company-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51073",
+  "industries": [
+    "Dairy products"
+  ],
+  "date_completed": "31 October 2013",
+  "date_completed_iso": "2013-10-31T12:00:00Z",
+  "date_commenced": "12 September 2013",
+  "date_commenced_iso": "2013-09-12T12:00:00Z",
+  "total_review_days": 34,
+  "acquirers": [
+    "Bega Cheese Limited"
+  ],
+  "targets": [
+    "Warrnambool Cheese and Butter Factory Company Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "12 Sep 2013",
+      "date_iso": "2013-09-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "4 Oct 2013",
+      "date_iso": "2013-10-04T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Oct 2013",
+      "date_iso": "2013-10-31T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 11 September 2013, Bega Cheese Limited (Bega) announced an offer to acquire all of the shares in Warrnambool Cheese and Butter Factory Company Holdings Limited (WCB).",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the following markets: a. regional markets for the acquisition of raw milk in the dairy regions of: (i) south west Victoria (and areas of northern Victoria) (ii) eastern Victoria; and (iii) south east South Australia (and areas of western Victoria) b. separate national markets for the wholesale supply of processed dairy products, including: (i) bulk and packaged cheese; (ii) bulk and packaged butter; (iii) bulk fresh cream; (iv) fresh white and flavoured milk; (v) milk powders; and (vi) whey products.",
+    "Competition analysis": "The ACCC concluded that Bega's proposed acquisition of WCB was unlikely to substantially lessen competition in any relevant market. In relation to the acquisition of raw milk, there is minor overlap between Bega and WCB in the dairy region of south west Victoria (and areas of northern Victoria). There is also minor overlap between Bega and WCB in the dairy region of south east South Australia. The ACCC did not consider that a merged Bega and WCB would be likely to be able to lower prices offered to farmers for raw milk supply in these, or other dairy regions. The key reasons for this are: Bega and WCB are not close competitors in the acquisition of raw milk and to a large extent they do not compete to collect raw milk from the same geographic areas; and to the extent that Bega and WCB do overlap in the geographic regions from which they acquire raw milk, the merged firm will continue to be constrained by competitors, including Murray Goulburn and Fonterra. The ACCC considered that competition concerns were unlikely to arise regardless of whether a narrower market for the acquisition of raw milk in south west Victoria was defined, or alternatively, a broader market for the acquisition of raw milk in Victoria and southern NSW. Accordingly, market definition was not determinative of the competition assessment for the proposed acquisition in the acquisition of raw milk. In relation to each of the markets for the wholesale supply of processed dairy products, the ACCC considered that a merged Bega and WCB would continue to face significant competitive constraint from: independent import competition; and existing domestic competitors, including Murray Goulburn and Fonterra. The ACCC recognised that dairy manufacturers in Australia, and in particular bulk processors of long-life dairy products that compete most closely with the merger parties, currently export significant quantities of their output and would be able to constrain the merged firm redirecting exports into the domestic market to increase supply in Australia."
+  }
+}

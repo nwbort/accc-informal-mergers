@@ -1,0 +1,49 @@
+{
+  "id": "1153",
+  "title": "connectfinancial and islandstate - proposed merger of credit union operations",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/connectfinancial-and-islandstate-proposed-merger-of-credit-union-operations",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27150",
+  "industries": [
+    "Banking and Finance"
+  ],
+  "date_completed": "13 February 2007",
+  "date_completed_iso": "2007-02-13T12:00:00Z",
+  "date_commenced": "31 January 2007",
+  "date_commenced_iso": "2007-01-31T12:00:00Z",
+  "total_review_days": 10,
+  "acquirers": [
+    "connectfinancial"
+  ],
+  "targets": [
+    "islandstate"
+  ],
+  "timeline": [
+    {
+      "date": "31 Jan 2007",
+      "date_iso": "2007-01-31T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Feb 2007",
+      "date_iso": "2007-02-02T12:00:00Z",
+      "event": "Market inquiries commenced."
+    },
+    {
+      "date": "9 Feb 2007",
+      "date_iso": "2007-02-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Feb 2007",
+      "date_iso": "2007-02-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "connectfinancial and islandstate propose to merger their credit union operations in Tasmania.",
+    "Market definition": "The ACCC considered the proposed merger in the context of the market for the provision of financial services in Tasmania.",
+    "Competition analysis": "The ACCC considered it unlikely that the proposed merger would lead to a substantial lessening of competition in the relevant market. The ACCC noted that while the proposed merger would involve the amalgamation of the two largest credit unions in Tasmania, the presence of a large number of competitors (particularly the major banks) is likely to provide a sufficient constraint on the merged entity to prevent any attempt to increase prices or reduce service levels."
+  }
+}

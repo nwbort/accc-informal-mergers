@@ -1,0 +1,57 @@
+{
+  "id": "0165",
+  "title": "Bis Industries Holdings Limited - proposed acquisition of Cougar Mining Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bis-industries-holdings-limited-proposed-acquisition-of-cougar-mining-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Mining"
+  ],
+  "date_completed": "22 November 2019",
+  "date_completed_iso": "2019-11-22T12:00:00Z",
+  "date_commenced": "17 May 2019",
+  "date_commenced_iso": "2019-05-17T12:00:00Z",
+  "total_review_days": 82,
+  "acquirers": [
+    "Bis Industries Holdings Limited"
+  ],
+  "targets": [
+    "Cougar Mining Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 May 2019",
+      "date_iso": "2019-05-17T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Process Guidelines."
+    },
+    {
+      "date": "31 May 2019",
+      "date_iso": "2019-05-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "8 Aug 2019",
+      "date_iso": "2019-08-08T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "23 Aug 2019",
+      "date_iso": "2019-08-23T12:00:00Z",
+      "event": "Closing date for submissions from interested parties relating to the Statement of Issues."
+    },
+    {
+      "date": "11 Sep 2019",
+      "date_iso": "2019-09-11T12:00:00Z",
+      "event": "Former proposed date for announcement of findings (24th October) is delayed to allow Bis more time to provide additional information. ACCC will announce a revised proposed decision date in due course."
+    },
+    {
+      "date": "22 Nov 2019",
+      "date_iso": "2019-11-22T12:00:00Z",
+      "event": "ACCC discontinued its public review after Bis informed of its intention to withdraw the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bis Industries Holdings Limited (Bis) proposed to acquire Cougar Mining Group Pty Ltd (Cougar). The proposed acquisition did not include Australian Mining Equipment (formerly Cougar IME), CH4 Drilling (formerly Cougar Drilling) and Cougar Stratajacks. Bis and Cougar both provided support services to the coal mining industry, including the hiring out of underground longwall relocation equipment and other specialised mining equipment."
+  }
+}

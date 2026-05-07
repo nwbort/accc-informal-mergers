@@ -1,0 +1,31 @@
+{
+  "id": "1688",
+  "title": "Acquirer: Golden Circle Ltd; Target: Original Juice Co The, OJC Investments Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-golden-circle-ltd-target-original-juice-co-the-ojc-investments-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15066",
+  "industries": [],
+  "date_completed": "7 February 2002",
+  "date_completed_iso": "2002-02-07T12:00:00Z",
+  "date_commenced": "8 November 2001",
+  "date_commenced_iso": "2001-11-08T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Golden Circle Ltd"
+  ],
+  "targets": [
+    "Original Juice Co The, OJC Investments Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Golden Circle Limited proposes to acquire The Original Juice Company Pty Limited and OJC Investments Pty Limited.",
+    "Market definition": "The Commission considered that the relevant market was for the production and wholesale supply of chilled and ambient fruit juice and fruit drink.",
+    "Competition analysis": "The ACCC conducted market inquiries among citrus growers, fruit juice, fruit drink and cordial manufacturers as well as major customers. Market inquiries indicated that the market is highly competitive with a high degree of price competition and product innovation. The ACCC identified a number of alternate suppliers that are likely to constrain any attempted price increase by the merged entity in both the grocery and route distribution channels. Effective entry into the relevant market is possible and has been observed on a number of previous occasions, and may continue to do so, given the relatively low barriers to entry in the relevant market. Major customers are also likely to possess a significant degree of countervailing power to resist such a price increase. Information obtained by the ACCC also indicated that the merger would be unlikely to have a negative impact on orange growers as they will still have many juice processors seeking their produce.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2181"
+  }
+}

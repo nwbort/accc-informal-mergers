@@ -1,0 +1,44 @@
+{
+  "id": "0682",
+  "title": "Kraft Foods Inc - proposed acquisition of Cadbury Plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/kraft-foods-inc-proposed-acquisition-of-cadbury-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38870",
+  "industries": [
+    "Chocolate confectionery manufacturing"
+  ],
+  "date_completed": "15 December 2009",
+  "date_completed_iso": "2009-12-15T12:00:00Z",
+  "date_commenced": "11 November 2009",
+  "date_commenced_iso": "2009-11-11T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Kraft Foods Inc"
+  ],
+  "targets": [
+    "Cadbury Plc"
+  ],
+  "timeline": [
+    {
+      "date": "11 Nov 2009",
+      "date_iso": "2009-11-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "30 Nov 2009",
+      "date_iso": "2009-11-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Dec 2009",
+      "date_iso": "2009-12-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 9 November 2009, Kraft Foods Inc announced the terms of an offer to acquire the whole of the issued and to be issued share capital of Cadbury plc.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a national market for the supply of chocolate confectionery.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market. The ACCC considered that the proposed acquisition would result in a marginal increase in concentration and that the merged firm would continue to be constrained by other significant suppliers of chocolate confectionery in Australia. The ACCC also considered that the merged firm would be unlikely to have any increased ability or incentive to leverage its strong brands such as 'Vegemite' or 'Cadbury Dairy Milk' to foreclose competition in related markets."
+  }
+}

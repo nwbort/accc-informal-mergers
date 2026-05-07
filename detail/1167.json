@@ -1,0 +1,28 @@
+{
+  "id": "1167",
+  "title": "TPG Partners V & Silver Lake Partners II - proposed acquisition of Sabre Holdings Corporation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/tpg-partners-v-silver-lake-partners-ii-proposed-acquisition-of-sabre-holdings-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26916",
+  "industries": [
+    "Travel distribution services"
+  ],
+  "date_completed": "11 January 2007",
+  "date_completed_iso": "2007-01-11T12:00:00Z",
+  "date_commenced": "8 January 2007",
+  "date_commenced_iso": "2007-01-08T12:00:00Z",
+  "total_review_days": 4,
+  "acquirers": [
+    "TPG Partners V L.P"
+  ],
+  "targets": [
+    "Sabre Holdings Corporation"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "TPG Partners V & Silver Lake Partners II  propose to jointly acquire Sabre Holdings Corporation.",
+    "Market definition": "The ACCC considered the Proposed Acquisition in the context of: - the national market for the supply of GDS and related services; - the national market for the supply of CRS and related services; and - the national market for the supply of online travel services.",
+    "Competition analysis": "The Proposed Acquisition represents a mere transfer of ownership and is therefore likely to have a minimal impact on the existing level of competition in the relevant markets.  Further, issues of vertical integration do not appear to raise concerns because Tiger Airways is a minor participant in Australia's aviation industry. Accordingly, on 11 January 2006, the ACCC formed the view that the proposed acquisition is unlikely to substantially lessen competition in the relevant markets."
+  }
+}

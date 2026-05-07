@@ -1,0 +1,60 @@
+{
+  "id": "0440",
+  "title": "SembSITA Australia Pty Limited - proposed acquisition of Australian waste management operations of Thiess Services Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sembsita-australia-pty-limited-proposed-acquisition-of-australian-waste-management-operations-of-thiess-services-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "48594",
+  "industries": [
+    "Waste Management"
+  ],
+  "date_completed": "29 June 2012",
+  "date_completed_iso": "2012-06-29T12:00:00Z",
+  "date_commenced": "10 May 2012",
+  "date_commenced_iso": "2012-05-10T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "SembSITA Australia Pty Limited"
+  ],
+  "targets": [
+    "Australian waste management operations of Thiess Services Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 May 2012",
+      "date_iso": "2012-05-10T12:00:00Z",
+      "event": "The ACCC commenced a review under the Merger Review Process Guidelines. SITA has requested that the ACCC consider and consult upon an in-principle divestiture proposal whereby it would divest its 50 per cent interest in the Springmount JV which it would acquire as a result of the proposed acquisition. Market inquiries regarding the proposed acquisition and in-principle divestiture proposal commenced concurrently."
+    },
+    {
+      "date": "25 May 2012",
+      "date_iso": "2012-05-25T12:00:00Z",
+      "event": "ACCC requested further information from SembSITA. ACCC timeline suspended and former proposed decision date of 28 June 2012 amended to allow for the parties to respond to ACCC information requests."
+    },
+    {
+      "date": "30 May 2012",
+      "date_iso": "2012-05-30T12:00:00Z",
+      "event": "ACCC received further information from SembSITA. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 May 2012",
+      "date_iso": "2012-05-31T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "12 Jun 2012",
+      "date_iso": "2012-06-12T12:00:00Z",
+      "event": "Draft 87B undertaking proffered by SembSITA. ACCC commenced market inquiries."
+    },
+    {
+      "date": "21 Jun 2012",
+      "date_iso": "2012-06-21T12:00:00Z",
+      "event": "Closing date for submissions relating to draft 87B undertaking."
+    },
+    {
+      "date": "29 Jun 2012",
+      "date_iso": "2012-06-29T12:00:00Z",
+      "event": "ACCC discontinued its public review after SembSITA advised that the proposed acquisition would not be proceeding."
+    }
+  ],
+  "body_sections": {}
+}

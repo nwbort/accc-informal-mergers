@@ -1,0 +1,60 @@
+{
+  "id": "0271",
+  "title": "A consortium comprising Qube Holdings Limited, Global Infrastructure Management, LLC, Canada Pension Plan Investment Board and CIC Capital Corporation - proposed acquisition of Asciano Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/a-consortium-comprising-qube-holdings-limited-global-infrastructure-management-llc-canada-pension-plan-investment-board-and-cic-capital-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "58647",
+  "industries": [
+    "Infrastructure"
+  ],
+  "date_completed": "15 March 2016",
+  "date_completed_iso": "2016-03-15T12:00:00Z",
+  "date_commenced": "13 November 2015",
+  "date_commenced_iso": "2015-11-13T12:00:00Z",
+  "total_review_days": 79,
+  "acquirers": [
+    "The Consortium"
+  ],
+  "targets": [
+    "Asciano Limited"
+  ],
+  "timeline": [
+    {
+      "date": "13 Nov 2015",
+      "date_iso": "2015-11-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "2 Dec 2015",
+      "date_iso": "2015-12-02T12:00:00Z",
+      "event": "Former closing date for interested party submissions of 9 December 2015 delayed pending clarification about the transaction structure."
+    },
+    {
+      "date": "7 Dec 2015",
+      "date_iso": "2015-12-07T12:00:00Z",
+      "event": "ACCC received further information from the Consortium, closing date for submissions from interested parties updated to 18 December 2015 and proposed decision date updated to 18 February 2016."
+    },
+    {
+      "date": "18 Dec 2015",
+      "date_iso": "2015-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Feb 2016",
+      "date_iso": "2016-02-05T12:00:00Z",
+      "event": "ACCC received further information from the Consortium, proposed decision date updated to 24 March 2016."
+    },
+    {
+      "date": "23 Feb 2016",
+      "date_iso": "2016-02-23T12:00:00Z",
+      "event": "Asciano announced a potential acquisition by a consortium including both Qube and Brookfield Infrastructure Partners. ACCC timeline suspended."
+    },
+    {
+      "date": "30 Mar 2016",
+      "date_iso": "2016-03-30T12:00:00Z",
+      "event": "Following an announcement by Asciano that it had entered into a new binding agreement with Brookfield, Qube and others, the ACCC discontinued this review. The ACCC commenced a review of the new joint proposal to acquire Asciano on 30 March 2016."
+    }
+  ],
+  "body_sections": {}
+}

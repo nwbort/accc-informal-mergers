@@ -1,0 +1,59 @@
+{
+  "id": "0421",
+  "title": "AWH Pty Ltd proposed joint venture with IWD Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/awh-pty-ltd-proposed-joint-venture-with-iwd-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49035",
+  "industries": [
+    "Wool dumping"
+  ],
+  "date_completed": "25 September 2012",
+  "date_completed_iso": "2012-09-25T12:00:00Z",
+  "date_commenced": "10 July 2012",
+  "date_commenced_iso": "2012-07-10T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "AWH Pty Ltd"
+  ],
+  "targets": [
+    "IWD Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jul 2012",
+      "date_iso": "2012-07-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jul 2012",
+      "date_iso": "2012-07-20T12:00:00Z",
+      "event": "ACCC requested further information from the joint venture parties. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 6 September 2012 delayed pending receipt of information requested."
+    },
+    {
+      "date": "1 Aug 2012",
+      "date_iso": "2012-08-01T12:00:00Z",
+      "event": "ACCC received further information from the joint venture parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Aug 2012",
+      "date_iso": "2012-08-10T12:00:00Z",
+      "event": "ACCC timeline suspended at the request of AWH to allow it to make a further submission."
+    },
+    {
+      "date": "11 Sep 2012",
+      "date_iso": "2012-09-11T12:00:00Z",
+      "event": "ACCC received further information from AWH. ACCC timeline recommenced."
+    },
+    {
+      "date": "25 Sep 2012",
+      "date_iso": "2012-09-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed joint venture."
+    }
+  ],
+  "body_sections": {
+    "Summary": "AWH  proposed to acquire 50% of the shares in IWD, pursuant to a joint venture agreement between the parties to collectively manage their Western Australian wool dumping operations.",
+    "Market definition": "The ACCC's assessment of the proposed joint venture focused on the main area of overlap between the joint venture parties: the supply of wool dumping services in Western Australia (WA).",
+    "Competition analysis": "The ACCC determined that the appropriate counterfactual by which to consider the proposed joint venture was AWH's WA wool dumping assets exiting the market. This counterfactual was not dissimilar to the status quo in which AWH had decommissioned its wool dumping machines and withdrawn from independent supply to customers. Based on extensive market inquiries and information and internal documents provided by the joint venture parties, the ACCC determined that AWH's decision to decommission its assets reflected commercial realities. Information provided to the ACCC from interested parties and the joint venture parties identified that wool volumes in WA are insufficient to support the operation of more than one wool dumper on a viable basis, both currently and in the foreseeable future. In particular, the ACCC took account of the significant decline in overall wool production volumes in WA and future growth prospects. The ACCC formed the view that, absent the proposed joint venture, it was unlikely that AWH's wool dumping assets would re-enter the market in the foreseeable future. In particular, it was unlikely that AWH's machines would be purchased by an alternative acquirer given market circumstances, reinstallation costs and the age profile of the machines. The ACCC concluded that the proposed joint venture would not change market structure or dynamics. With or without the proposed joint venture, the WA market would have a single supplier of wool dumping services. Accordingly, on 25 September 2012 the ACCC decided not to oppose the proposed joint venture."
+  }
+}

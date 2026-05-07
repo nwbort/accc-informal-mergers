@@ -1,0 +1,894 @@
+ 
+Page 1 of 18 
+ 
+Public Competition Assessment 
+11 March 2016 
+Royal Dutch Shell’s proposed acquisition of BG Group 
+The ACCC’s decision 
+1. On 19 November 2015 the Australian Competition and Consumer Commission 
+announced its decision not to oppose the proposed acquisition of BG Group plc 
+(BG) by Royal Dutch Shell plc (Shell). 
+2. The ACCC decided that the proposed acquisition would be unlikely to contravene 
+section 50 of the Competition and Consumer Act 2010 (the Act). 
+3. Section 50 prohibits acquisitions that would have the effect, or be likely to have the 
+effect, of substantially lessening competition in any market. 
+4. The ACCC considered the competitive effects of the proposed acquisition in the 
+following markets: 
+ the wholesale supply of natural gas in eastern Australia 
+ the wholesale supply of natural gas in Queensland. 
+5. The ACCC: 
+ considered that the proposed acquisition would not substantially reduce the 
+supply of gas, or reduce competition to supply gas, to domestic customers in 
+Queensland and eastern Australia by changing Shell’s incentives. With or 
+without the proposed acquisition, Shell’s incentives in developing its Arrow 
+reserves would be structured around supplying gas to LNG producers. 
+ was not satisfied that the loss of potential future competition between Arrow 
+and BG for the supply of gas to domestic users was likely to be substantial in 
+the relevant market(s), given the uncertainty about the amount and timing of 
+future industry gas supplies. 
+6. This Public Competition Assessment outlines reasons for the decision by the 
+ACCC not to oppose Shell’s proposed acquisition BG. 
+7. As the proposed acquisition raises important issues, the ACCC is issuing this 
+Public Competition Assessment to outline the reasons for its decision. 
+
+
+ 
+Page 2 of 18 
+8. Please note that this and other public competition assessments are subject to the 
+following qualifications: 
+ the ACCC considers each transaction on a case-by-case basis and so the 
+analysis and decision outlined in one assessment will not necessarily reflect 
+the ACCC’s view of another transaction even where that other transaction 
+may involve the same or a related market; and 
+ as assessments are brief and also do not refer to confidential information 
+provided by the merger parties or other market participants, assessments do 
+not set out all of the issues and information considered by the ACCC, nor all 
+of the analysis and reasons of the ACCC.  
+The ACCC’s East Coast Gas Inquiry 
+9. Separate to its review of this proposed acquisition, and pursuant to a Ministerial 
+direction under Part VIIA of the Act, the ACCC is also undertaking a broader 
+assessment of the competitiveness of wholesale gas supplies and prices, and the 
+structure of the upstream, processing, transportation, storage and marketing 
+segments of the gas industry in eastern Australia (the East Coast Gas Inquiry). As 
+part of that inquiry, the ACCC released an issues paper in June 2015 and has 
+conducted public hearings. The East Coast Gas Inquiry is scheduled to deliver its 
+final report to the Minister in April 2016. 
+10. During its review of the proposed acquisition, the ACCC received a large number 
+of submissions from market participants that expressed their concerns about the 
+impact of the merger in the context of issues that are being considered by the East 
+Coast Gas Inquiry. The ACCC carefully considered all submissions it received 
+about the proposed acquisition. However, its decision in this review was based 
+only on the likely competitive impact of the proposed acquisition itself. The ACCC 
+continues to consider many of the other issues raised about the structure of the 
+industry as part of the East Coast Gas Inquiry. 
+The parties and the transaction 
+The acquirer: Royal Dutch Shell plc 
+11. Shell is a global group of energy and petrochemicals companies. Shell operates 
+upstream exploration businesses and downstream refining, manufacturing and 
+marketing businesses in a number of countries. 
+12. Shell currently has a 50% interest in Arrow Energy Pty Ltd (Arrow), a joint venture 
+with PetroChina (on behalf of the China National Petroleum Company, CNPC). 
+Arrow is a Queensland coal seam gas (CSG) company involved in the exploration 
+and development of CSG fields in the Surat and Bowen Basins, gas production 
+and sales, and some electricity generation activities.  
+13. Arrow’s reserves constitute a significant proportion of the non-LNG aligned gas 
+reserves in eastern Australia. For the purposes of this paper, the ACCC uses the 
+expression ‘LNG aligned’ where one or more parties have significant ownership 
+interests in both gas resources and LNG facilities. 
+
+
+ 
+Page 3 of 18 
+14. Arrow, or joint ventures in which Arrow is involved, supply gas to domestic 
+customers that include: 
+ Incitec Pivot, which receives gas from the Moranbah Gas Project,1 a 50/50 
+joint venture between Arrow and AGL (Bowen Basin)2 
+ Queensland Nickel, which receives gas from the Moranbah Gas Project 
+(Bowen Basin)3 
+ Moranbah and Townsville Power Stations, which receive gas from the 
+Moranbah Gas Project (Bowen Basin)4 
+ Alinta's Braemar 1 power station (Surat Basin)5 
+ related parties of Arrow, including the Daandine and the Braemar 2 Power 
+Stations (Surat Basin)6 
+ CS Energy's Swanbank E Power Station which receives gas from Arrow's 
+Kogan North JV with CS Energy (Surat Basin)7. 
+15. Most of Arrow’s domestic supply contracts are contracts that Arrow entered into 
+prior to Shell and PetroChina’s acquisition of Arrow in 2010. Since this acquisition, 
+Arrow has entered into few new contracts for the wholesale supply of gas. 
+16. Arrow previously intended to develop an LNG export facility in Gladstone. 
+However, these plans were delayed in 2014 and publicly cancelled in January 
+2015. 
+17. Prior to the announcement of the proposed acquisition, Arrow had been actively 
+exploring options for commercialising its reserves through a large scale 
+development involving commercial arrangements with an LNG project, which 
+would secure a significant foundation volume. Documents supporting this were 
+provided to the ACCC during the course of the review. 
+18. Currently, Arrow’s Bowen Basin reserves are only connected to the North 
+Queensland Gas Pipeline (which runs between Moranbah and Townsville). Without 
+a pipeline to take Arrow’s gas south from the Bowen Basin, Arrow is currently 
+unable to deliver gas from its Bowen Basin fields to either the LNG plants at 
+Gladstone or to southern domestic gas users. Arrow is currently considering the 
+development of a transmission pipeline from the Bowen region to Gladstone, 
+having called for expressions of interest for the design and construction of its 
+proposed Arrow-Bowen pipeline; the proposed route is shown in Figure 1 below. 
+19. While Arrow's Surat Basin reserves are not currently directly connected to a high-
+pressure transmission pipeline, there are a number of existing transmission 
+pipelines close to Arrow’s Surat Basin fields, including transmission pipelines to the 
+                                                 
+1 SMH, Moranbah gas supply problems to hit Incitec Pivot profit, 8 July 2015, 
+http://www.smh.com.au/business/moranbah-gas-supply-problems-to-hit-incitec-pivot-profit-20150707-
+gi7dxf.html  
+2AGL, ASX & Media Release, 11 February 2015, 
+http://www.agl.com.au/~/media/AGL/About%20AGL/Documents/Investor%20Centre/2015/150211_REsult
+s_Presentation.pdf  
+3 Arrow, Arrow Bowen Gas Project EIS, p. 3. 
+https://www.arrowenergy.com.au/__data/assets/pdf_file/0017/3824/Section_01-Introduction.pdf 
+4 Arrow, Our operations,  https://www.arrowenergy.com.au/our-company/our-projects 
+5 Ibid 
+6 Ibid 
+7 Ibid 
+
+
+ 
+Page 4 of 18 
+LNG projects in Gladstone (including to BG’s QCLNG Project) and the Roma to 
+Brisbane pipeline (these pipelines are shown in Figure 3). The ACCC understands 
+that Arrow currently uses small capacity pipelines, or obtains access to existing 
+pipelines, to transport gas to domestic customers located near Dalby and Ipswich. 
+Arrow has also been considering developing a pipeline between its Surat reserves 
+and Gladstone; the proposed route is shown in Figure 1 below.  
+Figure 1: 
+Arrow’s tenements and proposed pipeline routes 
+ 
+Source: Arrow Energy, www.arrowenergy.com.au/our-company/our-projects, August 2015. 
+The target: BG Group plc 
+20. BG is an international explorer and producer of oil and gas, and supplier of LNG. 
+21. BG’s major Australian interests are held by QGC Pty Ltd (QGC), a wholly owned 
+subsidiary which BG acquired in 2008. QGC holds interests in natural gas 
+tenements and production facilities in the Surat Basin in Queensland, and 
+exploration rights in the Bowen and Cooper Basins (see Figure 2). 
+22. QGC also has a majority interest (74%) in an LNG plant on Curtis Island (QCLNG) 
+with China National Offshore Oil Corporation (CNOOC) and Tokyo Gas. The plant 
+currently converts gas sourced from production wells in the Surat Basin into LNG 
+
+
+ 
+Page 5 of 18 
+for shipment to export markets. See Table 1 (on page 9) for more detail on 
+QCLNG. 
+23. BG (through QGC) currently has domestic gas contracts with power stations, 
+industrial users and gas retailers and supplies about 20% of Queensland's gas 
+demand. However its main focus appears to be on LNG exports through QCLNG. 
+The ACCC understands that the domestic contracts BG has entered into in recent 
+years have been short term contracts for the supply of ‘ramp’ gas, which is 
+produced during the commissioning phase of LNG plants.  
+24. BG’s Surat Basin reserves are connected to the east coast pipeline network. 
+Figure 2: 
+BG’s east Australian tenements 
+ 
+Source: BG Group, www.bg-group.com/assets/files/cms/CountryData/BG_Data_Australia.pdf, 
+2015 
+The transaction 
+25. On 8 April 2015, Shell announced its intention to acquire the entire share capital of 
+BG by way of a court-sanctioned scheme of arrangement under Part 26 of the 
+Companies Act 2006 (UK). 
+26. The proposed acquisition would involve Shell acquiring a range of global assets, 
+including in particular in Brazil, North America, Kazakhstan, the North Sea and 
+Australia. Shell’s stated rationale for the transaction is to improve its global 
+portfolio of productive assets, particularly in the sectors of deep water and liquefied 
+natural gas. 
+
+
+ 
+Page 6 of 18 
+Review timeline 
+27. The following table outlines the timeline of key events in this matter.  
+Date 
+Event 
+11 June 2015 
+ACCC commenced review under the Merger 
+Process Guidelines.8 
+9 July 2015 
+Closing date for submissions from interested parties. 
+3 September 2015 
+Former proposed decision date of 3 September 
+2015 delayed by ACCC to allow additional time to 
+consider the proposed acquisition. 
+17 September 2015 
+ACCC published a Statement of Issues outlining 
+preliminary competition concerns. 
+8 October 2015 
+Closing date for submissions relating to Statement 
+of Issues. 
+22 October 2015 
+Former decision date of 12 November 2015 delayed 
+by ACCC to allow additional time to consider the 
+proposed acquisition. 
+19 November 2015 
+ACCC announced it would not oppose the proposed 
+acquisition. 
+28. The total elapsed time from start to finish was just over five months. However, the 
+total period net of time taken by the parties to submit information or documents 
+was 93 business days. 
+Market inquiries 
+29. The ACCC conducted market inquiries with a range of industry participants, 
+including competitors, potential competitors, domestic gas users, industry bodies, 
+other regulatory agencies and other interested parties. Submissions were sought in 
+relation to the substantive competition issues. 
+Industry background 
+30. The main potential competition issues considered by the ACCC relate to the 
+wholesale supply of natural gas to domestic gas users. 
+31. Natural gas is mainly used for generating electricity, heating, cooking, as a fuel for 
+vehicles and as a feedstock in the production of plastics, chemicals, fertilisers, 
+explosives and other goods. It can also be transformed into LNG for export by 
+liquefying the gas in a production facility called an LNG train. 
+32. In eastern Australia, most natural gas is produced from either sedimentary basins 
+(conventional gas) or from coal seams (CSG). Conventional gas is predominantly 
+produced from offshore Victoria in the Gippsland, Bass and Otway Basins, and 
+                                                 
+8 Shell provided its initial written submission to the ACCC on 4 June 2015. 
+
+
+ 
+Page 7 of 18 
+onshore in the Cooper Basin. Current CSG production is limited to Queensland 
+and a small amount in New South Wales. Other unconventional gas resources 
+(shale, deep coals and tight gas9) are in sedimentary basins across Australia 
+although much of these resources are not currently commercially or technically 
+recoverable. 
+33. Extracted gas is processed before being transmitted from gas fields to customers 
+via high pressure transmission pipelines. As shown in Figure 3, an interconnected 
+transmission pipeline system links the major gas basins in southern and eastern 
+Australia to demand centres. While gas tends to be purchased from the closest 
+possible source to minimise transport costs, pipeline interconnections have the 
+potential to enhance supply competition in the market by enabling gas customers 
+to source gas from different producers or gas basins, either physically or though 
+entering into gas swap arrangements.  
+                                                 
+9  Tight gas is natural gas produced from reservoir rocks with such low permeability that hydraulic 
+fracturing is necessary to produce the well at economic rates.  
+
+
+ 
+Page 8 of 18 
+Figure 3: 
+Eastern Australian gas basins and infrastructure 
+Source: Core Energy Group, Gas reserves and resources: Eastern and South Eastern 
+ 
+Australia, February 2015, p. 26. 
+Liquefied natural gas and changing market dynamics 
+34. There are currently three LNG joint ventures with facilities in Gladstone—QCLNG, 
+Gladstone LNG (GLNG) and Australia Pacific LNG (APLNG). Details of the three 
+LNG joint ventures and their ownership interests are shown in Table 1. These joint 
+ventures also own upstream infrastructure facilities and gas reserves (listed in 
+Table 2). 
+
+
+ 
+Page 9 of 18 
+Table 1: 
+Gladstone LNG projects 
+Project 
+QCLNG 
+GLNG 
+APLNG 
+Participants 
+BG (50% Train 1, 
+97.5% Train 2) 
+China National 
+Offshore Oil 
+Corporation 
+(CNOOC) (50% 
+Train 1) 
+Tokyo Gas (2.5% 
+Train 2) 
+Santos (30%) 
+Petronas (27.5%) 
+Total (27.5%) 
+KOGAS (15%) 
+Origin (37.5%) 
+ConocoPhillips 
+(37.5%) 
+Sinopec (25%) 
+Production 
+capacity 
+2 Trains (8.5Mtpa) 
+2 Trains (7.8Mtpa) 
+2 Trains (9Mtpa) 
+Note: Mtpa = million tonnes per annum. For comparison, the production of 1 million tonnes 
+of LNG requires around 55 PJ of gas.  
+35. The LNG projects are significantly altering the supply and demand dynamics in the 
+domestic gas industry in eastern Australia. Domestic gas users in Eastern 
+Australia have been exposed, for the first time, to international gas prices and 
+there are uncertainties about the amount of gas that will be available for domestic 
+use in eastern Australia in the future.10 
+36. Once the three LNG plants reach a steady state of production in around 2018-19, 
+they will require around 1350–1450 petajoules (PJ) of gas per annum to meet their 
+export obligations over the duration of their long-term LNG export agreements. At 
+the same time, the Australian Energy Market Operator has (AEMO) forecast that 
+demand for domestic gas in eastern Australia will fall from approximately 680 PJ in 
+2014 to around 520 PJ per annum by 2019.11 The decrease is mainly driven by 
+forecast falls in the use of gas for electricity generation (GPG).  
+Figure 4: Forecast annual gas consumption (including LNG exports) in eastern 
+Australia 
+ 
+                                                 
+10 ACCC East Coast Gas Inquiry, Issues Paper, p. 3. 
+11 AEMO, National gas forecasting report 2014, December 2014, p. 14. 
+
+
+ 
+Page 10 of 18 
+Source: AEMO, National gas forecasting report 2014, December 2014, p. 14. 
+Other industry participants 
+37. A number of wholesale gas producers and suppliers have operations in eastern 
+Australia. Due to the high costs and risks associated with gas projects, the majority 
+of domestic gas projects are joint ventures.  
+38. Other industry participants include the Gippsland Basin joint venture (owned by 
+ExxonMobil and BHP Billiton), the Cooper Basin joint ventures (between Santos, 
+Beach Energy and Origin), large energy generators and retailers with upstream 
+gas portfolios (such as AGL Energy), and a number of smaller gas developers and 
+producers (such as Beach Energy, Senex Energy, Drillsearch Energy and Strike 
+Energy).12 
+39. Table 2 below lists the main producers and suppliers with operations in eastern 
+Australia (with their ownership interests, current gas production and shares of 
+production and proven and probable (2P) gas reserves). The reserve positions 
+included in Table 2 are as at May 2015, and the production figures are for the 12 
+months to May 2015. This was the most recent data that was available to the 
+ACCC at the time that it reached its decision. 
+40. When considering the figures in Table 2, it is important to bear in mind that: 
+ As the three LNG projects have been increasing their gas production and will 
+continue to do so until they reach steady-state levels around 2018-19, shares 
+of gas production for the 12 months to May 2015 are unlikely to be 
+representative of the expected shares of future gas production. 
+ Reserves are a final stage in the process of petroleum resource 
+categorisation: 
+o The full process of resource development commences with 
+exploration for prospective resources. In the event of discovery, 
+these may then be classified as sub-commercial contingent 
+resources. Then, if there is a firm intention by a company to develop 
+the resources for a specific project and within a reasonable time 
+frame (often associated with a final investment decision on that 
+project) they may be reclassified as reserves.13 Thus by the time 
+resources are classified as reserves, they have been subject to 
+substantial appraisal and investment. 
+o Proved and probable (2P) reserves is an estimate of the quantity of 
+reserves; it implies a 50% probability that the volumes of gas 
+actually produced from the reserves will equal or exceed the 2P 
+estimate.14 
+o A full picture of the ownership of east coast gas resources would 
+also include contingent resources and prospective resources. 
+However, the ACCC does not have comprehensive data on these 
+categories. 
+                                                 
+12 At the date of the ACCC’s decision, Drillsearch Energy and Beach Energy had announced a proposed 
+merger. 
+13 Society of Petroleum Engineers, Petroleum Resources Management System: Guide for Non-Technical 
+Users, p.3 http://www.spe.org/industry/docs/PRMS_guide_non_tech.pdf  
+14 Society of Petroleum Engineers, Petroleum Resources Management System 2007 p.11 
+http://www.spe.org/industry/docs/Petroleum_Resources_Management_System_2007.pdf 
+
+
+ 
+Page 11 of 18 
+ The ACCC has chosen to organise the data in Table 2 by project, rather than 
+by individual project owners. This does not imply that all projects listed in 
+Table 2 market their gas output on a joint basis. 
+ ‘LNG alignment’ indicates that one or more parties has significant ownership 
+interests in both gas reserves and LNG facilities; however, this does not 
+necessarily mean that all gas in an LNG aligned project is destined to supply 
+an LNG plant. 
+ The ACCC obtained the data on 2P gas reserves and production used in 
+Table 2 from EnergyQuest – an industry consultant. EnergyQuest obtains its 
+data from a combination of public sources and its own estimates based on 
+industry knowledge. Other than providing the data, EnergyQuest had no 
+input into how the data would be used or presented.
+
+
+ 
+Page 12 of 18 
+Table 2:  
+Eastern Australia gas production and reserves (by project) 
+Project 
+Ownership / JV Interests 
+LNG 
+aligned? 
+Production 
+Share of 
+production 
+2P reserves 
+Share of  
+reserves 
+ 
+PJ 
+% 
+PJ 
+% 
+Arrow  
+Shell 50% 
+PetroChina 50%  
+No 
+31 
+4 
+8,844 
+18 
+Queensland LNG plants a 
+ 
+ 
+366 
+44 
+28,701 
+60 
+APLNG 
+Origin 37.5% (operator upstream)  
+ConocoPhillips 37.5% (operator downstream) 
+Sinopec 25%  
+Yes 
+173 
+21 
+13,778 
+28 
+GLNG 
+Santos 30.0% (operator)  
+PETRONAS 27.5%  
+Total 27.5%  
+KOGAS 15.0% 
+Yes 
+36 
+4 
+5,603 
+12 
+QCLNG 
+BG 74% upstream resources and infrastructure 
+(operator)  
+CNOOC 24.5%  
+Tokyo Gas 1.5% 
+Yes 
+157 
+19 
+9,320 
+19 
+Other Queensland Coal Seam Gas 
+ 
+ 
+12 
+1 
+4,335 
+9 
+AGL Qld  
+AGL (share of Moranbah with Arrow)  
+No 
+6 
+1 
+1,257 
+3 
+Santos other CSG  
+Santos holds permits in own right (not as part of GLNG)  
+Yes 
+0 
+0 
+471 
+1 
+PetroChina  
+PetroChina holds permits in own right (not as part of 
+Arrow JV) 
+No 
+0 
+0 
+435 
+1 
+Origin Ironbark  
+Origin holds permits in own right (not as part of APLNG) 
+Yes 
+0 
+0 
+256 
+1 
+Senex CSG  
+Senex 100%  
+No 
+0 
+0 
+473 
+1 
+Meridian  
+Landbridge and Mitsui  
+No 
+2 
+0 
+680 
+1 
+Other CSG  
+Various companies with small interests  
+ 
+3 
+0 
+763 
+2 
+NSW Coal Seam Gas 
+ 
+ 
+5 
+1 
+1,280 
+3 
+Santos Narrabri  
+Santos 80% (operator)  
+Energy Australia 20% (in development) b 
+Yes 
+1 
+0 
+777 
+2 
+AGL NSW 
+AGL 100% Camden Project (operating) and Gloucester 
+Project (in development) c  
+No 
+4 
+1 
+503 
+1 
+
+
+ 
+Page 13 of 18 
+Project 
+Ownership / JV Interests 
+LNG 
+aligned? 
+Production 
+Share of 
+production 
+2P reserves 
+Share of  
+reserves 
+ 
+PJ 
+% 
+PJ 
+% 
+Conventional Gas Onshore  
+ 
+ 
+94 
+11 
+1,662 
+3 
+Cooper Basin JVs 
+Two separate JVs (SA and Western Qld) with Santos, 
+Beachd and Origin  
+Yes 
+88 
+11 
+1,425 
+3 
+Other Cooper Basin  
+Drillsearchd, Senex, Strike Energy  
+No 
+3 
+0 
+119 
+0 
+Other Qld Conventional Gas  
+Various small interests  
+ 
+3 
+0 
+118 
+0 
+Conventional Gas Offshore  
+ 
+ 
+328 
+40 
+3,913 
+8 
+Gippsland Basin JV 
+ExxonMobil 50% (operator)  
+BHPB 50%  
+No 
+217 
+26 
+2,484 
+5 
+Kipper Gas  
+ExxonMobil 32.5% (operator)  
+BHPB 32.5%  
+Santos 35% (in development first gas 2016) e 
+Yes 
+0 
+0 
+622 
+1 
+Longtom  
+Seven Holdings 100%  
+No 
+7 
+1 
+0 
+0 
+BassGas  
+Origin 42.5%, AWE 35%, Toyota Tsusho 11.25%, Prize 
+Petroleum International 11.25%. 
+Yes 
+12 
+1 
+158 
+0 
+Otway  
+Origin 67.23%, Benaris 27.77% and Toyota Tsusho 5% 
+Yes 
+43 
+5 
+280 
+1 
+Casino/Henty 
+Santos 50% (operator), AWE 25%, Mitsui 25%. 
+Yes 
+26 
+3 
+216 
+0 
+Minerva 
+BHP Billiton 90% (operator), Santos 10%  
+No 
+24 
+3 
+82 
+0 
+Origin (Halladale) 
+Origin 100% (no production developed)  
+Yes 
+0 
+0 
+71 
+0 
+Total 
+ 
+835 
+- 
+48,735 
+- 
+Source: Energy Quest data, August 2015 (numbers may not add up due to rounding). 
+Notes:  
+a  Reserve figures in this section are reserves held by the LNG joint ventures themselves; reserves held by members of those joint ventures in their own right are listed 
+separately. 
+b  On 6 February 2016, Santos announced that it had written down the remaining book value of its Narrabri assets and had moved its 2P reserves into the contingent 
+resources category.  
+c  On 4 February 2016, AGL announced that it would not proceed with the Gloucester Project, and that it would progressively decommission wells at the Camden Gas Project 
+prior to ceasing production in 2023. 
+d  Drillsearch Energy and Beach Energy announced a proposed merger on 23 October 2015. 
+e  On 9 November 2015 Santos announced a sale of its 35% interest in the Kipper project in the Gippsland Basin to Mitsui
+
+
+ 
+Page 14 of 18 
+Market definition 
+41. The focus of the ACCC's review was on Shell's and BG's gas operations in 
+Queensland and in eastern Australia more broadly. While Shell also has oil and 
+gas interests offshore in Western Australia and the Northern Territory, all of BG's 
+Australian interests are in eastern Australia. 
+42. The relevant markets were considered to be: 
+ the wholesale supply of natural gas in eastern Australia, or 
+ the wholesale supply of natural gas in Queensland. 
+43. In the context of this review, ‘wholesale supply’ includes the activities of 
+exploration, production and supply. 
+44. The ACCC formed the view that substitution options for purchasers of wholesale 
+gas are limited. Where gas is used as a feedstock in a production process 
+switching from gas to other fuels is not possible. For other customers that use gas 
+as an energy input, the ACCC’s market inquiries suggested that the costs involved 
+in changing fuels are such as to make substitution to an alternate energy source 
+uneconomic as a response to a small but significant increase in the price of gas. 
+45. The ACCC did not consider it necessary to reach a concluded view in relation to 
+the geographic dimension of the relevant market because this would not have led 
+to a different view about the likely competition effects of the merger. The ACCC 
+considered the broader competitive dynamics in each of the possible markets, 
+taking into account on-going and likely changes in these dynamics and the current 
+uncertainty about how the industry will develop. In considering the broader 
+competitive dynamics, the ACCC took into account the Northern Territory 
+Government’s November 2015 announcement of the successful applicant to 
+construct the North East Gas Interconnector (NEGI), the planned route of the 
+pipeline and its expected capacity. At the time of the ACCC’s decision, the 
+expected date for the first shipment of gas over the NEGI was 2018. 
+Competition analysis 
+With/without test 
+46. Section 50 of the Act prohibits mergers or acquisitions that would have the effect or 
+be likely to have the effect of substantially lessening competition in a market. In 
+assessing a proposed acquisition pursuant to section 50 of the Act, the ACCC 
+considers the effects of the acquisition by comparing the likely future competitive 
+environment if the acquisition proceeds (the “with” position) to the likely future 
+competitive environment if the acquisition does not proceed (the “without” position) 
+to determine whether the proposed acquisition is likely to substantially lessen 
+competition in any relevant market. 
+47. In this instance, the future environment if the acquisition does not proceed is likely 
+to be a continuation of the status quo, in that BG and Shell (and Arrow) are likely to 
+continue to operate under current ownership. 
+
+
+ 
+Page 15 of 18 
+Overview 
+48. The ACCC considered three different ways in which the proposed acquisition could 
+potentially substantially lessen competition. The ACCC considered the effect of the 
+proposed acquisition on: 
+ Arrow’s incentives to compete to supply gas to domestic users 
+ future competition between Arrow and BG to supply gas to domestic users 
+ Arrow’s and BG’s incentives to develop their gas resources and explore for 
+additional gas. 
+49. The ACCC formed the view, however, that Shell’s proposed acquisition of BG 
+would be unlikely to have the effect of substantially lessening competition in the 
+relevant market(s). The ACCC’s competition analysis is set out below. 
+Effect of the proposed acquisition on Arrow’s incentives to compete to 
+supply gas to domestic users 
+50. A key issue for the ACCC was whether the proposed acquisition would reduce the 
+supply of gas, and reduce competition to supply gas, to domestic customers in 
+Queensland and eastern Australia by changing Arrow’s incentives. 
+51. The proposed acquisition would align Shell’s interest in Arrow with BG’s interest in 
+QCLNG. The ACCC considered whether: 
+ as a 50% owner of Arrow, Shell would be able to control or influence the 
+choice of customers with which Arrow signs gas supply agreements 
+(including by exercising negative control) 
+ as a result of the alignment between Shell’s interest in Arrow and BG’s 
+interest in QCLNG, Shell would have an incentive to direct the supply of 
+Arrow’s gas to the QCLNG project ahead of other (domestic) gas users. 
+52. The ACCC was concerned that if, as a result of the proposed acquisition, Shell had 
+a greater incentive to act in this manner, the impact on the Queensland or eastern 
+Australian gas market(s) could have been substantial, given Arrow’s potential to 
+act as a significant new source of supply to domestic customers. As illustrated in 
+Table 2 (on page 12):  
+ 
+The vast majority (about 68%) of eastern Australian 2P gas reserves are held 
+by market participants that are aligned with the LNG plants. The ACCC 
+understands that the primary purpose of LNG plant owners holding gas 
+resources is to secure supply for their own LNG projects, rather than for supply 
+to domestic users. The percentage of eastern Australian 2P gas reserves that 
+would be held by market participants that are aligned with the LNG plants 
+would increase to about 86% if Arrow’s reserves became aligned to QCLNG. 
+ 
+A significant proportion of production by non-LNG aligned producers is 
+currently accounted for by one producer - the Gippsland Basin JV between 
+ExxonMobil and BHPB. 
+ 
+While there are a number of smaller gas suppliers in the market, their collective 
+market share is small both as a proportion of production and as a proportion of 
+reserves. 
+
+
+ 
+Page 16 of 18 
+ 
+Arrow’s reserves represent a substantial proportion of gas reserves that are 
+currently not aligned with an LNG plant.15 
+53. The ACCC considered whether, as a result of the above, a likely consequence of 
+the proposed acquisition would be higher domestic gas prices and more restrictive 
+non-price contractual terms relative to the situation without the proposed 
+acquisition. 
+54. The ACCC concluded that the proposed acquisition would not change Arrow’s 
+incentive to supply LNG customers. Arrow would have a strong incentive to supply 
+a significant proportion of its gas to a foundation LNG customer, both with and 
+without the proposed acquisition because: 
+ Arrow will have to incur significant capital expenditures to develop its 
+extensive reserves and transport the gas to customers. 
+ Arrow will have a commercial incentive to reduce its risks in undertaking 
+large, long-term capital expenditures by securing high volume, long-term 
+contracts to underpin those expenditures. 
+ Domestic supply agreements are unlikely to be of sufficient scale to provide 
+the foundational contract(s) that are needed to underpin development of 
+Arrow’s resources. 
+55. Evidence was presented to the ACCC that Arrow has not been active in new sales 
+to domestic customers since it was purchased by the Shell/PetroChina joint 
+venture in 2010. As mentioned above at paragraph 17, prior to the announcement 
+of the proposed acquisition, Arrow had been actively exploring options for 
+commercialising its reserves through a large scale development involving 
+commercial arrangements with an LNG project. Therefore, the ACCC concluded 
+that in the scenario without the proposed acquisition, Arrow would still seek a 
+foundation LNG customer and be focussed on LNG supply. 
+56. As neither Arrow nor Shell are currently focussed on supplying domestic 
+customers, and appeared unlikely to be so in the future, the ACCC concluded that 
+aligning Shell’s interest in Arrow with an interest in an LNG operator would not 
+change competition for the supply of gas to domestic customers. 
+Effect of the proposed acquisition on future competition between Arrow 
+and BG to supply gas to domestic users 
+57. Another important issue for the ACCC’s review was whether the proposed 
+acquisition would be likely to substantially lessen competition for the supply of gas 
+to customers in the relevant market(s) by removing the potential for competition 
+between Arrow and BG to supply domestic customers. A key aspect of this issue 
+was the likelihood and extent to which Arrow and BG would be competitors in the 
+absence of the proposed acquisition. 
+58. An important consideration was whether, in the absence of the proposed 
+acquisition, Arrow and BG would both have ‘excess’ gas above the amount 
+required to satisfy their likely contractual commitments to LNG customers and 
+whether they would offer that excess gas to domestic customers. 
+                                                 
+15 While the points made in paragraph 52 have been described in terms of 2P reserves, the ACCC 
+considers that the position is likely to be similar in respect of gas resources more broadly. 
+
+
+ 
+Page 17 of 18 
+59. At the time of publishing the Statement of Issues, the ACCC held the preliminary 
+view that BG is unlikely to be a potential supplier of new long-term gas supply 
+agreements to domestic gas users irrespective of the proposed acquisition. That 
+view was based on information provided by market participants suggesting that at 
+present QCLNG does not have access to sufficient gas to satisfy its existing LNG 
+supply agreements. 
+60. At the time of making its final decision, based on further information received 
+during the review, the ACCC considered that BG would be likely to have ‘excess’ 
+gas (above the amounts required to meet its existing contractual commitments) for 
+a period and, during that period, it may compete to supply domestic gas users in 
+the absence of the proposed acquisition. The ACCC still considered that in the 
+absence of the proposed acquisition, BG’s prime focus would be on supplying gas 
+to the QCLNG project. However, its updated view was that one potential supply 
+option for any ‘excess’ gas held by BG was to supply that gas to domestic gas 
+users. Other options available to BG in the absence of the proposed acquisition 
+would include liquefying any excess gas to supply the LNG spot market, or 
+supplying the gas to other LNG operators in Gladstone (APLNG or GLNG).  
+61. However, the ACCC considered that there was also considerable uncertainty about 
+the amount and timing of Arrow’s and BG’s future gas supplies as well as those of 
+its potential future competitors.  
+62. Given this level of uncertainty about the future circumstances of the domestic gas 
+industry, the ACCC could not be satisfied that any loss of potential competition 
+between Arrow and BG would be likely to substantially lessen competition in either 
+of the relevant markets. 
+Effect of the proposed acquisition on Arrow’s and BG’s incentives to 
+develop their gas resources and explore for gas 
+63. The ACCC also considered whether the proposed acquisition would reduce Shell’s 
+incentives to explore for gas and develop Arrow’s and BG’s resources in a timely 
+manner. If the relative cost of producing gas from Arrow’s resources was lower 
+than producing gas from BG’s resources (or other alternative sources of gas for the 
+QCLNG plant), Shell may have an incentive post-acquisition to substitute cheaper 
+Arrow gas for gas that would otherwise have been produced from BG’s existing 
+resources. It may therefore defer development of BG’s higher-cost resources. The 
+ACCC was concerned that if this were to occur, it could have a substantial impact 
+on the level of competition in relevant gas market(s). 
+64. However, the ACCC considered there was too much uncertainty about the relative 
+costs, quantity and timing of future gas supplies to conclude that the proposed 
+acquisition would be likely to result in the substitution of Arrow gas for gas that 
+would otherwise have been produced from BG’s resources, or in a reduction or 
+deferral of gas exploration by the merged entity relative to total exploration by 
+Arrow and BG separately.  
+65. As stated above at paragraph 54, Arrow would have a strong incentive to supply a 
+significant proportion of its gas to a foundation LNG customer, both with and 
+without the proposed acquisition. The ACCC recognised that all of the LNG 
+operators will have commercial incentives to meet their LNG export commitments 
+from the cheapest available source of gas. In the scenario without the acquisition, 
+Arrow’s foundation LNG customer (whoever it is) may itself have incentives to 
+substitute Arrow gas for gas that would otherwise be produced from its own 
+
+
+ 
+Page 18 of 18 
+resources (or other alternative sources of gas) if it were profitable to do so. Given 
+this, even if the proposed acquisition resulted in a net decrease in the volume of 
+gas produced from existing QCLNG sources, it was not clear to the ACCC that this 
+would be a net reduction in total market supply relative to the likely situation 
+without the proposed acquisition. 
+66. Another relevant consideration was that post-acquisition, Shell would not generally 
+have the ability to make decisions on the timing and scale of exploration and 
+development decisions on its own. Major decisions on Arrow’s and BG’s gas 
+development, production and exploration activities are likely to require the 
+agreement of Shell’s joint venture partner in Arrow and BG’s joint venture partners 
+in the QCLNG project, respectively. 
+67. Further, the ACCC considered that any decision by the merged entity to reduce 
+these exploration and development activities would risk consequences under the 
+Queensland Government's regulatory regime for tenure management, such as loss 
+of some tenure.  
+Possible undertakings 
+68. During its review, the ACCC received a large number of submissions from market 
+participants concerned about the competition effects of the proposed acquisition 
+and the current state of the east Australian gas market.  
+69. Some market participants urged the ACCC to approve the acquisition, but only if 
+the merger parties provided undertakings to offer greater quantities of gas to 
+domestic customers. These market participants considered that the proposed 
+acquisition may provide a ‘route to market’ that allows Arrow’s gas to be developed 
+more quickly, and that undertakings of this kind would serve to protect the 
+requirements of domestic gas users. 
+70. The ACCC considered the potential undertakings suggested by market 
+participants. However, the ACCC can only accept undertakings where competition 
+concerns arise from the acquisition and it finds that certain undertakings can 
+effectively address those concerns. For the reasons discussed above, the ACCC 
+did not find merger-specific competition concerns that required a remedy.  
+Conclusion 
+71. Based on the above analysis, the ACCC concluded that the proposed acquisition 
+of BG Group by Royal Dutch Shell would not be likely to have the effect of 
+substantially lessening competition in any market. 

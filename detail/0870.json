@@ -1,0 +1,53 @@
+{
+  "id": "0870",
+  "title": "Transpacific Industries Limited - acquisition of SA Cardboard & Paper Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-limited-acquisition-of-sa-cardboard-paper-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30563",
+  "industries": [
+    "Waste Management"
+  ],
+  "date_completed": "5 September 2008",
+  "date_completed_iso": "2008-09-05T12:00:00Z",
+  "date_commenced": "26 August 2008",
+  "date_commenced_iso": "2008-08-26T12:00:00Z",
+  "total_review_days": 9,
+  "acquirers": [
+    "Transpacific Industries Limited"
+  ],
+  "targets": [
+    "SA Cardboard & Paper Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Dec 2007",
+      "date_iso": "2007-12-03T12:00:00Z",
+      "event": "The acquisition was completed."
+    },
+    {
+      "date": "26 Aug 2008",
+      "date_iso": "2008-08-26T12:00:00Z",
+      "event": "ACCC became aware that the acquisition had been completed."
+    },
+    {
+      "date": "26 Aug 2008",
+      "date_iso": "2008-08-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "3 Sep 2008",
+      "date_iso": "2008-09-03T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "5 Sep 2008",
+      "date_iso": "2008-09-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the acquisition in the context of the Adelaide metropolitan market for the collection of cardboard and paper waste.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant market. In particular, the ACCC considered that the merged entity would be constrained by a number of existing competitors."
+  }
+}

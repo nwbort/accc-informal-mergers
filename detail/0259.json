@@ -1,0 +1,54 @@
+{
+  "id": "0259",
+  "title": "Consortium comprising Brookfield, Qube & Others - proposed acquisition of Asciano Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/consortium-comprising-brookfield-qube-others-proposed-acquisition-of-asciano-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "59481",
+  "industries": [
+    "Infrastructure"
+  ],
+  "date_completed": "21 July 2016",
+  "date_completed_iso": "2016-07-21T12:00:00Z",
+  "date_commenced": "30 March 2016",
+  "date_commenced_iso": "2016-03-30T12:00:00Z",
+  "total_review_days": 79,
+  "acquirers": [
+    "consortium comprising Brookfield and Qube and others"
+  ],
+  "targets": [
+    "Asciano Limited"
+  ],
+  "timeline": [
+    {
+      "date": "30 Mar 2016",
+      "date_iso": "2016-03-30T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "18 Apr 2016",
+      "date_iso": "2016-04-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties. ACCC assessing information provided during market inquiries and consulting with merger parties on relevant issues or concerns arising."
+    },
+    {
+      "date": "26 May 2016",
+      "date_iso": "2016-05-26T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "10 Jun 2016",
+      "date_iso": "2016-06-10T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "21 Jul 2016",
+      "date_iso": "2016-07-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "A consortium comprising Qube Holdings Limited, Brookfield Infrastructure Partners Limited, Global Infrastructure Management Australia Pty Ltd, Canada Pension Plan Investment Board, CIC Capital Corporation, bcIMC Nitro Trustee Inc., GIC Private Limited, and Qatar Investment Authority (collectively, the Consortium) proposes to acquire Asciano Limited (Asciano).",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

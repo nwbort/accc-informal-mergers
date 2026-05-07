@@ -1,0 +1,31 @@
+{
+  "id": "1630",
+  "title": "Acquirer: Arnotts Biscuits Ltd; Target: Snack Foods Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-arnotts-biscuits-ltd-target-snack-foods-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15817",
+  "industries": [],
+  "date_completed": "9 July 2002",
+  "date_completed_iso": "2002-07-09T12:00:00Z",
+  "date_commenced": "12 April 2002",
+  "date_commenced_iso": "2002-04-12T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Arnotts Biscuits Ltd"
+  ],
+  "targets": [
+    "Snack Foods Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Arnott's Biscuits Limited proposes to acquire Snack Foods Limited",
+    "Market definition": "The National Markets for the manufacture and distribution of: salty snacks; biscuits; and chocolate confectionery.",
+    "Competition analysis": "Salty snacks The Commission considered that the proposed acquisition was unlikely to lead to a substantial lessening of competition in the market for salty snacks due to: - continued competition from large competitors; and - the countervailing power exercised by the parties' large customers. Biscuits The Commission considered that it appeared that the proposed acquisition would not substantially lessen competiton due to: - the target's market share appeared to be of a size that may not be considered to be substantial - the Commission considered that there is a real potential of entry by international biscuit suppliers that is likely to restrain the post-acquisition entity; and - the countervailing power exercised by the parties' large customers. Chocolate confectionary The Commission considered that it appeared that the parties had small market shares and accordingly, the Commission considered that a substantial lessening of competition was unlikely.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2179"
+  }
+}

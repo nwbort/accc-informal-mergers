@@ -1,0 +1,44 @@
+{
+  "id": "0375",
+  "title": "APA Group - proposed acquisition of Envestra Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/apa-group-proposed-acquisition-of-envestra-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "51820",
+  "industries": [
+    "Energy"
+  ],
+  "date_completed": "27 August 2013",
+  "date_completed_iso": "2013-08-27T12:00:00Z",
+  "date_commenced": "26 July 2013",
+  "date_commenced_iso": "2013-07-26T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "APA Group"
+  ],
+  "targets": [
+    "Envestra Limited"
+  ],
+  "timeline": [
+    {
+      "date": "26 Jul 2013",
+      "date_iso": "2013-07-26T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Aug 2013",
+      "date_iso": "2013-08-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Aug 2013",
+      "date_iso": "2013-08-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "APA Group (APA) proposed to acquire 67% of the shares in Envestra Limited (Envestra). APA already owns 33% of the shares in Envestra.",
+    "Market definition": "The ACCC assessed the effects of the proposed acquisition in the context of the following markets: I. the integrated market for the transmission of gas via one or more pipelines from eastern Australian points of production to eastern Australian points of demand (within this market there are distinct narrower markets for particular routes either servicing the same demand centre or providing transport services from the same point of supply); and II. the market for the supply of services on gas distribution networks, where the geographic scope of each market is confined to the area that the network can service.",
+    "Competition analysis": "The ACCC's review focused on the competitive impact of: - the aggregation of Allgas (APA has a 20% interest) and Envestra's adjacent distribution networks in Brisbane; and - the vertical integration of APA's interest in one of the two transmission pipelines into Adelaide (SEAgas) and Envestra's ownership of the Adelaide distribution network. The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. In relation to the aggregation of the parties' distribution networks in Brisbane, the individual networks are each regulated monopolies that do not directly overlap. The ACCC considered that potential for competitive supply to the small segment of customers at the border between the networks (which are largely separated by the Brisbane River) was unlikely to be significant. In relation to concerns relating to the vertical integration of APA's interest in SEAgas and Envestra's ownership of the Adelaide distribution network, the ACCC noted that APA's ability to engage in foreclosure strategies was limited by pricing regulation that applied to the Adelaide distribution network. The ACCC also considered that the proposed acquisition was unlikely to provide APA with the incentive to foreclose rivals by providing discounts to (or otherwise favour) customers using the SEAgas instead of the competing Moomba to Adelaide pipeline in order to stimulate additional volumes over SEAgas. The ACCC considered that APA's incentives to do so were significantly limited by the partial nature of APA's interest in SEAgas (50% interest) and contractual arrangements that further limit APA's ability to profit from additional volumes being transmitted by SEAgas."
+  }
+}

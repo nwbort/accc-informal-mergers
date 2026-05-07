@@ -1,0 +1,49 @@
+{
+  "id": "0050",
+  "title": "Optus Mobile Pty Ltd and TPG Telecom Limited proposed network and spectrum sharing",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/optus-mobile-pty-ltd-and-tpg-telecom-limited-proposed-network-and-spectrum-sharing",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Telecommunciations"
+  ],
+  "date_completed": "5 September 2024",
+  "date_completed_iso": "2024-09-05T12:00:00Z",
+  "date_commenced": "12 July 2024",
+  "date_commenced_iso": "2024-07-12T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Optus Mobile Pty Ltd"
+  ],
+  "targets": [
+    "TPG Telecom Limited"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jul 2024",
+      "date_iso": "2024-07-12T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "26 Jul 2024",
+      "date_iso": "2024-07-26T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "4 Sep 2024",
+      "date_iso": "2024-09-04T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (13 September 2024) brought forward."
+    },
+    {
+      "date": "5 Sep 2024",
+      "date_iso": "2024-09-05T12:00:00Z",
+      "event": "ACCC announced it would not oppose the Proposed Arrangements."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Optus Mobile Pty Ltd ( Optus ) and TPG Telecom Limited ( TPG ) have entered into three interrelated agreements in respect of a Multi-Operator Core Network ( MOCN ) commercial arrangement: a MOCN Services Agreement, a Spectrum Authorisation Agreement and a Site Transfer Agreement (the Proposed Arrangement ). The MOCN Services Agreement is for a period of 11 years, with a five-year option for TPG to extend the term. Broadly, the Proposed Arrangement involves TPG authorising Optus to use spectrum which it currently owns, and Optus providing TPG with network services by way of active mobile network infrastructure sharing in certain regional areas, which comprise of the Australian population coverage between 81.6% and 98.4% (the Coverage Area ). TPG will use the MOCN services supplied by Optus to offer 4G and 5G retail and wholesale services in the Coverage Area. TPG will also transfer a number of its existing mobile sites in the Coverage Area to Optus, with an initial list of 129 TPG sites having been identified for transfer. TPG intends to decommission the remainder. TPG and Optus will continue to operate their own mobile networks in metropolitan areas where around 81.6% of Australia’s population resides. TPG and Optus will also continue to operate their own mobile core networks (both in and outside the Coverage Area). The Parties have sought clearance by the ACCC of two acquisitions that are integral to the Proposed Arrangement: an authorisation by TPG for Optus to use certain TPG spectrum in defined regional areas in the 700 MHz, 1800 MHz, 3600 MHz and 3700 MHz bands, which is deemed by s 68A of the Radiocommunications Act 1992 (Cth) to be an acquisition for the purposes of s 50 of the CCA, and the transfer to Optus by TPG of certain leases and / or licences over, and equipment attached to, a number of regional mobile network sites, in the defined regional areas to be used for the MOCN (together, the Proposed Acquisitions ). In considering the Proposed Arrangement, the ACCC focused on the likely effects on competition of the Proposed Acquisitions but had regard to all aspects of the Proposed Arrangement that affect that analysis.",
+    "Market definition": "The ACCC has considered the likely impacts of the Proposed Arrangements on competition in national markets for wholesale and retail supply of mobile services, having regard to geographic variations in the nature and extent of competition within these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market. The ACCC found that the Proposed Arrangements are likely to enhance TPG’s competitive position in retail and wholesale mobile markets relative to Telstra and Optus during the term of the Proposed Arrangements. In regional areas, TPG is behind Telstra and Optus in most of the key competitive indicators in mobile services markets – mobile sites, coverage, 5G sites, and market shares in regional areas. TPG’s access to the MOCN network will enable it to enhance its retail and wholesale offering. The ACCC considered whether the Proposed Arrangements will reduce infrastructure competition from TPG beyond the scope of the Proposed Arrangements. The ACCC found that the reduction is generally limited to regional areas where TPG is not a vigorous and effective or potential competitor and faces barriers to investment at scale to become such a competitor in the future. In metropolitan areas, Optus and TPG will also continue to operate their own networks, and will also continue to operate their own mobile core networks (both in and outside the Coverage Area). The ACCC found that Optus’ rivalry with Telstra, not TPG, is the primary driver of its mobile network strategy in regional areas. The Proposed Arrangements are likely to enhance Optus’ ability to compete with Telstra in regional areas by supporting its 5G roll out through access to TPG’s spectrum and incremental revenue. The ACCC considered impacts of spectrum consolidation on downstream markets. The ACCC found that, while the Proposed Arrangements result in Optus and TPG sharing parts of their spectrum holdings in regional areas, Telstra still holds significant amount of spectrum in these areas to enable it to compete with Optus and TPG."
+  }
+}

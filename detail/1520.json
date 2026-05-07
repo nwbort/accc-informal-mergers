@@ -1,0 +1,28 @@
+{
+  "id": "1520",
+  "title": "Acquirer: CSR Ltd; Target: Beerwah Enterprises",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-csr-ltd-target-beerwah-enterprises",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18436",
+  "industries": [],
+  "date_completed": "28 October 2003",
+  "date_completed_iso": "2003-10-28T12:00:00Z",
+  "date_commenced": "9 October 2003",
+  "date_commenced_iso": "2003-10-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "CSR Ltd"
+  ],
+  "targets": [
+    "Beerwah Enterprises"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "CSR Limited/Readymix Holdings Pty Ltd seeks to acquire Beerwah Enterprises.",
+    "Market definition": "Supply of pre-mixed concrete in the Beerwah/Maleny region.",
+    "Competition analysis": "It appears unlikely that the acquisition will result in a substantial lessening of competition considering the small size of the market as well as the competition provided by suppliers in nearby towns such as Caloundra.",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown"
+  }
+}

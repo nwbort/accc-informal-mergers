@@ -1,0 +1,39 @@
+{
+  "id": "0722",
+  "title": "JSC Atomredmetzoloto - proposed acquisition of shares in Uranium One Inc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/jsc-atomredmetzoloto-proposed-acquisition-of-shares-in-uranium-one-inc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38173",
+  "industries": [
+    "Uranium exploration, mining and processing"
+  ],
+  "date_completed": "12 August 2009",
+  "date_completed_iso": "2009-08-12T12:00:00Z",
+  "date_commenced": "21 July 2009",
+  "date_commenced_iso": "2009-07-21T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "JSC Atomredmetzoloto"
+  ],
+  "targets": [
+    "Uranium One Inc"
+  ],
+  "timeline": [
+    {
+      "date": "21 Jul 2009",
+      "date_iso": "2009-07-21T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Aug 2009",
+      "date_iso": "2009-08-12T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "JSC Atomredmetzoloto (JSCA) proposed to acquire an interest of up to 19.95% in Uranium One Inc (U1).",
+    "Market definition": "The ACCC considered it unnecessary to define a relevant market.",
+    "Competition analysis": "As the activities of JSCA and U1 did not overlap in Australia, the ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant Australian markets."
+  }
+}

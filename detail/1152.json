@@ -1,0 +1,44 @@
+{
+  "id": "1152",
+  "title": "Legrand Australia Pty Ltd - proposed acquisition of HPM Industries Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/legrand-australia-pty-ltd-proposed-acquisition-of-hpm-industries-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26843",
+  "industries": [
+    "Electrical devices"
+  ],
+  "date_completed": "13 February 2007",
+  "date_completed_iso": "2007-02-13T12:00:00Z",
+  "date_commenced": "10 January 2007",
+  "date_commenced_iso": "2007-01-10T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "Legrand Australia Pty Ltd"
+  ],
+  "targets": [
+    "HPM Industries Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jan 2007",
+      "date_iso": "2007-01-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "25 Jan 2007",
+      "date_iso": "2007-01-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "13 Feb 2007",
+      "date_iso": "2007-02-13T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Legrand Australia Pty Ltd - proposed acquisition of HPM Industries Pty Ltd",
+    "Market definition": "The Australian markets for the manufacture and supply of emergency lighting products and electrical distribution products and accessories were involved in this proposed acquisition.",
+    "Competition analysis": "On 13 February 2007 the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: - future alignment between Australian and International Standards would facilitate greater import competition for emergency lighting products; - the presence of alternative suppliers of emergency lighting such as Thomas & Betts and Clevertronics; - the constraint that electrical wholesalers, which are an important distribution channel, would provide on the merged firm's pricing of emergency lighting and general electrical products; - the proposed acquisition would not remove a vigorous and effective competitor in the emergency lighting market; - electrical contractors and specifiers can readily switch brands and suppliers in response to any attempted price rice; and - any attempt to offer a bundle of emergency lighting and general electrical products would be in competition to the product range of the market leader in electrical products, Schneider Group."
+  }
+}

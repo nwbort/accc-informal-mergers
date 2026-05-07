@@ -1,0 +1,587 @@
+ 
+Public Competition Assessment 
+28 April 2010 
+Agilent Technologies Inc - proposed acquisition of Varian Inc 
+ 
+Introduction 
+1. 
+On 31 March 2010, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of Varian 
+Inc (Varian) by Agilent Technologies Inc (Agilent) (the proposed acquisition), 
+subject to a court enforceable undertaking pursuant to section 87B of the Trade 
+Practices Act 1974 (Cth) (the Act), accepted by the ACCC on 31 March 2010 
+(the undertaking). The ACCC formed the view that the proposed acquisition, in 
+conjunction with the undertaking, would be unlikely to have the effect of 
+substantially lessening competition in the national markets for the supply of: 
+ laboratory gas chromatographs (lab GCs), 
+ micro/portable gas chromatographs (micro/portable GCs), 
+ triple quadrupole gas chromatography mass spectrometers (triple quad GC-
+MS), and 
+ inductively coupled plasma mass spectrometers (ICP-MSs), 
+in Australia in contravention of section 50 of the Act. 
+2. 
+The ACCC made its decision on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ a merger is opposed; 
+ a merger is subject to enforceable undertakings; 
+
+
+ 
+ the merger parties seek such disclosure; or 
+ a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because Agilent’s proposed 
+acquisition of Varian is subject to a court enforceable undertaking. 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the 
+public with a better understanding of the ACCC’s analysis of various markets and 
+the associated merger and competition issues. It also alerts the public to the 
+circumstances where the ACCC’s assessment of the competition conditions in 
+particular markets is changing, or likely to change.  
+6. 
+Each Public Competition Assessment is specific to the particular transaction 
+under review by the ACCC. While some transaction proposals may involve the 
+same or related markets, it should not be assumed that the analysis and decision 
+outlined in one Public Competition Assessment will be conclusive of the ACCC’s 
+view in respect of other transaction proposals, as each matter will be considered 
+on its own merits.  
+7. 
+Many of the ACCC’s decisions will involve consideration of both non-
+confidential and confidential information provided by the merger parties and 
+market participants. In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources. While the ACCC aims to provide an appropriately 
+detailed explanation of the basis for the ACCC decision, where this is not 
+possible, maintaining confidentiality will be the ACCC’s paramount concern, and 
+accordingly a Public Competition Assessment may not definitively explain all 
+issues and the ACCC’s analysis of such issues. 
+The merger parties 
+The acquirer – Agilent Technologies Inc 
+8. 
+Agilent is a global firm headquartered in the United States and is listed on the 
+New York Stock Exchange (NYSE). Agilent employs around 17,000 employees 
+worldwide and operates in 110 countries, including in Australia.  
+9. 
+Agilent does not operate any research and development (R&D) or manufacturing 
+facilities in Australia. All products supplied to Australian customers are imported 
+from its manufacturing facilities located primarily in China, Germany, Japan and 
+the United States. 
+10. 
+In Australia, Agilent operates two main business divisions, electronic 
+measurement and bio-analytical measurement (including analytical and life 
+science instruments). The merger parties overlap in relation to the bio-analytical 
+divisions of their respective businesses. 
+-2- 
+
+
+ 
+11. 
+Agilent’s bio-analytical measurement business manufactures and supplies 
+scientific instrumentation, associated consumables, accessories (including 
+software) and services that enable customers to identify, quantify and analyse the 
+physical and biological properties of substances – typically in laboratory settings. 
+Products supplied by this business include lab GCs, micro/portable GCs, triple 
+quadrupole GC-MSs and ICP-MSs, which are typically used in detection and 
+measurement research, testing and quality control applications.  
+The target – Varian Inc 
+12. 
+Varian is a global firm headquarters in the United States and is listed on the 
+NASDAQ. Varian employs around 3,600 employees worldwide and operates 
+manufacturing facilities in Australia, France, Italy, the Netherlands, Poland, the 
+United Kingdom and the United States. 
+13. 
+Varian operates a facility in Melbourne, which conducts R&D in relation to, and 
+manufactures, ICP-MS instruments. All other instruments supplied by Varian 
+(including lab GCs, triple quadrupole GC-MSs and ICP-MSs) are imported from 
+its manufacturing facilities overseas. 
+14. 
+In Australia, Varian operates two main business divisions, bio-analytical 
+measurement (including analytical and life science instruments) and vacuum 
+products (including a broad range of products used to create, control, measure 
+and test vacuum environments).  
+Other industry participants 
+15. 
+A number of other significant manufacturers and suppliers of scientific 
+instruments used for bio-analytical measurement applications and already 
+represented in Australia are briefly outlined below. 
+Perkin Elmer Inc 
+16. 
+Perkin Elmer Inc (Perkin Elmer) is a public company listed on the NYSE and 
+headquartered in the United States. It is a major supplier of scientific instruments 
+globally with sales in over 125 countries, including Australia. Globally, Perkin 
+Elmer manufactures and supplies a portfolio of products, including lab GCs and 
+triple quadrupole GC-MSs, both of which it supplies in Australia.  
+Shimadzu Corporation 
+17. 
+Shimadzu Corporation (Shimadzu) is a public company listed on the Tokyo 
+Stock Exchange and headquartered in Japan. It is a major supplier of scientific 
+instruments globally, (including Australia). Globally, Shimadzu manufactures 
+and supplies a portfolio of products, including lab GCs, which it supplies in 
+Australia, and ICP-MSs, which it currently does not supply in Australia. 
+-3- 
+
+
+ 
+Thermo Fisher Scientific 
+18. 
+Thermo Fisher Scientific (Thermo) is a public company listed on the NYSE and 
+headquartered in the United States. It is a major supplier of scientific instruments 
+globally, including in Australia. Globally, Thermo manufactures and supplies a 
+portfolio of products, including lab GCs, triple quadrupole GC-MSs and ICP-
+MSs, all of which it supplies in Australia.  
+19. 
+Thermo recently acquired the Australian operations of the Biolab Group, which 
+supplies a range of scientific equipment and consumables. This acquisition has 
+provided Thermo with an enhanced Australian base for the distribution and after-
+sales service and support of its instrument products. 
+Waters Corporation 
+20. 
+Waters Corporation (Waters) is a public company listed on the NYSE and 
+headquartered in the United States. It is a major supplier of scientific instruments 
+globally and has sales in 27 countries, including Australia. Globally, Waters 
+manufactures and supplies a portfolio of products, with a focus on mass 
+spectrometry products, including triple quadrupole GC-MSs, which it supplies in 
+Australia. 
+The proposed acquisition 
+21. 
+On 27 July 2009, Agilent and Varian signed a definitive sale agreement for the 
+acquisition by Agilent of all the issued shares in Varian for a total consideration 
+of US$1.5 billion. On 16 October 2009, Agilent made a submission to the ACCC 
+seeking clearance of the proposed acquisition in Australia. 
+Timing 
+22. 
+The following table outlines the timeline of key events in this matter. 
+16th October 2009 
+ACCC received submission from the merger parties. 
+26th October 2009 
+ACCC requested information from the merger parties. 
+29th October 2009 
+ACCC commenced review under the Merger Review Process 
+Guidelines. Market inquiries commenced. 
+4th November 2009 
+ACCC received further information from the merger parties. 
+16th November 2009 
+Closing date for submissions from interested parties. 
+25th November 2009 
+ACCC requested further information from the merger parties. 
+ACCC timeline suspended. 
+2nd December 2009 
+ACCC requested further information from the merger parties. 
+4th December 2009 
+ACCC received further information from the merger parties, 
+in response to the ACCC's request of 25 November 2009. 
+ACCC timeline remains suspended, pending receipt of the 
+parties’ response to the ACCC’s request of 2 December 2009. 
+16th December 2009 
+Former proposed date for announcement of ACCC's findings, 
+-4- 
+
+
+ 
+amended to allow for provision of further information by the 
+merger parties. 
+3rd February 2010 
+ACCC received further information from the merger parties, 
+in response to the ACCC’s request of 2 December 2009. 
+ACCC timeline recommenced. 
+4th March 2010 
+ACCC received a further submission from the merger parties. 
+10th March 2010 
+Former proposed date for announcement of ACCC’s findings, 
+amended to allow the ACCC to consider the further 
+submission provided by the merger parties on 4 March 2010. 
+31st March 2010 
+ACCC announced it would not oppose the proposed 
+acquisition, subject to a court enforceable undertaking offered 
+by the merger parties. 
+31st March 2010 
+Section 87B undertaking accepted by ACCC. 
+Market inquiries 
+23. 
+The ACCC conducted market inquiries with a range of industry participants, 
+including actual and potential competitors, purchasers of scientific instruments 
+(including laboratories, mining companies, government agencies, academic 
+institutions and other purchasers), third party distributors and service and support 
+contractors, and other interested parties. 
+24. 
+The ACCC also liaised closely with other competition regulators in overseas 
+jurisdictions during the course of its review, in particular the European 
+Commission (EC) and Federal Trade Commission in the United States.  
+Industry background 
+25. 
+The bio-analytical measurement industry, which includes analytical and life 
+science instruments, involves the development, manufacture and supply of 
+scientific instruments, consumables, accessories (including associated software) 
+and services used for the analysis of elements by a wide range of customer 
+sectors. These customer sectors include (but are not limited to) laboratories, 
+mining companies, universities and research institutions, government agencies 
+and other manufacturers in a range of industries. 
+26. 
+An overview of each of the relevant instrument categories considered by the 
+ACCC in the course of its review is provided below. The ACCC noted that 
+consumables and accessories (including associated software) are necessary 
+components which need to be used in conjunction with each of instruments 
+described. 
+-5- 
+
+
+ 
+Gas chromatography 
+27. 
+Gas chromatography (GC) instruments are used to separate volatile samples 
+(which do not disintegrate when heated) into their individual components to 
+enable the user to detect and quantify those components. These instruments are 
+only able to be used with known compounds and are not suited for use with 
+unknown compounds. 
+28. 
+Both lab GCs and micro/portable GCs fall into this instrument category. 
+Mass spectrometry 
+29. 
+Mass spectrometry (MS) instruments are generally used to identify the chemical 
+composition of samples based on the mass-to-charge ratio of the charged particles 
+contained in those samples. GC-MS instruments are a combination of GC and 
+MS instruments and are used for the separation and identification of volatile 
+compounds at a molecular level. These instruments are able to be used with both 
+known and unknown compounds. 
+30. 
+Triple quad GC-MSs fall into this instrument category. 
+Atomic spectroscopy 
+31. 
+Atomic spectroscopy (AS) instruments are used to determine the composition of 
+samples for analysis at the atomic level. In other words, AS instruments are able 
+to determine which elements from the periodic table are present in a given 
+sample. 
+32. 
+ICP-MSs fall into this instrument category. 
+Areas of overlap and market definition 
+33. 
+In Australia, Agilent and Varian both supply scientific instruments, including 
+consumables, accessories (including associated software) and services to the bio-
+analytical measurement industry. In particular, the ACCC found that the merger 
+parties each supply the following scientific instruments on a national basis:  
+ 
+lab GCs, 
+ 
+micro-portable GCs, 
+ 
+triple quad GC-MSs, and 
+ 
+ICP-MSs 
+(collectively referred to as the overlapping products). 
+-6- 
+
+
+ 
+34. 
+The ACCC noted that the merger parties’ operations also overlap in relation to a 
+small range of other products in Australia, such as liquid chromatography 
+instruments. However, the ACCC formed the view that competition concerns 
+would be unlikely to arise in relation to those other product areas, mainly due to 
+the relatively limited level of overlap in the respective operations of the merger 
+parties for the supply of those products. 
+Product dimension 
+35. 
+On the demand-side, market inquiries indicated that there were no close 
+substitutes for each of the overlapping products. The ACCC formed the view that 
+the functional and technical applications associated with other alternative types of 
+instruments were sufficiently different that customers were unlikely to switch to 
+alternative types of instruments, even in the event of a small but significant non-
+transitory increase in prices or reduction of service levels. 
+36. 
+On the supply-side, market inquiries indicated that the technology associated with 
+supplying other instruments was sufficiently different that manufacturers of those 
+other products were unlikely to be able to switch to the supply of any of the 
+overlapping products without significant investment and time, even in the event 
+of a small but significant non-transitory increase in prices or reduction of service 
+levels. 
+Geographic dimension – all relevant markets 
+37. 
+The ACCC found that the merger parties both supply each of  the overlapping 
+products on a national basis. While the majority of the overlapping products are 
+imported for supply in Australia, the ACCC’s inquiries indicated that, for most of 
+the overlapping products, a local Australian supplier presence was generally 
+required by customers, mainly due to the requirement for an established and 
+trusted brand in Australia and direct after-sales service and support networks for 
+instruments. 
+38. 
+Market inquiries indicated that customers for each of the overlapping products 
+were unlikely to switch to an overseas supplier that did not have an established 
+and trusted brand in Australia, particularly given that the purchase of such 
+instruments were relatively expensive and infrequent (e.g. instruments are 
+designed to last up to 10 years). Additionally, the significant time and cost 
+required to develop an established and trusted brand in Australia was likely to 
+significantly limit the extent to which an overseas supplier without such a brand 
+would be able to competitively constrain a small but significant increase in prices 
+or reduction of service levels. 
+39. 
+Market inquiries further indicated that the provision of direct after-sales service 
+and support by the original manufacturer was a critical factor in the purchasing 
+decisions of most customers. Trusted and timely after-sales service and support 
+within 24-48 hours was considered of very high importance to customers, whose 
+purchasing decisions reflected a strong preference for instruments supplied by 
+firms with their own direct service and support networks in Australia. 
+-7- 
+
+
+ 
+40. 
+Notwithstanding the above, the ACCC’s market inquiries suggested that the 
+supply of the relatively less complex lab GC and micro/portable GC instruments 
+via the established third party distributors of suppliers without a local Australian 
+presence was considered a more viable source of supply. For the relatively 
+complex triple quadrupole GC-MS and ICP-MS instruments, a local Australian 
+presence was generally considered by customers to be necessary. 
+41. 
+Accordingly, the ACCC concluded that the proposed acquisition should be 
+considered in the context of national markets for each of the overlapping 
+products. The ACCC noted that the relevant national markets identified 
+comprised both: 
+ suppliers with a direct Australian presence consisting of established local 
+distribution and after-sales service and support networks for the products 
+supplied to Australian customers; and 
+ overseas suppliers without a direct Australian presence and that employ local 
+Australian third party distributors and after-sales service and support 
+providers for the products supplied to Australian customers. 
+Functional dimension 
+42. 
+The ACCC recognised that, whilst the supply of after-sales service and support, 
+consumables and accessories (including associated software) are critical elements 
+of participation in the relevant instruments markets, these products and services 
+are also supplied in Australia by non-integrated distributors.  However, for the 
+purpose of assessing the proposed acquisition, the ACCC did not consider it 
+necessary to identify a separate market/s for the supply of after-sales service and 
+support, consumables and accessories (including associated software) for use 
+with instruments.  
+Competition analysis 
+43. 
+The ACCC considered that, absent the undertaking, if the proposed acquisition 
+was to proceed the merged firm would be able to unilaterally increase prices for 
+instruments in each of the relevant markets or reduce the quality of its services, 
+by a significant extent, without being effectively constrained in Australia by 
+alternative suppliers represented in Australia or overseas. 
+Market concentration 
+44. 
+In relation to each of the relevant markets, the proposed acquisition would result 
+in the removal of a significant competitor and in the merged firm possessing the 
+largest share of sales, both globally and in Australia. In particular, information 
+obtained by the ACCC indicated that for: 
+ lab GCs – the merged firm would possess the largest share of Australian sales 
+(by volume) and, post-acquisition, only two significant competitors 
+(Shimadzu and Perkin Elmer) would remain, with a much smaller share of 
+Australian sales; 
+-8- 
+
+
+ 
+ micro/portable GCs – the proposed acquisition would result in the merged 
+firm being the only remaining significant supplier of these instruments and 
+possessing the most recognised and trusted product available, both globally 
+and in Australia; 
+ triple quad GC-MSs – the merged firm would possess the largest share of 
+Australian sales (by volume) and, post-acquisition, only two significant 
+competitors (Thermo and Waters) would remain, with a much smaller share 
+of Australian sales; and 
+ ICP-MSs – the merged firm would possess the largest share of Australian 
+sales (by volume) and, post-acquisition, only two remaining significant 
+competitors (Perkin Elmer and Thermo) would remain, with a smaller share 
+of Australian sales. 
+45. 
+Market inquiries indicated that Agilent and Varian frequently compete in tenders 
+and supply negotiations conducted by customers in each of the relevant product 
+markets, with customers identifying the merger parties as two of a very small 
+range of reputable suppliers represented in Australia that they consider when 
+sourcing new instruments. Importantly, a number of major customers considered 
+the merger parties to be each others’ closest competitor for the supply of 
+particular instruments, with a high degree of substitution occurring between the 
+respective products of the two firms. 
+46. 
+Accordingly, the proposed acquisition would result in a significant increase in 
+concentration in all of the relevant markets through the merger of two close 
+competitors in those markets and, post-acquisition, the merged firm would have 
+the largest share of Australian sales in each of the relevant markets. 
+Direct imports 
+47. 
+The ACCC recognised that all of the products supplied in each of the relevant 
+markets are currently imported by manufacturers from their respective overseas 
+production sites, with the exception of the ICP-MSs of Varian, which it 
+manufactures and supplies from its facility in Melbourne.  
+48. 
+However, given that an established Australian brand and local presence for after-
+sales service and support was generally considered to be critical by customers, 
+the ACCC considered that the importation of instruments merely forms an input 
+into the overall supply of the relevant instruments in Australia. Market inquiries 
+supported this finding, with customers indicating that instruments are rarely (if 
+ever) sourced via direct imports as opposed to imports distributed via suppliers 
+represented in Australia or their established third party distributors. On this basis, 
+the ACCC considered that direct imports were only likely to account for a very 
+small proportion of existing sales and would be unlikely to provide an effective 
+competitive constraint on the merged firm.  
+49. 
+Accordingly, only imported products supplied via suppliers represented in 
+Australia or their established third party distributors were considered by the 
+ACCC as part of the relevant national supply markets in its competition analysis. 
+-9- 
+
+
+ 
+Availability of substitutes 
+50. 
+In relation to micro/portable GCs, no significant Australian competitors would 
+have remained post-acquisition. 
+51. 
+In relation to lab GCs, triple quad GC-MSs and ICP-MSs, although alternative 
+Australian suppliers would remain post-acquisition, market inquiries indicated 
+that those available substitutes (including substitute products made available in 
+Australia via third party distributors) would likely be limited in their ability to 
+provide an effective competitive constraint on the merged firm. The factors 
+informing this conclusion are addressed below. 
+52. 
+Firstly, although market inquiries suggested that customer switching may be 
+feasible on a purely financial cost basis, customers indicated that there were 
+significant risks involved in switching suppliers, particularly given instrument 
+purchases are relatively expensive and infrequent in nature and the instruments 
+typically constitute an essential input in the respective businesses of customers. 
+Customers indicated that the local brand of the supplier, on the basis of perceived 
+quality and reliability, was a key factor in purchasing decisions.  
+53. 
+Secondly, the availability of reliable and timely after-sales service and support 
+directly from the original manufacturer was considered to be a critical factor in 
+customer purchasing decisions. Post-acquisition, the merged firm would have the 
+most extensive direct after-sales service and support network of any single 
+supplier represented in Australia.  
+54. 
+Lastly, market inquiries indicated that third party distribution in relation to the 
+relatively more complex triple quadrupole GC-MS and ICP-MS instruments was 
+likely to be a less effective means of competing in the relevant markets, 
+particularly in cases where a lower level of after-sales service and support was 
+available from such vendors. The difficulties faced by third party distributors in 
+competing effectively were reflected in the very limited use of third party 
+distributors by the major suppliers in the relevant markets and the relatively small 
+share of Australian sales comprised by supply via this distribution model. In any 
+event, the ACCC did not identify any significant global suppliers which could 
+commence Australian supply, either directly or via third party distributors, that 
+were not already represented in Australia. 
+Barriers to entry 
+55. 
+The ACCC considered barriers to entry on three distinct bases, including 
+greenfields new entry, new entry by an incumbent overseas supplier of related 
+products, and new entry by an incumbent overseas supplier of a relevant product 
+who has no presence in Australia. Each of these three types of new entry is 
+addressed below. 
+-10- 
+
+
+ 
+56. 
+The ACCC considered that new entry on a greenfields basis would not be likely 
+to provide an effective competitive constraint on the merged firm, mainly due to 
+the substantial sunk costs and lead time necessary for the requisite R&D of a new 
+product; establishing sufficient manufacturing capacity; developing a reputable 
+Australian brand for the supply of the relevant instruments; establishing effective 
+sales and after-sales service and support networks; as well as the insufficient 
+financial incentive for such an overseas supplier to make the required investment 
+given the small size of demand in the relevant markets. 
+57. 
+The ACCC considered that new entry by an incumbent overseas supplier of 
+related products would not be likely to provide an effective competitive 
+constraint on the merged firm mainly due to the substantial sunk costs and lead 
+time necessary for the requisite R&D of a new product; establishing sufficient 
+manufacturing capacity; developing a reputable Australian brand for the supply 
+of the relevant instruments; as well as the insufficient financial incentive for such 
+an overseas supplier to make the required investment given the small size of 
+demand in the relevant markets 
+58. 
+The ACCC considered that new entry by an incumbent overseas supplier would 
+not be likely to constrain the merged firm, given that the ACCC did not identify 
+any significant incumbent overseas supplier not already represented in Australia 
+that could commence supply in the relevant markets. 
+Conclusion – competition analysis 
+59. 
+Therefore, on the basis of market inquiries and other information before it, the 
+ACCC formed the view that the proposed acquisition would be likely to result in 
+a substantial lessening of competition in each of the relevant markets. 
+Undertakings 
+60. 
+On 30 March 2010 the merger parties offered, and the ACCC accepted, a court 
+enforceable undertaking pursuant to section 87B of the Act. The undertaking was 
+offered by the merger parties to address the ACCC’s competition concerns 
+arising from the proposed acquisition in the Australian context and incorporates 
+commitments provided by the merger parties to the EC. 
+61. 
+In this regard, the EC announced its decision on the 20 January 2010 not to 
+oppose the proposed acquisition, subject to commitments by the merger parties to 
+divest certain assets and businesses on a global basis where competition concerns 
+were identified by the EC (the EC commitments). The businesses for divestiture 
+included: 
+ Varian’s global lab GC business, 
+ Agilent’s global micro/portable GC business, 
+ Varian’s global triple quad GC-MS business, and 
+ Varian’s global ICP-MS business 
+-11- 
+
+
+ 
+(collectively referred to as the divestiture businesses). 
+62. 
+In summary, the divestiture businesses are to comprise all tangible and intangible 
+assets necessary to ensure the viability and competitiveness of those businesses 
+on a stand-alone basis, with hold separate arrangements to apply to those 
+divestiture businesses from the date of the EC’s decision. 
+63. 
+Under the EC commitments, the merger parties are prohibited from completing 
+the proposed acquisition until they have obtained EC approval for the purchasers 
+of the divestiture businesses and final sale agreements between the merger parties 
+and the relevant proposed purchasers have been signed. 
+64. 
+The ACCC considered that compliance with the EC commitments was necessary 
+to address the competition concerns identified by the ACCC in the Australian 
+context. Accordingly, under the undertaking offered by the merger parties and 
+accepted by the ACCC, the merger parties have undertaken to comply with their 
+EC commitments in their entirety and to submit to the jurisdiction of the Federal 
+Court of Australia.  
+65. 
+The undertaking also requires the merger parties to seek the ACCC’s pre-
+approval of the proposed purchasers for the divestiture businesses. The 
+undertaking provides for ACCC pre-approval of: 
+ Inficon Inc (Inficon) as the proposed purchaser of Agilent’s global 
+micro/portable GC business; and 
+ Bruker Corporation (Bruker) as the proposed purchaser of Varian’s global 
+lab GC, triple quad GC-MS and ICP-MS businesses. 
+66. 
+The ACCC concluded that the divestment of the divestiture businesses by Agilent 
+and Varian to Inficon and Bruker, both of which have established and effective 
+distribution arrangements in Australia, would create viable, effective, 
+independent and long-term competitors to the merged firm and thereby address 
+the ACCC’s competition concerns. In the event that the merger parties fail to 
+complete the divestment of the divestiture businesses to Inficon and Bruker, the 
+undertaking requires the merger parties to obtain ACCC approval for any 
+alternative purchasers. 
+Conclusion – the section 87B undertakings 
+67. 
+The ACCC considered that the undertakings offered by the merger parties and 
+accepted by the ACCC, complement the EC commitments while giving the 
+ACCC the ability to enforce those commitments and satisfactorily addresses the 
+ACCC’s competition concerns in the relevant national markets. 
+68. 
+A copy of the undertaking is available on the ACCC’s website at the 
+Undertakings Register (www.accc.gov.au following the link to public registers). 
+-12- 
+
+
+ 
+Conclusion 
+69. 
+On the basis of the above, including taking into account the undertaking, the 
+ACCC formed the view that the proposed acquisition of Varian by Agilent would 
+not be likely to result in a substantial lessening of competition in any relevant 
+market in contravention of section 50 of the Act. 
+ 
+-13- 

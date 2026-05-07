@@ -1,0 +1,35 @@
+{
+  "id": "0600",
+  "title": "Proposed merger between GrainCorp Limited and AWB Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-between-graincorp-limited-and-awb-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43007",
+  "industries": [
+    "Agribusiness"
+  ],
+  "date_completed": "24 August 2010",
+  "date_completed_iso": "2010-08-24T12:00:00Z",
+  "date_commenced": "9 August 2010",
+  "date_commenced_iso": "2010-08-09T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "GrainCorp Limited"
+  ],
+  "targets": [
+    "AWB Limited"
+  ],
+  "timeline": [
+    {
+      "date": "9 Aug 2010",
+      "date_iso": "2010-08-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Aug 2010",
+      "date_iso": "2010-08-24T12:00:00Z",
+      "event": "The ACCC discontinued its review into the proposed merger following the AWB board's decision to withdraw its recommendation of the merger with GrainCorp."
+    }
+  ],
+  "body_sections": {}
+}

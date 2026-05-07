@@ -1,0 +1,64 @@
+{
+  "id": "0883",
+  "title": "Medibank Private Limited - proposed acquisition of Australian Health Management Group Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/medibank-private-limited-proposed-acquisition-of-australian-health-management-group-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31585",
+  "industries": [
+    "Health Insurance"
+  ],
+  "date_completed": "13 August 2008",
+  "date_completed_iso": "2008-08-13T12:00:00Z",
+  "date_commenced": "13 June 2008",
+  "date_commenced_iso": "2008-06-13T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Medibank Private Limited"
+  ],
+  "targets": [
+    "Australian Health Management Group Limited"
+  ],
+  "timeline": [
+    {
+      "date": "13 Jun 2008",
+      "date_iso": "2008-06-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "2 Jul 2008",
+      "date_iso": "2008-07-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Jul 2008",
+      "date_iso": "2008-07-03T12:00:00Z",
+      "event": "ACCC requested further information from Medibank Private. ACCC timeline suspended."
+    },
+    {
+      "date": "9 Jul 2008",
+      "date_iso": "2008-07-09T12:00:00Z",
+      "event": "Medibank provided its response to the information request. ACCC timeline recommenced."
+    },
+    {
+      "date": "16 Jul 2008",
+      "date_iso": "2008-07-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "30 Jul 2008",
+      "date_iso": "2008-07-30T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "13 Aug 2008",
+      "date_iso": "2008-08-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Medibank proposes to acquire Australian Health Management.",
+    "Market definition": "The ACCC considered the relevant markets to be: - state-based markets for the supply of private health insurance (PHI) to consumers; and - local, regional or state/territory based markets for the acquisition of services from private hospitals by PHI providers.",
+    "Competition analysis": "The ACCC considered the proposed acquisition unlikely to give rise to a substantial lessening of competition in any relevant market. In relation to health management services, the ACCC considered the proposed acquisition would not provide Medibank with an increased ability or incentive to foreclose competition in PHI consumer markets by restricting or limiting the supply of health management services. In particular: - the extent to which rival PHI providers are currently utilising health management services is likely to be insufficient for the merged entity to foreclose competition in PHI consumer markets by restricting or raising the cost of its supply of health management services to rival PHI providers; - a significant national provider of health management services is likely to remain available to small to medium PHI providers; and - barriers to expansion for smaller health management service providers operating on a regional basis appear to be relatively low. In relation to PHI distribution intermediaries, the ACCC did not consider these to be determinative of the ability of small to medium PHI providers to compete in PHI consumer markets. The potential removal of AHM from intermediaries as a result of the proposed acquisition is therefore unlikely to significantly affect the ability of small to medium PHI providers to compete in PHI consumer markets. In relation to private hospital services buying groups, the ACCC considered that the removal of AHM from buying groups as a result of the proposed acquisition would not directly result in a substantial reduction in the competitive constraint imposed by small to medium PHI providers."
+  }
+}

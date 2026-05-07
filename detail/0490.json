@@ -1,0 +1,44 @@
+{
+  "id": "0490",
+  "title": "Combined Communications Network Ltd (a wholly owned subsidiary of Cabcharge Australia Ltd) - completed acquisition of Austaxi Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/combined-communications-network-ltd-a-wholly-owned-subsidiary-of-cabcharge-australia-ltd-completed-acquisition-of-austaxi-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46768",
+  "industries": [
+    "Taxi"
+  ],
+  "date_completed": "11 October 2011",
+  "date_completed_iso": "2011-10-11T12:00:00Z",
+  "date_commenced": "24 August 2011",
+  "date_commenced_iso": "2011-08-24T12:00:00Z",
+  "total_review_days": 33,
+  "acquirers": [
+    "Combined Communications Network Ltd"
+  ],
+  "targets": [
+    "Austaxi Group Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "24 Aug 2011",
+      "date_iso": "2011-08-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Sep 2011",
+      "date_iso": "2011-09-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Oct 2011",
+      "date_iso": "2011-10-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Combined Communications Network Ltd (a wholly owned subsidiary of Cabcharge) (CCN) acquired Austaxi Group Pty Ltd (Austaxi). Prior to the completed acquisition, CCN and Austaxi were both involved in the ownership and operation of taxi networks, standard taxi services and, of most relevance to this matter, wheelchair accessible taxi services in the Sydney metropolitan area.",
+    "Market definition": "While the ACCC did not need to form concluded views regarding the relevant market definitions, it considered the competitive effects of the completed acquisition on the markets for: -the provision of wheelchair accessible taxi services in metropolitan Sydney; -the provision of standard taxi services in metropolitan Sydney; -taxi network services in metropolitan Sydney; and -the supply of non-cash payment instruments and processing nationally.",
+    "Competition analysis": "On 11 October 2011 the ACCC formed the view that the completed acquisition was unlikely to substantially lessen competition in any market. Factors informing this conclusion included: -Austaxi appears to have been a weak competitor in the provision of wheelchair accessible taxi services, notwithstanding this being the primary focus of its business; -Austaxi was struggling to attract drivers and drivers were reportedly not competing vigorously in the wheelchair passenger segment; and -Transport NSW continues to distribute wheelchair accessible taxi licences to both existing operators and any new entrants to the taxi industry. Accordingly, the ACCC decided not to intervene in the completed acquisition."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0667",
+  "title": "Hutchison Port Holdings Limited - proposed acquisition of the right to operate the third container terminal at Port Botany",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hutchison-port-holdings-limited-proposed-acquisition-of-the-right-to-operate-the-third-container-terminal-at-port-botany",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40214",
+  "industries": [
+    "Stevedoring services"
+  ],
+  "date_completed": "27 January 2010",
+  "date_completed_iso": "2010-01-27T12:00:00Z",
+  "date_commenced": "5 January 2010",
+  "date_commenced_iso": "2010-01-05T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "Hutchison Port Holdings Limited"
+  ],
+  "targets": [
+    "Third container terminal (T3) at Port Botany"
+  ],
+  "timeline": [
+    {
+      "date": "5 Jan 2010",
+      "date_iso": "2010-01-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Jan 2010",
+      "date_iso": "2010-01-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "27 Jan 2010",
+      "date_iso": "2010-01-27T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 18 December 2009 the NSW State Government announced that Hutchison Port Holdings (HPH) had been appointed as the operator of the new Third container terminal (T3) at Port Botany.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a market for container stevedoring services.  However, the ACCC did not consider it necessary to reach a definitive view on the geographic aspect of the market.",
+    "Competition analysis": "In reaching the decision not to oppose the proposed acquisition, the ACCC noted that HPH did not have stevedoring or related operations in Port Botany, and that the entry of HPH would add an extra competitor at Port Botany."
+  }
+}

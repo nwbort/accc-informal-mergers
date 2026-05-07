@@ -1,0 +1,30 @@
+{
+  "id": "1584",
+  "title": "Acquirer: Carlton & United Breweries Ltd; Target: HP Bulmer (Overseas Holdings) Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-carlton-united-breweries-ltd-target-hp-bulmer-overseas-holdings-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17174",
+  "industries": [],
+  "date_completed": "14 January 2003",
+  "date_completed_iso": "2003-01-14T12:00:00Z",
+  "date_commenced": "3 January 2003",
+  "date_commenced_iso": "2003-01-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Carlton & United Breweries Ltd"
+  ],
+  "targets": [
+    "HP Bulmer (Overseas Holdings) Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Carlton and United Breweries Pty Ltd proposes to acquire HP Bulmer (Overseas Holdings) Ltd.",
+    "Market definition": "Market participants expressed the opinion that alcoholic cider faced competition from ready to drink beverages and to a lesser extent beer.",
+    "Competition analysis": "A substantial lessening of competition is not predicted.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "ANZSIC code": "2183"
+  }
+}

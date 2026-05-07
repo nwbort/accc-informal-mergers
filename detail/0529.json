@@ -1,0 +1,44 @@
+{
+  "id": "0529",
+  "title": "Marie Stopes International - proposed acquisition of Planned Parenthood Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/marie-stopes-international-proposed-acquisition-of-planned-parenthood-australia",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44632",
+  "industries": [
+    "Medical Services"
+  ],
+  "date_completed": "14 April 2011",
+  "date_completed_iso": "2011-04-14T12:00:00Z",
+  "date_commenced": "8 March 2011",
+  "date_commenced_iso": "2011-03-08T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Marie Stopes International"
+  ],
+  "targets": [
+    "Planned Parenthood Australia"
+  ],
+  "timeline": [
+    {
+      "date": "8 Mar 2011",
+      "date_iso": "2011-03-08T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Procees Guidelines."
+    },
+    {
+      "date": "22 Mar 2011",
+      "date_iso": "2011-03-22T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Apr 2011",
+      "date_iso": "2011-04-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Marie Stopes International proposes to acquire the medical practices conducted under the brand name Planned Parenthood Australia.",
+    "Market definition": "The ACCC considered the proposed acquisition within the context of separate local markets for the supply of reproductive and sexual health care services.",
+    "Competition analysis": "The ACCC considered that the only relevant market in which the proposed acquisition would not result in a bare transfer of market share between the parties was the central Brisbane market for the supply of reproductive and sexual health care services. The ACCC considered that while the proposed acquisition would result in an increased level of concentration in the central Brisbane market for the supply of reproductive and sexual health care services, barriers to entry would remain relatively low and there would remain at least two viable alternative competitors that would effectively compete with the merged firm for customers. The ACCC therefore considered that the proposed acquisition would be unlikely to substantially lessen competition in the relevant market."
+  }
+}

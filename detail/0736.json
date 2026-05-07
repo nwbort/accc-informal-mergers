@@ -1,0 +1,49 @@
+{
+  "id": "0736",
+  "title": "Fugro Holdings (Australia) Pty Ltd - proposed acquisition of Tenix LADS Corporation Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fugro-holdings-australia-pty-ltd-proposed-acquisition-of-tenix-lads-corporation-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "37285",
+  "industries": [
+    "Surveying and mapping services"
+  ],
+  "date_completed": "7 July 2009",
+  "date_completed_iso": "2009-07-07T12:00:00Z",
+  "date_commenced": "9 June 2009",
+  "date_commenced_iso": "2009-06-09T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "Fugro Holdings (Australia) Pty Ltd"
+  ],
+  "targets": [
+    "Tenix LADS Corporation Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "8 Jun 2009",
+      "date_iso": "2009-06-08T12:00:00Z",
+      "event": "Fugro Holdings' parent company Fugro N.V. announced that it had agreed in principle to acquire Tenix LADS."
+    },
+    {
+      "date": "9 Jun 2009",
+      "date_iso": "2009-06-09T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Jun 2009",
+      "date_iso": "2009-06-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Jul 2009",
+      "date_iso": "2009-07-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 8 June 2009, Fugro Holdings' parent company Fugro N.V. announced that it had agreed in principle to acquire Tenix LADS.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of the global market for airborne LiDAR bathymetry (ALB) survey services for clear shallow water surveys, focussing on the supply of these services in Australia.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included: - the existence of global competitors capable of supplying their services to Australia; - barriers to new entry and expansion did not appear to be insurmountable; - some customers of the merger parties had the ability to conduct the relevant services in-house if necessary; and - the dynamic nature of the relevant market, including market growth and technological innovation offering greater scope for new entry over time."
+  }
+}

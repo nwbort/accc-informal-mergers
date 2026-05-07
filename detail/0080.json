@@ -1,0 +1,84 @@
+{
+  "id": "0080",
+  "title": "Qantas’ proposed acquisition of Alliance Airlines.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qantas%E2%80%99-proposed-acquisition-of-alliance-airlines",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Airlines"
+  ],
+  "date_completed": "20 April 2023",
+  "date_completed_iso": "2023-04-20T12:00:00Z",
+  "date_commenced": "17 May 2022",
+  "date_commenced_iso": "2022-05-17T12:00:00Z",
+  "total_review_days": 100,
+  "acquirers": [
+    "Qantas Airways Ltd"
+  ],
+  "targets": [
+    "Alliance Aviation Services Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 May 2022",
+      "date_iso": "2022-05-18T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "3 Jun 2022",
+      "date_iso": "2022-06-03T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "28 Jul 2022",
+      "date_iso": "2022-07-28T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (4 August 2022) delayed to allow ACCC additional time to continue its investigation and consider information provided by market participants."
+    },
+    {
+      "date": "18 Aug 2022",
+      "date_iso": "2022-08-18T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "1 Sep 2022",
+      "date_iso": "2022-09-01T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "14 Sep 2022",
+      "date_iso": "2022-09-14T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (17 November 2022) delayed to allow the parties more time to provide information."
+    },
+    {
+      "date": "28 Oct 2022",
+      "date_iso": "2022-10-28T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (1 December 2022) delayed to allow the parties more time to provide information."
+    },
+    {
+      "date": "9 Dec 2022",
+      "date_iso": "2022-12-09T12:00:00Z",
+      "event": "ACCC received further information from the parties."
+    },
+    {
+      "date": "28 Feb 2023",
+      "date_iso": "2023-02-28T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (20 March 2023) delayed."
+    },
+    {
+      "date": "20 Mar 2023",
+      "date_iso": "2023-03-20T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (23 March 2023) delayed to allow the ACCC to obtain further information from the parties."
+    },
+    {
+      "date": "20 Apr 2023",
+      "date_iso": "2023-04-20T12:00:00Z",
+      "event": "ACCC announced it would oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 1 February 2019, Qantas Airways Ltd ( Qantas ) announced it had acquired a 19.9 per cent holding in Alliance Aviation Services Ltd ( Alliance ). On 5 May 2022, Qantas announced that it had reached an agreement to acquire the remaining shares in Alliance that it does not already own. Qantas and Alliance overlap in the supply of charter services to corporate customers, and regular passenger transport. Alliance also leases aircraft to airline clients and supplies other associated aviation services including spare parts, aircraft maintenance and engineering services.",
+    "Market definition": "Refer to the Public Competition Assessment.",
+    "Competition analysis": "Refer to the Public Competition Assessment."
+  }
+}

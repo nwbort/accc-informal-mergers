@@ -1,0 +1,44 @@
+{
+  "id": "0877",
+  "title": "Kellogg (Aust) Pty Ltd - proposed acquisition of Specialty Cereals Pty ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/kellogg-aust-pty-ltd-proposed-acquisition-of-specialty-cereals-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31375",
+  "industries": [
+    "Breakfast cereal"
+  ],
+  "date_completed": "25 August 2008",
+  "date_completed_iso": "2008-08-25T12:00:00Z",
+  "date_commenced": "5 August 2008",
+  "date_commenced_iso": "2008-08-05T12:00:00Z",
+  "total_review_days": 15,
+  "acquirers": [
+    "Kellogg (Aust) Pty Ltd"
+  ],
+  "targets": [
+    "Specialty Cereals Pty ltd"
+  ],
+  "timeline": [
+    {
+      "date": "5 Aug 2008",
+      "date_iso": "2008-08-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "19 Aug 2008",
+      "date_iso": "2008-08-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "25 Aug 2008",
+      "date_iso": "2008-08-25T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Kellogg Company and Kellogg (Aust.) Pty Ltd (jointly Kellogg) propose to acquire the business of Specialty Cereals Pty Ltd. Kellogg is a manufacturer, seller and marketer of ready-to-eat cereal and snack foods worldwide. Specialty Cereals is a privately owned ready-to-eat cereal and cereal and confection ingredient manufacturing business based in Sydney.",
+    "Market definition": "The proposed acquisition was considered in the context of the following markets: 1. The national market for the retail supply of ready-to-eat breakfast cereals; and 2. The national market for the supply of cereal ingredients.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this conclusion included: 1. The low increase in market share as a result of the proposed acquisition; 2. Low barriers to entry evidenced by several recent new entrants; and 3. The existence of several competitors who will continue to provide alternative supply options for customers."
+  }
+}

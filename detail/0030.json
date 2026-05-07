@@ -1,0 +1,54 @@
+{
+  "id": "0030",
+  "title": "Woolworths Group Limited - Beak & Johnston Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-group-limited-beak-johnston-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "frozen food"
+  ],
+  "date_completed": "9 April 2025",
+  "date_completed_iso": "2025-04-09T12:00:00Z",
+  "date_commenced": "1 November 2024",
+  "date_commenced_iso": "2024-11-01T12:00:00Z",
+  "total_review_days": 56,
+  "acquirers": [
+    "Woolworths Group Limited"
+  ],
+  "targets": [
+    "Beak & Johnston Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Nov 2024",
+      "date_iso": "2024-11-04T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Nov 2024",
+      "date_iso": "2024-11-15T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "18 Dec 2024",
+      "date_iso": "2024-12-18T12:00:00Z",
+      "event": "Timeline suspended pending receipt of information from the parties.  Former provisional date for announcement of ACCC's findings (19 December 2024) is delayed.  The ACCC will announce a revised provisional decision date in due course."
+    },
+    {
+      "date": "7 Mar 2025",
+      "date_iso": "2025-03-07T12:00:00Z",
+      "event": "ACCC received further information from the parties. Timeline recommenced."
+    },
+    {
+      "date": "9 Apr 2025",
+      "date_iso": "2025-04-09T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (17 April 2025) brought forward to 9 April 2025. ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Group Limited ( Woolworths ), proposes to acquire Beak & Johnston Holdings Pty Ltd ( City Kitchen ). The proposed acquisition would result in Woolworths indirectly owning 100% of the shares in B&J City Kitchen Pty Ltd (in which Woolworths currently holds a minority interest of 23%) and Beak & Johnston NZ Pty Ltd. Woolworths Woolworths is a large Australian and New Zealand retailer that primarily operates supermarkets. Woolworths sells chilled and frozen ready meals in its retail stores. City Kitchen City Kitchen is a manufacturer of chilled and frozen ready meals in Australia and New Zealand. City Kitchen supplies these products to supermarkets, petrol and convenience store operators, food producers and food service operators (such as airlines). The City Kitchen brands that would be included in the proposed acquisition include: Strength Meals Co: Chilled and frozen ready meals Simmone Logue: gourmet pies, pastries, and cakes Pitango: soups and other meals Artisano: soups, sauces and other meals Pasta Master: Chilled lasagne and pasta ready meals. Beak & Johnston Pty Ltd (Beak & Johnston Greenacre) does not form part of the proposed acquisition.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in the market(s) for the supply of chilled and frozen ready meals and pastries. For the purposes of this assessment, it was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "The ACCC considered whether Woolworths would have the ability and incentive to foreclose rival ready meal suppliers from a sufficient customer base to remain competitive, for example should it preference B&J brands over alternatives at its stores. The investigation found that while Woolworths has significant bargaining power in its dealings with ready meal suppliers, it is unlikely to have a strong incentive to foreclose rival ready meal suppliers.  Woolworths faces competition in the retail supply of ready meals from supermarket retailers and convenience stores. This competition is likely to incentivise Woolworths to continue to stock a variety of brands to suit a range of consumer preferences. The ACCC also found that given the alternative sales channels available to ready meal suppliers, including rival retailers, food service wholesaling and direct-to-consumer distribution, the potential removal of Woolworths as a distribution channel would not prevent ready meal suppliers remaining competitive. The ACCC also considered whether Woolworths would have the incentive to foreclose rival retailers from access to B&J products, leading to a potential reduction in rival retailers’ ability to constrain Woolworths in the supply of ready meals. The ACCC found that Woolworths is unlikely to have an increased incentive to reduce wholesale supply of ready meals to other retailers, as by doing so, it would forego its wholesale profit margin in respect of those products. The ACCC also found that, even if Woolworths did cease supplying ready meals to rival retailers, retailers will continue to have access to alternative suppliers with comparable scale and quality to B&J. The ACCC also found there were several ready meal suppliers that operated on a smaller scale but were successful at producing high quality products in certain ready meal subcategories. The ACCC considers that, post-acquisition, rival retailers will continue to be able to source ready meals at a price and level of quality that will enable them to compete effectively with Woolworths."
+  }
+}

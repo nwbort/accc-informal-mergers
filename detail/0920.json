@@ -1,0 +1,48 @@
+{
+  "id": "0920",
+  "title": "Incitec Pivot Limited - proposed acquisition of Dyno Nobel Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/incitec-pivot-limited-proposed-acquisition-of-dyno-nobel-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "31421",
+  "industries": [
+    "Explosives and fertilisers"
+  ],
+  "date_completed": "15 May 2008",
+  "date_completed_iso": "2008-05-15T12:00:00Z",
+  "date_commenced": "1 April 2008",
+  "date_commenced_iso": "2008-04-01T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Incitec Pivot Limited"
+  ],
+  "targets": [
+    "Dyno Nobel Limited"
+  ],
+  "timeline": [
+    {
+      "date": "1 Apr 2008",
+      "date_iso": "2008-04-01T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Apr 2008",
+      "date_iso": "2008-04-04T12:00:00Z",
+      "event": "Market inquiries commenced."
+    },
+    {
+      "date": "18 Apr 2008",
+      "date_iso": "2008-04-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 May 2008",
+      "date_iso": "2008-05-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - separate western and eastern Australian markets for the manufacture and supply of ammonia; - separate western and eastern Australian markets for the manufacture and supply of ammonium nitrate; and - separate western and eastern Australian markets for the manufacture and supply of fertilisers. With respect to the relevant fertiliser markets, the ACCC recognised that competition for the manufacture and supply of fertiliser products was generally confined to separate east and west coast geographic markets. However there was potential for increased competition in the future between fertiliser suppliers across a broader geographic region.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was not likely to result in a substantial lessening of competition in any of the relevant markets. The ACCC found that the proposed acquisition was unlikely to remove an actual or potential competitor in the manufacture and supply of ammonia and ammonium nitrate, and was unlikley to provide the merged firm with the ability and incentive to foreclose competition in the downstream supply of fertiliser products. The ACCC recognised that IPL and CSBP would be partners in the QNP joint venture for ammonium nitrate production whilst competing to a limited extent in the supply of fertiliser products, and that there was potential for increased competition in the future between CSBP and IPL in the supply of fertiliser products. However, the ACCC considered that IPL and CSBP's participation in the QNP joint venture would be insufficient to increase the ability and incentive for them to engage in coordinated conduct in the supply of fertiliser products."
+  }
+}

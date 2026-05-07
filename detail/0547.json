@@ -1,0 +1,43 @@
+{
+  "id": "0547",
+  "title": "Coca-Cola Amatil (Aust) Pty Ltd - proposed acquisition of Vending Solutions Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/coca-cola-amatil-aust-pty-ltd-proposed-acquisition-of-vending-solutions-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44542",
+  "industries": [
+    "Beverage and snack vending business"
+  ],
+  "date_completed": "15 February 2011",
+  "date_completed_iso": "2011-02-15T12:00:00Z",
+  "date_commenced": "15 December 2010",
+  "date_commenced_iso": "2010-12-15T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "Coca-Cola Amatil (Aust) Pty Ltd"
+  ],
+  "targets": [
+    "Vending Solutions Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Dec 2010",
+      "date_iso": "2010-12-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Jan 2011",
+      "date_iso": "2011-01-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Feb 2011",
+      "date_iso": "2011-02-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of a market for the supply of vending machines for refrigerated non-alcoholic ready-to-drink beverages and snacks in Queensland.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to result in a substantial lessening of competition in the relevant market. The ACCC considered that post-acquisition, Coca-Cola Amatil would continue to be constrained by existing rivals including PepsiCo (Smiths), Provender, Personalised Vending, Cool Treats, Natvend and a number of small operators. In addition, barriers to entry and expansion for the supply of vending machines did not appear to be  significant, particularly for suppliers seeking to enter or expand into the supply of vending machines to workplace customers. While the ACCC was mindful of the increased risk of foreclosure to third party beverage manufacturers, the ACCC considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market."
+  }
+}

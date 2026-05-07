@@ -1,0 +1,44 @@
+{
+  "id": "0106",
+  "title": "Aviation Training Partners - Aviation Training Holdings Pty Ltd (trading as Ansett Aviation Training)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/aviation-training-partners-aviation-training-holdings-pty-ltd-trading-as-ansett-aviation-training",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Aviation training"
+  ],
+  "date_completed": "17 February 2022",
+  "date_completed_iso": "2022-02-17T12:00:00Z",
+  "date_commenced": "17 January 2022",
+  "date_commenced_iso": "2022-01-17T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "Aviation Training Partners"
+  ],
+  "targets": [
+    "Aviation Training Holdings Pty Ltd (trading as Ansett Aviation Training)"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jan 2022",
+      "date_iso": "2022-01-17T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Jan 2022",
+      "date_iso": "2022-01-25T12:00:00Z",
+      "event": "Closing date for submissions"
+    },
+    {
+      "date": "17 Feb 2022",
+      "date_iso": "2022-02-17T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Aviation Training Partners ( ATP ), a consortium of Bain Capital Credit, LP ( Bain Credit ), Arcadia Capital Pty Ltd ( Arcadia Capital ), and affiliates of the leadership team of Bridger Aerospace Group, LLC ( Bridger Aerospace ) proposes to acquire Aviation Training Holdings Pty Ltd (trading as Ansett Aviation Training) ( AAT ). Bain Credit is an affiliated company of Bain Capital, LP ( Bain Capital ), an American private investment firm. Funds managed and controlled by Bain Capital and Bain Credit currently own a majority interest in Virgin Australia. Arcadia Capital is an Australian private equity firm, and Bridger Aerospace is an American company which provides aerial firefighting and wildfire management services. AAT is a global provider of flight simulation training services, and simulator housing and maintenance services. It has facilities in Brisbane and Melbourne and is the largest independent provider of simulation services in Australia.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in Australian markets for the supply of full flight simulator ( FFS ) services and domestic air passenger transport services. For the purposes of this assessment the ACCC did not need to reach a concluded view on the precise product or geographic dimensions of these markets, as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC’s review primarily focused on whether ATP would have the ability and incentive to harm AAT’s customers for FFS services who compete with Virgin Australia in the supply of air passenger transport services, given the proposed acquisition would result in common ownership between AAT and Virgin Australia. The ACCC considered the likely effect of any foreclosure on competition in the downstream supply of air passenger transport services. Foreclosure of Virgin Australia’s rivals The ACCC considered whether AAT would have the ability and incentive to restrict Virgin Australia’s rivals’ access to FFS services, thereby raising costs and lessening the competitive constraint those rivals place on Virgin Australia in the supply of air passenger transport services. The ACCC considered whether AAT might do this by, for example, restricting access or worsening the terms of access to its FFS devices, or to simulator housing and maintenance services. The ACCC found that in some instances AAT would have the ability to restrict or worsen the terms of supply of FFS services to Virgin Australia’s rivals. However, the ACCC found that AAT customers who are Virgin Australia’s closest rivals have the ability to protect themselves through self-supplying FFS services or by acquiring services from other providers. The ACCC also found that restricting access to FFS services to Virgin Australia’s rivals would be unlikely to provide Virgin Australia with a material advantage in the supply of air passenger transport services and would result in AAT foregoing significant revenue. The ACCC concluded that these factors suggested that ATP would not have the ability and incentive to restrict Virgin Australia’s rivals from accessing essential flight simulation training services. The ACCC considered that any inconvenience caused to Virgin Australia’s rivals by denying or lessening the terms of access to FFS services is unlikely to materially disadvantage them and substantially lessen of competition in the air passenger transport market. For AAT’s customers that do not compete with Virgin Australia (or compete to a lesser extent), the ACCC found that AAT would be less likely to have the incentive to harm these customers in a way that would be likely to result in a substantial lessening of competition. Virgin Australia’s access to its rivals’ competitively sensitive information The ACCC also considered whether Virgin Australia could use competitively sensitive information about its rivals that is obtained by AAT, to benefit Virgin Australia in a way that would substantially lessen competition in the supply of air passenger transport services. The ACCC concluded that much of the information that AAT obtains about its customers in the course of supplying FFS services is publicly available. If Virgin Australia obtained this information, it is unlikely that it would be able to use the information to order to obtain a significant competitive advantage. Virgin Australia’s closest rivals also have the ability to obtain FFS services from other suppliers, or to self-supply FFS services if they considered the information required to be provided was competitively sensitive. Given the factors above, the ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any relevant market in Australia."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "0993",
+  "title": "Kirin Group - proposed acquisition of National Foods Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/kirin-group-proposed-acquisition-of-national-foods-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30340",
+  "industries": [
+    "Food and beverage"
+  ],
+  "date_completed": "20 November 2007",
+  "date_completed_iso": "2007-11-20T12:00:00Z",
+  "date_commenced": "15 November 2007",
+  "date_commenced_iso": "2007-11-15T12:00:00Z",
+  "total_review_days": 4,
+  "acquirers": [
+    "Kirin Group"
+  ],
+  "targets": [
+    "National Foods Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "15 Nov 2007",
+      "date_iso": "2007-11-15T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 Nov 2007",
+      "date_iso": "2007-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the supply of dairy products and non-alcoholic beverages. The ACCC did not reach a conclusive view on the specific market definition relevant to the proposed acquisition.",
+    "Competition analysis": "On 20 November 2007 the ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition. In forming this view, the ACCC took into account the limited overlap between the operations of National Foods and Kirin in Australia."
+  }
+}

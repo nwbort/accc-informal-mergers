@@ -1,0 +1,31 @@
+{
+  "id": "1570",
+  "title": "Acquirer: Brickworks Ltd; Target: Bristile Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-brickworks-ltd-target-bristile-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17497",
+  "industries": [],
+  "date_completed": "1 April 2003",
+  "date_completed_iso": "2003-04-01T12:00:00Z",
+  "date_commenced": "4 March 2003",
+  "date_commenced_iso": "2003-03-04T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Brickworks Ltd"
+  ],
+  "targets": [
+    "Bristile Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The proposed acquisition of Bristile Ltd by Brickworks Ltd",
+    "Market definition": "The relevant markets were considered to be the state markets for the manufacture and supply of clay bricks and pavers.",
+    "Competition analysis": "Bristile and Brickworks both supply bricks and pavers, but mainly do so in separate state markets. The Commission concluded that the proposed acquisition was unlikely to lead to a substantial lessening of competition in the relevant markets for the following reasons: (i)   the absence of any significant overlap between the parties in each of the           state-based markets (ii)  barriers to entry appear to be low (iii) customers appear to be able to exercise a significant degree of             countervailing power. Accordingly, the Commission concldued that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets and decided not to oppose.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2621"
+  }
+}

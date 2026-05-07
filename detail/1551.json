@@ -1,0 +1,31 @@
+{
+  "id": "1551",
+  "title": "Acquirer: Big Sky Credit Union Limited; Target: BP Employees Credit Co-operative Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-big-sky-credit-union-limited-target-bp-employees-credit-co-operative-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17896",
+  "industries": [],
+  "date_completed": "10 June 2003",
+  "date_completed_iso": "2003-06-10T12:00:00Z",
+  "date_commenced": "3 June 2003",
+  "date_commenced_iso": "2003-06-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Big Sky Credit Union Limited"
+  ],
+  "targets": [
+    "BP Employees Credit Co-operative Limited"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 27 May 2003 the Australian Prudential Regulation Authority informed the Commission of the proposed transfer of the entire business of the BP Employees Credit Co-operative to the Big Sky Credit Union.  On 10 June 2003 the Commission decided not to intervene in this proposed merger.",
+    "Market definition": "Various markets for the provision of financial services.",
+    "Competition analysis": "Both the BP Employees Credit Co-operative and the Big Sky Credit Union offer a range of financial services to their members spread right around the country. Credit unions offer a broad range of financial services.  Credit unions offer a similar range of products to banks and building societies. The proposed merger will not cross the Commission's concentration thresholds for either the exercise of unilateral market power or combined market power for the provision of financial services, and therefore a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7329"
+  }
+}

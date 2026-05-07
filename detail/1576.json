@@ -1,0 +1,31 @@
+{
+  "id": "1576",
+  "title": "Acquirer: Foxtel Management Pty Ltd; Target: Optus Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-foxtel-management-pty-ltd-target-optus-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17325",
+  "industries": [],
+  "date_completed": "4 March 2003",
+  "date_completed_iso": "2003-03-04T12:00:00Z",
+  "date_commenced": "13 January 2003",
+  "date_commenced_iso": "2003-01-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Foxtel Management Pty Ltd"
+  ],
+  "targets": [
+    "Optus Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Optus is terminating its lease on its National Digital Media Centre and selling its pay TV aggregation and production equipment to Foxtel. Foxtel will take over the lease of the premises and will be supplying playout services to Optus under contract.",
+    "Market definition": "The Commission considered the relevant markets to be: the national market for the supply of equipment used for the aggregation, production and broadcasting of television programming; the market for the retail provision of pay TV services; and the national market for the supply to pay TV operators of channel aggregation and playout services for pay TV channels.",
+    "Competition analysis": "The Commission considered that the transaction was unlikely to have the effect of substantially lessening competition in any of the relevant markets. In relation to the national market for the supply of equipment used for the aggregation, production and broadcasting of TV programming it was considered that the presence of a number of other active purchasers of the equipment, including overseas and local purchasers, combined with the fact that  demand for such equipment is likely to remain high for the foreseeable future as free-to-air and pay TV operators transition to digital services would act  to constrain Foxtel's ability to influence prices and profit margins. Further, in relation to the aforementioned market, as well as the other markets, it was noted that Optus retains the right in future to acquire such equipment and to provide its own playout services in-house or source them elsewhere. Also, the transaction does not limit or reduce Optus' commercial freedom to determine the type of equipment/technologies it will use or the nature and type of pay TV and digital services it may provide in future. Consequently, the transaction is not likely to cause a substantial lessening of competition in any of the relevant markets.",
+    "Merger type": "Asset Sale",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "2842"
+  }
+}

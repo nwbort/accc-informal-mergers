@@ -1,0 +1,1001 @@
+Page 1 of 17 
+ 
+ 
+Public Competition Assessment 
+13 June 2013 
+Carsales.com Limited - proposed acquisition of assets 
+associated with Trading Post from Telstra Corporation Limited 
+Introduction 
+1. 
+On 20 December 2012, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision to oppose Carsales.com Limited’s (Carsales) 
+proposed acquisition of assets associated with the Trading Post business (Trading 
+Post) from Telstra Corporation Limited (Telstra) (the proposed acquisition). The 
+ACCC decided that the proposed acquisition would have or be likely to have the effect 
+of substantially lessening competition in the markets for the supply of online automotive 
+classified advertising to dealers and to private advertisers in Australia in contravention 
+of section 50 of the Competition and Consumer Act 2010 (the Act). 
+2. 
+The ACCC made its decision on the basis of the information provided by the parties to 
+the acquisition (the parties) and information arising from its market inquiries. This 
+Public Competition Assessment outlines (subject to confidentiality considerations) the 
+basis on which the ACCC has reached its decision on the proposed acquisition. 
+Public Competition Assessment 
+3. 
+To provide an enhanced level of transparency in its decision making process, the 
+ACCC issues a Public Competition Assessment for all proposals where: 
+ an acquisition is opposed; 
+ an acquisition is subject to enforceable undertakings; 
+ the parties to the acquisition seek such disclosure; or 
+ an acquisition is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. 
+This Public Competition Assessment has been issued because the proposed 
+acquisition was opposed by the ACCC. 
+5. 
+By issuing Public Competition Assessments, the ACCC aims to provide the public with 
+a better understanding of the ACCC's analysis of various markets and the associated 
+merger and competition issues. It also alerts the public to circumstances where the 
+
+
+ 
+Page 2 of 17 
+ 
+ACCC’s assessment of the competition conditions in particular markets is changing, or 
+likely to change. 
+6. 
+Each Public Competition Assessment is specific to the particular transaction under 
+review by the ACCC. While some transaction proposals may involve the same or 
+related markets, it should not be assumed that the analysis and decision outlined in 
+one Public Competition Assessment will be conclusive of the ACCC’s view in respect of 
+other transaction proposals, as each matter will be considered on a case-by-case 
+basis. 
+7. 
+Public Competition Assessments outline the ACCC’s principal reasons for forming 
+views on a proposed acquisition at the time the decision was made. As such Public 
+Competition Assessments may not definitively identify and explain all issues that the 
+ACCC considers arise from a proposed acquisition. Further, the ACCC’s decisions 
+generally involve consideration of both non-confidential and confidential information 
+provided by the parties and market participants. In order to maintain the confidentiality 
+of particular information, Public Competition Assessments do not contain any 
+confidential information or its sources. 
+The parties 
+The acquirer: Carsales 
+8. 
+Carsales is a public company listed on the Australian Securities Exchange. 
+9. 
+Carsales is the largest online automotive classifieds business in Australia, through its 
+carsales.com.au and carpoint.com.au sites, other automotive-related sites and other 
+category specific sites such as motorbikes, trucks and marine classifieds sites (see 
+Table 1 below). 
+10. 
+Carsales also operates quicksales.com.au (Quicksales), which it launched in 2003. It 
+provides general classified advertising for a wide range of product categories, including 
+automotive, motorcycles, boats, trucks, farm, machinery and many others.  
+Table 1: Online advertising sites operated by Carsales 
+Category 
+Website 
+Automotive 
+carsales.com.au 
+carpoint.com.au 
+discountnewcars.com.au 
+discountusedcars.com.au 
+prestigenewcars.com.au 
+greencarsales.com.au 
+motoring.com.au 
+Marine 
+boatsales.com.au 
+boatpoint.com.au 
+
+
+ 
+Page 3 of 17 
+ 
+Motorbikes 
+bikesales.com.au 
+bikepoint.com.au 
+Trucks 
+trucksales.com.au 
+Machinery 
+farmmachinerysales.com.au 
+constructionsales.com.au 
+plantmachinerysales.com.au 
+Real estate 
+homesales.com.au 
+Caravans 
+caravancampingsales.com.au 
+Multiple categories (general 
+classifieds) 
+quicksales.com.au 
+ 
+11. 
+Carsales also sells display or banner advertising space to third parties, including car 
+manufacturers, car insurers and car financiers. Display or banner advertisements (as 
+distinct from classified advertising) are special advertisements (sometimes interactive) 
+appearing in boxes or other shapes on a web page to promote a product or service of a 
+third party (e.g. advertisement by an insurer for car insurance). 
+12. 
+In relation to automotive classified advertising, Carsales attracts advertisements from 
+two key groups, being automotive dealers and private automobile advertisers. Carsales 
+uses different pricing mechanisms for these two groups.  
+13. 
+Carsales charges most of its dealers a base subscription fee to advertise and a ‘pay 
+per lead’ fee (charged when a customer makes an online inquiry regarding a vehicle 
+listed by that dealer). Under this model, dealers are not able to display their contact 
+details on the Carsales site for use by potential buyers. Each lead from a potential 
+buyer is passed by Carsales to the dealer with the buyer’s contact details.  
+14. 
+Private advertisers using the carsales.com.au website are charged an upfront fee to list 
+their car. At the time of the ACCC’s review, Carsales was charging private advertisers 
+$60 for a basic package or $110 for a premium package. Unlike dealers, private 
+advertisers do not have to pay for leads and are able to provide contact details for 
+potential buyers to contact them. 
+15. 
+In addition to online advertising, Carsales is vertically integrated and provides a range 
+of services to dealers including inventory distribution and lead management services 
+through its DataMotive (Datamotive) division. Carsales also provides automotive 
+specification and valuation information services through its ownership of 
+redbook.com.au. 
+16. 
+For the financial year ending 30 June 2012, Carsales’ operating revenue totalled 
+$184.2 million from four sources: 
+ the sale of classified advertisements to dealers (45%); 
+ the sale of display or banner advertising (24%);  
+ the sale of classified advertisements to private advertisers (18%); and  
+
+
+ 
+Page 4 of 17 
+ 
+ the provision of data and information technology services to dealers (13%).1 
+17. 
+Carsales does not provide print classifieds. 
+The target: Trading Post 
+18. 
+Trading Post is owned by Telstra Corporation (Telstra) and provides online classified 
+advertising on its website, tradingpost.com.au. This website covers a wide range of 
+advertising categories, including cars, motorbikes, caravans, trailers, boats, wheels and 
+parts, backyard, pets, sport and fun, farm, home and DIY. 
+19. 
+The Trading Post business was established in 1966 as a weekly print classifieds 
+publication and subsequently developed as a strong and well known brand in Australia. 
+20. 
+Telstra acquired Trading Post in 2004. The print version of the Trading Post ceased 
+production in 2009. 
+21. 
+Trading Post’s pricing mechanism for automotive dealers involves a subscription model 
+that allows a specified number of car listings for a fixed monthly fee. Dealers using 
+Trading Post are able to display their contact details and other relevant information to 
+potential customers.  
+22. 
+For private advertisers, at the time of the ACCC’s review Trading Post was charging an 
+upfront fee for car listings, offering basic advertisements ($50) or premium 
+advertisements ($70). For listings in certain other categories, including motorbikes, 
+boats, go karts and machinery, Trading Post was charging a basic cost of $40. The 
+basic cost to list trailers, wheels and car parts, household items or products in other 
+categories was $20. Items priced under $500 were able to be advertised free of 
+charge, subject to certain conditions. 
+23. 
+Telstra also operates the Car Showroom website (carshowroom.com.au), which 
+provides car reviews and other automotive-related content, including cars for sale. 
+Links are embedded within car advertisements that re-direct potential car buyers to the 
+Trading Post website.2 
+Other industry participants 
+Carsguide 
+24. 
+Carsguide operates an automotive advertising website (carsguide.com.au) which is 
+one of the main competitors to Carsales, providing automotive advertisements from 
+dealers and private sellers.  
+25. 
+Carsguide.com.au is a joint venture between Carsguide, News Limited (News) and a 
+syndicate of 35 Australian automotive dealer groups, including Automotive Holdings 
+Group Limited, A.P. Eagers and the Trivett Group.  
+26. 
+In addition to advertisements placed directly on the Carsguide website, News uploads 
+car advertisements from its relevant newspaper classifieds and places them online on 
+carsguide.com.au.  
+                                                 
+1 Carsales, FY12 Results Presentation, 14 August 2012, viewed 27 May 2013, 
+http://media.corporate-ir.net/media_files/IROL/23/230809/FY2012_Results_Presentation.pdf. 
+2 Car Showroom was not included as part of the proposed acquisition and therefore was considered by the ACCC 
+in this review. 
+
+
+ 
+Page 5 of 17 
+ 
+Drive 
+27. 
+Fairfax Media Ltd (Fairfax) owns and operates the website drive.com.au. This website 
+is another competitor to Carsales. It provides online automotive classified advertising 
+listings for new and used vehicles, car reviews and editorial-related content using the 
+‘Drive’ brand. 
+28. 
+Fairfax also provides print classifieds under the Drive brand, including in The Age and 
+The Sydney Morning Herald, and uploads print classifieds onto its Drive website.  
+eBay and Gumtree 
+eBay 
+29. 
+eBay operates an online trading site (in Australia, eBay.com.au) on which people can 
+buy and sell goods across a wide range of product categories.  
+30. 
+eBay also provides a motoring category, which includes listings for cars (new and 
+used), parts and accessories, motorcycles, collector cars, boats, caravans and other.  
+31. 
+For sellers, eBay provides the ability to list items in various formats, including a fixed 
+period auction, a fixed price sale (‘buy it now’) or a ‘best offer’ format. eBay has grown 
+over time to become a well known and established player in Australia. 
+Gumtree 
+32. 
+eBay acquired Gumtree (gumtree.com.au), another well known multiple category 
+advertising site, in 2005.  
+33. 
+Gumtree offers basic free online classified advertisements. Sellers also have the option 
+to upgrade their free ads to paid advertisements in return for additional listing features. 
+34. 
+Gumtree’s private automotive inventory has grown considerably recently. According to 
+the most recent inventory figures considered by the ACCC as part of its review, it had 
+the highest private seller automotive inventory of any Australian website. Its dealer 
+automotive inventory is far smaller. 
+CarAdvice 
+35. 
+CarAdvice.com.au Pty Ltd (CarAdvice) operates an automotive editorial website 
+(CarAdvice.com.au) that provides car review information to potential new car buyers. It 
+generates revenue from display advertising. 
+36. 
+In 2010, CarAdvice acquired the CarBuddy website (carbuddy.com.au) from Jumbuck 
+Entertainment. The CarBuddy site provides classified advertising for used cars. 
+37. 
+CarAdvice (through CarBuddy) has a smaller share of online automotive classified 
+advertising than any of the four competitors listed above (see market share in Table 2 
+on page 11 for more detail).  
+Other players 
+38. 
+There are a large number of small players in the online automotive classifieds industry. 
+While some of these have been successful in attracting readers and advertisers 
+interested in particular niche or specialty segments of the automotive industry and/or 
+particular geographic areas, none of these players were found to have achieved 
+significant market penetration, nor the ability to impose an effective competitive 
+constraint upon Carsales and Trading Post. 
+
+
+ 
+Page 6 of 17 
+ 
+The proposed transaction 
+39. 
+Under the proposed acquisition, Carsales would acquire the licence to use the Trading 
+Post brand and operate the tradingpost.com.au website for an initial licence period of 
+three years or less. In addition, customer lists and contracts would be transferred to 
+Carsales. Carsales would have the option to acquire the Trading Post brand and 
+related assets at the end of the licence period.  
+40. 
+The Trading Post and Quicksales sites would have aggregated their inventories. 
+However, Carsales’ stated intention was that the Trading Post automotive inventory 
+would not be aggregated to the automotive-specific websites of Carsales, but would 
+rather be carried only on the Trading Post and Quicksales sites.  
+41. 
+Given the significance of the assets proposed to be acquired as part of the initial 
+transaction, the ACCC’s review of the proposed acquisition was conducted as if it were 
+an outright acquisition of the Trading Post business.  
+Review timeline 
+42. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+30 August 2012 
+ 
+ 
+17 September 2012 
+ 
+19 October 2012 
+ 
+ 
+2 November 2012 
+ 
+2 November 2012 
+ 
+ 
+ 
+21 November 2012 
+ 
+ 
+20 December 2012 
+ACCC commenced review under the Merger Review Process 
+Guidelines. 
+ 
+Closing date for submissions from interested parties. 
+ 
+ACCC published a Statement of Issues outlining preliminary 
+competition concerns. 
+ 
+Closing date for submissions relating to Statement of Issues. 
+ 
+ACCC timeline suspended. Carsales requested more time to 
+respond to Statement of Issues. Former decision date of 29 
+November 2012 delayed pending receipt of this information. 
+ 
+ACCC received further information from Carsales. ACCC 
+timeline recommenced. 
+ 
+ACCC announced it would oppose the proposed acquisition. 
+Statement of Issues 
+43. 
+The ACCC published its Statement of Issues on 19 October 2012 identifying a number 
+of competition issues and expressing the preliminary view that the proposed acquisition 
+would likely result in a substantial lessening of competition in relation to online 
+automotive classified advertising because it would: 
+ remove Trading Post as one of the closest and most effective competitors of 
+Carsales; 
+ reduce choice for advertisers by removing a significant competitor with an offer that 
+was attractive to dealers and private advertisers, differing in important ways from 
+the Carsales’ offer;  
+
+
+ 
+Page 7 of 17 
+ 
+ raise barriers to existing competitors expanding as a competitive threat to Carsales, 
+including by reducing their access to inventory and audience, and preventing their 
+entry into any inventory or audience sharing arrangement with Trading Post; and 
+ raise barriers to new entry, through significant increases to Carsales’ inventory and 
+audience that would reinforce the network effects3 that it already enjoys, as well as 
+through brand proliferation that may reduce opportunities for new entrants.  
+44. 
+The Statement of Issues is available on the ACCC’s website at the following address: 
+http://www.accc.gov.au/content/index.phtml/itemId/750995. 
+Market inquiries 
+45. 
+The ACCC conducted market inquiries before and after it published its Statement of 
+Issues, consulting a range of industry participants including automotive dealers, private 
+advertisers, providers of related services to dealers and advertisers, and operators of 
+websites (mainly operators of automotive-related editorial and/or classified advertising 
+websites).  
+46. 
+In response to the ACCC’s initial market inquiries, a large number of industry 
+participants expressed concerns in relation to the effect of the proposed acquisition on 
+competition for online automotive classified advertising. Most concerns were from car 
+dealers and competitors to Carsales and/or the Trading Post. Concerns were also 
+expressed by some private advertisers. 
+47. 
+In response to the ACCC’s post-Statement of Issues market inquiries, the vast majority 
+of market participants who responded, including competitors, car dealers, providers of 
+software, data processing and other services, agreed with the preliminary views 
+expressed by the ACCC in its Statement of Issues and provided further submissions as 
+to the likely competition concerns arising from the proposed acquisition.  
+With/without test 
+48. 
+Section 50 of the Act prohibits mergers or acquisitions that would have the effect or be 
+likely to have the effect of substantially lessening competition in a market. In assessing 
+a proposed acquisition pursuant to section 50 of the Act, the ACCC considers the 
+effects of the acquisition by comparing the likely future competitive environment post-
+acquisition if the acquisition proceeds (the “with” position) to the likely future 
+competitive environment if the acquisition does not proceed (the “without” position) to 
+determine whether the proposed acquisition is likely to substantially lessen competition 
+in any relevant market. 
+49. 
+Absent the proposed acquisition, Telstra would have the option of: 
+ continuing to operate the Trading Post; 
+ shutting down the Trading Post; or 
+ selling or licensing the Trading Post to another party.  
+                                                 
+3 In economics a network effect (also called network externality) is the effect that one user of a good or service 
+has on the value of that product to other people. When network effects are present, the value of a product or 
+service increases with the number of others using it. The classic example is the telephone. The more people 
+own telephones, the more valuable the telephone is to each owner. 
+ 
+
+
+ 
+Page 8 of 17 
+ 
+50. 
+Based upon its assessment of the material before it, the ACCC concluded that it was 
+appropriate to assess the likely competition effects of the proposed acquisition on the 
+basis that, without the acquisition, Telstra or another party independent of Carsales 
+would continue to operate the Trading Post in the foreseeable future. 
+51. 
+The ACCC considered it unlikely that Telstra would close the Trading Post, given that 
+is was a valuable business with a strong brand which was fundamentally attractive to a 
+number of alternative bidders. 
+Market definition 
+52. 
+The ACCC considered the proposed acquisition in the context of the following markets: 
+ the national market for the supply of online automotive classified advertising to 
+dealer (commercial) advertisers; 
+ the national market for the supply of online automotive classified advertising to 
+private advertisers; 
+ the national market for the supply of online general classified advertising; and 
+ the national market for supply of online automotive display advertising. 
+53. 
+Markets for online advertising have particular characteristics in that they serve two 
+distinct customer groups – advertisers, and an audience of potential buyers of the 
+product (or service) being advertised.4 On one side of the market, advertisers interact 
+with a provider (such as Carsales) to acquire online advertising. On the other side of 
+the market, the audience (e.g. potential car buyers) views online advertisements. To 
+succeed, a site must attract both advertisers and audience. 
+Online automotive classified advertising – dealer advertiser market and private 
+advertiser market 
+Product dimension  
+54. 
+The main area of overlap between Carsales and Trading Post is in the supply of online 
+automotive advertising.  
+55. 
+The ACCC found that markets for the supply of online automotive classified advertising 
+to be separate and distinct from other types of classified advertising (e.g. online 
+employment advertising or print classifieds). 
+56. 
+In terms of the two distinct groups of customers for online automotive advertising: car 
+buyers (i.e. the audience) and advertisers using online automotive classifieds, the 
+ACCC’s assessment was that neither of these groups of customers was likely to find 
+print classified to be a close substitute for online classifieds.  
+57. 
+On the supply side of the market (that is, existing and potential providers of online 
+classified advertising websites), the ACCC received information which confirmed that 
+suppliers of other (non-automotive) classifieds could not readily switch into automotive 
+classifieds. Barriers to such switching include the requirement for significant new 
+investment in order to create awareness among car advertisers (and attract an 
+inventory of products for sale) and to attract an audience of potential car buyers. 
+Websites wishing to attract advertising from automotive dealers would also need to 
+invest in certain online tools to meet their needs as set out at paragraph 60 below. 
+                                                 
+4 A market with these characteristics may be referred to as a ‘two-sided market’. 
+
+
+ 
+Page 9 of 17 
+ 
+58. 
+For online automotive classified advertising, there are two distinct groups on the 
+advertising side of the market that are readily identifiable: 
+ dealer advertisers of used and/or new vehicles (dealer advertisers); and 
+ private advertisers of used vehicles (private advertisers). 
+59. 
+In the Statement of Issues, the ACCC raised the possibility that dealer advertisers and 
+private advertisers may constitute separate product markets. The ACCC invited market 
+participants to comment on the ACCC’s preliminary view as to market definition.  
+60. 
+Further information received after the Statement of Issues indicated that dealer 
+advertisers and private advertisers should be considered as separate, but related, 
+markets for the following reasons: 
+ dealer and private advertisers have different needs, and meeting these needs 
+requires differing levels of investment and sophistication for website operators. For 
+instance, in order to successfully attract dealer advertisers a website operator must 
+offer support tools (e.g. car inventory and lead management software applications) 
+to allow dealers to load and manage their inventory for multiple cars. It is also an 
+advantage to have a large sales force and other services as set out at paragraph 
+116.  In contrast, private advertisers tend to sell only one car at a time (every few 
+years) and do not require support tools to manage the sale of one car;  
+ dealer vehicles tend, on average, to be higher value and dealers have a preference 
+for advertising on sites where buyers are more likely to be seeking cars in the 
+relevant price range; and 
+ in order to meet these needs and to maximise their own profits, providers of online 
+automotive advertising sites clearly distinguish between dealer and private 
+advertiser groups, including by offering each of them different price structures and 
+services that are not made available to the other group5.  
+61. 
+Accordingly, the ACCC concluded that the supply of online automotive classified 
+advertising for dealers should be considered as a separate market from the supply of 
+online automotive classified for private advertisers, but it recognised that these markets 
+are closely related. 
+Geographic dimension 
+62. 
+While there were some small online providers that have a niche or stronger presence in 
+particular states, the major online automotive classified providers, including Carsales 
+and Trading Post, operate nationally and allow listing searches for content at a local 
+level. 
+63. 
+Given that market definition is purposive and should highlight the area of competition 
+relevant to the analysis of the acquisition, the ACCC considered the supply of online 
+automotive classified advertising for dealer and private advertisers on a national basis. 
+Other relevant markets 
+The national market for the supply of online general classified advertising 
+64. 
+Another area of overlap between Trading Post and Carsales (through its Quick Sales 
+site) was in online general classified advertising.6 Multiple category sites such as 
+                                                 
+5 In economic terms this may be referred to as ‘price discrimination’. 
+6  For the purposes of this discussion, no distinction is made between general classified advertising and general 
+merchandise sold in online auctions or ‘buy it now’ sales. While such distinctions may be relevant to analysis of 
+
+
+ 
+Page 10 of 17 
+ 
+Trading Post and Quick Sales bring together a number of different advertising 
+categories in the one place. This may help to provide a critical mass of inventory and 
+audience necessary to serve both sides of the market. 
+65. 
+For the purposes of the competition assessment, the ACCC considered a national 
+market for the supply of online general classified advertising, encompassing a range of 
+product categories. The ACCC considered that the degree of competitive constraint 
+imposed by other key participants in this market, including eBay and Gumtree, would 
+be sufficient to constrain Carsales post-acquisition, particularly given that Quicksales 
+has a far smaller market share than these competitors. Accordingly, this market is not 
+considered further in the Public Competition Assessment. 
+The national market for the supply of online automotive display advertising 
+66. 
+A further area in which Trading Post and Carsales compete is the supply of display 
+advertising, particularly to advertisers with an automotive focus. The main acquirers of 
+this advertising are car manufacturers, car insurers and car financiers. 
+67. 
+While Carsales has a strong position in this market, Trading Post was not considered 
+to be a particularly strong competitor, and the ACCC’s market inquiries indicated that 
+advertisers had many other options. 
+68. 
+The ACCC considered that no substantial lessening of competition was likely in this 
+market, and as such it is not considered further in the Public Competition Assessment. 
+Market Concentration 
+69. 
+Market concentration in the markets for online automotive classifieds was an important 
+component of the ACCC’s competition assessment in this matter. This section provides 
+an analysis of market shares in both the dealer and private advertiser markets.  
+70. 
+The nature of these markets is such that there is no single measure that gives a 
+complete picture of the relative shares of each of the competitors. This arises in part 
+because of the need for providers to attract not only advertisers but also audience in 
+order to generate revenue. The figures can also be subject to short term fluctuations for 
+various reasons, including promotions (such as Carsguide’s offer of free 
+advertisements for certain customers following its relaunch, or the Trading Post Good 
+as Gone promotion7), advertising campaigns and other factors.  
+71. 
+As a consequence, in order to obtain a balanced and comprehensive view, the ACCC 
+took into account a range of different time periods and market concentration measures, 
+including: 
+ share of audience – including various measures such as unique browsers, unique 
+audience, page impressions and total time on site; 
+ share of inventory – including the number of dealer and private advertiser 
+automotive classified listings on each site; and 
+ share of revenue – derived mainly from paid advertisements. 
+                                                                                                                                                        
+other transactions, given the lack of competition concern in relation to general merchandise and general 
+classifieds arising from this proposed acquisition, the distinction is not critical to the analysis in this case. 
+7 This promotion offered a guarantee to private advertisers of a full refund for their advertisement if their vehicle 
+was not sold within four weeks. 
+
+
+ 
+Page 11 of 17 
+ 
+Share of Audience  
+72. 
+Audience measures are regularly used by online classified site providers in marketing 
+their sites to advertisers (particularly dealers) and shareholders, and in internal and 
+external (e.g. market analyst) comparisons of performance across online classified 
+websites. Information provided to the ACCC also confirmed that audience measures 
+are used by market participants in analysing the positions of their competitors. 
+73. 
+In its Statement of Issues the ACCC noted various limitations of audience-based 
+measures, including the risk of double counting and in some instances the exclusion of 
+particular competitors such as Gumtree (from all Nielsen data) and eBay (from Nielsen 
+Market Intelligence data). Carsales submitted that audience measures all, in some 
+fashion, suffer from limitations for the purpose of assessing the competition effects of a 
+proposed acquisition. 
+74. 
+Despite their limitations the ACCC considered audience measures (including unique 
+browsers8, unique audience9, user sessions10, page impressions11 and total time on 
+site12) to be an important component of the market share picture13; it is highly relevant 
+for advertisers to know how large an audience they can expect to reach through 
+advertising on a particular website, and for market participants to know this information 
+about their own sites and those of their competitors. 
+75. 
+Table 2 depicts Nielsen Market Intelligence data for a number of online traffic metrics. 
+These figures were also included in the ACCC’s Statement of Issues, which noted a 
+number of limitations of these measures including the fact that they exclude eBay and 
+Gumtree. 
+Table 2: Online traffic metrics - June 2012 
+  
+Unique 
+Browsers 
+User Sessions 
+Page 
+Impressions 
+Total Time on 
+Site 
+Carsales14 
+52% 
+54% 
+84% 
+76% 
+Trading Post 
+11% 
+11% 
+6% 
+11% 
+Drive 
+20% 
+18% 
+5% 
+6% 
+Carsguide 
+10% 
+9% 
+4% 
+3% 
+Car Advice 
+7% 
+8% 
+1% 
+4% 
+Source: Nielsen Online, Market Intelligence, Automotive Information Report, June 2012. 
+                                                 
+8  An estimate of the number of individuals that visit a site in a day based on the number of visits to the site from 
+unique web browsers (using their cookie ID). The main drawback of the Unique Browsers measure is that the 
+same person accessing a site through multiple devices will be counted as multiple unique browsers. This is 
+important when absolute audience figures are relevant (e.g. for display advertisers seeking to compare 
+audience reach across offline and online media) but may be less important for considering the market shares of 
+different sites. 
+9 An estimate of the number of individuals that visit a site in a day based on combining data on Unique Bowsers 
+with data on the website visits of a sample of Australians. This methodology aims to correct some of the issues 
+with ‘double counting’ for the Unique Browsers measure.  
+10 The total number of times a site is accessed during the reported period. When used in conjunction with the 
+unique browsers statistic, this gives an indication of how often visitors return to a website. 
+11 The number of times pages on the site are loaded during the reported period. For example, if a visitor to the 
+site looks at six pages, this will count as six page impressions.  Page impressions give an indication of how 
+compelling users find the content of the site as well as the number of visitors. 
+12 The total amount of time users spent accessing the site over the reported period.  
+13 Other metrics such as sales conversion ratios from leads or ad visits may be a useful indicator of market shares 
+and to some extent competitive strength. However, precise data in a comparable form between companies does 
+not appear to be readily available. 
+14 The metrics provided in relation to Carsales are for its carsales.com.au and carpoint.com.au sites; they do not 
+include its other sites, and accordingly may tend to understate the share of Carsales. 
+
+
+ 
+Page 12 of 17 
+ 
+76. 
+Graph 1 (from a Carsales presentation to its Annual General Meeting on 26 October 
+2012) also depicts User Sessions, Page Impressions and Total Time On Site.  
+77. 
+On these measures Carsales holds a very high share, with 80% of time spent looking 
+at automotive classified sites done on a Carsales owned site. The other competitors 
+shown in the slide are Telstra (Trading Post), Fairfax (Drive) and News (Carsguide). 
+Graph 1: Online traffic metrics - June 2012 
+ 
+Source: Carsales 2012 AGM presentation.15 
+78. 
+Carsales submitted that if audience-based measures were to be taken into account by 
+the ACCC in assessing the competition effects of the proposed acquisition, then the 
+Nielsen Online Ratings measure of ‘unique audience’ data should be used instead of 
+the measures set out in Table 2 because, in Carsales’ submission, unique audience 
+seeks to address some of the limitations of those measures (as noted in footnotes 8 
+and 9). Table 3 provides unique audience shares as submitted by Carsales. 
+Table 3: Unique audience shares for automotive classifieds - October 2012 
+  
+Unique Audience 
+Share of Unique 
+Audience 
+Carsales.com.au 
+1,235,510 
+24.5% 
+Carpoint.com.au 
+(owned by Carsales) 
+248,025 
+4.9% 
+Drive 
+1,153,055 
+22.9% 
+Carsguide 
+779,828 
+15.5% 
+Gumtree 
+764,000 
+15.2% 
+eBay Motors 
+376,449 
+7.5% 
+CarAdvice 
+257,989 
+5.1% 
+Trading Post Auto 
+222,456 
+4.4% 
+Total 
+5,037,312 
+100% 
+                                                 
+15 Carsales presentation, Annual General Meeting, 26 October 2012, viewed 27 May 2013, 
+http://shareholders.carsales.com.au/phoenix.zhtml?c=230809&p=irol-presentations. 
+
+
+ 
+Page 13 of 17 
+ 
+Source: Carsales submission (based on Nielsen Online Ratings and Carsales own estimates). 
+79. 
+Market participants other than Carsales expressed the view that ‘page impressions’ 
+and ‘total time on site’ are highly relevant to measuring the market penetration of 
+various sites with regard to car buyers because each gives an indication of buyer 
+‘engagement’ with a site. A number of market participants submitted that ‘page 
+impressions’ is probably the best single indicator of audience market share. 
+80. 
+The ACCC notes that the audience share figures for both Carsales and Trading Post 
+based on the ‘unique audience’ measure are considerably lower than the equivalent 
+figures using the online traffic metrics in Table 2. The evidence available to the ACCC 
+showed that all of these measures are commonly used in the industry. All have 
+limitations, but also have relevance to the overall assessment when taken into account 
+together with other measures of market concentration and other factors relevant to 
+competition. 
+81. 
+Overall, regardless of measure Carsales has the largest share of audience, followed by 
+Trading Post, Carsguide, Drive, eBay and Gumtree, with the ranking order depending 
+on the metric used. 
+Share of inventory  
+82. 
+The ACCC also considered inventory listings to be a relevant measure for assessing 
+market share, since it provides an indication of how successful a website has been in 
+attracting advertisers to place advertisements on that site, which is an important 
+determinant of the site’s ability to attract audience and ultimately revenue.  
+83. 
+As shown in Table 4, Carsales has the largest share of inventory for dealer advertisers, 
+the second largest share for private advertisers (behind Gumtree), and the largest 
+overall inventory.  
+Table 4: Online car classified listings - November 2012 
+Private 
+Dealer 
+Total 
+Listings 
+Share 
+Listings 
+Share 
+Listings 
+Share 
+Carsales 
+73,497 
+35% 
+154,224 
+37% 
+227,721 
+36% 
+Trading Post 
+9,665 
+5% 
+45,987 
+11% 
+55,652 
+9% 
+Carsguide 
+34,964 
+16% 
+126,678 
+31% 
+161,642 
+26% 
+Drive 
+4,528 
+2% 
+58,735 
+14% 
+63,263 
+10% 
+Gumtree 
+83,270 
+39% 
+15,794 
+4% 
+99,064 
+16% 
+eBay 
+6,304 
+3% 
+11,535 
+3% 
+17,839 
+3% 
+Total 
+212,228 
+100% 
+412,953 
+100% 
+625,181 
+100% 
+Source: Carsales estimates based upon a count of listings on each website. 
+84. 
+As with audience share, a limitation of the inventory share measure is the duplication of 
+inventory; many dealers and some individuals advertise on more than one site (i.e. 
+multi-list). For example, some sellers will list their advertisement on a paid site (e.g. 
+Carsales) and also on a free site (e.g. Gumtree).   
+85. 
+Carsales submitted that inventory measures have a key advantage over audience 
+measures in that they include key competitors and also more accurately reflect the 
+acquisition of classified services by customers. 
+86. 
+While there are various drawbacks to using inventory as a measure of market share, 
+the ACCC considered it a relevant measure, noting that Carsales had a high share, 
+
+
+ 
+Page 14 of 17 
+ 
+especially for automotive dealer listings, and this would increase as a result of the 
+proposed acquisition. 
+Share of revenue  
+87. 
+The ACCC also considered revenue to be a relevant measure for assessing market 
+share, since it provides an indication of how successful a website has been in attracting 
+paying advertisers. 
+88. 
+Carsales submitted that revenue-based market share provides no relevant information 
+because different suppliers of online classified sites have different business models 
+and generate revenue from different sources. 
+89. 
+The ACCC recognises that some suppliers do have different business models. For 
+instance, some suppliers generate most of their revenue from display or banner 
+advertising, rather than direct from classified advertising. 
+90. 
+However, the ACCC considered that revenue figures provide an indication of the 
+success of each website in attracting paying advertisers. In particular, revenue 
+provides an indicator of the ability of providers to charge directly, and the willingness of 
+advertisers to pay, for classified advertisements. 
+91. 
+There are no publicly available figures that compare revenue for all participants in the 
+relevant markets, but based on the information obtained by the ACCC it was clear that 
+Carsales generates the largest share of revenues from car dealer and private 
+advertisers. Trading Post is also a significant player in online automotive classifieds in 
+terms of revenue share. 
+Competition analysis – markets for the supply of online 
+classified advertising – dealer and private advertisers 
+92. 
+The ACCC concluded that the proposed acquisition would be likely to substantially 
+lessen competition in the markets for the supply of online automotive classified 
+advertising, both to dealers and to private advertisers, because:  
+ it would result in the removal of Trading Post as one of the closest and most 
+effective competitors of Carsales, with an offer that is attractive to dealers and 
+private advertisers, differing in important ways from the Carsales offer; and 
+ actual or potential competitors would be unable to impose a sufficient competitive 
+constraint on Carsales to prevent a substantial lessening of competition from 
+arising as a result of the proposed acquisition, including because:  
+ Carsales is already the clear market leader and its inventory and audience 
+positions would be strengthened by the proposed acquisition; 
+ other competitors are limited in their ability to constrain Carsales; they have 
+much smaller audiences, smaller dealer and/or private advertiser inventory 
+and are unable to match aspects of Carsales’ offer, including additional 
+services as outlined at paragraph 116; and 
+ barriers to entry and expansion are already high and would increase as a 
+result of the proposed acquisition, including as a result of network effects 
+and vertical integration. 
+93. 
+The reasons for these findings are set out in the remainder of this section. 
+
+
+ 
+Page 15 of 17 
+ 
+Removal of Trading Post as one of the closest and most effective competitors 
+of Carsales, with a distinct and attractive offer 
+94. 
+Taking into account various measures of market share, confidential information 
+available to the ACCC and submissions from interested parties, the ACCC considered 
+Trading Post to be one of the closest and most effective competitors of Carsales and 
+other market participants.  
+95. 
+In forming this view the ACCC noted that at the time of its assessment Trading Post’s 
+audience and inventory position had declined somewhat over time; before Carsales 
+acquired Carpoint in 2005, Trading Post and Carsales had roughly equal numbers of 
+unique browsers, and since that time Trading Post’s share has fallen as Carsales’ 
+share has grown (see Market Concentration above for more recent figures). In addition 
+to this long term trend, there appeared to be some reduction in Trading Post’s 
+inventory figures over the months preceding the transaction. 
+96. 
+Nevertheless, Trading Post’s share of audience and inventory remained significant. 
+Market shares of key competitors in these markets fluctuate in the short term based 
+upon promotions, advertising, pricing and other factors, While there may be many 
+possible explanations for changes in market shares, market participants considered 
+that reduced promotional and advertising activity by Trading Post as well as increased 
+promotions and reductions in pricing by competitors contributed to this recent decline. 
+97. 
+The ACCC’s assessment did not rely solely on market shares but also took into 
+account the behaviour and offers of competitors in the market. In particular, the 
+ACCC’s inquiries confirmed that Trading Post provided an important alternative that 
+was attractive to customers (both private and dealer advertisers), including those 
+dealers wanting to cease advertising or reduce their advertising spend on Carsales’ 
+sites.  
+Competitive alternative provided by Trading Post 
+98. For dealers, Trading Post offers a subscription-based fee model for a fixed number of 
+inventory listings. Under this model, dealers are able to: 
+ advertise the dealer’s contact details; 
+ promote their dealership brand alongside each car; and  
+ receive phone and email queries direct from potential car buyers. 
+99. The ACCC found that this model is particularly attractive for dealers that want to 
+promote their own brand, as well as those wanting to reduce their marketing spend with 
+Carsales or other site providers. 
+100. In contrast, Carsales and Carsguide operate a ‘lead’ or ‘blind’ model, under which 
+dealers are prevented from displaying dealer branding and contact details alongside 
+their vehicle inventory.  
+101. Trading Post also provides a range of other options to dealers; for example, data 
+distribution (allowing dealers to send listings to other portals), fully managed data (data 
+entry for listing vehicles), photography and a range of other services targeted 
+specifically at dealers. 
+102. Market inquiries also confirmed that Trading Post is an important competitor in seeking 
+to attract private advertisers. It has run a number of promotions and advertising 
+
+
+ 
+Page 16 of 17 
+ 
+campaigns to promote its branding and to build inventory and traffic to the Trading Post 
+site, including the “Good as Gone Guarantee” referred to at paragraph 70. 
+103. Confidential information available to the ACCC also showed that Trading Post is closely 
+monitored by competitors, indicating that they consider it to be an important competitor. 
+Potential inventory sharing or other arrangements involving Trading Post 
+104. Trading Post also provides a potential partner for competitors to Carsales, either 
+through acquisition or through inventory sharing arrangements, which have the 
+potential to improve the competitive position of these sites by taking advantage of 
+network effects. 
+Current or potential competitors are unlikely to impose a sufficient competitive 
+constraint on Carsales following the proposed acquisition 
+105. The ACCC concluded that if the acquisition proceeded, competition from existing 
+market participants would not be sufficient to constrain Carsales. Based on 
+submissions received from market participants, market share figures and other 
+information, the ACCC considered that none of the key players such as Carsguide, 
+Drive, CarAdvice and eBay/Gumtree would impose a sufficiently strong constraint on 
+Carsales to prevent a substantial lessening of competition, post-acquisition. 
+106. For many dealers, Carsales is their primary choice because of the large audience of 
+potential buyers. Alternative providers such as Trading Post are considered to be 
+important as they provide a level of competitive tension, especially for dealers that want 
+to advertise in more than one place or as an alternative to Carsales. 
+107. However, Carsales’ leading position in both inventory and audience, combined with 
+certain features of the relevant markets (including network effects), limits the ability of 
+current and potential competitors to impose a close competitive constraint on Carsales. 
+108. Each of Carsales’ competitors have much smaller audiences, smaller dealer and/or 
+private advertiser inventory and are unable to match aspects of Carsales’ offer, 
+including additional services as outlined at paragraph 116.  
+109. Many of these competitors have struggled to operate profitably, and to the extent that 
+some have attracted greater market share recently, this appears to have been driven in 
+large part by offers of free advertisements rather than success in selling paid 
+advertisements. As noted at paragraph 34, Gumtree’s increase in private advertiser 
+inventory has not translated into significantly increased dealer inventory, in part due to 
+the difficulty of meeting the additional requirements of dealer advertisers (as set out at 
+paragraph 60) and of matching the breadth of the Carsales offer (as described at 
+paragraph 116).  
+110. Further, after taking into account the submissions of market participants and the other 
+information available to it, the ACCC concluded that this lack of a strong constraint from 
+current and potential competitors would be exacerbated by the proposed acquisition for 
+the following reasons. 
+ Barriers to entry and expansion are high  
+111. The ACCC found that there were high barriers to entry and expansion into the relevant 
+markets for the supply of classified advertising.  
+
+
+ 
+Page 17 of 17 
+ 
+112. As indicated earlier, the two sided nature of the markets and the associated network 
+effects have important implications for the nature of competition within the markets as 
+well as barriers to entry and expansion. In markets with network effects, new entrants 
+face difficulties in achieving the necessary ‘critical mass’.  
+113. To overcome barriers arising from network effects, a new entrant would need to spend 
+large amounts on marketing and brand awareness to attract both advertisers and 
+consumers, and even this would not guarantee success. 
+Barriers would increase as a result of the proposed acquisition 
+114. The ACCC found that the proposed acquisition would raise these already high barriers 
+and reinforce the network effects enjoyed by Carsales. In particular, significant 
+inventory and audience would be transferred from Trading Post to Carsales, further 
+increasing its already high share of both. 
+Carsales’ vertical integration further limits the competitive constraint from others 
+115. The advantages that Carsales gains from its vertical integration into the provision of 
+complementary services to car dealers was an important element in this assessment, 
+and the ACCC considered that the proposed acquisition would further strengthen these 
+advantages. 
+116. As described earlier, in addition to advertising, Carsales offers a range of services to 
+car dealers including: 
+ upstream services such as inventory distribution and data standardisation; and 
+ downstream services such as lead management. 
+117. Many dealers utilise one or more of the ancillary services provided by Carsales. 
+Carsales’ provision of these related services increases the costs for dealers of shifting 
+their advertising away from Carsales and means that other providers of online 
+automotive classified are required to negotiate with Carsales for various inputs into their 
+business. 
+118. The ACCC considered that by increasing the share of dealer inventory channelled 
+through the Carsales ‘supply chain’, Carsales would be likely to increase its ability and 
+incentive to engage in strategies that would raise the costs of its rivals for online 
+automotive classified advertising. The ACCC also considered that this factor would 
+reinforce the entry barriers for online automotive classified advertising generated by 
+Carsales’ vertical integration. The ACCC considered that these concerns supported the 
+horizontal competition concerns outlined above.  
+Conclusion 
+119. On the basis of the above, the ACCC formed the view that the proposed acquisition of 
+Trading Post by Carsales would be likely to result in a substantial lessening of 
+competition in the markets for the supply of online automotive classified advertising to 
+dealers and private advertisers in contravention of section 50 of the Act. 

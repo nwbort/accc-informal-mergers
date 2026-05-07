@@ -1,0 +1,54 @@
+{
+  "id": "0553",
+  "title": "Ramsay Health Care Limited - proposed acquisition of greenfield site in Kawana on the Sunshine Coast in Qld",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ramsay-health-care-limited-proposed-acquisition-of-greenfield-site-in-kawana-on-the-sunshine-coast-in-qld",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43989",
+  "industries": [
+    "Hospital"
+  ],
+  "date_completed": "1 February 2011",
+  "date_completed_iso": "2011-02-01T12:00:00Z",
+  "date_commenced": "18 November 2010",
+  "date_commenced_iso": "2010-11-18T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Ramsay Health Care Limited"
+  ],
+  "targets": [
+    "greenfield site in Kawana on the Sunshine Coast in Qld"
+  ],
+  "timeline": [
+    {
+      "date": "18 Nov 2010",
+      "date_iso": "2010-11-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Dec 2010",
+      "date_iso": "2010-12-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Dec 2010",
+      "date_iso": "2010-12-21T12:00:00Z",
+      "event": "ACCC requested further information from Ramsay. ACCC timeline suspended."
+    },
+    {
+      "date": "17 Jan 2011",
+      "date_iso": "2011-01-17T12:00:00Z",
+      "event": "ACCC received further information from Ramsay. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Feb 2011",
+      "date_iso": "2011-02-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Ramsay is bidding for a contract from the Queensland Government to build and operate a private hospital on a greenfield site in Kawana on the Sunshine Coast in Queensland.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of: - the market for the supply of private hospital services to health funds and the Department of Veterans Affairs (DVA) in the Sunshine Coast and the surrounding region; and - the market for the supply of private hospital services to patients in the Sunshine Coast and the surrounding region.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets when compared to the relevant counterfactual. Key factors informing this conclusion included: - the presence of alternative private hospital operators in the Sunshine Coast and the surrounding region, in particular the Sunshine Coast Private Hospital operated by UnitingCare Health, that would continue to provide competitive constraint on Ramsay post-acquisition; - the proposed acquisition was unlikely to substantially strengthen Ramsay's bargaining power in negotiations with health funds and the DVA."
+  }
+}

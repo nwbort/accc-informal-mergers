@@ -1,0 +1,32 @@
+{
+  "id": "1514",
+  "title": "Acquirer: Coca Cola Amatil Ltd; Target: Berri Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coca-cola-amatil-ltd-target-berri-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17941",
+  "industries": [],
+  "date_completed": "25 November 2003",
+  "date_completed_iso": "2003-11-25T12:00:00Z",
+  "date_commenced": "3 July 2003",
+  "date_commenced_iso": "2003-07-03T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coca Cola Amatil Ltd"
+  ],
+  "targets": [
+    "Berri Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "The Commission considered the proposed acquisition of Berri Limited by Coca-Cola Amatil Limited",
+    "Market definition": "The relevant markets were considered to be the separate national markets for the manufacture and wholesale supply of carbonated soft drink (CSD) and the manufacture and wholesale supply of chilled and ambient fruit juice and fruit drink (FB).",
+    "Competition analysis": "[The following is a summary of the Commission's competition assessment which can be obtained from the Commission's website at www.accc.gov.au] The Commission considered the proposed acquisition would substantially lessen competition in the national market for FB for the following reasons: (i)\tCSD and FB are complementary products; (ii)\tCCA possesses market power in the national market for CSD; (iii)\tCCA would have the ability and incentive to leverage its market power in CSD to increase distribution of Berri's FB product to the exclusion of rivals in the non-grocery trade channels; (iv)\tNon-grocery retailers would have commercial incentives to bundle Berri's FB products with CCA's existing portfolio of beverages themselves; (v)\tThe merged firm would gain significant cost savings from the likely effects of the proposed acquisition; (vi)\tThe combined effect of the above would: foreclose a substantial amount of the non-grocery channel to competing FB suppliers; raise rivals' costs; and lead to the exit of a number of of competitors ; (vii)\tImports are unlikely to provide a competitive constraint upon the merged firm; (viii)\tThe proposed acquisition would be likely to substantially raise structural and strategic barriers to entry and expansion; and (ix)\tIt is unlikely that customers of the merged firm would have any significant ability to by-pass the merged firm due to the brand strength of Coca-Cola and its use by retailers  as a 'traffic builder'. CCA proposed section 87B undertakings to alleviate the Commission's competition concerns. However, the Commission considered that the proposed undertakings, and behavioural undertakings generally, would be insufficient to adequately resolve all the competition concerns that would be raised by the proposed acquisition. Firstly, it was considered highly unlikely that undertakings could be framed so as to capture all existing and potential conduct by the merged firm that would have the effect of linking Berri's fruit juice products to CCA's soft drink products. The Commission considered that, even if this were possible, the likely form of the undertakings would be so complex and prohibitive so as to be unworkable in operation, unduly interfering in the competitive process and inflexible to market changes. This would be particularly so given the very large number of retail outlets affected by the undertakings. The behavioural undertakings also could not adequately address the structural market changes arising from the proposed acquisition, including the incentives for retailers to purchase a bundle of beverages from CCA to the exclusion of other fruit juice suppliers. The Commission further considered that, in view of these incentives of both CCA and non-grocery retailers, monitoring and potential enforcement of the undertakings may not be effective. These incentives would also have significantly hampered monitoring of the undertakings by competitors to the merged firm and their attempts to seek redress pursuant to the undertakings. Accordingly, the Commission considered that the proposed acquisition would have the effect, or be likely to have the effect of substantially lessening competition in the national market for the manufacture and wholesale supply of chilled and ambient fruit juice and fruit drink, resulting in a breach of section 50 of the Trade Practices Act.",
+    "Resolution": "Withdrawn",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "2181"
+  }
+}

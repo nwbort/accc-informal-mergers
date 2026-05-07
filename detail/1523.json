@@ -1,0 +1,31 @@
+{
+  "id": "1523",
+  "title": "Acquirer: National Foods Ltd; Target: Bonlac Foods Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-national-foods-ltd-target-bonlac-foods-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18210",
+  "industries": [],
+  "date_completed": "23 September 2003",
+  "date_completed_iso": "2003-09-23T12:00:00Z",
+  "date_commenced": "13 August 2003",
+  "date_commenced_iso": "2003-08-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "National Foods Ltd"
+  ],
+  "targets": [
+    "Bonlac Foods Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 4 August 2003, National Foods announced its intention to acquire Bonlac's UHT plant located at Cobden, Victoria.  The UHT process creates long life milk and this particular plant produces UHT flavoured milk.",
+    "Market definition": "The market for the production and wholesale supply of flavoured milk beverages on a state basis.",
+    "Competition analysis": "The main area of competitive overlap between the Bonlac UHT plant and National Foods is in the supply of flavoured milk. The Commission undertook extensive market inquiries into this proposed acquisition. The proposed acquisition did cross the Commission's concentration thresholds for the exercise of combined market power in all states with the exception of Queensland and New South Wales.  However, during the course of market inquiries little concern was expressed regarding the competitive impact of the proposed acquisition.  There will be a negligible impact on market shares as a result of this acquisition, particularly whilst National Foods is under contract to continue production and packing for Nestle and Cadbury.  National Foods will continue to face a degree of countervailing power from supermarkets and impulse beverage producers.  In addition, other impulse beverages, such as carbonated drinks, juice, packaged water and sports drinks are likely to act as a competitive constraint on the acquirer. On the basis of the above reasons, the Commission decided that it would be unlikely that this transaction would result in a substantial lessening of competition and decided that it would not intervene in this transaction.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "No",
+    "Initiation": "Complaint",
+    "ANZSIC code": "2121"
+  }
+}

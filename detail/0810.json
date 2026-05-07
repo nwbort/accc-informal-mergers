@@ -1,0 +1,44 @@
+{
+  "id": "0810",
+  "title": "AGL Energy Limited - proposed acquisition of Sydney Gas Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-energy-limited-proposed-acquisition-of-sydney-gas-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36060",
+  "industries": [
+    "Coal seam gas"
+  ],
+  "date_completed": "22 January 2009",
+  "date_completed_iso": "2009-01-22T12:00:00Z",
+  "date_commenced": "24 December 2008",
+  "date_commenced_iso": "2008-12-24T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "AGL Energy Limited"
+  ],
+  "targets": [
+    "Sydney Gas Limited"
+  ],
+  "timeline": [
+    {
+      "date": "24 Dec 2008",
+      "date_iso": "2008-12-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Jan 2009",
+      "date_iso": "2009-01-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jan 2009",
+      "date_iso": "2009-01-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 24 December 2008, AGL Energy Ltd announced a bid to acquire all of the issued shares in Sydney Gas Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in terms of the markets for the exploration, production, wholesale supply and retail supply of gas in New South Wales and on the eastern seaboard of Australia.  However, the ACCC did not consider market definition to be determinative in conducting the competition analysis for this matter.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Relevant factors considered by the ACCC included the level of horizontal aggregation and the number of competitors remaining in the relevant markets post-acquisition."
+  }
+}

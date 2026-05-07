@@ -1,0 +1,44 @@
+{
+  "id": "1045",
+  "title": "QBE Insurance (Australia) Limited - acquisition of option to purchase certain assets of First Professional Underwriting Agency Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/qbe-insurance-australia-limited-acquisition-of-option-to-purchase-certain-assets-of-first-professional-underwriting-agency-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28607",
+  "industries": [
+    "General Insurance"
+  ],
+  "date_completed": "29 August 2007",
+  "date_completed_iso": "2007-08-29T12:00:00Z",
+  "date_commenced": "21 August 2007",
+  "date_commenced_iso": "2007-08-21T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "QBE Insurance (Australia) Limited"
+  ],
+  "targets": [
+    "option to purchase certain assets of First Professional Underwriting Agency Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Aug 2007",
+      "date_iso": "2007-08-21T12:00:00Z",
+      "event": "ACCC became aware of the public announcement of the completed acquisition. Informal review under the Merger Review Process Guidelines commences."
+    },
+    {
+      "date": "24 Aug 2007",
+      "date_iso": "2007-08-24T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "29 Aug 2007",
+      "date_iso": "2007-08-29T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "QBE Insurance (Australia) Ltd acquired an option to purchase certain assets of First Professional Underwriting Agency Pty Limited.  The assets include plant and equipment, records, intellectual property and renewal rights to policies (including commission).",
+    "Market definition": "The ACCC considered the acquisition in the context of the national market for the distribution of commercial insurance to brokers and end-consumers.",
+    "Competition analysis": "On 29 August 2007, the ACCC decided to not intervene in the acquisition. The ACCC considered that the acquisition is unlikely to substantially lessen competition in the national market for the distribution of commercial insurance to brokers and end-consumers because the acquisition is unlikely to result in significant consolidation within the relevant market.  Further, there would remain numerous alternative underwriting agencies to which end-consumers and commercial insurance manufacturers could turn.  In light of the above, the acquisition is also considered unlikely to raise vertical integration concerns."
+  }
+}

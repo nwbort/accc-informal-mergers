@@ -1,0 +1,26 @@
+{
+  "id": "1332",
+  "title": "Lion Nathan Ltd - proposed acquisition of Coopers Brewery Limited.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lion-nathan-ltd-proposed-acquisition-of-coopers-brewery-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21477",
+  "industries": [
+    "Beer production"
+  ],
+  "date_completed": "5 December 2005",
+  "date_completed_iso": "2005-12-05T12:00:00Z",
+  "date_commenced": "26 September 2005",
+  "date_commenced_iso": "2005-09-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Market definition": "See Public Competition Assessment below for market definition",
+    "Competition analysis": "See Public Competition Assessment below for competition analysis",
+    "Merger type": "Horizontal",
+    "Initiation": "Parties",
+    "Public competition assessment": "Public competition assessment ( PDF 110.7 KB )"
+  }
+}

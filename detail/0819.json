@@ -1,0 +1,44 @@
+{
+  "id": "0819",
+  "title": "Protector Glass Industries Pty Ltd - proposed acquisition of Southern Cross Auto Glass Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/protector-glass-industries-pty-ltd-proposed-acquisition-of-southern-cross-auto-glass-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "35668",
+  "industries": [
+    "Automotive Glass Industry"
+  ],
+  "date_completed": "19 December 2008",
+  "date_completed_iso": "2008-12-19T12:00:00Z",
+  "date_commenced": "11 December 2008",
+  "date_commenced_iso": "2008-12-11T12:00:00Z",
+  "total_review_days": 7,
+  "acquirers": [
+    "Protector Glass Industries Pty Ltd"
+  ],
+  "targets": [
+    "Southern Cross Auto Glass Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "11 Dec 2008",
+      "date_iso": "2008-12-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Dec 2008",
+      "date_iso": "2008-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Dec 2008",
+      "date_iso": "2008-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Protector Glass Industries Pty Ltd proposes to acquire the business assets of Southern Cross Auto Glass Pty Ltd.",
+    "Market definition": "The ACCC assessed the proposed acquisition in terms of the New South Wales market for the wholesale supply of automotive glass.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant market. Factors informing this conclusion included the competitive constraint provided by existing alternative suppliers of automotive glass and the existence of relatively low barriers to entry and expansion to automotive glass supply."
+  }
+}

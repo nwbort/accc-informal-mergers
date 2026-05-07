@@ -1,0 +1,31 @@
+{
+  "id": "1542",
+  "title": "Acquirer: Coles Myer Limited; Target: Shopfast",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-coles-myer-limited-target-shopfast",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17800",
+  "industries": [],
+  "date_completed": "3 July 2003",
+  "date_completed_iso": "2003-07-03T12:00:00Z",
+  "date_commenced": "21 May 2003",
+  "date_commenced_iso": "2003-05-21T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Coles Myer Limited"
+  ],
+  "targets": [
+    "Shopfast"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 20 May 2003, the Commission became aware through media reports of the acquisition of Shopfast to Coles Myer Ltd.  Shopfast operates an online grocery business in Sydney, primarily in the Sydney metropolitan area.",
+    "Market definition": "The Commission did not define a market for the purpose of analysis of this transaction but have considered the effect on competition for groceries in the Sydney metropolitan area.",
+    "Competition analysis": "The Commission conducted market inquiries with other online grocery retailers, grocery retailers and interest groups. On 3 July 2003, the Commission concluded that the small incremental increase in Coles' market share was unlikely to cross the Commission's concentration thresholds for the exercise of market power.  Therefore, the Commission decided not to intervene in this transaction.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Press",
+    "ANZSIC code": "5129"
+  }
+}

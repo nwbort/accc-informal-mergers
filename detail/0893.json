@@ -1,0 +1,54 @@
+{
+  "id": "0893",
+  "title": "Arctic Capital Limited - proposed acquisition involving Living and Leisure Australia Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/arctic-capital-limited-proposed-acquisition-involving-living-and-leisure-australia-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32175",
+  "industries": [
+    "Leisure and tourism (skiing)"
+  ],
+  "date_completed": "22 July 2008",
+  "date_completed_iso": "2008-07-22T12:00:00Z",
+  "date_commenced": "2 June 2008",
+  "date_commenced_iso": "2008-06-02T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Arctic Capital Limited"
+  ],
+  "targets": [
+    "Living and Leisure Australia Group"
+  ],
+  "timeline": [
+    {
+      "date": "2 Jun 2008",
+      "date_iso": "2008-06-02T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "4 Jun 2008",
+      "date_iso": "2008-06-04T12:00:00Z",
+      "event": "ACCC requested further information from Arctic Capital. ACCC timeline suspended."
+    },
+    {
+      "date": "20 Jun 2008",
+      "date_iso": "2008-06-20T12:00:00Z",
+      "event": "ACCC received further information from Arctic Capital. ACCC timeline recommenced."
+    },
+    {
+      "date": "8 Jul 2008",
+      "date_iso": "2008-07-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "22 Jul 2008",
+      "date_iso": "2008-07-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Living and Leisure Australia (LLA) announced a recapitalisation of its business. As part of this process, a fund advised by Arctic Capital proposed to acquire certain assets of, and interests in, LLA, including debt and the LLA group's responsible entity. Arctic Capital's parent company, Consolidated Press Holdings, held an interest in the Perisher Blue ski resort in NSW, while LLA held interests in the Falls Creek and Mount Hotham ski resorts in Victoria.",
+    "Market definition": "Without reaching a definitive view, the ACCC considered that, for the purposes of this matter, the relevant market was likely to include mainland Australian skiing destinations, acknowledging though that the five major Australian ski resorts were likely to be much closer substitutes for each other than smaller Australian resorts. Intrastate destinations were also likely to be closer substitutes for each other than interstate destinations.",
+    "Competition analysis": "The ACCC considered that close, intrastate competitors to the merged entity would remain post-merger. The parties noted that overseas destinations, particularly New Zealand, as well as the smaller Australian destinations would be competitors to the merged entity. The ACCC considered that these alternatives would provide a small degree of competition to the merged entity. The ACCC therefore considered that the proposed transaction would be unlikely to substantially lessen competition."
+  }
+}

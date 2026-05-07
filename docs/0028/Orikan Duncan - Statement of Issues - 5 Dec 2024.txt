@@ -1,0 +1,679 @@
+Page 1 of 13 
+ 
+Statement of Issues 
+5 December 2024 
+Orikan Group Pty Ltd - proposed acquisition of 
+Duncan Technologies Pty Ltd 
+Purpose 
+1. 
+Orikan Group Pty Ltd (Orikan) proposes to acquire all of the shares of Duncan 
+Technologies Pty Ltd (Duncan) (together, the Parties) (the Proposed Acquisition).  
+2. 
+This Statement of Issues: 
+• 
+gives the Australian Competition and Consumer Commission’s (ACCC) preliminary 
+views on competition issues arising from the Proposed Acquisition 
+• 
+identifies areas of further inquiry, and 
+• 
+invites interested parties to submit comments and information to assist our 
+assessment of the issues. 
+3. 
+Statements of Issues do not refer to confidential information provided by the parties or 
+other market participants and therefore may not fully articulate the ACCC’s preliminary 
+position. 
+Overview of ACCC’s preliminary views 
+4. 
+In considering the Proposed Acquisition, the ACCC applies the legal test set out in 
+section 50 of the Competition and Consumer Act 2010 (the CCA). In general terms, 
+section 50 prohibits acquisitions that would have the effect, or be likely to have the 
+effect, of substantially lessening competition in any market. 
+5. 
+The ACCC divides its preliminary views into three categories: 'issues of concern', 
+'issues that may raise concerns' and ‘issues unlikely to raise concerns’. In this 
+Statement of Issues there are two ‘issues of concern’.  
+6. 
+The ACCC’s preliminary view is that the Proposed Acquisition is likely to:  
+• 
+substantially lessen competition in the following on-street parking services in 
+Australia, by removing Duncan as an effective competitor to Orikan in the supply 
+of: 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 2 of 13 
+o end-to-end on-street parking solutions 
+o on-street parking meters, a key standalone on-street parking service, and   
+o enforcement and infringement systems, another key standalone on-street 
+parking service, and   
+• 
+substantially lessen competition in the supply of on-street parking apps, 
+Automated Number Plate Recognition (ANPR) and parking sensors, through 
+providing the merged entity with the ability and incentive to foreclose rival 
+suppliers by preventing or frustrating integration of third-party products or services 
+with the merged entity’s central management systems (CMS).  
+Making a submission 
+7. 
+The ACCC invites submissions from interested parties on the issues identified in this 
+statement of issues. 
+8. 
+Interested parties should provide submissions by 5pm on 19 December 2024. 
+Responses may be emailed to mergers@accc.gov.au with the title: Submission re: 
+Orikan/Duncan. If you would like to discuss the matter with ACCC staff or have any 
+questions about this Statement of Issues, please email mergers@accc.gov.au.  
+9. 
+The ACCC anticipates making a final decision on 13 March 2025, however, this 
+timeline can change. To keep up with possible timing changes and to find relevant 
+documents, interested parties should visit the Mergers Register on the ACCC's website 
+at www.accc.gov.au/publicregisters/mergers-registers/public-informal-merger-
+reviews. 
+Confidentiality of submissions 
+10. 
+The ACCC will not publish submissions regarding the Proposed Acquisition. The ACCC 
+will not disclose submissions to third parties (except its advisors/consultants) unless 
+compelled by law (for example, under freedom of information legislation or during 
+court proceedings) or in accordance with s155AAA of the CCA. Where the ACCC is 
+required to disclose confidential information, the ACCC will notify you in advance 
+where possible so that you may have an opportunity to be heard. Therefore, please 
+identify any confidential information that is provided to the ACCC. The ACCC’s Informal 
+Merger Review Process Guidelines contain more information on confidentiality. 
+About ACCC ‘Statements of Issues’ 
+11. 
+A Statement of Issues is not a final decision about a proposed acquisition. A 
+Statement of Issues outlines the ACCC’s preliminary views and identifies further lines 
+of inquiry. 
+12. 
+A Statement of Issues provides an opportunity for all interested parties (including 
+purchasers, competitors, shareholders and other stakeholders) to ascertain and 
+consider the primary issues identified by the ACCC. It is also intended to provide the 
+merger parties and other interested parties with the basis for making further 
+submissions should they consider it necessary. 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 3 of 13 
+Industry background 
+Off-street parking services  
+13. 
+The ACCC’s assessment to date has focussed on the impact of the acquisition on “on-
+street” parking services. The ACCC considers that Orikan and Duncan do not closely 
+compete in off-street parking services, such as those offered in shopping centres and 
+in multi-story buildings with gated entry and exit points). Market feedback also 
+indicates that there are distinct differences in the type of customers serviced, for 
+example differences between municipal councils compared to shopping malls and 
+other commercial premises in terms of the services used and the competitive 
+conditions.  
+On-street parking services 
+14. 
+On-street parking services refers to a range of products and services used to manage 
+on-street parking, including parking meters, parking meter maintenance services, 
+payment services, enforcement and infringement systems, sensors, ANPR, parking 
+apps and analytics. 
+15. 
+On-street parking services can be supplied as an end-to-end parking solution or 
+acquired as standalone services which the customer combines with other components 
+to form an integrated parking solution.  
+16. 
+Integration describes the process of enabling different standalone parking services to 
+work with each other. Integration primarily involves ensuring that the data captured and 
+recorded by standalone services can be accessed and read or processed by other 
+services. For example, an integrated parking solution enables data from sensors and 
+ANPR devices and payment data (including via physical parking meters or mobile 
+phone payment applications) to be used for issuing infringement notices (including 
+through automated technologies or handheld devices used by parking inspectors).  
+17. 
+The CMS manages the data of an integrated parking solution related to parking (e.g. 
+the location of the parking spot, the time the driver arrived and left), payments (fees 
+paid through a meter or parking app) and infringements (e.g. instances where the driver 
+overstayed or was parked illegally). The CMS therefore enables local councils’ parking 
+enforcement staff to access parking site information in real time and issue parking 
+infringements.  
+18. 
+Depending on customer requirements, the CMS is typically provided by the meter 
+supplier alongside meter hardware (Parking CMS) and/or as part of the enforcement 
+and infringement system. The CMS is the primary hub which can facilitate integration 
+with third-party products to form an integrated parking solution (see Figure 1 below). 
+Both Duncan and Orikan operate a CMS.  
+ 
+ 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 4 of 13 
+Figure 1 – The role of CMS in an integrated parking solution 
+ 
+Customers of on-street parking services 
+19. 
+Orikan and Duncan primarily compete in the supply of on-street parking services. 
+20. 
+The key customers of on-street parking services are local councils. Local councils 
+typically acquire on-street parking services through competitive procurement 
+processes, generally through open tenders. Across Australia, local councils differ 
+greatly in terms of their area size, population density, visitation levels and urban 
+landscape – all of which influence their demand for on-street parking services.  
+21. 
+Some local councils prefer to acquire end-to-end on-street parking solutions through a 
+single procurement process. In these cases, local councils may allow suppliers to 
+respond to a request for tender with either a complete end-to-end solution or partial 
+solution. Alternatively, local councils can issue separate tenders for individual 
+standalone components and ask suppliers to demonstrate how they will integrate their 
+services with those of local councils’ other suppliers. 
+22. 
+Market feedback suggests that on-street parking services generally fall into one of 
+three main categories: 
+• 
+on-street technology and equipment, which includes parking meters, digital signage 
+and guidance, parking sensors and ANPR technology 
+• 
+enforcement and infringement systems, comprising the digital products and 
+systems used to issue infringement notices and manage parking enforcement. 
+This category includes field devices used by parking inspectors, the software on 
+those devices, permit management, analytics (performance and financial 
+dashboards), parking ticket lifecycle management and back-office payment 
+channels, and 
+• 
+parking apps, including pay-by-phone applications and digital permits. 
+23. 
+Local councils consider a range of factors when evaluating responses to competitive 
+procurement processes and awarding contracts. Key criteria include price, technology 
+offered, product features, ability to integrate with other on-street parking services or IT 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 5 of 13 
+systems used by the local councils, the supplier’s capability and reputation, and 
+existing relationships between the local councils and the supplier.  
+Physical parking meters 
+24. 
+Market feedback suggests the number of physical parking meters is likely to decline 
+over time as consumers increasingly pay for parking using digital payment services.1 
+Some local councils have already begun the process of rationalising the number of 
+physical parking meters. Despite this, most market participants expect parking meters 
+will remain an important feature of on-street parking services in the future since some 
+consumers face barriers to pay digitally through a smartphone or similar device.  
+The Proposed Acquisition and the Parties  
+25. 
+Orikan proposes to acquire 100% of issued capital of Duncan. Orikan and Duncan both 
+supply end-to-end integrated on-street parking services in Australia. Their respective 
+offering is summarised in Table 1 below.  
+Table 1 – On-street parking services offered by both Orikan and Duncan 
+Parking solution 
+Orikan 
+Duncan 
+End-to-end  
+√ 
+√ 
+Parking meters (including parking CMS) 
+√ 
+√ 
+Enforcement and infringements (including CMS) 
+√ 
+√ 
+Apps 
+√ 
+(re-seller) 
+Sensors 
+√ 
+(re-seller) 
+Automated Number Plate Recognition (ANPR)  
+√ 
+(re-seller) 
+26. 
+Market feedback is that Orikan and Duncan are the two largest suppliers of end-to-end 
+on-street parking solutions in Australia, and they also compete closely in the supply of 
+on-street parking meters and enforcement and infringement systems.  
+Other industry participants 
+27. 
+Suppliers of end-to-end on-street parking solutions in Australia other than Orikan and 
+Duncan include: 
+• 
+Flowbird, an OEM supplier of Cale and Parkeon parking components, has an 
+Australian presence, and historically has had two resellers in Australia (Australian 
+Parking and Revenue Control (APARC), which supplies the ‘Parkeon’ brand, and 
+Peritus Technology (Peritus), which supplies Flowbird’s ‘Cale’ brand2) 
+• 
+Arthur D. Riley (AD Riley), a New Zealand based company with an Australian 
+presence, and  
+ 
+ 
+1 ‘Digital payment solutions’ includes applications on mobile devices, other emerging technologies such as ‘virtual 
+parking meters’ (i.e. sign mounted public iPads which can facilitate card or phone payments), and radiofrequency 
+identification (RFID) chips embedded in vehicles. 
+2 Peritus also supplies parking meters from Blinkay Mobility to Horsham Shire Council. 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 6 of 13 
+• 
+Smarter City Solutions, a supplier of end-to-end parking solutions and reseller of 
+Orikan meters. 
+28. 
+Suppliers of standalone services are present in enforcement and infringements 
+(including AeroRanger, Billing Bureau, Schweers and Smart Parking), parking apps 
+(including EasyPark and UbiPark), sensors (including Vehicle Management Systems 
+(VMS)), and ANPR (including AeroRanger, Genetech and SenSen).  
+29. 
+Suppliers of standalone services typically focus on trying to become ‘best in breed’ in 
+their specific product. They compete with end-to-end integrated suppliers by forming 
+arrangements with other suppliers that offer complementary parking solutions, or by 
+integrating their products with the CMS and/or enforcement system chosen by a 
+customer. 
+Market definition  
+Geographic dimension 
+30. 
+The ACCC’s preliminary view is that the appropriate geographic dimension for the 
+markets is national.  
+31. 
+While local councils require the on-street parking solutions to be delivered to, installed, 
+and/or serviced within their local jurisdiction, suppliers from anywhere within Australia 
+respond to (and win) local councils’ tenders. While suppliers benefit from having a local 
+presence in Australia, there appears to be no distinct advantage for suppliers being 
+located within the same region or state as the customer or already having a contract in 
+that region or state. 
+Product dimension 
+32. 
+The ACCC has not formed a concluded view on the dimensions of the relevant product 
+market(s).  
+33. 
+The ACCC’s preliminary view is that there are likely to be markets for:  
+• 
+the supply of integrated, end-to-end on-street parking solutions, and 
+• 
+the supply of each product/service that is a component of an on-street parking 
+solution, including (but not limited to)3:  
+o parking meters 
+o parking sensors 
+o ANPR  
+o enforcement and infringement systems, and 
+o parking apps. 
+ 
+ 
+3 The ACCC is aware of other components of a parking solution could also comprise product markets, such as 
+cameras, however these have not been included since they are not likely to be affected by the Proposed Acquisition.  
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 7 of 13 
+34. 
+The ACCC’s preliminary view reflects both supply and demand considerations. On the 
+demand side: 
+• 
+The needs and procurement strategies of local councils differ depending on the 
+requirements of the council. In some instances, due to prior capital investment and 
+timing considerations, it may only be necessary or efficient for councils to tender 
+for a specific component of a parking service. In other cases (for example when a 
+council wishes to install an entirely new system) it may be materially more cost 
+effective for council to tender for the full end-to-end package, and it is unlikely that 
+modular tendering would provide a competitively priced alternative.  
+• 
+Different components of a parking solution perform different functions and are 
+generally not interchangeable (i.e. parking sensors play a very different role from 
+parking apps). 
+35. 
+On the supply side, there is limited substitution between the supply of the various 
+components of an on-street parking services from standalone suppliers, however there 
+is a degree of one-way substitutability between end-to-end on-street parking solutions 
+and the individual components:  
+• 
+A standalone supplier of one parking service cannot easily switch to supplying 
+another service, because the technology, expertise and inputs required to supply, 
+install and service individual components of on-street parking solutions are very 
+different.  
+• 
+A standalone supplier of one parking service cannot easily switch to supplying an 
+end-to-end on-street parking solution, however they can partner with (or re-sell the 
+parking services of) other standalone suppliers and bid for contracts with local 
+governments as consortia.  
+• 
+An end-to-end supplier can (and typically would) supply individual standalone on-
+street parking services to meet the specific needs of a local council.  
+36. 
+The ACCC invites submissions from interested parties on the matters identified in this 
+statement of issues. 
+Questions for market participants 
+The ACCC invites comments from market participants to inform its views on the 
+relevant market(s), including: 
+• 
+the extent to which suppliers of on-street parking services focus on certain 
+geographic areas 
+• 
+the factors local councils consider when determining how to structure their 
+tenders, such as whether to acquire end-to-end parking solutions or to integrate 
+products/services from multiple suppliers 
+• 
+the factors which suppliers of on-street parking services consider when deciding 
+whether to contest procurement processes 
+• 
+the extent to which suppliers of standalone on-street parking services can contest 
+competitive procurement processes for the supply of end-to-end on-street parking 
+solutions, such as by forming consortia to submit a joint bid 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 8 of 13 
+• 
+the extent to which parking meters and parking apps are close substitutes, and 
+• 
+the likely timeframe for rationalisation or removal of physical parking meters in 
+favour of digital payment solutions in Australia or in particular geographic areas of 
+Australia. 
+Issue of concern: substantial lessening of competition in the 
+supply of on-street parking services in Australia 
+37. 
+The ACCC’s preliminary view is that the Proposed Acquisition is likely to have the effect 
+of substantially lessening competition the supply of the following services in Australia, 
+by removing Duncan as an effective competitor to Orikan in the supply of: 
+• 
+end-to-end on-street parking solutions in Australia 
+• 
+on-street parking meters as a standalone on-street parking service, and  
+• 
+on-street enforcement and infringement systems as a standalone on-street 
+parking service. 
+38. 
+Market feedback is that Orikan and Duncan are the two largest suppliers of end-to-end 
+on-street parking solutions in Australia. Orikan and Duncan regularly contest the same 
+competitive procurement processes and are often among the shortlist of suppliers that 
+local councils consider capable of delivering end-to-end on-street parking solutions.  
+39. 
+Market feedback also suggests that Orikan and Duncan also compete closely in the 
+supply of on-street parking meters and enforcement and infringement systems. 
+40. 
+The ACCC is concerned that the Proposed Acquisition will remove the competitive 
+constraint on Orikan by Duncan, which is likely to result in less competitive tender 
+responses for customers in terms of price and service levels. 
+41. 
+There are a small number of alternative providers of the relevant services, namely: 
+• 
+suppliers of end-to-end on-street parking solutions, Flowbird (and its resellers), AD 
+Riley and Smarter City, which also supply on-street parking meters and on-street 
+enforcement and infringement systems, and  
+• 
+in the supply of standalone on-street enforcement and infringement systems, there 
+are a number of smaller standalone suppliers such as AeroRanger, Billing Bureau, 
+Schweers and Smart Parking. 
+42. 
+Other suppliers are unlikely to provide a meaningful competitive constraint following 
+the Proposed Acquisition.  
+43. 
+Despite regularly contesting local councils’ competitive procurement processes 
+against Orikan and/or Duncan, none of these suppliers have secured significant shares 
+of the addressable markets relative to Orikan and Duncan. Several of these suppliers 
+are present in only one or very few contracts. Accordingly, they are unlikely to present a 
+strong constraint on the merged entity following the proposed acquisition.  
+ 
+ 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 9 of 13 
+Barriers to entry and expansion 
+44. 
+The ACCC considers that there are significant barriers to entry and expansion in end-to-
+end on-street parking solutions, standalone on-street parking meters and/or on-street 
+enforcement and infringement systems. 
+45. 
+Barriers specific to the supply of end-to-end on-street parking solutions include the 
+costs associated with a supplier establishing or expanding their product range. New 
+entrants, or suppliers of standalone on-street parking services, may partner with or 
+acquire other standalone suppliers to complement their product range. In this scenario, 
+the ability to offer a CMS, via on-street parking meters or enforcement and 
+infringement system would be a critical element of their offering. 
+46. 
+A new entrant into the supply of end-to-end on-street parking solutions, standalone 
+supply of on-street parking meters and/or supply of on-street enforcement and 
+infringement systems faces a number of costs and/or barriers including:  
+• 
+the time and resources involved in contesting competitive procurement processes, 
+which are bespoke to each local council and require a significant volume of 
+information to be presented to address mandatory and evaluative criteria 
+• 
+the established reputation and track record of delivery by a small number of 
+existing providers may dissuade new entrants. Reputation is a factor considered 
+by local councils in procurement processes. Market feedback is that local councils 
+typically request Australian customer references and evidence of successful 
+delivery as part of competitive procurement processes with reference to specific 
+products. Overseas references are of limited relevance and persuasion. Market 
+feedback is that winning a ‘reference contract’ in Australia and delivering it 
+successfully over a period of time is one method of for a supplier to enhance their 
+ability to win future opportunities, but implementing this strategy can require many 
+years and significant cost and may not be possible for many suppliers 
+• 
+the phase out of physical parking meters, which remain an important component 
+of end-to-end on-street parking solutions, is likely to limit the attractiveness of 
+entry into end-to-end on-street parking solutions and standalone on-street parking 
+meters. Suppliers generally incur considerable sunk costs if they wish to add on-
+street parking meters to their product range. However, market feedback suggests 
+that suppliers are unlikely to have sufficient tendering cycles remaining to recoup 
+investment to incentivise new entry 
+• 
+advantages associated with scale, such as enabling suppliers to spread product 
+research, development, and maintenance costs across a larger customer base. 
+There are considerable sunk costs associated with developing such technology, 
+which is a barrier to entry, and  
+• 
+advantages associated with being the incumbent supplier of on-street parking 
+services to a local council, particularly end-to-end parking solutions. Local councils 
+face considerable costs and delivery risks associated with switching suppliers. 
+The risk of service disruption can have a significant impact because parking fees 
+are an important source of revenue for some local councils. Local councils have 
+an incentive to form long-term relationships with suppliers of on-street parking 
+services. Local councils therefore tend to only contemplate switching where there 
+are compelling reasons which outweigh these costs and risks. 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 10 of 13 
+47. 
+Given these factors, the ACCC considers that post acquisition, the merged firm is 
+unlikely to be constrained by the threat of timely entry or expansion into end-to-end 
+solutions, on-street parking meters and on-street enforcement and infringement 
+systems. 
+Customer countervailing power 
+48. 
+The ACCC also considers that customers of on-street parking services have limited 
+countervailing power: 
+• 
+contracts for on-street parking services are relatively small, and local councils are 
+unlikely to have the ability or resources to develop their own parking services, or to 
+sponsor new entrants to develop bespoke on-street parking solutions  
+• 
+local councils are accountable to their constituents in terms of their administration 
+of public funds. Local councils are required by law to conduct competitive 
+procurement processes, except in limited circumstances. Directly approaching 
+suppliers may result in additional probity risks, and  
+• 
+through tender evaluation criteria and weightings applied to these criteria, local 
+councils have expressed a strong preference for suppliers with reputation and 
+demonstrated capability in delivering on-street parking services in Australia. New 
+entrants are unlikely to rate higher than incumbents in these factors. 
+49. 
+The ACCC is aware of some local councils that have assembled their own integrated 
+solution from third party suppliers. However, feedback suggests that this option may 
+have increased delivery risks and added additional implementation costs for local 
+councils. The possibility of “self-supply” by local councils therefore appears unlikely to 
+provide a meaningful competitive constraint.  
+Questions for market participants 
+The ACCC invites comments from market participants regarding competition in the supply 
+of end-to-end on-street parking solutions, on-street parking meters and on-street 
+enforcement and infringement systems in Australia. Market participants may wish to 
+comment on the following: 
+• 
+how closely Orikan and Duncan compete 
+• 
+the degree of competitive constraint provided by existing and upcoming 
+providers of on-street parking end-to end solutions and standalone services (in 
+your response please identify who these alternative suppliers are) 
+• 
+the height of barriers to timely entry and expansion of on-street parking service 
+providers, including incumbency advantage and reputational risk 
+• 
+the advantage that end-to-end providers have over ‘best in-breed’ consortia 
+when tendering for on-street parking services 
+• 
+the advantage that incumbent providers have over non-incumbent competitors 
+when tendering for on-street parking services, and 
+• 
+the attractiveness of the Australian market for overseas on-street parking 
+providers (including the extent to which they compete now, the likelihood they 
+will compete in future and the names of the overseas providers likely to 
+consider entry to the Australian market).  
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 11 of 13 
+Issue of concern: foreclosure of standalone on-street parking 
+service suppliers 
+50. 
+The ACCC’s preliminary view is that the Proposed Acquisition is likely to substantially 
+lessen competition in the supply of on-street parking apps, ANPR and parking sensors, 
+through providing the merged entity with the ability and incentive to foreclose rival 
+suppliers by preventing or frustrating integration of third-party products with the 
+merged entity’s CMS (such as through charging high integration fees or delays). 
+Ability to foreclose 
+51. 
+Duncan (through its parking CMS ‘PEMS’ and infringement system ‘AutoIssue’) and 
+Orikan (through its parking CMS ‘Ezicom’ and infringement system ‘PinForce’) are 
+currently incumbent CMS providers for a large proportion of Australian local councils 
+that together represent a significant share of the addressable market for on-street 
+parking services. By bringing together the two largest providers of CMS in Australia, the 
+merged entity would operate the primary on-street parking hub for a large share of local 
+councils through which competing standalone suppliers would need to ensure their 
+products operate.  
+52. 
+Market feedback is that integration is not a particularly costly or technically complex 
+process, relative to the size of on-street parking services projects. Suppliers of on-
+street parking services have the technical capability and means to enable integration, 
+enabling suppliers of standalone on-street parking services to currently form consortia 
+enabling customers who prefer an end-to-end on-street parking solution to choose a 
+‘best in breed’ solution. 
+53. 
+Integration relies on co-operation between different suppliers of on-street parking 
+services to implement changes to make their products compatible, access data held in 
+proprietary systems and to perform testing.  
+• 
+Where integration is in both suppliers’ interests, such as enhancing each supplier’s 
+ability to contest and win competitive procurement processes, market participants 
+report that integration is generally completed relatively quickly and inexpensively.  
+• 
+Where integration is not in the interests of one of the suppliers, market participants 
+report that the supplier can frustrate the integration process through time delays 
+and/or by quoting large fees to the local councils.  
+54. 
+Local councils appear to be able to somewhat mitigate against integration risks by 
+including interoperability requirements in contracts with suppliers. These requirements 
+may give rise to penalties if breached by suppliers and not remedied in a timely 
+fashion. However, these contractual requirements may not always effectively ensure 
+timely integration with third parties, for reasons including that:  
+• 
+local councils may find it difficult to establish a breach of these requirements 
+where a supplier adopts subtle practices to frustrate integration, for example, 
+attributing delays to technical issues. Similarly, it may be difficult for a council to 
+determine which of the two suppliers is at fault for non-integration 
+• 
+local councils may be averse to entering into potentially costly or resource-
+intensive legal disputes with suppliers, particularly given the challenges with 
+establishing a breach outlined above, and 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 12 of 13 
+• 
+suppliers are typically given the chance to rectify integration issues before facing 
+penalties, meaning they can still delay or frustrate integration in the first instance 
+and then take steps to avoid penalty if issues are ultimately raised by the council.  
+Incentive to foreclose 
+55. 
+The ACCC is concerned that the merged entity would have the incentive to prevent or 
+frustrate integration with its CMS (PEMS and AutoIssue and EziCom and PinForce), 
+since it could discourage local councils from adopting a ‘best in breed’ approach and 
+instead procure the full suite of products (i.e. apps, sensors and ANPR) from the 
+merged entity.  
+56. 
+Market feedback is that some local councils have observed integration challenges 
+elsewhere and factor such challenges into their assessment of whether to procure an 
+end-to-end solution or adopt a ‘best in breed’ approach.  
+57. 
+Orikan currently offers an end-to-end solution, and therefore it could be argued that it 
+may currently have an incentive to prevent or frustrate integration with its CMS absent 
+the proposed acquisition. However, Duncan currently partners with third-party suppliers 
+of parking apps, sensors and ANPR, and clearly has an incentive to integrate its CMS 
+with them.  
+58. 
+Through the Proposed Acquisition, the merged entity would likely have a greater 
+incentive to frustrate integration than Orikan or Duncan (absent the proposed 
+acquisition).  
+• 
+While Orikan currently offers an end-to-end solution (and therefore may already 
+have an incentive to prevent or frustrate integration with its CMS absent the 
+Proposed Acquisition), the merged entity would be the incumbent CMS supplier for 
+a larger share of the addressable market than Orikan and is likely to have an 
+increased incentive to foreclose on suppliers of standalone services currently used 
+by Duncan. The removal of Orikan’s main end-to-end on-street parking competitor 
+(Duncan) would also potentially reduce the threat of retaliation from local councils.  
+• 
+Unlike Duncan, the merged entity would offer an end-to-end on-street parking 
+solution including apps, sensors and ANPR.  
+Effects of foreclosure 
+59. 
+If the merged firm were to adopt a foreclosure strategy, suppliers of standalone on-
+street parking services may be prevented from supplying a large share of the 
+addressable market, which could potentially cause them to exit. The foreclosure 
+strategy could also deter new suppliers from entering. A reduction in the number of 
+providers of parking apps, sensors or ANPR in Australia, would likely result in less 
+competitive tender responses for local councils in terms of price and/or service levels. 
+The ACCC is also concerned that the reduced competition and, in particular, the 
+reduced incentives to develop ‘best in breed’ products due to potential integration 
+concerns is likely to lead to less innovation.  
+60. 
+In relation to parking apps, the ACCC is concerned that the Proposed Acquisition could 
+affect the transition away from hardware driven solutions (i.e. meters) to application-
+based solutions. The transition to application-based solutions has the potential to 
+reduce barriers to entry over time. Integration of apps into other on-street parking 
+
+
+Orikan Group Pty Ltd Proposed Acquisition of Duncan Technology Pty Ltd 
+ 
+Page 13 of 13 
+services allows parking app suppliers to compete for customers based on the 
+functionality of the app and associated user fees. However, the ACCC considers that 
+competition for customers is unlikely to materialise where the merged firm has the 
+ability and incentive to frustrate the integration of other parking service providers with 
+its own parking solution suite.  
+Questions for market participants 
+The ACCC invites comments from market participants regarding:  
+• 
+the time and resources required to set up an existing integration for a new 
+customer 
+• 
+the extent to which parking service suppliers could prevent, restrict, or 
+frustrate rival parking service providers from integrating with their CMS, and 
+• 
+the degree to which customers have the countervailing power to enforce 
+contract terms of integrations and the extent to which this power differs 
+between larger and smaller local councils.  
+ACCC's future steps 
+61. 
+As noted above, the ACCC invites submissions from market participants on each of the 
+issues identified in this Statement of Issues and on any other issue that may be 
+relevant to the ACCC's assessment of this matter. Submissions should be emailed to 
+mergers@accc.gov.au by no later than 5pm on 19 December 2024. 
+62. 
+The ACCC will finalise its view on this matter after it considers submissions invited by 
+this Statement of Issues. 
+63. 
+The ACCC intends to publicly announce its final view by 13 March 2025. However the 
+anticipated timeline may change in line with the Informal Merger Review Process 
+Guidelines. A Public Competition Assessment explaining the ACCC's final view may be 
+published following the ACCC's public announcement. 

@@ -1,0 +1,48 @@
+{
+  "id": "0666",
+  "title": "Proposed variations to the s87B undertakings of Alinta Limited and others and Epic Energy (WA) Transmission Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-variations-to-the-s87b-undertakings-of-alinta-limited-and-others-and-epic-energy-wa-transmission-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39399",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "28 January 2010",
+  "date_completed_iso": "2010-01-28T12:00:00Z",
+  "date_commenced": "3 December 2009",
+  "date_commenced_iso": "2009-12-03T12:00:00Z",
+  "total_review_days": 37,
+  "acquirers": [
+    "Alinta Network Services Pty Ltd",
+    "DBNGP Holdings Pty Ltd",
+    "Epic Energy (WA) Transmission Pty Ltd",
+    "Diversified Utility and Energy Trust",
+    "Alinta Ltd",
+    "Alcoa of Australia Ltd"
+  ],
+  "targets": [
+    "Epic Energy Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "3 Dec 2009",
+      "date_iso": "2009-12-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "18 Dec 2009",
+      "date_iso": "2009-12-18T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "28 Jan 2010",
+      "date_iso": "2010-01-28T12:00:00Z",
+      "event": "ACCC announced that it consents to the proposed variations."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Parties to the s87B undertakings of Alinta Limited and others and Epic Energy (WA) Transmission Pty Ltd have submitted proposed variations to the undertakings. The proposed variations included several amendments to the undertakings in light of changes in circumstances that had occurred since the undertakings were accepted.",
+    "Competition analysis": "In summary, the proposed variations: - permitted the operator of the Dampier to Bunbury Natural Gas Pipeline (DBNGP) to reach agreements with individual shippers in order to pass on a proportion of the increased price Epic Energy (WA) Transmission Pty Ltd will pay for system use gas under its agreement with Alinta Sales Pty Ltd. There are two types of agreements that the DBNGP operator may reach with shippers: - to charge a shipper a system use gas tariff, or - to reduce the charges payable by a shipper under the standard shipper contract in consideration for that shipper supplying its own share of system use gas to the DBNGP. The variations permitted both types of agreement provided that the tariff imposed or reduction of charges was not less favourable than that agreed with Alinta Sales Pty Ltd, Alinta Energy (LPG) Pty Ltd, or a shipper that is an associate of Prime Infrastructure Holdings Limited. The ACCC considered that the proposed variations would adequately address the competition concerns that the undertakings intended to address. On this basis, and in light of changes in circumstances that had occurred since the undertakings were accepted, the ACCC decided to consent to the proposed variations. The ACCC also consented to other variations to the undertakings which have the effect of: - removing Alinta Network Services Pty Ltd as a party to the undertakings given that it no longer has a role in the operation of the DBNGP; - ensuring that references to corporate entities within the undertakings reflect name changes that have occurred since 2004; - deleting obligations which have been discharged by the parties (for example, in relation to capacity expansion and settlement of the Epic proceedings); and - deleting ring fencing and non-discrimination clauses which are covered by the 2007 undertaking of Babcock and Brown Infrastructure and Babcock and Brown Power."
+  }
+}

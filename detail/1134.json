@@ -1,0 +1,44 @@
+{
+  "id": "1134",
+  "title": "SP AusNet - proposed acquisition of Origin Energy Limited's gas infrastructure assets",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sp-ausnet-proposed-acquisition-of-origin-energy-limiteds-gas-infrastructure-assets",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27006",
+  "industries": [
+    "Gas"
+  ],
+  "date_completed": "7 March 2007",
+  "date_completed_iso": "2007-03-07T12:00:00Z",
+  "date_commenced": "7 February 2007",
+  "date_commenced_iso": "2007-02-07T12:00:00Z",
+  "total_review_days": 21,
+  "acquirers": [
+    "SP AusNet"
+  ],
+  "targets": [
+    "Origin Energy Limited's gas infrastructure assets"
+  ],
+  "timeline": [
+    {
+      "date": "7 Feb 2007",
+      "date_iso": "2007-02-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market Inquiries commenced."
+    },
+    {
+      "date": "26 Feb 2007",
+      "date_iso": "2007-02-26T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Mar 2007",
+      "date_iso": "2007-03-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "In January 2007, Origin Energy (Origin) commenced a tender process for the sale of its gas infrastructure assets.  These assets are: -  an approximate 17% interest in Envestra Limited; -  the Albury gas distribution network; -  one of three Victorian gas distribution networks; -  a 33.3% interest in the SEA Gas pipeline; and -  Origin Energy Asset Management Limited. On 7 February 2007, SPAusNet requested an informal review of its proposed acquisition of these assets.",
+    "Market definition": "The ACCC considered the key relevant markets to be: -   the supply of services on gas distribution networks in Victoria (the geographic markets of the gas distribution networks markets were confined to the areas that the assets could service); and -   the provision of infrastructure/asset management services on a national basis.",
+    "Competition analysis": "The ACCC noted that the proposed acquisition would result in the aggregation of two gas distribution networks, whereby 2 out of 3 Victorian gas distribution networks would be controlled by SPAusNet. However, the ACCC considered this was unlikely to lead to an SLC because those assets are regulated monopoly assets.  Competition between those assets is minimal and appears only to occur at the margins of the networks. In relation to the market for the provision of infrastructure/asset management services, the ACCC did not reach a conclusive view on whether this market related only to gas infrastructure or included other infrastructure.  Regardless, given that SPAusNet does not provide asset management services to third parties, the ACCC was of the view that significant horizontal aggregation in infrastructure/asset management services would not arise as a result of the proposed acquisition. The ACCC considered it unlikely that SPAusNet taking a 33% interest in the SEAGas pipeline, which would result in the combined ownership of gas distribution networks in Victoria and the SEAGas pipeline, would raise competition concerns.  The ACCC also noted that the proposed acquisition by SPAusNet would result in the removal of vertical integration between Origin Energy?s SeaGas interest with its gas retail interests. Further, the ACCC considered it unlikely that competition concerns would arise from the aggregation of of SPAusNet's regulated electricity assets and Origin's gas assets. In summary, taking into account the above factors and other information, the ACCC did not consider it likely that the acquisition would substantially lessen competition in any relevant market."
+  }
+}

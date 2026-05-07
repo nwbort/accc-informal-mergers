@@ -1,0 +1,44 @@
+{
+  "id": "1180",
+  "title": "Nexans Participations S A - proposed acquisition of Olex Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/nexans-participations-s-a-proposed-acquisition-of-olex-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "26170",
+  "industries": [
+    "Cables"
+  ],
+  "date_completed": "6 December 2006",
+  "date_completed_iso": "2006-12-06T12:00:00Z",
+  "date_commenced": "21 November 2006",
+  "date_commenced_iso": "2006-11-21T12:00:00Z",
+  "total_review_days": 12,
+  "acquirers": [
+    "Nexans Participations S A"
+  ],
+  "targets": [
+    "Olex Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "21 Nov 2006",
+      "date_iso": "2006-11-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "5 Dec 2006",
+      "date_iso": "2006-12-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "6 Dec 2006",
+      "date_iso": "2006-12-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Nexans Participations S.A (Nexans) is a French company which designs, manufactures, installs and maintains cables and cabling systems for the infrastructure, industrial and construction industries.  The target, Olex Holdings Pty Limited (Olex), is an Australian company involved in the manufacture and distribution of power cable products.",
+    "Market definition": "The proposed acquisition was considered in the context of: 1) the market for the manufacture and supply of general power cables in Australia; and 2) the market for the manufacture and supply of utilities cables in Australia.",
+    "Competition analysis": "In relation to the national market for utilities cables, Nexans only has a relatively small market share at present.  In addition, there are a range of other suppliers in the market, and there is a moderate level of imports (over 10 per cent), both of which are likely to act as a strong competitive constraint. In relation to the national market for general power cables, there is minimal competitive overlap between Nexans and Olex. After consideration of the information provided by market participants and other information before it, the ACCC formed the view that the proposed acquisition is unlikely to result in a substantial lessening of competition in either market, and decided that it would not oppose the proposed acquisition."
+  }
+}

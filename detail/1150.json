@@ -1,0 +1,43 @@
+{
+  "id": "1150",
+  "title": "Woolworths Limited - proposed acquisition of Supa IGA Supermarket Capalaba",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-supa-iga-supermarket-capalaba",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "27203",
+  "industries": [
+    "Retail grocery"
+  ],
+  "date_completed": "14 February 2007",
+  "date_completed_iso": "2007-02-14T12:00:00Z",
+  "date_commenced": "7 February 2007",
+  "date_commenced_iso": "2007-02-07T12:00:00Z",
+  "total_review_days": 6,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Supa IGA Supermarket Capalaba"
+  ],
+  "timeline": [
+    {
+      "date": "7 Feb 2007",
+      "date_iso": "2007-02-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "14 Feb 2007",
+      "date_iso": "2007-02-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "14 Feb 2007",
+      "date_iso": "2007-02-14T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the local supermarket market surrounding the Supa IGA located  in the Capalaba Park Shopping Centre in Capalaba, Queensland.  The ACCC also considered the impact of the proposed acquisition in the relevant procurement markets for products sold in supermarkets and the national wholesale market.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition would be unlikely to result in a substantial lessening of competition in any of the relevant markets.  Among other things, the ACCC took into account the existence of other competitors in the relevant local area which would pose a competition constraint on Woolworths post acquisition."
+  }
+}

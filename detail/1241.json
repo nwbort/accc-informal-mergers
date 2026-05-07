@@ -1,0 +1,47 @@
+{
+  "id": "1241",
+  "title": "Win Corporation Pty Ltd - proposed acquisition of SelecTV Broadcasting Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/win-corporation-pty-ltd-proposed-acquisition-of-selectv-broadcasting-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24870",
+  "industries": [
+    "Television services"
+  ],
+  "date_completed": "15 August 2006",
+  "date_completed_iso": "2006-08-15T12:00:00Z",
+  "date_commenced": "24 July 2006",
+  "date_commenced_iso": "2006-07-24T12:00:00Z",
+  "total_review_days": 17,
+  "acquirers": [
+    "Win Corporation Pty Ltd"
+  ],
+  "targets": [
+    "SelecTV Broadcasting Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "10 Jul 2006",
+      "date_iso": "2006-07-10T12:00:00Z",
+      "event": "ACCC commenced preliminary monitoring of the proposed acquisition"
+    },
+    {
+      "date": "24 Jul 2006",
+      "date_iso": "2006-07-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "7 Aug 2006",
+      "date_iso": "2006-08-07T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Aug 2006",
+      "date_iso": "2006-08-15T12:00:00Z",
+      "event": "ACCC announced that it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Competition analysis": "The ACCC considered the proposed acquisition was unlikely to raise competition concerns in any market or markets relevant to the provision of pay television services.  Among other things, the ACCC took into account the small size of SELECTV's share of pay television viewers nationally and Win Corporation's limited involvement in pay television."
+  }
+}

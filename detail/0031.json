@@ -1,0 +1,59 @@
+{
+  "id": "0031",
+  "title": "Merieux NutriSciences - majority interest in Bureau Veritas AsureQuality Holdings Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/merieux-nutrisciences-majority-interest-in-bureau-veritas-asurequality-holdings-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Microbiology testing of food"
+  ],
+  "date_completed": "3 April 2025",
+  "date_completed_iso": "2025-04-03T12:00:00Z",
+  "date_commenced": "10 December 2024",
+  "date_commenced_iso": "2024-12-10T12:00:00Z",
+  "total_review_days": 80,
+  "acquirers": [
+    "Merieux NutriSciences"
+  ],
+  "targets": [
+    "Bureau Veritas AsureQuality Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "11 Dec 2024",
+      "date_iso": "2024-12-11T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Jan 2025",
+      "date_iso": "2025-01-10T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "6 Feb 2025",
+      "date_iso": "2025-02-06T12:00:00Z",
+      "event": "Timeline suspended while the ACCC was assessing further information provided by the merger parties. Former provisional date for announcement of ACCC's findings (06 March 2025) was delayed."
+    },
+    {
+      "date": "13 Mar 2025",
+      "date_iso": "2025-03-13T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. Timeline recommenced."
+    },
+    {
+      "date": "1 Apr 2025",
+      "date_iso": "2025-04-01T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (1 May 2025) brought forward."
+    },
+    {
+      "date": "3 Apr 2025",
+      "date_iso": "2025-04-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Mérieux NutriSciences ( MXNS ) proposes to acquire 51% of the issued share capital of Bureau Veritas AsureQuality Holdings Pty Ltd ( BVAQ ) (the Proposed Acquisition ). MXNS and BVAQ both supply food safety and quality testing services globally and in Australia. This includes microbiological testing to ensure foods are safe for human consumption and chemical testing to provide information about the characteristics and composition of foods. MXNS In Australia, MXNS supplies food, water and pharmaceutical testing services and has four food testing laboratories: a microbiology and chemistry lab in Sydney a microbiology lab in Brisbane a microbiology lab in Melbourne, and a microbiology lab in Perth. BVAQ In Australia, BVAQ supplies food testing services and has six food testing laboratories: three labs in Melbourne (microbiology and chemistry) a microbiology lab in Sydney a microbiology lab in Brisbane, and a microbiology lab in Perth.",
+    "Market definition": "The ACCC considered the likely effect of the Proposed Acquisition on competition in the supply of microbiological and chemistry food testing in various States and across Australia. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the Proposed Acquisition is not likely to substantially lessen competition in any relevant market in Australia. The ACCC’s investigation focused on the closeness of competition between MXNS and BVAQ in the supply of microbiological and chemistry food testing in Australia. The ACCC found that, post-acquisition, MXNS and BVAQ would likely be competitively constrained by other suppliers of microbiological food testing services and other suppliers of chemistry food testing services in Australia. The ACCC also found that MXNS and BVAQ would likely be constrained by the threat of new entry and expansion, including from suppliers of adjacent testing services such as pharmaceutical and environment testing, and the ability of some large customers to increase their internal capability and self-supply certain food testing services."
+  }
+}

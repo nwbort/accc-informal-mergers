@@ -1,0 +1,69 @@
+{
+  "id": "0757",
+  "title": "A Gange Proprietary Limited - proposed acquisition of West Suburban Taxis Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/a-gange-proprietary-limited-proposed-acquisition-of-west-suburban-taxis-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "36389",
+  "industries": [
+    "Taxis"
+  ],
+  "date_completed": "13 May 2009",
+  "date_completed_iso": "2009-05-13T12:00:00Z",
+  "date_commenced": "27 January 2009",
+  "date_commenced_iso": "2009-01-27T12:00:00Z",
+  "total_review_days": 67,
+  "acquirers": [
+    "A Gange Proprietary Limited"
+  ],
+  "targets": [
+    "West Suburban Taxis Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "28 Jan 2009",
+      "date_iso": "2009-01-28T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "13 Feb 2009",
+      "date_iso": "2009-02-13T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Mar 2009",
+      "date_iso": "2009-03-11T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "31 Mar 2009",
+      "date_iso": "2009-03-31T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "15 Apr 2009",
+      "date_iso": "2009-04-15T12:00:00Z",
+      "event": "Former proposed date for announcement of ACCC's findings, amended to allow for further inquiries."
+    },
+    {
+      "date": "17 Apr 2009",
+      "date_iso": "2009-04-17T12:00:00Z",
+      "event": "ACCC requested further information from parties. ACCC timeline suspended."
+    },
+    {
+      "date": "24 Apr 2009",
+      "date_iso": "2009-04-24T12:00:00Z",
+      "event": "ACCC received further information from parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "13 May 2009",
+      "date_iso": "2009-05-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Gange proposed to acquire West Suburban Taxis.  The proposed acquisition would combine two network services providers operating in the Melbourne Metropolitan Taxi Zone - Silver Top Taxis and West Suburban Taxis.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of markets for: - the supply of pre-booked taxi services to the general public in the metropolitan Melbourne taxi zone; and - the supply of taxi depot services to taxi operators in the metropolitan Melbourne taxi zone.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In relation to the supply of taxi services to the general public, the ACCC noted that, given the fares paid by the general public are regulated, the current nature of competitive tension between depots in attracting jobs primarily relates to the quality of taxi services provided. The ACCC found that many dimensions of service quality on which taxis compete are more within the control of the taxi driver or operator than the depot. On the dimensions of service provision on which depots do compete, the ACCC noted that Black Cabs and Silver Top regard each other as their closest competitors. The ACCC also noted that West Suburban's geographic coverage is largely complementary to that of Silver Top. In relation to the supply of taxi depot services to taxi operators in the metropolitan Melbourne taxi zone, the ACCC's market inquiries suggested that there was limited competition for drivers and operators between Silver Top and West Suburban."
+  }
+}

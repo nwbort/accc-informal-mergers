@@ -1,0 +1,49 @@
+{
+  "id": "0149",
+  "title": "Lumibird SA - Ellex Laser and Ultrasound Business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lumibird-sa-ellex-laser-and-ultrasound-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Health Services"
+  ],
+  "date_completed": "11 June 2020",
+  "date_completed_iso": "2020-06-11T12:00:00Z",
+  "date_commenced": "4 May 2020",
+  "date_commenced_iso": "2020-05-04T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Lumibird SA"
+  ],
+  "targets": [
+    "Laser and Ultrasound Business of Ellex"
+  ],
+  "timeline": [
+    {
+      "date": "4 May 2020",
+      "date_iso": "2020-05-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 May 2020",
+      "date_iso": "2020-05-15T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "9 Jun 2020",
+      "date_iso": "2020-06-09T12:00:00Z",
+      "event": "Former proposed decision date (25 June 2020) brought forward to 11 June 2020."
+    },
+    {
+      "date": "11 Jun 2020",
+      "date_iso": "2020-06-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lumibird SA proposes to acquire the Laser and Ultrasound Business of  Ellex Medical Lasers Ltd. Both Lumibird and Ellex manufacture and supply lasers for ophthalmic procedures and ultrasound devices for diagnostic purposes in Australia. Lumibird SA is a French headquartered technology company with global operations. Its products are distributed in Australia by Device Technologies. Ellex is an Australian public company. The transaction relates only to Ellex's Laser and Ultrasound Business.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in Australia for the supply of: low energy pulse lasers (used in treating glaucoma) high energy photocoagulation lasers (used in treating retinal disease) high energy photodisruption lasers (used in treating post cataract scar tissue and vitreous floaters) diagnostic ultrasound equipment. The ACCC did not reach a concluded view on market definition as it was not necessary for the competition assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Ellex is the clear market leader in a majority of the overlapping products. Lumibird has a much smaller presence in these product categories under its Quantel brand. While the proposed acquisition would result in an incremental increase in market concentration, the ACCC noted that competition in the market would not significantly change as a result of the proposed acquisition. Additionally, the ACCC considered that Lumibird would still face competitive constraint from other global competitors in particular product segments post-acquisition. The ACCC found that the overall value of sales and units sold in Australia is relatively low, compared to the parties’ operations globally. The ACCC found that the proposed acquisition would be unlikely to significantly change the competitive dynamics of the overlapping product segments."
+  }
+}

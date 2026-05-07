@@ -1,0 +1,44 @@
+{
+  "id": "0458",
+  "title": "Ausfuel Group - completed acquisition of Choice Petroleum",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ausfuel-group-completed-acquisition-of-choice-petroleum",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "47584",
+  "industries": [
+    "Fuel"
+  ],
+  "date_completed": "9 March 2012",
+  "date_completed_iso": "2012-03-09T12:00:00Z",
+  "date_commenced": "16 December 2011",
+  "date_commenced_iso": "2011-12-16T12:00:00Z",
+  "total_review_days": 61,
+  "acquirers": [
+    "Ausfuel Group"
+  ],
+  "targets": [
+    "Choice Petroleum"
+  ],
+  "timeline": [
+    {
+      "date": "16 Dec 2011",
+      "date_iso": "2011-12-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "12 Jan 2012",
+      "date_iso": "2012-01-12T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Mar 2012",
+      "date_iso": "2012-03-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 31 October 2011, Ausfuel acquired Choice Petroleum. Ausfuel and Choice Petroleum are both independent fuel companies. Choice Petroleum had retail fuel operations, primarily in rural and regional areas of Queensland. Choice Petroleum operated 21 retail fuel sites in Queensland and also supplied fuel directly to farming and industrial customers. Ausfuel operated a wholesale fuel supply and transport business in all states of Australia excluding Tasmania. In Queensland, Ausfuel operated 7 retail petrol stations and 2 fuel depots.",
+    "Market definition": "The ACCC considered the completed acquisition in the context of: - local retail markets for the supply of fuel products (comprising separate markets for petrol, diesel and LPG) in Queensland; and - regional wholesale markets for the supply of fuel products (comprising separate markets for petrol, diesel and LPG) in Brisbane and Townsville.",
+    "Competition analysis": "The ACCC concluded that competition concerns were unlikely to arise in relation to the retail supply of fuel in any of the local markets given the lack of overlap between the retail operations of the merger parties. The ACCC concluded that the completed acquisition is unlikely to substantially lessen competition in any of the regional markets due to the minimal overlap between the wholesale operations of the merger parties and the presence of sufficient local competitors in those areas where overlap did exist."
+  }
+}

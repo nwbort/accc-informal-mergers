@@ -1,0 +1,815 @@
+ 
+ 
+ 
+Public Competition Assessment 
+19 October 2010 
+Swift Australia Pty Ltd - proposed acquisition of Rockdale Beef Pty 
+Ltd 
+Introduction 
+1. On 9 September 2010, the Australian Competition and Consumer Commission 
+(ACCC) announced its decision not to oppose the proposed acquisition of 
+Rockdale Beef Pty Ltd (Rockdale) by Swift Australia Pty Ltd (Swift) (proposed 
+acquisition). The ACCC decided that the proposed acquisition would not be likely 
+to substantially lessening competition in any market in contravention of section 50 
+of the Trade Practices Act 1974 (the Act). 
+2. The ACCC made its decision on the basis of the information provided by the 
+merger parties and information arising from its market inquiries. This Public 
+Competition Assessment outlines the basis on which the ACCC has reached its 
+decision on the proposed acquisition, subject to confidentiality considerations. 
+Public Competition Assessment 
+3. To provide an enhanced level of transparency and procedural fairness in its 
+decision making process, the ACCC issues a Public Competition Assessment for 
+all transaction proposals where: 
+ 
+a merger is opposed; 
+ 
+a merger is subject to enforceable undertakings; 
+ 
+the merger parties seek such disclosure; or 
+ 
+a merger is not opposed but raises important issues that the ACCC considers 
+should be made public. 
+4. This Public Competition Assessment has been issued because Swift’s proposed 
+acquisition of Rockdale raises issues of interest for participants in the Australian 
+beef industry and the public. 
+5. By issuing a Public Competition Assessment, the ACCC aims to provide the public 
+with a better understanding of the ACCC's analysis of various markets and the 
+associated merger and competition issues. It also alerts the public to circumstances 
+
+
+ 
+where the ACCC’s assessment of the competition conditions in particular markets 
+is changing, or likely to change.  
+6. Each Public Competition Assessment is specific to the particular transaction under 
+review by the ACCC. While some transaction proposals may involve the same or 
+related markets, it should not be assumed that the analysis and decision outlined in 
+one Public Competition Assessment will be conclusive of the ACCC’s view in 
+respect of other transaction proposals, as each matter will be considered on its own 
+merits.  
+7. Public Competition Assessments are intended to outline to the general public the 
+ACCC’s principal reasons for reaching a decision on a proposed acquisition. As 
+such they may not definitively explain all issues and the ACCC’s analysis of such 
+issues. Further, the ACCC’s decisions generally involve consideration of both non-
+confidential and confidential information provided by the merger parties and 
+market participants. In order to maintain the confidentiality of particular 
+information, Public Competition Assessments do not contain any confidential 
+information or its sources. 
+The parties 
+Swift Australia Pty Ltd 
+8. Swift is a wholly owned subsidiary of JBS S.A., a large multinational meat 
+processor based in Brazil and listed on the Sao Paulo stock exchange. In Australia, 
+Swift operates a vertically integrated meat processing and beef feedlot business. 
+Swift owns and operates five beef feedlots and eight beef processing abattoirs. 
+Swift’s feedlots are located in Caroona, Griffith and Burraboi in New South Wales, 
+and in Toowoomba and Mungindi in Queensland. Swift has one beef processing 
+abattoir at Brooklyn, Melbourne, four abattoirs in Queensland and three abattoirs 
+in Tasmania.  
+Rockdale Beef Pty Ltd 
+9. Rockdale is jointly owned by Renod Holdings Pty Ltd (a subsidiary of Itoham 
+Foods Inc) and MC Meats Rockdale Pty Ltd (a subsidiary of Mitsubishi 
+Corporation). These companies are both based in Japan. Rockdale operates a single 
+co-located beef feedlot and beef processing abattoir at Yanco in New South Wales.  
+Other industry participants 
+Feedlots 
+10. There are around 600 feedlots within Australia, the majority of which are located 
+in areas that are in close proximity to cattle and grain supplies.1 In addition to those 
+operated by Swift and Rockdale, large feedlots on the eastern seaboard of Australia 
+                                                 
+1 Australian Lot Feeders’ Association, available at http://www.feedlots.com.au
+-2- 
+
+
+ 
+include those operated by Teys Brothers, Cargill, Elders, Nippon and Mort & Co. 
+A large number of small feedlots also operate along the eastern seaboard.  
+Abattoirs 
+11. There are a number of abattoirs that produce cold bone meat in southern New 
+South Wales and Victoria. These include facilities operated by Cargill Beef, 
+Norvic Food Processing, Ralphs Meat, Wagstaff and MC Herd.  
+Industry Background 
+12. In 2009, it was estimated that approximately 8.8 million cattle would be 
+slaughtered in Australia in 2009-10, which would produce approximately 2,200 
+kilo-tonnes of beef.2 Australia is a net exporter of beef, and currently exports over 
+65 per cent of its total beef production.3 The level of exports varies depending on 
+domestic production and overseas demand. 
+13. Cattle are bred and raised by farmers on pasture. After an initial period, younger 
+and lighter cattle, referred to as feeder cattle, may be sold to feedlots for further 
+fattening on grain (grain fed cattle) or retained by the farmer for fattening on 
+pasture (grass fed cattle) prior to being transferred to an abattoir for slaughter. 
+Farmers may also sell feeder cattle to backgrounders or restockers. 
+14. Backgrounders and restockers are cattle producers (farmers) who purchase feeder 
+cattle to be fed on pasture. Backgrounders purchase young cattle (sometimes 
+before they reach feeder weight) to feed on grass. They may then elect to sell them 
+to feedlot operators for further fattening on grain before slaughter, or sell directly 
+to abattoirs. Restockers purchase feeder cattle to increase the size of their herd 
+after times of significant turnoff such as drought. 
+15. Lot feeding is an intensive production system designed to fatten cattle on grain-
+based feed prior to slaughter. A feedlot is a confined yard area with watering and 
+feeding facilities where cattle are completely hand or mechanically fed.4  
+16. Once cattle (either grass fed or grain fed) meet the desired weight specifications 
+and other characteristics for slaughter they are known as fat cattle. Fat cattle may 
+be purchased by abattoirs for processing or processed by abattoirs on behalf of 
+third parties (who retain ownership of the cattle) under a service kill arrangement.  
+17. Abattoirs may undertake a number of stages in beef processing including slaughter, 
+hide removal, boning, packaging and freezing or chilling of meat for supply to 
+domestic or export customers. 
+18. Fat cattle are directed to either the export or domestic market, depending on the 
+weight and quality of the beast. Beasts slaughtered for the purposes of producing 
+                                                 
+2 IbisWorld, Beef Cattle Farming in Australia, December 2009, p4 
+3 Australian Agriculture, Fisheries and Forestry, <http://www.dfat.gov.au/facts/affaoverview.html>, 
+accessed 31 August 2010. 
+4 CSIRO, National Guidelines for Beef Cattle Feedlots in Australia (second edition), p10 
+-3- 
+
+
+ 
+export grade beef tend to be significantly larger than those slaughtered for 
+domestic grade beef.5  
+19. Post slaughter, the beef carcass is processed using either the cold bone or hot bone 
+procedure. The production of cold bone beef requires that the carcass be chilled 
+which allows the meat to “set” before the carcass is further processed into certain 
+cuts. The cold bone process allows for high quality cuts of beef. Good quality fat 
+cattle are generally processed into cold bone beef. 
+20. Hot bone beef production involves removing the bones from the beef carcass 
+shortly after slaughter, without first refrigerating the carcass. Hot bone beef is 
+often used to produce mince meat or in the manufacture of processed food. The 
+cattle that are slaughtered in hot bone abattoirs are typically of a poorer quality 
+(e.g. dairy cows) than those that are slaughtered in a cold bone abattoir. The main 
+difference between hot bone and cold bone abattoirs is the additional refrigeration 
+that is needed for cold bone meat production. 
+21. Of the beef abattoirs that operate in Australia, most produce cold bone beef while a 
+smaller number produce hot bone beef. Some abattoirs produce both cold bone and 
+hot bone beef products. 
+The proposed transaction 
+22. Swift proposes to acquire Rockdale, which includes all of the assets necessary to 
+continue the operation of the abattoir and feedlot presently operated by Rockdale. 
+Timing 
+23. 
+The following table outlines the timeline of key events in this matter. 
+Date 
+Event 
+8 April 2010 
+ 
+30 April 2010 
+ 
+26 May 2010 
+ 
+ 
+ 
+4 June 2010 
+ 
+ 
+10 June 2010 
+ 
+ 
+24 June 2010 
+ 
+ 
+ACCC commenced review under the Merger Review Process Guidelines. 
+ 
+Closing date for submissions from interested parties. 
+ 
+ACCC requested further information from Swift Australia. ACCC timeline 
+suspended to allow Swift Australia to respond to the ACCC's request for 
+further information. 
+ 
+ACCC received further information from Swift Australia. ACCC timeline 
+remained suspended to await further information from Rockdale Beef. 
+ 
+ACCC received further information from Rockdale Beef. ACCC timeline 
+recommenced. 
+ 
+ACCC published a Statement of Issues outlining preliminary competition 
+concerns. 
+ 
+                                                 
+5  
+Export grade beef may be acquired by beef wholesalers and retailers in the domestic market, and 
+will not necessarily be exported. 
+-4- 
+
+
+ 
+6 July 2010 
+ 
+13 July 2010 
+ 
+14 July 2010 
+ 
+ 
+26 July 2010 
+ 
+ 
+ 
+12 August 2010 
+ 
+ 
+ 
+9 September 2010 
+Closing date for submissions relating to Statement of Issues. 
+ 
+ACCC requested further information from Swift Australia. 
+ 
+ACCC requested further information from Rockdale Beef. ACCC timeline 
+suspended to allow the merger parties to provide the information requested. 
+ 
+ACCC received further information from Rockdale Beef and a partial 
+response from Swift Australia to the ACCC's information request. ACCC 
+timeline recommenced. 
+ 
+ACCC received further information from Swift Australia. Former proposed 
+decision date of 26 August 2010 amended to allow the ACCC to consider 
+additional information provided by Swift Australia. 
+ 
+ACCC announced it would not oppose the proposed acquisition. 
+Market inquiries 
+24. The ACCC conducted market inquiries with a range of industry participants, 
+including small and large feedlot operators, abattoirs, customers, industry bodies 
+and other interested parties. Submissions were invited from interested parties. 
+Statement of Issues 
+25. On 24 June 2010, the ACCC published a Statement of Issues regarding the 
+proposed acquisition. In the Statement of Issues the ACCC stated its preliminary 
+view that the proposed acquisition may raise competition concerns by reducing 
+competition for the acquisition of feeder and/or fat cattle in southern/central NSW 
+and Victoria. In particular, the ACCC identified a concern that, post acquisition, 
+Swift may be in a position to lower or otherwise distort the prices paid for feeder 
+and/or fat cattle as a result of a decrease in competition. The ACCC did not 
+consider that the proposed acquisition was likely to raise competition concerns in 
+relation to the supply of processed beef. 
+26. The Statement of Issues is available on the ACCC’s website at 
+www.accc.gov.au/statementsofissues. 
+Areas of overlap and market definition 
+27. The operations of Rockdale and Swift overlap in the acquisition of feeder cattle 
+and fat cattle, particularly in the Victoria and southern/central NSW region where 
+both have feedlots and cold bone abattoirs, and in the supply of processed beef.   
+28. The ACCC considered the proposed acquisition in the context of the following 
+markets:  
+ 
+the market for the acquisition of feeder cattle in southern/central NSW and 
+Victoria (acquisition of feeder cattle market); 
+ 
+the market for the acquisition of fat cattle by cold bone abattoirs in 
+southern/central NSW and Victoria (acquisition of fat cattle market); 
+-5- 
+
+
+ 
+ 
+the market for the supply of processed beef on Australia’s eastern seaboard 
+(supply of processed beef market). 
+ 
+Product dimension – cattle acquisition markets 
+ 
+Feeder and fat cattle 
+29. The ACCC noted that acquirers of feeder cattle and acquirers of fat cattle were 
+separate and distinct categories of buyers that perform different functions and 
+require cattle with different characteristics. Acquirers of fat cattle purchase older, 
+heavier cattle that are ready for slaughter, whereas acquirers of feeder cattle 
+purchase younger, lighter cattle that require further feeding prior to slaughter. 
+While abattoirs may have an ability to slaughter feeder cattle, this is generally not 
+economically viable given that feeder cattle are lighter beasts. At the margins, 
+some heavier feeder cattle could be considered suitable for processing for domestic 
+use, however market inquiries found that such opportunities were limited. 
+30. Market inquiries indicated that on the supply-side, producers could not switch 
+easily between supplying feeder cattle and fat cattle. While physically it is possible 
+to switch between selling cattle as feeder cattle and fat cattle (e.g. by retaining 
+feeder cattle on grass until they reach fat cattle weight), it was found that in most 
+cases, switching would not be realistic in the short term, and is more likely to be 
+undertaken as part of a longer term strategy for feeder cattle producers in relation 
+to their future cattle herds, and not their current herds. 
+31. Pricing practices in the beef industry also show a clear distinction between feeder 
+and fat cattle. Publications such as “The Land” newspaper separately list the prices 
+realised for feeder cattle according to certain specifications on a weekly basis. 
+Furthermore, the industry regularly holds fat cattle sales (as distinct from feeder 
+sales which are held separately). 
+32. In light of the above, the ACCC considered that there are separate markets for the 
+acquisition of feeder cattle and fat cattle. While making this distinction, the ACCC 
+noted that these product markets are related, as feeder cattle are essentially an input 
+into the production of fat cattle.  
+Acquisition of fat cattle  
+ 
+Acquisition by processors of other meats 
+ 
+33. The ACCC further considered whether the relevant acquisition market for fat cattle 
+should be defined to include the acquisition of fat cattle by processors of small 
+animals including lambs, pigs and goats. 
+34. Market inquiries revealed that abattoirs designed to slaughter small animals such as 
+lambs, pigs and goats are not suitably structured to handle cattle and would require 
+considerable investment to do so. Similarly, abattoirs designed to slaughter cattle 
+are not designed to handle small animals. Accordingly, the ACCC took the view 
+that acquirers of small animals for meat processing were not close substitutes for 
+cattle processors, and consequently, the product dimension of the relevant 
+-6- 
+
+
+ 
+acquisition market should be confined to fat cattle, and abattoirs that slaughter 
+these types of animals. 
+Acquisition by hot bone processors 
+ 
+35. The ACCC considered whether the relevant acquisition market should be defined 
+to include the acquisition of fat cattle by hot bone processors as well as cold bone 
+processors.  
+36. The ACCC’s preliminary view in its Statement of Issues was that hot bone and 
+cold bone facilities were likely to compete for fat cattle. However, further market 
+inquiries indicated that hot bone abattoirs were not close substitutes to cold bone 
+abattoirs for the acquisition of fat cattle. 
+37. Hot bone abattoirs generally acquire older or lower quality cattle (such as dairy 
+cattle that no longer produce milk) for the production of ground beef. Prime quality 
+cattle (such as fat cattle) are significantly more expensive than the older or lower 
+quality cattle. Inquiries indicated that hot bone abattoirs are significantly 
+constrained in the price they can pay for cattle due to the price they can obtain for 
+their output product. The ACCC considered that the price of fat cattle would have 
+to decrease by a very large amount before producers of fat cattle would switch a 
+significant proportion of sales of fat cattle from cold bone abattoirs to hot bone 
+abattoirs. 
+38. It was also noted that hot bone processors could not easily switch production 
+capacity to cold bone production, as the two processes are different and involve 
+different plant and equipment. In particular, while hot bone facilities have suitable 
+equipment to slaughter cattle, they generally lack the refrigeration equipment 
+required for cold bone beef production.  
+39. Accordingly, the ACCC considered that the product dimension of the relevant 
+acquisition market should be limited to the acquisition of fat cattle by cold bone 
+abattoirs. 
+Acquisition by export-accredited and domestic abattoir facilities 
+ 
+40. The ACCC considered whether the acquisition of fat cattle for export-accredited 
+and domestic abattoir facilities should be treated as falling within the same market, 
+or separate markets. 
+41. Market participants indicated that there are various types of fat cattle acquired for 
+slaughter. For the most part, larger, heavier fat cattle are slaughtered for the 
+production of export grade beef, while smaller fat cattle are slaughtered to produce 
+domestic grade beef. 
+42. Not all abattoir facilities are capable of processing all cattle types. Abattoirs that 
+export beef are required to pass an accreditation process and are often configured 
+to handle both larger and smaller cattle. The ACCC considered that these facilities 
+can substitute between acquiring lighter and heavier fat cattle in response to a 
+small but significant decrease in the price of either of these types of cattle. 
+-7- 
+
+
+ 
+43. Abattoirs that are set up to slaughter only lighter fat cattle may not have the 
+necessary facilities and equipment to slaughter heavier fat cattle and would have to 
+make additional investments in modifying or reconfiguring their facilities before 
+they could effectively slaughter larger beasts. However, these facilities may 
+represent a substitute buyer for heavier fat cattle producers, who may be able to 
+sell fat cattle earlier at a lighter weight to domestic abattoir facilities in response to 
+a small but significant decrease in the price of heavier fat cattle.  
+44. On this basis, the ACCC considered that the acquisition of fat cattle by export-
+accredited facilities and the acquisition of fat cattle by domestic facilities should be 
+considered as part of the same market. Nevertheless, it was noted that domestic 
+facilities set up to slaughter lighter fat cattle are not as close a substitute for export-
+accredited facilities for acquiring heavier cattle as they are for lighter beasts.  
+Conclusion – product dimension – acquisition markets 
+45. The ACCC considered that there are separate markets for the acquisition of feeder 
+cattle, and the acquisition of fat cattle by cold bone abattoirs. 
+Geographic dimension – feeder cattle 
+46. Market inquiries indicated that cattle producers bear the cost of transporting cattle 
+to customers (feedlots etc) and prefer to transport feeder cattle the shortest possible 
+distance to minimise transport costs and potential damage to livestock. Transport 
+costs include not only the direct cost of transporting cattle, but also the cost of 
+having the cattle lose weight and condition during transit (referred to in the 
+industry as ‘shrinkage6’). 
+47. Market participants indicated that there is frequent movement of feeder cattle 
+within the Victoria and southern/central NSW region but very limited movement of 
+cattle between northern NSW/southern Queensland and southern/central NSW and 
+Victoria. The transportation of cattle over long distances appears to occur only as a 
+response to unusual market or seasonal conditions.7 The ACCC considered that a 
+small but significant decrease in the price of feeder cattle within southern/central 
+NSW and Victoria would be unlikely to lead to feeder cattle producers selling 
+cattle to buyers outside of the region in significant quantities. 
+48. On this basis, the ACCC considered that the relevant market for the acquisition of 
+feeder cattle extends from central NSW into Victoria. 
+                                                 
+6  
+Shrinkage is a combination of (i) loss of condition suffered during transport, and (ii) loss of weight 
+due to the animal being off food during transport.  
+7  
+While demand for feeder cattle remains reasonably constant year round, supply can fluctuate due to 
+seasonal weather conditions. At certain times of the year, feeder cattle will be more abundant in 
+central/southern NSW and Victoria than in northern NSW and southern Queensland (and vice 
+versa). During these times, acquirers of feeder cattle in areas of low supply may acquire feeder 
+cattle from further away than usual, leading to a seasonal variation in the distance that feeder cattle 
+are transported. Market inquiries indicated that transport over long distances due to seasonal 
+variations accounts for a small percentage of the sales of feeder cattle from southern/central NSW 
+and Victoria. 
+-8- 
+
+
+ 
+Geographic dimension – fat cattle 
+49. As was the case in the market for the acquisition of feeder cattle, the ACCC found 
+that the cost of transporting fat cattle was the key factor in defining the geographic 
+scope of this market. Transport cost relates not just to the cost of haulage, but also 
+to potential damage to the beasts during transport, shrinkage and stress, which can 
+all affect the quality of the final beef product, and hence the value of the fat cattle 
+being slaughtered. Market inquiries indicated that the further the fat cattle are 
+transported, the greater the loss of condition and the more likely it is that the beasts 
+will be damaged, decreasing the value of the cattle that are sold. 
+50. The ACCC considered that the geographic scope of the relevant market for the 
+acquisition of fat cattle includes southern/central NSW and Victoria. Market 
+inquiries revealed that fat cattle producers within this region saw cold bone 
+abattoirs within the region as potential alternative acquirers of their fat cattle. 
+Facilities further north were less likely to be considered an attractive alternative for 
+fat cattle producers within southern/central NSW and Victoria (due to the distance 
+involved in accessing the facility) and accordingly, were not considered to be 
+sufficiently close substitutes to be included in the relevant market.   
+51. The ACCC noted that abattoirs in northern New South Wales and southern 
+Queensland may be considered as a possible substitute to Rockdale’s Yanco 
+facility for some fat cattle producers located at the northern edge of the 
+southern/central NSW region. However, the ACCC took the view that abattoirs in 
+northern NSW and southern Queensland were not a viable alternative for the 
+majority of producers located in Victoria and southern/central NSW, and 
+accordingly were considered to compete only on the margins of the market. 
+Supply of processed beef 
+ 
+52. The ACCC’s preliminary view in its Statement of Issues was that the relevant 
+market for processed beef was likely to be a national or east coast market for the 
+wholesale supply of beef. The ACCC considered that on the demand-side beef and 
+other non-beef meat products were not close substitutes for meat wholesalers and 
+retailers. In addition, the ACCC considered that on the supply-side other non-beef 
+meat producers could not easily switch to the production of beef in response to a 
+small but significant increase in the price of processed beef. Accordingly, the 
+ACCC concluded that there is a separate market for the supply of processed beef.  
+53. The ACCC consulted a number of market participants following the Statement of 
+Issues, who confirmed that the competition between suppliers of processed beef in 
+Western Australia and the eastern seaboard of Australia was often limited. 
+Consequently, the ACCC considered that the market should be confined to the 
+eastern seaboard of Australia. 
+With/without test  
+54. In assessing a merger or acquisition pursuant to section 50 of the Act, the ACCC 
+must consider the effects of the transaction by comparing the likely competitive 
+environment if the transaction proceeds (the “with” position) to the likely 
+-9- 
+
+
+ 
+competitive environment if the transaction does not proceed (the “without” or 
+“counterfactual” position). 
+55. The ACCC noted that at the time of this merger review, Rockdale’s feedlot facility 
+was under-utilised and Rockdale was no longer competing strongly for the 
+acquisition of feeder cattle for its feedlot facilities. However, in assessing the likely 
+counterfactual, the ACCC considered whether Rockdale’s facility was likely to be 
+more fully utilised in the future if the transaction did not take place, or whether the 
+facility would continue to be underutilised or exit the market. 
+56. The ACCC received information that a number of buyers were interested in 
+acquiring Rockdale’s assets in the event that the proposed acquisition did not go 
+ahead. The ACCC also considered that Rockdale’s facilities were attractive to 
+alternative bidders. Market participants generally indicated that Rockdale’s co-
+located beef feedlot and abattoir is highly regarded in the industry and is a high 
+quality, modern facility that is close to grain and cattle supplies. 
+57. The ACCC considered that, in the absence of the proposed acquisition, Rockdale’s 
+facilities were likely to be acquired by an alternative bidder and operated 
+independent of Swift. The ACCC also considered that the future operator of 
+Rockdale’s assets was likely to more fully utilise the feedlot and abattoir facilities 
+and, consequently, be more active in the acquisition of fat and feeder cattle than 
+Rockdale is currently. 
+Competition analysis 
+Acquisition of feeder cattle – unilateral effects 
+ 
+58. The ACCC examined whether the proposed acquisition was likely to result in a 
+substantial lessening of competition in relation to the acquisition of feeder cattle by 
+way of unilateral effects.8 In particular, the ACCC examined whether, as a result of 
+the proposed acquisition, the merged entity would be likely to be able to 
+significantly and sustainably reduce the price of feeder cattle.  In this regard, a key 
+issue investigated was whether sufficient competitive forces would remain to 
+constrain the merged entity post-acquisition. 
+Competition from other feedlots 
+ 
+59. The ACCC considered the extent to which competition from rival feedlots was 
+likely to prevent the merged entity from reducing the price that it pays for feeder 
+cattle. 
+60. Rockdale owns and operates one feedlot in the relevant market, in Yanco, NSW, 
+while Swift owns and operates feedlots in Tabbita and Burraboi, NSW, which are 
+                                                 
+8  
+Mergers have unilateral effects when they remove or weaken competitive constraints in such a way 
+that the merged entity’s unilateral market power is increased. That is, as a result of the merger the 
+merged entity finds it profitable to raise prices (or in the case of the market for the acquisition of 
+feeder cattle, reduce the price it pays), reduce output or otherwise exercise market power it has 
+gained, and can do so without any change in the nature of other market participants conduct. 
+-10- 
+
+
+ 
+approximately 100 kilometres and 300 kilometres respectively from Rockdale’s 
+feedlot.  
+61. By acquiring Rockdale, Swift will become the largest feedlot operator in the 
+market. However, five other large feedlot providers will remain in the market post-
+merger. These are Peechelba (ICM) Feedlot at Wangaratta, Elders Charlton 
+Feedlot at Yeungroon, Cargill at Springdale, Ravensworth Feedlot at Hay, and 
+Hell’s Gate at Balranald. The ACCC considered that these larger feedlots have 
+similar attributes to Swift and Rockdale’s feedlots and will continue to compete 
+against the merged entity for the acquisition of feeder cattle. 
+62. In addition, there are a number of medium to small feedlots in the market, 
+including Garrison Feedlot, Jabell Feedlot, Bunaloo Pastoral, Gundamain and 
+Associated Feedlot as well as approximately 50 other feedlots in the market with a 
+capacity of less than 5000 head. 
+63. The ACCC considered that competition from a combination of rival feedlots with 
+large facilities and medium to small feedlots was likely to provide an effective 
+competitive constraint on the merged entity post-merger. In particular, the ACCC 
+considered that the presence of a number of competitors with significant spare 
+capacity was likely to prevent the merged entity from significantly decreasing the 
+price it pays for feeder cattle.   
+64. Market participants indicated that there has been significant spare capacity in 
+feedlot operations in NSW and Victoria for an extended period of time, and this is 
+likely to continue in the foreseeable future. Further, market inquiries revealed that 
+there are typically no long term contracts in relation to the supply of feeder cattle 
+to feedlots, and a feedlot with spare capacity could readily acquire feeder cattle if 
+there was a business rationale to do so, such as where the merged entity attempted 
+to decrease the price of feeder cattle. 
+65. Market inquiries revealed that while small and medium sized feedlots did not 
+individually provide as strong a competitive constraint on the merger parties as 
+larger feedlots, smaller feedlots have been successful in gaining the business of 
+large customers in downstream markets, including major supermarkets.9  
+Accordingly, the ACCC considered it likely that small and medium sized feedlots 
+would also continue to impose a competitive constraint on the merged entity in 
+relation to the acquisition of feeder cattle post-merger. 
+Other factors 
+66. In addition to the constraint from permanently operating feedlots, market inquiries 
+indicated that a number of smaller feedlots in the market operate on an 
+opportunistic basis. These feedlots can operate with few or no cattle in their feedlot 
+when conditions are unfavourable (e.g. feeder cattle prices are high or feed is 
+expensive) and re-enter by acquiring feeder cattle when conditions are more 
+                                                 
+9  
+The supermarket chains are active acquirers of feeder cattle. These businesses do not generally own 
+feedlot or farm assets capable of fattening cattle, but instead contract with feedlots and farmers to 
+feed cattle on their behalf. The ACCC is aware that the supermarket chains utilise a number of 
+smaller feedlots for this purpose. 
+-11- 
+
+
+ 
+favourable. This includes times when the prices of inputs (feeder cattle and grain) 
+are lower and/or when the price of fat cattle is higher. These opportunistic feedlots 
+are responsive to changes in the price of feeder cattle, and are likely to compete 
+more strongly for feeder cattle if the price falls. The ACCC considered that 
+opportunistic entry and exit by these businesses may provide some further degree 
+of competitive constraint on the merged entity in the event that it attempted to 
+decrease the price of feeder cattle. 
+67. The ACCC considered that timely new entry for medium to large feedlots was 
+unlikely. In particular, the ACCC considered that existing excess feedlot capacity 
+within the market; the need to obtain appropriate planning and environmental 
+permits; the presence of sunk costs; and the need to situate a feedlot on land close 
+to grain, water and cattle supply were likely to deter a new large or medium scale 
+entrant from supplying lot feeding services. Accordingly, the ACCC did not 
+consider that the threat of new entry from large to medium sized feedlots was 
+likely to be a strong constraint on the merged entity in the event that it attempted to 
+decrease the price of feeder cattle. 
+68. The ACCC found that backgrounders and restockers would provide an additional 
+competitive constraint on the merged entity, but the level of competition provided 
+by these industry participants is likely to vary, depending on a number of factors, 
+particularly climatic conditions. Market inquiries indicated that backgrounders and 
+restockers are very active buyers of feeder cattle at certain times. During these 
+times, backgrounders and restockers are likely to compete vigorously with the 
+merged entity and other feedlots to acquire feeder cattle. However, the purchasing 
+patterns of backgrounders and restockers are largely determined by the amount of 
+grass available to them on farm and, as such, weather patterns such as drought can 
+significantly affect the number of cattle purchased.  
+Acquisition of feeder cattle – coordinated effects 
+69. The ACCC also considered whether the proposed acquisition was likely to result in 
+a substantial lessening of competition in the feeder cattle acquisition market 
+through coordinated effects.10 
+70. The ACCC found that there are features of the feeder cattle markets that may tend 
+to make coordination more feasible than in some other markets. Major feedlots 
+issue pricing grids stating their offer price for feeder cattle11 and whether they are 
+buying cattle in the particular period. Trading of feeder cattle takes place 
+frequently and feeder cattle within a given specification are reasonably 
+homogeneous goods.12 
+                                                 
+10  
+Mergers have coordinated effects when they assist firms in the market in implicitly or explicitly 
+coordinating their pricing, output or related commercial decisions. A merger may do so simply by 
+reducing the number of firms among which to coordinate, by removing or weakening competitive 
+constraints or by altering certain market conditions that make coordination more likely.  
+11  
+Pricing grids for feeder cattle are sometimes referred to as specification lists. 
+12  
+Feedlots acquire different weight feeder cattle depending on whether the animals are destined for 
+use in domestic or export grade beef. Cattle are fairly homogeneous within these weight ranges, as 
+they must meet certain defined specifications prior to sale. 
+-12- 
+
+
+ 
+71. The ACCC considered that sufficient constraints would exist in the relevant market 
+post acquisition to prevent a substantial lessening of competition from occurring by 
+way of coordinated effects. In particular, the ACCC considered that the large 
+number of medium to large sized feedlots would increase the difficulty involved 
+for the remaining firms to effectively engage in coordinated conduct. The number 
+of effective competitors in the market would increase the chance of firms deviating 
+from any attempted coordination and increase the difficulty involved for firms 
+wishing to monitor the pricing behaviour of their competitors.13 
+72. To a lesser extent, the ACCC considered that other factors such as potential 
+seasonal acquisitions of feeder cattle by feedlots outside of the market and 
+opportunist activities by backgrounders, restockers and smaller feedlots may also 
+disrupt any attempt to engage in coordinated conduct. 
+Summary – acquisition of feeder cattle 
+73. The ACCC considered that the proposed acquisition would not result in a 
+substantial lessening of competition in the market for the acquisition of feeder 
+cattle. In reaching this conclusion, the ACCC considered that large rival feedlots 
+together with a significant number of smaller feedlots would continue to compete 
+with and constrain the pricing decisions of the merged entity. The ACCC also 
+considered that the large number of competing feedlots would likely prevent a 
+substantial lessening of competition from occurring by way of coordinated effects. 
+74. In addition, the ACCC considered that backgrounders, restockers and abattoirs are 
+likely to provide some competitive constraint on the merged firm, as they are 
+active to varying degrees in the acquisition of feeder cattle. 
+Acquisition of fat cattle – unilateral effects 
+ 
+75. The ACCC considered whether the proposed acquisition was likely to lead to a 
+substantial lessening of competition in the market for the acquisition of fat cattle 
+by way of unilateral effects. In particular, the ACCC examined whether the merged 
+entity would be able to significantly and sustainably decrease the price it paid to 
+acquire fat cattle or otherwise exercise market power following the acquisition. 
+Competition from other abattoirs 
+76. Post acquisition, the merged entity will own two large export accredited cold bone 
+abattoirs in the relevant market, giving it the highest fat cattle slaughter capacity in 
+that region.  It was found that the merger parties were active in the acquisition of 
+fat cattle for both export (heavier beasts) and domestic uses (lighter beasts).   
+77. However, market enquiries indicated that the combination of other large export 
+accredited cold bone abattoirs and non-export accredited domestic facilities within 
+                                                 
+13  
+Firms in a market will have an incentive to deviate from a coordinated consensus unless they fear 
+punishment that would outweigh the potential short-term gains from cheating on the terms of 
+coordination. Punishment may simply involve a return to competitive conditions or, for example, a 
+‘price war’. The incentive to cheat is increased if the imposition of punishment is likely to be 
+significantly delayed (for example, because market transactions are infrequent). The credible threat 
+of effective punishment alone may be sufficient to deter cheating. 
+-13- 
+
+
+ 
+Victoria and southern/central NSW would continue to provide an effective 
+competitive constraint on the merged entity post-acquisition. 
+Other large export accredited cold bone processors  
+78. The ACCC identified a number of other large export accredited facilities in the 
+relevant market, including facilities operated by Cargill, Norvic Food Processing, 
+MC Herd, G&K O’Connor, GBP Exports and Tabro Meats. The ACCC also 
+identified a number of other smaller export accredited facilities within the relevant 
+market.  
+79. Market inquiries indicated that these facilities were close competitors to the merger 
+parties, and would continue to provide an effective competitive constraint post-
+acquisition, as they are active in buying all types of fat cattle for slaughter, 
+including both export and domestic grade beef. Accordingly, the ACCC considered 
+that the threat of fat cattle producers selling to a competing export accredited 
+abattoir facility is likely to act as a significant constraint on the pricing decisions of 
+the merged entity. 
+80. Market inquiries indicated that some other export accredited abattoirs located just 
+outside of the relevant market, such as Teys and T&R Pastoral in SA, compete to 
+acquire fat cattle from at least some of the fat cattle producers within the relevant 
+market. However, given the transport distances involved to these facilities, for 
+most producers of fat cattle in the relevant market, these facilities represent a less 
+attractive alternative to facilities operating in southern/central NSW and Victoria. 
+The ACCC considered that these facilities represent a weaker, although still 
+relevant, constraint on the pricing decisions of the merged entity. 
+Non-export accredited cold bone processors 
+81. The ACCC identified five non-export accredited facilities within the relevant 
+market. Market inquiries indicated that these facilities largely acquire lighter grass 
+fed fat cattle, and lighter grain fed fat cattle when the supply of grass fed fat cattle 
+is low (which is largely determined by seasonal weather patterns). The ACCC 
+considered that post-merger, these facilities would continue to compete with the 
+merged entity, particularly for lighter fat cattle. 
+82. It was found that these facilities would not provide the same level of competitive 
+constraint on the merger parties as the export accredited facilities, particularly in 
+relation to the acquisition of heavier cattle. Export accredited abattoirs are 
+generally equipped to process heavier (export grade) fat cattle and can also process 
+lighter (domestic grade) fat cattle. Non-export accredited facilities mostly lack the 
+plant and equipment necessary for slaughtering larger animals. Market inquiries 
+also indicated that while there are some additional costs (such as quarantine 
+certification) for export accredited facilities, they are generally able to extract 
+greater revenue from a given carcass by selling the off-cuts, such as offal, into 
+-14- 
+
+
+ 
+export markets14 and are therefore generally preferred by sellers of grain fed fat 
+cattle.  
+83. It was also found that while the threat of fat cattle producers selling potentially 
+heavier cattle early at a lighter weight to these abattoirs may also pose some 
+constraint on the merged entity, this would provide only a limited constraint. 
+Other factors 
+84. Market inquiries indicated that barriers to entry in the relevant market are high. 
+Market inquiries indicated that there are significant sunk costs involved in 
+establishing new abattoir facilities (particularly large export accredited facilities), 
+while compliance with planning and environmental legislation can be expensive 
+and take long periods of time to complete.  
+85. While barriers to entry are likely to be high, the ACCC considered that larger 
+participants in the beef industry may be willing to construct new facilities where 
+there is a sufficient incentive to do so. For example, AACo has announced plans to 
+construct an abattoir in the Northern Territory in response to an increase in supply 
+of fat cattle in that region.15 16 Also, some of the abattoirs that engage solely in hot 
+bone beef production would face less significant barriers to entry if they wished to 
+commence cold bone production than would a new entrant (depending on the 
+location and age of the facility). In many cases, these facilities have many of the 
+relevant permits, relationships with customers and suppliers, some plant and 
+equipment and skilled staff that are suitable to beef production. Because of this, hot 
+bone abattoirs face fewer barriers to entering cold bone beef production than a 
+completely new entrant would face. 
+86. However, while considering that new entry may be possible in the longer term, the 
+ACCC did not consider that the threat of new entry was likely to be a strong 
+constraint on the merged entity in the event that it attempted to decrease the price 
+of fat cattle. The ACCC therefore relied on other competitive constraints in 
+forming its view that the proposed acquisition was not likely to substantially lessen 
+competition.  
+Acquisition of fat cattle – coordinated effects 
+ 
+87. The ACCC considered whether the proposed acquisition was likely to result in a 
+substantial lessening of competition in this market due to coordinated effects. 
+88. As was the case with feeder cattle, the ACCC found that there are features of the 
+fat cattle market that may tend to make coordination more feasible than in some 
+                                                 
+14  
+The domestic market for these off-cuts is small, and demand is higher in export markets. Only 
+export accredited abattoir facilities are able to access the export markets. 
+15  
+Restrictions on the export of live fat cattle to Indonesia have led to an increase in the domestic 
+supply of fat cattle in the Northern Territory. Many cattle from this region were previously exported 
+live to Indonesia. However, it is noted that market conditions in the Northern Territory are different 
+to those in the relevant market, and it is therefore not safe to infer from this proposed new entry in 
+the Northern Territory that similar new entry is likely in the relevant market. 
+16 
+http://theland.farmonline.com.au/news/state/livestock/cattle/restrictions-prompt-aaco-abattoir-
+plan/1914135.aspx  
+-15- 
+
+
+ 
+other markets, such as the issuing of price grids by abattoirs17, transactions taking 
+place on a frequent basis and fat cattle of a given specification being a reasonably 
+homogeneous good. 
+89. However, the ACCC ultimately considered that there would be sufficient 
+constraints in the relevant market post acquisition to prevent a substantial lessening 
+of competition from occurring by way of coordinated effects.  
+90. In particular, the ACCC considered that the number of abattoirs competing 
+effectively in the relevant market post acquisition would make it difficult to 
+organise and maintain coordinated conduct (either explicitly or implicitly) between 
+the remaining firms. The ability of firms to monitor the prices paid by their 
+competitors, which is normally an important element in maintaining coordinated 
+conduct, is likely to be made more difficult due to the number of competing 
+abattoirs. This large number of effective competitors makes deviation from a 
+coordinated price more likely, and punishment of such deviation more difficult.  
+91. To a lesser extent, the ACCC considered that other factors such as potential 
+seasonal acquisitions of fat cattle by abattoirs outside the market and the threat of 
+new entry may also disrupt efforts by the remaining firms to engage in coordinated 
+conduct.  
+Summary – acquisition of fat cattle 
+ 
+92. The ACCC considered that, post acquisition, producers of fat cattle would continue 
+to have a number of alternative buyers (abattoirs) for their fat cattle.  The ACCC 
+considered that the threat of fat cattle producers diverting supply to competing 
+abattoirs in response to a decrease in price by the merged entity was likely to act as 
+the key competitive constraint on the merged entity’s pricing decisions. The ACCC 
+also considered that the presence of alternative acquirers of fat cattle was likely to 
+prevent a substantial lessening of competition from occurring from coordinated 
+effects.  
+93. Consequently, the ACCC did not consider that a substantial lessening of 
+competition was likely in relation to the acquisition of fat cattle market as a result 
+of unilateral or coordinated effects. 
+Acquisition of fat and feeder cattle – vertical foreclosure 
+94. The ACCC also examined whether the proposed acquisition would be likely to 
+lead to vertical foreclosure18 by the merged entity, given that the merged entity will 
+be both a seller of fat cattle from its feedlots and an acquirer of fat cattle for its 
+                                                 
+17  
+As with price grids for feeder cattle, the ACCC found that price grids for fat cattle represented a 
+good guide to pricing, but did not reflect actual final prices. 
+18  
+A vertically integrated merged entity would be able to engage in foreclosure strategies against rival 
+downstream firms if it had sufficient market power in the upstream market—that is, where its 
+downstream rivals faced insufficient viable supply alternatives. This might occur for a variety of 
+reasons including capacity constraints faced by rival upstream suppliers, barriers to entry or product 
+differentiation between the products and/or services offered by the integrated firm and its rivals. 
+Similarly, an integrated merged firm would only be able to engage in foreclosure strategies against 
+rival upstream firms if it had sufficient market power in the downstream market. 
+-16- 
+
+
+ 
+abattoirs. In particular, the ACCC examined whether the merged entity would be 
+able to use its position as an acquirer of fat cattle to profitably disadvantage or stop 
+competing feedlot operators from selling fat cattle in an attempt to remove 
+competing feedlots from the market and similarly, whether the merged entity could 
+use its feedlots to drive competing abattoirs out of the market by distorting fat 
+cattle prices or disrupting access to fat cattle. Ultimately, and consistent with the 
+ACCC’s consideration of unilateral effects, the ACCC did not consider that the 
+merged entity was likely to gain sufficient market power in either of these relevant 
+markets to successfully lessen competition by way of vertical foreclosure.  
+Supply of processed beef 
+95. The Statement of Issues noted in relation to this matter a preliminary view that 
+competition issues were unlikely to arise in relation to the market for processed 
+beef. The ACCC conducted additional inquiries in the period following the 
+Statement of Issues, and these inquiries confirmed the ACCC’s preliminary view. 
+In particular, market inquiries indicated that the merged entity would continue to 
+be competitively constrained by existing competitors such as Teys, Nippon, HW 
+Greenham, Cargill and Australian Country Choice, and that the proposed 
+acquisition was unlikely to substantially lessen competition in this market. 
+Conclusion 
+96. On the basis of the above, the ACCC formed the view that the proposed acquisition 
+of Rockdale Beef by Swift would not be likely to result in a substantial lessening 
+of competition in any relevant market in contravention of section 50 of the Act. 
+-17- 

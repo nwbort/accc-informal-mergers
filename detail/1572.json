@@ -1,0 +1,31 @@
+{
+  "id": "1572",
+  "title": "Acquirer: Genus plc; Target: RAB Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-genus-plc-target-rab-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17254",
+  "industries": [],
+  "date_completed": "18 March 2003",
+  "date_completed_iso": "2003-03-18T12:00:00Z",
+  "date_commenced": "28 January 2003",
+  "date_commenced_iso": "2003-01-28T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Genus plc"
+  ],
+  "targets": [
+    "RAB Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 18 March 2003 the Commission decided that it would not intervene in the proposed acquisition of RAB Australia Pty Ltd  by Genus plc.",
+    "Market definition": "The national wholesale market for the sale of bull semen used for the artificial insemination of dairy cattle; and The national wholesale market for the sale of bull semen used for the artificial insemination of beef cattle.",
+    "Competition analysis": "The Comission conducted market inquiries into the matter and subsequently formed the view that the proposed acquisition is unlikely to result in a substantial lessening of competition. While the Commission's concentration thresholds may be crossed in relation to semen products used for the artificial insemination of dairy cattle, substantial import competition and the presence of a number of other vigorous and effective competitors are likely to act as a sufficient competitive constraint to prevent the merged entity from raising its prices post-merger.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Yes",
+    "Initiation": "Parties",
+    "ANZSIC code": "0122"
+  }
+}

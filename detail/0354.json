@@ -1,0 +1,89 @@
+{
+  "id": "0354",
+  "title": "Gallagher Group - proposed acquisition of Country Electronics Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/gallagher-group-proposed-acquisition-of-country-electronics-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "49885",
+  "industries": [
+    "Electronics"
+  ],
+  "date_completed": "19 December 2013",
+  "date_completed_iso": "2013-12-19T12:00:00Z",
+  "date_commenced": "25 October 2012",
+  "date_commenced_iso": "2012-10-25T12:00:00Z",
+  "total_review_days": 92,
+  "acquirers": [
+    "Gallagher Group"
+  ],
+  "targets": [
+    "Country Electronics Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Oct 2012",
+      "date_iso": "2012-10-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Nov 2012",
+      "date_iso": "2012-11-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Dec 2012",
+      "date_iso": "2012-12-13T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended. Former proposed decision date of 20 December 2012 delayed pending receipt of information from the parties."
+    },
+    {
+      "date": "20 Dec 2012",
+      "date_iso": "2012-12-20T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Jan 2013",
+      "date_iso": "2013-01-31T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "15 Feb 2013",
+      "date_iso": "2013-02-15T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "4 Mar 2013",
+      "date_iso": "2013-03-04T12:00:00Z",
+      "event": "Former proposed decision date of 15 March 2013 delayed to allow provision of information requested from Gallagher."
+    },
+    {
+      "date": "11 Mar 2013",
+      "date_iso": "2013-03-11T12:00:00Z",
+      "event": "ACCC received further information from Gallagher. ACCC timeline recommenced."
+    },
+    {
+      "date": "21 Mar 2013",
+      "date_iso": "2013-03-21T12:00:00Z",
+      "event": "Former proposed decision date of 21 March 2013 delayed to allow Gallagher to make further submissions."
+    },
+    {
+      "date": "27 Mar 2013",
+      "date_iso": "2013-03-27T12:00:00Z",
+      "event": "Timeline suspended at Gallagher's request to allow it to make further submissions."
+    },
+    {
+      "date": "13 Dec 2013",
+      "date_iso": "2013-12-13T12:00:00Z",
+      "event": "ACCC received further information from Gallagher."
+    },
+    {
+      "date": "19 Dec 2013",
+      "date_iso": "2013-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Gallagher Holdings Limited proposed to acquire Country electronics, trading as Thunderbird Agricultural Products.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

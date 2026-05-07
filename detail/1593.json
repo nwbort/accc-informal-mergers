@@ -1,0 +1,31 @@
+{
+  "id": "1593",
+  "title": "Acquirer: Insurance Australia Group Ltd; Target: CGU Insurance Australia Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-insurance-australia-group-ltd-target-cgu-insurance-australia-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "16396",
+  "industries": [],
+  "date_completed": "26 November 2002",
+  "date_completed_iso": "2002-11-26T12:00:00Z",
+  "date_commenced": "25 July 2002",
+  "date_commenced_iso": "2002-07-25T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Insurance Australia Group Ltd"
+  ],
+  "targets": [
+    "CGU Insurance Australia Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "IAG proposes to acquire all of the general insurance businesses of Aviva plc, which operates in Australia as CGU Insurance and CGU-VACC Insurance.",
+    "Market definition": "For the purpose of competition analysis, the proposed acquisitions was considered on the basis of each of the following market definitions: The national market for general insurance, as well as markets for domestic motor, home, compulsory third party (CTP), commercial motor, commercial other, workers' compensation risk  and workers' compensation non-risk insurance. Motor insurance was also considered on a state-by-state basis.",
+    "Competition analysis": "The Commission does not propose to take any action pursuant to section 50 in relation to the proposed acquisition. In reaching this conclusion the Commission noted that that home insurance and domestic motor insurance are the only two significant areas of overlap between IAG and CGU.  The proposed acquisition would give IAG 37.8% of home insurance and 42% of domestic motor insurance nationally. The Commission found that a substantial lessening of competition from the acquisition was unlikely because IAG will continue to face vigorous competition from other significant players including Suncorp, Royal & Sun Alliance, QBE and Allianz. There is also evidence of some new entry into the general insurance market.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "7422"
+  }
+}

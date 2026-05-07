@@ -1,0 +1,31 @@
+{
+  "id": "1451",
+  "title": "Acquirer: Bruandwo Pty Limited; Target: ALH Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-bruandwo-pty-limited-target-alh-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "19960",
+  "industries": [],
+  "date_completed": "20 October 2004",
+  "date_completed_iso": "2004-10-20T12:00:00Z",
+  "date_commenced": "13 July 2004",
+  "date_commenced_iso": "2004-07-13T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Bruandwo Pty Limited"
+  ],
+  "targets": [
+    "ALH Group Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Bruandwo, a company jointly owned by Woolworths Limited and The Bruce Mathieson Group, intends to acquire Australian Leisure & Hospitality Group Limited (ALH). ALH operates a number of hotels and bottle shops.",
+    "Market definition": "The proposed acquisition was assessed in relation to several markets including various geographic markets for the retailing of packaged liquor for off-premises consumption, various geographic markets for the retailing of liquor for on-premises consumption; the market in which liquor is acquired for subsequent retailing on-premises; the market in which liquor is acquired for subsequent retailing off-premises; and the electronic gaming machine market.",
+    "Competition analysis": "The acquisition leads to an increase in the acquirers? market shares in the above markets. However, these markets are characterised by a large number of small independent players and banner groups, and as a consequence the acquisition does not cross the ACCC?s concentration thresholds except in certain local retail markets in Queensland. The ACCC analysed these local markets closely and found that the acquirer will continue to be constrained by competitors including Coles Myer Limited and independent competitors. Further, in many of these markets independent hotel owners hold entitlements to open new detached bottle shops, which will further constrain any attempt by the merged entity to raise prices. The ACCC therefore concluded that no substantial lessening of competition is likely to arise from the proposed acquisition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "No",
+    "Initiation": "Parties",
+    "ANZSIC code": "5123"
+  }
+}

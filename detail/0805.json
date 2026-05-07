@@ -1,0 +1,74 @@
+{
+  "id": "0805",
+  "title": "Bunnings Group - completed acquisition of five Mitre 10 stores",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bunnings-group-completed-acquisition-of-five-mitre-10-stores",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "34383",
+  "industries": [
+    "Hardware retailing, home improvement"
+  ],
+  "date_completed": "10 February 2009",
+  "date_completed_iso": "2009-02-10T12:00:00Z",
+  "date_commenced": "23 September 2008",
+  "date_commenced_iso": "2008-09-23T12:00:00Z",
+  "total_review_days": 59,
+  "acquirers": [
+    "Bunnings Group Limited"
+  ],
+  "targets": [
+    "Mitre 10"
+  ],
+  "timeline": [
+    {
+      "date": "19 Sep 2008",
+      "date_iso": "2008-09-19T12:00:00Z",
+      "event": "Bunnings informed the ACCC that it had acquired a Mitre 10 store in each of Kempsey NSW (2005), Griffith NSW (2005), Wodonga VIC (2006), Modbury SA (2007), and Randwick NSW (2008). The ACCC was previously aware of the Griffith acquisition."
+    },
+    {
+      "date": "23 Sep 2008",
+      "date_iso": "2008-09-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 Sep 2008",
+      "date_iso": "2008-09-23T12:00:00Z",
+      "event": "ACCC requested information from Bunnings. ACCC timeline suspended."
+    },
+    {
+      "date": "7 Oct 2008",
+      "date_iso": "2008-10-07T12:00:00Z",
+      "event": "Bunnings responded to part of the ACCC's information request dated 23 September 2008."
+    },
+    {
+      "date": "17 Oct 2008",
+      "date_iso": "2008-10-17T12:00:00Z",
+      "event": "ACCC received Bunnings' second response to the ACCC's information request dated 23 September 2008. ACCC timeline recommenced."
+    },
+    {
+      "date": "31 Oct 2008",
+      "date_iso": "2008-10-31T12:00:00Z",
+      "event": "ACCC requested further information from Bunnings. ACCC timeline suspended."
+    },
+    {
+      "date": "5 Nov 2008",
+      "date_iso": "2008-11-05T12:00:00Z",
+      "event": "Bunnings responded to part of the ACCC's information request dated 31 October 2008."
+    },
+    {
+      "date": "28 Nov 2008",
+      "date_iso": "2008-11-28T12:00:00Z",
+      "event": "ACCC received further information from Bunnings. ACCC timeline recommenced."
+    },
+    {
+      "date": "10 Feb 2009",
+      "date_iso": "2009-02-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisitions."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 19 September 2008 Bunnings informed the ACCC that it had acquired a Mitre 10 store in each of Griffith NSW (February 2005), Kempsey NSW (December 2005), Wodonga VIC (March 2006), Modbury SA (January 2007) and Randwick NSW (September 2008). The ACCC was previously aware of the Griffith acquisition.",
+    "Market definition": "The ACCC considered the competitive effects of the acquisitions in relation to localised retail markets and national wholesale markets referable to the products sold by Bunnings and Mitre 10.",
+    "Competition analysis": "The ACCC considered that the acquisitions were unlikely to substantially lessen competition for reasons often particular to the circumstances of each acquisition. Factors considered by the ACCC included the extent of competition to Bunnings post-acquisition; evidence of competitive developments post-acquisition (such as new entry); the comparative degree of competition in likely counterfactual scenarios; and the significance of the acquisition relative to the local competitive environment. In particular: - the acquisition of the Kempsey Mitre 10 store did not significantly alter the level of competition in the relevant market in comparison to any likely counterfactual; - the ACCC had regard to the number of competitors, including recent expansions by competitors, in the Albury/Wodonga market post-acquisition; - in relation to the two metropolitan acquisitions, Modbury and Randwick, numerous competitors remained post-acquisition; and - the acquisition of the Griffith Mitre 10 store was a bare transfer of market share. The ACCC also considered that none of the acquisitions could be said to have substantially lessened competition in any wholesale market, especially in light of greenfields expansion by Bunnings."
+  }
+}

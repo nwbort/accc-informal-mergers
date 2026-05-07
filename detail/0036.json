@@ -1,0 +1,42 @@
+{
+  "id": "0036",
+  "title": "Compass Education Pty Ltd - School Bytes Learning Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/compass-education-pty-ltd-school-bytes-learning-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "School administration software"
+  ],
+  "date_completed": "17 December 2024",
+  "date_completed_iso": "2024-12-17T12:00:00Z",
+  "date_commenced": "16 September 2024",
+  "date_commenced_iso": "2024-09-16T12:00:00Z",
+  "total_review_days": 65,
+  "acquirers": [
+    "Compass Education Pty Ltd"
+  ],
+  "targets": [
+    "School Bytes Learning Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Sep 2024",
+      "date_iso": "2024-09-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Oct 2024",
+      "date_iso": "2024-10-09T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "17 Dec 2024",
+      "date_iso": "2024-12-17T12:00:00Z",
+      "event": "The ACCC has discontinued its public review of the proposed acquisition and will not make a decision whether or not to oppose it.  Following consideration of information and documents provided by the merger parties, the ACCC had concerns about an approach contemplated by the merger parties to providing information to the ACCC.  It is critical that parties engage with the ACCC in good faith including to present information accurately and completely."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Compass Education Pty Ltd (Compass) is seeking to acquire School Bytes Learning Pty Ltd (School Bytes). Compass is an Australian company that supplies school administration software in Australia, the UK and Ireland. The categories of school administration software that Compass supplies to both public and independent schools in Australia include: student information software (including both student administration and school management & operations software), parent & carer communications and consent, timetabling, and student finance software. School Bytes is an Australian company that supplies student information software, parent & carer communications and consent, and student finance software, to public schools in New South Wales. Compass and School Bytes are both approved suppliers of school administration software under the Administration Marketplace Panel for Schools, and overlap in the supply of student information software, parent & carer communication and consent, and student finance software to public schools in New South Wales."
+  }
+}

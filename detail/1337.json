@@ -1,0 +1,29 @@
+{
+  "id": "1337",
+  "title": "National Australia Bank - proposed acquisition of 25% shareholding in Cash Services Australia Pty Ltd (CSA)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/national-australia-bank-proposed-acquisition-of-25-shareholding-in-cash-services-australia-pty-ltd-csa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "21812",
+  "industries": [
+    "Cash transporation and processing services"
+  ],
+  "date_completed": "25 November 2005",
+  "date_completed_iso": "2005-11-25T12:00:00Z",
+  "date_commenced": "9 September 2005",
+  "date_commenced_iso": "2005-09-09T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [],
+  "targets": [],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "National Australia Bank - proposed acquisition of 25% shareholding in Cash Services Australia Pty Ltd (CSA), an existing joint venture between Westpac, ANZ and Commonwealth Bank. CSA acquires amoured carrier services and provides cash logistics services.",
+    "Market definition": "The ACCC considered the proposed acquisiton in the context of the market for the acquisition of armoured carrier services. Alternatively, the ACCC considered that a narrower market, limited to the acquisition of armoured carrier services by the banking sector may be appropriate. The ACCC also considered the proposed acquisition in the context of the wholesale cash market.",
+    "Competition analysis": "The ACCC considered that, following the offer of section 87B undertakings and a written commitment by NAB not to acquire armoured carrier services from CSA without first giving the ACCC six weeks notice, the proposed acquisition was unlikely to substantially lessen competition in any of the relevant markets and decided not to oppose the proposed acquisition. For detailed reasons for the ACCC's view, please refer to the Public Competition Assessment.",
+    "Resolution": "Undertakings accepted",
+    "Merger type": "Horizontal, Vertical",
+    "Initiation": "Parties",
+    "Public competition assessment": "Public competition assessment ( PDF 156.03 KB )",
+    "Undertakings": "Undertakings ( PDF 236.87 KB )"
+  }
+}

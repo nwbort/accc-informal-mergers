@@ -1,0 +1,75 @@
+{
+  "id": "0108",
+  "title": "Veolia Environnement S.A  - Suez S.A.",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/veolia-environnement-sa-suez-sa",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Waste Management",
+    "Water Management and Technology"
+  ],
+  "date_completed": "21 December 2021",
+  "date_completed_iso": "2021-12-21T12:00:00Z",
+  "date_commenced": "19 February 2021",
+  "date_commenced_iso": "2021-02-19T12:00:00Z",
+  "total_review_days": 152,
+  "acquirers": [
+    "Veolia Environnement S.A"
+  ],
+  "targets": [
+    "Suez S.A."
+  ],
+  "timeline": [
+    {
+      "date": "19 Feb 2021",
+      "date_iso": "2021-02-19T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Mar 2021",
+      "date_iso": "2021-03-10T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "14 Apr 2021",
+      "date_iso": "2021-04-14T12:00:00Z",
+      "event": "ACCC paused its review while waiting for information about the revised transaction agreed by Veolia and Suez.  Former proposed date for announcement of findings 13 May 2021 is delayed."
+    },
+    {
+      "date": "12 Jul 2021",
+      "date_iso": "2021-07-12T12:00:00Z",
+      "event": "ACCC commenced informal review of the revised transaction."
+    },
+    {
+      "date": "8 Sep 2021",
+      "date_iso": "2021-09-08T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (16 September 2021) delayed to allow Veolia more time to provide additional information."
+    },
+    {
+      "date": "5 Nov 2021",
+      "date_iso": "2021-11-05T12:00:00Z",
+      "event": "The ACCC commenced market consultation on three proposed s.87B undertaking. The ACCC’s timeline recommenced."
+    },
+    {
+      "date": "17 Nov 2021",
+      "date_iso": "2021-11-17T12:00:00Z",
+      "event": "Closing date for submissions relating to the draft proposed divestment undertakings."
+    },
+    {
+      "date": "16 Dec 2021",
+      "date_iso": "2021-12-16T12:00:00Z",
+      "event": "ACCC received further information from Veolia. Former proposed date for announcement of findings (16 December 2021) delayed to consider the new information."
+    },
+    {
+      "date": "21 Dec 2021",
+      "date_iso": "2021-12-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to three section 87B undertakings accepted by the ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "On 5 October 2020, Veolia Environnement S.A ( Veolia ) acquired a 29.9% interest in Suez S.A. ( Suez ). Veolia proposed to acquire the remaining shares in Suez that it did not already own. In Australia, Veolia supplies water management, waste management and energy solutions. Suez's Australian operations include water management and technology, waste management and resource recovery services. The ACCC commenced its public review in February 2021. On 14 May 2021, Veolia advised the ACCC of substantial changes to the assets being acquired. Veolia proposed to ultimately acquire Suez’s Australian waste business, with the exception of a non-putrescible landfill at Kemps Creek, a putrescible landfill at Lucas Heights, and five transfer stations capable of processing putrescible waste across Sydney. Veolia also proposed to acquire Suez’s Water Technologies and Solutions (WTS) Australian business which supplies technologies, chemicals, mobile water services. It also provides water management services, mainly to industrial customers. A consortium of investors known as ‘new Suez’ intended to acquire the Suez Water business, which included Suez's Australian water operations. Suez Water supplies water management services, mainly to large scale (mostly municipal) customers. Veolia proposed three separate court enforceable undertakings offered pursuant to s.87B of the Competition and Consumer Act (Cth), which would commit Veolia to divest: certain commercial and industrial waste assets in Sydney, Perth and Adelaide, and medical waste assets in Adelaide, to REMONDIS. Suez’s municipal water business (‘Suez Water’) to a consortium of investors. its interest in Integrated Waste Services in Adelaide to First Sentier Investors (FSI). On 21 December, the ACCC decided to not oppose Veolia’s proposed acquisition of Suez after accepting three court-enforceable divestiture undertakings provided by Veolia. Veolia’s earlier proposed undertaking relating to the divestment of Sydney waste assets to Cleanaway was ultimately not required by the ACCC, as the transaction between Cleanaway and Suez completed on 18 December 2021. Cleanaway’s proposed acquisition was not opposed by the ACCC on 9 December 2021. Update Given the transaction between Veolia and FSI closed prior to completion of the Proposed Acquisition, Veolia was not required to divest its interest in IWS in accordance with the IWS undertaking.",
+    "Market definition": "Refer to the attached Public Competition Assessment.",
+    "Competition analysis": "Refer to the attached Public Competition Assessment."
+  }
+}

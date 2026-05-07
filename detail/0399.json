@@ -1,0 +1,44 @@
+{
+  "id": "0399",
+  "title": "Sucrogen Limited - proposed acquisition of College Land in the Burdekin region",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/sucrogen-limited-proposed-acquisition-of-college-land-in-the-burdekin-region",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "50467",
+  "industries": [
+    "Cane Land"
+  ],
+  "date_completed": "7 March 2013",
+  "date_completed_iso": "2013-03-07T12:00:00Z",
+  "date_commenced": "24 January 2013",
+  "date_commenced_iso": "2013-01-24T12:00:00Z",
+  "total_review_days": 30,
+  "acquirers": [
+    "Sucrogen Limited"
+  ],
+  "targets": [
+    "College Land in the Burdekin region"
+  ],
+  "timeline": [
+    {
+      "date": "24 Jan 2013",
+      "date_iso": "2013-01-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2013",
+      "date_iso": "2013-02-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Mar 2013",
+      "date_iso": "2013-03-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Sucrogen Limited (Sucrogen) proposed to acquire a parcel (around 778 hectares) of land owned by the Australian Agricultural College Corporation in the Burdekin region in Queensland (the College Land) (the proposed acquisition).",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the acquisition of sugar cane and supply of milling services in the vicinity of the site for a planned new sugar mill in the region, to be operated by Austcane Energy Ltd (Austcane).",
+    "Competition analysis": "The ACCC considered whether the proposed acquisition would foreclose new entry into the market for the acquisition of sugar cane and supply of milling services by preventing or hindering new entrants, such as Austcane, from acquiring the minimum sugar cane supply requirements for viable entry. The ACCC concluded that the proposed acquisition, considered on a standalone basis under section 50 of Competition and Consumer Act 2010 (Cth) (the Act), would not be likely to have the effect of substantially lessening competition in the relevant market, taking account of information that the sugar cane production from the College Land is a very small percentage of the aggregate amount of sugar cane available in Austcane's supply zone and the Burdekin region. Furthermore, the ACCC noted that the proposed acquisition would not reduce the amount of sugar cane already committed to Austcane. Accordingly, the ACCC concluded that, assessed as a single acquisition (as required by section 50 of the Act), the proposed acquisition would not be likely to have the effect of foreclosing new entry into the market for the acquisition of sugar cane and supply of milling services in the relevant geographic area."
+  }
+}

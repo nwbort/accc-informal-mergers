@@ -1,0 +1,72 @@
+{
+  "id": "0137",
+  "title": "South Pacific Laundry - Spotless Laundries",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/south-pacific-laundry-spotless-laundries",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Laundry services"
+  ],
+  "date_completed": "4 November 2020",
+  "date_completed_iso": "2020-11-04T12:00:00Z",
+  "date_commenced": "11 May 2020",
+  "date_commenced_iso": "2020-05-11T12:00:00Z",
+  "total_review_days": 117,
+  "acquirers": [
+    "South Pacific Laundry"
+  ],
+  "targets": [
+    "Spotless Laundries"
+  ],
+  "timeline": [
+    {
+      "date": "11 May 2020",
+      "date_iso": "2020-05-11T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 May 2020",
+      "date_iso": "2020-05-29T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "14 Jul 2020",
+      "date_iso": "2020-07-14T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (23 July 2020) delayed to allow the ACCC more time to review information provided by the merger parties."
+    },
+    {
+      "date": "4 Aug 2020",
+      "date_iso": "2020-08-04T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (6 August 2020) is delayed to allow the merger parties to provide further information to the ACCC."
+    },
+    {
+      "date": "27 Aug 2020",
+      "date_iso": "2020-08-27T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "18 Sep 2020",
+      "date_iso": "2020-09-18T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "26 Oct 2020",
+      "date_iso": "2020-10-26T12:00:00Z",
+      "event": "ACCC is awaiting information from the parties. Former provisional date for announcement of findings (26 November) is delayed."
+    },
+    {
+      "date": "4 Nov 2020",
+      "date_iso": "2020-11-04T12:00:00Z",
+      "event": "The ACCC discontinued this review after SPL withdrew its application for informal merger clearance."
+    },
+    {
+      "date": null,
+      "date_iso": null,
+      "event": null
+    }
+  ],
+  "body_sections": {
+    "Summary": "South Pacific Laundry ( SPL ) proposed to acquire Spotless Laundries. SPL is a subsidiary of private equity firm Anchorage Capital Partners. Spotless Laundries is the laundries services business of Spotless Group Holdings Limited, which is wholly owned by Downer EDI Limited. Both parties are active in the commercial laundry services industry in Australia."
+  }
+}

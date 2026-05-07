@@ -1,0 +1,54 @@
+{
+  "id": "0995",
+  "title": "CPI Group Limited - proposed acquisition of Detagna Pty Ltd trading as Red Paper Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/cpi-group-limited-proposed-acquisition-of-detagna-pty-ltd-trading-as-red-paper-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "29071",
+  "industries": [
+    "Distribution of fine paper including copy paper"
+  ],
+  "date_completed": "20 November 2007",
+  "date_completed_iso": "2007-11-20T12:00:00Z",
+  "date_commenced": "10 October 2007",
+  "date_commenced_iso": "2007-10-10T12:00:00Z",
+  "total_review_days": 22,
+  "acquirers": [
+    "CPI Group Limited"
+  ],
+  "targets": [
+    "Detagana Pty Ltd trading as Red Paper Group"
+  ],
+  "timeline": [
+    {
+      "date": "10 Oct 2007",
+      "date_iso": "2007-10-10T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced."
+    },
+    {
+      "date": "24 Oct 2007",
+      "date_iso": "2007-10-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "29 Oct 2007",
+      "date_iso": "2007-10-29T12:00:00Z",
+      "event": "ACCC requested further information from CPI. ACCC timeline suspended."
+    },
+    {
+      "date": "9 Nov 2007",
+      "date_iso": "2007-11-09T12:00:00Z",
+      "event": "ACCC received further information from CPI. ACCC timeline recommenced."
+    },
+    {
+      "date": "20 Nov 2007",
+      "date_iso": "2007-11-20T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CPI Group Limited proposes to purchase the business and net tangible assets of Detagana Pty Limited which in Australia trades as Red Paper Group",
+    "Market definition": "The proposed acquisition was considered in the context of the national market for the supply of fine and copy paper by merchants (distributors).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in the national market for the supply of fine and copy paper by merchants because of the following factors: - the ability of customers to switch to alternative fine and copy paper merchants; and - smaller fine and copy paper merchants appear likely to act as effective competitive constraint on the merged entity due to the relatively low barriers to expansion in the relevant market."
+  }
+}

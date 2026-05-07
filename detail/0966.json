@@ -1,0 +1,49 @@
+{
+  "id": "0966",
+  "title": "Clipsal Australia Pty Ltd - acquisition of Vieo Systems Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/clipsal-australia-pty-ltd-acquisition-of-vieo-systems-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30672",
+  "industries": [
+    "Integrated IT systems"
+  ],
+  "date_completed": "15 February 2008",
+  "date_completed_iso": "2008-02-15T12:00:00Z",
+  "date_commenced": "18 January 2008",
+  "date_commenced_iso": "2008-01-18T12:00:00Z",
+  "total_review_days": 20,
+  "acquirers": [
+    "Clipsal Australia Pty Ltd"
+  ],
+  "targets": [
+    "Vieo Systems Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Jan 2008",
+      "date_iso": "2008-01-18T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "22 Jan 2008",
+      "date_iso": "2008-01-22T12:00:00Z",
+      "event": "Merger parties advised the ACCC that the acquisition has been completed."
+    },
+    {
+      "date": "8 Feb 2008",
+      "date_iso": "2008-02-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "15 Feb 2008",
+      "date_iso": "2008-02-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Clipsal Australia Pty Ltd, a subsidiary of Schneider Electric Australia Pty Ltd acquired Vieo Systems Pty Ltd",
+    "Market definition": "The ACCC considered the acquisition in the context of the national market for the supply of automated residential monitoring (ARM) systems. This included consideration of the supply of inputs into the national market for ARM systems.",
+    "Competition analysis": "On 15 February 2008, the ACCC formed the view that the acquisition would be unlikely to result in a substantial lessening of competition. Factors informing this conclusion included: - the merged entity's market share would not increase (or would only increase by a small amount) in relation to the supply of inputs into the national market for ARM systems and the national market for ARM systems itself; - there would be a number of input suppliers which could offer comparable substitutes to the inputs that the merged entity would supply and be likely to constrain any attempted exercise of market power by the merged entity; and - barriers to entry into the national ARM systems market appear to be relatively low."
+  }
+}

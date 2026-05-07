@@ -1,0 +1,31 @@
+{
+  "id": "1651",
+  "title": "Acquirer: Grainco Australia Limited; Target: Conagra Trade Group Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-grainco-australia-limited-target-conagra-trade-group-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15354",
+  "industries": [],
+  "date_completed": "1 May 2002",
+  "date_completed_iso": "2002-05-01T12:00:00Z",
+  "date_commenced": "16 January 2002",
+  "date_commenced_iso": "2002-01-16T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Grainco Australia Limited"
+  ],
+  "targets": [
+    "Conagra Trade Group Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Proposed joint venture between Grainco Australia and ConAgra Trade Group to form MarketLink who will perform the grain trading/marketing functions of both parties in Australia",
+    "Market definition": "Trading and storage & handling of grain",
+    "Competition analysis": "The ACCC looked at the implications of the MarketLink joint venture in both the grain trading and grain storage and handling markets. In Queensland, the transaction would result in the amalgamation of two traders, one of which is also the state's most significant storage and handling facility operator but whose statutory marketing powers in relation to exporting grain are expected to sunset in June 2002. In NSW, the MarketLink transaction will also involve a relationship between two traders. One who has statutory marketing powers over some traded grains until 2005 and which also operates storage and handling facilities While the transaction does lead to an increase in concentration in grain trading, the presence of other significant market participants was substantial. The Commission was not satisfied that the joint venture was likely to lead to a substantial lessening of competition in any market.",
+    "Merger type": "Vertical",
+    "Guidelines thresholds": "Below",
+    "Imports above 10%": "N/A",
+    "Initiation": "Press",
+    "ANZSIC code": "6701"
+  }
+}

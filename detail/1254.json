@@ -1,0 +1,44 @@
+{
+  "id": "1254",
+  "title": "PPG Industries Inc - proposed acquisition of Ameron International",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ppg-industries-inc-proposed-acquisition-of-ameron-international",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24773",
+  "industries": [
+    "Paint manufacturing"
+  ],
+  "date_completed": "26 July 2006",
+  "date_completed_iso": "2006-07-26T12:00:00Z",
+  "date_commenced": "3 July 2006",
+  "date_commenced_iso": "2006-07-03T12:00:00Z",
+  "total_review_days": 18,
+  "acquirers": [
+    "PPG Industries Inc"
+  ],
+  "targets": [
+    "Ameron International"
+  ],
+  "timeline": [
+    {
+      "date": "3 Jul 2006",
+      "date_iso": "2006-07-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commenced"
+    },
+    {
+      "date": "14 Jul 2006",
+      "date_iso": "2006-07-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "26 Jul 2006",
+      "date_iso": "2006-07-26T12:00:00Z",
+      "event": "ACCC announced its  decision to not oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Both PPG Industries Inc. and Ameron International Pty Ltd are manufacturers and distributors of industrial coatings.",
+    "Market definition": "The ACCC considered the relevant market to be the market for the manufacture and distribution of industrial coatings in Australia. The ACCC noted that within industrial coatings, there are a number of segments, or types of industrial coatings. The ACCC noted that while there appeared to be low demand-side substitutability between the different types of industrial coatings, there appeared to be sufficient supply-side substitution. The ACCC found that manufacturers were able to manufacture a range of industrial coatings using similar plant and equipment and there were few barriers to switching between the manufacturing of different types of industrial coatings. The ACCC also found that most manufacturers distributed product nationally (and some extended the distribution to New Zealand).",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant market.  In reaching this conclusion, the ACCC considered the following: - Level of imports: The ACCC found that imports existed in the market. The ACCC noted that not all types of industrial coatings will have the same volume of imports. - Ability to increase prices: The ACCC found that post-acquisition PPG would be unlikely to be in a position to increase prices and/or restrict supply. Market inquiries indicated that there would remain a number of manufacturers of industrial coatings which would be able to constrain the prices and/or conduct of PPG. There also appeared to be low barriers to switching between manufacturers for many customers. - Removal of a vigorous competitor: The ACCC found that the acquisition would not result in the removal of a vigorous and effective competitor. Market inquiries indicated that currently there is little overlap between the types of industrial coatings being manufactured by Ameron and PPG."
+  }
+}

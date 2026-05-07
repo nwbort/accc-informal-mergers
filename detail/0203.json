@@ -1,0 +1,77 @@
+{
+  "id": "0203",
+  "title": "MYOB Group Limited - proposed acquisition of Reckon Limited's Accountants Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/myob-group-limited-proposed-acquisition-of-reckon-limiteds-accountants-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63187",
+  "industries": [
+    "Financial and business management systems"
+  ],
+  "date_completed": "31 May 2018",
+  "date_completed_iso": "2018-05-31T12:00:00Z",
+  "date_commenced": "12 January 2018",
+  "date_commenced_iso": "2018-01-12T12:00:00Z",
+  "total_review_days": 70,
+  "acquirers": [
+    "MYOB Group Limited"
+  ],
+  "targets": [
+    "Reckon Limited's Accountants Group"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jan 2018",
+      "date_iso": "2018-01-12T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "14 Feb 2018",
+      "date_iso": "2018-02-14T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Mar 2018",
+      "date_iso": "2018-03-07T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (22 March) delayed to allow MYOB more time to provide additional information."
+    },
+    {
+      "date": "16 Mar 2018",
+      "date_iso": "2018-03-16T12:00:00Z",
+      "event": "ACCC received further information from MYOB."
+    },
+    {
+      "date": "29 Mar 2018",
+      "date_iso": "2018-03-29T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns."
+    },
+    {
+      "date": "9 Apr 2018",
+      "date_iso": "2018-04-09T12:00:00Z",
+      "event": "On or around 9 April, the ACCC requested further information from certain industry participants, MYOB and Reckon."
+    },
+    {
+      "date": "13 Apr 2018",
+      "date_iso": "2018-04-13T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "19 Apr 2018",
+      "date_iso": "2018-04-19T12:00:00Z",
+      "event": "ACCC is waiting on information requested on or around 9 April. Former proposed date for announcement of findings (30th May) is delayed."
+    },
+    {
+      "date": "9 May 2018",
+      "date_iso": "2018-05-09T12:00:00Z",
+      "event": "ACCC received the majority of information requested on or around 9 April."
+    },
+    {
+      "date": "31 May 2018",
+      "date_iso": "2018-05-31T12:00:00Z",
+      "event": "ACCC has discontinued this review after MYOB announced that the acquisition will not proceed."
+    }
+  ],
+  "body_sections": {
+    "Summary": "MYOB proposes to acquire the Accountants Group from Reckon Limited. The proposed acquisition includes three Reckon businesses: - Reckon APS - Reckon Elite - Reckon Docs The transaction includes all associated clients, IP, systems and employees for these businesses."
+  }
+}

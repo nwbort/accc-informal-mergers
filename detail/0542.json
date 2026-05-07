@@ -1,0 +1,44 @@
+{
+  "id": "0542",
+  "title": "Lend Lease Corporation Ltd - proposed acquisition of Valemus Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lend-lease-corporation-ltd-proposed-acquisition-of-valemus-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44562",
+  "industries": [
+    "Construction and engineering"
+  ],
+  "date_completed": "1 March 2011",
+  "date_completed_iso": "2011-03-01T12:00:00Z",
+  "date_commenced": "17 January 2011",
+  "date_commenced_iso": "2011-01-17T12:00:00Z",
+  "total_review_days": 32,
+  "acquirers": [
+    "Lend Lease Corporation Ltd"
+  ],
+  "targets": [
+    "Valemus Australia Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jan 2011",
+      "date_iso": "2011-01-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "10 Feb 2011",
+      "date_iso": "2011-02-10T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Mar 2011",
+      "date_iso": "2011-03-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lend Lease Corporation Ltd (Lend Lease) proposes to acquire Valemus Australia Pty Ltd (Valemus). Relevant subsidiaries of these entities include Bovis Lend Lease Pty Ltd for Lend Lease and Abigroup Ltd and Baulderstone Pty Ltd for Valemus.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition by reference to the following markets: - The national market for the supply of non-residential building construction services (including offices, shops, hotels, factories, educational facilities, health facilities) involving large projects (tier 1). - The national market for the supply of non-residential building construction services involving small projects (tier 2). - The national market for the supply of engineering construction services (including roads, bridges, railways, harbours and water storage and treatment facilities) involving large projects (tier 1). - The national market for the supply of engineering construction services involving large projects (tier 2).",
+    "Competition analysis": "The ACCC considered that the primary area of overlap between Lend Lease and Valemus was in relation to the supply of non-residential building construction services involving tier 1 projects. The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the tier 1 or tier 2 non-residential building construction services markets. In forming this view the ACCC had regard to the following factors: - there will remain a number of other suppliers of tier 1 and tier 2 non-residential building construction services post acquisition, constraining the merged entity's ability to increase prices or reduce service quality in these markets; - recent experience indicates that it is possible for international firms to enter into the Australian tier 1 non-residential building construction services market; The ACCC concluded that the proposed acquisition was unlikely to result in substantial a lessening of competition in the market for the supply of tier 1 or tier 2 engineering construction services, primarily because there is minimal overlap between the parties in these markets."
+  }
+}

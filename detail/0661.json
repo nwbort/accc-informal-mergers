@@ -1,0 +1,44 @@
+{
+  "id": "0661",
+  "title": "ANZ Banking Group Ltd - proposed acquisition of Loan and Deposit Book from Landmark Operations Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/anz-banking-group-ltd-proposed-acquisition-of-loan-and-deposit-book-from-landmark-operations-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "39825",
+  "industries": [
+    "Agribusiness banking products"
+  ],
+  "date_completed": "10 February 2010",
+  "date_completed_iso": "2010-02-10T12:00:00Z",
+  "date_commenced": "8 December 2009",
+  "date_commenced_iso": "2009-12-08T12:00:00Z",
+  "total_review_days": 43,
+  "acquirers": [
+    "ANZ Banking Group Ltd"
+  ],
+  "targets": [
+    "Landmark Operations Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Dec 2009",
+      "date_iso": "2009-12-08T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jan 2010",
+      "date_iso": "2010-01-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "10 Feb 2010",
+      "date_iso": "2010-02-10T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ANZ proposed to acquire a loan book and a deposit book from Landmark Financial Services.",
+    "Market definition": "The ACCC considered the competitive effects of the proposed acquisition in the context of regional markets for the supply of: -  transaction accounts; -  deposit/term products; -  secured agribusiness loan products; -  seasonal finance products; and -  equipment finance. The ACCC considered that regional areas were defined to be a radius of 200 kilometres around a particular financial `hub'. The ACCC is of the view that price competition is national in all relevant markets.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. Factors informing this decision included: -  the proposed acquisition would not result in a significant amount of aggregation, nor a significant increase in market concentration -- NAB, Rabobank, CBA, Westpac, Rural Bank and other competitors would continue to provide price and non-price competitive constraints in the relevant markets post-acquisition; - the proposed acquisition would not result in the removal of a vigorous and effective competitor in the relevant markets because (1) Landmark Financial Services was not competitive on price terms relative to other lenders, and did not drive price competition in the relevant markets; and (2) Landmark Financial Services did not provide products or services that were unique in the industry-- other competitors already provide similar products and services or have the ability to readily do so; and - there was no evidence that the removal of Landmark as an independent competitor would increase the likelihood of coordination amongst competitors in the relevant markets."
+  }
+}

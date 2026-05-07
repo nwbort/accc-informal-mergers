@@ -1,0 +1,44 @@
+{
+  "id": "1236",
+  "title": "Leigh Mardon Australasia Pty Ltd - acquisition of the assets of the secure printing division of APN News and Media Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/leigh-mardon-australasia-pty-ltd-acquisition-of-the-assets-of-the-secure-printing-division-of-apn-news-and-media-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "25106",
+  "industries": [
+    "Secure Transaction Products"
+  ],
+  "date_completed": "22 August 2006",
+  "date_completed_iso": "2006-08-22T12:00:00Z",
+  "date_commenced": "4 August 2006",
+  "date_commenced_iso": "2006-08-04T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Leigh Mardon Australasia Pty Ltd"
+  ],
+  "targets": [
+    "APN News and Media Limited"
+  ],
+  "timeline": [
+    {
+      "date": "4 Aug 2006",
+      "date_iso": "2006-08-04T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Aug 2006",
+      "date_iso": "2006-08-16T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "22 Aug 2006",
+      "date_iso": "2006-08-22T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "The assets acquired by Leigh Mardon were former divisions of APN which traded as Bankprint and Security Plastics.",
+    "Market definition": "The ACCC considered the impact on competition this acquisition may have in the context of the national markets for manufacture and supply of cheques and plastic cards.",
+    "Competition analysis": "As part of its investigation into the proposed acquisition, the ACCC contacted a number of market participants in the industry including customers and competitors to assess the impact of the proposed acquisition. The ACCC considered that the acquisition would be unlikely to have substantially lessened competition in the national market for plastic cards, as the high level of imports is likely to act as a significant constraint on incumbent firms. Market inquiries also suggested that the acquisition was unlikely to cause competition concerns in the cheque industry due to the relative ease of entry from firms participating in the broader market for secured printing and the countervailing power of many of the large customers."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0848",
+  "title": "Fonterra Co-operative Group Ltd - proposed acquisition of Ski Licence from National Foods Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/fonterra-co-operative-group-ltd-proposed-acquisition-of-ski-licence-from-national-foods-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "33868",
+  "industries": [
+    "Dairy"
+  ],
+  "date_completed": "21 October 2008",
+  "date_completed_iso": "2008-10-21T12:00:00Z",
+  "date_commenced": "7 October 2008",
+  "date_commenced_iso": "2008-10-07T12:00:00Z",
+  "total_review_days": 11,
+  "acquirers": [
+    "Fonterra Co-operative Group Ltd"
+  ],
+  "targets": [
+    "National Foods Limited"
+  ],
+  "timeline": [
+    {
+      "date": "7 Oct 2008",
+      "date_iso": "2008-10-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Oct 2008",
+      "date_iso": "2008-10-17T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "21 Oct 2008",
+      "date_iso": "2008-10-21T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Fonterra proposes to acquire the Ski yoghurt brand licence from National Foods as soon as practicable after National Foods acquires Dairy Farmers (if and when that acquisition proceeds). Nestle SA owns the Ski trademark and has currently licensed it to Dairy Farmers.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the national market for the production and supply of fresh dairy products, including yoghurt and dairy desserts and regional markets for the acquisition of raw milk.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition would be unlikely to substantially lessen competition in the relevant markets. In particular, the ACCC considered that the merged entity would be constrained by existing competitors (including the threat that they may expand if the merged entity seeks to increase prices); the dynamic nature of the fresh dairy industry, including the high degree of product innovation and promotional activity; and evidence of customers switching between brands in response to price changes."
+  }
+}

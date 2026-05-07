@@ -1,0 +1,31 @@
+{
+  "id": "1556",
+  "title": "Acquirer: Ancient Order of Foresters in Victoria Freindly Society Limited; Target: Independent Mutual Friendly Society Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-ancient-order-of-foresters-in-victoria-freindly-society-limited-target-independent-mutual-friendly-society-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "17724",
+  "industries": [],
+  "date_completed": "27 May 2003",
+  "date_completed_iso": "2003-05-27T12:00:00Z",
+  "date_commenced": "8 May 2003",
+  "date_commenced_iso": "2003-05-08T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Ancient Order of Foresters in Victoria Freindly Society Limited"
+  ],
+  "targets": [
+    "Independent Mutual Friendly Society Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 7 May 2003, the Commission was informed by the Australian Prudential Regulation Authority of the voluntary transfer of all assets and liabilities of the Independent Mutual Friendly Society Limited to the Ancient Order of Foresters in Victoria Friendly Society.",
+    "Market definition": "savings and investment products",
+    "Competition analysis": "On 27 May 2003, the Commission decided not to oppose this merger on the basis that it did not cross any of the Commission's market concentration thresholds for the exercise of market power, and therefore was unlikely to result in a substantial lessening of competition.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7340"
+  }
+}

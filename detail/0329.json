@@ -1,0 +1,44 @@
+{
+  "id": "0329",
+  "title": "Woolworths Limited and Lowe's Companies Inc (Joint Venture) - proposed acquisition of Hudson Building Supplies Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-and-lowes-companies-inc-joint-venture-proposed-acquisition-of-hudson-building-supplies-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "54923",
+  "industries": [
+    "Building supplies"
+  ],
+  "date_completed": "7 August 2014",
+  "date_completed_iso": "2014-08-07T12:00:00Z",
+  "date_commenced": "17 June 2014",
+  "date_commenced_iso": "2014-06-17T12:00:00Z",
+  "total_review_days": 38,
+  "acquirers": [
+    "Woolworths Limited and Lowe's Companies Inc (Joint Venture)"
+  ],
+  "targets": [
+    "Hudson Building Supplies Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "17 Jun 2014",
+      "date_iso": "2014-06-17T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "8 Jul 2014",
+      "date_iso": "2014-07-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2014",
+      "date_iso": "2014-08-07T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Woolworths Limited and Lowe's Companies Inc, through HTH Stores Pty Limited, propose to acquire 100% of the shares in Hudson Building Supplies Pty Limited. Hudson Building Supplies owns a chain of hardware, building supplies and home improvement stores in New South Wales and Queensland.",
+    "Market definition": "The ACCC considered the likely competitive effects of the proposed acquisition on local markets for the retail supply of hardware, building supplies and home improvement products, noting that stores which have a strong product and service offering for trade customers, particularly those which require deliveries to building sites, are likely to be closer competitors of Hudson Building Supplies Pty Limited.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was not likely to substantially lessen competition in any of the local markets for the retail supply of hardware, building supplies and home improvement products. The ACCC noted that the primary customer segment serviced by Hudson is builders who have materials delivered to building sites, with some overlap between Hudson and the Joint Venture's Masters stores in the supply of products and services to smaller trade customers from their respective retail outlets. The ACCC found that the degree of overlap in this customer segment was limited and that the Joint Venture would be likely to be competitively constrained by a number of retail competitors in each of the relevant local markets following the proposed acquisition."
+  }
+}

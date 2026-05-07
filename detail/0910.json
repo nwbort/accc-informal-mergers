@@ -1,0 +1,44 @@
+{
+  "id": "0910",
+  "title": "ACP Magazines Pty Limited - completed swap of magazine titles with Next Media Investments Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acp-magazines-pty-limited-completed-swap-of-magazine-titles-with-next-media-investments-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "32305",
+  "industries": [
+    "Media"
+  ],
+  "date_completed": "13 June 2008",
+  "date_completed_iso": "2008-06-13T12:00:00Z",
+  "date_commenced": "22 May 2008",
+  "date_commenced_iso": "2008-05-22T12:00:00Z",
+  "total_review_days": 16,
+  "acquirers": [
+    "ACP Magazines Pty Limited"
+  ],
+  "targets": [
+    "Next Media Investments Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "22 May 2008",
+      "date_iso": "2008-05-22T12:00:00Z",
+      "event": "ACCC commenced review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "6 Jun 2008",
+      "date_iso": "2008-06-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Jun 2008",
+      "date_iso": "2008-06-13T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "ACP Magazines Pty Limited (ACP) has swapped magazine titles with Next Media Investments Pty Ltd (NMI), involving ACP swapping both its Tracks and Waves magzines for NMI's Rolling Stone publication.",
+    "Market definition": "The acquisition was considered in the context of separate national markets for the acquisiton of content, supply of advertising space and supply of magazines to consumers for each of music and sports magazines.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant markets as there was a lack of overlap between the merger parties in the surfing and sports magazine genres and no increase in market share, other than a transfer of market share."
+  }
+}

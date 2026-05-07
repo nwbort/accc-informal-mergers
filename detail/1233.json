@@ -1,0 +1,83 @@
+{
+  "id": "1233",
+  "title": "Victorian Livestock Exchange Limited - acquisition of Sale and Korumburra Saleyard businesses and Yarram saleyard property in the Gippsland region",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/victorian-livestock-exchange-limited-acquisition-of-sale-and-korumburra-saleyard-businesses-and-yarram-saleyard-property-in-the-gippsland-region",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "23669",
+  "industries": [
+    "Saleyards"
+  ],
+  "date_completed": "23 August 2006",
+  "date_completed_iso": "2006-08-23T12:00:00Z",
+  "date_commenced": "21 February 2006",
+  "date_commenced_iso": "2006-02-21T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Victorian Livestock Exchange Limited"
+  ],
+  "targets": [
+    "Sale Livestock Exchange<br/> Korumburra South Gippsland Regional Saleyard<br/> Yarram Saleyard Property"
+  ],
+  "timeline": [
+    {
+      "date": "21 Feb 2006",
+      "date_iso": "2006-02-21T12:00:00Z",
+      "event": "ACCC received initial submission from VLE"
+    },
+    {
+      "date": "9 Mar 2006",
+      "date_iso": "2006-03-09T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of further information from VLE to constitute a full submission"
+    },
+    {
+      "date": "28 Mar 2006",
+      "date_iso": "2006-03-28T12:00:00Z",
+      "event": "Market inquiries commenced"
+    },
+    {
+      "date": "11 Apr 2006",
+      "date_iso": "2006-04-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "13 Jun 2006",
+      "date_iso": "2006-06-13T12:00:00Z",
+      "event": "Full submission received from VLE. ACCC commenced review under Merger Review Process Guidelines."
+    },
+    {
+      "date": "15 Jun 2006",
+      "date_iso": "2006-06-15T12:00:00Z",
+      "event": "ACCC released a Statement of Issues"
+    },
+    {
+      "date": "30 Jun 2006",
+      "date_iso": "2006-06-30T12:00:00Z",
+      "event": "Closing date for submissions from interested parties on the Statement of Issues"
+    },
+    {
+      "date": "4 Jul 2006",
+      "date_iso": "2006-07-04T12:00:00Z",
+      "event": "ACCC timeline suspended pending receipt of a response to the ACCC's Statement of Issues from VLE expected on 31 July 2006."
+    },
+    {
+      "date": "28 Jul 2006",
+      "date_iso": "2006-07-28T12:00:00Z",
+      "event": "Decision date postponed to allow for VLE's response to ACCC's Statement of Issues"
+    },
+    {
+      "date": "1 Aug 2006",
+      "date_iso": "2006-08-01T12:00:00Z",
+      "event": "ACCC received response to the Statement of Issues from VLE"
+    },
+    {
+      "date": "23 Aug 2006",
+      "date_iso": "2006-08-23T12:00:00Z",
+      "event": "ACCC announced it would not oppose the acquisition"
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Market definition contained in Public Competition Assessment below.",
+    "Competition analysis": "Detailed competition analysis contained in Public Competition Assessment below."
+  }
+}

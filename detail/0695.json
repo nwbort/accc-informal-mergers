@@ -1,0 +1,59 @@
+{
+  "id": "0695",
+  "title": "Woolworths Limited - proposed acquisition of Danks Holdings Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/woolworths-limited-proposed-acquisition-of-danks-holdings-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "38593",
+  "industries": [
+    "Hardware"
+  ],
+  "date_completed": "11 November 2009",
+  "date_completed_iso": "2009-11-11T12:00:00Z",
+  "date_commenced": "3 September 2009",
+  "date_commenced_iso": "2009-09-03T12:00:00Z",
+  "total_review_days": 48,
+  "acquirers": [
+    "Woolworths Limited"
+  ],
+  "targets": [
+    "Danks Holdings Limited"
+  ],
+  "timeline": [
+    {
+      "date": "3 Sep 2009",
+      "date_iso": "2009-09-03T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "24 Sep 2009",
+      "date_iso": "2009-09-24T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "16 Oct 2009",
+      "date_iso": "2009-10-16T12:00:00Z",
+      "event": "ACCC published a Statement of Issues outlining preliminary competition concerns. Former proposed date for announcement of ACCC's findings deferred to allow for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "23 Oct 2009",
+      "date_iso": "2009-10-23T12:00:00Z",
+      "event": "Closing date for submissions relating to Statement of Issues."
+    },
+    {
+      "date": "11 Nov 2009",
+      "date_iso": "2009-11-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a court enforceable undertaking given by Woolworths and its joint venture to the ACCC."
+    },
+    {
+      "date": "20 Dec 2016",
+      "date_iso": "2016-12-20T12:00:00Z",
+      "event": "ACCC consented to the withdrawal of the undertaking."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "Please see the attached Public Competition Assessment.",
+    "Competition analysis": "Please see the attached Public Competition Assessment.",
+    "Undertakings": "On 2 June 2010, the ACCC consented to a variation to the s87B Undertaking given by Woolworths Limited (Woolworths) and Carboxy Pty Limited (Carboxy) (together the Parties) on 11 November 2009. The Undertaking was accepted by the ACCC in order to resolve competition concerns which would otherwise have resulted from the acquisition of Danks Holdings Limited by a joint venture between Woolworths and Lowe's Companies Inc. Carboxy is the incorporated joint venture vehicle. The purpose of the variation was to: (i) extend the operation of the Undertaking to hardware stores of any size, (ii) vary the geographic scope of the obligations from 5km to 10km, and (iii) make clear that the Undertaking applied in respect of the acquisition of hardware stores by the joint venture or any of the Parties."
+  }
+}

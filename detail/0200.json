@@ -1,0 +1,48 @@
+{
+  "id": "0200",
+  "title": "DYWIDAG-Systems International Group - proposed acquisition of Fero Group",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/dywidag-systems-international-group-proposed-acquisition-of-fero-group",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "63270",
+  "industries": [
+    "Mining support products"
+  ],
+  "date_completed": "9 August 2018",
+  "date_completed_iso": "2018-08-09T12:00:00Z",
+  "date_commenced": "14 June 2018",
+  "date_commenced_iso": "2018-06-14T12:00:00Z",
+  "total_review_days": 41,
+  "acquirers": [
+    "DYWIDAG-Systems International Group"
+  ],
+  "targets": [
+    "Fero Group"
+  ],
+  "timeline": [
+    {
+      "date": "14 Jun 2018",
+      "date_iso": "2018-06-14T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "5 Jul 2018",
+      "date_iso": "2018-07-05T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "7 Aug 2018",
+      "date_iso": "2018-08-07T12:00:00Z",
+      "event": "Former proposed decision date of 23 August 2018 brought forward."
+    },
+    {
+      "date": "9 Aug 2018",
+      "date_iso": "2018-08-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC's review focused on the supply of ground support products used in underground hard rock mining. Hard rock mining occurs in all Australian states and the Northern Territory, and includes the mining of minerals such as gold, copper, zinc, nickel, uranium and diamonds. The ACCC's inquiries indicated that rock bolts used in hard rock mining were unlikely to be substitutable with rock bolts used in soft rock mining (which is primarily coal) or cable bolts in most applications, and accordingly considered that the relevant product markets were likely to be separate markets for the supply of hard rock bolts, cable bolts, resin and mesh. The ACCC found that the major suppliers generally supply ground support products nationally. However, the review also found that factors such as transport costs and the need to have distribution facilities located close to customers may mean that competitive conditions are different on the east and west coasts of Australia. For the purposes of this review however, it was not necessary to reach a concluded view on the precise definition of geographic markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acqusition was unlikely to substantially lessen competition in any relevant market. The proposed acquisition would significantly increase concentration in the supply of rock bolts and other ground support products to hard rock mining customers. However, the ACCC found that post-acquisition DSI would continue to face competition from a number of remaining suppliers, including several existing suppliers that may be able to expand their operations if prices were to increase. Additionally, there are several specialist suppliers that would continue to constrain DSI post-acquisition in relation to particular products. The ACCC also considered that imports may impose some constraint, although customers may require an importer to have a presence in Australia in order to provide support services."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "0523",
+  "title": "Proposed merger of Bells Pure Ice and Donohoe Ice",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/proposed-merger-of-bells-pure-ice-and-donohoe-ice",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "44978",
+  "industries": [
+    "Ice manufacturing and distribution businesses"
+  ],
+  "date_completed": "4 May 2011",
+  "date_completed_iso": "2011-05-04T12:00:00Z",
+  "date_commenced": "11 February 2011",
+  "date_commenced_iso": "2011-02-11T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Donohoe Ice Pty Ltd"
+  ],
+  "targets": [
+    "Bells Pure Ice Holdings Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "11 Feb 2011",
+      "date_iso": "2011-02-11T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "16 Feb 2011",
+      "date_iso": "2011-02-16T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "23 Feb 2011",
+      "date_iso": "2011-02-23T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "2 Mar 2011",
+      "date_iso": "2011-03-02T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "3 Mar 2011",
+      "date_iso": "2011-03-03T12:00:00Z",
+      "event": "ACCC requested further information from the merger parties. ACCC timeline suspended."
+    },
+    {
+      "date": "23 Mar 2011",
+      "date_iso": "2011-03-23T12:00:00Z",
+      "event": "ACCC received further information from merger parties. ACCC timeline recommenced. Former proposed decision date of 7 April, 2011 amended."
+    },
+    {
+      "date": "4 May 2011",
+      "date_iso": "2011-05-04T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed merger."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Donohoe Ice Pty Ltd (Donohoe) and Bells Pure Ice Holdings Pty Ltd (Bells) propose to merge their respective packaged ice manufacturing and distribution and cold storage services businesses.",
+    "Market definition": "The ACCC considered the proposed merger in the context of separate markets for the manufacture and distribution of packaged ice in Victoria, New South Wales, South Australia and Queensland. The ACCC noted that the geographic dimension of the market may be potentially narrower than State based markets. However, for the purposes of assessing the proposed merger the ACCC did not consider it necessary to form a concluded view on geographic scope of the market.",
+    "Competition analysis": "The Proposed merger will lead to increased concentration in manufacture and distribution of packaged ice in Victoria.  However, the ACCC concluded that the proposed merger was unlikely to result in a substantial lessening of competition as several existing packaged ice manufacturers in Victoria had the necessary spare capacity to constrain the merged firm were it to attempt to increase prices and/or reduce the quality of service. In addition, the ACCC considered that large packaged ice customers, such as supermarket chains and branded petrol stations, had a significant degree of countervailing power that would likely constrain the merged firm from attempting to increase prices and/or reduce service levels to those customers.  The ACCC also considered that small or independent packaged ice customers were likely to have alternatives to the merged firm in the form of a number of low capacity packaged ice manufacturers. In New South Wales the merger parties had little or no competitive overlap.  While individuals associated with Donohoe had a minority shareholding in Best Ice this was unlikely to raise any competition concerns mainly due to Best Ice's small market share.  As a consequence, the ACCC concluded that the proposed merger was unlikely to result in a substantial lessening of competition in New South Wales. The ACCC noted that there was no competitive overlap between the merger parties in Queensland or South Australia."
+  }
+}

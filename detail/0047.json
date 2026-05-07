@@ -1,0 +1,49 @@
+{
+  "id": "0047",
+  "title": "Lineage Logistics Holdings LLC - Fremantle City Coldstores",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/lineage-logistics-holdings-llc-fremantle-city-coldstores",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Cold storage services"
+  ],
+  "date_completed": "3 October 2024",
+  "date_completed_iso": "2024-10-03T12:00:00Z",
+  "date_commenced": "15 July 2024",
+  "date_commenced_iso": "2024-07-15T12:00:00Z",
+  "total_review_days": 58,
+  "acquirers": [
+    "Lineage Logistics Holdings LLC"
+  ],
+  "targets": [
+    "Fremantle City Coldstores"
+  ],
+  "timeline": [
+    {
+      "date": "15 Jul 2024",
+      "date_iso": "2024-07-15T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jul 2024",
+      "date_iso": "2024-07-29T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "26 Sep 2024",
+      "date_iso": "2024-09-26T12:00:00Z",
+      "event": "Former provisional date for announcement of findings (26 September) delayed due to delay in the merger parties' response to ACCC information requests."
+    },
+    {
+      "date": "3 Oct 2024",
+      "date_iso": "2024-10-03T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Lineage Logistics Holdings LLC ( Lineage ) proposes to acquire Bigstreet Pty Ltd, trading as Fremantle City Coldstores ( FCC ), through its Australian subsidiaries. Lineage is a global cold storage and logistics business headquartered in the USA. Lineage owns and operates 13 cold storage facilities in Australia, including two facilities located in Welshpool and Banjup in Perth, Western Australia. Lineage’s Banjup facility is currently leased on a long-term basis to large customers that operate the facility themselves. As part of these leases, Lineage supplies some maintenance services. In addition to cold storage, Lineage supplies blast freezing, warehousing, transportation and distribution, automated shrink wrapping, and container loading and unloading services. FCC is a Perth-based cold storage supplier with one facility located in North Coogee, near Fremantle in Western Australia. In addition to cold storage, FCC supplies blast freezing, warehousing, local transportation, shrink wrapping and slip sheeting, and container loading and unloading services. The parties overlap in the supply of cold storage solutions and related services.",
+    "Market definition": "The ACCC considered the effect of the proposed acquisition on competition in the market(s) for: the supply of cold storage and related services in the greater Perth region the supply of cold storage and related services in Western Australia. It was not necessary for the ACCC to form a concluded view on the precise scope of these markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was not likely to substantially lessen competition in any relevant market. The ACCC considered that the merged entity would likely be constrained by alternative providers of cold storage services in the greater Perth region, including Americold and Golden West. In addition, the ACCC recognised that customers of cold storage providers were able to switch suppliers at low cost and with relative ease, given no constraints on cold storage capacity. The ACCC concluded that recent or ongoing expansions by Americold and Golden West had led to an increase in available cold storage capacity in the greater Perth region."
+  }
+}

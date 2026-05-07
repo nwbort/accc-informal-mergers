@@ -1,0 +1,44 @@
+{
+  "id": "0563",
+  "title": "Bayer AG Germany - proposed acquisition of Bomac Industries Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/bayer-ag-germany-proposed-acquisition-of-bomac-industries-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43980",
+  "industries": [
+    "Animal Health"
+  ],
+  "date_completed": "9 December 2010",
+  "date_completed_iso": "2010-12-09T12:00:00Z",
+  "date_commenced": "4 November 2010",
+  "date_commenced_iso": "2010-11-04T12:00:00Z",
+  "total_review_days": 26,
+  "acquirers": [
+    "Bayer Ag Germany"
+  ],
+  "targets": [
+    "Bomac Industries Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "4 Nov 2010",
+      "date_iso": "2010-11-04T12:00:00Z",
+      "event": "The ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "25 Nov 2010",
+      "date_iso": "2010-11-25T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "9 Dec 2010",
+      "date_iso": "2010-12-09T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Bayer proposes to acquire Bomac Industries Limited and Bomac Research Limited. Bayer and Bomac are manufacturers and suppliers of animal health products.",
+    "Market definition": "For the purposes of its assessment, the ACCC considered the proposed acquisition in the context of the following relevant national markets: -  the supply of endectocides for worm control in cattle; -  the supply of endectocides and endoparasiticides for worm control in sheep; -  the supply of endoparasiticides for worm control in cats and dogs; -  the supply of ectoparasiticides for fly control in sheep; -  the supply of ectoparasiticides for lice control in sheep; and -  the supply of coccidiostats for the control of coccidiosis in pigs.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition for the following reasons: -  in all markets, the proposed acquisition would result in a small increase (or no increase) in concentration and the removal of Bomac was unlikely to result in the loss of a vigorous and effective competitor; -  in all markets except for the supply of coccidiostats, the merged entity would continue to face effective competition from alternative suppliers; and -  in the market for the supply of coccidiostats, customers were not reliant on Bomac as an alternative supplier when negotiating price and supply terms and therefore any resulting loss in competition was unlikely to be substantial."
+  }
+}

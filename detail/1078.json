@@ -1,0 +1,43 @@
+{
+  "id": "1078",
+  "title": "Centenary Music Holdings Ltd - proposed acquisition of Sanctuary Group plc",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/centenary-music-holdings-ltd-proposed-acquisition-of-sanctuary-group-plc",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "28732",
+  "industries": [
+    "Music recording and publishing"
+  ],
+  "date_completed": "6 July 2007",
+  "date_completed_iso": "2007-07-06T12:00:00Z",
+  "date_commenced": "20 June 2007",
+  "date_commenced_iso": "2007-06-20T12:00:00Z",
+  "total_review_days": 13,
+  "acquirers": [
+    "Centenary Music Holdings Ltd"
+  ],
+  "targets": [
+    "Sanctuary Group plc"
+  ],
+  "timeline": [
+    {
+      "date": "20 Jun 2007",
+      "date_iso": "2007-06-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "29 Jun 2007",
+      "date_iso": "2007-06-29T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "6 Jul 2007",
+      "date_iso": "2007-07-06T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "In Australia, Sanctuary is involved in merchandising, artist services and music recording, with a nominal presence in music publishing, whereas Universal is a major player in music recording and music publishing. Accordingly, the merger parties' activities overlapped in relation to music publishing and music recording. In relation to music publishing, the proposed acquisition was considered in the context of national markets for: -         the upstream acquisition of rights from authors by music publishers; and -         the downstream exploitation of copyrights by music publishers. In relation to music recording, the proposed acquisition was considered in the context of national markets for: -         the upstream acquisition of sound recording rights from artists by music recording companies; and -        the downstream exploitation of copyrights by music recording companies.",
+    "Competition analysis": "The proposed acquisition was considered unlikely to substantially lessen competition in the music publishing and music recording markets identified above due to Sanctuary's nominal presence in these markets in Australia. The ACCC also considered that competition concerns were unlikely to arise regarding potential bundling (particularly of music recording, merchandising and/or artists services) or foreclosure in respect of merchandising and artist services, because of Sanctuary's minimal presence in merchandising and artist services in Australia. Accordingly, on 6 July 2007, the ACCC determined it would not intervene in the proposed acquisition."
+  }
+}

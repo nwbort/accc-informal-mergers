@@ -1,0 +1,50 @@
+{
+  "id": "0150",
+  "title": "InfraBuild Trading Pty Ltd - Best Bar Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/infrabuild-trading-pty-ltd-best-bar-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Reinforcing steel"
+  ],
+  "date_completed": "2 June 2020",
+  "date_completed_iso": "2020-06-02T12:00:00Z",
+  "date_commenced": "25 March 2020",
+  "date_commenced_iso": "2020-03-25T12:00:00Z",
+  "total_review_days": 49,
+  "acquirers": [
+    "InfraBuild Trading Pty Ltd"
+  ],
+  "targets": [
+    "Best Bar Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "25 Mar 2020",
+      "date_iso": "2020-03-25T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "14 Apr 2020",
+      "date_iso": "2020-04-14T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "8 May 2020",
+      "date_iso": "2020-05-08T12:00:00Z",
+      "event": "ACCC is awaiting further information from the acquirer. Former provisional date for announcement of findings (10 June) is delayed."
+    },
+    {
+      "date": "11 May 2020",
+      "date_iso": "2020-05-11T12:00:00Z",
+      "event": "The ACCC determined the new date of announcement of its findings (as outlined in the Informal Merger Review Process Guidelines, this may be a final decision or release of a Statement of Issues) as 25 June."
+    },
+    {
+      "date": "2 Jun 2020",
+      "date_iso": "2020-06-02T12:00:00Z",
+      "event": "The ACCC discontinued this review after InfraBuild withdrew its application for informal merger clearance."
+    }
+  ],
+  "body_sections": {}
+}

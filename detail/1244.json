@@ -1,0 +1,44 @@
+{
+  "id": "1244",
+  "title": "Envestra Group - proposed acquisition of Allgas Natural Gas Distribution Networks",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/envestra-group-proposed-acquisition-of-allgas-natural-gas-distribution-networks",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24851",
+  "industries": [
+    "Natural Gas distribution"
+  ],
+  "date_completed": "15 August 2006",
+  "date_completed_iso": "2006-08-15T12:00:00Z",
+  "date_commenced": "7 July 2006",
+  "date_commenced_iso": "2006-07-07T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Envestra Group"
+  ],
+  "targets": [
+    "Allgas Natural Gas Distribution Networks"
+  ],
+  "timeline": [
+    {
+      "date": "7 Jul 2006",
+      "date_iso": "2006-07-07T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "28 Jul 2006",
+      "date_iso": "2006-07-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "15 Aug 2006",
+      "date_iso": "2006-08-15T12:00:00Z",
+      "event": "ACCC decided not to oppose proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Envestra owned the natural gas distribution networks north of the Brisbane River and Allgas owned the distribution networks south of the Brisbane River. Envestra sought to bid for the natural gas distribution networks of Allgas Energy Pty Ltd pursuant to a competitive tender process conducted by the Queensland Government.",
+    "Market definition": "The ACCC considered that, for the purposes of this analysis, each of the distribution networks in Queensland probably constituted a separate market, although it recognised that competition along the border of Envestra's North Brisbane and Allgas' South Brisbane network may be possible.  However, this competition, if it existed, was not considered significant.",
+    "Competition analysis": "Taking this into account, along with the fact that all except one (which serviced one large customer) of Allgas' networks were regulated by the Gas Code, the ACCC came to the conclusion that the proposed acquisition would be unlikely to result in a substantial lessening of competition."
+  }
+}

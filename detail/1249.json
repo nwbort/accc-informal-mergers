@@ -1,0 +1,79 @@
+{
+  "id": "1249",
+  "title": "Transpacific Industries Group Ltd - proposed acquisition of Waste Management NZ Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/transpacific-industries-group-ltd-proposed-acquisition-of-waste-management-nz-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24018",
+  "industries": [
+    "Waste management"
+  ],
+  "date_completed": "8 August 2006",
+  "date_completed_iso": "2006-08-08T12:00:00Z",
+  "date_commenced": "18 April 2006",
+  "date_commenced_iso": "2006-04-18T12:00:00Z",
+  "total_review_days": 42,
+  "acquirers": [
+    "Transpacific Industries Group Ltd"
+  ],
+  "targets": [
+    "Waste Management NZ Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "18 Apr 2006",
+      "date_iso": "2006-04-18T12:00:00Z",
+      "event": "Commenced preliminary assessment"
+    },
+    {
+      "date": "9 May 2006",
+      "date_iso": "2006-05-09T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. ACCC timeline suspended"
+    },
+    {
+      "date": "17 May 2006",
+      "date_iso": "2006-05-17T12:00:00Z",
+      "event": "ACCC received Transpacific's response to ACCC request of 9 May 2006. ACCC timeline recommenced"
+    },
+    {
+      "date": "13 Jun 2006",
+      "date_iso": "2006-06-13T12:00:00Z",
+      "event": "ACCC requestd further information from Transpacific. ACCC timeline suspended"
+    },
+    {
+      "date": "16 Jun 2006",
+      "date_iso": "2006-06-16T12:00:00Z",
+      "event": "ACCC received Transpacific's response to ACCC request of 13 June 2006. ACCC timeline recommenced"
+    },
+    {
+      "date": "21 Jun 2006",
+      "date_iso": "2006-06-21T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. ACCC timeline suspended"
+    },
+    {
+      "date": "23 Jun 2006",
+      "date_iso": "2006-06-23T12:00:00Z",
+      "event": "ACCC requested further information from Transpacific. Written market inquiries commenced."
+    },
+    {
+      "date": "11 Jul 2006",
+      "date_iso": "2006-07-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "31 Jul 2006",
+      "date_iso": "2006-07-31T12:00:00Z",
+      "event": "ACCC received further information from Transpacific. ACCC timeline recommenced"
+    },
+    {
+      "date": "8 Aug 2006",
+      "date_iso": "2006-08-08T12:00:00Z",
+      "event": "ACCC announced its decision not to oppose"
+    }
+  ],
+  "body_sections": {
+    "Summary": "Transpacific Industries Group acquisition of Waste Management New Zealand",
+    "Market definition": "The ACCC considered the impact of the acquisition in the non-hazardous and hazardous liquid waste market.  The ACCC considered the acquisition at a number of functional levels including: - collection and transport; - processing and treatment; - disposal; and - recycling or recoverable liquids.",
+    "Competition analysis": "Non-hazardous liquids The ACCC considered that the acquisition would not be likely to substantially lessen competition in the regional market for non-hazardous liquids.  The ACCC considered that there were relatively low barriers to entry in this market and that customers were likely to have countervailing power. Hazardous liquids The ACCC considered that the acquisition would not be likely to substantially lessen competition in the regional market for hazardous liquids for disposal.  The ACCC also considered that the acquisition would not be likely to substantially lessen competition in the eastern seaboard market for hazardous liquids that have recoverable value. The ACCC considered that barriers to entry for new entrants in these markets were not likely to be insurmountable.  The ACCC found that some customers were likely to have countervailing power through their negotiating strength for the collection and processing of significant volumes of liquids.  Further, some customers were likely to have countervailing power through the ability to establish their own on-site processing facilities."
+  }
+}

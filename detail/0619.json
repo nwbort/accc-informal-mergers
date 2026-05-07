@@ -1,0 +1,49 @@
+{
+  "id": "0619",
+  "title": "Toll Holdings Limited - completed acquisition of assets of Concord Park Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/toll-holdings-limited-completed-acquisition-of-assets-of-concord-park-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "41802",
+  "industries": [
+    "Freight forwarding"
+  ],
+  "date_completed": "15 June 2010",
+  "date_completed_iso": "2010-06-15T12:00:00Z",
+  "date_commenced": "6 May 2010",
+  "date_commenced_iso": "2010-05-06T12:00:00Z",
+  "total_review_days": 28,
+  "acquirers": [
+    "Toll Holdings Limited"
+  ],
+  "targets": [
+    "Concord Park Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "6 May 2010",
+      "date_iso": "2010-05-06T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "20 May 2010",
+      "date_iso": "2010-05-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 May 2010",
+      "date_iso": "2010-05-24T12:00:00Z",
+      "event": "Toll acquired the assets of Concord Park Ltd. Former proposed date for announcement of ACCC findings of 10 June 2010 removed after the acquisition was completed."
+    },
+    {
+      "date": "15 Jun 2010",
+      "date_iso": "2010-06-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Toll Holdings Limited has acquired the assets of Concord Park Pty Ltd.",
+    "Market definition": "The ACCC considered the competitive effects of the acquisition in the context of a national market for the supply of freight forwarding and line haul services by road for general freight.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition in the relevant market for the following reasons: - there remain a number of significant providers of integrated freight forwarding and line haul services which offer comparable services to the merged firm; - there are also a high number of second-tier and smaller transport operators which are likely to be able to expand relatively quickly in response to a price increase by the merged firm; and - the acquisition represents a small incremental increase in Toll Limited's share of sales in the relevant market."
+  }
+}

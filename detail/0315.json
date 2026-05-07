@@ -1,0 +1,44 @@
+{
+  "id": "0315",
+  "title": "Eli Lilly - proposed acquisition of Novartis Animal Health",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/eli-lilly-proposed-acquisition-of-novartis-animal-health",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "55014",
+  "industries": [
+    "Animal health"
+  ],
+  "date_completed": "19 November 2014",
+  "date_completed_iso": "2014-11-19T12:00:00Z",
+  "date_commenced": "24 September 2014",
+  "date_commenced_iso": "2014-09-24T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Eli Lilly"
+  ],
+  "targets": [
+    "Novartis Animal Health"
+  ],
+  "timeline": [
+    {
+      "date": "24 Sep 2014",
+      "date_iso": "2014-09-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "15 Oct 2014",
+      "date_iso": "2014-10-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Nov 2014",
+      "date_iso": "2014-11-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Eli Lilly and Company (Eli Lilly) proposed to acquire the animal health business of Novartis AG (Novartis).",
+    "Market definition": "The merger parties overlap in the supply of products which treat external parasites in companion animals (dogs and cats) and production animals (in particular, sheep); and internal parasites in companion animals. In relation to companion animals, the merger parties both supply products which focus solely on the treatment of external parasites (ectoparasiticides); as well as products which treat both external and internal parasites (endectocides). Some market participants supply products which focus solely on the treatment of internal parasites (endoparasiticides). Eli Lilly does not supply endoparasiticides. The ACCC considered the proposed acquisition in the context of national markets for: - the supply of external parasite products for companion animals (this would include ectoparasiticides and endectocides), - the supply of internal parasite products for companion animals (this would include endoparasiticides and endectocides), - the supply of ectoparasiticides for fly control in sheep, and - the supply of ectoparasiticides for lice control in sheep.",
+    "Competition analysis": "The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Post acquisition, Eli Lilly will continue to be constrained by a number of international animal health pharmaceutical companies, such as Bayer, Merial and Zoetis in relation to the supply of internal and external parasite products. In addition the presence of a number of generic parasite products will offer further constraint. Market feedback indicated that these companies compete strongly on product development, price, convenience, product range, and service. In relation to the supply of ectoparasiticides for sheep, the ACCC did not consider that there was close competition between the Eli Lilly products (which predominately are lice treatments) and the Novartis products (which are predominantly fly treatments). The ACCC did not consider that the proposed acquisition was likely to materially increase the ability or incentive of the parties to leverage a strong position in relation to the supply of ectoparasiticides for the control of flies in sheep into the market the supply of ectoparasiticides for the control of lice in sheep, or vice versa."
+  }
+}

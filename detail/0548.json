@@ -1,0 +1,44 @@
+{
+  "id": "0548",
+  "title": "CA Group Australasia Pty Ltd - proposed acquisition of Global Alloys",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/ca-group-australasia-pty-ltd-proposed-acquisition-of-global-alloys",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43358",
+  "industries": [
+    "Non-ferrous metals and alloys"
+  ],
+  "date_completed": "11 February 2011",
+  "date_completed_iso": "2011-02-11T12:00:00Z",
+  "date_commenced": "23 December 2010",
+  "date_commenced_iso": "2010-12-23T12:00:00Z",
+  "total_review_days": 35,
+  "acquirers": [
+    "CA Group Australasia Pty Ltd"
+  ],
+  "targets": [
+    "Global Alloys"
+  ],
+  "timeline": [
+    {
+      "date": "23 Dec 2010",
+      "date_iso": "2010-12-23T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "21 Jan 2011",
+      "date_iso": "2011-01-21T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Feb 2011",
+      "date_iso": "2011-02-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "CA Group Australasia Pty Ltd (CA Group) proposes to acquire the Global Alloys business from Casting Components & Alloys Pty Ltd.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the following markets: - a national market for the manufacture and supply of cast non-ferrous metal products; and - a national market for the manufacture and supply of extruded non-ferrous metal products.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition was unlikely to result in a substantial lessening of competition in the relevant markets. In forming this view the ACCC considered that the following factors were likely to constrain the merged entity: - the continued presence of a number of competitors; - sufficiently low barriers to entry and expansion, which would enable some competitors to modify their manufacturing activities to compete with the merged entity; and - the availability of imports for some customers."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "0098",
+  "title": "Telstra Corporation Ltd - Media Innovations Holdings Pty Ltd (Fetch TV)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/telstra-corporation-ltd-media-innovations-holdings-pty-ltd-fetch-tv",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Content aggregation services"
+  ],
+  "date_completed": "14 July 2022",
+  "date_completed_iso": "2022-07-14T12:00:00Z",
+  "date_commenced": "2 May 2022",
+  "date_commenced_iso": "2022-05-02T12:00:00Z",
+  "total_review_days": 51,
+  "acquirers": [
+    "Telstra Corporation Ltd"
+  ],
+  "targets": [
+    "Media Innovations Holdings Pty Ltd (Fetch TV)"
+  ],
+  "timeline": [
+    {
+      "date": "2 May 2022",
+      "date_iso": "2022-05-02T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "23 May 2022",
+      "date_iso": "2022-05-23T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "14 Jul 2022",
+      "date_iso": "2022-07-14T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Telstra Corporation Ltd ( Telstra ) proposes to acquire 51.4% of the issued share capital in Media Innovations Holdings Pty Ltd ( Fetch TV ). Telstra provides retail broadband services, retail telephony services (both fixed line and mobile), and content and subscription television services in Australia. Telstra has a proprietary and branded internet protocol television (IPTV) content service, which is delivered via the Telstra TV streaming device. Its IPTV content service offers customers access to buy or rent movies, paid content subscriptions (such as Netflix, Foxtel Now and Stan) and free-to-air channels. Telstra TV can be purchased from Telstra outright, or as an add-on cost to an existing Telstra broadband service. Telstra also distributes and has a 35% share of Foxtel. Fetch TV provides a competing IPTV service in Australia. Fetch TV is a wholesale supplier of television services to broadband retailers which allow customers to purchase Fetch TV via a bundled broadband or phone service. Fetch TV also directly distributes its streaming device via select electronics retailers.",
+    "Market definition": "The ACCC considered the impact of the proposed acquisition in the market for the supply of retail broadband services in Australia. The ACCC also considered the impact of the proposed acquisition in markets for the supply of content aggregation services and pay TV services. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise definition of these markets as it would not significantly alter the assessment.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market in Australia. Telstra via Telstra TV, Foxtel (in which Telstra’s owns a 35% interest) and Fetch TV overlap in the supply of content aggregation services. Fetch TV also overlaps with Foxtel in the supply of linear pay TV services. Fetch TV also supplies its set-top-box devices to some of Telstra’s retail broadband competitors. The ACCC considered whether Telstra may have the ability and incentive to foreclose rival retail broadband providers access to Fetch TV post-acquisition. The ACCC found that while entertainment offerings are one important strategy for retail broadband suppliers to differentiate retail broadband products, Fetch TV does not appear to be a ‘must have’ for broadband retailers to offer consumers competitive retail broadband services. Several broadband retailers also offer other entertainment offerings or other inclusions. Further, Fetch TV users account for a small proportion of the total number of retail broadband customers in Australia and any foreclosure strategy is unlikely to amount to a substantial lessening of competition. The ACCC also considered the potential competitive effects of the proposed acquisition on the supply of content aggregation services and linear pay TV services. The ACCC found that Telstra TV, Fetch TV and Foxtel would continue to face competition from other entertainment technologies and differentiated services such as smart TVs and hardware devices such as Amazon Firestick, Google Chromecast, Apple TV and gaming consoles."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "0634",
+  "title": "Essilor International SA - completed acquisition of a majority interest in Eyebiz Laboratories Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/essilor-international-sa-completed-acquisition-of-a-majority-interest-in-eyebiz-laboratories-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "40859",
+  "industries": [
+    "Ophthalmic lens processing"
+  ],
+  "date_completed": "24 May 2010",
+  "date_completed_iso": "2010-05-24T12:00:00Z",
+  "date_commenced": "12 March 2010",
+  "date_commenced_iso": "2010-03-12T12:00:00Z",
+  "total_review_days": 44,
+  "acquirers": [
+    "Essilor International SA"
+  ],
+  "targets": [
+    "Eyebiz Laboratories Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "8 Feb 2010",
+      "date_iso": "2010-02-08T12:00:00Z",
+      "event": "Luxottica announced that Essilor had acquired a majority interest in Eyebiz."
+    },
+    {
+      "date": "12 Mar 2010",
+      "date_iso": "2010-03-12T12:00:00Z",
+      "event": "ACCC commenced a public review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "17 Mar 2010",
+      "date_iso": "2010-03-17T12:00:00Z",
+      "event": "ACCC requested further information from the target. ACCC timeline suspended."
+    },
+    {
+      "date": "24 Mar 2010",
+      "date_iso": "2010-03-24T12:00:00Z",
+      "event": "ACCC received further information from target. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Apr 2010",
+      "date_iso": "2010-04-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "24 May 2010",
+      "date_iso": "2010-05-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the completed acquisition in the context of the following markets: - the national market for the supply of ophthalmic lens processing services; - the national market for the supply of ophthalmic lenses; and - local markets for the retail supply of optical dispensing services.",
+    "Competition analysis": "The ACCC concluded that the completed acquisition would be unlikely to result in a substantial lessening of competition in any relevant market for the following reasons: - pre-acquisition, Eyebiz exclusively supplied lens processing services to Luxottica retail outlets, however it would now be able to supply lens processing services to non-Luxottica retailers; - the completed acquisition would involve a direct transfer of Luxottica's lens processing volumes from Eyebiz to Essilor and would therefore be unlikely to impact the existing structure of the market; - Eyebiz appeared to have acquired limited volumes of ophthalmic lenses from suppliers other than Essilor, and the completed acquisition appeared to formalise existing supply arrangements; - there appeared to be a number of independent (non-integrated) lens processing laboratories available to rival suppliers of ophthalmic lenses. Further a number of suppliers of ophthalmic lenses were also vertically integrated into the supply of lens processing services; and - there appeared to be a number of independent lens processing laboratories available to independent retail customers."
+  }
+}

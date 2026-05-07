@@ -1,0 +1,49 @@
+{
+  "id": "0569",
+  "title": "Hoyts Corporation Pty Ltd - completed acquisition of Australian Multiplex Cinemas Pty Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hoyts-corporation-pty-ltd-completed-acquisition-of-australian-multiplex-cinemas-pty-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "43694",
+  "industries": [
+    "Cinema"
+  ],
+  "date_completed": "24 November 2010",
+  "date_completed_iso": "2010-11-24T12:00:00Z",
+  "date_commenced": "21 October 2010",
+  "date_commenced_iso": "2010-10-21T12:00:00Z",
+  "total_review_days": 25,
+  "acquirers": [
+    "Hoyts Corporation Pty Ltd"
+  ],
+  "targets": [
+    "Australian Multiplex Cinemas Pty Limited"
+  ],
+  "timeline": [
+    {
+      "date": "21 Oct 2010",
+      "date_iso": "2010-10-21T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "8 Nov 2010",
+      "date_iso": "2010-11-08T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Nov 2010",
+      "date_iso": "2010-11-18T12:00:00Z",
+      "event": "Hoyts acquired AMC."
+    },
+    {
+      "date": "24 Nov 2010",
+      "date_iso": "2010-11-24T12:00:00Z",
+      "event": "ACCC announced it would not oppose the completed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Hoyts Corporation Pty Ltd (Hoyts) has acquired Australian Multiplex Cinemas Pty Ltd (AMC).",
+    "Market definition": "The ACCC considered the competitive effects of the acquisition in the context of the following markets: - local markets for the exhibition of films in a cinema; - local and national markets for the exhibition of cinema advertising; and - a national market for the acquisition of film product from film distributors for exhibition in a cinema.",
+    "Competition analysis": "The ACCC formed the view that the acquisition was unlikely to substantially lessen competition for the following reasons: - the absence of an overlap between the customer catchment area of each of the target cinemas in Queensland and Far North New South Wales and the acquirer's nearest cinemas; - the limited overlap between the customer catchment area of the target cinema in Victoria and the acquirer's nearest cinema as well as the likely constraint provided by competing cinemas in the target cinema's customer catchment area in Victoria; - the small incremental increase in total advertising exhibited by Hoyts in Australia as a result of the acquisition; and - the small incremental increase in Hoyts' acquisition of film product from film distributors in Australia as a result of the acquisition."
+  }
+}

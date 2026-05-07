@@ -1,0 +1,54 @@
+{
+  "id": "0356",
+  "title": "Thermo Fisher Scientific Inc - proposed acquisition of Life Technologies Corporation",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/thermo-fisher-scientific-inc-proposed-acquisition-of-life-technologies-corporation",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "52214",
+  "industries": [
+    "Life Sciences"
+  ],
+  "date_completed": "19 December 2013",
+  "date_completed_iso": "2013-12-19T12:00:00Z",
+  "date_commenced": "20 September 2013",
+  "date_commenced_iso": "2013-09-20T12:00:00Z",
+  "total_review_days": 39,
+  "acquirers": [
+    "Thermo Fisher Scientific Inc"
+  ],
+  "targets": [
+    "Life Technologies Corporation"
+  ],
+  "timeline": [
+    {
+      "date": "20 Sep 2013",
+      "date_iso": "2013-09-20T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "11 Oct 2013",
+      "date_iso": "2013-10-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "11 Nov 2013",
+      "date_iso": "2013-11-11T12:00:00Z",
+      "event": "ACCC timeline suspended and former proposed decision date of 14 November 2013 delayed to allow the merger parties to provide additional information to the ACCC."
+    },
+    {
+      "date": "13 Dec 2013",
+      "date_iso": "2013-12-13T12:00:00Z",
+      "event": "ACCC received further information from the merger parties. ACCC timeline recommenced."
+    },
+    {
+      "date": "19 Dec 2013",
+      "date_iso": "2013-12-19T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition, subject to a section 87B undertaking accepted by ACCC."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Thermo Fisher Scientific Inc proposed to acquire all of the shares of  Life Technologies Corporation.",
+    "Market definition": "Please refer to the Public Competition Assessment.",
+    "Competition analysis": "Please refer to the Public Competition Assessment."
+  }
+}

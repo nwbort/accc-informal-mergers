@@ -1,0 +1,54 @@
+{
+  "id": "0013",
+  "title": "Adbri's proposed acquisition of SA Premix",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/adbris-proposed-acquisition-of-sa-premix",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": null,
+  "industries": [
+    "Construction"
+  ],
+  "date_completed": "11 September 2025",
+  "date_completed_iso": "2025-09-11T12:00:00Z",
+  "date_commenced": "11 June 2025",
+  "date_commenced_iso": "2025-06-11T12:00:00Z",
+  "total_review_days": 62,
+  "acquirers": [
+    "Adbri Pty Ltd (Adbri), through its subsidiary Adbri Concrete and Quarries SA Pty Ltd"
+  ],
+  "targets": [
+    "Premix Concrete S.A. Pty. Ltd., Seelander Quarries Pty Ltd, Clinton Sands Pty Ltd, Clinton Quarries Pty Ltd and Adelaide Industrial Sands Pty Ltd (together, SA Premix)"
+  ],
+  "timeline": [
+    {
+      "date": "12 Jun 2025",
+      "date_iso": "2025-06-12T12:00:00Z",
+      "event": "ACCC commenced informal review under the Informal Merger Review Process Guidelines."
+    },
+    {
+      "date": "27 Jun 2025",
+      "date_iso": "2025-06-27T12:00:00Z",
+      "event": "Closing date for submissions."
+    },
+    {
+      "date": "26 Aug 2025",
+      "date_iso": "2025-08-26T12:00:00Z",
+      "event": "ACCC is awaiting further information from the merger parties. Former provisional date for announcement of ACCC's findings (28 August 2025) is delayed. The ACCC will announce a revised provisional decision date in due course."
+    },
+    {
+      "date": "1 Sep 2025",
+      "date_iso": "2025-09-01T12:00:00Z",
+      "event": "ACCC received further information from the merger parties on 27 August 2025. Timeline recommenced."
+    },
+    {
+      "date": "11 Sep 2025",
+      "date_iso": "2025-09-11T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Adbri Pty Ltd ( Adbri ), through its subsidiary Adbri Concrete and Quarries SA Pty Ltd, proposes to acquire 100% of the share capital in each of Premix Concrete S.A. Pty. Ltd., Seelander Quarries Pty Ltd, Clinton Sands Pty Ltd, Clinton Quarries Pty Ltd and Adelaide Industrial Sands Pty Ltd (together, SA Premix ). Adbri is a privately owned Australian company, owned by CRH ANZ Pty Ltd and the Barro Group. Adbri manufactures, imports and supplies various building materials across Australia, including clinker, cement, quicklime, aggregates, ready-mix concrete ( RMX ), concrete masonry products and supplementary cementitious materials such as flyash, and slag. SA Premix is a privately owned Australian business with operations based in South Australia. SA Premix operates RMX, aggregates (including hard rock and sand quarries) and industrial sands businesses. Adbri and SA Premix overlap in the supply of RMX and aggregates (hard rock and sand).",
+    "Market definition": "The ACCC considered the likely effect of the proposed acquisition on competition in markets for the: supply of RMX within Greater Adelaide, as well as certain local areas within Greater Adelaide, supply of sand aggregates in Greater Adelaide, and supply of hard rock aggregates in Greater Adelaide. For the purposes of this assessment, the ACCC did not need to reach a concluded view on the precise boundaries of the relevant markets.",
+    "Competition analysis": "The ACCC concluded that the proposed acquisition is not likely to substantially lessen competition in any market. The ACCC’s investigation focused on the closeness of competition between Adbri and SA Premix in the supply of RMX and aggregates, and whether customers would have competitive alternatives for RMX and aggregates post-acquisition. RMX The ACCC found that, while the proposed acquisition would result in an increase in Adbri’s market share, the remaining RMX suppliers would continue to provide an effective constraint on Adbri post-acquisition, both in Greater Adelaide and in smaller local markets within Greater Adelaide. Sand aggregates The ACCC found that while the proposed acquisition would result in an increase in Adbri’s market share, the remaining sand aggregate suppliers would likely continue to constrain Adbri post-acquisition. Hard rock aggregates The ACCC found that the proposed acquisition is unlikely to materially increase market concentration in the supply of hard rock aggregates in Greater Adelaide. The ACCC also considered whether post-acquisition, Adbri would have the ability and incentive to foreclose rival downstream decorative RMX suppliers’ access to white rock aggregates, an important input to some decorative RMX products, and the competitive impact of any such foreclosure strategy. The ACCC found that while Adbri likely has market power in the supply of white rock aggregates and SA Premix is a significant supplier of decorative RMX products, Adbri is likely to have the incentive to continue to supply these inputs to rival RMX suppliers, where these inputs are available, post-acquisition."
+  }
+}

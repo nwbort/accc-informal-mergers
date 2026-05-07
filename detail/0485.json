@@ -1,0 +1,54 @@
+{
+  "id": "0485",
+  "title": "Amazon.com Incorporated - proposed acquisition of The Book Depository International Limited",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/amazoncom-incorporated-proposed-acquisition-of-the-book-depository-international-limited",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46439",
+  "industries": [
+    "Book retailing"
+  ],
+  "date_completed": "1 November 2011",
+  "date_completed_iso": "2011-11-01T12:00:00Z",
+  "date_commenced": "25 August 2011",
+  "date_commenced_iso": "2011-08-25T12:00:00Z",
+  "total_review_days": 31,
+  "acquirers": [
+    "Amazon.com Incorporated"
+  ],
+  "targets": [
+    "The Book Depository International Limited"
+  ],
+  "timeline": [
+    {
+      "date": "25 Aug 2011",
+      "date_iso": "2011-08-25T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "9 Sep 2011",
+      "date_iso": "2011-09-09T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "26 Sep 2011",
+      "date_iso": "2011-09-26T12:00:00Z",
+      "event": "ACCC requested further information from Amazon.com. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 29 September 2011 delayed."
+    },
+    {
+      "date": "21 Oct 2011",
+      "date_iso": "2011-10-21T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "1 Nov 2011",
+      "date_iso": "2011-11-01T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Amazon.com Incorporated proposed to acquire The Book Depository International Limited.",
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the retail supply of books. For the purposes of considering this acquisition, the ACCC did not consider it necessary to form a definitive view on whether there were separate product markets based on the sales channel (online or bricks and mortar retailers), book format (printed or electronic) or category of title (front-list or back-list).",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in any relevant market. Factors informing this conclusion included: -The merged firm would continue to face competition from several book retailers (including Australian and overseas-based online retailers); -Barriers to entry into the online retail supply of books were relatively low with the availability of third party sales platforms such as Amazon Marketplace and the use of drop shipping allowing new entrants to enter the market with no significant infrastructure or technical requirements; -Barriers to expansion were also low with the existence of several international competitors that could easily increase their presence in the Australian market."
+  }
+}

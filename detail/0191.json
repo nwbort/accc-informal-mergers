@@ -1,0 +1,48 @@
+{
+  "id": "0191",
+  "title": "News Corp - proposed acquisition of Racing Internet Services Pty Ltd (Racenet)",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/news-corp-proposed-acquisition-of-racing-internet-services-pty-ltd-racenet",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "64153",
+  "industries": [
+    "Horse racing news/betting affiliate services"
+  ],
+  "date_completed": "15 November 2018",
+  "date_completed_iso": "2018-11-15T12:00:00Z",
+  "date_commenced": "5 October 2018",
+  "date_commenced_iso": "2018-10-05T12:00:00Z",
+  "total_review_days": 29,
+  "acquirers": [
+    "Punters Paradise Pty Limited"
+  ],
+  "targets": [
+    "Racing Internet Services Pty Ltd (Racenet)"
+  ],
+  "timeline": [
+    {
+      "date": "5 Oct 2018",
+      "date_iso": "2018-10-05T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Process Guidelines."
+    },
+    {
+      "date": "19 Oct 2018",
+      "date_iso": "2018-10-19T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "13 Nov 2018",
+      "date_iso": "2018-11-13T12:00:00Z",
+      "event": "Former proposed decision date of 29 November 2018 brought forward."
+    },
+    {
+      "date": "15 Nov 2018",
+      "date_iso": "2018-11-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC did not reach a concluded view on market definition, but it considered the likely effects of the proposed acquisition on competition in the supply of the following services in Australia: horse racing news and information to consumers; and betting affiliate services to corporate bookmakers (which may be part of a broader market).",
+    "Competition analysis": "News Corp owns Punters.com.au, a website with similar functionality to Racenet. The ACCC considered that the proposed acquisition was unlikely to substantially lessen competition in any potential market. Supply of horse racing news and information The ACCC considered whether the proposed acquisition was likely to result in a substantial lessening of competition resulting from the loss of an alternative source of horse racing news and information for consumers. Since consumers do not pay directly for the news and information they obtain from the merger parties, the ACCC considered whether it was likely to result in a reduction in quality for consumers. The ACCC concluded that there are alternative sources of horse racing news and information. These alternative sources would act as a competitive constraint on the quality of the news and information supplied by the merged entity. Supply of betting affiliate services to corporate bookmakers The ACCC considered whether the merged entity would have the ability to raise prices for betting affiliate services supplied to corporate bookmakers. The ACCC understands that betting affiliate services are utilised by corporate bookmakers to obtain new customers. The ACCC considered that corporate bookmakers have the capability to access a variety of other channels and advertising opportunities to acquire new customers, including through TV, radio, digital, social media and billboards. The ACCC concluded that there would remain a variety of advertising opportunities that would competitively constrain the merged entity. The ACCC also noted that many corporate bookmakers are large, sophisticated market participants that would likely have a degree of countervailing power when dealing with the merged entity. Other issues considered The ACCC also considered whether the proposed acquisition would give a combined Punters-Racenet the ability and incentive: to foreclose rival betting affiliates by bundling or offering exclusive arrangements for advertising on News Corp publications to corporate bookmakers who use Punters/Racenet; to foreclose rival betting affiliates’ access to horse racing news and information via News Corp’s non-controlling stake in the AAP news wire; and to foreclose rival corporate bookmakers by withholding access to Punters and Racenet (since News Corp has a minority interest in PointsBet). The ACCC concluded that News Corp’s acquisition of Racenet was unlikely to result in any such foreclosure, or even if any foreclosure was attempted, it was unlikely to cause a substantial lessening of competition."
+  }
+}

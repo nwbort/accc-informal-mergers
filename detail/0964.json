@@ -1,0 +1,44 @@
+{
+  "id": "0964",
+  "title": "Australian Co-operative Foods Ltd - proposed acquisition of the assets of Perfection Dairies Pty Ltd and its subsidiaries",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/australian-co-operative-foods-ltd-proposed-acquisition-of-the-assets-of-perfection-dairies-pty-ltd-and-its-subsidiaries",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "30550",
+  "industries": [
+    "Milk supply"
+  ],
+  "date_completed": "18 February 2008",
+  "date_completed_iso": "2008-02-18T12:00:00Z",
+  "date_commenced": "16 January 2008",
+  "date_commenced_iso": "2008-01-16T12:00:00Z",
+  "total_review_days": 23,
+  "acquirers": [
+    "Australian Co-operative Foods Ltd (Dairy Farmers)"
+  ],
+  "targets": [
+    "Perfection Dairies Pty Ltd"
+  ],
+  "timeline": [
+    {
+      "date": "16 Jan 2008",
+      "date_iso": "2008-01-16T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "1 Feb 2008",
+      "date_iso": "2008-02-01T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "18 Feb 2008",
+      "date_iso": "2008-02-18T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Australian Co-operative Foods Ltd (Dairy Farmers) proposes to acquire the assets of Perfection Dairies Pty Ltd and those of its subsidiaries",
+    "Market definition": "The ACCC considered the following relevant markets: - state markets for the acquisition of raw milk in New South Wales and Victoria; - state markets for the manufacture and wholesale of fresh milk in New South Wales, Victoria and Queensland; and - the New South Wales market for the manufacture and wholesale of flavoured milk.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant markets. In reaching this view, the ACCC considered that the extent to which Perfection Dairies currently acts as a competitive constraint on Dairy Farmers in the relevant markets is small and that the merged entity will continue to be constrained by several competing firms."
+  }
+}

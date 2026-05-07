@@ -1,0 +1,94 @@
+{
+  "id": "1169",
+  "title": "Johnson & Johnson - proposed acquisition of Pfizer Inc's consumer healthcare business",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/johnson-johnson-proposed-acquisition-of-pfizer-incs-consumer-healthcare-business",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24931",
+  "industries": [
+    "Consumer healthcare"
+  ],
+  "date_completed": "21 December 2006",
+  "date_completed_iso": "2006-12-21T12:00:00Z",
+  "date_commenced": "4 October 2006",
+  "date_commenced_iso": "2006-10-04T12:00:00Z",
+  "total_review_days": 40,
+  "acquirers": [
+    "Johnson & Johnson Inc"
+  ],
+  "targets": [
+    "Pfizer Inc"
+  ],
+  "timeline": [
+    {
+      "date": "4 Oct 2006",
+      "date_iso": "2006-10-04T12:00:00Z",
+      "event": "ACCC received submission from Johnson & Johnson. ACCC commences review under the Merger Review Process Guidelines. Market inquiries commence."
+    },
+    {
+      "date": "11 Oct 2006",
+      "date_iso": "2006-10-11T12:00:00Z",
+      "event": "ACCC requested further information from Johnson & Johnson. Indicative timeline suspended pending receipt of Johnson & Johnson's response."
+    },
+    {
+      "date": "16 Oct 2006",
+      "date_iso": "2006-10-16T12:00:00Z",
+      "event": "ACCC received Johnson & Johnson's response to ACCC information request of 11 October."
+    },
+    {
+      "date": "18 Oct 2006",
+      "date_iso": "2006-10-18T12:00:00Z",
+      "event": "Johnson & Johnson advised intention to make submission to ACCC addressing possible competition effects."
+    },
+    {
+      "date": "20 Oct 2006",
+      "date_iso": "2006-10-20T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "1 Nov 2006",
+      "date_iso": "2006-11-01T12:00:00Z",
+      "event": "ACCC received submission from Johnson & Johnson addressing possible competition effects."
+    },
+    {
+      "date": "6 Nov 2006",
+      "date_iso": "2006-11-06T12:00:00Z",
+      "event": "Proposed date for announcement of ACCC's findings (30 November 2006) delayed pending the resolution of Applicant's claim for confidentiality and related matters."
+    },
+    {
+      "date": "24 Nov 2006",
+      "date_iso": "2006-11-24T12:00:00Z",
+      "event": "Applicant's claim for confidentiality and related matters resolved. ACCC timeline recommenced."
+    },
+    {
+      "date": "28 Nov 2006",
+      "date_iso": "2006-11-28T12:00:00Z",
+      "event": "ACCC published Statement of Issues outlining its preliminary competition concerns."
+    },
+    {
+      "date": "11 Dec 2006",
+      "date_iso": "2006-12-11T12:00:00Z",
+      "event": "Closing date for submissions from interested parties responding to ACCC's Statement of Issues."
+    },
+    {
+      "date": "13 Dec 2006",
+      "date_iso": "2006-12-13T12:00:00Z",
+      "event": "Johnson & Johnson submitted s.87B Undertaking relating to its divestiture proposal for market inquiries by ACCC, and ACCC commenced market inquiries on Johnson & Johnson's proposed divestiture."
+    },
+    {
+      "date": "15 Dec 2006",
+      "date_iso": "2006-12-15T12:00:00Z",
+      "event": "Closing date for submissions from interested parties regarding Johnson & Johnson's proposed divestiture."
+    },
+    {
+      "date": "21 Dec 2006",
+      "date_iso": "2006-12-21T12:00:00Z",
+      "event": "ACCC accepted section 87B undertakings from Johnson & Johnson and Pfizer and announced it will not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Summary": "Johnson & Johnson - proposed acquisition of Pfizer Inc's consumer healthcare business",
+    "Market definition": "The proposed acquisition was considered in relation to the supply in Australia of: 1. worm treatments; 2. anti-diarrhoeals; and 2. nicotine replacement therapy products.",
+    "Competition analysis": "The ACCC decided not to oppose the proposed acquisition subject to section 87B undertakings being provided by Johnson & Johnson and Pfizer Inc.  The reasons for the ACCC's decision are set out in the Public Competition Assessment relating to this matter."
+  }
+}

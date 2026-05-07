@@ -1,0 +1,30 @@
+{
+  "id": "1673",
+  "title": "Acquirer: Fuji Bank Ltd; Target: Dai-Ichi Kangyo Bank Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-fuji-bank-ltd-target-dai-ichi-kangyo-bank-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "15594",
+  "industries": [],
+  "date_completed": "13 March 2002",
+  "date_completed_iso": "2002-03-13T12:00:00Z",
+  "date_commenced": "26 February 2002",
+  "date_commenced_iso": "2002-02-26T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Fuji Bank Ltd"
+  ],
+  "targets": [
+    "Dai-Ichi Kangyo Bank Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "On 21 Feb 2002, APRA informed the Commission of a propsed merger between Dai-Ichi Kangyo Bank Ltd and Fuji Bank Ltd planned for 1 April 2002",
+    "Competition analysis": "The transfer of business involves the Sydney branches of these two Banks.  It is the direct result of a global merger between these financial institutions and the Industrial Bank of Japan, to form the Mizuho Holdings Corporate Bank. In Australia, DKB provides corporate banking services, project finance and business advice to companies wishing to enter the Japanese market to establish representative offices and branches or identify joint venture partners or acquisition targets. Fuji Bank established Australian operations in December 2001. The Commission concluded that there appears to be no competitive overlap between DKB and Fuji Bank and therefore, a substantial lessening of competition is unlikely to occur.",
+    "Merger type": "Horizontal",
+    "Guidelines thresholds": "Unknown",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Other",
+    "ANZSIC code": "7321"
+  }
+}

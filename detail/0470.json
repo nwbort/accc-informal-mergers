@@ -1,0 +1,63 @@
+{
+  "id": "0470",
+  "title": "Hancock Natural Resource Group Inc - proposed acquisition of cutting rights for up to three forward rotations of softwood timber plantations in South Australia",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/hancock-natural-resource-group-inc-proposed-acquisition-of-cutting-rights-for-up-to-three-forward-rotations-of-softwood-timber-plantations-in-south",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "46393",
+  "industries": [
+    "Forest plantation"
+  ],
+  "date_completed": "15 December 2011",
+  "date_completed_iso": "2011-12-15T12:00:00Z",
+  "date_commenced": "13 September 2011",
+  "date_commenced_iso": "2011-09-13T12:00:00Z",
+  "total_review_days": 51,
+  "acquirers": [
+    "Hancock Natural Resource Group Inc"
+  ],
+  "targets": [
+    "Cutting rights for softwood timber plantations in South Australia"
+  ],
+  "timeline": [
+    {
+      "date": "13 Sep 2011",
+      "date_iso": "2011-09-13T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines."
+    },
+    {
+      "date": "28 Sep 2011",
+      "date_iso": "2011-09-28T12:00:00Z",
+      "event": "Closing date for submissions from interested parties."
+    },
+    {
+      "date": "19 Oct 2011",
+      "date_iso": "2011-10-19T12:00:00Z",
+      "event": "ACCC requested further information from Hancock Natural Resource Group Inc. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 27 October 2011 delayed."
+    },
+    {
+      "date": "4 Nov 2011",
+      "date_iso": "2011-11-04T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "29 Nov 2011",
+      "date_iso": "2011-11-29T12:00:00Z",
+      "event": "ACCC requested further information from Hancock Natural Resources Group Inc. ACCC timeline suspended. Former proposed decision date for announcement of ACCC's findings of 8 December 2011 delayed."
+    },
+    {
+      "date": "6 Dec 2011",
+      "date_iso": "2011-12-06T12:00:00Z",
+      "event": "Parties provided the ACCC with further information. ACCC timeline recommenced."
+    },
+    {
+      "date": "15 Dec 2011",
+      "date_iso": "2011-12-15T12:00:00Z",
+      "event": "ACCC announced it would not oppose the proposed acquisition."
+    }
+  ],
+  "body_sections": {
+    "Market definition": "The ACCC considered the proposed acquisition in the context of the market for the supply of softwood timber in the Green Triangle region. The Green Triangle region comprises approximately six million hectares of land in the south eastern corner of South Australia and the south western corner of Victoria.",
+    "Competition analysis": "The ACCC formed the view that the proposed acquisition was unlikely to substantially lessen competition in the relevant market for the following reasons: The South Australian Government publicly committed to a number of conditions on the sale of the cutting rights which would effectively limit the ability of Hancock Natural Resource Group Inc (HNRG) to alter the quantity of timber supplied to domestic customers and hence limit HNRG's ability to unilaterally increase softwood timber prices in the Green Triangle. These conditions included: 1.\tthe purchaser must commit to match ForestrySA's current level of planned viable domestic supply, so the proposed acquisition would not be likely to result in any change to availability of softwood timber in Australia; 2.\tthe new purchaser would be obliged to agree to target rotation length consistent with the current and planned ForestrySA standard, which was intended to maintain the integrity of the standard of forest product coming out of the region; and 3.\tsawmill owners who had existing log supply contracts with ForestrySA would be provided with an option to extend their current contracts by up to a further five years. Customers of HNRG post-acquisition would retain countervailing power. The ACCC considered that forest owners in the Green Triangle region were limited in their ability to supply customers outside of this region due to the high cost of transporting product over long distances, while major customers (with processing facilities in different regions) would be likely to have the capacity to shift production between regions in response to regional price increases."
+  }
+}

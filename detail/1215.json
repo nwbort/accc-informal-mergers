@@ -1,0 +1,43 @@
+{
+  "id": "1215",
+  "title": "AGL - proposed acquisition of Sun Retail",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/agl-proposed-acquisition-of-sun-retail",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "24911",
+  "industries": [
+    "Gas and electricity"
+  ],
+  "date_completed": "26 September 2006",
+  "date_completed_iso": "2006-09-26T12:00:00Z",
+  "date_commenced": "24 August 2006",
+  "date_commenced_iso": "2006-08-24T12:00:00Z",
+  "total_review_days": 24,
+  "acquirers": [
+    "AGL"
+  ],
+  "targets": [
+    "Sun Retail"
+  ],
+  "timeline": [
+    {
+      "date": "24 Aug 2006",
+      "date_iso": "2006-08-24T12:00:00Z",
+      "event": "ACCC commenced review under the Merger Review Process Guidelines. Market inquiries commence"
+    },
+    {
+      "date": "6 Sep 2006",
+      "date_iso": "2006-09-06T12:00:00Z",
+      "event": "Closing date for submissions from interested parties"
+    },
+    {
+      "date": "26 Sep 2006",
+      "date_iso": "2006-09-26T12:00:00Z",
+      "event": "ACCC decided not to oppose the proposed acquisition"
+    }
+  ],
+  "body_sections": {
+    "Summary": "AGL sought to acquire Sun Retail, which was being sold as part of tender process being conducted by the Queensland Government.",
+    "Competition analysis": "Gas and / or Electricity The acquisition would have resulted in AGL becoming the largest retailer of electricity in Australia.  Nevertheless, the ACCC considered that evidence of customer churn in energy retailing from other states and the presence of other retailers in the market were indicators that there would be likely to be sufficient competitive constraints acting on the merged entity. The ACCC also noted that the purchaser of another Queensland electricity retailer, PowerDirect, which was being sold after Sun Retail, was also likely to provide significant competition for the merged entity. As such, the ACCC considered it was unlikely that the proposed acquisition would have resulted in a substantial lessening of competition. LPG AGL proposed to acquire Sun Retail and then on-sell Sun Retail's LPG business to Elgas.  The ACCC conducted a separate analysis of Elgas' proposed acquisition of the LPG business and came to the conclusion that the proposed acquisition would not be likely to result in an SLC.  This analysis is available on the ACCC's Mergers website. Given that AGL only had a 50% interest in Elgas, AGL's proposed acquisition was even less likely to raise competition concerns than Elgas' proposed acquisition of Sun Retail's LPG business."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "1526",
+  "title": "Acquirer: Alcoa Inc; Target: Kaal Australia Pty Ltd",
+  "url": "https://www.accc.gov.au/public-registers/mergers-and-acquisitions-registers/public-informal-merger-reviews-register-2002-25/acquirer-alcoa-inc-target-kaal-australia-pty-ltd",
+  "status": "Completed",
+  "outcome": null,
+  "reference_number": "18266",
+  "industries": [],
+  "date_completed": "9 September 2003",
+  "date_completed_iso": "2003-09-09T12:00:00Z",
+  "date_commenced": "27 August 2003",
+  "date_commenced_iso": "2003-08-27T12:00:00Z",
+  "total_review_days": null,
+  "acquirers": [
+    "Alcoa Inc"
+  ],
+  "targets": [
+    "Kaal Australia Pty Ltd"
+  ],
+  "timeline": [],
+  "body_sections": {
+    "Summary": "Alcoa Inc is proposing a joint venture buy-out that will involve Alcoa increasing its stake in Kaal Australia from 50% to 100% by acquiring Kobe Steel's 50% stake.",
+    "Market definition": "The Commission did not consider the issue of market definition to be decisive because under any definition there was unlikely to be a substantial lessening of competition.  However, the following markets were considered: - the market for aluminium can stock; - the market for aluminium foil sheet; and - the market for aluminium general sheet.",
+    "Competition analysis": "The Commission considered it unlikely that the proposed acquisition would substantially lessen competition in any markets.  The Commission took into consideration the fact that the acquisition will not remove a market participant, as neither Alcoa Inc nor Kobe Steel market or sell Kaal Australia's aluminium products independently.",
+    "Merger type": "Shareholding",
+    "Guidelines thresholds": "Crossed",
+    "Imports above 10%": "Unknown",
+    "Initiation": "Parties",
+    "ANZSIC code": "2731"
+  }
+}
